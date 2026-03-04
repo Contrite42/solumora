@@ -1,0 +1,231 @@
+{
+  "nodes": [
+    {
+      "id": "wolfpoint",
+      "type": "file",
+      "file": "Wolfpoint.md",
+      "x": -420,
+      "y": -1740,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "mountains-label",
+      "type": "text",
+      "text": "Northern Mountains\ndry · sparse · cold · high",
+      "x": -780,
+      "y": -1550,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "greyveil",
+      "type": "file",
+      "file": "Greyveil.md",
+      "x": -270,
+      "y": -1200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "terr-label",
+      "type": "text",
+      "text": "TERRAVELLE",
+      "x": 200,
+      "y": -1050,
+      "width": 300,
+      "height": 70,
+      "color": "1"
+    },
+    {
+      "id": "terr-terrain",
+      "type": "text",
+      "text": "River valleys · grassland\ncoastal cliffs · forested upland\n(elevation rises northward)",
+      "x": 200,
+      "y": -950,
+      "width": 340,
+      "height": 100
+    },
+    {
+      "id": "valdenmoor",
+      "type": "file",
+      "file": "Valdenmoor.md",
+      "x": 0,
+      "y": -700,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "ashford",
+      "type": "file",
+      "file": "Ashford.md",
+      "x": 850,
+      "y": -650,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "north-territory",
+      "type": "text",
+      "text": "Northern Territory\n(contested coastal)",
+      "x": 1000,
+      "y": -950,
+      "width": 280,
+      "height": 80
+    },
+    {
+      "id": "east-sea-north",
+      "type": "text",
+      "text": "Eastern Sea",
+      "x": 1380,
+      "y": -700,
+      "width": 200,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "west-sea-north",
+      "type": "text",
+      "text": "Western Sea",
+      "x": -1400,
+      "y": -700,
+      "width": 200,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "halveth",
+      "type": "file",
+      "file": "Halveth.md",
+      "x": -120,
+      "y": 130,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "desert-label",
+      "type": "text",
+      "text": "Desert Zakros  ·  Equatorial  ·  Coast to Coast\n(low elevation · full-width crossing · weeks to traverse)",
+      "x": 150,
+      "y": 280,
+      "width": 520,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "ancient-ruins",
+      "type": "file",
+      "file": "Ancient Ruins.md",
+      "x": -380,
+      "y": 420,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "aur-label",
+      "type": "text",
+      "text": "AURALIS",
+      "x": 200,
+      "y": 750,
+      "width": 300,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "aur-terrain",
+      "type": "text",
+      "text": "Low basin · near sea level · warm · humid\nFlux-engineered terrain · dense settlement",
+      "x": 200,
+      "y": 840,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "solhaven",
+      "type": "file",
+      "file": "Solhaven.md",
+      "x": 250,
+      "y": 980,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "emberfall",
+      "type": "file",
+      "file": "Emberfall.md",
+      "x": 50,
+      "y": 1200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "hedun",
+      "type": "file",
+      "file": "Hedun.md",
+      "x": -980,
+      "y": 900,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "east-sea-south",
+      "type": "text",
+      "text": "Eastern Sea",
+      "x": 1380,
+      "y": 900,
+      "width": 200,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "west-sea-south",
+      "type": "text",
+      "text": "Western Sea",
+      "x": -1400,
+      "y": 900,
+      "width": 200,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "far-south",
+      "type": "text",
+      "text": "Far South\n(deep forest · extreme humidity · unexplored)",
+      "x": 50,
+      "y": 1500,
+      "width": 340,
+      "height": 80,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-halveth-valdenmoor",
+      "fromNode": "halveth",
+      "toNode": "valdenmoor",
+      "label": "Main Road · ~3 weeks"
+    },
+    {
+      "id": "e-valdenmoor-greyveil",
+      "fromNode": "valdenmoor",
+      "toNode": "greyveil",
+      "label": "Northern Road · ~2 weeks"
+    },
+    {
+      "id": "e-greyveil-wolfpoint",
+      "fromNode": "greyveil",
+      "toNode": "wolfpoint",
+      "label": "Mountain Approach · ~1 week (difficult)"
+    },
+    {
+      "id": "e-valdenmoor-ashford",
+      "fromNode": "valdenmoor",
+      "toNode": "ashford",
+      "label": "Eastern Road"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(test -f \"c:\\\\Users\\\\Contrite42\\\\Documents\\\\Obsidian Vault\\\\Equatorial Fauna.md\")"
+    ]
+  }
+}
