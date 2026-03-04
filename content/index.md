@@ -2,7 +2,7 @@ A practical introduction to [[Solumora]] for anyone coming to the vault for the 
 
 ## The World in Brief
 
-[[Solumora]] is a single supercontinent — the only known landmass in the world — home to nearly a quarter billion people. It runs north to south, wider at its equatorial middle and narrowing toward both ends, with coastlines on all sides.
+[[Solumora]] is a single supercontinent — thitse only known landmass in the world — home to nearly a quarter billion people. It runs north to south, wider at its equatorial middle and narrowing toward both ends, with coastlines on all sides.
 
 The continent divides into three zones by climate and elevation. In the south, [[Auralis]] occupies a warm, low basin — partially near or below sea level — that the kingdom has spent generations engineering with [[Flux]] practice to sustain dense urban settlement. At the equator, the [[Equatorial Desert]] runs the full width of the continent, weeks to cross, impossible to go around. In the north, the land rises as you travel: [[Terravelle]] occupies the temperate upland belt, wide river valleys and open grassland that feels horizontal and enormous after the south. The far north climbs into dry mountain country, and at its extreme, built into mountain rock above the settled world, [[Wolfpoint]] sits.
 
