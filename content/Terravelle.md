@@ -24,4 +24,4 @@ The kingdoms are not enemies. They are rivals who have not yet become enemies, m
 
 The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Dozens of smaller cities and towns fill the settled belt between them.
 
-*See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Rural Terravelle]]*
+*See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Rural Terravelle]], [[Adventurers]]*
