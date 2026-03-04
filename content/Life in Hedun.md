@@ -42,4 +42,4 @@ This is useful knowledge. It is also, in certain configurations, isolating. Hedu
 
 Most of them come back.
 
-*See also: [[Hedun]], [[Auralis]], [[Ordinary Life]], [[Control Tier]], [[Watts]], [[Flux Users]], [[Fennick]], [[Life in Solhaven]]*
+*See also: [[Hedun]], [[Auralis]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Watts]], [[Flux Users]], [[Fennick]], [[Life in Solhaven]]*
