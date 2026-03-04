@@ -3,7 +3,8 @@
     "allow": [
       "Bash(gh run list --limit 3)",
       "Bash(npm install)",
-      "Bash(npm install sass@1.97.3 sass-embedded@1.97.3)"
+      "Bash(npm install sass@1.97.3 sass-embedded@1.97.3)",
+      "Bash(ls -t content/*.md)"
     ]
   }
 }
