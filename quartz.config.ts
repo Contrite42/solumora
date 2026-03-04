@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "contrite42.github.io/solumora",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -36,7 +36,7 @@ const config: QuartzConfig = {
           dark: "#2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(46, 82, 104, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -80,9 +80,6 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-
-      // ✅ Interactive Graph Route: /graph
-      Plugin.GraphPage(),
 
       Plugin.ContentIndex({
         enableSiteMap: true,
