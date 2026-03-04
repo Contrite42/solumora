@@ -32,4 +32,4 @@ Wren's Binding range extends far enough south to give the village some warning. 
 
 [[Auralis]] expedition researchers who pass through Halveth and speak to Wren about rift conditions consistently report that she knows more than they do. None of them have successfully determined how.
 
-*See also: [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Flux]], [[Watts]], [[Birth Runes]], [[Rett Soln]], [[Equatorial Fauna]]*
+*See also: [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Flux]], [[Watts]], [[Birth Runes]], [[Rett Soln]], [[Equatorial Fauna]], [[Life in Halveth]]*
