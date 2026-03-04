@@ -30,4 +30,4 @@ The Path's temples are the ceremonial sites for every significant life event. Bi
 
 A dockworker in [[Solhaven]]'s harbor district who attends the tier certification ceremonies and believes, in some general way, that Flux mastery is spiritually significant is not living a spiritually examined life. She is participating in a culture. The culture happens to have strong opinions about where she ranks within it.
 
-*See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Life in Solhaven]], [[Life in Hedun]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]]*
+*See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]]*
