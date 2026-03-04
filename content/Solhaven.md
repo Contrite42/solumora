@@ -28,4 +28,4 @@ Low-tier casters in Solhaven are not persecuted. They are simply, quietly, at th
 
 [[Fennick]] has attended several significant Solhaven social events in the past decade, under different names, with his horns covered for exactly as long as it took to get past the door. He has found the Crestward gatherings specifically interesting. He has not yet noticed that two of the beings in the rooms are not human.
 
-*See also: [[Auralis]], [[Cassia]], [[Drest]], [[The Council of Auralis]], [[Geography]], [[Religion and Belief]], [[Hadren Cosse]], [[Fennick]], [[Selvane]], [[Mave]]*
+*See also: [[Auralis]], [[Cassia]], [[Drest]], [[The Council of Auralis]], [[Geography]], [[Religion and Belief]], [[Hadren Cosse]], [[Fennick]], [[Selvane]], [[Mave]], [[Life in Solhaven]], [[Ordinary Life]]*

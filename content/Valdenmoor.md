@@ -24,4 +24,4 @@ The Maren River runs through the center of the city and has been the reason for 
 
 The trade gala where [[Cael]] first saw [[Cassia]] was held in Valdenmoor's formal reception district, in the hall that handles diplomatic functions when the palace itself is considered too pointed a venue.
 
-*See also: [[Terravelle]], [[Eddan Voss]], [[Cael]], [[Solumora]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Fen Orel]]*
+*See also: [[Terravelle]], [[Eddan Voss]], [[Cael]], [[Solumora]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Fen Orel]], [[Life in Valdenmoor]], [[Ordinary Life]]*
