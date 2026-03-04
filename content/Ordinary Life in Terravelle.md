@@ -1,45 +1,33 @@
-[[Terravelle]] is not organized around aspiration. It is organized around reliability, which is a different project with different results and a different kind of person at the end of it. What ordinary life looks like here is less dramatic than the south and more functional than almost anywhere else, and most of the people living it consider this a reasonable trade.
+[[Terravelle]] does not promise advancement. It promises predictability, which is a different contract and one it generally keeps. The north is organized around a life that works — guild membership, reliable wages, the accumulated social trust of a neighborhood where people know your name. Aspiration exists but it is not the engine. Stability is.
+
+This suits most of the population. It suits fewer of them than Terravelle believes.
 
 ## Work and the Guild System
 
-The guild is the unit of professional life. Guilds set wages, training standards, and quality certification for every trade with enough membership to have collective standing, which is most of them. A skilled worker without guild affiliation can find work, but the steady contracts, the arbitration when something goes wrong, and the informal knowledge of which boarding houses are safe and which merchants pay late — these come with the membership.
+The guild is the organizing unit of working life. Every trade with enough practitioners to have collective standing has one — construction, textile work, food preparation, river transport, basic scribing, animal handling, and every category of maintenance a city requires to function. Guild membership is not legally required, but the steady contracts, the arbitration when something goes wrong, and the practical knowledge of which merchants pay late and which boarding houses are safe all sit inside the membership. A worker outside the guild can find work. They find the work that guild members did not want.
 
-Joining is not fast. Apprenticeship, journeyman years, a formal certification, a vote by the member body. The process takes most of a decade for a skilled trade. At the end of it you are inside a structure that will respond to your problems with practical help rather than sympathy. Terravelle culture considers this more valuable than sympathy and is often right.
+Joining takes years. Apprenticeship, journeyman work, a formal certification, a vote. At the end of it the new member is inside a structure that will respond to their problems with practical help. In Terravelle this is considered more valuable than sympathy. It is usually right about that.
 
-Day labor runs alongside guild work for everything that does not require certification: loading, clearing, construction support, seasonal agricultural work from the surrounding communities. Day workers gather at established markets in the early morning and are selected or not selected for the day. The pay covers food and shared accommodation. A reliable day worker who shows up consistently will eventually be known, and being known leads to steadier arrangements.
+Below the guilds, day labor fills the gap. Workers gather at established markets before dawn and are selected or not selected for the day. The pay covers food and shared accommodation with a small margin. A reliable day worker who shows up consistently will eventually be known, and being known leads to steadier arrangements.
 
-## Food
+## Food and Shelter
 
-Terravelle's river valleys produce wheat, barley, and river fish. The farming communities in the upland regions export grain toward the cities and the coast. The base diet — grain, legumes, preserved protein, root vegetables — is cheap and stable, kept that way by long economic habit and the calculation that instability at the bottom of society has costs the kingdom prefers to avoid.
+The river valleys produce wheat, barley, and river fish. Farming communities in the upland regions export grain toward the cities and the coast. The base diet — grain, legumes, root vegetables, preserved protein — is stable and cheap by long economic habit. The floor of Terravelle's food economy is low enough that consistent effort keeps most people fed. Fresh food is cheap near where it grows and expensive where it has to travel. Preserved food is the practical diet for most city dwellers most of the year.
 
-Fresh food is cheap near where it grows and expensive where it has to travel. Preserved food — salted, dried, [[Flux]]-sealed — is the practical diet for most city dwellers most of the year. A [[Flux Users|Formulist]] who specializes in preservation seals has permanent work anywhere there is a warehouse.
+Most city dwellers rent. Ownership is the aspiration of the successful working class and requires years of saving in a major city. Shared accommodation — a room in a boarding house, a floor in a work-gang's collective — is the first housing most people from smaller settlements experience. This is considered what you live through until you can do better. Most people eventually can.
 
-## Shelter
+## Control Tier in Daily Life
 
-Most city dwellers rent. Ownership is the aspiration of successful working-class households and requires years of saving in a major city. Outside cities, rural households typically own the structure they live in — construction labor is cheaper, material is available, and Terravelle's land tenure system favors established rural occupancy.
+Tier assessment happens between eight and twelve, at a guild hall or community meeting room. The result is recorded, filed, and largely treated as a vocational qualification rather than a statement about a person's worth. A T0 in Terravelle is redirected toward trades that do not require casting. A T4 certified in structural assessment earns more than a T1 doing the same inspection work. The difference is treated as a wage differential, not a marker of status.
 
-Shared accommodation — a room in a boarding house, a floor in a work-gang's collective — is the first housing most young adults from smaller settlements experience in the cities. This is considered what you live through until you can do better, which most people eventually can.
+What Terravelle does not do is the thing [[Auralis]] does: it does not read tier as a statement about who a person is. A T0 boarding house operator with good client relationships is a good Terravelle resident. A T5 who is unreliable and difficult in their dealings is a problem. The order of these evaluations is cultural and consistent.
 
-## Control Tier
-
-Tier assessment happens somewhere between eight and twelve, performed at a guild hall or community meeting room, witnessed by neighbors rather than clergy. For T0 through T2, it is a quiet formality. The work available to a T0 in Terravelle is not markedly worse than the work available to a T2 — most of the trades that sustain a city function on skill, consistency, and time, not casting capacity.
-
-For T3 and above, the assessment redirects toward apprenticeships at larger guild structures or scholarship institutions. The family is proud and slightly uncertain. High-tier casters frequently drift toward military service, adventuring work, or institutions in other cities. Terravelle does not have strong institutional gravity pulling T5+ toward staying, and this is not considered a loss.
-
-What Terravelle does not do is read tier as a statement about a person's worth. A T0 boarding house operator with good client relationships and a reliable business is a good Terravelle resident. A T6 who is unreliable and difficult is a problem. The order of these evaluations — practical competence before casting capacity — is cultural and consistent.
+High-tier casters frequently leave. The city has no strong gravity pulling T5 and above toward staying, and this is not experienced as a loss. It is experienced as what high-tier people often do.
 
 ## The Covenant of Measure
 
-The Covenant of Measure is Terravelle's closest thing to organized religion, and it is not very religious. It provides ceremonial structure for significant life events — [[Birth Runes|birth rune]] inscription happens in a guild hall or community room, witnessed by neighbors — and it frames [[Flux]] use as a craft to be understood and practiced reliably rather than a spiritual calling. The Covenant has no formal priesthood. It has practitioners who have thought longer about these questions than most people and who are consulted accordingly.
+The Covenant of Measure is Terravelle's closest thing to organized religion and it is not particularly religious. It provides ceremonial structure for significant life events — [[Birth Runes|birth rune]] inscription happens at a guild hall or community room, witnessed by neighbors rather than clergy — and frames [[Flux]] use as a craft to be understood and practiced reliably, not a spiritual calling to be pursued. The Covenant has no formal priesthood. It has practitioners who have thought longer about these questions than most people.
 
-Most Terravelle residents participate in Covenant ceremonies the way people participate in cultural habits: regularly, meaningfully at significant moments, and without extensive examination in between.
-
-## What Ordinary Success Looks Like
-
-A person who has done well in Terravelle, by middle age, owns or part-owns a trade. They have guild standing. They have been in the same neighborhood long enough that people know them. They eat reliably. Their children are apprenticed somewhere sensible. They have no debt they cannot manage.
-
-This is not exciting. Terravelle does not arrange itself around exciting. It arranges itself around a version of life that works, and roughly half the population is living some version of it at any given time, with the usual distribution of people for whom it is enough and people for whom it is not.
-
-The practical culture is good at addressing material problems and has a limited vocabulary for everything else. The grief that does not have a resolution, the ambition that cannot be expressed in guild terms, the person who does not fit the practical categories — these receive competent assistance aimed at the wrong problem, delivered kindly, and not adjusted when the kindness does not land. The people this does not work for tend to leave. Terravelle is not particularly troubled by this.
+Most Terravelle residents participate in Covenant ceremonies the way people participate in cultural habit: regularly, meaningfully at the significant moments, and without extensive examination in between. This is considered appropriate participation. More than that is considered a little much.
 
 *See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]]*
