@@ -1,4 +1,7 @@
-A practical introduction to [[Solumora]] for anyone coming to the vault for the first time. 
+---
+title: Welcome
+---
+A practical introduction to [[Solumora]] for anyone coming to the vault for the first time.
 
 ## The World in Brief
 
