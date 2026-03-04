@@ -20,4 +20,4 @@ Eddan considers Ashford one of the three non-negotiables of Terravellian securit
 
 The eastern situation has been developing in ways that Ashford's administrative reports do not fully capture, and Eddan knows this. He does not know the precise mechanism. He knows the shape of a problem that is being managed from a distance by someone patient, and he has not yet identified who.
 
-*See also: [[Terravelle]], [[Eddan Voss]], [[Valdenmoor]], [[Geography]], [[Watts]], [[Birth Runes]], [[Davan Rhyce]]*
+*See also: [[Terravelle]], [[Eddan Voss]], [[Valdenmoor]], [[Geography]], [[Watts]], [[Birth Runes]], [[Davan Rhyce]], [[Life in Ashford]]*

@@ -9,4 +9,4 @@ The texture of that life divides cleanly by kingdom. [[Terravelle]] and [[Aurali
 
 Across both kingdoms, the Watt economy runs on [[Birth Runes|birth rune]] registration and [[Watts|distributed ledger]] transactions. Tier assessment between ages eight and twelve is the first formal event that tells most children what category the world has decided they occupy. Basic food, rough shelter, and unskilled labor wages are cheap enough to survive on throughout [[Solumora]]. Everything above survival is where the two kingdoms diverge.
 
-*See also: [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]], [[Watts]], [[Birth Runes]], [[Control Tier]], [[Flux Users]], [[Terravelle]], [[Auralis]], [[Solhaven]], [[Valdenmoor]], [[Hedun]], [[Ashford]], [[Religion and Belief]]*
+*See also: [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]], [[Watts]], [[Birth Runes]], [[Control Tier]], [[Flux Users]], [[Terravelle]], [[Auralis]], [[Solhaven]], [[Valdenmoor]], [[Hedun]], [[Ashford]], [[Religion and Belief]], [[Life in Solhaven]], [[Life in Valdenmoor]], [[Life in Hedun]], [[Life in Ashford]]*
