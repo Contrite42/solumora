@@ -32,4 +32,4 @@ Scattered across Zakros — never clustered, never conveniently located — are 
 
 What the ruins do not show is any sign of where the people went. There is no record of migration, no evidence of conquest, no mass graves. The surface simply stops, as though whatever civilization lived here one day had somewhere else to be.
 
-*See also: [[Ancient Ruins]], [[Equatorial Fauna]], [[Flux Demons]], [[Rift Incursions]], [[Halveth]], [[Rett Soln]], [[Auralis]], [[Terravelle]], [[History of Solumora]]*
+*See also: [[Ancient Ruins]], [[Equatorial Fauna]], [[Flux Demons]], [[Rift Incursions]], [[Halveth]], [[Rett Soln]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[Avel Coss]], [[Ossen Drel]]*

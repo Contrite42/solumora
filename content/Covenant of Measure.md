@@ -36,4 +36,4 @@ The Covenant produces people who are suspicious of display, who trust demonstrat
 
 The contrast with the Ascendant Path is clean and deliberate. The Path says your tier represents where you are on a spiritual journey toward perfection. The Covenant says your tier is the level at which you can cast, and what matters is whether you use it well. One framework creates hierarchy. The other does not, and from the Covenant's perspective, the one that creates hierarchy has misunderstood what Flux is for.
 
-*See also: [[Terravelle]], [[Flux]], [[Flux Users]], [[Birth Runes]], [[Sigils]], [[Ordinary Life in Terravelle]], [[Religion and Belief]], [[Ascendant Path]], [[Valdenmoor]], [[Wolfpoint]]*
+*See also: [[Terravelle]], [[Flux]], [[Flux Users]], [[Birth Runes]], [[Sigils]], [[Ordinary Life in Terravelle]], [[Religion and Belief]], [[Ascendant Path]], [[Valdenmoor]], [[Wolfpoint]], [[Bren Ossve]], [[Reth Caln]]*

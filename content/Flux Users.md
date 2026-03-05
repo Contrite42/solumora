@@ -22,4 +22,4 @@ A Scholar is anyone whose primary pursuit is the creation and development of new
 
 Conduits exist beyond the kingdom classification system. The standard [[Control Tier]] scale was not built to contain them — at the apex of exponential [[Flux]] scaling, the difference between a Tier 8 and a Tier 9 caster is not a step, it is a gulf. With only approximately 500 in all of [[Solumora]], most people will live and die without ever encountering one. They are not unregistered out of rebellion or secrecy — the system simply has no honest way to rate them. Conduits tend toward isolation, not by law but by the quiet reality that operating at their level in a civilized setting is considered deeply antisocial at best, and catastrophic at worst.
 
-*See also: [[Flux]], [[Control Tier]], [[Grimoires]], [[Sigils]], [[Spells]]*
+*See also: [[Flux]], [[Control Tier]], [[Grimoires]], [[Sigils]], [[Spells]], [[Flux Medicine]], [[Trade Guilds]]*
