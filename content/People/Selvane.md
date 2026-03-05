@@ -1,0 +1,15 @@
+
+
+## Daily Existence
+
+Selvane operates as a senior Flux infrastructure consultant in [[Solhaven]], specializing in the complex sigil networks that maintain the city's tiered architecture and water management systems. The role provides both the prominence necessary for [[The Council of Auralis|Council]]-adjacent social positioning and the technical legitimacy that explains their presence at high-level planning discussions. Their consultation work focuses on long-term infrastructure stability—projects that span decades and require the kind of institutional memory that Selvane appears to possess naturally.
+
+Their visible behavior patterns maintain careful consistency in small ways that most people interpret as professional meticulousness. Selvane arrives at appointments precisely on time, maintains the same daily routines across seasons, and demonstrates an unusual recall for technical specifications from projects completed years earlier. These qualities read as exceptional competence rather than inhuman consistency, though [[Essa Rolt]], their household manager, has begun to notice the degree to which Selvane's habits never vary.
+
+Essa has observed that Selvane eats rarely and in very small amounts, typically consuming only a few bites at social meals before pushing food around their plate in a convincing simulation of normal appetite. They do not appear to sleep on any schedule Essa can identify—she has never encountered them in nightclothes, never found evidence of a disturbed bed, never seen them exhibit the fatigue that should accompany their demanding work schedule. When asked about family or background, Selvane provides answers that are technically responsive but reveal no specific relationships or verifiable personal history.
+
+Most unsettling to Essa is Selvane's tendency to reference events from thirty years ago with the specificity of someone who was present for them. They speak casually about infrastructure decisions made before Essa was born, describing the reasoning behind particular design choices and the personalities of long-dead engineers with an immediacy that suggests direct experience rather than historical study. When Essa has attempted to follow up on these references, she has found that the details Selvane provides are accurate but not documented in any accessible records.
+
+The one moment that came closest to direct confrontation occurred during a Council reception when Councilor [[Maren Sollis]] began asking Selvane about their family connections to early Solhaven development projects. The questions were becoming specific enough to require answers that Selvane could not provide when [[Drest]] intervened, redirecting the conversation toward current infrastructure needs with the smooth authority of someone accustomed to managing social situations. Whether this intervention was coincidental or deliberate, Essa could not determine, but she noticed that Selvane avoided Maren Sollis for the remainder of the evening.
+
+*See also: [[Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Essa Rolt]], [[High Demons]], [[Flux]], [[Drest]], [[Maren Sollis]], [[Sigils]], [[Infrastructure]], [[Mave]]*
