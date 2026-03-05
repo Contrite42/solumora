@@ -1,0 +1,97 @@
+===WRITE: content/Places/Emberfall.md===
+Emberfall is [[Auralis]]'s most secretive research facility, built into a natural cave system in the hills forty miles northeast of [[Solhaven]]. Officially, it studies advanced [[Sigils|sigil]] applications and ancient inscription analysis. Unofficially, it is where [[Castor Helme]]'s obsession with immortality has been given institutional form and twenty years of funding.
+
+The facility exists because [[Drest]] and Castor discovered, early in their council alliance, that they both wanted the same research conducted for different reasons. Drest seeks the ancient civilization's knowledge as the key to transcending natural decline. Castor wants that knowledge as the mechanism for extending human life indefinitely. The research agenda serves both goals, and neither has been required to admit the distinction to the other.
+
+## The Facility
+
+Emberfall occupies a network of natural caves that have been expanded and reinforced with structural [[Flux]] work. The entrance is a single reinforced door built into what appears to be a maintenance shed for the nearby mining operation. The actual facility extends three levels down into the hillside, with the most sensitive work conducted in the deepest chambers where ambient [[Flux]] interference is minimal and acoustic isolation is complete.
+
+The facility houses approximately thirty researchers at any given time — [[Flux Users|Scholars]], inscription specialists, a small number of T6 and T7 casters capable of testing theoretical applications safely. Most of them believe they are working on general advancement of Auralis's magical capabilities. A core group of eight knows they are working specifically on life extension. Three of them know they are working on immortality.
+
+The director is [[Yara Venn]], a T6 caster with expertise in Soul discipline applications and no particular loyalty to either [[The Council of Auralis|council]] faction. She was selected for competence rather than politics, which has proven to be both an asset and a limitation — she produces results, but she asks questions about resource allocation that make both Drest and Castor uncomfortable.
+
+## The Research
+
+Emberfall's primary focus is reverse-engineering the [[Ancient Ruins|ancient civilization's]] [[Spell Variables|sigil]] system. The inscriptions recovered from [[Equatorial Desert|desert]] expeditions encode interactions that the current Scholar framework cannot describe — variables that do not fit the established categories, geometric relationships that produce effects beyond the documented tier ceiling, and most significantly, applications that appear to interact with the soul-signature layer in ways that current Soul discipline cannot replicate.
+
+The working theory, developed over fifteen years of analysis, is that the ancients discovered or developed a method for permanently reinforcing a person's soul signature against natural degradation. Current Soul discipline can read, mark, and temporarily manipulate soul signatures. It cannot strengthen them. The ancient inscriptions suggest this limitation was not universal.
+
+The immortality sigil — the theoretical application that would lock a soul signature into a stable configuration indefinitely — has been Emberfall's ultimate goal since the facility's founding. Progress has been incremental but consistent. The researchers have successfully created sigils that extend the natural lifespan of small animals by significant percentages. They have developed applications that can slow the aging process in human subjects for periods of months. They have not yet achieved the permanent lock that would constitute true immortality, but the theoretical framework is increasingly solid.
+
+## The Test Subjects
+
+Emberfall's human testing program is not advertised in its official documentation. The subjects are volunteers — residents of [[Solhaven]]'s harbor district who have been offered significant payment in exchange for participation in "advanced medical sigil research." The consent process is thorough. The risks are explained honestly. The mortality rate is approximately fifteen percent, which the subjects are told and which most of them consider acceptable given the compensation.
+
+[[Castor Helme]] reviews the testing reports personally. He has never visited the facility — the connection would be too visible — but he receives detailed documentation of every experiment, every success, every failure. The current test subjects include a T2 dockworker who has been receiving life extension treatments for eight months and shows no signs of aging, a T0 warehouse worker whose cellular regeneration has been accelerated to the point where minor injuries heal within hours, and a T1 fish trader who volunteered for the program after being diagnosed with a terminal illness and is now, six months later, in better health than she has been in years.
+
+The failures are less documented but equally informative. Emberfall has lost subjects to soul signature collapse, to cellular regeneration that became uncontrolled growth, to applications that successfully locked the soul signature but rendered the subject catatonic. Each failure refines the theoretical framework. Each success brings the immortality sigil closer to practical reality.
+
+## Security and Secrecy
+
+Access to Emberfall is restricted to essential personnel and council members with specific authorization. [[Cassia]] is not aware the facility exists. Most council members know it as a general research installation. The true scope of its work is known only to Drest, Castor, and the facility's core research team.
+
+The security is not primarily physical — the location is remote but not heavily fortified. The security is informational. Research documentation is compartmentalized. Test subjects are recruited through intermediaries who do not know the facility's location. Results are reported through channels that do not connect directly to council records. The facility operates as a black project within Auralis's official research structure, funded through discretionary allocations that do not require detailed justification.
+
+This approach has been successful for twenty years, but it has also created vulnerabilities. The facility's existence is known to enough people that complete secrecy is no longer possible. What remains is the hope that the people who know will continue to find the arrangement beneficial enough to maintain it.
+
+## Current Status
+
+Emberfall is closer to a breakthrough than it has ever been. The latest round of testing has produced a sigil configuration that successfully extends human lifespan without apparent negative side effects. The application is not yet permanent — it requires renewal every few months — but the mechanism is sound. The researchers estimate that a truly permanent version is perhaps two years away from practical testing.
+
+[[Castor Helme]] is fifty-seven years old. He is aware of the timeline. He is also aware that the facility's secrecy becomes more fragile with each passing year, and that political changes in the council could threaten the project before it reaches completion. His recent increase in Expansion Faction activity — the pressure on [[Terravelle]], the push for territorial consolidation — is partly motivated by the need to secure resources and political stability long enough for Emberfall to deliver what he has spent two decades working toward.
+
+The immortality sigil is no longer a theoretical possibility. It is an engineering problem with a visible solution. Whether that solution arrives in time is the question that structures every decision Castor makes.
+
+*See also: [[Castor Helme]], [[Drest]], [[The Council of Auralis]], [[Ancient Ruins]], [[Yara Venn]], [[Soul]], [[Sigils]], [[Auralis]], [[Solhaven]], [[Equatorial Desert]], [[Control Tier]], [[Flux Users]]*
+===END===
+
+===WRITE: content/People/Lenne Sosk.md===
+Lenne Sosk has worked the [[Solhaven]] docks for eleven years, loading and unloading cargo ships with the particular efficiency of someone who understands that efficiency is the only thing standing between her and replacement. She is twenty-nine years old, assessed at T0, and has never lived more than four streets inland from the harbor. This is not a failure of ambition. This is an accurate understanding of what [[Auralis]] offers to people like her.
+
+## Background
+
+Lenne arrived in Solhaven at eighteen from a farming settlement in southern Auralis that had been consolidated out of existence by three consecutive seasons of poor yields and the [[Expansion Faction]]'s agricultural reorganization policies. The choice was relocation to a designated settlement or migration to the cities. She chose the city because she had heard that dock work paid better than farm work, which turned out to be true in the narrow sense that it paid in [[Watts]] rather than in the hope that this year's harvest would be sufficient.
+
+She learned the harbor district quickly. Which boarding houses were clean and which were cheap. Which work crews treated their temporary hires fairly and which ones didn't. Which taverns served food that would sustain a person through a twelve-hour shift and which ones served food that would make the shift harder. The learning curve was steep, but it was learnable, and by her second year she had found a rhythm that worked.
+
+## Work and Tier
+
+Lenne's T0 assessment means she has no practical [[Flux]] capacity. She cannot activate [[Sigils]], cannot contribute to the thermal regulation work that keeps the harbor district's warehouses from freezing in winter, cannot participate in the detection work that identifies damaged cargo before it reaches the customer. What she can do is lift, carry, organize, and remember — the physical and mental labor that keeps the docks functional while the higher-tier workers handle the applications that require channeling.
+
+This division of labor is not resented in the harbor district. It is simply acknowledged. The T2 and T3 workers who handle sigil activation earn more, work shorter hours, and have access to advancement opportunities that T0 workers do not. The T0 workers handle the bulk of the physical labor, work longer hours, and have job security that the higher-tier workers do not — there are always more T2 casters available than there are T0 workers willing to do the lifting.
+
+Lenne is good at the work she does. She can organize a cargo hold more efficiently than most of her colleagues. She can identify damaged goods by sight and sound in ways that save time on the formal inspection process. She knows which ships' crews tip well and which ones don't, which captains are reliable about departure schedules and which ones aren't, which cargo requires special handling and which can be moved quickly. This knowledge has value, and over eleven years she has translated it into steady employment and a reputation that keeps her working when temporary hires are let go.
+
+## Daily Life
+
+Lenne lives in a boarding house three streets inland from the waterfront — a single room with a narrow bed, a chest for her possessions, and a window that faces the building across the alley. The room costs her approximately forty percent of her wages. Food costs another thirty percent. The remainder covers clothing, occasional medical care, and the small luxuries that make the work sustainable — a drink at the tavern after a difficult shift, a better meal on rest days, the occasional purchase of something that is not strictly necessary but makes the room feel less temporary.
+
+She wakes before dawn and walks to the docks in the company of other early-shift workers. The work begins when the first ships arrive and continues until the last cargo is moved, which can be eight hours or sixteen depending on the day's shipping. The work is physical, repetitive, and occasionally dangerous — cargo shifts, ropes snap, people make mistakes when they are tired. Lenne has been injured twice in eleven years, both times minor, both times healed without lasting consequence.
+
+After work, she usually eats at one of the harbor district taverns — not for the social atmosphere, though that exists, but because cooking in the boarding house requires equipment she does not have and time she often does not have. The taverns serve food designed for people who need calories and protein after physical labor. It is not sophisticated. It is sufficient.
+
+## Community and Isolation
+
+The harbor district has its own social structure, separate from the city's broader [[Control Tier|tier]] hierarchy. Competence matters more than assessment. Reliability matters more than potential. A person who shows up consistently, works efficiently, and can be counted on during the difficult shifts earns respect regardless of their channeling capacity.
+
+Lenne has friends among the dock workers — people she eats with, drinks with, shares information about work opportunities and housing availability. The relationships are practical and genuine. They are also bounded by the understanding that everyone is competing for the same limited resources, and that loyalty has limits when survival is at stake.
+
+She has no romantic relationships, which is a deliberate choice rather than circumstance. The harbor district's social dynamics make long-term partnerships difficult for people whose economic situation is precarious. A relationship requires time, attention, and resources that are already stretched. Lenne has decided that the trade-offs are not worth it, at least not yet.
+
+## Perspective on the City
+
+Lenne understands [[Solhaven]]'s hierarchy clearly and personally. She sees the middle terrace residents when they come to the harbor on business — better clothing, cleaner hands, the particular confidence of people who do not worry about next month's rent. She sees the Crestward residents almost never, except at a distance during the city's formal celebrations.
+
+She does not resent this arrangement exactly. She understands it as a fact about the world, like weather or the tides. What she resents is the pretense that the arrangement is based on merit rather than assessment, that the T0 workers in the harbor district are there because they lack ambition rather than because they lack channeling capacity.
+
+The [[Ascendant Path]] temple in the harbor district offers services she uses — the medical care, occasionally the food distribution — but she finds the theology irrelevant to her situation. The idea that [[Flux]] mastery represents spiritual advancement is difficult to take seriously when you have spent eleven years watching T3 casters make mistakes that T0 workers have to fix.
+
+## What Lenne Wants
+
+Lenne wants security more than advancement. She wants to know that she will have work next month, that her room will remain available, that an injury or illness will not destroy the stability she has built over eleven years. She wants the city's hierarchy to acknowledge that the work she does is necessary rather than treating it as the default occupation for people who cannot do anything else.
+
+She does not expect these things to change. She has structured her life around the assumption that they will not. But the wanting remains, and it shapes how she responds to the city's politics, its celebrations, its promises about opportunity and advancement. She listens to the speeches from the middle terraces with the particular skepticism of someone who knows exactly where she stands in the system being described.
+
+*See also: [[Life in Solhaven]], [[Solhaven]], [[Auralis]], [[Control Tier]], [[Ordinary Life in Auralis]], [[Expansion Faction]], [[Ascendant Path]], [[Flux Users]], [[Harbor District]], [[Watts]], [[Oryen Veld]], [[Neven Cors]], [[Tev Ols]]*
+===END===
