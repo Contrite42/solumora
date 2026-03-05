@@ -32,8 +32,6 @@ Scattered across Zakros — never clustered, never conveniently located — are 
 
 What the ruins do not show is any sign of where the people went. There is no record of migration, no evidence of conquest, no mass graves. The surface simply stops, as though whatever civilization lived here one day had somewhere else to be.
 
-*See also: [[Ancient Ruins]], [[Equatorial Fauna]], [[Flux Demons]], [[Rift Incursions]], [[Halveth]], [[Rett Soln]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[Avel Coss]], [[Ossen Drel]], [[Celn Vard]]*
-
 ## The Desert Edge
 
 [[Halveth]] exists because the desert requires a staging point and people are willing to profit from necessity. The settlement sits at the practical limit of where supplies can be maintained year-round, close enough to the crossing routes to be useful, far enough from the worst conditions to be survivable. It functions as the last reliable supply point for anyone attempting the crossing, and the entire local economy has organized itself around that fact.

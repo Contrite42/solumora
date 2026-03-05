@@ -64,7 +64,7 @@ Blocked tasks are marked with their dependency.
 
 ## IMMEDIATE (no decisions needed)
 
-- [ ] **TASK-01** — Write `content/Equatorial Desert.md` expansion
+- [x] **TASK-01** — Write `content/Equatorial Desert.md` expansion
   The existing page is a stub. Write it as a full lore page: what the desert actually feels like, why Halveth exists, what Rift Incursions look like in practice, what the ruins in the desert mean. Dense, sensory, no purple prose. Outbound links: Halveth, Rift Incursions, Flux Demons, Ancient Ruins, Emberfall, Auralis, Terravelle, Ascendant Path, High Demons.
 
 - [ ] **TASK-02** — Update backlinks for pipeline-generated characters (Veld Dorv, Life in Emberfall, and others from current run)
@@ -73,7 +73,7 @@ Blocked tasks are marked with their dependency.
 - [ ] **TASK-07** — Write `content/Davan Rhyce.md` gap check
   Davan Rhyce is listed in content/ but not in WORLD_STATE.md's character list. Read the existing page and verify it's canon-consistent. Add to WORLD_STATE.md if missing.
 
-- [ ] **TASK-08** — Write `content/Life in Halveth.md` expansion
+- [x] **TASK-08** — Write `content/Life in Halveth.md` expansion
   Halveth is defined primarily by its garrison and desert proximity. The existing "Life in Halveth" page needs Wren's presence woven in (unnamed, as texture), and the reality of desert-edge life expanded. Reference Selt Orvn and Vorn Teld (Rift Incursion survivor).
 
 ---
@@ -138,3 +138,4 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | DECISIONS | All 4 resolved | D1: Both A+D. D2: Mave orbits Selvane socially. D3: Option C academic cover. D4: Option C Hedun. |
 | 2026-03-05 | TASK.md | Written | Fix pipeline failures + 4 unblocked narrative tasks. Ready to run. |
 | 2026-03-05 | Pipeline run | All 4 batches approved | TASK-03/04/05/06 + FIX-1c complete. Ostal Mrev duplicate cleaned. |
+| 2026-03-05 | Pipeline run | TASK-01 + TASK-08 complete | Equatorial Desert expanded (Desert Edge + Rift Encounters). Life in Halveth: Selt Orvn + Vorn Teld in body. Duplicate See Also and misplaced paragraphs fixed manually. |
