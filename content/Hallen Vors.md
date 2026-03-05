@@ -1,0 +1,9 @@
+**Hallen Vors** is forty years old and farms a mid-sized holding in the agricultural belt of [[Auralis]], two days south of [[Solhaven]]. [[Control Tier|T3]]. He assessed at eleven with the result that in Auralis means the [[Ascendant Path]] takes an interest: the advancement track registration, the scholarship notifications, the initial contact from a senior Luminant's office that arrived within a month of his result. He reviewed the scholarship offers at fourteen and declined them. He has farmed his family's land since eighteen.
+
+The Path has continued to be in contact at intervals. Not persistently — the Path understands that sustained pressure produces resentment and resentment produces people who speak critically about the Path in public — but consistently enough that Hallen knows the mechanism is still running. The most recent contact was two years ago: a junior Luminant visiting the agricultural district on circuit, who made a point of sitting with him at the seasonal ceremony and asking how the holding was going. He answered honestly. The Luminant made notes. Hallen does not know what the notes said.
+
+His T3 casting is used for soil conditioning and weather assessment — agricultural applications that in Auralis are common enough to be unremarkable at T3 and that here, in a small farming community, make him the person the neighbors consult before the planting season. He finds this satisfying in a way he has never needed to articulate because no one has asked him to.
+
+The decision to stay was not a rejection of what Solhaven or Path service might have offered. It was a recognition that the question of what he wanted had a clear answer and that the answer was here. He has found, over twenty-two years, that this clarity is rarer than it looks from outside.
+
+*See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Solhaven]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]*

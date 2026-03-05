@@ -1,0 +1,9 @@
+**Osten Reld** is thirty-one years old and works in commercial documentation at a mid-sized Auralis trading house in [[Solhaven]]. [[Control Tier|T2]]. His official work is the same as a dozen other documentation specialists in the city — verifying cargo manifests, maintaining ledger records, producing the paperwork that trade requires. His unofficial work, which has been his unofficial work for three years, is different.
+
+He was approached by an intermediary who introduced him to a set of requests that were not formally connected to any institution. The requests were specific: particular documentation, particular shipping route information, particular records of which Council-adjacent interests had filed which cargo manifests on which dates. He was paid well. He asked, once, who the information was for. The intermediary told him it was for people who wanted [[Auralis]] to pursue its interests more aggressively than the current Council direction allowed. This was the complete answer he received.
+
+He thinks about this answer more than he thought he would when he agreed to the arrangement. The Expansion faction — if that is what it is, and he is not certain — is not illegal in the sense that working for it would create direct legal exposure for him. It occupies the grey space of political activity that Auralis law does not prohibit but also does not sanction. Whether being useful to it makes him responsible for what it does with the information is a question he has settled, tentatively, in a direction he finds comfortable enough to continue.
+
+He is good at finding information without appearing to look for it. He has always been good at this. He is less clear on whether this is a skill he developed or something that was developed by the situation he is in.
+
+*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Auralis]]*

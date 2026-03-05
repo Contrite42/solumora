@@ -62,4 +62,4 @@ A person assessed at high tier grows up knowing they are responsible to their co
 
 The villages themselves are caught between two possibilities: that advancement will lift their communities toward genuine improvement, or that the constant diversion of resources toward untested technologies will eventually create a crisis. This uncertainty shapes how the communities function, the choices people make, and the kind of culture they develop. Hope and instability are not contradictory here — they are the same thing, viewed from different angles.
 
-*See also: [[Auralis]], [[Ascendant Path]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Solhaven]], [[Geography]], [[Maret Doss]], [[Prenn Aldv]]*
+*See also: [[Auralis]], [[Ascendant Path]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Solhaven]], [[Geography]], [[Maret Doss]], [[Prenn Aldv]], [[Hallen Vors]]*

@@ -1,0 +1,9 @@
+**Ressa Dolt** is thirty-eight years old and works as a [[Birth Runes|Birth Rune]] inscriber at an [[Ascendant Path]] administrative chapter in [[Solhaven]]'s middle terraces. [[Control Tier|T2]]. She was trained in the inscription craft at twenty-two, certified through the Path's internal accreditation process at twenty-five, and has been inscribing runes since: attending births across the chapter's district, performing the inscription within the required window, recording the registration, filing the documentation with both the Path's chapter records and [[Auralis]]'s civic registry.
+
+She inscribes approximately two hundred runes per year. She has inscribed over two thousand in her career. Each one is permanent, tied to the individual in a way that cannot be transferred or altered, and connects the individual to the [[Watts]] ledger for their lifetime. This is the foundational administrative act of Auralis citizenship and she performs it with the competence of someone for whom foundational administrative acts are the work.
+
+She does not think often about the metaphysical claims the [[Ascendant Path]] makes about Birth Runes — the doctrine of connection to the Path of ascendance, the theology of the Flux-bond as spiritual as well as practical. She is aware of these claims. She is a member of the Path in the same way she is a citizen of Auralis: because she was born into it, because it structures the world she operates in, and because she has not found a compelling reason to organize her life around questioning its foundations.
+
+What she thinks about: the quality of the inscription work. A rune inscribed incorrectly can create documentation problems for the individual for decades. She has never inscribed one incorrectly. She expects to maintain this.
+
+*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]*

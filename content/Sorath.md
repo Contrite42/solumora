@@ -32,4 +32,4 @@ He is aware that [[Fennick]] exists and finds him exhausting. He is aware that [
 
 The one thing that has come close to interesting him in recent decades is the increased rift activity near the [[Equatorial Desert|desert]] sites. Not the demons coming through — he has seen that before, across multiple periods of elevated activity — but the quality of the Flux anomalies at the [[Ancient Ruins|ruin sites]] themselves. Something about them has changed. He has not investigated. He has noted it, filed it in the long mental record he keeps of things that might eventually matter, and kept walking.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]]*
+*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]]*

@@ -36,4 +36,4 @@ A child who grows up in the middle terraces and is assessed at T4 or T5 will und
 
 The children who do not fit either framework — the T5 assessed in the harbor district, the T0 born into a middle-terrace family — carry something heavier than ambition or acceptance. They carry the sense that the city's system has made an error about them specifically, and this is correct, and the city will not adjust.
 
-*See also: [[Solhaven]], [[Auralis]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Users]], [[Cassia]], [[Fennick]], [[Selvane]], [[Mave]], [[Lenne Sosk]], [[Oryen Veld]], [[Neven Cors]], [[Tev Ols]], [[Miren Thask]], [[Vessa Oln]]*
+*See also: [[Solhaven]], [[Auralis]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Users]], [[Cassia]], [[Fennick]], [[Selvane]], [[Mave]], [[Lenne Sosk]], [[Oryen Veld]], [[Neven Cors]], [[Tev Ols]], [[Miren Thask]], [[Vessa Oln]], [[Vend Aln]], [[Osten Reld]], [[Ren Valdh]], [[Ressa Dolt]]*

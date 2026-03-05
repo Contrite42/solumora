@@ -40,4 +40,4 @@ In [[Auralis]], the absence of a birth rune carries social weight that goes beyo
 
 The people [[Mave]] has replaced are registered. Their ledgers continue to transact normally. The Flux signature on their rune, which should be unique to them, is now Mave's. This is the one known mechanism by which the birth rune system can be compromised, and no one in either kingdom is aware it is possible.
 
-*See also: [[Flux]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Watts]], [[Sigils]], [[Religion and Belief]], [[Tier Assessment]], [[Mave]], [[Ordinary Life]]*
+*See also: [[Flux]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Watts]], [[Sigils]], [[Religion and Belief]], [[Tier Assessment]], [[Mave]], [[Ordinary Life]], [[Ressa Dolt]]*

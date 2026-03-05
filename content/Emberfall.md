@@ -54,4 +54,4 @@ It also produces breakthroughs. The obsession, combined with resources and commu
 
 A person choosing to go to [[Emberfall]] is choosing a life where one thing becomes everything. This is a difficult choice, and [[Emberfall]] attracts people for whom the choice was already made before they arrived. They are people for whom the obsession is not a career commitment but a necessity of their nature.
 
-*See also: [[Auralis]], [[The Council of Auralis]], [[Drest]], [[Castor Helme]], [[Flux Users]], [[Grimoires]], [[Sigils]], [[Flux]], [[Adventurers]], [[Discipline]], [[Tessel Dran]]*
+*See also: [[Auralis]], [[The Council of Auralis]], [[Drest]], [[Castor Helme]], [[Flux Users]], [[Grimoires]], [[Sigils]], [[Flux]], [[Adventurers]], [[Discipline]], [[Tessel Dran]], [[Erra Dossn]]*

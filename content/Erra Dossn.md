@@ -1,0 +1,9 @@
+**Erra Dossn** is thirty-five years old and runs a provisions stall at [[Emberfall]]'s central market. [[Control Tier|T2]]. She was born in Emberfall, assessed at ten, and has spent her adult life in the city's non-academic economy — the market traders, repair shops, and service workers who make an academic city function and who are, in most academic cities, structurally invisible to the people they serve.
+
+Emberfall's scholars are her customers. She knows which of them eat regularly and which forget when they are in the middle of something, what the seasonal patterns are in which departments have money and which do not, and which of the people who present as important actually are. She has been watching this for fifteen years and has developed a working model of the Reach Academy that is entirely practical and almost entirely accurate.
+
+The [[Flux]] research environment creates specific market conditions she has adapted to: a high demand for preserved foods from scholars preparing for extended fieldwork, a spike in basic provisions sales when the Academy's funding cycles release new grants, and a particular subcategory of customers who arrive from elsewhere and have no idea what anything costs in Emberfall. She prices accordingly — not dishonestly, but with a complete understanding that what something is worth to a customer depends on what they know.
+
+[[Tessel Dran]] buys from her stall before extended research trips. She has noticed, over several years, that the items Tessel requests before trips have gotten more specific and that the quantities suggest longer durations. She has not mentioned this observation. It is not her business. She adjusts her stock in advance accordingly.
+
+*See also: [[Emberfall]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]], [[Tessel Dran]]*

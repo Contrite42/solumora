@@ -8,4 +8,4 @@ She has submitted versions of this argument to the Academy's review committee th
 
 She keeps research notes that are considerably more direct than anything she has submitted formally.
 
-*See also: [[Emberfall]], [[Ancient Ruins]], [[Flux Users]], [[The Advancement Corps]], [[Control Tier]], [[Tessel Dran's Research Notes]]*
+*See also: [[Emberfall]], [[Ancient Ruins]], [[Flux Users]], [[The Advancement Corps]], [[Control Tier]], [[Tessel Dran's Research Notes]], [[Erra Dossn]]*
