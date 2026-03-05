@@ -1,0 +1,11 @@
+
+
+## Daily Existence
+
+Wren's visible role at Halveth is as a supply depot coordinator — the person who manages the flow of materials between the village's warehouses and the expedition groups staging for desert crossings. It is work that requires consistent presence without a clear career ceiling, and no one questions why someone would stay in such a position for decades. The job suits the settlement's needs and Wren's apparent temperament.
+
+The eighteen-year relationship with [[Selt Orvn]] represents the most sustained personal connection Wren maintains in Halveth. What this looks like in practice is regular evening meals at the Crosswind Inn, shared responsibility for managing difficult expedition clients, and the kind of operational coordination that develops between two people who have watched the same seasonal rhythms for nearly two decades. Selt has noticed that Wren never quite changes — the same energy, the same physical capability, the same way of moving through the village that suggests someone in their forties rather than someone approaching sixty. Selt has not yet asked directly about this observation.
+
+The desert proximity means something specific to Wren that it does not mean to other Halveth residents. While others avoid the eastern approaches after dark, Wren walks the perimeter road regularly, often past midnight, in all seasons. This behavior is visible to anyone paying attention but is not questioned — Wren's knowledge of rift conditions is valuable to the village, and the assumption is that this knowledge requires direct observation. What the village does not see is how far past the perimeter Wren actually goes, or what she does at the boundary markers where the road meets the true desert edge.
+
+One person who started asking questions about Wren's nighttime activities was Jorik Mast, a supply trader who spent three seasons in Halveth and noticed patterns in Wren's schedule that seemed inconsistent with her stated work. Jorik began documenting these observations and mentioned them to other traders. He left Halveth at the end of his third season to pursue opportunities elsewhere and has not returned to ask more questions. His departure was unremarkable — traders move on regularly — but the timing coincided with his increased attention to Wren's movements in ways that other residents noted without comment.
