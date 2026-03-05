@@ -44,4 +44,4 @@ Some [[Auralis]] adventurers develop a kind of detachment toward risk — both t
 
 The two paths produce different kinds of people. [[Terravelle]] adventurers tend toward optimism and practical wisdom. [[Auralis]] adventurers tend toward capability and moral complexity. Neither type is wrong. Both are doing what they understand to be good. The difference is which institution has the power to define what "good" means.
 
-*See also: [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[Ancient Ruins]], [[Flux]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Demons]], [[Rift Incursions]], [[Toven Ral]], [[Renne Osl]], [[Avel Coss]]*
+*See also: [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[The Advancement Corps]], [[Ancient Ruins]], [[Flux]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Demons]], [[Rift Incursions]], [[Toven Ral]], [[Renne Osl]], [[Avel Coss]]*

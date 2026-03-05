@@ -34,5 +34,5 @@ The attrition rate for Auralis expeditions is high. Approximately one in three d
 
 [[Drest]] funds expeditions beyond the official council budget. The Reach Academy in [[Emberfall]] trains expedition members. The work continues.
 
-*See also: [[Equatorial Desert]], [[The Council of Auralis]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]]*
+*See also: [[Equatorial Desert]], [[The Council of Auralis]], [[The Advancement Corps]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]]*
 

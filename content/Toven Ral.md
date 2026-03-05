@@ -1,4 +1,4 @@
-Toven Ral spent nineteen years as an operational field lead in the [[Auralis]] adventurer network and retired to [[Hedun]] at forty-one. He is [[Control Tier|T5]]. In the network's framework this made him suitable for extended missions requiring both combat capability and team management — which is what he did, through a sequence of assignments that the mission reports describe with language he helped develop, chosen for what it captured and what it did not.
+Toven Ral spent nineteen years as an operational field lead in [[The Advancement Corps]] and retired to [[Hedun]] at forty-one. He is [[Control Tier|T5]]. In the network's framework this made him suitable for extended missions requiring both combat capability and team management — which is what he did, through a sequence of assignments that the mission reports describe with language he helped develop, chosen for what it captured and what it did not.
 
 He was effective. His mission completion rate was high. His team casualty rate was low by network standards, which are not the same as low by other standards, a distinction he has had time to consider. The people who assigned missions in Hedun considered him a reliable operational asset. He had considered himself the same thing.
 
@@ -6,4 +6,4 @@ He retired because he stopped sleeping in the way he had previously slept. Not c
 
 He lives in a quiet district of [[Hedun]] in a two-room apartment with adequate light. He has begun writing in the mornings, before the city becomes loud, in a journal that he started telling himself serves no particular purpose. That is not exactly accurate. The journal is honest in ways the mission reports were not. In the mornings he works through what some of those reports were actually describing, and what the distance between the two languages has cost, and whether the accounting is something a person can complete or just something they can continue.
 
-*See also: [[Hedun]], [[Life in Hedun]], [[Auralis]], [[Adventurers]], [[The Council of Auralis]], [[Toven Ral's Journal]]*
+*See also: [[Hedun]], [[Life in Hedun]], [[Auralis]], [[The Advancement Corps]], [[Adventurers]], [[The Council of Auralis]], [[Toven Ral's Journal]]*

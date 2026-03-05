@@ -2,7 +2,7 @@ Morning journal of [[Toven Ral]], [[Hedun]]. Begun in the first year of retireme
 
 ---
 
-The network's language for what we did in Kessvar province was "environmental stabilization with community integration." I wrote that language. I spent an afternoon on it. The phrase needed to be accurate enough to survive a review and vague enough to describe what we actually did, which was occupy a settlement for six weeks while running experiments with a new Force application on their building stock, their food preservation infrastructure, and two volunteers we recruited with promises about what participation would do for their tier assessments.
+[[The Advancement Corps|The network's]] language for what we did in Kessvar province was "environmental stabilization with community integration." I wrote that language. I spent an afternoon on it. The phrase needed to be accurate enough to survive a review and vague enough to describe what we actually did, which was occupy a settlement for six weeks while running experiments with a new Force application on their building stock, their food preservation infrastructure, and two volunteers we recruited with promises about what participation would do for their tier assessments.
 
 I don't know what happened to the two volunteers. I left before the assessment results came back. The mission report closed the loop: "volunteer integration outcomes: satisfactory." I wrote that too.
 
@@ -38,4 +38,4 @@ The network was not wrong about everything. The [[Ancient Ruins|ruins]] work pro
 
 I believe this. I also believe the other things. Both continue to be true in the mornings.
 
-*See also: [[Toven Ral]], [[Hedun]], [[Auralis]], [[Adventurers]], [[The Council of Auralis]], [[Ancient Ruins]]*
+*See also: [[Toven Ral]], [[Hedun]], [[Auralis]], [[The Advancement Corps]], [[Adventurers]], [[The Council of Auralis]], [[Ancient Ruins]]*
