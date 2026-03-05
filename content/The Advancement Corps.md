@@ -34,4 +34,4 @@ The Corps's agenda has been shaped significantly by [[Drest]]'s Culmination Fact
 
 This shift has changed what kinds of field operations get prioritized, what kinds of findings get the selective feedback that signals significance, and what kinds of outcomes are described in the language that the Corps's reporting officers have spent careers developing. The operatives in the field experience this as a change in assignment focus. The Council experiences it as progress.
 
-*See also: [[Auralis]], [[The Council of Auralis]], [[Drest]], [[Ancient Ruins]], [[Adventurers]], [[Ascendant Path]], [[Equatorial Desert]], [[Toven Ral]], [[Renne Osl]], [[Avel Coss]]*
+*See also: [[Auralis]], [[The Council of Auralis]], [[Drest]], [[Ancient Ruins]], [[Adventurers]], [[Ascendant Path]], [[Equatorial Desert]], [[Toven Ral]], [[Renne Osl]], [[Avel Coss]], [[Seld Norn]]*

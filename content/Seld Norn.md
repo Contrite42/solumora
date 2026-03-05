@@ -1,0 +1,9 @@
+**Seld Norn** is forty years old and works as an independent research consultant in [[Valdenmoor]], analyzing site documentation for guild-contracted projects. [[Control Tier|T3]]. She spent eight years as a field assessor for [[The Advancement Corps]] before leaving the institution's service at thirty-two. She does not describe the reasons for leaving to people who ask in general terms. She has described the reasons to two people in her life, specifically and accurately, and does not plan to add to that number.
+
+Her current work is straightforward: she reviews site documentation for construction and infrastructure projects, evaluates whether existing Flux assessments are accurate, and produces reports that clients can use to make decisions. She is good at this. She has developed, over eight years of Corps field work and another eight of independent consulting, a thorough working methodology for site assessment that she can execute without thinking about where the methodology came from.
+
+What she knows from Corps work: how institutional documentation creates distance between what was observed and what was reported, which categories of observation tend to disappear in the transition from field notes to formal record, and what absence in a document means versus what presence means. This knowledge is directly applicable to evaluating whether anyone else's site documentation can be trusted, which is the core skill her current clients pay for.
+
+She does not have ongoing contact with the Corps. She does not have contact with [[Renne Osl]], who was a junior assessor when Seld was in her last field year and who she suspects has developed into exactly the kind of competent senior assessor the Corps needs. She does not think about this often.
+
+*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[The Advancement Corps]], [[Control Tier]], [[Flux Users]], [[Renne Osl]], [[Ordinary Life in Terravelle]]*

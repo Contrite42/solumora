@@ -40,4 +40,4 @@ A person who has done well in Valdenmoor, by middle age, owns or part-owns a bus
 
 This is not exciting. It is not meant to be. It is Valdenmoor's answer to the question of what a life is for, and roughly half a million people are living some version of it at any given time, with the usual distribution of people for whom it is enough and people for whom it is not.
 
-*See also: [[Valdenmoor]], [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Flux Users]], [[Religion and Belief]], [[Trade Guilds]], [[Flux Medicine]], [[Eddan Voss]], [[Cael]], [[Fen Orel]], [[Wolfpoint]], [[Daven Lorn]], [[Osvin Brack]], [[Sova Mast]], [[Massen Olvr]], [[Rell Hadv]], [[Ostal Mrev]]*
+*See also: [[Valdenmoor]], [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Flux Users]], [[Religion and Belief]], [[Trade Guilds]], [[Flux Medicine]], [[Eddan Voss]], [[Cael]], [[Fen Orel]], [[Wolfpoint]], [[Daven Lorn]], [[Osvin Brack]], [[Sova Mast]], [[Massen Olvr]], [[Rell Hadv]], [[Ostal Mrev]], [[Sella Veld]], [[Seld Norn]]*

@@ -8,4 +8,4 @@ The sites she has assessed in five years of field work range from catalogued rui
 
 She does not keep a private journal. She is aware that she does not keep one, in the specific way you are aware of a thing you have decided and then not examined the decision.
 
-*See also: [[Auralis]], [[The Advancement Corps]], [[The Council of Auralis]], [[Adventurers]], [[Ancient Ruins]], [[Flux Users]]*
+*See also: [[Auralis]], [[The Advancement Corps]], [[The Council of Auralis]], [[Adventurers]], [[Ancient Ruins]], [[Flux Users]], [[Seld Norn]]*

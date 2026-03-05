@@ -30,4 +30,4 @@ The identities she has consumed in [[Solhaven]] have given her the access that S
 
 Their arrangement is not a partnership and not a conflict. She follows his general direction without being told what it is, which either means she has understood more than he intended or that she is simply moving in the same direction for her own reasons. He has not decided which. She finds his patience difficult to hold and his methods slow. He finds her reckless in ways he has decided to work around rather than address.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Selvane]], [[Sorath]], [[Fennick]], [[Wren]], [[Auralis]], [[The Council of Auralis]], [[Ancient Ruins]]*
+*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Selvane]], [[Sorath]], [[Fennick]], [[Wren]], [[Auralis]], [[The Council of Auralis]], [[Ancient Ruins]], [[Avel Tors]]*

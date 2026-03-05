@@ -38,4 +38,4 @@ Flux pathway damage is the category of medical condition most specific to Flux m
 
 Pathway damage has multiple causes: overextension during casting, exposure to certain categories of Flux anomaly, specific types of injury in the vicinity of active sigil work, and congenital variations in pathway structure that produce instability. The symptoms range from reduced casting capacity to neurological effects that a practitioner without Flux diagnostic capability would misidentify entirely. Cases that require above-standard care are most commonly pathway cases — the condition that looks like something a T2 can handle but is not.
 
-*See also: [[Flux Users]], [[Control Tier]], [[Flux]], [[Trade Guilds]], [[Ascendant Path]], [[Ordinary Life]], [[Daven Lorn]], [[Bren Ossve]], [[Fen Orel]], [[Daven Lorn's Case Notes]]*
+*See also: [[Flux Users]], [[Control Tier]], [[Flux]], [[Trade Guilds]], [[Ascendant Path]], [[Ordinary Life]], [[Daven Lorn]], [[Bren Ossve]], [[Fen Orel]], [[Daven Lorn's Case Notes]], [[Sella Veld]]*

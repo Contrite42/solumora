@@ -6,4 +6,4 @@ He has had several hundred first conversations with people who arrived with some
 
 His own [[Hypertext]] work is in sequence interaction — what happens when multiple active sequences occupy the same conceptual space, and whether the interference patterns are predictable or generative or something else that does not have a name yet. He has been working on this for nine years. He expects to work on it for another fifteen. He finds this timeline entirely acceptable.
 
-*See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[Terravelle]], [[Hypertext]], [[Control Tier]], [[Flux Users]], [[Vel Sorvn]], [[Mell Rask's Letters]]*
+*See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[Terravelle]], [[Hypertext]], [[Control Tier]], [[Flux Users]], [[Vel Sorvn]], [[Mell Rask's Letters]], [[Cossa Vrend]]*
