@@ -10,5 +10,5 @@ Traceback (most recent call last):
             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "C:\Users\Contrite42\quartz\agent\orchestrator.py", line 280, in parse_json_or_retry_with_claude
     raise RuntimeError(f"{repair_label}: Could not parse JSON after repairs. Saved raw to agent/staging/")
-RuntimeError: batch_3bf60073d5c3bf6a: Could not parse JSON after repairs. Saved raw to agent/staging/
+RuntimeError: batch_2f75acefbb6cbd77: Could not parse JSON after repairs. Saved raw to agent/staging/
 

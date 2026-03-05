@@ -47,7 +47,7 @@ CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-20250514")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1:8b")
 
 # Keep Claude calls smaller = fewer rate problems + less malformed JSON
-CLAUDE_MAX_BATCH_NOTES = int(os.getenv("CLAUDE_MAX_BATCH_NOTES", "5"))
+CLAUDE_MAX_BATCH_NOTES = int(os.getenv("CLAUDE_MAX_BATCH_NOTES", "2"))
 CLAUDE_SLEEP_SECONDS = float(os.getenv("CLAUDE_SLEEP_SECONDS", "8"))
 MAX_CONTEXT_FILES = int(os.getenv("MAX_CONTEXT_FILES", "12"))
 
@@ -348,6 +348,70 @@ Constraints:
     write_text(PLAN_FILE, json.dumps(plan, indent=2))
     return plan
 
+def parse_file_blocks(raw: str) -> dict:
+    """
+    Parse Claude output in this format:
+
+    ===WRITE: content/path.md===
+    <markdown...>
+    ===END===
+
+    ===APPEND: content/path.md===
+    <markdown...>
+    ===END===
+
+    Returns patch dict:
+    {"writes":[{"path":..,"content":..}], "appends":[{"path":..,"append":..}]}
+    """
+    raw = raw.replace("\r\n", "\n")
+    lines = raw.split("\n")
+
+    patch = {"writes": [], "appends": []}
+
+    mode = None
+    path = None
+    buf = []
+
+    def flush():
+        nonlocal mode, path, buf
+        if mode and path:
+            content = "\n".join(buf).strip("\n")
+            if content.strip():
+                if mode == "WRITE":
+                    patch["writes"].append({"path": path, "content": content})
+                elif mode == "APPEND":
+                    patch["appends"].append({"path": path, "append": content})
+        mode = None
+        path = None
+        buf = []
+
+    header_re = re.compile(r"^===\s*(WRITE|APPEND)\s*:\s*([^\=]+)\s*===\s*$")
+    end_re = re.compile(r"^===\s*END\s*===\s*$")
+
+    for line in lines:
+        m = header_re.match(line.strip())
+        if m:
+            flush()
+            mode = m.group(1).strip().upper()
+            path = m.group(2).strip()
+            continue
+
+        if end_re.match(line.strip()):
+            flush()
+            continue
+
+        if mode:
+            buf.append(line)
+
+    flush()
+
+    if not patch["writes"] and not patch["appends"]:
+        # Save raw for debugging
+        write_text(STAGING_DIR / f"fileblock_parse_fail_{now_tag()}.txt", raw)
+        raise RuntimeError("No WRITE/APPEND blocks found. Saved raw to agent/staging/fileblock_parse_fail_*.txt")
+
+    return patch
+
 def step_build_batch_claude(task: str, ctx: dict, seed: str, plan: dict, batch_idxs: list) -> dict:
     notes = plan["notes"]
     batch = [notes[i] for i in batch_idxs]
@@ -392,20 +456,65 @@ Rules:
     patch = parse_json_or_retry_with_claude(raw, schema_hint, f"batch_{sha(json.dumps(batch))}")
     return patch
 
-def step_gpt_qa_and_link(ctx: dict, changed_files: list):
-    """
-    Conservative QA/link pass.
-    If OpenAI is rate-limited, we log and continue without blocking the pipeline.
-    """
-    titles = sorted({p.stem for p in CONTENT_DIR.rglob("*.md")})
-    title_set = set(titles)
+def step_build_batch_claude(task: str, ctx: dict, seed: str, plan: dict, batch_idxs: list) -> dict:
+    notes = plan["notes"]
+    batch = [notes[i] for i in batch_idxs]
 
-    blobs = []
-    for rel in changed_files[:40]:
-        p = ROOT / rel
-        txt = read_text(p)
-        blobs.append(f"\n--- FILE: {rel} ---\n{txt[:12000]}\n")
+    system = """
+You are the Solumora Builder.
+Write Obsidian Markdown. Everyone is mid-journey. Dense detail. No fluff.
 
+OUTPUT FORMAT (MANDATORY):
+Use ONLY these block types, exactly:
+
+===WRITE: content/path.md===
+<full markdown file content>
+===END===
+
+===APPEND: content/path.md===
+<markdown to append>
+===END===
+
+Rules:
+- No JSON.
+- No code fences.
+- No extra commentary outside blocks.
+- Every note must include at least 3 outbound [[links]].
+""".strip()
+
+    user = f"""
+TASK:
+{task}
+
+WORLD_STATE:
+{ctx['canon']}
+
+STYLE_GUIDE:
+{ctx['style']}
+
+SEED:
+{seed}
+
+CONTEXT (partial):
+{ctx['bundle']}
+
+BATCH TO WRITE:
+{json.dumps(batch, indent=2)}
+
+Mapping rules:
+- If action=create -> output a WRITE block with the full file.
+- If action=append -> output an APPEND block with only the new section.
+""".strip()
+
+    raw = call_claude(system, user, max_tokens=4200, temperature=0.45)
+
+    # parse the file-block protocol into a normal patch dict
+    patch = parse_file_blocks(raw)
+
+    # log raw output for debugging if needed
+    write_text(STAGING_DIR / f"batch_fileblocks_{now_tag()}.txt", raw)
+
+    return patch
     system = """
 You are the Solumora QA + Linker.
 Return JSON only:

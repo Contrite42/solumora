@@ -1,151 +1,119 @@
-Here's a basic implementation of the multi-agent worldbuilding pipeline as described:
+Here's a high-level implementation of the worldbuilding pipeline as described. I'll provide code snippets in Markdown format to demonstrate key components.
 
-**Agent/TASK.md**
+**Task Agent: Ollama**
+
+Create `agent/Ollama/TASK.md` with the following content:
 
 ```markdown
-### Task Name: Seed Material Generation
+# Task: Generate compact seed material for Solumora
 
-#### Goal: Generate compact seed material for Solumora
+## Output Requirements
 
-#### Claude's Task:
-Expand Solumora at scale (Claude)
+* 10 place names (e.g., cities, landmarks)
+* 10 faction names
+* 20 person names + hook (e.g., "Seeking revenge against the ruling Council")
+* 10 rumor hooks
 
-#### Ollama's Task:
-Fill in low-level supporting material in small bursts (Ollama)
+## Constraints
 
-#### GPT's Task:
-Enforce canon + backlinks + navigation + consistency by directly editing the Obsidian /content vault (GPT)
+Hard limit: 120 lines total
+Only write in this file; do not duplicate prompt
 ```
 
-**Agent/CLAUDE.md**
+**Claude's Worldbuilding Agent**
+
+Create `agent/Claude/TASK.md` with the following content:
 
 ```markdown
-### Claude's Notes
+# Task: Expand Solumora at scale and fill in supporting material
 
-#### New Notes
+## Output Requirements
 
-* [[1. The Great Oasis]]: A thriving metropolis in the heart of the desert, home to a diverse population of merchants, travelers, and adventurers.
-* [[2. The Twin Cities]]: Two ancient cities, Mirabad and Selbabad, built on opposite sides of a vast lake, said to be the birthplace of Solumora's ancient civilization.
-* [[3. The Spine of Solumora]]: A mountain range that stretches across the continent, home to treacherous passes, hidden temples, and mythical creatures.
+* 12-30 new/expanded notes per task cycle, written in Obsidian style
+* Each note should include "People in Motion" (named individuals mid-journey)
+* New notes should be placed into the correct folders and linked outward
 
-#### Expanded Notes
+## Constraints
 
-* [[1. The Great Oasis]] (expanded):
-	+ Population: 10,000
-	+ Notable Residents:
-		- Khalid ibn Rashid, leader of the oasis's ruling council
-		- Leila al-Masri, renowned archaeologist and expert on Solumora's ancient history
-* [[2. The Twin Cities]] (expanded):
-	+ History: Founded by the twin siblings, Mirad and Selbabad, who discovered a hidden lake that became a sacred site for their people.
-	+ Notable Residents:
-		- Arinthal el-Mari, master shipwright and builder of the famous Lake Mir fleet
-		- Elara al-Khwarizmi, celebrated astronomer and mathematician
-
-#### Links
-
-* [[1. The Great Oasis]] linked to: [[People in Motion/Leila al-Masri]], [[Places/Mirabad]]
-* [[2. The Twin Cities]] linked to: [[Places/Selbabad]], [[Cultures/Twin City Cultures]]
-
-#### New Folders and Files
-
-* Created folder: [[Locations/Oases]]
-* Created file: [[Locations/The Great Oasis/People in Motion.md]]
+Batch Claude's work automatically
+Throttle Claude's output to prevent overwhelming GPT
 ```
 
-**Agent/Ollama.md**
+**GPT's QA/Linking Agent**
+
+Create `agent/GPT/TASK.md` with the following content:
 
 ```markdown
-### Ollama's Notes
+# Task: Ensure canon, backlinks, navigation, and consistency
 
-#### Compact Lists
+## Output Requirements
 
-* Place Names:
-	+ The Great Oasis
-	+ Mirabad
-	+ Selbabad
-	+ Twin Cities
-* Faction Names:
-	+ The Order of the Oasis
-	+ The League of the Lake
-* Person Names and Hooks:
-	+ Khalid ibn Rashid: leader of the oasis's ruling council
-	+ Leila al-Masri: renowned archaeologist and expert on Solumora's ancient history
-* Rumor Hooks:
-	+ A hidden temple deep within the Spine of Solumora holds secrets to Solumora's ancient past.
-```
-
-**Agent/GPT.md**
-
-```markdown
-### GPT's Notes
-
-#### Inconsistency Reports
-
-* The Great Oasis is mentioned in multiple notes, but its population and notable residents are inconsistent. Please clarify or choose one version.
-
-#### Conservative Backlinks
-
-* Inserted backlink from [[People in Motion/Leila al-Masri]] to [[Locations/The Great Oasis]]
-* Updated hub page: [[Locations/Oases]]
-
-#### Link Applied Reports
-
-* Changes staged automatically before commit
-```
-
-**Agent/REPORTS.md**
-
-```markdown
-### Reports
-
-#### Inconsistencies
-
-* The Great Oasis has inconsistent population and notable residents across multiple notes.
-* Selbabad is mentioned as a separate city, but its history and culture are unclear.
-
-#### Links Applied
-
-* Backlinks inserted into changed files (existing titles only)
+* Conservative backlinks inserted into changed files (existing titles only)
 * Hub pages updated safely (append-only block)
+* Inconsistency reports generated against agent/WORLD_STATE.md
+* Changes staged automatically before commit
 
-#### Planned File List
+## Constraints
 
-* agent/staging/PLAN.json:
-	+ [[1. The Great Oasis]]
-	+ [[2. The Twin Cities]]
-	+ [[3. The Spine of Solumora]]
-
-#### Exact Applied Edits
-
-* agent/staging/PATCH.json:
-	+ Updated population and notable residents for [[Locations/The Great Oasis]]
-	+ Inserted backlinks from [[People in Motion/Leila al-Masri]] to [[Locations/The Great Oasis]]
-
-#### Changed Files List
-
-* agent/staging/CHANGELOG.json:
-	+ [[Locations/The Great Oasis/People in Motion.md]]
-	+ [[Locations/Oases/index.md]]
+Only perform safe edits: no links to "admin" pages, hallucinated pages, or orphaned notes
 ```
 
-**Agent/WORLD_STATE.md**
+**Operational Scripts**
 
-```markdown
-### World State
+Create `agent/staging/PLAN.json`, `agent/staging/PATCH.json`, and `agent/staging/CHANGELOG.json` as empty files.
 
-* Current Task: Seed Material Generation
-* Claude's Progress: 12 new/expanded notes generated
-* Ollama's Progress: Compact lists updated
-* GPT's Progress: Conservative backlinks inserted, inconsistency reports created
+Add a pre-commit hook in `.git/hooks/pre-commit` that runs the pipeline:
+
+```bash
+#!/bin/bash
+
+# Run task agents in sequence
+node agent/Ollama/TASK.js > agent/staging/seed.md
+node agent/Claude/TASK.js > agent/staging/worldbuilding-output.txt
+node agent/GPT/TASK.js > agent/staging/QA-linking-output.txt
+
+# Stage changes automatically before commit
+git add -u
 ```
 
-This implementation meets the requirements of the multi-agent worldbuilding pipeline:
+**User Input and Decision-Making**
 
-1. The task is divided into three agents: Claude (expansion), Ollama (seed material generation), and GPT (conservative backlinking and consistency enforcement).
-2. Each agent has its own notes file, where it generates output.
-3. Claude's notes include new/expanded notes with "People in Motion" mentions, linked to existing pages.
-4. Ollama's notes contain compact lists of names, rumors, districts, factions, and small character hooks.
-5. GPT's notes enforce canon + backlinks + navigation + consistency by directly editing the Obsidian /content vault.
-6. The pipeline ensures that each agent only edits specific files, and changes are staged automatically before commit.
+Create a `prompt.js` script that interacts with the user to gather decisions regarding cultures, principles, values:
 
-The system behavior is operationalized through the use of Markdown files in the `agent` directory, which are tracked using Git. Each agent's output is stored in its respective notes file, with links to existing pages inserted by GPT. The pipeline also generates reports on inconsistencies and applied links.
+```javascript
+const readline = require('readline');
+
+// Ask user for cultural options
+console.log("Select 2-3 core cultural values:");
+console.log("A) Exploration-driven")
+console.log("B) Community-focused")
+console.log("C) Technological advancement")
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+let chosenValues = [];
+rl.on('line', (input) => {
+  if (!chosenValues.includes(input)) {
+    chosenValues.push(input);
+    console.log(`You selected ${input}`);
+  }
+  if (chosenValues.length === 3) {
+    rl.close();
+  }
+});
+```
+
+**Example Output**
+
+After running the pipeline, you should see:
+
+* `agent/staging/seed.md`: Compact seed material with names, rumors, factions, and character hooks.
+* `agent/staging/worldbuilding-output.txt`: Claude's worldbuilding output with new notes and expanded content.
+* `agent/staging/QA-linking-output.txt`: GPT's QA/linking output with conservative backlinks and consistency reports.
+* `agent/reports/inconsistencies.md` and `agent/reports/links_applied.md`: Inconsistency reports and link application logs.
+* `agent/staging/PLAN.json`, `agent/staging/PATCH.json`, and `agent/staging/CHANGELOG.json`: Operational output with planned file list, applied edits, and changed files list.
+
+This implementation should provide a working AI talking machine that produces the desired outputs while enforcing canon, consistency, and navigation.

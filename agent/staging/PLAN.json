@@ -1,168 +1,198 @@
 {
   "notes": [
     {
-      "path": "content/People in Motion/Kess Valdorn.md",
+      "path": "content/People/Tovan Ashce.md",
       "action": "create",
-      "purpose": "A mid-tier Formulist traveling from Solhaven to Halveth with expedition supplies and personal questions about the ancient ruins.",
+      "purpose": "Council member who quietly observes Castor's manipulation of Cassia and finds it useful for his own agenda.",
       "links": [
-        "[[Solhaven]]",
-        "[[Halveth]]",
-        "[[Ancient Ruins]]",
-        "[[Flux Users]]",
-        "[[Equatorial Desert]]"
-      ]
-    },
-    {
-      "path": "content/People in Motion/Thane Corwick.md",
-      "action": "create",
-      "purpose": "A Terravelle guide who has crossed the desert twice and now questions whether the council's expeditions are looking for the right things.",
-      "links": [
-        "[[Terravelle]]",
-        "[[Equatorial Desert]]",
         "[[The Council of Auralis]]",
-        "[[Ancient Ruins]]",
-        "[[Halveth]]"
+        "[[Castor Helme]]",
+        "[[Cassia]]"
       ]
     },
     {
-      "path": "content/People in Motion/Sera Nightwind.md",
+      "path": "content/People/Maren Sollis.md",
       "action": "create",
-      "purpose": "A young Auralis researcher carrying sealed documents about Watts discoveries toward the northern border.",
+      "purpose": "Council member who suspects Castor's true motives and tries unsuccessfully to warn Cassia.",
       "links": [
-        "[[Auralis]]",
-        "[[Watts]]",
-        "[[Terravelle]]",
-        "[[Ancient Ruins]]",
-        "[[Castor Helme]]"
-      ]
-    },
-    {
-      "path": "content/Locations/The Thornwall Inn.md",
-      "action": "create",
-      "purpose": "A waystation between Solhaven and Halveth where expedition members gather information and desert-crossers share warnings.",
-      "links": [
-        "[[Solhaven]]",
-        "[[Halveth]]",
-        "[[Equatorial Desert]]",
-        "[[Rift Incursions]]",
-        "[[Life in Rural Terravelle]]"
-      ]
-    },
-    {
-      "path": "content/Locations/Millhaven.md",
-      "action": "create",
-      "purpose": "A prosperous Terravelle river town where lumber trade meets Flux-enhanced agriculture and political tensions simmer.",
-      "links": [
-        "[[Terravelle]]",
-        "[[Life in Rural Terravelle]]",
-        "[[Watts]]",
-        "[[Covenant of Measure]]",
-        "[[Auralis]]"
-      ]
-    },
-    {
-      "path": "content/Organizations/The Cartographers Guild.md",
-      "action": "create",
-      "purpose": "An Auralis guild that maps trade routes and secretly catalogs anomalous Flux readings across both kingdoms.",
-      "links": [
-        "[[Auralis]]",
-        "[[Ancient Ruins]]",
-        "[[Equatorial Desert]]",
         "[[The Council of Auralis]]",
-        "[[Terravelle]]"
+        "[[Castor Helme]]",
+        "[[Cassia]]"
       ]
     },
     {
-      "path": "content/Organizations/The Thornwatch.md",
+      "path": "content/Places/Emberfall.md",
       "action": "create",
-      "purpose": "An informal network of rural Terravelle settlements that share information about unusual travelers and strange occurrences.",
+      "purpose": "Research facility where immortality sigil development occurs under Castor's influence.",
       "links": [
-        "[[Life in Rural Terravelle]]",
-        "[[Terravelle]]",
-        "[[High Demons]]",
-        "[[Rift Incursions]]",
-        "[[Covenant of Measure]]"
-      ]
-    },
-    {
-      "path": "content/Events/The Millhaven Incident.md",
-      "action": "create",
-      "purpose": "A recent trade dispute that escalated when Auralis merchants accused Terravelle suppliers of hoarding strategic materials.",
-      "links": [
-        "[[Millhaven]]",
-        "[[Auralis]]",
-        "[[Terravelle]]",
-        "[[The Three Near-Wars]]",
-        "[[Expansion Faction]]"
-      ]
-    },
-    {
-      "path": "content/Mysteries/The Missing Expedition.md",
-      "action": "create",
-      "purpose": "A well-funded Auralis desert expedition that vanished six months ago, leaving only conflicting reports from Halveth guides.",
-      "links": [
-        "[[Auralis]]",
-        "[[Equatorial Desert]]",
-        "[[Halveth]]",
+        "[[Castor Helme]]",
         "[[Ancient Ruins]]",
+        "[[Drest]]"
+      ]
+    },
+    {
+      "path": "content/People/Lenne Sosk.md",
+      "action": "create",
+      "purpose": "Harbor district dockworker who represents the T0-T1 working class of Solhaven's lowest tier.",
+      "links": [
+        "[[Life in Solhaven]]",
+        "[[Solhaven]]",
+        "[[Control Tier]]"
+      ]
+    },
+    {
+      "path": "content/People/Oryen Veld.md",
+      "action": "create",
+      "purpose": "Middle terrace guild master whose T4 assessment drives his family's social climbing ambitions.",
+      "links": [
+        "[[Life in Solhaven]]",
+        "[[Ascendant Path]]",
+        "[[Control Tier]]"
+      ]
+    },
+    {
+      "path": "content/People/Cor Meln.md",
+      "action": "create",
+      "purpose": "Halveth permanent resident and former expedition member who now supplies desert crossings.",
+      "links": [
+        "[[Halveth]]",
+        "[[Equatorial Desert]]",
         "[[Wren]]"
       ]
     },
     {
-      "path": "content/Mysteries/The Watts Fluctuations.md",
+      "path": "content/People/Ossen Drel.md",
       "action": "create",
-      "purpose": "Subtle irregularities in the Watts ledger that a few scholars have noticed but no one has been able to explain.",
+      "purpose": "Halveth guide who has made multiple successful desert crossings and provides expertise to expeditions.",
       "links": [
-        "[[Watts]]",
-        "[[Ancient Ruins]]",
-        "[[Sera Voss]]",
-        "[[The Council of Auralis]]",
-        "[[Flux]]"
-      ]
-    },
-    {
-      "path": "content/Culture/Desert Crossing Traditions.md",
-      "action": "create",
-      "purpose": "The informal customs and survival wisdom that have developed around crossing the equatorial desert safely.",
-      "links": [
-        "[[Equatorial Desert]]",
         "[[Halveth]]",
-        "[[Flux Users]]",
-        "[[Rift Incursions]]",
+        "[[Equatorial Desert]]",
         "[[Auralis]]"
       ]
     },
     {
-      "path": "content/Culture/The Thornwall Compact.md",
+      "path": "content/People/Selt Orvn.md",
       "action": "create",
-      "purpose": "An unwritten agreement between rural Terravelle communities about mutual aid and information sharing during crises.",
+      "purpose": "Halveth innkeeper who manages one of the village's expedition-season accommodations.",
+      "links": [
+        "[[Halveth]]",
+        "[[Wren]]",
+        "[[Rift Incursions]]"
+      ]
+    },
+    {
+      "path": "content/People/Bren Ossve.md",
+      "action": "create",
+      "purpose": "Rural Terravelle hunter whose T2 flux ability supports food preservation for his forest community.",
       "links": [
         "[[Life in Rural Terravelle]]",
-        "[[The Thornwatch]]",
-        "[[Covenant of Measure]]",
         "[[Terravelle]]",
-        "[[Millhaven]]"
+        "[[Flux Users]]"
+      ]
+    },
+    {
+      "path": "content/People/Reth Caln.md",
+      "action": "create",
+      "purpose": "Rural Terravelle trapper who specializes in winter hunting and maintains community food security.",
+      "links": [
+        "[[Life in Rural Terravelle]]",
+        "[[Covenant of Measure]]",
+        "[[Control Tier]]"
+      ]
+    },
+    {
+      "path": "content/People/Solen Carr.md",
+      "action": "create",
+      "purpose": "Rural Terravelle logger whose family has worked the same forest territory for three generations.",
+      "links": [
+        "[[Life in Rural Terravelle]]",
+        "[[Terravelle]]",
+        "[[Birth Runes]]"
+      ]
+    },
+    {
+      "path": "content/People/Teva Orrn.md",
+      "action": "create",
+      "purpose": "Rural Terravelle T3 caster who provides food creation sigils for her isolated community.",
+      "links": [
+        "[[Life in Rural Terravelle]]",
+        "[[Flux Users]]",
+        "[[Sigils]]"
+      ]
+    },
+    {
+      "path": "content/Magic/Flux Cost Reference.md",
+      "action": "create",
+      "purpose": "Comprehensive reference table showing precision costs for different discipline and variable combinations.",
+      "links": [
+        "[[Flux Expenditure]]",
+        "[[Control Tier]]",
+        "[[Discipline]]"
+      ]
+    },
+    {
+      "path": "content/Places/Life in Halveth.md",
+      "action": "create",
+      "purpose": "Daily life in the border settlement where expedition seasons transform the community dynamics.",
+      "links": [
+        "[[Halveth]]",
+        "[[Wren]]",
+        "[[Equatorial Desert]]"
+      ]
+    },
+    {
+      "path": "content/History/The Hunting Period.md",
+      "action": "create",
+      "purpose": "Two-century period of community-level persecution targeting High Demons after a public magical incident.",
+      "links": [
+        "[[High Demons]]",
+        "[[History of Solumora]]",
+        "[[Sorath]]"
+      ]
+    },
+    {
+      "path": "content/Places/Hedun.md",
+      "action": "create",
+      "purpose": "Western coastal city where Fennick has spent decades shaping the social and political atmosphere.",
+      "links": [
+        "[[Fennick]]",
+        "[[Auralis]]",
+        "[[High Demons]]"
       ]
     }
   ],
   "batches": [
     [
       0,
-      1,
-      2,
-      3,
-      4
+      1
     ],
     [
-      5,
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
       6,
-      7,
+      7
+    ],
+    [
       8,
       9
     ],
     [
       10,
       11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
     ]
   ]
 }
