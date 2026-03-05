@@ -690,6 +690,8 @@ if WATCHDOG_AVAILABLE:
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--watch", action="store_true", help="Run pipeline when TASK.md changes")
+    parser.add_argument("--loop", action="store_true",
+                        help="Run pipeline now, then loop: re-run whenever TASK.md changes")
     parser.add_argument("--review", action="store_true",
                         help="Pause after each batch for human/Claude Code review before applying")
     args = parser.parse_args()
@@ -701,7 +703,27 @@ def main():
 
     if args.review:
         run_pipeline._review_mode = True
-        print("🔍 Review mode enabled — each batch will pause for approval before applying.")
+        print("Review mode enabled — each batch will pause for approval before applying.")
+
+    if args.loop:
+        def file_hash():
+            try:
+                return hashlib.md5(TASK_FILE.read_bytes()).hexdigest()
+            except Exception:
+                return ""
+
+        print("Loop mode: running pipeline now, then polling for TASK.md changes...")
+        while True:
+            try:
+                run_pipeline()
+            except Exception as e:
+                log_error("loop_run", e)
+            last_hash = file_hash()
+            print("\nPipeline complete. Waiting for TASK.md to change (loop mode)...")
+            while file_hash() == last_hash:
+                time.sleep(3)
+            print("\nTASK.md changed -> starting next pipeline run...\n")
+        return
 
     if args.watch:
         if not WATCHDOG_AVAILABLE:
