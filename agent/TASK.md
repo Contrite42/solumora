@@ -1,201 +1,136 @@
-# Task: Update Spell Pages to Reflect Calibrated Cost System
+# Task: Emberfall, High Demon Lives, Written Works with Watt Numbers
 
-## What Changed (Background)
-
-The Flux cost system was fully calibrated with specific Watt values. All pages describing
-how spells cost Flux need to reflect the correct formula, the correct shape/slot rules,
-and the newly established Hook/Mode multiplier — which is the mechanism that makes
-T7–T9 reachable.
+Three content areas. Execute in order. All pages go in content/ unless specified.
+Naming rules are STRICT — see WORLD_STATE.md before finalizing any new character names.
 
 ---
 
-## THE CORRECT SYSTEM (use these exact values — do not invent alternatives)
+## SECTION 1: EMBERFALL EXPANSION
 
-### Formula
-Total W = ( (Shape base W × Discipline multiplier) + Pattern W + Reach W + Persistence W + Target W + Output Mode W ) × Hook/Mode multiplier
+Emberfall is referenced throughout the vault as a ruins-adjacent research town in Auralis,
+near the Equatorial Desert. Currently underdeveloped. Existing characters there:
+- Tessel Dran (T4 scholar, researches ruins, has written Research Notes)
+- Erra Dossn (T2, market trader, knows Tessel Dran's supply habits)
+- Aldric Mourne (T4, Culmination Faction's academic arm, works the ruins)
 
-### Shape: Base W cost AND slot constraint (dual role)
-Each outer point is one variable slot. Discipline always occupies one slot.
+Write these pages:
 
-| Shape    | Total Outer Slots | Discipline | Remaining free slots | Base W |
-|----------|-------------------|------------|----------------------|--------|
-| Triangle | 3                 | 1          | 2                    | 3 W    |
-| Square   | 4                 | 1          | 3                    | 8 W    |
-| Pentagon | 5                 | 1          | 4                    | 20 W   |
-| Circle   | 6                 | 1          | 5 (all)              | 55 W   |
+### 1a. content/Life in Emberfall.md — CREATE
 
-A Triangle sigil cannot hold more than 2 explicitly specified outer variables beyond Discipline,
-regardless of the caster's tier. This is geometric, not a capacity limit.
+What daily life looks like in Emberfall. Include:
+- The town's physical character: a genuine research settlement, not a village that happens to have scholars nearby. The ruins access is the reason the town exists. Everything else — housing, food supply, trade — is built around that core.
+- Two distinct populations: the permanent residents (supply workers, traders, locals who service the researchers) and the rotating researchers (Advancement Corps assessors, independent scholars, Culmination Faction representatives). These groups have genuine tension — the researchers treat the town as a platform, the residents treat the researchers as recurring problems.
+- The Advancement Corps presence: a field station here. Ostensibly for "coordinating ruins access." Actually for monitoring what independent researchers find and controlling what leaves Emberfall.
+- The desert proximity: what this means practically. Heat, dust, the awareness that Rift Incursions happen not far south. Emberfall has walls that are genuinely maintained.
+- Name at least Tessel Dran, Erra Dossn, and Aldric Mourne as context for the reader. Add 1-2 unnamed or briefly named locals as texture.
+- See Also must include: [[Emberfall]], [[Auralis]], [[Ancient Ruins]], [[The Advancement Corps]], [[Equatorial Desert]], [[Tessel Dran]], [[Erra Dossn]], [[Aldric Mourne]], [[Rift Incursions]], [[The Culmination Faction]]
 
-### Discipline multipliers (apply to Shape base W)
-Raw x1 | Force x2 | Heat x2 | Light x3 | Sound x4 | Electric x5 | Chemical x5 | Binding x10 | Mind x25 | Soul x75
+### 1b. content/People/[Name 1].md — CREATE (Emberfall resident, T1-T2)
 
-### Variable flat additions (added after core, before Hook/Mode)
-Pattern: Point=0, Plane(default)=0, Beam=+5, Cone=+10, Ring=+15, Cylinder=+20, Sphere=+30, Field=+60
-Reach: Self(default)=0, Touch=+2, Short=+5, Medium=+15, Long=+40, Line-of-Sight=+80, Linked=+150
-Persistence: Immediate(default)=0, Timed Short=+5, Timed Long=+25, Sustained=0(+10W/10min ongoing), Conditional=+20, Latched=+40, Permanent=+400
-Target: Where Written(default)=0, Self=0, Object=+2, Surface=+5, Individual=+8, Marked=+15, Group=+35, Filter=+60
-Output Mode: Natural=0, Adjacent discipline=+10, Cross-type=+30, Extreme cross=+60
+A permanent Emberfall resident who works supply logistics — receives, stores, and distributes materials for the research operations. Not a researcher. Has been there long enough to have watched multiple research cohorts come and go. Knows more than they let on about what gets found and what quietly disappears. T1 or T2. One specific thing they've noticed that they haven't told anyone.
 
-### Hook/Mode Multiplier — CENTER CORE variable, not an outer slot
-Hook/Mode is the complexity of the spell's core ACTION. It is not an outer variable and
-does not use a slot. It multiplies the outer variable total.
+### 1c. content/People/[Name 2].md — CREATE (Emberfall, Advancement Corps field worker, T3)
 
-| Level        | Multiplier | Examples                                                         |
-|--------------|------------|------------------------------------------------------------------|
-| Basic        | x1         | push, heat, light, seal, detect, surface thought read            |
-| Moderate     | x2         | sustained suppression, deep binding, complex physical altering   |
-| Significant  | x4         | deep mind read, emotional alteration, precise state detection    |
-| Extreme      | x10        | forced identity changes, soul severance, partial memory erasure  |
-| Transcendent | x30        | revival from death, rewriting local physical laws                |
-| Absolute     | x100       | interacts with the Flux system architecture itself               |
+A low-level Advancement Corps field worker stationed in Emberfall. Not a senior assessor — a logistics and documentation role. Knows the official mission. Has started noticing gaps between what they're told to document and what actually gets reported up. Has not yet decided what to do with this. T3. Write from the position of someone who is loyal but developing doubts.
 
-WITHOUT Hook/Mode elevation (all at x1), the formula tops out at approximately 5,000W — the floor
-of T6. The outer variables describe sigil STRUCTURE. Hook/Mode describes what you are DOING with
-that structure. T7–T9 effects require extreme Hook/Mode on top of high-end sigil geometry.
-
-### Tier W thresholds
-T0:1-10 | T1:11-40 | T2:41-130 | T3:131-400 | T4:401-1,300 | T5:1,301-4,000
-T6:4,001-13,000 | T7:13,001-40,000 | T8:40,001-130,000 | T9:130,001+
-
-### Verified canon examples (do not change these numbers anywhere)
-- Room illumination: Triangle Light + Timed Long = (3x3)+25 = 34W -> T1
-- Container seal: Triangle Binding + Touch + Latched + Object = (3x10)+2+40+2 = 74W -> T2
-- Force sphere barrier: Pentagon Force + Sphere + Timed Long = (20x2)+30+25 = 95W -> T2
-- Heat signature tracking: Circle Heat + Medium + Sustained + Individual = (55x2)+15+0+8 = 133W base -> T3
-- Complete immobilization: Circle Binding + Touch + Sustained + Individual = (55x10)+2+0+8 = 560W -> T4
-- Surface thought read: Pentagon Mind + Touch + Individual = (20x25)+2+8 = 510W -> T4 (Hook Basic x1)
-- Broadcast neuro disruption: Circle Mind + Field + LoS + Timed Short + Group = (55x25)+60+80+5+35 = 1,555W -> T5
-- Permanent Soul mark: Pentagon Soul + Touch + Permanent + Individual = (20x75)+2+400+8 = 1,910W -> T5
-- Forced Soul brand (outer vars only): Circle Soul + Touch + Permanent + Individual = (55x75)+2+400+8 = 4,535W -> T6
-- Forced Soul brand (full identity rewrite): same sigil x Extreme(x10) = 45,350W -> T8
-- Full bodily revival: Circle Soul + Touch + Permanent + Individual x Transcendent(x30) = 136,050W -> T9
+Names for 1b and 1c: Follow Solumora naming conventions (short, terse, Germanic/Nordic). Check WORLD_STATE.md conflict list. Suggestions: first names like Noss, Veld, Celd, Oss, Tev, Brenn; surnames like Olt, Dorv, Rend, Mast. Do not use names already in WORLD_STATE.md.
 
 ---
 
-## FILES TO UPDATE
+## SECTION 2: HIGH DEMONS — DAILY EXISTENCE
 
-### 1. content/Flux Expenditure.md — WRITE (replace entire file)
+The five High Demons are embedded in society. Their true nature is unknown to everyone around them. Write pages expanding what their embedded existence looks like from the outside — their cover, their routines, the people orbiting them who don't know what they are, and the moments that almost reveal them.
 
-The "Additive Effect" section currently has two errors:
-(a) It says "Discipline base cost x Shape multiplier" — WRONG. Shape is the BASE and Discipline is
-the MULTIPLIER. The correct relationship is: core = Shape base W x Discipline multiplier.
-(b) It says Circle Soul sits in "T6 to T8 range" without Hook/Mode. The correct ceiling without
-Hook/Mode is approximately T6 (4,535W). T8 requires Hook/Mode x10.
+CRITICAL RULES:
+- Do NOT write from the demon's internal perspective. Write from the perspective of what the world sees.
+- Do NOT have any character know the demon is a demon.
+- Do NOT have demons know about each other (Selvane and Mave are both in Solhaven and do not know about each other).
+- Do NOT resolve or reveal their nature. Document the tension of near-reveals without landing them.
+- These are APPEND operations to existing character pages, not new pages. Each demon already has a page.
 
-Fix both errors in the Additive Effect section. Keep all other existing prose identical.
+### 2a. APPEND to existing Selvane page
 
-Then add a new section called "## Hook and Mode — Core Action Complexity" inserted BEFORE the
-final *See also* line. Write it in the existing voice (matter-of-fact, dense, no purple prose).
-The section must cover:
-- Hook/Mode is the center-core cost multiplier (not an outer slot variable)
-- Include the exact multiplier table from above
-- Explain that outer variables alone top out at ~5,000W (T6 floor)
-- Explain WHY: the outer variables encode sigil structure; Hook/Mode encodes the nature of what
-  you are asking the Flux to distinguish and act upon. Soul discipline already requires the Flux
-  to find and interact with soul-signature. A Hook that says "permanently rewrite what this person
-  IS" requires the Flux to hold a different kind of distinction — one the field resists more.
-- T7-T9 require elevated Hook/Mode on top of high-end outer variable structure. The sigil may
-  be constructable; the action is what places the effect beyond most practitioners' reach.
+Selvane is in Solhaven, prominent enough to be Council-adjacent. Essa Rolt (T1) is their household manager — has a pattern of observations she hasn't connected yet.
 
-### 2. content/Spell Variables.md — WRITE (replace entire file)
+Add a section: "## Daily Existence" covering:
+- What Selvane's visible role in Solhaven is (something that makes sense given their prominence — a merchant house principal, a senior Formulist, a Flux infrastructure consultant, whatever fits)
+- Their visible behavior patterns that seem slightly off but explainable: too consistent in small ways, occasionally forgets something that should be habit, has been in Solhaven too long without aging visibly (people have started not noticing this)
+- Essa Rolt's specific observations, written as things she has noted without interpretation: Selvane eats rarely and in very small amounts. They do not appear to sleep normally. They have no family that anyone can name. They speak about events from thirty years ago with a specificity that suggests they were there.
+- One moment where someone almost asked a direct question and the conversation quietly redirected.
 
-Two additions needed:
+### 2b. APPEND to existing Mave page
 
-(a) In the Shape section (outer variable #1): after the existing bullet list of shapes
-(Circle provides most control, Triangle is simplest), add the explicit slot table:
+Mave is also in Solhaven. Avel Tors (T1, craftsperson) has had 4 encounters with Mave.
 
-  | Shape    | Outer Slots | Discipline | Remaining Variable Slots |
-  |----------|-------------|------------|--------------------------|
-  | Triangle | 3           | 1          | 2                        |
-  | Square   | 4           | 1          | 3                        |
-  | Pentagon | 5           | 1          | 4                        |
-  | Circle   | 6           | 1          | 5 (all)                  |
+Add a section: "## Daily Existence" covering:
+- Mave's visible role (different from Selvane's — they occupy a different niche in Solhaven's social structure)
+- Avel Tors's four encounters, described briefly — what each one was about, what felt slightly wrong in each one, and why Avel has not put the pieces together (each encounter had an ordinary explanation available)
+- The specific quality that makes Mave hard to remember precisely: people recall the interaction but can't hold the details. Not a Flux effect anyone has identified — just a quality of Mave's presence.
+- How Mave and Selvane both move through Solhaven without ever quite being in the same space.
 
-  Then one sentence: "A Triangle sigil cannot specify more than 2 outer variables beyond
-  Discipline — this is a geometric constraint, not a tier limit."
+### 2c. APPEND to existing Fennick page
 
-(b) In the Center Core section, after the existing Hook and Mode bullet points, add:
+Fennick is in Hedun. Lorn Seld (T1) works in his orbit without knowing what Fennick is. Tolla Rend (T1, harbor supervisor) knows Toven Ral by sight — and Toven Ral is one of the few people sharp enough to notice something is wrong with Fennick (though Toven has not named it).
 
-  "Hook and Mode together carry a cost multiplier that applies to the spell's total outer
-  variable cost. Simple physical interactions default to x1. Effects operating at the
-  identity, soul, or fundamental-law level carry multipliers from x10 to x100. This is
-  how T7–T9 costs are reached: the outer variables describe what the sigil is shaped to
-  do; Hook and Mode describe how deeply the Flux must reach to do it. See [[Flux Cost Reference]]
-  for the full multiplier table."
+Add a section: "## Daily Existence" covering:
+- Fennick's visible operation in Hedun (port-adjacent — what does this look like? A broker? A factor? A labor organizer?)
+- The small ways Fennick's operation is too smooth: no deals fall through, no workers quit unhappy, no disputes escalate. It reads as management excellence until you look at the numbers.
+- Lorn Seld's relationship: what Lorn thinks Fennick is, what small things Lorn has dismissed, and why working for Fennick feels better than working elsewhere without Lorn being able to say why.
+- Toven Ral watching from a distance: not intervening, not naming it, just watching. What Toven has noticed that he has told no one.
 
-Keep all other text identical.
+### 2d. APPEND to existing Wren page
 
-### 3. content/Discipline.md — WRITE (replace entire file)
+Wren is at Halveth, the desert-edge garrison. Selt Orvn (T2) has an 18-year relationship with Wren — supply depot work keeps them in regular contact. Selt doesn't know.
 
-Two additions needed:
-
-(a) Add "(xN)" after each discipline name in the Disciplines list. Exact values:
-Raw (x1), Force (x2), Heat (x2), Light (x3), Sound (x4), Electric (x5), Chemical (x5),
-Binding (x10), Mind (x25), Soul (x75)
-
-(b) Add a new section "## Cost Multipliers" after the discipline list and before
-"## Discipline vs Output Mode". Write in the existing voice. Must cover:
-- Each discipline multiplies Shape base W to produce the core Flux demand
-- Raw x1: no discriminating precision required — unfiltered Flux
-- Soul x75: the finest discrimination the Flux system supports — must find and interact
-  with soul-signature specifically
-- The gap (x1 vs x75) means Triangle Soul (3x75=225W, T3) costs more than Circle Force
-  (55x2=110W, T2) before any variable additions
-- Mass grimoires favor Force, Heat, Binding (x2, x2, x10) because their multipliers
-  produce effects at tiers common practitioners can access. Mind (x25) and Soul (x75)
-  floor their total cost above T3–T4 even in the simplest Triangle configurations.
-- Include this reference table:
-
-  | Discipline | Multiplier | Triangle core W | Circle core W |
-  |------------|------------|-----------------|---------------|
-  | Raw        | x1         | 3 W             | 55 W          |
-  | Force      | x2         | 6 W             | 110 W         |
-  | Heat       | x2         | 6 W             | 110 W         |
-  | Light      | x3         | 9 W             | 165 W         |
-  | Sound      | x4         | 12 W            | 220 W         |
-  | Electric   | x5         | 15 W            | 275 W         |
-  | Chemical   | x5         | 15 W            | 275 W         |
-  | Binding    | x10        | 30 W            | 550 W         |
-  | Mind       | x25        | 75 W            | 1,375 W       |
-  | Soul       | x75        | 225 W           | 4,125 W       |
-
-### 4. content/Control Tier.md — APPEND (add one section before the final See also line)
-
-Add this section inserted before the *See also* line:
-
-## Watt Cost Ranges
-
-Every tier corresponds to a Flux cost range measured in [[Watts]]. The ranges below reflect
-outer-variable costs from the [[Flux Cost Reference]] — the structural cost of the sigil
-geometry before Hook/Mode action complexity is applied.
-
-| Tier | W Range           | Canonical example                                        |
-|------|-------------------|----------------------------------------------------------|
-| T0   | 1–10 W            | Triangle Raw, single default                             |
-| T1   | 11–40 W           | Triangle Light + Timed Long (34W)                        |
-| T2   | 41–130 W          | Triangle Binding + Touch + Latched + Object (74W)        |
-| T3   | 131–400 W         | Circle Heat + Medium + Sustained + Individual (133W)     |
-| T4   | 401–1,300 W       | Circle Binding + Touch + Sustained + Individual (560W)   |
-| T5   | 1,301–4,000 W     | Circle Mind + Field + LoS + Group (1,555W)               |
-| T6   | 4,001–13,000 W    | Circle Soul + Touch + Permanent + Individual (4,535W)    |
-| T7   | 13,001–40,000 W   | Hook/Mode Extreme (x10) applied to T5–T6 outer structure |
-| T8   | 40,001–130,000 W  | Hook/Mode Transcendent (x30) on T6 outer structure       |
-| T9   | 130,001+ W        | Hook/Mode Absolute (x100), or Transcendent on max structure|
-
-T0–T6 are reachable through outer sigil variables alone. T7–T9 require elevated Hook/Mode
-complexity — the outer variables alone cannot produce costs above approximately 5,000W regardless
-of configuration. A practitioner may have the tier ceiling to execute a T7 effect. Whether they
-can construct the action its Hook requires is a separate question.
+Add a section: "## Daily Existence" covering:
+- Wren's visible role at Halveth (something that requires consistent presence without a clear career ceiling — a position people don't question why someone stays in for decades)
+- The 18-year relationship with Selt Orvn: what this actually looks like. Regular interactions. Probably the most genuine ongoing relationship Wren has in Halveth, which makes it more dangerous. Selt has noticed that Wren never quite changes. Has not yet asked.
+- What the desert means to Wren specifically: Halveth is as close to the Equatorial Desert as any settlement gets. What Wren does near or at the edge that nobody else would. Not explicitly demonic — just someone who goes to the wall at night more than others do.
+- One person who has started asking questions and has not come back to ask more.
 
 ---
 
-## RULES FOR THIS TASK
+## SECTION 3: WRITTEN WORKS — ADD WATT NUMBERS
 
-- Do NOT invent new lore, characters, locations, or factions.
-- Do NOT change any content beyond what is explicitly described above.
-- Preserve all existing prose, links, and See Also sections exactly unless instructed otherwise.
-- Write in the existing voice: matter-of-fact, dense, no purple prose.
-- Every WRITE block must contain the FULL file content, not just the changed section.
-- Every number in this task is canon. Do not round, estimate, or substitute.
-- These are 4 files total. Plan them as 2 batches of 2.
+The Flux cost system now has real Watt values. Update in-world documents to reference these numbers naturally — the way a practitioner would write about their own work. These are APPEND operations adding brief new entries to existing Written Works pages.
+
+The tone of these additions must match the existing entries exactly — each Written Works page has a distinctive voice. Match it.
+
+### 3a. APPEND to content/WrittenWorks/Osvin Brack's Assessment Ledger.md
+
+Add 2-3 new ledger entries where Osvin notes Watt-level assessments. Examples of how to use the numbers naturally:
+- A T1 assessment: "evaluated at comfortable 28-34W range. Typical Flicker tier. Grimoire eligible."
+- A T2 assessment where the number is close to the T3 boundary: "upper Working, 118-122W. Worth watching. Not yet Load tier."
+- A T0 noting the number sadly: "measured at 8W maximum. Trace. Will not hold a sigil independently."
+Osvin's voice is methodical and notation-heavy. He records things people don't ask him to record.
+
+### 3b. APPEND to content/WrittenWorks/Rell Hadv's Certification Notes.md
+
+Rell Hadv is a T4 guild master in Valdenmoor with a T5 apprentice. Add 1-2 certification notes where Watt thresholds appear:
+- The apprentice being assessed for journeyman status: "sustained output measured against standard 74W container seal. Apprentice held at 80W for 4-minute window. Threshold cleared."
+- An edge case where a candidate is borderline: a spell that should be T2 work came in at 140W — technically T3, which means a different certification track applies.
+Rell's voice is precise and slightly bureaucratic. He cares about the correct application of standards.
+
+### 3c. APPEND to content/WrittenWorks/Toven Ral's Journal.md
+
+Toven is a retired T5 Corps Field Lead in Hedun. Add 1-2 journal entries where Watt costs appear as natural reference for an experienced practitioner thinking about old work:
+- Recalling a field assessment that required T4-range casting (400-600W) in difficult conditions, and what that cost the team physically
+- Noting that the young T3 practitioners he sees in Hedun these days don't know what 1,500W feels like — not as a complaint, just as an observation about what you can't know until you've done it
+Toven's voice is spare, observational, does not sentimentalize.
+
+### 3d. APPEND to content/WrittenWorks/Ostal Mrev's Consultation Notes.md
+
+Ostal Mrev is a T3 infrastructure sigil specialist in Valdenmoor — deep expertise over tier. Add 1-2 consultation notes where Watt costs for infrastructure work appear:
+- A standard load-bearing structural reinforcement: notes the sigil cost, the materials required, the inscription time required because the permanent cost (400W add-on alone) pushed it above single-session capacity
+- A client who wanted Circle geometry on what should be a Square sigil job: Ostal's explanation of why the cost difference (8W base vs 55W base, then multiplied by Binding x10 = 80W vs 550W for the core alone) makes Circle unnecessary and wasteful for this application
+Ostal's voice is technical and mildly impatient with clients who don't understand geometry.
+
+---
+
+## RULES
+- No new lore, kingdoms, continents, or factions invented.
+- No character knows a High Demon's true identity.
+- Names must follow Solumora conventions (check WORLD_STATE.md).
+- Every new page needs at least 3 outbound links to existing pages.
+- Written works appendages must match the existing voice of each document exactly.
+- Plan this as 7 batches of 2: [1a+1b], [1c+2a], [2b+2c], [2d+3a], [3b+3c], [3d + review pass].

@@ -11,3 +11,8 @@ private/
 replit.nix
 .continue/
 tmpclaude-*
+agent/secrets.json
+agent/secrets.*
+agent/conversation.log
+agent/staging/
+agent/reports/

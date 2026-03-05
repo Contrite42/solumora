@@ -68,4 +68,4 @@ Music and performance are particularly vibrant in Hedun. The city's taverns and 
 
 **Jorik Helm** — Fishing fleet captain whose crews consistently return with larger catches than their competitors. T3 Detection specialist who claims his success comes from reading water conditions, though other captains suspect more sophisticated [[Flux]] applications than he admits to.
 
-*See also: [[Fennick]], [[High Demons]], [[Auralis]], [[Solhaven]], [[Ascendant Path]], [[The Council of Auralis]], [[Control Tier]], [[Flux Users]], [[Chemical]], [[Ancient Ruins]], [[Hypertext]], [[Wolfpoint]], [[Equatorial Desert]]*
+*See also: [[Fennick]], [[High Demons]], [[Auralis]], [[Solhaven]], [[Ascendant Path]], [[The Council of Auralis]], [[Control Tier]], [[Flux Users]], [[Ancient Ruins]], [[Hypertext]], [[Wolfpoint]], [[Equatorial Desert]]*

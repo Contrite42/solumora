@@ -1,7 +1,0 @@
-{
-  "stage": "watch_run_pipeline",
-  "time": 1772702594.9195359,
-  "error": "name 'step_gpt_qa_and_link' is not defined",
-  "traceback": "Traceback (most recent call last):\n  File \"C:\\USers\\Contrite42\\quartz\\agent\\orchestrator.py\", line 674, in on_modified\n    run_pipeline()\n  File \"C:\\USers\\Contrite42\\quartz\\agent\\orchestrator.py\", line 648, in run_pipeline\n    step_gpt_qa_and_link(ctx, all_changed)\n    ^^^^^^^^^^^^^^^^^^^^\nNameError: name 'step_gpt_qa_and_link' is not defined\n",
-  "extra": {}
-}

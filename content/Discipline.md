@@ -1,6 +1,6 @@
 **Discipline** is the fundamental variable in any [[Flux]] casting — the aspect of reality the spell will interact with. Every [[Sigils|sigil]] must specify exactly one discipline, which occupies one of the shape's outer variable slots and determines the base cost multiplier for the entire effect.
 
-The discipline system recognizes nine distinct categories of [[Flux]] interaction, each requiring different levels of precision from the ambient field. A spell that moves objects ([[Force]]) asks less of the Flux than a spell that reads thoughts ([[Mind]]) or manipulates soul-signature ([[Soul]]). This difference in precision demand is reflected in the cost multiplier each discipline applies to the [[Shape]] base cost.
+The discipline system recognizes nine distinct categories of [[Flux]] interaction, each requiring different levels of precision from the ambient field. A spell that moves objects (Force) asks less of the Flux than a spell that reads thoughts (Mind) or manipulates soul-signature (Soul). This difference in precision demand is reflected in the cost multiplier each discipline applies to the [[Shape]] base cost.
 
 ## Disciplines
 
