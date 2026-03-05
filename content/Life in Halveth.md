@@ -44,6 +44,10 @@ Children in Halveth learn this early. The fear is not hidden from them — it ca
 
 [[Auralis]] researchers who pass through and speak to Wren about rift conditions consistently report that she knows more than the official expedition literature does. The permanent residents find this unsurprising.
 
+[[Selt Orvn]] runs the supply depot and has eighteen years of experience at the edge. He keeps a running record of which sigil configurations have actually been used in rift responses, as opposed to which ones the official expedition literature recommends. There is a gap. The literature assumes ideal conditions and coordinated team responses. The field reports describe improvisation, panic, and whatever worked well enough to let someone survive to write the report. Selt's inventory reflects the field reports, not the literature.
+
+[[Vorn Teld]] survived a three-demon emergence on a crossing six years ago and has been in Halveth since, doing pre-departure consultations for expeditions that want someone who has been in that situation. He doesn't call himself an expert. The permanent residents don't call him one either. They call him available. The consultations are uncomfortable for everyone involved — expedition members who want reassurance that their planning is adequate, and Vorn who knows that no amount of planning is adequate for some situations, only better or worse. He does them because someone should.
+
 ## Children
 
 A child born in Halveth grows up understanding the supply trade before they understand much else. By the time they can carry anything useful they are being used to carry useful things. By adolescence they know the sigil sets by quality and application, can identify under-provisioned expeditions by sight, and have spent enough time listening to supplier conversations to have a working model of what the desert costs and what it takes.
