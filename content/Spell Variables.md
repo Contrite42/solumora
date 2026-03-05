@@ -63,4 +63,4 @@ At the center of every spell lie three defining elements: [[Hook]], [[Mode]], an
    - Default: **Where Written** (the inscribed surface/object)  
    - Options: Self, Individual, Object, Surface, Group, Filter, Marked  
    The chosen target determines exactly who or what the spell affects.
-*See also: [[Hook]], [[Mode]], [[Control Tier]], [[Shape]], [[Discipline]], [[Output Mode]], [[Geometry Pattern]], [[Reach]], [[Persistence]], [[Target Spec]], [[Sigils]]*
+*See also: [[Hook]], [[Mode]], [[Control Tier]], [[Flux Expenditure]], [[Shape]], [[Discipline]], [[Output Mode]], [[Geometry Pattern]], [[Reach]], [[Persistence]], [[Target Spec]], [[Sigils]]*

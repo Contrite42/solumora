@@ -145,4 +145,4 @@ Control Tier measures Flux capacity and handling ceiling. It does not measure co
 
 Tier is a useful shorthand for what a caster can safely attempt. It is a poor shorthand for what a caster can actually do.
 
-*See also: [[Flux Users]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]]*
+*See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]]*
