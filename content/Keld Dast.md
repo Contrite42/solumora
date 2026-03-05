@@ -1,0 +1,9 @@
+Keld Dast is thirty-eight and has worked the northern mine shafts outside [[Greyveil]] for nineteen years, following his father's practice and his grandfather's before that. His [[Control Tier|tier assessed at T1]] when he was ten. He uses it for structural soundings — a technique that tells him whether a section of shaft needs bracing before the rock announces that opinion more dramatically. He learned it from his father, who learned it from his. It has never been formally taught anywhere he is aware of.
+
+The shafts his family works run east of the city into the rock formations that feed Greyveil's ore economy. They are not deep by any standard that would impress a mining operation further south — the richest seams ran out two generations ago — but they produce consistently and the family knows this particular ground in a way that newer crews do not. Keld brought in two outside teams three years ago to assist with the more labor-intensive extraction work. He pays them fairly and expects them to follow his directions on shaft conditions without discussion. So far they have.
+
+He has been to [[Valdenmoor]] once, for a guild licensing dispute that was resolved in his favor. He found the city interesting in the way that a large enclosed space is interesting — pressing inward in a manner he does not associate with the mine shafts, which are small but legible. He came home satisfied and has not left since.
+
+The travelers passing through Greyveil on the northern road are part of the city the way the wind off the rock formations is part of the city — present, not particularly interesting, not worth organizing around. He has given directions to [[Wolfpoint]] more times than he has counted. He could not tell you anything about it.
+
+*See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Flux Users]], [[Control Tier]]*

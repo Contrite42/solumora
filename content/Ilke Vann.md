@@ -1,0 +1,9 @@
+Ilke Vann trades the coastal circuit between [[Ashford]] and [[Halveth]] on a shallow-draft vessel they have owned for eleven years. They are forty-three, [[Control Tier|T2]], and have been working the coast since they were twenty-five. The vessel is named *Reasonable Margin*, which was a joke about the economics of the first year that has outlasted the circumstances that prompted it.
+
+The round circuit takes approximately three weeks depending on weather and cargo. Ilke carries whatever is moving — preserved fish and salt north from Ashford, timber goods and certain Halveth manufactures south, the occasional passenger who needs to move without using the inland roads and doesn't want to explain why. They do not ask. The coast between Ashford and Halveth is not demanding sailing, but it is specific: the current behavior at the cape halfway through, a stretch of cliff coast that requires timing against tidal windows, the sand bar at the Halveth harbor mouth that shifts with the season and has caught at least two other operators Ilke is aware of.
+
+Their T2 casting is weather-reading, primarily — the kind of extended atmospheric sensing that tells you what the sky will do six hours before the sky announces it. On a coastal run, six hours is the difference between arriving before a system or waiting it out in a cove for two days. The certification cost more than the boat. They have never regretted it.
+
+They have been writing letters to a person in Halveth for fifteen years. The letters go in both directions. Ilke's are longer and more specific, particularly about what the coast looks like from the water at different times of year, in different weather, in different light. They have not examined why this is. The letters continue regardless.
+
+*See also: [[Ashford]], [[Halveth]], [[Life in Halveth]], [[Terravelle]], [[Ilke Vann's Letters]]*
