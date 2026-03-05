@@ -14,4 +14,4 @@ Eddan has at least two people in Greyveil whose primary function is observing th
 
 Greyveil itself is a frontier city in the practical sense: resourceful, self-reliant, and accustomed to being the last place that has something before the map runs out. It has a trade culture built on serving travelers going further north and coming back from further north, and the result is a city with a higher-than-average tolerance for unusual people, unusual goods, and unusual information. Greyveil has been fielding questions about Wolfpoint for several generations. Most locals have a working account of what it is, most of which is partially accurate.
 
-*See also: [[Terravelle]], [[Wolfpoint]], [[Hypertext]], [[Valdenmoor]], [[Eddan Voss]], [[Sera Voss]]*
+*See also: [[Terravelle]], [[Wolfpoint]], [[Hypertext]], [[Valdenmoor]], [[Eddan Voss]], [[Sera Voss]], [[Life in Greyveil]]*
