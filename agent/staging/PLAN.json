@@ -1,163 +1,75 @@
 {
   "notes": [
     {
-      "path": "content/Places/Aridos.md",
+      "path": "content/Flux Expenditure.md",
       "action": "create",
-      "purpose": "A major trading city in northern Auralis where the Shadowhand Brotherhood operates from the shadows.",
+      "purpose": "Replace entire file with corrected Additive Effect section and new Hook/Mode section",
       "links": [
-        "[[Auralis]]",
-        "[[The Shadowhand Brotherhood]]",
-        "[[Kaelin Darkhaven]]"
+        "[[Flux]]",
+        "[[Watts]]",
+        "[[Control Tier]]",
+        "[[Spell Variables]]",
+        "[[Discipline]]",
+        "[[Shape]]",
+        "[[Hook]]",
+        "[[Mode]]"
       ]
     },
     {
-      "path": "content/Places/Zha'thik.md",
+      "path": "content/Spell Variables.md",
       "action": "create",
-      "purpose": "An abandoned temple complex in the Equatorial Desert where strange lights have been reported.",
+      "purpose": "Replace entire file adding slot constraint table to Shape section and Hook/Mode multiplier explanation to Center Core section",
       "links": [
-        "[[Equatorial Desert]]",
-        "[[Ancient Ruins]]",
-        "[[Flux Demons]]"
+        "[[Flux]]",
+        "[[Sigils]]",
+        "[[Control Tier]]",
+        "[[Shape]]",
+        "[[Discipline]]",
+        "[[Hook]]",
+        "[[Mode]]",
+        "[[Flux Cost Reference]]"
       ]
     },
     {
-      "path": "content/Factions/The Shadowhand Brotherhood.md",
+      "path": "content/Discipline.md",
       "action": "create",
-      "purpose": "A secretive organization of assassins and information brokers operating across both kingdoms.",
+      "purpose": "Replace entire file adding multiplier values to discipline names and new Cost Multipliers section with reference table",
       "links": [
-        "[[Kaelin Darkhaven]]",
-        "[[Aridos]]",
-        "[[The Ironfist Legion]]"
+        "[[Flux]]",
+        "[[Shape]]",
+        "[[Watts]]",
+        "[[Control Tier]]",
+        "[[Sigils]]",
+        "[[Output Mode]]",
+        "[[Raw]]",
+        "[[Force]]",
+        "[[Heat]]",
+        "[[Light]]",
+        "[[Sound]]",
+        "[[Electric]]",
+        "[[Chemical]]",
+        "[[Binding]]",
+        "[[Mind]]",
+        "[[Soul]]"
       ]
     },
     {
-      "path": "content/Factions/The Luminari Enclave.md",
-      "action": "create",
-      "purpose": "A spiritual order seeking ancient artifacts and practicing advanced Flux techniques.",
+      "path": "content/Control Tier.md",
+      "action": "append",
+      "purpose": "Add Watt Cost Ranges section before final See also line showing tier thresholds with canonical examples",
       "links": [
-        "[[Lila Earthsong]]",
-        "[[Valtania]]",
-        "[[Ancient Ruins]]"
-      ]
-    },
-    {
-      "path": "content/People/Kaelin Darkhaven.md",
-      "action": "create",
-      "purpose": "A master assassin with unparalleled stealth abilities who leads operations for the Shadowhand Brotherhood.",
-      "links": [
-        "[[The Shadowhand Brotherhood]]",
-        "[[Aridos]]",
-        "[[Kato Blackwood]]"
-      ]
-    },
-    {
-      "path": "content/People/Lila Earthsong.md",
-      "action": "create",
-      "purpose": "The charismatic spiritual leader of the Luminari Enclave who seeks to unlock the secrets of the ancient civilization.",
-      "links": [
-        "[[The Luminari Enclave]]",
-        "[[Valtania]]",
-        "[[Niamh Windsong]]"
-      ]
-    },
-    {
-      "path": "content/Places/Valtania.md",
-      "action": "create",
-      "purpose": "A remote mountain settlement where the Luminari Enclave searches for powerful artifacts.",
-      "links": [
-        "[[The Luminari Enclave]]",
-        "[[Lila Earthsong]]",
-        "[[Terravelle]]"
-      ]
-    },
-    {
-      "path": "content/Places/Khyronia.md",
-      "action": "create",
-      "purpose": "An ancient ruin site where a group of rogue scholars recently went missing during their investigation.",
-      "links": [
-        "[[Ancient Ruins]]",
-        "[[Equatorial Desert]]",
-        "[[Flux]]"
-      ]
-    },
-    {
-      "path": "content/Factions/The Ironfist Legion.md",
-      "action": "create",
-      "purpose": "A military organization that may be secretly controlled by the Shadowhand Brotherhood.",
-      "links": [
-        "[[Arin the Bold]]",
-        "[[The Shadowhand Brotherhood]]",
-        "[[Terravelle]]"
-      ]
-    },
-    {
-      "path": "content/People/Arin the Bold.md",
-      "action": "create",
-      "purpose": "A fearless warrior and commander of the Ironfist Legion who may be unaware of his organization's true loyalties.",
-      "links": [
-        "[[The Ironfist Legion]]",
-        "[[Thrain Stonefist]]",
-        "[[Terravelle]]"
-      ]
-    },
-    {
-      "path": "content/People/Niamh Windsong.md",
-      "action": "create",
-      "purpose": "A gifted healer and botanist who works with the Luminari Enclave to understand ancient Flux applications.",
-      "links": [
-        "[[The Luminari Enclave]]",
-        "[[Lila Earthsong]]",
-        "[[Zara Greenhaven]]"
-      ]
-    },
-    {
-      "path": "content/People/Kato Blackwood.md",
-      "action": "create",
-      "purpose": "A cunning thief and smuggler with extensive underworld connections who operates between both kingdoms.",
-      "links": [
-        "[[The Shadowhand Brotherhood]]",
-        "[[Kaelin Darkhaven]]",
-        "[[Aria Moonwhisper]]"
-      ]
-    },
-    {
-      "path": "content/Places/Nefaria.md",
-      "action": "create",
-      "purpose": "A border town where a mysterious cult is rumored to worship an otherworldly deity.",
-      "links": [
-        "[[Flux Demons]]",
-        "[[High Demons]]",
-        "[[Equatorial Desert]]"
-      ]
-    },
-    {
-      "path": "content/Factions/The Wilderfolk Alliance.md",
-      "action": "create",
-      "purpose": "A coalition of rural communities that possesses powerful healing magic and maintains independence from both kingdoms.",
-      "links": [
-        "[[Zara Greenhaven]]",
-        "[[Life in Rural Terravelle]]",
-        "[[Covenant of Measure]]"
-      ]
-    },
-    {
-      "path": "content/People/Zara Greenhaven.md",
-      "action": "create",
-      "purpose": "A wise elder of the Wilderfolk Alliance who guards ancient healing secrets passed down through generations.",
-      "links": [
-        "[[The Wilderfolk Alliance]]",
-        "[[Niamh Windsong]]",
-        "[[Life in Rural Terravelle]]"
-      ]
-    },
-    {
-      "path": "content/People/Aria Moonwhisper.md",
-      "action": "create",
-      "purpose": "A free-spirited performer and storyteller who travels between settlements carrying news and rumors.",
-      "links": [
-        "[[Kato Blackwood]]",
-        "[[The Wilderfolk Alliance]]",
-        "[[Ordinary Life in Terravelle]]"
+        "[[Watts]]",
+        "[[Flux Cost Reference]]",
+        "[[Hook]]",
+        "[[Mode]]",
+        "[[Triangle]]",
+        "[[Circle]]",
+        "[[Raw]]",
+        "[[Light]]",
+        "[[Binding]]",
+        "[[Heat]]",
+        "[[Mind]]",
+        "[[Soul]]"
       ]
     }
   ],
@@ -169,30 +81,6 @@
     [
       2,
       3
-    ],
-    [
-      4,
-      5
-    ],
-    [
-      6,
-      7
-    ],
-    [
-      8,
-      9
-    ],
-    [
-      10,
-      11
-    ],
-    [
-      12,
-      13
-    ],
-    [
-      14,
-      15
     ]
   ]
 }

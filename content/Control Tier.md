@@ -146,3 +146,22 @@ Control Tier measures Flux capacity and handling ceiling. It does not measure co
 Tier is a useful shorthand for what a caster can safely attempt. It is a poor shorthand for what a caster can actually do.
 
 *See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]]*
+
+## Watt Cost Ranges
+
+Every tier corresponds to a Flux cost range measured in [[Watts]]. The ranges below reflect outer-variable costs from the [[Flux Cost Reference]] — the structural cost of the sigil geometry before Hook/Mode action complexity is applied.
+
+| Tier | W Range           | Canonical example                                        |
+|------|-------------------|----------------------------------------------------------|
+| T0   | 1–10 W            | Triangle Raw, single default                             |
+| T1   | 11–40 W           | Triangle Light + Timed Long (34W)                        |
+| T2   | 41–130 W          | Triangle Binding + Touch + Latched + Object (74W)        |
+| T3   | 131–400 W         | Circle Heat + Medium + Sustained + Individual (133W)     |
+| T4   | 401–1,300 W       | Circle Binding + Touch + Sustained + Individual (560W)   |
+| T5   | 1,301–4,000 W     | Circle Mind + Field + LoS + Group (1,555W)               |
+| T6   | 4,001–13,000 W    | Circle Soul + Touch + Permanent + Individual (4,535W)    |
+| T7   | 13,001–40,000 W   | Hook/Mode Extreme (×10) applied to T5–T6 outer structure |
+| T8   | 40,001–130,000 W  | Hook/Mode Transcendent (×30) on T6 outer structure       |
+| T9   | 130,001+ W        | Hook/Mode Absolute (×100), or Transcendent on max structure|
+
+T0–T6 are reachable through outer sigil variables alone. T7–T9 require elevated Hook/Mode complexity — the outer variables alone cannot produce costs above approximately 5,000W regardless of configuration. A practitioner may have the tier ceiling to execute a T7 effect. Whether they can construct the action its Hook requires is a separate question.

@@ -1,75 +1,56 @@
-The ambient [[Flux]] field that permeates [[Solumora]] is not a finite resource. A practitioner is not drawing down a personal reserve when they cast. What they are doing is imposing a precise structure on a portion of the field — channeling Flux into a specific shape, through a specific [[Discipline]], with specific variable parameters — and the cost of that imposition is measured in precision rather than quantity.
+[[Flux]] expenditure is the cost of channeling — the physical and mental toll that moving [[Flux]] through a person demands. Every [[Sigils|sigil]]-based spell requires the caster to hold multiple variables simultaneously in precise geometric relationship while channeling the energy to activate them. The cost scales with the complexity of what is being attempted and determines the [[Control Tier]] requirement for execution.
 
-This is what [[Control Tier]] actually describes. A T2 practitioner has the channeling precision to handle T2 demands. A T1 spell, with its lower precision requirements, is well within that capacity — they can execute T1 work all day without significant toll. A T3 spell requires precision they cannot safely sustain; it exceeds their ceiling. The Flux is available. The precision to shape it is not.
+The expenditure is measured in [[Watts]], the same unit used for the currency system, though the two applications are entirely separate. Casting a 100W spell does not debit your bank account. The Watt measurement describes the precision demand the spell places on the caster's ability to channel [[Flux]] accurately.
 
-## Discipline Base Cost
+## Immediate vs Sustained Cost
 
-The first and largest component of a spell's precision demand comes from its [[Discipline]]. Not all disciplines impose equal precision on the Flux channeling process. Interacting with physical reality requires less refinement than interacting with consciousness or soul-signature — the former follows pathways the Flux field handles naturally; the latter requires the caster to make distinctions the field does not natively distinguish.
+Most spells require their full cost to be channeled at the moment of casting. A 500W spell demands that the caster hold 500W worth of precision for the duration of the casting process — typically seconds to minutes depending on complexity. Once the spell activates, the cost is paid and the effect continues according to its [[Persistence]] setting.
 
-**Physical disciplines (low baseline):**
+Sustained spells work differently. The caster pays the base cost at activation, then continues to channel a maintenance cost for as long as the effect remains active. A spell with Sustained persistence typically adds 10W per 10-minute interval to its base cost, paid continuously while the effect operates. This maintenance cost is lower than the activation cost but accumulates over time, making sustained effects expensive for long-duration use.
 
-**Force** is the cheapest discipline to channel. Kinetic and pressure interactions follow predictable Flux pathways; the caster is shaping direction and magnitude, both clear physical referents. A Force spell's baseline precision demand is lower than any other discipline.
+The daily capacity limits documented in the [[Flux Cost Reference]] represent comfortable working ranges — the amount a practitioner can channel without significant fatigue. Pushing past these limits is possible but carries increasing physical and mental toll. Exceeding them substantially risks channel damage that can reduce a practitioner's effective tier permanently.
 
-**Heat** is nearly as cheap. The Flux field interacts with thermal states naturally — distinguishing hot from cold is not a precision problem in the way that distinguishing friend from foe, or body from soul, is.
+## Additive Effect
 
-**Physical-complex disciplines (moderate baseline):**
+The total cost of a [[Sigils|sigil]]-based spell is calculated as: Shape base W × Discipline multiplier, plus flat additions from all specified outer variables, multiplied by the Hook/Mode complexity factor.
 
-**Electric, Chemical, Sound, Light** each require more precise interaction with physical properties. Routing Flux along conductive pathways, interacting with molecular structure, controlling frequency — these are more refined than direct pressure or heat, but still grounded in physical referents the field can handle without extreme precision.
+The core cost comes from the intersection of [[Shape]] and [[Discipline]]. Shape provides the base Watt value — Triangle (3W), Square (8W), Pentagon (20W), Circle (55W). Discipline provides the multiplier — Raw (×1), Force (×2), Heat (×2), Light (×3), Sound (×4), Electric (×5), Chemical (×5), Binding (×10), Mind (×25), Soul (×75). A Circle Soul sigil starts at 55 × 75 = 4,125W before any other variables are added.
 
-**Structural disciplines (elevated baseline):**
+The outer variables — [[Pattern]], [[Reach]], [[Persistence]], [[Target Spec]], [[Output Mode]] — add flat costs to this core. A Circle Soul sigil with Touch (+2W), Permanent (+400W), and Individual (+8W) totals 4,535W, placing it at the T6 level.
 
-**Binding** requires Flux to interact with the relational layer of objects or people — not their physical properties but the structural relationships between them. The precision jump from physical to relational is significant. A Binding spell has a substantially higher baseline demand than any physical discipline at equivalent shape and variable specification.
+Without Hook/Mode elevation, the outer variables alone cannot produce costs above approximately 5,000W regardless of configuration. This represents the ceiling of what sigil structure can express — the most complex geometric arrangement with the highest-cost discipline and all variables maximized. Effects described as T7–T9 require Hook/Mode multipliers to reach their actual cost ranges.
 
-**Consciousness and soul disciplines (high baseline):**
+## Hook and Mode — Core Action Complexity
 
-**Mind** requires the channeling pathway to reach and interact with consciousness — a distinction the Flux field does not naturally make. The practitioner has to impose that specificity themselves, which is more precise than any physical interaction.
+Hook and Mode together form the center-core cost multiplier that applies to the spell's total outer variable cost. This multiplier represents the complexity of what the spell is asking the [[Flux]] to distinguish and act upon, separate from the structural complexity encoded in the sigil's geometry.
 
-**Soul** discipline interacts with the soul-signature layer, which is the most precise distinction possible within the current Flux system. Shaping Flux to interact with it specifically — rather than with the person's body, or their mind, or simply the space they occupy — requires more refinement than any other discipline. Soul is the most expensive baseline.
+The outer variables describe what the sigil is shaped to do — its reach, duration, targeting parameters, and output characteristics. Hook and Mode describe how deeply the [[Flux]] must reach to execute the core action. Simple physical interactions like heating, moving, or sealing carry minimal Hook/Mode cost (×1 multiplier). Effects that must read or alter identity, manipulate soul-signature, or override fundamental natural processes carry multipliers from ×10 to ×100.
 
-## Variable Specification Cost
+| Hook/Mode Level | Multiplier | Examples |
+|-----------------|------------|----------|
+| Basic | ×1 | Push, heat, light, seal, detect, surface thought read |
+| Moderate | ×2 | Sustained suppression, deep binding, complex physical altering |
+| Significant | ×4 | Deep mind read, emotional alteration, precise state detection |
+| Extreme | ×10 | Forced identity changes, soul severance, partial memory erasure |
+| Transcendent | ×30 | Revival from death, rewriting local physical laws |
+| Absolute | ×100 | Interacts with the Flux system architecture itself |
 
-Each outer [[Spell Variables|variable]] a practitioner specifies (rather than defaulting) adds to the cast's total precision demand. Specified variables are active constraints: the caster is holding that parameter in place throughout the channeling process, simultaneously with all other constraints.
+The distinction matters because the [[Flux]] field itself resists certain kinds of work more than others. Soul discipline already requires the [[Flux]] to find and interact with soul-signature specifically — a complex discrimination task. A Hook that demands "permanently rewrite what this person fundamentally is" requires the [[Flux]] to hold a different kind of distinction entirely, one the field resists exponentially more than simple soul detection or marking.
 
-Defaulted variables reduce this load. When [[Reach]] defaults to Self, the caster is not maintaining a precision connection across distance. When [[Persistence]] defaults to Immediate, the effect discharges once and ends — the caster does not sustain a precision structure over time. Defaults are not free, but they are substantially cheaper than their specified equivalents.
+This is why T7–T9 effects require elevated Hook/Mode complexity on top of high-end outer variable structure. The sigil may be geometrically constructible at T6 levels. The action the sigil is designed to perform places the effect beyond most practitioners' reach. A T6 practitioner might have the tier ceiling to channel the outer variables. Whether they can construct and sustain the Hook that makes those variables perform identity rewriting is a separate question entirely.
 
-The cost differential between the cheapest and most expensive specification of a variable is significant:
+## Embedded Objects and Distributed Cost
 
-**[[Reach]]**: Self is near-trivial. Touch and Short add minor demand — the connection is close and stable. Medium, Long, and Line-of-Sight increase cost substantially with distance, because maintaining precision across distance requires proportionally more. Linked is the most expensive reach specification: the precision connection must hold across variable and potentially large distances without a fixed geometric relationship.
+[[Sigils]] inscribed into objects during manufacture can distribute their [[Flux]] cost across the inscription process rather than requiring the full amount to be channeled at once. This allows practitioners to create permanent effects that exceed their single-cast ceiling, given sufficient inscription time and appropriate materials.
 
-**[[Persistence]]**: Immediate is minimal — the Flux shaping discharges and ends. Timed durations require sustaining the precision structure for their length, with longer durations proportionally more demanding. Sustained is ongoing cost as long as the effect is maintained; the practitioner's ceiling must comfortably accommodate it or they will tire. Permanent is, counterintuitively, not sustained cost for the caster after the fact — a permanent effect has locked itself into the object or structure — but achieving that lock during the initial cast requires extraordinary precision at that moment.
+The distribution is not linear — a 1,000W permanent effect cannot simply be inscribed in ten 100W sessions. The relationship between the effect's total cost and the inscription sessions required follows a curve that becomes increasingly inefficient for higher-cost effects. But the principle allows skilled craftspeople to produce embedded objects with capabilities beyond what their tier would suggest.
 
-**[[Geometry Pattern]]**: The spatial footprint of the effect scales cost directly. Point and Beam are modest additions. Cone and Ring are moderate. Sphere, Cylinder, and Field are the most demanding — the practitioner is maintaining precision across a volume rather than a direction or point.
+This is why embedded-object work represents a distinct trade from active casting. A T3 practitioner specializing in inscription work can produce permanent temperature regulation, structural reinforcement, or complex sealing effects that would require T4 or T5 capability if cast directly. The trade-off is time — inscription work for complex permanent effects can take weeks or months to complete.
 
-**[[Target Spec]]**: Where Written is minimal — the sigil itself defines the target. Self, Individual, and Object add only minor demand. Group requires the Flux shaping to encompass multiple targets. Filter is the most expensive target specification: the caster must impose a discriminating condition on the effect — it reaches some targets and not others based on a property the Flux field has to evaluate.
+## The Practical Ceiling
 
-**[[Output Mode]]**: Where the Output Mode aligns naturally with the Discipline (Thermal from Heat, Kinetic from Force, Sonic from Sound), the added cost is minimal — the Flux channels into the expected pathway. Cross-discipline pairings cost more. Kinetic from Mind or Constraint from Soul requires the channeling to bridge a gap the Flux field does not handle naturally.
+Most working practitioners operate well below their theoretical tier ceiling on a daily basis. A T4 practitioner with a 3,000W daily capacity typically casts effects in the 100–500W range for routine work, reserving higher-cost applications for situations that specifically require them. This is not conservatism — it is practical resource management. A practitioner who exhausts their daily capacity early cannot respond to unexpected demands later.
 
-## Shape and the Cost of Constraints
+The gap between theoretical capability and practical application becomes more pronounced at higher tiers. A T6 practitioner can theoretically cast 4,000W effects, but doing so represents their entire comfortable daily capacity. Most T6 work involves multiple moderate-cost applications rather than single maximum-effort casts.
 
-The [[Shape]] of a sigil determines how many outer variables the caster is actively controlling. Each outer point is a live precision constraint during the cast.
-
-A Triangle (three outer points) imposes three simultaneous constraints. A Circle (six outer points plus center = seven active constraints) imposes more than twice as many. The additive cost of additional constraints is not linear — maintaining precision across seven simultaneous parameters is disproportionately harder than maintaining three, because any instability in one can cascade into the others.
-
-This is why Shape is not purely about access to more variable slots. A Circle sigil with minimal variable specifications is still more demanding than a Triangle sigil with the same variable specifications, because the shape itself imposes precision requirements regardless of what the slots contain.
-
-## The Additive Effect
-
-These costs compound. A spell's total precision demand is approximately:
-
-**Discipline base cost × Shape multiplier × Variable specification costs**
-
-A Triangle Force sigil with defaulted Reach, Persistence, and Target — the kind of spell that fills basic [[Grimoires|working grimoires]] — sits near the minimal end of the precision spectrum. A T1 practitioner handles it with capacity to spare. A T2 practitioner finds it trivial. A T0 practitioner may find even this demands their full precision ceiling.
-
-A Circle Soul sigil with all six outer variables specified sits near the other extreme. The soul discipline's high baseline, multiplied by the seven-constraint shape, further multiplied by the precision demands of a long Reach or a Timed Long Persistence, produces a total demand in the T6 to T8 range — well above what most practitioners can safely channel, regardless of how much ambient Flux is available.
-
-## What This Explains
-
-**Basic grimoires favor Triangle and Square shapes with Force, Heat, and Binding disciplines** because these combinations minimize total precision demand while still producing usable effects. A T2 practitioner working with Triangle Force sigils is operating at perhaps a quarter of their ceiling — they can sustain this work through a full day without meaningful toll, and the low ceiling proximity means the misfire risk approaches zero.
-
-**Mind and Soul disciplines appear only in advanced collections** because the discipline base cost floors their total precision demand above T3 or T4 even in the simplest configurations. A Triangle Soul spell requires higher precision than a Circle Force spell. The discipline cost dominates the shape cost at the extremes.
-
-**Experienced practitioners appear to do more with the same tier** because they have refined their Flux channeling to eliminate waste. A practitioner who has run the same Square Binding sigil for twenty years has internalized the precision structure to a degree that requires less active effort than it would for someone learning it. The ceiling has not changed. The proportion of that ceiling consumed by a given cast has declined, leaving more available for sustained work or combined application.
-
-**Prepared sigils are more efficient than improvised casts** because the variable geometry is encoded in the physical inscription. When a practitioner activates a pre-inscribed sigil, the Flux structure is partially established by the geometry — they are channeling into a framework that already defines its constraints, rather than holding all constraints simultaneously from nothing. The preparation absorbs part of the precision cost so the activation remains accessible to practitioners who could not construct the same spell from scratch.
-
-*See also: [[Flux Cost Reference]], [[Control Tier]], [[Spell Variables]], [[Discipline]], [[Shape]], [[Sigils]], [[Grimoires]], [[Flux]], [[Flux Users]], [[Hypertext]], [[Hand Signs]]*
+*See also: [[Flux]], [[Control Tier]], [[Spell Variables]], [[Flux Cost Reference]], [[Sigils]], [[Discipline]], [[Shape]], [[Hook]], [[Mode]], [[Watts]], [[Persistence]]*

@@ -1,20 +1,8 @@
 {
   "changed_files": [
-    "content\\Factions\\The Ironfist Legion.md",
-    "content\\Factions\\The Luminari Enclave.md",
-    "content\\Factions\\The Shadowhand Brotherhood.md",
-    "content\\Factions\\The Wilderfolk Alliance.md",
-    "content\\People\\Aria Moonwhisper.md",
-    "content\\People\\Arin the Bold.md",
-    "content\\People\\Kaelin Darkhaven.md",
-    "content\\People\\Kato Blackwood.md",
-    "content\\People\\Lila Earthsong.md",
-    "content\\People\\Niamh Windsong.md",
-    "content\\People\\Zara Greenhaven.md",
-    "content\\Places\\Aridos.md",
-    "content\\Places\\Khyronia.md",
-    "content\\Places\\Nefaria.md",
-    "content\\Places\\Valtania.md",
-    "content\\Places\\Zha'thik.md"
+    "content\\Control Tier.md",
+    "content\\Discipline.md",
+    "content\\Flux Expenditure.md",
+    "content\\Spell Variables.md"
   ]
 }
