@@ -1,0 +1,120 @@
+{
+  "notes": [
+    {
+      "path": "content/Terravelle/Valdenmoor.md",
+      "action": "create",
+      "purpose": "The capital city of Terravelle, seat of King Eddan Voss and center of pragmatic northern governance.",
+      "links": ["[[Terravelle]]", "[[Eddan Voss]]", "[[Cael Voss]]", "[[Terravelle Administration]]", "[[Covenant of Measure]]", "[[Life in Valdenmoor]]"]
+    },
+    {
+      "path": "content/Terravelle/Life in Valdenmoor.md",
+      "action": "create",
+      "purpose": "Daily life in Terravelle's capital, where practical governance meets guild traditions and rural sensibilities.",
+      "links": ["[[Valdenmoor]]", "[[Terravelle]]", "[[Ordinary Life in Terravelle]]", "[[Guild System]]", "[[Control Tier]]", "[[Covenant of Measure]]"]
+    },
+    {
+      "path": "content/People/Cael Voss.md",
+      "action": "create",
+      "purpose": "Nineteen-year-old heir to Terravelle's throne, more interested in Flux mechanics than politics.",
+      "links": ["[[Eddan Voss]]", "[[Terravelle]]", "[[Valdenmoor]]", "[[Flux]]", "[[Control Tier]]", "[[Hypertext]]"]
+    },
+    {
+      "path": "content/Organizations/Guild System.md",
+      "action": "create",
+      "purpose": "Terravelle's practical trade organization system that values demonstrated competence over formal hierarchy.",
+      "links": ["[[Terravelle]]", "[[Terravelle Administration]]", "[[Covenant of Measure]]", "[[Life in Valdenmoor]]", "[[Life in Rural Terravelle]]", "[[Control Tier]]"]
+    },
+    {
+      "path": "content/Organizations/Terravelle Administration.md",
+      "action": "create",
+      "purpose": "The practical governance structure of the northern kingdom, built around regional autonomy and guild cooperation.",
+      "links": ["[[Terravelle]]", "[[Eddan Voss]]", "[[Valdenmoor]]", "[[Guild System]]", "[[Covenant of Measure]]", "[[The Three Near-Wars]]"]
+    },
+    {
+      "path": "content/People/Rett Soln.md",
+      "action": "create",
+      "purpose": "Experienced desert guide operating from Halveth, survivor of multiple crossings with deep knowledge of Zakros conditions.",
+      "links": ["[[Halveth]]", "[[Equatorial Desert]]", "[[Wren]]", "[[Rift Incursions]]", "[[Auralis]]", "[[Flux Demons]]"]
+    },
+    {
+      "path": "content/People/Avel Coss.md",
+      "action": "create",
+      "purpose": "Auralis expedition researcher studying ancient ruins, caught between academic curiosity and Council politics.",
+      "links": ["[[Ancient Ruins]]", "[[Auralis]]", "[[The Council of Auralis]]", "[[Emberfall]]", "[[Equatorial Desert]]", "[[Adventurers]]"]
+    },
+    {
+      "path": "content/People/Ossen Drel.md",
+      "action": "create",
+      "purpose": "Halveth supply merchant specializing in desert crossing equipment, former expedition member turned pragmatic trader.",
+      "links": ["[[Halveth]]", "[[Equatorial Desert]]", "[[Wren]]", "[[Rett Soln]]", "[[Auralis]]", "[[Watts]]"]
+    },
+    {
+      "path": "content/People/Celn Vard.md",
+      "action": "create",
+      "purpose": "Independent researcher investigating the connection between ancient ruins and the Watts ledger system.",
+      "links": ["[[Ancient Ruins]]", "[[Watts]]", "[[Equatorial Desert]]", "[[Sera Voss]]", "[[Hypertext]]", "[[Flux]]"]
+    },
+    {
+      "path": "content/Locations/Emberfall.md",
+      "action": "create",
+      "purpose": "Auralis research facility dedicated to studying ancient ruins and advancing magical theory under Council direction.",
+      "links": ["[[Auralis]]", "[[The Council of Auralis]]", "[[Ancient Ruins]]", "[[Drest]]", "[[Castor Helme]]", "[[Avel Coss]]"]
+    },
+    {
+      "path": "content/People/Bren Ossve.md",
+      "action": "create",
+      "purpose": "Rural Terravelle hunter and trapper, representative of the forest communities' self-sufficient lifestyle.",
+      "links": ["[[Life in Rural Terravelle]]", "[[Terravelle]]", "[[Covenant of Measure]]", "[[Flux Users]]", "[[Control Tier]]", "[[Guild System]]"]
+    },
+    {
+      "path": "content/People/Reth Caln.md",
+      "action": "create",
+      "purpose": "Rural Terravelle flux user specializing in food preservation, essential to forest community survival.",
+      "links": ["[[Life in Rural Terravelle]]", "[[Terravelle]]", "[[Flux Users]]", "[[Sigils]]", "[[Control Tier]]", "[[Covenant of Measure]]"]
+    },
+    {
+      "path": "content/People/Solen Carr.md",
+      "action": "create",
+      "purpose": "Young person from rural Terravelle assessed at high tier, facing the choice between city training and community loyalty.",
+      "links": ["[[Life in Rural Terravelle]]", "[[Terravelle]]", "[[Control Tier]]", "[[Valdenmoor]]", "[[Flux Users]]", "[[Guild System]]"]
+    },
+    {
+      "path": "content/People/Teva Orrn.md",
+      "action": "create",
+      "purpose": "Rural Terravelle community elder, keeper of traditional knowledge and practical wisdom.",
+      "links": ["[[Life in Rural Terravelle]]", "[[Terravelle]]", "[[Covenant of Measure]]", "[[Guild System]]", "[[Control Tier]]", "[[Flux Users]]"]
+    },
+    {
+      "path": "content/People/Cor Meln.md",
+      "action": "create",
+      "purpose": "Halveth innkeeper who provides shelter and information to desert crossing expeditions.",
+      "links": ["[[Halveth]]", "[[Wren]]", "[[Equatorial Desert]]", "[[Rett Soln]]", "[[Ossen Drel]]", "[[Auralis]]"]
+    },
+    {
+      "path": "content/People/Selt Orvn.md",
+      "action": "create",
+      "purpose": "Former expedition member now permanent Halveth resident, supplier of specialized desert survival gear.",
+      "links": ["[[Halveth]]", "[[Equatorial Desert]]", "[[Wren]]", "[[Ossen Drel]]", "[[Rift Incursions]]", "[[Flux Demons]]"]
+    },
+    {
+      "path": "content/People/Vorn Teld.md",
+      "action": "create",
+      "purpose": "Halveth guide specializing in rift zone navigation, one of the few who understands demon movement patterns.",
+      "links": ["[[Halveth]]", "[[Rift Incursions]]", "[[Flux Demons]]", "[[Wren]]", "[[Equatorial Desert]]", "[[Auralis]]"]
+    },
+    {
+      "path": "content/Locations/Life in Halveth.md",
+      "action": "create",
+      "purpose": "Daily life in the border settlement that serves as the gateway to the Equatorial Desert.",
+      "links": ["[[Halveth]]", "[[Wren]]", "[[Equatorial Desert]]", "[[Rift Incursions]]", "[[Auralis]]", "[[Terravelle]]"]
+    },
+    {
+      "path": "content/People/Lenne Sosk.md",
+      "action": "create",
+      "purpose": "Harbor district dockworker in Solhaven, representative of the city's working foundation.",
+      "links": ["[[Life in Solhaven]]", "[[Solhaven]]", "[[Auralis]]", "[[Control Tier]]", "[[Ascendant Path]]", "[[Watts]]"]
+    },
+    {
+      "path": "content/People/Oryen Veld.md",
+      "action": "create",
+      "purpose": "Middle terrace guild administrator in Solhaven, navigating the city's social hierarchy.",

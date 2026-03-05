@@ -1,0 +1,168 @@
+{
+  "notes": [
+    {
+      "path": "content/People in Motion/Kess Valdorn.md",
+      "action": "create",
+      "purpose": "A mid-tier Formulist traveling from Solhaven to Halveth with expedition supplies and personal questions about the ancient ruins.",
+      "links": [
+        "[[Solhaven]]",
+        "[[Halveth]]",
+        "[[Ancient Ruins]]",
+        "[[Flux Users]]",
+        "[[Equatorial Desert]]"
+      ]
+    },
+    {
+      "path": "content/People in Motion/Thane Corwick.md",
+      "action": "create",
+      "purpose": "A Terravelle guide who has crossed the desert twice and now questions whether the council's expeditions are looking for the right things.",
+      "links": [
+        "[[Terravelle]]",
+        "[[Equatorial Desert]]",
+        "[[The Council of Auralis]]",
+        "[[Ancient Ruins]]",
+        "[[Halveth]]"
+      ]
+    },
+    {
+      "path": "content/People in Motion/Sera Nightwind.md",
+      "action": "create",
+      "purpose": "A young Auralis researcher carrying sealed documents about Watts discoveries toward the northern border.",
+      "links": [
+        "[[Auralis]]",
+        "[[Watts]]",
+        "[[Terravelle]]",
+        "[[Ancient Ruins]]",
+        "[[Castor Helme]]"
+      ]
+    },
+    {
+      "path": "content/Locations/The Thornwall Inn.md",
+      "action": "create",
+      "purpose": "A waystation between Solhaven and Halveth where expedition members gather information and desert-crossers share warnings.",
+      "links": [
+        "[[Solhaven]]",
+        "[[Halveth]]",
+        "[[Equatorial Desert]]",
+        "[[Rift Incursions]]",
+        "[[Life in Rural Terravelle]]"
+      ]
+    },
+    {
+      "path": "content/Locations/Millhaven.md",
+      "action": "create",
+      "purpose": "A prosperous Terravelle river town where lumber trade meets Flux-enhanced agriculture and political tensions simmer.",
+      "links": [
+        "[[Terravelle]]",
+        "[[Life in Rural Terravelle]]",
+        "[[Watts]]",
+        "[[Covenant of Measure]]",
+        "[[Auralis]]"
+      ]
+    },
+    {
+      "path": "content/Organizations/The Cartographers Guild.md",
+      "action": "create",
+      "purpose": "An Auralis guild that maps trade routes and secretly catalogs anomalous Flux readings across both kingdoms.",
+      "links": [
+        "[[Auralis]]",
+        "[[Ancient Ruins]]",
+        "[[Equatorial Desert]]",
+        "[[The Council of Auralis]]",
+        "[[Terravelle]]"
+      ]
+    },
+    {
+      "path": "content/Organizations/The Thornwatch.md",
+      "action": "create",
+      "purpose": "An informal network of rural Terravelle settlements that share information about unusual travelers and strange occurrences.",
+      "links": [
+        "[[Life in Rural Terravelle]]",
+        "[[Terravelle]]",
+        "[[High Demons]]",
+        "[[Rift Incursions]]",
+        "[[Covenant of Measure]]"
+      ]
+    },
+    {
+      "path": "content/Events/The Millhaven Incident.md",
+      "action": "create",
+      "purpose": "A recent trade dispute that escalated when Auralis merchants accused Terravelle suppliers of hoarding strategic materials.",
+      "links": [
+        "[[Millhaven]]",
+        "[[Auralis]]",
+        "[[Terravelle]]",
+        "[[The Three Near-Wars]]",
+        "[[Expansion Faction]]"
+      ]
+    },
+    {
+      "path": "content/Mysteries/The Missing Expedition.md",
+      "action": "create",
+      "purpose": "A well-funded Auralis desert expedition that vanished six months ago, leaving only conflicting reports from Halveth guides.",
+      "links": [
+        "[[Auralis]]",
+        "[[Equatorial Desert]]",
+        "[[Halveth]]",
+        "[[Ancient Ruins]]",
+        "[[Wren]]"
+      ]
+    },
+    {
+      "path": "content/Mysteries/The Watts Fluctuations.md",
+      "action": "create",
+      "purpose": "Subtle irregularities in the Watts ledger that a few scholars have noticed but no one has been able to explain.",
+      "links": [
+        "[[Watts]]",
+        "[[Ancient Ruins]]",
+        "[[Sera Voss]]",
+        "[[The Council of Auralis]]",
+        "[[Flux]]"
+      ]
+    },
+    {
+      "path": "content/Culture/Desert Crossing Traditions.md",
+      "action": "create",
+      "purpose": "The informal customs and survival wisdom that have developed around crossing the equatorial desert safely.",
+      "links": [
+        "[[Equatorial Desert]]",
+        "[[Halveth]]",
+        "[[Flux Users]]",
+        "[[Rift Incursions]]",
+        "[[Auralis]]"
+      ]
+    },
+    {
+      "path": "content/Culture/The Thornwall Compact.md",
+      "action": "create",
+      "purpose": "An unwritten agreement between rural Terravelle communities about mutual aid and information sharing during crises.",
+      "links": [
+        "[[Life in Rural Terravelle]]",
+        "[[The Thornwatch]]",
+        "[[Covenant of Measure]]",
+        "[[Terravelle]]",
+        "[[Millhaven]]"
+      ]
+    }
+  ],
+  "batches": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ]
+  ]
+}
