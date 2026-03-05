@@ -109,6 +109,12 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 - **Cassia** (T4): Council member. Moderate. Constrained — cannot openly oppose Drest.
 - **Aldric Mourne** (T4): Academic. Culmination Faction's scholarly arm. Works Emberfall ruins.
 - **Rett Soln** (T3): Council member aligned with Drest.
+- **Davan Rhyce** (T4): Council member, Expansion Faction. Works independently of the others. Has been mapping Terravelle's eastern vulnerabilities for 11 years. Page at content/Davan Rhyce.md.
+- **Maren Sollis**: Council member. Named in Selvane scene — exists as minor texture.
+- **Castor Helme**: Expansion Faction Council member. Loud. Referenced in Davan Rhyce page.
+- **Yara Venn**: Expansion Faction Council member. Impatient. Referenced in Davan Rhyce page.
+- **Brennan Solce**: Council member. Knows border geography. Referenced in Davan Rhyce and Rift Incursions pages.
+- **Orla Fest**: Operates a shipping network. Referenced in Davan Rhyce page.
 - **Toven Ral** (T5, retired): Former Advancement Corps Field Lead. Knows what they actually did. Now in Hedun.
 - **Renne Osl** (T3): Active Advancement Corps Senior Field Assessor.
 
