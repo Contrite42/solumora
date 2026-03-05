@@ -1,113 +1,55 @@
-Here is a starting point for building a local-first, multi-agent worldbuilding pipeline that meets the requirements.
+Here's a compact seed material to get started:
 
-**Agent Task Structure**
-------------------------
+**Place Names**
 
-The agent task structure will consist of three main agents:
+1. Aridos
+2. Zha'thik
+3. Eldrida
+4. Valtania
+5. Khyronia
+6. Nefaria
+7. Thalassor
+8. Galvorn
+9. Xylonia
+10. Aethoria
 
-1. **Claude**: Responsible for generating large-scale output (new notes, major expansions, character webs)
-2. **Ollama**: Limited to short seed material generation (names, micro-lists, 1-2 line stubs)
-3. **GPT** (Conversational Partner): Conservative and corrective edits, ensures no hallucinated pages, updates hubs/indexes in append-only blocks
+**Faction Names**
 
-**Agent Task Files**
--------------------
+1. The Order of the Golden Sun
+2. The Shadowhand Brotherhood
+3. The Celestial Host
+4. The Duskwraith Clan
+5. The Luminari Enclave
+6. The Ironfist Legion
+7. The Nightshroud Assembly
+8. The Windrunner Guild
+9. The Dragon's Spire Council
+10. The Wilderfolk Alliance
 
-### agent/TASK.md
-```markdown
-# Solumora Worldbuilding Pipeline
+**Person Names**
 
-## Agent Tasks
+1. **Kaelin Darkhaven**: A skilled assassin with unparalleled stealth abilities.
+2. **Lila Earthsong**: A charismatic leader and spiritual guide of the Luminari Enclave.
+3. **Arin the Bold**: A fearless warrior and commander of the Ironfist Legion.
+4. **Eira Shadowglow**: A mysterious and enigmatic member of the Nightshroud Assembly.
+5. **Cian Starseeker**: An ambitious and driven explorer of the cosmos.
+6. **Niamh Windsong**: A gifted healer and apothecary with a talent for botany.
+7. **Thrain Stonefist**: A gruff but loyal blacksmith and inventor.
+8. **Aria Moonwhisper**: A free-spirited performer and storyteller.
+9. **Kato Blackwood**: A cunning thief and smuggler with a network of underworld connections.
+10. **Zara Greenhaven**: A compassionate and wise elder of the Wilderfolk Alliance.
 
-* `claude`: Expand Solumora at scale ( Claude )
-* `ollama`: Fill in low-level supporting material in small bursts ( Ollama )
-* `gpt`: Enforce canon + backlinks + navigation + consistency by directly editing the Obsidian /content vault
-```
-### agent/WORLD_STATE.md
-```markdown
-# World State
+**Rumor Hooks**
 
-## Inconsistencies Report
+1. Strange lights have been seen emanating from the long-abandoned temple of Zha'thik.
+2. Rumors circulate about a hidden underground city beneath Aridos.
+3. The Luminari Enclave is said to be searching for a powerful artifact in Valtania.
+4. A group of rogue scholars has gone missing while investigating an ancient ruin in Khyronia.
+5. Some whisper that the Shadowhand Brotherhood is secretly controlling the Ironfist Legion.
+6. A mysterious cult is said to be operating in Nefaria, worshiping an otherworldly deity.
+7. The Wilderfolk Alliance is rumored to possess a powerful magic that can heal even the most grievous wounds.
+8. An ancient prophecy speaks of a great calamity that will soon befall Thalassor.
+9. The Nightshroud Assembly is accused of using dark magic to maintain their power in Xylonia.
+10. A hidden treasure has been discovered in Galvorn, but its true nature remains unknown.
 
-* List of inconsistencies detected during pipeline run
-```
-### agent/staging/seed.md
-```markdown
-# Seed Material
-
-## Names
-* 10 place names
-	+ Aridian Oasis
-	+ Khyron Desert
-	+ ...
-* 10 faction names
-	+ Kraelion Brotherhood
-	+ Aridian Guild
-	+ ...
-* 20 person names + 1-line hook
-	+ Aurélien Dantès (former thief)
-	+ Elara Vex (mysterious sorceress)
-	+ ...
-```
-### agent/staging/seed.md (Ollama's output)
-
-**Claude's Output**
-------------------
-
-Claude will generate large-scale output in the following format:
-
-### new_notes/*.md
-```markdown
-# [Note Title]
-
-## Summary
-
-* Brief summary of note content
-
-## People in Motion
-
-* Named individuals mid-journey:
-	+ Aurélien Dantès (former thief)
-	+ Elara Vex (mysterious sorceress)
-
-## Links
-
-* [Link to existing page]
-```
-**GPT's Output**
------------------
-
-GPT will generate conservative backlinks, update hubs/indexes in append-only blocks, and provide inconsistency reports.
-
-### agent/reports/inconsistencies.md
-```markdown
-# Inconsistencies Report
-
-## List of inconsistencies detected during pipeline run
-```
-### agent/reports/links_applied.md
-```markdown
-# Links Applied Report
-
-## List of links applied to changed files
-```
-**Pre-Commit Hook**
--------------------
-
-The pre-commit hook will ensure the pipeline runs before anything is committed.
-
-### .git/hooks/pre-commit
-```bash
-#!/bin/sh
-
-# Run pipeline before commit
-./pipeline.sh
-```
-This starting point should provide a solid foundation for building a local-first, multi-agent worldbuilding pipeline that meets the requirements. Note that this is just the beginning, and further development will be necessary to fully implement the system.
-
-To proceed, I'll need clarification on some aspects:
-
-1. **User Decision-Making**: How will users make decisions regarding cultures, principles, values? Should we provide options/choices for users to pick from?
-2. **Token/Rate-Limit Safety**: How will we ensure token/rate-limit safety during pipeline runs?
-3. **Context Retrieval and Chunking**: How will we retrieve and chunk context for each agent task?
-
-Please let me know which areas you'd like to focus on next, and I'll be happy to help!
+These seed materials provide a starting point for Claude's worldbuilding efforts. Ollama can use these lists as inspiration for further expansions, while GPT ensures consistency and canon by linking and updating relevant notes accordingly.

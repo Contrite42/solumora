@@ -1,163 +1,163 @@
 {
   "notes": [
     {
-      "path": "content/People/Maren Sollis.md",
+      "path": "content/Places/Aridos.md",
       "action": "create",
-      "purpose": "Council member who advocates for Cassia's autonomy but lacks political power to act effectively.",
+      "purpose": "A major trading city in northern Auralis where the Shadowhand Brotherhood operates from the shadows.",
       "links": [
-        "[[The Council of Auralis]]",
-        "[[Cassia]]",
-        "[[Castor Helme]]"
+        "[[Auralis]]",
+        "[[The Shadowhand Brotherhood]]",
+        "[[Kaelin Darkhaven]]"
       ]
     },
     {
-      "path": "content/People/Yara Venn.md",
+      "path": "content/Places/Zha'thik.md",
       "action": "create",
-      "purpose": "Council member whose faction alignment and motivations remain unclear to other members.",
+      "purpose": "An abandoned temple complex in the Equatorial Desert where strange lights have been reported.",
       "links": [
-        "[[The Council of Auralis]]",
-        "[[Drest]]",
-        "[[Auralis]]"
+        "[[Equatorial Desert]]",
+        "[[Ancient Ruins]]",
+        "[[Flux Demons]]"
       ]
     },
     {
-      "path": "content/People/Davan Rhyce.md",
+      "path": "content/Factions/The Shadowhand Brotherhood.md",
       "action": "create",
-      "purpose": "Council member who represents merchant interests and trade route security concerns.",
+      "purpose": "A secretive organization of assassins and information brokers operating across both kingdoms.",
       "links": [
-        "[[The Council of Auralis]]",
-        "[[Expansion Faction]]",
+        "[[Kaelin Darkhaven]]",
+        "[[Aridos]]",
+        "[[The Ironfist Legion]]"
+      ]
+    },
+    {
+      "path": "content/Factions/The Luminari Enclave.md",
+      "action": "create",
+      "purpose": "A spiritual order seeking ancient artifacts and practicing advanced Flux techniques.",
+      "links": [
+        "[[Lila Earthsong]]",
+        "[[Valtania]]",
+        "[[Ancient Ruins]]"
+      ]
+    },
+    {
+      "path": "content/People/Kaelin Darkhaven.md",
+      "action": "create",
+      "purpose": "A master assassin with unparalleled stealth abilities who leads operations for the Shadowhand Brotherhood.",
+      "links": [
+        "[[The Shadowhand Brotherhood]]",
+        "[[Aridos]]",
+        "[[Kato Blackwood]]"
+      ]
+    },
+    {
+      "path": "content/People/Lila Earthsong.md",
+      "action": "create",
+      "purpose": "The charismatic spiritual leader of the Luminari Enclave who seeks to unlock the secrets of the ancient civilization.",
+      "links": [
+        "[[The Luminari Enclave]]",
+        "[[Valtania]]",
+        "[[Niamh Windsong]]"
+      ]
+    },
+    {
+      "path": "content/Places/Valtania.md",
+      "action": "create",
+      "purpose": "A remote mountain settlement where the Luminari Enclave searches for powerful artifacts.",
+      "links": [
+        "[[The Luminari Enclave]]",
+        "[[Lila Earthsong]]",
         "[[Terravelle]]"
       ]
     },
     {
-      "path": "content/Organizations/Emberfall.md",
+      "path": "content/Places/Khyronia.md",
       "action": "create",
-      "purpose": "Auralis research facility focused on ancient civilization studies and immortality sigil development.",
+      "purpose": "An ancient ruin site where a group of rogue scholars recently went missing during their investigation.",
       "links": [
-        "[[Castor Helme]]",
         "[[Ancient Ruins]]",
-        "[[Drest]]"
-      ]
-    },
-    {
-      "path": "content/Places/Solhaven.md",
-      "action": "create",
-      "purpose": "Capital city of Auralis where the council meets and political maneuvering occurs daily.",
-      "links": [
-        "[[Auralis]]",
-        "[[The Council of Auralis]]",
-        "[[Cassia]]"
-      ]
-    },
-    {
-      "path": "content/Places/Valdenmoor.md",
-      "action": "create",
-      "purpose": "Major city in Terravelle that serves as administrative and trade center for the northern kingdom.",
-      "links": [
-        "[[Terravelle]]",
-        "[[Eddan Voss]]",
-        "[[Life in Rural Terravelle]]"
-      ]
-    },
-    {
-      "path": "content/People/Eddan Voss.md",
-      "action": "create",
-      "purpose": "King of Terravelle who has ruled for thirty years against mounting pressure from Auralis.",
-      "links": [
-        "[[Terravelle]]",
-        "[[Cael Voss]]",
-        "[[Auralis]]"
-      ]
-    },
-    {
-      "path": "content/People/Cael Voss.md",
-      "action": "create",
-      "purpose": "Heir to Terravelle throne who questions fundamental assumptions about Flux that others ignore.",
-      "links": [
-        "[[Eddan Voss]]",
-        "[[Terravelle]]",
+        "[[Equatorial Desert]]",
         "[[Flux]]"
       ]
     },
     {
-      "path": "content/People/Sera Voss.md",
+      "path": "content/Factions/The Ironfist Legion.md",
       "action": "create",
-      "purpose": "Head of Wolfpoint's Voss line who is documenting Hypertext for potential wider distribution.",
+      "purpose": "A military organization that may be secretly controlled by the Shadowhand Brotherhood.",
       "links": [
-        "[[Wolfpoint]]",
-        "[[Hypertext]]",
-        "[[Watts]]"
-      ]
-    },
-    {
-      "path": "content/Places/Wolfpoint.md",
-      "action": "create",
-      "purpose": "Mountain settlement above the settled world where Hypertext casting was developed.",
-      "links": [
-        "[[Sera Voss]]",
-        "[[Hypertext]]",
+        "[[Arin the Bold]]",
+        "[[The Shadowhand Brotherhood]]",
         "[[Terravelle]]"
       ]
     },
     {
-      "path": "content/People/Wren.md",
+      "path": "content/People/Arin the Bold.md",
       "action": "create",
-      "purpose": "High Demon who has spent thirty years managing border crossings through subtle Binding magic.",
+      "purpose": "A fearless warrior and commander of the Ironfist Legion who may be unaware of his organization's true loyalties.",
       "links": [
-        "[[High Demons]]",
-        "[[Halveth]]",
-        "[[Binding]]"
+        "[[The Ironfist Legion]]",
+        "[[Thrain Stonefist]]",
+        "[[Terravelle]]"
       ]
     },
     {
-      "path": "content/Places/Halveth.md",
+      "path": "content/People/Niamh Windsong.md",
       "action": "create",
-      "purpose": "Border settlement where desert crossings are managed and rift activity is monitored.",
+      "purpose": "A gifted healer and botanist who works with the Luminari Enclave to understand ancient Flux applications.",
       "links": [
-        "[[Wren]]",
-        "[[Equatorial Desert]]",
-        "[[Rift Incursions]]"
+        "[[The Luminari Enclave]]",
+        "[[Lila Earthsong]]",
+        "[[Zara Greenhaven]]"
       ]
     },
     {
-      "path": "content/People/Selvane.md",
+      "path": "content/People/Kato Blackwood.md",
       "action": "create",
-      "purpose": "High Demon who seeks permanent passage between dimensions and has positioned himself strategically.",
+      "purpose": "A cunning thief and smuggler with extensive underworld connections who operates between both kingdoms.",
       "links": [
-        "[[High Demons]]",
-        "[[Mave]]",
-        "[[The Flux Dimension]]"
+        "[[The Shadowhand Brotherhood]]",
+        "[[Kaelin Darkhaven]]",
+        "[[Aria Moonwhisper]]"
       ]
     },
     {
-      "path": "content/People/Mave.md",
+      "path": "content/Places/Nefaria.md",
       "action": "create",
-      "purpose": "Younger High Demon who follows Selvane's lead while learning dimensional manipulation techniques.",
+      "purpose": "A border town where a mysterious cult is rumored to worship an otherworldly deity.",
       "links": [
-        "[[High Demons]]",
-        "[[Selvane]]",
-        "[[Auralis]]"
-      ]
-    },
-    {
-      "path": "content/People/Sorath.md",
-      "action": "create",
-      "purpose": "Oldest High Demon who has wandered Solumora since before the kingdoms formed.",
-      "links": [
-        "[[High Demons]]",
-        "[[The Hunting Period]]",
-        "[[Solumora]]"
-      ]
-    },
-    {
-      "path": "content/Magic/The Flux Dimension.md",
-      "action": "create",
-      "purpose": "Source dimension of Flux energy and origin point for all demon incursions into Solumora.",
-      "links": [
-        "[[High Demons]]",
         "[[Flux Demons]]",
-        "[[Rift Incursions]]"
+        "[[High Demons]]",
+        "[[Equatorial Desert]]"
+      ]
+    },
+    {
+      "path": "content/Factions/The Wilderfolk Alliance.md",
+      "action": "create",
+      "purpose": "A coalition of rural communities that possesses powerful healing magic and maintains independence from both kingdoms.",
+      "links": [
+        "[[Zara Greenhaven]]",
+        "[[Life in Rural Terravelle]]",
+        "[[Covenant of Measure]]"
+      ]
+    },
+    {
+      "path": "content/People/Zara Greenhaven.md",
+      "action": "create",
+      "purpose": "A wise elder of the Wilderfolk Alliance who guards ancient healing secrets passed down through generations.",
+      "links": [
+        "[[The Wilderfolk Alliance]]",
+        "[[Niamh Windsong]]",
+        "[[Life in Rural Terravelle]]"
+      ]
+    },
+    {
+      "path": "content/People/Aria Moonwhisper.md",
+      "action": "create",
+      "purpose": "A free-spirited performer and storyteller who travels between settlements carrying news and rumors.",
+      "links": [
+        "[[Kato Blackwood]]",
+        "[[The Wilderfolk Alliance]]",
+        "[[Ordinary Life in Terravelle]]"
       ]
     }
   ],
