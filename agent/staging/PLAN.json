@@ -1,29 +1,39 @@
 {
   "notes": [
     {
-      "path": "content/People/Tovan Ashce.md",
-      "action": "create",
-      "purpose": "Council member who quietly observes Castor's manipulation of Cassia and finds it useful for his own agenda.",
-      "links": [
-        "[[The Council of Auralis]]",
-        "[[Castor Helme]]",
-        "[[Cassia]]"
-      ]
-    },
-    {
       "path": "content/People/Maren Sollis.md",
       "action": "create",
-      "purpose": "Council member who suspects Castor's true motives and tries unsuccessfully to warn Cassia.",
+      "purpose": "Council member who advocates for Cassia's autonomy but lacks political power to act effectively.",
       "links": [
         "[[The Council of Auralis]]",
-        "[[Castor Helme]]",
-        "[[Cassia]]"
+        "[[Cassia]]",
+        "[[Castor Helme]]"
       ]
     },
     {
-      "path": "content/Places/Emberfall.md",
+      "path": "content/People/Yara Venn.md",
       "action": "create",
-      "purpose": "Research facility where immortality sigil development occurs under Castor's influence.",
+      "purpose": "Council member whose faction alignment and motivations remain unclear to other members.",
+      "links": [
+        "[[The Council of Auralis]]",
+        "[[Drest]]",
+        "[[Auralis]]"
+      ]
+    },
+    {
+      "path": "content/People/Davan Rhyce.md",
+      "action": "create",
+      "purpose": "Council member who represents merchant interests and trade route security concerns.",
+      "links": [
+        "[[The Council of Auralis]]",
+        "[[Expansion Faction]]",
+        "[[Terravelle]]"
+      ]
+    },
+    {
+      "path": "content/Organizations/Emberfall.md",
+      "action": "create",
+      "purpose": "Auralis research facility focused on ancient civilization studies and immortality sigil development.",
       "links": [
         "[[Castor Helme]]",
         "[[Ancient Ruins]]",
@@ -31,133 +41,123 @@
       ]
     },
     {
-      "path": "content/People/Lenne Sosk.md",
+      "path": "content/Places/Solhaven.md",
       "action": "create",
-      "purpose": "Harbor district dockworker who represents the T0-T1 working class of Solhaven's lowest tier.",
+      "purpose": "Capital city of Auralis where the council meets and political maneuvering occurs daily.",
       "links": [
-        "[[Life in Solhaven]]",
-        "[[Solhaven]]",
-        "[[Control Tier]]"
+        "[[Auralis]]",
+        "[[The Council of Auralis]]",
+        "[[Cassia]]"
       ]
     },
     {
-      "path": "content/People/Oryen Veld.md",
+      "path": "content/Places/Valdenmoor.md",
       "action": "create",
-      "purpose": "Middle terrace guild master whose T4 assessment drives his family's social climbing ambitions.",
+      "purpose": "Major city in Terravelle that serves as administrative and trade center for the northern kingdom.",
       "links": [
-        "[[Life in Solhaven]]",
-        "[[Ascendant Path]]",
-        "[[Control Tier]]"
+        "[[Terravelle]]",
+        "[[Eddan Voss]]",
+        "[[Life in Rural Terravelle]]"
       ]
     },
     {
-      "path": "content/People/Cor Meln.md",
+      "path": "content/People/Eddan Voss.md",
       "action": "create",
-      "purpose": "Halveth permanent resident and former expedition member who now supplies desert crossings.",
+      "purpose": "King of Terravelle who has ruled for thirty years against mounting pressure from Auralis.",
       "links": [
-        "[[Halveth]]",
-        "[[Equatorial Desert]]",
-        "[[Wren]]"
-      ]
-    },
-    {
-      "path": "content/People/Ossen Drel.md",
-      "action": "create",
-      "purpose": "Halveth guide who has made multiple successful desert crossings and provides expertise to expeditions.",
-      "links": [
-        "[[Halveth]]",
-        "[[Equatorial Desert]]",
+        "[[Terravelle]]",
+        "[[Cael Voss]]",
         "[[Auralis]]"
       ]
     },
     {
-      "path": "content/People/Selt Orvn.md",
+      "path": "content/People/Cael Voss.md",
       "action": "create",
-      "purpose": "Halveth innkeeper who manages one of the village's expedition-season accommodations.",
+      "purpose": "Heir to Terravelle throne who questions fundamental assumptions about Flux that others ignore.",
       "links": [
+        "[[Eddan Voss]]",
+        "[[Terravelle]]",
+        "[[Flux]]"
+      ]
+    },
+    {
+      "path": "content/People/Sera Voss.md",
+      "action": "create",
+      "purpose": "Head of Wolfpoint's Voss line who is documenting Hypertext for potential wider distribution.",
+      "links": [
+        "[[Wolfpoint]]",
+        "[[Hypertext]]",
+        "[[Watts]]"
+      ]
+    },
+    {
+      "path": "content/Places/Wolfpoint.md",
+      "action": "create",
+      "purpose": "Mountain settlement above the settled world where Hypertext casting was developed.",
+      "links": [
+        "[[Sera Voss]]",
+        "[[Hypertext]]",
+        "[[Terravelle]]"
+      ]
+    },
+    {
+      "path": "content/People/Wren.md",
+      "action": "create",
+      "purpose": "High Demon who has spent thirty years managing border crossings through subtle Binding magic.",
+      "links": [
+        "[[High Demons]]",
         "[[Halveth]]",
+        "[[Binding]]"
+      ]
+    },
+    {
+      "path": "content/Places/Halveth.md",
+      "action": "create",
+      "purpose": "Border settlement where desert crossings are managed and rift activity is monitored.",
+      "links": [
         "[[Wren]]",
+        "[[Equatorial Desert]]",
         "[[Rift Incursions]]"
       ]
     },
     {
-      "path": "content/People/Bren Ossve.md",
+      "path": "content/People/Selvane.md",
       "action": "create",
-      "purpose": "Rural Terravelle hunter whose T2 flux ability supports food preservation for his forest community.",
-      "links": [
-        "[[Life in Rural Terravelle]]",
-        "[[Terravelle]]",
-        "[[Flux Users]]"
-      ]
-    },
-    {
-      "path": "content/People/Reth Caln.md",
-      "action": "create",
-      "purpose": "Rural Terravelle trapper who specializes in winter hunting and maintains community food security.",
-      "links": [
-        "[[Life in Rural Terravelle]]",
-        "[[Covenant of Measure]]",
-        "[[Control Tier]]"
-      ]
-    },
-    {
-      "path": "content/People/Solen Carr.md",
-      "action": "create",
-      "purpose": "Rural Terravelle logger whose family has worked the same forest territory for three generations.",
-      "links": [
-        "[[Life in Rural Terravelle]]",
-        "[[Terravelle]]",
-        "[[Birth Runes]]"
-      ]
-    },
-    {
-      "path": "content/People/Teva Orrn.md",
-      "action": "create",
-      "purpose": "Rural Terravelle T3 caster who provides food creation sigils for her isolated community.",
-      "links": [
-        "[[Life in Rural Terravelle]]",
-        "[[Flux Users]]",
-        "[[Sigils]]"
-      ]
-    },
-    {
-      "path": "content/Magic/Flux Cost Reference.md",
-      "action": "create",
-      "purpose": "Comprehensive reference table showing precision costs for different discipline and variable combinations.",
-      "links": [
-        "[[Flux Expenditure]]",
-        "[[Control Tier]]",
-        "[[Discipline]]"
-      ]
-    },
-    {
-      "path": "content/Places/Life in Halveth.md",
-      "action": "create",
-      "purpose": "Daily life in the border settlement where expedition seasons transform the community dynamics.",
-      "links": [
-        "[[Halveth]]",
-        "[[Wren]]",
-        "[[Equatorial Desert]]"
-      ]
-    },
-    {
-      "path": "content/History/The Hunting Period.md",
-      "action": "create",
-      "purpose": "Two-century period of community-level persecution targeting High Demons after a public magical incident.",
+      "purpose": "High Demon who seeks permanent passage between dimensions and has positioned himself strategically.",
       "links": [
         "[[High Demons]]",
-        "[[History of Solumora]]",
-        "[[Sorath]]"
+        "[[Mave]]",
+        "[[The Flux Dimension]]"
       ]
     },
     {
-      "path": "content/Places/Hedun.md",
+      "path": "content/People/Mave.md",
       "action": "create",
-      "purpose": "Western coastal city where Fennick has spent decades shaping the social and political atmosphere.",
+      "purpose": "Younger High Demon who follows Selvane's lead while learning dimensional manipulation techniques.",
       "links": [
-        "[[Fennick]]",
-        "[[Auralis]]",
-        "[[High Demons]]"
+        "[[High Demons]]",
+        "[[Selvane]]",
+        "[[Auralis]]"
+      ]
+    },
+    {
+      "path": "content/People/Sorath.md",
+      "action": "create",
+      "purpose": "Oldest High Demon who has wandered Solumora since before the kingdoms formed.",
+      "links": [
+        "[[High Demons]]",
+        "[[The Hunting Period]]",
+        "[[Solumora]]"
+      ]
+    },
+    {
+      "path": "content/Magic/The Flux Dimension.md",
+      "action": "create",
+      "purpose": "Source dimension of Flux energy and origin point for all demon incursions into Solumora.",
+      "links": [
+        "[[High Demons]]",
+        "[[Flux Demons]]",
+        "[[Rift Incursions]]"
       ]
     }
   ],

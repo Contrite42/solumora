@@ -4,7 +4,7 @@ from pathlib import Path
 
 import requests
 
-# Optional watch mode (script still runs without it)
+# Watch mode is optional (script still runs without it)
 try:
     from watchdog.observers import Observer
     from watchdog.events import FileSystemEventHandler
@@ -31,6 +31,7 @@ PLAN_FILE = STAGING_DIR / "PLAN.json"
 SEED_FILE = STAGING_DIR / "OLLAMA_SEED.md"
 PATCH_FILE = STAGING_DIR / "PATCH.json"
 CHANGELOG = STAGING_DIR / "CHANGELOG.json"
+CONVO_LOG = STAGING_DIR / "conversation.log"
 
 REPORT_LINKS = REPORTS_DIR / "links_applied.md"
 REPORT_INCONSIST = REPORTS_DIR / "inconsistencies.md"
@@ -46,7 +47,6 @@ OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-20250514")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1:8b")
 
-# Keep Claude calls smaller = fewer rate problems + less malformed JSON
 CLAUDE_MAX_BATCH_NOTES = int(os.getenv("CLAUDE_MAX_BATCH_NOTES", "2"))
 CLAUDE_SLEEP_SECONDS = float(os.getenv("CLAUDE_SLEEP_SECONDS", "8"))
 MAX_CONTEXT_FILES = int(os.getenv("MAX_CONTEXT_FILES", "12"))
@@ -67,6 +67,11 @@ def write_text(p: Path, s: str):
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(s, encoding="utf-8")
 
+def append_text(p: Path, s: str):
+    p.parent.mkdir(parents=True, exist_ok=True)
+    old = read_text(p)
+    p.write_text(old + s, encoding="utf-8")
+
 def sha(s: str) -> str:
     return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
 
@@ -86,6 +91,11 @@ def log_error(stage: str, err: Exception, extra: dict = None):
     write_text(LAST_ERROR_JSON, json.dumps(payload, indent=2))
     print(f"\n❌ ERROR @ {stage}: {err}\n(see agent/reports/last_error.*)\n")
 
+def log_convo(role: str, text: str, limit: int = 12000):
+    stamp = time.strftime("%Y-%m-%d %H:%M:%S")
+    snippet = (text or "")[:limit]
+    append_text(CONVO_LOG, f"\n\n[{stamp}] {role}\n{snippet}\n")
+
 def load_secrets():
     if not SECRETS_PATH.exists():
         raise RuntimeError(f"Missing secrets.json: {SECRETS_PATH}")
@@ -99,10 +109,6 @@ def strip_code_fences(raw: str) -> str:
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
     raw = re.sub(r"\s*```$", "", raw)
     return raw.strip()
-
-def extract_first_json_object(raw: str) -> str:
-    m = re.search(r"\{.*\}", raw, flags=re.S)
-    return m.group(0) if m else ""
 
 def list_md_files():
     return list(CONTENT_DIR.rglob("*.md"))
@@ -129,31 +135,31 @@ def pack_context(task: str):
     canon = read_text(WORLD_STATE)[:20000]
     style = read_text(STYLE_GUIDE)[:16000]
     qa = read_text(QA_RULES)[:12000]
+
     ctx_files = basic_retrieve(task)
     ctx_blobs = []
     for f in ctx_files:
         rel = str(f.relative_to(ROOT))
         txt = read_text(f)[:14000]
         ctx_blobs.append(f"\n--- FILE: {rel} ---\n{txt}\n")
+
     bundle = ("\n".join(ctx_blobs))[:180000]
     return {"canon": canon, "style": style, "qa": qa, "files": ctx_files, "bundle": bundle}
 
 # -----------------------------
-# Network calls with retry/backoff
+# HTTP retry/backoff
 # -----------------------------
 def http_post_with_retry(url, headers, payload, timeout, label, max_attempts=6):
     for attempt in range(1, max_attempts + 1):
         r = requests.post(url, headers=headers, json=payload, timeout=timeout)
         if r.status_code == 200:
             return r
-        # retry on rate / transient
         if r.status_code in (429, 500, 502, 503, 504, 529):
             wait = min(60, 2 ** attempt)
             msg = r.text[:400]
             print(f"[retry:{label}] status={r.status_code} attempt={attempt}/{max_attempts} wait={wait}s msg={msg}")
             time.sleep(wait)
             continue
-        # hard fail
         raise RuntimeError(f"{label} hard failure {r.status_code}: {r.text[:2000]}")
     raise RuntimeError(f"{label} failed after retries (rate limit/transient).")
 
@@ -171,14 +177,21 @@ def call_openai(system: str, user: str) -> str:
         "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
         "temperature": 0.2,
     }
+    log_convo("GPT_INPUT", user)
     r = http_post_with_retry(url, headers, payload, timeout=180, label="openai")
-    return r.json()["choices"][0]["message"]["content"]
+    out = r.json()["choices"][0]["message"]["content"]
+    log_convo("GPT_OUTPUT", out)
+    return out
 
 def call_claude(system: str, user: str, max_tokens: int = 3500, temperature: float = 0.35) -> str:
     key = (os.getenv("ANTHROPIC_API_KEY") or "").strip()
     if not key:
         raise RuntimeError("ANTHROPIC_API_KEY missing.")
-    print("Anthropic key prefix:", key[:12])
+
+    # print once
+    if not getattr(call_claude, "_printed", False):
+        print("Anthropic key prefix:", key[:12])
+        call_claude._printed = True
 
     url = "https://api.anthropic.com/v1/messages"
     headers = {
@@ -193,6 +206,8 @@ def call_claude(system: str, user: str, max_tokens: int = 3500, temperature: flo
         "messages": [{"role": "user", "content": user}],
         "temperature": temperature,
     }
+
+    log_convo("CLAUDE_INPUT", user)
     r = http_post_with_retry(url, headers, payload, timeout=240, label="anthropic")
     data = r.json()
     blocks = data.get("content", [])
@@ -200,15 +215,20 @@ def call_claude(system: str, user: str, max_tokens: int = 3500, temperature: flo
     for b in blocks:
         if b.get("type") == "text":
             out.append(b.get("text", ""))
-    return "\n".join(out).strip()
+    text = "\n".join(out).strip()
+    log_convo("CLAUDE_OUTPUT", text)
+    return text
 
 def call_ollama(prompt: str) -> str:
     url = f"{OLLAMA_URL}/api/generate"
     payload = {"model": OLLAMA_MODEL, "prompt": prompt, "stream": False}
+    log_convo("OLLAMA_INPUT", prompt, limit=4000)
     r = requests.post(url, json=payload, timeout=240)
     if r.status_code != 200:
         raise RuntimeError(f"ollama failure {r.status_code}: {r.text[:800]}")
-    return (r.json().get("response", "") or "").strip()
+    out = (r.json().get("response", "") or "").strip()
+    log_convo("OLLAMA_OUTPUT", out, limit=6000)
+    return out
 
 # -----------------------------
 # Patch Apply (safe)
@@ -217,88 +237,24 @@ def apply_patch(patch: dict):
     writes = patch.get("writes", [])
     appends = patch.get("appends", [])
     changed = []
+
     for w in writes:
         p = ROOT / w["path"]
         write_text(p, w["content"])
         changed.append(str(p.relative_to(ROOT)))
+
     for a in appends:
         p = ROOT / a["path"]
         old = read_text(p)
         new = old.rstrip() + "\n\n" + a["append"].strip() + "\n"
         write_text(p, new)
         changed.append(str(p.relative_to(ROOT)))
+
     return sorted(set(changed))
 
 # -----------------------------
-# Claude JSON parsing with self-repair retries
+# Plan step (Claude JSON only, small)
 # -----------------------------
-def parse_json_or_retry_with_claude(raw: str, schema_hint: str, repair_label: str, max_retries: int = 2):
-    """
-    Try parse -> extract -> parse.
-    If malformed, ask Claude to repair into strict JSON.
-    """
-    raw0 = strip_code_fences(raw)
-
-    # attempt 1: direct parse
-    try:
-        return json.loads(raw0)
-    except Exception:
-        pass
-
-    # attempt 2: extract object parse
-    j = extract_first_json_object(raw0)
-    if j:
-        try:
-            return json.loads(j)
-        except Exception:
-            pass
-
-    # fallback: Claude repairs its own output (no GPT dependency)
-    repair_system = "You are a JSON repair function. Output ONLY valid JSON. No commentary. No markdown."
-    repair_user = f"""
-Repair this into VALID JSON that matches the schema exactly.
-
-SCHEMA:
-{schema_hint}
-
-MALFORMED:
-{raw0}
-""".strip()
-
-    last = raw0
-    for i in range(max_retries):
-        fixed = call_claude(repair_system, repair_user, max_tokens=2200, temperature=0.0)
-        fixed = strip_code_fences(fixed)
-        try:
-            return json.loads(fixed)
-        except Exception:
-            last = fixed
-            write_text(STAGING_DIR / f"{repair_label}_repair_fail_{now_tag()}.txt", fixed)
-
-    # if still failing
-    write_text(STAGING_DIR / f"{repair_label}_raw_{now_tag()}.txt", raw0)
-    raise RuntimeError(f"{repair_label}: Could not parse JSON after repairs. Saved raw to agent/staging/")
-
-# -----------------------------
-# Pipeline Steps
-# -----------------------------
-def step_seed_ollama(task: str) -> str:
-    prompt = f"""
-You generate compact seed material. Hard limit: 120 lines total.
-Return:
-- 10 place names
-- 10 faction names
-- 20 person names + 1-line hook
-- 10 rumor hooks
-
-World: Solumora. Equator is lethal desert; two belts.
-Task:
-{task}
-""".strip()
-    seed = call_ollama(prompt)
-    write_text(SEED_FILE, seed)
-    return seed
-
 def step_plan_claude(task: str, ctx: dict, seed: str) -> dict:
     schema_hint = f"""{{
   "notes": [
@@ -309,12 +265,12 @@ def step_plan_claude(task: str, ctx: dict, seed: str) -> dict:
       "links": ["[[A]]","[[B]]","[[C]]"]
     }}
   ],
-  "batches": [ [0,1,2], [3,4,5] ]
+  "batches": [ [0,1], [2,3] ]
 }}"""
 
     system = """
 You are the Solumora Builder.
-You are planning files only. Do not write note bodies yet.
+You are PLANNING files only. Do not write note bodies yet.
 Return ONLY JSON matching the schema. No markdown.
 """.strip()
 
@@ -338,36 +294,56 @@ Return JSON exactly in this schema:
 {schema_hint}
 
 Constraints:
-- Make 8–16 notes total (keep it tight).
+- Make 8–16 notes total.
 - Each note includes at least 3 outbound links.
 - Batches must be <= {CLAUDE_MAX_BATCH_NOTES} notes.
 """.strip()
 
     raw = call_claude(system, user, max_tokens=2200, temperature=0.2)
-    plan = parse_json_or_retry_with_claude(raw, schema_hint, "plan")
+    raw = strip_code_fences(raw)
+
+    # attempt parse; if malformed, ask Claude to repair
+    try:
+        plan = json.loads(raw)
+    except Exception:
+        repair_system = "You repair malformed JSON. Return ONLY valid JSON. No markdown."
+        repair_user = f"""
+Repair into VALID JSON matching this schema exactly.
+
+SCHEMA:
+{schema_hint}
+
+MALFORMED:
+{raw}
+""".strip()
+        fixed = call_claude(repair_system, repair_user, max_tokens=2200, temperature=0.0)
+        fixed = strip_code_fences(fixed)
+        plan = json.loads(fixed)
+
     write_text(PLAN_FILE, json.dumps(plan, indent=2))
     return plan
 
+# -----------------------------
+# File-block protocol parser (Claude batch output)
+# -----------------------------
 def parse_file_blocks(raw: str) -> dict:
     """
-    Parse Claude output in this format:
+    Parse Claude output:
 
     ===WRITE: content/path.md===
-    <markdown...>
+    <markdown>
     ===END===
 
     ===APPEND: content/path.md===
-    <markdown...>
+    <markdown>
     ===END===
 
-    Returns patch dict:
-    {"writes":[{"path":..,"content":..}], "appends":[{"path":..,"append":..}]}
+    Returns patch dict.
     """
     raw = raw.replace("\r\n", "\n")
     lines = raw.split("\n")
 
     patch = {"writes": [], "appends": []}
-
     mode = None
     path = None
     buf = []
@@ -395,67 +371,23 @@ def parse_file_blocks(raw: str) -> dict:
             mode = m.group(1).strip().upper()
             path = m.group(2).strip()
             continue
-
         if end_re.match(line.strip()):
             flush()
             continue
-
         if mode:
             buf.append(line)
 
     flush()
 
     if not patch["writes"] and not patch["appends"]:
-        # Save raw for debugging
         write_text(STAGING_DIR / f"fileblock_parse_fail_{now_tag()}.txt", raw)
         raise RuntimeError("No WRITE/APPEND blocks found. Saved raw to agent/staging/fileblock_parse_fail_*.txt")
 
     return patch
 
-def step_build_batch_claude(task: str, ctx: dict, seed: str, plan: dict, batch_idxs: list) -> dict:
-    notes = plan["notes"]
-    batch = [notes[i] for i in batch_idxs]
-
-    schema_hint = """{
-  "writes": [{"path":"content/Folder/Note.md","content":"...markdown..."}],
-  "appends": [{"path":"content/Folder/Note.md","append":"...markdown section..."}]
-}"""
-
-    system = """
-You are the Solumora Builder.
-Write Obsidian Markdown. Everyone is mid-journey. Dense detail.
-Return ONLY JSON patch in the given schema. No code fences. No commentary.
-""".strip()
-
-    user = f"""
-TASK:
-{task}
-
-WORLD_STATE:
-{ctx['canon']}
-
-STYLE_GUIDE:
-{ctx['style']}
-
-SEED:
-{seed}
-
-CONTEXT (partial):
-{ctx['bundle']}
-
-BATCH TO WRITE:
-{json.dumps(batch, indent=2)}
-
-Rules:
-- If action=create -> full file markdown in writes[]
-- If action=append -> appended section only in appends[]
-- Use conservative [[links]] you believe exist or you just created.
-""".strip()
-
-    raw = call_claude(system, user, max_tokens=3800, temperature=0.45)
-    patch = parse_json_or_retry_with_claude(raw, schema_hint, f"batch_{sha(json.dumps(batch))}")
-    return patch
-
+# -----------------------------
+# Batch write step (Claude file blocks)
+# -----------------------------
 def step_build_batch_claude(task: str, ctx: dict, seed: str, plan: dict, batch_idxs: list) -> dict:
     notes = plan["notes"]
     batch = [notes[i] for i in batch_idxs]
@@ -478,8 +410,8 @@ Use ONLY these block types, exactly:
 Rules:
 - No JSON.
 - No code fences.
-- No extra commentary outside blocks.
-- Every note must include at least 3 outbound [[links]].
+- No commentary outside blocks.
+- Every created note must include at least 3 outbound [[links]].
 """.strip()
 
     user = f"""
@@ -508,13 +440,24 @@ Mapping rules:
 
     raw = call_claude(system, user, max_tokens=4200, temperature=0.45)
 
-    # parse the file-block protocol into a normal patch dict
-    patch = parse_file_blocks(raw)
-
-    # log raw output for debugging if needed
+    # Save raw batch output for debugging
     write_text(STAGING_DIR / f"batch_fileblocks_{now_tag()}.txt", raw)
 
-    return patch
+    return parse_file_blocks(raw)
+
+# -----------------------------
+# GPT QA + conservative linking
+# -----------------------------
+def step_gpt_qa_and_link(ctx: dict, changed_files: list):
+    titles = sorted({p.stem for p in CONTENT_DIR.rglob("*.md")})
+    title_set = set(titles)
+
+    blobs = []
+    for rel in changed_files[:40]:
+        p = ROOT / rel
+        txt = read_text(p)
+        blobs.append(f"\n--- FILE: {rel} ---\n{txt[:12000]}\n")
+
     system = """
 You are the Solumora QA + Linker.
 Return JSON only:
@@ -523,13 +466,13 @@ Return JSON only:
  "link_suggestions":[{"file":"...","title":"ExactExistingTitle"}]
 }
 Rules:
-- Conservative links only (exact titles).
+- Conservative: suggest only exact existing titles.
 - Prefer fewer high-confidence suggestions.
 """.strip()
 
     user = f"""
 WORLD_STATE:
-{ctx['canon']}
+{ctx.get('canon','')}
 
 CHANGED FILES:
 {''.join(blobs)}
@@ -540,9 +483,9 @@ KNOWN TITLES (exact):
 
     try:
         out = call_openai(system, user)
-        rep = json.loads(strip_code_fences(out))
+        out = strip_code_fences(out)
+        rep = json.loads(out)
     except Exception as e:
-        # log and return without blocking pipeline
         write_text(REPORTS_DIR / f"gpt_fail_{now_tag()}.txt", str(e))
         write_text(REPORT_INCONSIST, "# Inconsistencies\nGPT unavailable / rate-limited. See agent/reports/gpt_fail_*.txt\n")
         write_text(REPORT_LINKS, "# Links Applied\nGPT unavailable / rate-limited. See agent/reports/gpt_fail_*.txt\n")
@@ -562,9 +505,11 @@ KNOWN TITLES (exact):
         outp = []
         for part in parts:
             if part.startswith("```") and part.endswith("```"):
-                outp.append(part); continue
+                outp.append(part)
+                continue
             if replaced:
-                outp.append(part); continue
+                outp.append(part)
+                continue
             m = pat.search(part)
             if m:
                 part = part[:m.start(1)] + f"[[{title}]]" + part[m.end(1):]
@@ -586,7 +531,7 @@ KNOWN TITLES (exact):
             write_text(p, new)
             applied.append((f, t))
 
-    # write reports
+    # Reports
     inc_md = ["# Inconsistencies\n"]
     if inconsistencies:
         for it in inconsistencies:
@@ -607,9 +552,32 @@ KNOWN TITLES (exact):
 
     return {"applied": applied, "inconsistencies": inconsistencies}
 
+# -----------------------------
+# Pipeline
+# -----------------------------
+def step_seed_ollama(task: str) -> str:
+    prompt = f"""
+You generate compact seed material. Hard limit: 120 lines total.
+Return:
+- 10 place names
+- 10 faction names
+- 20 person names + 1-line hook
+- 10 rumor hooks
+
+World: Solumora. Equator is lethal desert; two belts.
+Task:
+{task}
+""".strip()
+    seed = call_ollama(prompt)
+    write_text(SEED_FILE, seed)
+    return seed
+
 def run_pipeline():
     ensure_dirs()
     load_secrets()
+
+    # clear convo log per run (optional)
+    write_text(CONVO_LOG, "")
 
     task = read_text(TASK_FILE).strip()
     if not task:
@@ -618,10 +586,11 @@ def run_pipeline():
 
     ctx = pack_context(task)
 
-    # Ollama seed (small, optional)
+    # Ollama seed (small)
     seed = ""
     try:
         seed = step_seed_ollama(task)
+        print("Ollama seed written to:", SEED_FILE)
     except Exception as e:
         seed = "(ollama seed skipped)"
         write_text(SEED_FILE, seed)
@@ -644,11 +613,12 @@ def run_pipeline():
     write_text(PATCH_FILE, json.dumps({"patches": all_patches}, indent=2))
     write_text(CHANGELOG, json.dumps({"changed_files": all_changed}, indent=2))
 
-    # GPT QA + links (non-blocking)
+    # GPT QA + links
     step_gpt_qa_and_link(ctx, all_changed)
 
     print("\n✅ PIPELINE COMPLETE")
     print("Changed files:", len(all_changed))
+    print("Conversation log:", CONVO_LOG)
     print("Reports:")
     print(" - agent/reports/inconsistencies.md")
     print(" - agent/reports/links_applied.md")
@@ -669,6 +639,7 @@ if WATCHDOG_AVAILABLE:
             if h == self.last_hash:
                 return
             self.last_hash = h
+
             print("\nTASK changed -> running pipeline...\n")
             try:
                 run_pipeline()

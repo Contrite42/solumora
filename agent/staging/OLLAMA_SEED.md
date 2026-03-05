@@ -1,119 +1,113 @@
-Here's a high-level implementation of the worldbuilding pipeline as described. I'll provide code snippets in Markdown format to demonstrate key components.
+Here is a starting point for building a local-first, multi-agent worldbuilding pipeline that meets the requirements.
 
-**Task Agent: Ollama**
+**Agent Task Structure**
+------------------------
 
-Create `agent/Ollama/TASK.md` with the following content:
+The agent task structure will consist of three main agents:
 
+1. **Claude**: Responsible for generating large-scale output (new notes, major expansions, character webs)
+2. **Ollama**: Limited to short seed material generation (names, micro-lists, 1-2 line stubs)
+3. **GPT** (Conversational Partner): Conservative and corrective edits, ensures no hallucinated pages, updates hubs/indexes in append-only blocks
+
+**Agent Task Files**
+-------------------
+
+### agent/TASK.md
 ```markdown
-# Task: Generate compact seed material for Solumora
+# Solumora Worldbuilding Pipeline
 
-## Output Requirements
+## Agent Tasks
 
-* 10 place names (e.g., cities, landmarks)
+* `claude`: Expand Solumora at scale ( Claude )
+* `ollama`: Fill in low-level supporting material in small bursts ( Ollama )
+* `gpt`: Enforce canon + backlinks + navigation + consistency by directly editing the Obsidian /content vault
+```
+### agent/WORLD_STATE.md
+```markdown
+# World State
+
+## Inconsistencies Report
+
+* List of inconsistencies detected during pipeline run
+```
+### agent/staging/seed.md
+```markdown
+# Seed Material
+
+## Names
+* 10 place names
+	+ Aridian Oasis
+	+ Khyron Desert
+	+ ...
 * 10 faction names
-* 20 person names + hook (e.g., "Seeking revenge against the ruling Council")
-* 10 rumor hooks
-
-## Constraints
-
-Hard limit: 120 lines total
-Only write in this file; do not duplicate prompt
+	+ Kraelion Brotherhood
+	+ Aridian Guild
+	+ ...
+* 20 person names + 1-line hook
+	+ Aurélien Dantès (former thief)
+	+ Elara Vex (mysterious sorceress)
+	+ ...
 ```
+### agent/staging/seed.md (Ollama's output)
 
-**Claude's Worldbuilding Agent**
+**Claude's Output**
+------------------
 
-Create `agent/Claude/TASK.md` with the following content:
+Claude will generate large-scale output in the following format:
 
+### new_notes/*.md
 ```markdown
-# Task: Expand Solumora at scale and fill in supporting material
+# [Note Title]
 
-## Output Requirements
+## Summary
 
-* 12-30 new/expanded notes per task cycle, written in Obsidian style
-* Each note should include "People in Motion" (named individuals mid-journey)
-* New notes should be placed into the correct folders and linked outward
+* Brief summary of note content
 
-## Constraints
+## People in Motion
 
-Batch Claude's work automatically
-Throttle Claude's output to prevent overwhelming GPT
+* Named individuals mid-journey:
+	+ Aurélien Dantès (former thief)
+	+ Elara Vex (mysterious sorceress)
+
+## Links
+
+* [Link to existing page]
 ```
+**GPT's Output**
+-----------------
 
-**GPT's QA/Linking Agent**
+GPT will generate conservative backlinks, update hubs/indexes in append-only blocks, and provide inconsistency reports.
 
-Create `agent/GPT/TASK.md` with the following content:
-
+### agent/reports/inconsistencies.md
 ```markdown
-# Task: Ensure canon, backlinks, navigation, and consistency
+# Inconsistencies Report
 
-## Output Requirements
-
-* Conservative backlinks inserted into changed files (existing titles only)
-* Hub pages updated safely (append-only block)
-* Inconsistency reports generated against agent/WORLD_STATE.md
-* Changes staged automatically before commit
-
-## Constraints
-
-Only perform safe edits: no links to "admin" pages, hallucinated pages, or orphaned notes
+## List of inconsistencies detected during pipeline run
 ```
+### agent/reports/links_applied.md
+```markdown
+# Links Applied Report
 
-**Operational Scripts**
+## List of links applied to changed files
+```
+**Pre-Commit Hook**
+-------------------
 
-Create `agent/staging/PLAN.json`, `agent/staging/PATCH.json`, and `agent/staging/CHANGELOG.json` as empty files.
+The pre-commit hook will ensure the pipeline runs before anything is committed.
 
-Add a pre-commit hook in `.git/hooks/pre-commit` that runs the pipeline:
-
+### .git/hooks/pre-commit
 ```bash
-#!/bin/bash
+#!/bin/sh
 
-# Run task agents in sequence
-node agent/Ollama/TASK.js > agent/staging/seed.md
-node agent/Claude/TASK.js > agent/staging/worldbuilding-output.txt
-node agent/GPT/TASK.js > agent/staging/QA-linking-output.txt
-
-# Stage changes automatically before commit
-git add -u
+# Run pipeline before commit
+./pipeline.sh
 ```
+This starting point should provide a solid foundation for building a local-first, multi-agent worldbuilding pipeline that meets the requirements. Note that this is just the beginning, and further development will be necessary to fully implement the system.
 
-**User Input and Decision-Making**
+To proceed, I'll need clarification on some aspects:
 
-Create a `prompt.js` script that interacts with the user to gather decisions regarding cultures, principles, values:
+1. **User Decision-Making**: How will users make decisions regarding cultures, principles, values? Should we provide options/choices for users to pick from?
+2. **Token/Rate-Limit Safety**: How will we ensure token/rate-limit safety during pipeline runs?
+3. **Context Retrieval and Chunking**: How will we retrieve and chunk context for each agent task?
 
-```javascript
-const readline = require('readline');
-
-// Ask user for cultural options
-console.log("Select 2-3 core cultural values:");
-console.log("A) Exploration-driven")
-console.log("B) Community-focused")
-console.log("C) Technological advancement")
-
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-});
-
-let chosenValues = [];
-rl.on('line', (input) => {
-  if (!chosenValues.includes(input)) {
-    chosenValues.push(input);
-    console.log(`You selected ${input}`);
-  }
-  if (chosenValues.length === 3) {
-    rl.close();
-  }
-});
-```
-
-**Example Output**
-
-After running the pipeline, you should see:
-
-* `agent/staging/seed.md`: Compact seed material with names, rumors, factions, and character hooks.
-* `agent/staging/worldbuilding-output.txt`: Claude's worldbuilding output with new notes and expanded content.
-* `agent/staging/QA-linking-output.txt`: GPT's QA/linking output with conservative backlinks and consistency reports.
-* `agent/reports/inconsistencies.md` and `agent/reports/links_applied.md`: Inconsistency reports and link application logs.
-* `agent/staging/PLAN.json`, `agent/staging/PATCH.json`, and `agent/staging/CHANGELOG.json`: Operational output with planned file list, applied edits, and changed files list.
-
-This implementation should provide a working AI talking machine that produces the desired outputs while enforcing canon, consistency, and navigation.
+Please let me know which areas you'd like to focus on next, and I'll be happy to help!
