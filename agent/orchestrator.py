@@ -602,8 +602,48 @@ def run_pipeline():
     all_changed = []
     all_patches = []
 
-    for batch in plan.get("batches", []):
+    review_mode = getattr(run_pipeline, "_review_mode", False)
+
+    for batch_num, batch in enumerate(plan.get("batches", []), 1):
         patch = step_build_batch_claude(task, ctx, seed, plan, batch)
+
+        if review_mode:
+            # Write pending review file for Claude Code to inspect
+            notes = plan["notes"]
+            pending_notes = [notes[i] for i in batch]
+            lines = [f"# Pending Batch {batch_num} of {len(plan.get('batches',[]))}\n"]
+            lines.append(f"Notes in this batch: {[n['path'] for n in pending_notes]}\n\n")
+            for op in patch.get("writes", []):
+                lines.append(f"## WRITE: {op['path']}\n\n```\n{op['content'][:3000]}\n```\n")
+            for op in patch.get("appends", []):
+                lines.append(f"## APPEND: {op['path']}\n\n```\n{op['append'][:3000]}\n```\n")
+            lines.append("\n---\nTo approve: write `APPROVED` to agent/staging/REVIEW_RESPONSE.md\n")
+            lines.append("To reject:  write `REJECTED` (optionally followed by notes) to agent/staging/REVIEW_RESPONSE.md\n")
+            write_text(STAGING_DIR / "PENDING_REVIEW.md", "".join(lines))
+            # Remove stale response file
+            resp_path = STAGING_DIR / "REVIEW_RESPONSE.md"
+            if resp_path.exists():
+                resp_path.unlink()
+
+            print(f"\n⏸  REVIEW GATE — Batch {batch_num}: {[n['path'] for n in pending_notes]}")
+            print(f"   Inspect: agent/staging/PENDING_REVIEW.md")
+            print(f"   Then write APPROVED or REJECTED to agent/staging/REVIEW_RESPONSE.md")
+
+            # Poll for response
+            while True:
+                time.sleep(0.5)
+                if resp_path.exists():
+                    response = read_text(resp_path).strip()
+                    if response.upper().startswith("APPROVED"):
+                        print(f"✅ Batch {batch_num} approved — applying.")
+                        break
+                    elif response.upper().startswith("REJECTED"):
+                        notes_text = response[8:].strip()
+                        print(f"❌ Batch {batch_num} rejected. Notes: {notes_text or '(none)'}")
+                        append_text(CONVO_LOG, f"\n[REVIEW REJECTED batch {batch_num}]\n{notes_text}\n")
+                        patch = {"writes": [], "appends": []}  # empty patch = skip
+                        break
+
         changed = apply_patch(patch)
         all_changed.extend(changed)
         all_patches.append(patch)
@@ -642,6 +682,7 @@ if WATCHDOG_AVAILABLE:
 
             print("\nTASK changed -> running pipeline...\n")
             try:
+                run_pipeline._review_mode = getattr(run_pipeline, "_review_mode", False)
                 run_pipeline()
             except Exception as e:
                 log_error("watch_run_pipeline", e)
@@ -649,12 +690,18 @@ if WATCHDOG_AVAILABLE:
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--watch", action="store_true", help="Run pipeline when TASK.md changes")
+    parser.add_argument("--review", action="store_true",
+                        help="Pause after each batch for human/Claude Code review before applying")
     args = parser.parse_args()
 
     ensure_dirs()
 
     if not TASK_FILE.exists():
         write_text(TASK_FILE, "Goal:\nConstraints:\nOutput:\n")
+
+    if args.review:
+        run_pipeline._review_mode = True
+        print("🔍 Review mode enabled — each batch will pause for approval before applying.")
 
     if args.watch:
         if not WATCHDOG_AVAILABLE:
@@ -682,6 +729,7 @@ def main():
             run_pipeline()
         except Exception as e:
             log_error("single_run", e)
+
 
 if __name__ == "__main__":
     main()

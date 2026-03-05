@@ -3,37 +3,46 @@
     {
       "path": "content/Flux Expenditure.md",
       "action": "create",
-      "purpose": "Replace entire file with corrected Additive Effect section and new Hook/Mode section",
+      "purpose": "Replace entire file to fix Additive Effect errors and add Hook/Mode section",
       "links": [
         "[[Flux]]",
-        "[[Watts]]",
         "[[Control Tier]]",
         "[[Spell Variables]]",
+        "[[Flux Cost Reference]]",
+        "[[Sigils]]",
         "[[Discipline]]",
         "[[Shape]]",
         "[[Hook]]",
-        "[[Mode]]"
+        "[[Mode]]",
+        "[[Watts]]",
+        "[[Persistence]]"
       ]
     },
     {
       "path": "content/Spell Variables.md",
       "action": "create",
-      "purpose": "Replace entire file adding slot constraint table to Shape section and Hook/Mode multiplier explanation to Center Core section",
+      "purpose": "Replace entire file to add slot table in Shape section and Hook/Mode multiplier info in Center Core section",
       "links": [
-        "[[Flux]]",
         "[[Sigils]]",
+        "[[Flux]]",
         "[[Control Tier]]",
+        "[[Flux Cost Reference]]",
         "[[Shape]]",
         "[[Discipline]]",
         "[[Hook]]",
         "[[Mode]]",
-        "[[Flux Cost Reference]]"
+        "[[Flux Expenditure]]",
+        "[[Pattern]]",
+        "[[Reach]]",
+        "[[Persistence]]",
+        "[[Target Spec]]",
+        "[[Output Mode]]"
       ]
     },
     {
       "path": "content/Discipline.md",
       "action": "create",
-      "purpose": "Replace entire file adding multiplier values to discipline names and new Cost Multipliers section with reference table",
+      "purpose": "Replace entire file to add multiplier values to discipline names and add Cost Multipliers section with reference table",
       "links": [
         "[[Flux]]",
         "[[Shape]]",
@@ -41,6 +50,8 @@
         "[[Control Tier]]",
         "[[Sigils]]",
         "[[Output Mode]]",
+        "[[Spell Variables]]",
+        "[[Flux Cost Reference]]",
         "[[Raw]]",
         "[[Force]]",
         "[[Heat]]",
@@ -56,20 +67,17 @@
     {
       "path": "content/Control Tier.md",
       "action": "append",
-      "purpose": "Add Watt Cost Ranges section before final See also line showing tier thresholds with canonical examples",
+      "purpose": "Add Watt Cost Ranges section before final See also line with tier-to-cost mapping and Hook/Mode explanation",
       "links": [
         "[[Watts]]",
         "[[Flux Cost Reference]]",
+        "[[Flux]]",
+        "[[Sigils]]",
         "[[Hook]]",
         "[[Mode]]",
-        "[[Triangle]]",
-        "[[Circle]]",
-        "[[Raw]]",
-        "[[Light]]",
-        "[[Binding]]",
-        "[[Heat]]",
-        "[[Mind]]",
-        "[[Soul]]"
+        "[[Discipline]]",
+        "[[Shape]]",
+        "[[Spell Variables]]"
       ]
     }
   ],

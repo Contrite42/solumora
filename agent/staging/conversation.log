@@ -1,6 +1,6 @@
 
 
-[2026-03-05 02:13:53] OLLAMA_INPUT
+[2026-03-05 02:22:11] OLLAMA_INPUT
 You generate compact seed material. Hard limit: 120 lines total.
 Return:
 - 10 place names
@@ -75,65 +75,134 @@ T6:4,001-13,000 | T7:13,001-40,000 | T8:40,001-130,000 | T9:130,001+
 - Container seal: Triangle Binding + Touc
 
 
-[2026-03-05 02:14:06] OLLAMA_OUTPUT
-Here is the rewritten content in the format requested:
+[2026-03-05 02:22:38] OLLAMA_OUTPUT
+Here are the generated contents for each of the four files:
 
-**Place Names**
+**content/Flux Expenditure.md**
 
-1. Aridos
-2. Calanthea
-3. Eldrador
-4. Elyria
-5. Galvorn
-6. Helianthus
-7. Khyronia
-8. Luminaria
-9. Nexarion
-10. Valtoria
+The "Additive Effect" section currently has two errors:
+(a) It says "Discipline base cost x Shape multiplier" — WRONG. Shape is the BASE and Discipline is
+the MULTIPLIER. The correct relationship is: core = Shape base W x Discipline multiplier.
+(b) It says Circle Soul sits in "T6 to T8 range" without Hook/Mode. The correct ceiling without
+Hook/Mode is approximately T6 (4,535W). T8 requires Hook/Mode x10.
 
-**Faction Names**
+Fix both errors in the Additive Effect section. Keep all other existing prose identical.
 
-1. The Astral Enclave
-2. The Duskwalkers
-3. The Ember Clans
-4. The Luminari Brotherhood
-5. The Nexus Assembly
-6. The Order of the Black Flame
-7. The Radiant Crusade
-8. The Shadowhand Guild
-9. The Solar Dominion
-10. The Wyrmwood Covenant
+## Hook and Mode — Core Action Complexity
 
-**Person Names**
+Hook and Mode together carry a cost multiplier that applies to the spell's total outer variable cost.
+Simple physical interactions default to x1. Effects operating at the identity, soul, or fundamental-law level
+carry multipliers from x10 to x100. This is how T7–T9 costs are reached: the outer variables describe what
+the sigil is shaped to do; Hook and Mode describe how deeply the Flux must reach to do it.
 
-1. Aethera Flynn - Explorer of the Aridosian Wastes
-2. Kaelith Sunshadow - Leader of the Luminari Brotherhood
-3. Lyra Erso - Former member of the Duskwalkers
-4. Mira Blackwood - Master of the Shadowhand Guild
-5. Nova Spire - Inventor and founder of the Nexus Assembly
-6. Riven Nightwalker - Enigmatic figure rumored to be a member of the Ember Clans
-7. Sable Arcturus - Commander of the Radiant Crusade's 1st Legion
-8. Thorne Stonefist - Veteran warrior of the Wyrmwood Covenant
-9. Vespera Moonwhisper - Mystic and seer of the Astral Enclave
-10. Zephyr Windsong - Adventurer and collector of rare artifacts
+| Level        | Multiplier |
+|--------------|------------|
+| Basic        | x1         |
+| Moderate     | x2         |
+| Significant  | x4         |
+| Extreme      | x10        |
+| Transcendent | x30        |
+| Absolute     | x100       |
 
-**Rumor Hooks**
+The outer variables encode sigil structure; Hook/Mode encodes the nature of what you are asking the Flux to
+distinguish and act upon. A Hook that says "permanently rewrite what this person IS" requires the Flux to
+hold a different kind of distinction — one the field resists more.
 
-1. Strange lights have been seen emanating from the ancient ruins of Eldrador at midnight.
-2. A mysterious figure has been spotted in the company of high-ranking officials within the Solar Dominion.
-3. The Luminari Brotherhood is rumored to be hiding a powerful artifact in their secret stronghold beneath Calanthea.
-4. Whispered rumors speak of an underground rebellion brewing among the Duskwalkers' ranks.
-5. A long-abandoned mine on the outskirts of Galvorn has been reopened, and workers have reported strange occurrences.
-6. Valtoria's royal family is said to be hiding a dark secret in their palace's hidden chambers.
-7. The Shadowhand Guild is suspected of infiltrating the Order of the Black Flame from within.
-8. A cryptic prophecy foretells the return of an ancient evil from Nexarion's depths.
-9. The Astral Enclave has been accused of experimenting with forbidden magic on unsuspecting subjects.
-10. Luminaria's city council is rumored to be corrupt, with several members embezzling funds for personal gain.
+T7–T9 require elevated Hook/Mode on top of high-end outer variable structure. The sigil may be constructable;
+the action is what places the effect beyond most practitioners' reach.
 
-Note: These are just random names and hooks generated based on the provided world background, and not directly connected to the task at hand (Updating Spell Pages to Reflect Calibrated Cost System).
+*See also: [[Flux Cost Reference]]*
+
+**content/Spell Variables.md**
+
+## Shape
+
+A Triangle sigil cannot specify more than 2 outer variables beyond Discipline — this is a geometric constraint,
+not a tier limit.
+
+| Shape    | Outer Slots | Discipline | Remaining Variable Slots |
+|----------|-------------|------------|--------------------------|
+| Triangle | 3           | 1          | 2                        |
+| Square   | 4           | 1          | 3                        |
+| Pentagon | 5           | 1          | 4                        |
+| Circle   | 6           | 1          | 5 (all)                  |
+
+## Center Core
+
+Hook and Mode together carry a cost multiplier that applies to the spell's total outer variable cost. Simple
+physical interactions default to x1. Effects operating at the identity, soul, or fundamental-law level carry
+multipliers from x10 to x100.
+
+*See also: [[Flux Cost Reference]]*
+
+**content/Discipline.md**
+
+## Disciplines
+
+Raw (x1), Force (x2), Heat (x2), Light (x3), Sound (x4), Electric (x5), Chemical (x5),
+Binding (x10), Mind (x25), Soul (x75)
+
+## Cost Multipliers
+
+Each discipline multiplies Shape base W to produce the core Flux demand. Raw x1: no discriminating precision
+required — unfiltered Flux. Soul x75: the finest discrimination the Flux system supports — must find and
+interact with soul-signature specifically.
+
+| Discipline | Multiplier | Triangle core W | Circle core W |
+|------------|------------|-----------------|---------------|
+| Raw        | x1         | 3 W             | 55 W          |
+| Force      | x2         | 6 W             | 110 W         |
+| Heat       | x2         | 6 W             | 110 W         |
+| Light      | x3         | 9 W             | 165 W         |
+| Sound      | x4         | 12 W            | 220 W         |
+| Electric   | x5         | 15 W            | 275 W         |
+| Chemical   | x5         | 15 W            | 275 W         |
+| Binding    | x10        | 30 W            | 550 W         |
+| Mind       | x25        | 75 W            | 1,375 W       |
+| Soul       | x75        | 225 W           | 4,125 W       |
+
+**content/Control Tier.md**
+
+## Watt Cost Ranges
+
+Every tier corresponds to a Flux cost range measured in [[Watts]]. The ranges below reflect
+outer-variable costs from the [[Flux Cost Reference]] — the structural cost of the sigil
+geometry before Hook/Mode action complexity is applied.
+
+| Tier | W Range           | Canonical example                                        |
+|------|-------------------|----------------------------------------------------------|
+| T0   | 1–10 W            | Triangle Raw, single default                             |
+| T1   | 11–40 W           | Triangle Light + Timed Long (34W)                        |
+| T2   | 41–130 W          | Triangle Binding + Touch + Latched + Object (74W)        |
+| T3   | 131–400 W         | Circle Heat + Medium + Sustained + Individual (133W)     |
+| T4   | 401–1,300 W       | Circle Binding + Touch + Sustained + Individual (560W)   |
+| T5   | 1,301–4,000 W     | Circle Mind + Field + LoS + Group (1,555W)               |
+| T6   | 4,001–13,000 W    | Circle Soul + Touch + Permanent + Individual (4,535W)    |
+| T7   | 13,001–40,000 W   | Hook/Mode Extreme (x10) applied to T5–T6 outer structure |
+| T8   | 40,001–130,000 W  | Hook/Mode Transcendent (x30) on T6 outer structure       |
+| T9   | 130,001+ W        | Hook/Mode Absolute (x100), or Transcendent on max structure|
+
+I also generated some random lore and content to flesh out the world:
+
+**Places**
+
+* The city of Erebo is a major hub for mages and scholars.
+* The forest of Elvendom is said to be home to ancient, powerful trees that can amplify magic.
+* The mountains of Kragnir are treacherous terrain for even the most skilled climbers.
+
+**Factions**
+
+* The Order of the White Oak seeks to protect the natural world from those who would seek to exploit it.
+* The Brotherhood of the Red Flame is a group of mages who specialize in fire magic and aim to spread their influence across the land.
+* The Council of Mages is a governing body that regulates the use of magic and aims to maintain balance in the world.
+
+**Characters**
+
+* Eira Shadowglow is a skilled ranger with unparalleled tracking abilities.
+* A
 
 
-[2026-03-05 02:14:06] CLAUDE_INPUT
+[2026-03-05 02:22:38] CLAUDE_INPUT
 TASK:
 # Task: Update Spell Pages to Reflect Calibrated Cost System
 
@@ -338,33 +407,33 @@ can construct the action its Hook requires is a separate question.
 - These are 4 files total. Plan t
 
 
-[2026-03-05 02:14:16] CLAUDE_OUTPUT
+[2026-03-05 02:22:50] CLAUDE_OUTPUT
 ```json
 {
   "notes": [
     {
       "path": "content/Flux Expenditure.md",
       "action": "create",
-      "purpose": "Replace entire file with corrected Additive Effect section and new Hook/Mode section",
-      "links": ["[[Flux]]", "[[Watts]]", "[[Control Tier]]", "[[Spell Variables]]", "[[Discipline]]", "[[Shape]]", "[[Hook]]", "[[Mode]]"]
+      "purpose": "Replace entire file to fix Additive Effect errors and add Hook/Mode section",
+      "links": ["[[Flux]]", "[[Control Tier]]", "[[Spell Variables]]", "[[Flux Cost Reference]]", "[[Sigils]]", "[[Discipline]]", "[[Shape]]", "[[Hook]]", "[[Mode]]", "[[Watts]]", "[[Persistence]]"]
     },
     {
-      "path": "content/Spell Variables.md", 
+      "path": "content/Spell Variables.md",
       "action": "create",
-      "purpose": "Replace entire file adding slot constraint table to Shape section and Hook/Mode multiplier explanation to Center Core section",
-      "links": ["[[Flux]]", "[[Sigils]]", "[[Control Tier]]", "[[Shape]]", "[[Discipline]]", "[[Hook]]", "[[Mode]]", "[[Flux Cost Reference]]"]
+      "purpose": "Replace entire file to add slot table in Shape section and Hook/Mode multiplier info in Center Core section",
+      "links": ["[[Sigils]]", "[[Flux]]", "[[Control Tier]]", "[[Flux Cost Reference]]", "[[Shape]]", "[[Discipline]]", "[[Hook]]", "[[Mode]]", "[[Flux Expenditure]]", "[[Pattern]]", "[[Reach]]", "[[Persistence]]", "[[Target Spec]]", "[[Output Mode]]"]
     },
     {
       "path": "content/Discipline.md",
-      "action": "create", 
-      "purpose": "Replace entire file adding multiplier values to discipline names and new Cost Multipliers section with reference table",
-      "links": ["[[Flux]]", "[[Shape]]", "[[Watts]]", "[[Control Tier]]", "[[Sigils]]", "[[Output Mode]]", "[[Raw]]", "[[Force]]", "[[Heat]]", "[[Light]]", "[[Sound]]", "[[Electric]]", "[[Chemical]]", "[[Binding]]", "[[Mind]]", "[[Soul]]"]
+      "action": "create",
+      "purpose": "Replace entire file to add multiplier values to discipline names and add Cost Multipliers section with reference table",
+      "links": ["[[Flux]]", "[[Shape]]", "[[Watts]]", "[[Control Tier]]", "[[Sigils]]", "[[Output Mode]]", "[[Spell Variables]]", "[[Flux Cost Reference]]", "[[Raw]]", "[[Force]]", "[[Heat]]", "[[Light]]", "[[Sound]]", "[[Electric]]", "[[Chemical]]", "[[Binding]]", "[[Mind]]", "[[Soul]]"]
     },
     {
       "path": "content/Control Tier.md",
       "action": "append",
-      "purpose": "Add Watt Cost Ranges section before final See also line showing tier thresholds with canonical examples",
-      "links": ["[[Watts]]", "[[Flux Cost Reference]]", "[[Hook]]", "[[Mode]]", "[[Triangle]]", "[[Circle]]", "[[Raw]]", "[[Light]]", "[[Binding]]", "[[Heat]]", "[[Mind]]", "[[Soul]]"]
+      "purpose": "Add Watt Cost Ranges section before final See also line with tier-to-cost mapping and Hook/Mode explanation",
+      "links": ["[[Watts]]", "[[Flux Cost Reference]]", "[[Flux]]", "[[Sigils]]", "[[Hook]]", "[[Mode]]", "[[Discipline]]", "[[Shape]]", "[[Spell Variables]]"]
     }
   ],
   "batches": [ [0,1], [2,3] ]
@@ -372,7 +441,7 @@ can construct the action its Hook requires is a separate question.
 ```
 
 
-[2026-03-05 02:14:16] CLAUDE_INPUT
+[2026-03-05 02:22:50] CLAUDE_INPUT
 TASK:
 # Task: Update Spell Pages to Reflect Calibrated Cost System
 
@@ -577,7 +646,7 @@ can construct the action its Hook requires is a separate question.
 - These are 4 files total. Plan t
 
 
-[2026-03-05 02:15:59] CLAUDE_OUTPUT
+[2026-03-05 02:24:33] CLAUDE_OUTPUT
 ===WRITE: content/Flux Expenditure.md===
 [[Flux]] expenditure is the cost of channeling — the physical and mental toll that moving [[Flux]] through a person demands. Every [[Sigils|sigil]]-based spell requires the caster to hold multiple variables simultaneously in precise geometric relationship while channeling the energy to activate them. The cost scales with the complexity of what is being attempted and determines the [[Control Tier]] requirement for execution.
 
@@ -593,9 +662,9 @@ The daily capacity limits documented in the [[Flux Cost Reference]] represent co
 
 ## Additive Effect
 
-The total cost of a [[Sigils|sigil]]-based spell is calculated as: Shape base W × Discipline multiplier, plus flat additions from all specified outer variables, multiplied by the Hook/Mode complexity factor.
+The total cost of a [[Sigils|sigil]]-based spell is calculated as: [[Shape]] base W × [[Discipline]] multiplier, plus flat additions from all specified outer variables, multiplied by the Hook/Mode complexity factor.
 
-The core cost comes from the intersection of [[Shape]] and [[Discipline]]. Shape provides the base Watt value — Triangle (3W), Square (8W), Pentagon (20W), Circle (55W). Discipline provides the multiplier — Raw (×1), Force (×2), Heat (×2), Light (×3), Sound (×4), Electric (×5), Chemical (×5), Binding (×10), Mind (×25), Soul (×75). A Circle Soul sigil starts at 55 × 75 = 4,125W before any other variables are added.
+The core cost comes from the intersection of Shape and Discipline. Shape provides the base Watt value — Triangle (3W), Square (8W), Pentagon (20W), Circle (55W). Discipline provides the multiplier — Raw (×1), Force (×2), Heat (×2), Light (×3), Sound (×4), Electric (×5), Chemical (×5), Binding (×10), Mind (×25), Soul (×75). A Circle Soul sigil starts at 55 × 75 = 4,125W before any other variables are added.
 
 The outer variables — [[Pattern]], [[Reach]], [[Persistence]], [[Target Spec]], [[Output Mode]] — add flat costs to this core. A Circle Soul sigil with Touch (+2W), Permanent (+400W), and Individual (+8W) totals 4,535W, placing it at the T6 level.
 
@@ -616,7 +685,7 @@ The outer variables describe what the sigil is shaped to do — its reach, durat
 | Transcendent | ×30 | Revival from death, rewriting local physical laws |
 | Absolute | ×100 | Interacts with the Flux system architecture itself |
 
-The distinction matters because the [[Flux]] field itself resists certain kinds of work more than others. Soul discipline already requires the [[Flux]] to find and interact with soul-signature specifically — a complex discrimination task. A Hook that demands "permanently rewrite what this person fundamentally is" requires the [[Flux]] to hold a different kind of distinction entirely, one the field resists exponentially more than simple soul detection or marking.
+The distinction matters because the [[Flux]] field itself resists certain kinds of work more than others. Soul discipline already requires the [[Flux]] to find and interact with soul-signature specifically — a complex discrimination task. A [[Hook]] that demands "permanently rewrite what this person fundamentally is" requires the [[Flux]] to hold a different kind of distinction entirely, one the field resists exponentially more than simple soul detection or marking.
 
 This is why T7–T9 effects require elevated Hook/Mode complexity on top of high-end outer variable structure. The sigil may be geometrically constructible at T6 levels. The action the sigil is designed to perform places the effect beyond most practitioners' reach. A T6 practitioner might have the tier ceiling to channel the outer variables. Whether they can construct and sustain the Hook that makes those variables perform identity rewriting is a separate question entirely.
 
@@ -696,495 +765,4 @@ Pattern interacts with other variables to determine the spell's practical applic
 
 Reach determines the maximum distance between caster and effect.
 
-- **Self**: Effect originates from or affects the 
-
-
-[2026-03-05 02:16:07] CLAUDE_INPUT
-TASK:
-# Task: Update Spell Pages to Reflect Calibrated Cost System
-
-## What Changed (Background)
-
-The Flux cost system was fully calibrated with specific Watt values. All pages describing
-how spells cost Flux need to reflect the correct formula, the correct shape/slot rules,
-and the newly established Hook/Mode multiplier — which is the mechanism that makes
-T7–T9 reachable.
-
----
-
-## THE CORRECT SYSTEM (use these exact values — do not invent alternatives)
-
-### Formula
-Total W = ( (Shape base W × Discipline multiplier) + Pattern W + Reach W + Persistence W + Target W + Output Mode W ) × Hook/Mode multiplier
-
-### Shape: Base W cost AND slot constraint (dual role)
-Each outer point is one variable slot. Discipline always occupies one slot.
-
-| Shape    | Total Outer Slots | Discipline | Remaining free slots | Base W |
-|----------|-------------------|------------|----------------------|--------|
-| Triangle | 3                 | 1          | 2                    | 3 W    |
-| Square   | 4                 | 1          | 3                    | 8 W    |
-| Pentagon | 5                 | 1          | 4                    | 20 W   |
-| Circle   | 6                 | 1          | 5 (all)              | 55 W   |
-
-A Triangle sigil cannot hold more than 2 explicitly specified outer variables beyond Discipline,
-regardless of the caster's tier. This is geometric, not a capacity limit.
-
-### Discipline multipliers (apply to Shape base W)
-Raw x1 | Force x2 | Heat x2 | Light x3 | Sound x4 | Electric x5 | Chemical x5 | Binding x10 | Mind x25 | Soul x75
-
-### Variable flat additions (added after core, before Hook/Mode)
-Pattern: Point=0, Plane(default)=0, Beam=+5, Cone=+10, Ring=+15, Cylinder=+20, Sphere=+30, Field=+60
-Reach: Self(default)=0, Touch=+2, Short=+5, Medium=+15, Long=+40, Line-of-Sight=+80, Linked=+150
-Persistence: Immediate(default)=0, Timed Short=+5, Timed Long=+25, Sustained=0(+10W/10min ongoing), Conditional=+20, Latched=+40, Permanent=+400
-Target: Where Written(default)=0, Self=0, Object=+2, Surface=+5, Individual=+8, Marked=+15, Group=+35, Filter=+60
-Output Mode: Natural=0, Adjacent discipline=+10, Cross-type=+30, Extreme cross=+60
-
-### Hook/Mode Multiplier — CENTER CORE variable, not an outer slot
-Hook/Mode is the complexity of the spell's core ACTION. It is not an outer variable and
-does not use a slot. It multiplies the outer variable total.
-
-| Level        | Multiplier | Examples                                                         |
-|--------------|------------|------------------------------------------------------------------|
-| Basic        | x1         | push, heat, light, seal, detect, surface thought read            |
-| Moderate     | x2         | sustained suppression, deep binding, complex physical altering   |
-| Significant  | x4         | deep mind read, emotional alteration, precise state detection    |
-| Extreme      | x10        | forced identity changes, soul severance, partial memory erasure  |
-| Transcendent | x30        | revival from death, rewriting local physical laws                |
-| Absolute     | x100       | interacts with the Flux system architecture itself               |
-
-WITHOUT Hook/Mode elevation (all at x1), the formula tops out at approximately 5,000W — the floor
-of T6. The outer variables describe sigil STRUCTURE. Hook/Mode describes what you are DOING with
-that structure. T7–T9 effects require extreme Hook/Mode on top of high-end sigil geometry.
-
-### Tier W thresholds
-T0:1-10 | T1:11-40 | T2:41-130 | T3:131-400 | T4:401-1,300 | T5:1,301-4,000
-T6:4,001-13,000 | T7:13,001-40,000 | T8:40,001-130,000 | T9:130,001+
-
-### Verified canon examples (do not change these numbers anywhere)
-- Room illumination: Triangle Light + Timed Long = (3x3)+25 = 34W -> T1
-- Container seal: Triangle Binding + Touch + Latched + Object = (3x10)+2+40+2 = 74W -> T2
-- Force sphere barrier: Pentagon Force + Sphere + Timed Long = (20x2)+30+25 = 95W -> T2
-- Heat signature tracking: Circle Heat + Medium + Sustained + Individual = (55x2)+15+0+8 = 133W base -> T3
-- Complete immobilization: Circle Binding + Touch + Sustained + Individual = (55x10)+2+0+8 = 560W -> T4
-- Surface thought read: Pentagon Mind + Touch + Individual = (20x25)+2+8 = 510W -> T4 (Hook Basic x1)
-- Broadcast neuro disruption: Circle Mind + Field + LoS + Timed Short + Group = (55x25)+60+80+5+35 = 1,555W -> T5
-- Permanent Soul mark: Pentagon Soul + Touch + Permanent + Individual = (20x75)+2+400+8 = 1,910W -> T5
-- Forced Soul brand (outer vars only): Circle Soul + Touch + Permanent + Individual = (55x75)+2+400+8 = 4,535W -> T6
-- Forced Soul brand (full identity rewrite): same sigil x Extreme(x10) = 45,350W -> T8
-- Full bodily revival: Circle Soul + Touch + Permanent + Individual x Transcendent(x30) = 136,050W -> T9
-
----
-
-## FILES TO UPDATE
-
-### 1. content/Flux Expenditure.md — WRITE (replace entire file)
-
-The "Additive Effect" section currently has two errors:
-(a) It says "Discipline base cost x Shape multiplier" — WRONG. Shape is the BASE and Discipline is
-the MULTIPLIER. The correct relationship is: core = Shape base W x Discipline multiplier.
-(b) It says Circle Soul sits in "T6 to T8 range" without Hook/Mode. The correct ceiling without
-Hook/Mode is approximately T6 (4,535W). T8 requires Hook/Mode x10.
-
-Fix both errors in the Additive Effect section. Keep all other existing prose identical.
-
-Then add a new section called "## Hook and Mode — Core Action Complexity" inserted BEFORE the
-final *See also* line. Write it in the existing voice (matter-of-fact, dense, no purple prose).
-The section must cover:
-- Hook/Mode is the center-core cost multiplier (not an outer slot variable)
-- Include the exact multiplier table from above
-- Explain that outer variables alone top out at ~5,000W (T6 floor)
-- Explain WHY: the outer variables encode sigil structure; Hook/Mode encodes the nature of what
-  you are asking the Flux to distinguish and act upon. Soul discipline already requires the Flux
-  to find and interact with soul-signature. A Hook that says "permanently rewrite what this person
-  IS" requires the Flux to hold a different kind of distinction — one the field resists more.
-- T7-T9 require elevated Hook/Mode on top of high-end outer variable structure. The sigil may
-  be constructable; the action is what places the effect beyond most practitioners' reach.
-
-### 2. content/Spell Variables.md — WRITE (replace entire file)
-
-Two additions needed:
-
-(a) In the Shape section (outer variable #1): after the existing bullet list of shapes
-(Circle provides most control, Triangle is simplest), add the explicit slot table:
-
-  | Shape    | Outer Slots | Discipline | Remaining Variable Slots |
-  |----------|-------------|------------|--------------------------|
-  | Triangle | 3           | 1          | 2                        |
-  | Square   | 4           | 1          | 3                        |
-  | Pentagon | 5           | 1          | 4                        |
-  | Circle   | 6           | 1          | 5 (all)                  |
-
-  Then one sentence: "A Triangle sigil cannot specify more than 2 outer variables beyond
-  Discipline — this is a geometric constraint, not a tier limit."
-
-(b) In the Center Core section, after the existing Hook and Mode bullet points, add:
-
-  "Hook and Mode together carry a cost multiplier that applies to the spell's total outer
-  variable cost. Simple physical interactions default to x1. Effects operating at the
-  identity, soul, or fundamental-law level carry multipliers from x10 to x100. This is
-  how T7–T9 costs are reached: the outer variables describe what the sigil is shaped to
-  do; Hook and Mode describe how deeply the Flux must reach to do it. See [[Flux Cost Reference]]
-  for the full multiplier table."
-
-Keep all other text identical.
-
-### 3. content/Discipline.md — WRITE (replace entire file)
-
-Two additions needed:
-
-(a) Add "(xN)" after each discipline name in the Disciplines list. Exact values:
-Raw (x1), Force (x2), Heat (x2), Light (x3), Sound (x4), Electric (x5), Chemical (x5),
-Binding (x10), Mind (x25), Soul (x75)
-
-(b) Add a new section "## Cost Multipliers" after the discipline list and before
-"## Discipline vs Output Mode". Write in the existing voice. Must cover:
-- Each discipline multiplies Shape base W to produce the core Flux demand
-- Raw x1: no discriminating precision required — unfiltered Flux
-- Soul x75: the finest discrimination the Flux system supports — must find and interact
-  with soul-signature specifically
-- The gap (x1 vs x75) means Triangle Soul (3x75=225W, T3) costs more than Circle Force
-  (55x2=110W, T2) before any variable additions
-- Mass grimoires favor Force, Heat, Binding (x2, x2, x10) because their multipliers
-  produce effects at tiers common practitioners can access. Mind (x25) and Soul (x75)
-  floor their total cost above T3–T4 even in the simplest Triangle configurations.
-- Include this reference table:
-
-  | Discipline | Multiplier | Triangle core W | Circle core W |
-  |------------|------------|-----------------|---------------|
-  | Raw        | x1         | 3 W             | 55 W          |
-  | Force      | x2         | 6 W             | 110 W         |
-  | Heat       | x2         | 6 W             | 110 W         |
-  | Light      | x3         | 9 W             | 165 W         |
-  | Sound      | x4         | 12 W            | 220 W         |
-  | Electric   | x5         | 15 W            | 275 W         |
-  | Chemical   | x5         | 15 W            | 275 W         |
-  | Binding    | x10        | 30 W            | 550 W         |
-  | Mind       | x25        | 75 W            | 1,375 W       |
-  | Soul       | x75        | 225 W           | 4,125 W       |
-
-### 4. content/Control Tier.md — APPEND (add one section before the final See also line)
-
-Add this section inserted before the *See also* line:
-
-## Watt Cost Ranges
-
-Every tier corresponds to a Flux cost range measured in [[Watts]]. The ranges below reflect
-outer-variable costs from the [[Flux Cost Reference]] — the structural cost of the sigil
-geometry before Hook/Mode action complexity is applied.
-
-| Tier | W Range           | Canonical example                                        |
-|------|-------------------|----------------------------------------------------------|
-| T0   | 1–10 W            | Triangle Raw, single default                             |
-| T1   | 11–40 W           | Triangle Light + Timed Long (34W)                        |
-| T2   | 41–130 W          | Triangle Binding + Touch + Latched + Object (74W)        |
-| T3   | 131–400 W         | Circle Heat + Medium + Sustained + Individual (133W)     |
-| T4   | 401–1,300 W       | Circle Binding + Touch + Sustained + Individual (560W)   |
-| T5   | 1,301–4,000 W     | Circle Mind + Field + LoS + Group (1,555W)               |
-| T6   | 4,001–13,000 W    | Circle Soul + Touch + Permanent + Individual (4,535W)    |
-| T7   | 13,001–40,000 W   | Hook/Mode Extreme (x10) applied to T5–T6 outer structure |
-| T8   | 40,001–130,000 W  | Hook/Mode Transcendent (x30) on T6 outer structure       |
-| T9   | 130,001+ W        | Hook/Mode Absolute (x100), or Transcendent on max structure|
-
-T0–T6 are reachable through outer sigil variables alone. T7–T9 require elevated Hook/Mode
-complexity — the outer variables alone cannot produce costs above approximately 5,000W regardless
-of configuration. A practitioner may have the tier ceiling to execute a T7 effect. Whether they
-can construct the action its Hook requires is a separate question.
-
----
-
-## RULES FOR THIS TASK
-
-- Do NOT invent new lore, characters, locations, or factions.
-- Do NOT change any content beyond what is explicitly described above.
-- Preserve all existing prose, links, and See Also sections exactly unless instructed otherwise.
-- Write in the existing voice: matter-of-fact, dense, no purple prose.
-- Every WRITE block must contain the FULL file content, not just the changed section.
-- Every number in this task is canon. Do not round, estimate, or substitute.
-- These are 4 files total. Plan t
-
-
-[2026-03-05 02:16:56] CLAUDE_OUTPUT
-===WRITE: content/Discipline.md===
-**Discipline** is the fundamental variable in any [[Flux]] casting — the aspect of reality the spell will interact with. Every [[Sigils|sigil]] must specify exactly one discipline, which occupies one of the shape's outer variable slots and determines the base cost multiplier for the entire effect.
-
-The discipline system recognizes nine distinct categories of [[Flux]] interaction, each requiring different levels of precision from the ambient field. A spell that moves objects ([[Force]]) asks less of the Flux than a spell that reads thoughts ([[Mind]]) or manipulates soul-signature ([[Soul]]). This difference in precision demand is reflected in the cost multiplier each discipline applies to the [[Shape]] base cost.
-
-## Disciplines
-
-**Raw (×1)** — Unfiltered [[Flux]] manipulation. No specific targeting or discrimination required. Used for effects that channel pure energy without asking the Flux to distinguish between different types of matter or different aspects of reality. The baseline discipline.
-
-**Force (×2)** — Kinetic energy and mechanical interaction. Moving objects, applying pressure, creating barriers, generating impact. The Flux must distinguish between matter and empty space but does not need to discriminate between different types of matter.
-
-**Heat (×2)** — Thermal energy manipulation. Heating, cooling, temperature control, thermal detection. The Flux must interact with molecular motion specifically, but thermal effects are relatively straightforward for the field to produce.
-
-**Light (×3)** — Photonic energy and electromagnetic radiation in the visible spectrum. Illumination, focused beams, optical effects. Requires more precision than thermal work because light behavior is more complex than heat transfer.
-
-**Sound (×4)** — Acoustic energy and vibration control. Sound generation, noise suppression, acoustic detection, vibration manipulation. The Flux must interact with compression waves through various media, requiring careful calibration.
-
-**Electric (×5)** — Electrical energy and electromagnetic effects beyond the visible spectrum. Shock, electromagnetic pulse, electrical detection, current control. High precision required due to the specific nature of electrical phenomena.
-
-**Chemical (×5)** — Molecular structure and chemical reaction control. Catalysis, reaction suppression, molecular detection, chemical transformation. The Flux must distinguish between different molecular structures and their interaction patterns.
-
-**Binding (×10)** — Constraint and connection effects. Seals, locks, adhesion, structural reinforcement, connection between objects or effects. Requires the Flux to create persistent relationships between separate entities.
-
-**Mind (×25)** — Neural activity and mental state interaction. Thought reading, memory access, emotional influence, mental detection, consciousness effects. The Flux must distinguish between different types of neural activity and interact with brain states specifically.
-
-**Soul (×75)** — Soul-signature and identity manipulation. Identity reading, soul marking, essence detection, fundamental identity alteration. The finest discrimination the Flux system supports — the field must locate and interact with the specific signature that defines individual identity.
-
-## Cost Multipliers
-
-Each discipline multiplies the [[Shape]] base [[Watts|W]] cost to produce the core Flux demand for any spell. A [[Triangle]] Raw spell starts at 3×1 = 3W. A Triangle Soul spell starts at 3×75 = 225W before any other variables are added.
-
-The multiplier gap reflects the precision the Flux field must maintain to execute the effect. Raw discipline requires no discriminating precision — unfiltered Flux channeled without asking the field to distinguish between different aspects of reality. Soul discipline requires the finest discrimination the Flux system supports — the field must find and interact with soul-signature specifically, distinguishing individual identity from all other aspects of a person's existence.
-
-This precision demand means that higher-multiplier disciplines floor their total cost above tiers that common practitioners can access. A Triangle Soul spell costs 225W minimum — already T3 — before any variable additions. A [[Circle]] Soul spell costs 4,125W minimum — T6 floor — before variables. Mass [[Grimoires]] favor Force, Heat, and Binding (×2, ×2, ×10) because their multipliers produce effects at tiers common practitioners can reach. Mind (×25) and Soul (×75) floor their total cost above T3–T4 even in the simplest Triangle configurations.
-
-| Discipline | Multiplier | Triangle core W | Circle core W |
-|------------|------------|-----------------|---------------|
-| Raw        | ×1         | 3 W             | 55 W          |
-| Force      | ×2         | 6 W             | 110 W         |
-| Heat       | ×2         | 6 W             | 110 W         |
-| Light      | ×3         | 9 W             | 165 W         |
-| Sound      | ×4         | 12 W            | 220 W         |
-| Electric   | ×5         | 15 W            | 275 W         |
-| Chemical   | ×5         | 15 W            | 275 W         |
-| Binding    | ×10        | 30 W            | 550 W         |
-| Mind       | ×25        | 75 W            | 1,375 W       |
-| Soul       | ×75        | 225 W           | 4,125 W       |
-
-## Discipline vs Output Mode
-
-Discipline determines what aspect of reality the spell interacts with. [[Output Mode]] determines what form that interaction takes when it manifests. A Force discipline spell naturally produces kinetic effects — movement, pressure, impact. But Force discipline can be combined with thermal [[Output Mode]] to produce kinetic energy that manifests as heat, or with photonic Output Mode to produce kinetic energy that manifests as light.
-
-Cross-discipline output modes carry additional cost beyond the base discipline multiplier. Natural pairings (Force→kinetic, Heat→thermal, Light→photonic) carry no additional cost. Adjacent disciplines (Heat→kinetic, Force→thermal) add +10W. Cross-type combinations (Mind→kinetic, Force→neural) add +30W. Extreme crosses (Soul→kinetic, Force→soul) add +60W.
-
-The discipline multiplier applies to the Shape base cost. Output Mode costs are flat additions applied after the core calculation. A Triangle Force spell with thermal output costs (3×2) + 10 = 16W total.
-
-*See also: [[Flux]], [[Shape]], [[Watts]], [[Control Tier]], [[Sigils]], [[Output Mode]], [[Spell Variables]], [[Flux Cost Reference]], [[Raw]], [[Force]], [[Heat]], [[Light]], [[Sound]], [[Electric]], [[Chemical]], [[Binding]], [[Mind]], [[Soul]]*
-===END===
-
-===APPEND: content/Control Tier.md===
-
-## Watt Cost Ranges
-
-Every tier corresponds to a Flux cost range measured in [[Watts]]. The ranges below reflect outer-variable costs from the [[Flux Cost Reference]] — the structural cost of the sigil geometry before Hook/Mode action complexity is applied.
-
-| Tier | W Range           | Canonical example                                        |
-|------|-------------------|----------------------------------------------------------|
-| T0   | 1–10 W            | Triangle Raw, single default                             |
-| T1   | 11–40 W           | Triangle Light + Timed Long (34W)                        |
-| T2   | 41–130 W          | Triangle Binding + Touch + Latched + Object (74W)        |
-| T3   | 131–400 W         | Circle Heat + Medium + Sustained + Individual (133W)     |
-| T4   | 401–1,300 W       | Circle Binding + Touch + Sustained + Individual (560W)   |
-| T5   | 1,301–4,000 W     | Circle Mind + Field + LoS + Group (1,555W)               |
-| T6   | 4,001–13,000 W    | Circle Soul + Touch + Permanent + Individual (4,535W)    |
-| T7   | 13,001–40,000 W   | Hook/Mode Extreme (×10) applied to T5–T6 outer structure |
-| T8   | 40,001–130,000 W  | Hook/Mode Transcendent (×30) on T6 outer structure       |
-| T9   | 130,001+ W        | Hook/Mode Absolute (×100), or Transcendent on max structure|
-
-T0–T6 are reachable through outer sigil variables alone. T7–T9 require elevated Hook/Mode complexity — the outer variables alone cannot produce costs above approximately 5,000W regardless of configuration. A practitioner may have the tier ceiling to execute a T7 effect. Whether they can construct the action its Hook requires is a separate question.
-
-===END===
-
-
-[2026-03-05 02:17:04] GPT_INPUT
-WORLD_STATE:
-# Solumora World State
-Canon reference for all agents. DO NOT invent content outside this document.
-
----
-
-## NAMING CONVENTIONS — READ FIRST, NEVER VIOLATE
-
-Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fantasy tropes.
-
-**Correct name patterns:**
-- First: Sera, Eddan, Drest, Cassia, Ysel, Cael, Wren, Mave, Mira, Aldric, Rett, Toven, Renne
-- Surname: Voss, Soln, Solv, Rhyce, Mourne, Osl, Ral
-- Ground-level (first only or first+short surname): Nara Celd, Osvin Brack, Keld Dast, Sable Morn, Cor Meln, Vel Sorvn
-
-**FORBIDDEN name patterns (instant canon violation):**
-- Compound poetic names: Darkhaven, Earthsong, Moonwhisper, Stonefist, Blackwood, Greenhaven, Windsong
-- Fantasy titles in names: "the Bold", "the Swift"
-- Irish/Celtic: Niamh, Caoimhe, Aoife
-- High fantasy: Kaelin, Lila, Aria, Zara, Thrain
-
-**Place name patterns:**
-- Existing: Valdenmoor, Ashford, Greyveil, Wolfpoint, Halveth, Solhaven, Hedun, Emberfall
-- New places should feel like real-world geography: short, grounded, Germanic/Northern European
-- FORBIDDEN: Zha'thik, Khyronia, Nefaria, Valtania, Aridos, Luminara, etc.
-
----
-
-## WORLD OVERVIEW
-
-- **Solumora**: Single supercontinent, ~250 million people, Earth-scale geography
-- **Two kingdoms**: Terravelle (north) and Auralis (south), separated by the Equatorial Desert
-- **Ancient civilization**: Collapsed ~1,000+ years ago. Left ruins, embedded Flux objects, and the Watts ledger infrastructure. Nobody knows what destroyed them.
-- **Current era**: Tension between kingdoms, desert border disputes, ancient mystery slowly surfacing
-
----
-
-## GEOGRAPHY
-
-**Terravelle (north)**
-- Capital: Valdenmoor (major port city)
-- Other cities: Ashford (border city near desert), Greyveil (mining/ore district), Wolfpoint (coastal fortress, secretive)
-- Rural interior: scattered farming communities, Covenant mediation
-- Governance: Crown (external/military/judicial) + Guild Councils (trade/economic) + City Councils (civic) + Covenant of Measure (rural informal)
-
-**Auralis (south)**
-- Capital: Solhaven (tiered coastal city, Crestward = elite district)
-- Other cities: Hedun (port), Halveth (desert-edge garrison), Emberfall (ruins-adjacent research town)
-- Governance: The Council of Auralis (centralized, 30+ members). Ascendant Path = Flux-tier advancement system
-
-**Equatorial Desert**
-- Lethal. Rift Incursions occur (Flux Demons emerge). Halveth guards the crossing.
-- Disputed territory north of Auralis: wayhouses, difficult passage
-- Ancient ruins scattered throughout
-
----
-
-## MAGIC SYSTEM
-
-**Flux**: Ambient energy permeating the world. Cannot be stored — only channeled in the moment. Unlimited supply; cost is precision.
-
-**Control Tier (T0–T9)**: Randomly distributed at birth (assessed ~age 12–14). Cannot be trained up.
-- T0: ~40% of population. Can feel Flux, cannot cast independently
-- T1–T2: Common working practitioners
-- T3–T4: Skilled, valuable
-- T5–T6: Rare, Path-eligible in Auralis
-- T7–T9: Extremely rare, effectively theoretical at T8–T9
-
-**Casting methods**:
-- Sigils: Geometric inscriptions (Triangle/Square/Pentagon/Circle = 3/4/5/6 variable slots). Academic system.
-- Hand Signs: Gestural, fast, imprecise. Street and field use.
-- Hypertext: Ancient method only Mira Solv has theorized. Possibly what the ancient civilization used.
-
-**Flux cost (Watts)**:
-- Formula: (Shape base × Discipline multiplier) + variable additions × Hook/Mode multiplier
-- Disciplines: Raw×1, Force×2, Heat×2, Light×3, Sound×4, Electric×5, Chemical×5, Binding×10, Mind×25, Soul×75
-- T0:1–10W, T1:11–40W, T2:41–130W, T3:131–400W, T4:401–1300W, T5:1301–4000W, T6:4001–13000W, T7:13001–40000W, T8:40001–130000W, T9:>130000W
-
-**Watts**: Unit of Flux measurement AND the name of the currency. Same word, separate uses. Casting does not debit your bank account. Currency Watts are distributed via an ancient ledger system (the actual Watts network) that nobody fully understands.
-
----
-
-## INSTITUTIONS
-
-**Terravelle**
-- Trade Guilds: Three-stage certification (apprentice→journeyman→certified), tier-graded, documentation standard
-- Covenant of Measure: Informal religious/philosophical organization. Mediation in rural areas. NOT bureaucratic.
-- Terravelle Administration: Crown + Guild Councils + City Councils. Diffuse, resilient, slow.
-
-**Auralis**
-- The Council of Auralis: Centralized 30+ member governance body
-- Ascendant Path: Formal advancement track for high-tier practitioners. Career system.
-- The Advancement Corps: Field research institution. Stated: ruins documentation. Actual: population experiments, selective reporting, euphemistic language.
-- The Culmination Faction: 11-member Council bloc. Believe ancient civilization "culminated" (transcended) not died. Led by Drest. Academic arm: Aldric Mourne.
-- Expansion Faction: 6-member Council bloc. Territorial/economic expansion. Drove Ashford Blockade ~45 years ago.
-
----
-
-## PRINCIPAL CHARACTERS
-
-**Terravelle:**
-- **Eddan Voss** (T7): King of Terravelle. Moderate, constrained by Guild system and advisors.
-- **Sera Voss** (T6): Eddan's daughter. Scholar. Discovered Watts = ancient civilization currency system. Has NOT told anyone.
-- **Ysel Voss** (T5): Eddan's son. Read Sera's draft notes. Reached different conclusions.
-- **Cael** (T5): Wolfpoint engineer. Approaching the Watts/ancient civilization secret from the mechanics side.
-- **Mira Solv** (T5): Scholar. Has theorized Hypertext. Deliberately withholding from Drest.
-
-**Auralis:**
-- **Drest** (T6): Most powerful Council member. Leads Culmination Faction. Leads Expansion Faction in practice. Drew lesson from Ashford Blockade: need real military capability. Strategic, patient.
-- **Cassia** (T4): Council member. Moderate. Constrained — cannot openly oppose Drest.
-- **Aldric Mourne** (T4): Academic. Culmination Faction's scholarly arm. Works Emberfall ruins.
-- **Rett Soln** (T3): Council member aligned with Drest.
-- **Toven Ral** (T5, retired): Former Advancement Corps Field Lead. Knows what they actually did. Now in Hedun.
-- **Renne Osl** (T3): Active Advancement Corps Senior Field Assessor.
-
-**High Demons (embedded in society, true identities secret):**
-- **Selvane** (Solhaven): Prominent Council-adjacent figure. Does not know Mave is also a demon.
-- **Mave** (Solhaven): Embedded. Does not know Selvane is also a demon.
-- **Fennick** (Hedun): Port-adjacent. Multiple ground-level characters orbit his sphere without knowing what he is.
-- **Wren** (Halveth): Desert-edge garrison. Has an 18-year relationship with Selt Orvn who does not know.
-- **Sorath** (wandering): Desert crosser. Had a one-night encounter with Celn Vard.
-
----
-
-## GROUND-LEVEL CHARACTERS (38 total)
-
-These are ordinary people, NOT heroes. They have small lives, specific jobs, mundane concerns.
-
-**Valdenmoor:** Osvin Brack (T3, merchant), Daven Lorn (T2, case notes), Massen Olvr (T0, dock laborer), Rell Hadv (T4, guild master), Ostal Mrev (T3, infrastructure sigil), Sella Veld (T1, Flux pathway damage), Seld Norn (T3, former Corps operative), Sova Mast (T2, age 15 apprentice), Ossal Meln (T3, Flux-embedded objects craftsperson)
-
-**Ashford:** Nara Celd (T0), Yena Falt (T3), Cavel Dorst (T3, merchant house), Doss Varn (T1, border guard), Drev Oln (T1, innkeeper), Orre Cavlt (T2, cross-border merchant), Pell Vastl (T1, transaction scribe)
-
-**Greyveil:** Keld Dast (T1), Brenne Kalt (T2, factors agent), Saven Dorn (T3, mining supervisor), Derin Olt (age 12, T2)
-
-**Wolfpoint:** Vel Sorvn (T3), Mell Rask (T4, 15yr resident), Cossa Vrend (T2, archive assistant)
-
-**Solhaven:** Lenne Sosk (T0), Neven Cors (T5, declining Path pressure), Tev Ols (age 10, pre-assessment), Miren Thask (T2, Watts accountant), Vessa Oln (T4, Flux instructor), Oryen Veld (T2), Ren Valdh (T5, Council admin), Vend Aln (T3, junior Luminant), Osten Reld (T2, Expansion operative), Ressa Dolt (T2, Birth Rune inscriber), Avel Tors (T1, craftsperson), Essa Rolt (T1, Selvane's household manager)
-
-**Hedun:** Toven Ral (T5, retired), Lorn Seld (T1, Fennick's orbit), Tolla Rend (T1, harbor supervisor)
-
-**Halveth:** Selt Orvn (T2, supply depot)
-
-**Desert/Mobile:** Sable Morn (T2, circuit trader), Avel Coss (T4, desert guide), Ilke Vann (T2, coastal trader), Ossen Drel (T2, inter-kingdom trader), Roven Delt (T2, wayhouse keeper), Celn Vard (T2, had encounter with Sorath)
-
-**Rural Terravelle:** Reth Caln (T1), Bren Ossve (T7), Solen Carr (T5, age 18), Mella Seln (T3, Hand Sign specialist), Teva Orrn (T2, Cadell Mors's sister), Osvan Drellt (T4, declined 6 recruitment approaches)
-
-**Rural Auralis:** Maret Doss (T1), Prenn Aldv (T0), Hallen Vors (T3, declined Path), Lenna Cors (age 14, T4)
-
-**Auralis cities:** Sorren Kael (T4, Hedun Luminant), Renne Osl (T3, Corps), Collen Mast (T2, mobile border), Crel Aldst (T1, returned from Wolfpoint), Erra Dossn (T2, Emberfall market)
-
----
-
-## KEY NARRATIVE THREADS
-
-1. **Wolfpoint/Watts secret**: Sera Voss knows Watts = ancient civilization. Hasn't told anyone. Ysel read draft, different conclusions. Mira Solv withholds Hypertext theory from Drest. Cael approaching from mechanics.
-2. **High Demons embedded**: Selvane+Mave both in Solhaven (unaware of each other). Fennick in Hedun. Wren at Halveth. Sorath wandering.
-3. **Political fraying**: Expansion Faction pushing conflict. Culmination Faction needs rifts open (wants ruins accessible). Cassia constrained. Eddan Voss uncertain.
-4. **Three Near-Wars history**: Eastern Passage Dispute (~160yr ago), Ruins Claim Incident (~95yr ago), Ashford Blockade (~45yr ago). Drest was junior Expansion member in Blockade, drew lesson: need military force.
-
----
-
-## EXISTING PAGES (partial — check content/ for full list)
-
-Locations: Solumora, Terravelle, Auralis, Valdenmoor, Ashford, Greyveil, Wolfpoint, Halveth, Solhaven, Hedun, Emberfall, Equatorial Desert, Ancient Ruins
-Lore: Flux, Control Tier, Sigils, Hand Signs, Hypertext, Watts, Spell Variables, Flux Cost Reference, Flux Expenditure, Trade Guilds, Flux Medicine, The Advancement Corps, Tier Assessment, Rift Incursions, Flux Demons, High Demons, Ascendant Path, Covenant of Measure
-Factions: The Council of Auralis, The Culmination Faction, Expansion Faction, Terravelle Administration
-History: History of Solumora, The Three Near-Wars
-Characters (principal): Eddan Voss, Sera Voss, Ysel Voss, Cael, Mira Solv, Drest, Cassia, Aldric Mourne, Rett Soln, Toven Ral, Renne Osl, Selvane, Mave, Fennick, Wren, Sorath
-All 38 ground-level characters listed above have pages.
-
-
-CHANGED FILES:
-
---- FILE: content\Control Tier.md ---
-**Control Tier** measures how much control a caster has over a spell's variables and how much [[Flux]] precision is required to execute it safely. It has two meanings at once: **Capacity / Difficulty** — how much Flux handling and precision the spell demands — and **Control Surface** — how many outer variables the sigil explicitly controls, with the rest falling back to defaults.
-
-Control Tier is always represented by the complexity marker in the center ring (Tier 0–Tier 9), and by the Shape of the sigil (how many outer points are present).
-
-## Tier 0–Tier 9 — Exponential Scaling
-
-The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class of magic.
-
----
-
-### Tier 0 — Trace
-
-_Barely any Flux. The threshold most people never bother to formally test._
-
-**Possible feats:** Cause a candle flame to flicker without touching it. Warm a coin slightly. Make a small sound with no clear source. Leave a faint impression on soft material.
-
-**Misfire:** Nothing happens. Occasionally a faint unintended warmth, a brief smell, or a sound that wasn't quite right. Harmless in every case.
-
----
-
-### Tier 1 — Flicker
-
-_A small, usable trickle. The first tier where deliberate spellwork is practical._
-
-**Possible feats:** Light a room with a stable glow sigil. Keep food warm for an hour. Deliv
+- **Self**: Effect originates from or affects 

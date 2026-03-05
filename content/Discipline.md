@@ -26,7 +26,7 @@ The discipline system recognizes nine distinct categories of [[Flux]] interactio
 
 ## Cost Multipliers
 
-Each discipline multiplies the [[Shape]] base [[Watts|W]] cost to produce the core Flux demand for any spell. A [[Triangle]] Raw spell starts at 3×1 = 3W. A Triangle Soul spell starts at 3×75 = 225W before any other variables are added.
+Each discipline multiplies the [[Shape]] base [[Watts|W]] cost to produce the core Flux demand for any spell. A Triangle Raw spell starts at 3×1 = 3W. A Triangle Soul spell starts at 3×75 = 225W before any other variables are added.
 
 The multiplier gap reflects the precision the Flux field must maintain to execute the effect. Raw discipline requires no discriminating precision — unfiltered Flux channeled without asking the field to distinguish between different aspects of reality. Soul discipline requires the finest discrimination the Flux system supports — the field must find and interact with soul-signature specifically, distinguishing individual identity from all other aspects of a person's existence.
 
@@ -53,4 +53,4 @@ Cross-discipline output modes carry additional cost beyond the base discipline m
 
 The discipline multiplier applies to the Shape base cost. Output Mode costs are flat additions applied after the core calculation. A Triangle Force spell with thermal output costs (3×2) + 10 = 16W total.
 
-*See also: [[Flux]], [[Shape]], [[Watts]], [[Control Tier]], [[Sigils]], [[Output Mode]], [[Spell Variables]], [[Flux Cost Reference]], [[Raw]], [[Force]], [[Heat]], [[Light]], [[Sound]], [[Electric]], [[Chemical]], [[Binding]], [[Mind]], [[Soul]]*
+*See also: [[Flux]], [[Shape]], [[Watts]], [[Control Tier]], [[Sigils]], [[Output Mode]], [[Spell Variables]], [[Flux Cost Reference]]*
