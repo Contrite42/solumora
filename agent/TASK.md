@@ -1,49 +1,83 @@
-# Task: Desert Edge Expansion
+# Task: Grimoire & Spell Development
 
-Two focused appends to existing pages. Do not rewrite what's there. Match existing voice exactly.
-
----
-
-## TASK-01: APPEND to content/Equatorial Desert.md — Two new sections
-
-The page covers geography, crossing, fauna, and ruins well. Add:
-
-### Section A — "## The Desert Edge"
-
-Halveth exists because the desert requires a staging point and people are willing to profit from necessity. Add a section covering:
-- What the crossing economy looks like at its edge: Halveth as the last reliable supply point, the trade that runs there, who shows up in expedition season and what they're buying
-- The specific weight of leaving: what it is to walk south out of Halveth knowing what the crossing statistics are. Not dramatic — practical. Expedition leaders do pre-departure inventory checks. People settle accounts. These rituals are not superstition.
-- The edge's particular quality: the point where the heat becomes something you can measure on your skin rather than read about. The wind starts before Halveth fully disappears behind you. Experienced guides say the desert announces itself.
-- Links in body: [[Halveth]], [[Selt Orvn]] (supply depot — 18yr relationship with Wren, knows the departure rituals as well as anyone), [[Auralis]]
-
-### Section B — "## Rift Encounters"
-
-The Rift Incursions page covers the politics. This section covers the ground-level experience — what it actually looks like when something comes through near a crossing party. Keep it concrete and sensory, not political:
-- What a rift looks like forming: not dramatic, not cinematic. A quality to the air. Something that the fauna register before humans do — the insects pull back, the arachnids go still. Experienced crossers learn to read this.
-- What emerges: lower-order demons are not subtle. They are fast, Flux-dense, disorienting to face — not because they are overwhelming but because they are wrong in ways that the eye keeps trying to correct. A T3 caster with the right sigil set can manage one. Two requires a team response. Three is a retreat.
-- What survivors carry: [[Vorn Teld]] (Halveth, T2) consults with expeditions before departure specifically because he has experienced a three-demon emergence and can speak to what the official literature doesn't prepare you for. He doesn't enjoy these consultations. He does them because someone should.
-- The demon passage quality: the lower-order creatures are not interested in the ruins. They don't seem to understand the desert they emerge into. They move until something stops them. This is not reassuring.
-- Add to See Also: [[High Demons]], [[Ascendant Path]] (Auralis-funded expeditions carry Path-connected researchers who frame the ruins theologically)
-- Existing See Also stays; add the two links above
-
-Voice: Dense, specific, no purple prose. Write for someone who needs to understand the desert as a practical reality, not a dramatic backdrop.
+Four files to create/append. No new lore, no new characters, no new kingdoms.
+Formula reference (critical — enforce exactly):
+- Shape base costs: Triangle=3W, Square=8W, Pentagon=20W, Circle=55W
+- Disciplines multiply shape base: Binding×10, Heat×2, Force×2, Light×1, Chemical×3, Raw×1, Mind×8, Kinetic×1, Sound×1
+- Persistence flat additions: Permanent +400W (adds to base cost for tier calc)
+- ONE discipline per sigil. Tier determined by Shape×Discipline result (before persistence).
+- T1: 11-40W. T2: 41-130W. T3: 131-400W. T4: 401-1300W.
 
 ---
 
-## TASK-08: APPEND to content/Life in Halveth.md — Minor body text addition
+## TASK-12: CREATE content/WrittenWorks/The Zakros Crossing Compendium.md
 
-The page is well-developed. Wren is named and has a full section. Selt Orvn and Vorn Teld are in See Also but not in body text. Fix this with 2-3 sentences in the existing "## The Rifts" section:
+Author: [[Avel Coss]] (T4 desert guide). Published in-world survival grimoire. Approximately 10 spells, curated from existing Common/Uncommon tier — use only real spell names already in the vault.
 
-Add to the paragraph about what permanent residents have developed around rift activity:
-- Selt Orvn runs the supply depot and has 18 years of experience at the edge. He keeps a running record of which sigil configurations have actually been used in rift responses, as opposed to which ones the official expedition literature recommends. There is a gap.
-- Vorn Teld survived a three-demon emergence on a crossing six years ago and has been in Halveth since, doing pre-departure consultations for expeditions that want someone who has been in that situation. He doesn't call himself an expert. The permanent residents don't call him one either. They call him available.
+Good candidates (all exist): Warmbreath, Breathclean, Dustsweep, Heatcheck, Soundlisten, Marksense, Fluxread, Coldbox Seal, Dryseal, Heatshield.
 
-Match existing prose style: understated, specific, slightly exhausted. No drama.
+Format: Written Works style. Short first-person introduction by Avel, then each spell entry: spell name, one-line description of its desert application, and Avel's field notes (2-4 sentences) covering: which conditions it degrades under, when to prioritize it when reserves are low, what the standard grimoire gets wrong about it.
+
+Avel's voice: spare, practical, slightly grim. Has seen the full range of outcomes. Not warm, not hostile — the voice of someone giving an honest accounting to people who need it.
+
+See Also: [[Avel Coss]], [[Equatorial Desert]], [[Desert Zakros]], [[Grimoires]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Flux]], [[Halveth]], [[Rift Incursions]]
+
+---
+
+## TASK-13: CREATE content/WrittenWorks/Fifteen Sigils for the Young Practitioner.md
+
+Guild-published T1 teaching text, Valdenmoor Trade Guild. No single author — committee production. 15 T1 spells in pedagogical sequence (safety first, then utility, then refinement).
+
+Use only real T1 spell names from the vault. Good candidates: Warmstone, Glowmark, Hearthlight, Inkmark, Dustsweep, Copymark, Dryseal, Heatcheck, Breathclean, Nudge, Shove, Slowfall, Lift, Marksense, Chargecheck.
+
+The copy we see is annotated by hand — a parent or apprentice master. Their notes run throughout. They have been teaching from this book for years and have opinions about its sequencing. One student (never named — "the Massen boy", "the girl from the textile district") appears repeatedly in the notes.
+
+Format: Written Works style. Brief framing paragraph about the text, then the 15 spells listed in teaching sequence. After each spell: annotator's margin note (1-3 sentences — practical, occasionally worried, occasionally exasperated, occasionally warm).
+
+See Also: [[Grimoires]], [[Common Grimoire]], [[Control Tier]], [[Flux]], [[Valdenmoor]], [[Trade Guilds]], [[Tier Assessment]]
+
+---
+
+## TASK-14: APPEND to content/All Grimoire.md — new spells section
+
+Append a "## New Additions" section with these 4 spells. Use EXACT table format from rest of All Grimoire (variables: Shape, Hook, Mode, Control Tier, Discipline, Output, Pattern, Reach, Persistence, Target). One discipline per sigil. Tier must match Watt cost.
+
+**Dustlock** — Chemical discipline. Permanently seals particulate out of a surface (grimoire pages, sigil surfaces). Critical for Zakros use. T2.
+Pentagon(20W) × Chemical(×3) = 60W base. Add Permanent +400W = 460W total. Tier is T2 based on base cost 60W.
+
+**Faunaread** — Raw discipline. Detects Flux signatures of living creatures in a sphere around caster. T2.
+Circle(55W) × Raw(×1) = 55W → T2. Sphere pattern. Sustained persistence.
+
+**Waterward** — Chemical discipline. Permanently seals a surface against water penetration. T2.
+Pentagon(20W) × Chemical(×3) = 60W base. Add Permanent +400W = 460W total. Tier is T2 based on base cost 60W.
+
+**Heatshield** — Heat discipline. Sustained personal thermal buffering, stronger than Warmbreath. T2.
+Circle(55W) × Heat(×2) = 110W → T2. Sustained persistence. Self target.
+
+---
+
+## TASK-15: CREATE content/WrittenWorks/Ossal Meln's Workshop Notes.md
+
+[[Ossal Meln]] is a T3 Flux-embedded objects craftsperson in Valdenmoor. Working notes from a development project: combining thermal regulation and light emission in a single embedded object.
+
+Format: Numbered entries, dated Day 1 / Day 4 / Day 9 / Day 12. Numbers-heavy. Brief sentences. No sentimentality.
+
+Day 1: Initial attempt. Two-discipline combined sigil (Heat+Light). Fails — cannot apply two disciplines to one sigil. Notes the correct principle.
+
+Day 4: Two separate sigils embedded adjacent. Cost calc for each. Tests interaction — unexpected Flux interference between sigils at close proximity.
+
+Day 9: Spacing solution found. Minimum distance between embedded sigils eliminates interference. Final config: Triangle(3W) × Light(×1) = 3W + Triangle(3W) × Heat(×2) = 6W = 9W total. T1 each. Working.
+
+Day 12: Scaling note. Pentagon(20W) × Light(×1) = 20W + Pentagon(20W) × Heat(×2) = 40W = 60W total config for larger objects. T2 practitioner required. Cost comparison documented.
+
+Ossal's voice: technical, matter-of-fact. Numbers first. Notes failures without self-pity.
+
+See Also: [[Flux]], [[Sigils]], [[Flux Cost Reference]], [[Valdenmoor]], [[Common Grimoire]], [[Control Tier]]
 
 ---
 
 ## RULES
-- Append only. Do not rewrite or remove existing content.
-- No new lore invented. No new characters invented.
-- No character knows a High Demon's true identity.
-- Match existing voice exactly — practical, grounded, no sentimentality.
+- No new lore, kingdoms, continents, or factions invented.
+- No new character names invented — only use Avel Coss and Ossal Meln (both already exist).
+- All spell costs calculated correctly per formula above. ONE discipline per sigil.
+- Plan ONLY these 4 files. Do not add extras.

@@ -25,6 +25,7 @@ TASK_FILE = AGENT_DIR / "TASK.md"
 WORLD_STATE = AGENT_DIR / "WORLD_STATE.md"
 STYLE_GUIDE = AGENT_DIR / "STYLE_GUIDE.md"
 QA_RULES = AGENT_DIR / "QA_RULES.md"
+CLAIMED_FILE = AGENT_DIR / "claimed.md"
 SECRETS_PATH = AGENT_DIR / "secrets.json"
 
 PLAN_FILE = STAGING_DIR / "PLAN.json"
@@ -135,6 +136,7 @@ def pack_context(task: str):
     canon = read_text(WORLD_STATE)[:20000]
     style = read_text(STYLE_GUIDE)[:16000]
     qa = read_text(QA_RULES)[:12000]
+    claimed = read_text(CLAIMED_FILE)[:12000] if CLAIMED_FILE.exists() else ""
 
     ctx_files = basic_retrieve(task)
     ctx_blobs = []
@@ -144,7 +146,7 @@ def pack_context(task: str):
         ctx_blobs.append(f"\n--- FILE: {rel} ---\n{txt}\n")
 
     bundle = ("\n".join(ctx_blobs))[:180000]
-    return {"canon": canon, "style": style, "qa": qa, "files": ctx_files, "bundle": bundle}
+    return {"canon": canon, "style": style, "qa": qa, "claimed": claimed, "files": ctx_files, "bundle": bundle}
 
 # -----------------------------
 # HTTP retry/backoff
@@ -290,11 +292,15 @@ SEED (optional):
 CONTEXT NOTES (partial):
 {ctx['bundle']}
 
+CLAIMED (files that already exist — do NOT include unless TASK explicitly targets for append):
+{ctx['claimed']}
+
 Return JSON exactly in this schema:
 {schema_hint}
 
 Constraints:
-- Make 8–16 notes total.
+- Plan ONLY the files explicitly specified in TASK.md. Do not invent additional notes.
+- Do NOT include any file listed in CLAIMED unless TASK.md explicitly targets it for append.
 - Each note includes at least 3 outbound links.
 - Batches must be <= {CLAUDE_MAX_BATCH_NOTES} notes.
 """.strip()
