@@ -12,7 +12,7 @@ A child born into this layer will reach their teens understanding several fundam
 
 ## Who Chose It
 
-A smaller, more volatile population consists of people who came to [[Ashford]] specifically because the city does not ask questions. Deserters from military service. People with debts they could not service in their home settlements. People whose faces would mean danger if they could be attached to names. Political refugees from the [[Northern Territory|northern territory]], or from [[The Council of Auralis|Auralis]] itself, or from places so far that the city has never heard of them.
+A smaller, more volatile population consists of people who came to [[Ashford]] specifically because the city does not ask questions. Deserters from military service. People with debts they could not service in their home settlements. People whose faces would mean danger if they could be attached to names. Political refugees from the northern territory, or from [[The Council of Auralis|Auralis]] itself, or from places so far that the city has never heard of them.
 
 For these people, [[Ashford]] is sanctuary with an expiration date. Some of them are working on establishing a new identity, gathering money for passage to somewhere further, accumulating the resources needed to be someone different. Some of them are hiding from something specific enough that [[Ashford]]'s indifference is precisely what they need, and they will stay until the thing they are hiding from arrives or disappears.
 
