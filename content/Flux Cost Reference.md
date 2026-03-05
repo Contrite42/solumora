@@ -6,14 +6,18 @@ All defaulted variables contribute 0W. Every variable specified beyond the defau
 
 ---
 
-## Shape Base Cost
+## Shape Base Cost and Variable Slots
 
-| Shape | Points | Base W |
-|-------|--------|--------|
-| Triangle | 3 | 3 W |
-| Square | 4 | 8 W |
-| Pentagon | 5 | 20 W |
-| Circle | 6 | 55 W |
+Shape determines two things simultaneously: the base Flux cost (multiplied by Discipline), and how many outer variables the caster can specify. Each outer point is one variable slot. One slot is always occupied by Discipline — the remaining slots are available for other outer variables (Pattern, Reach, Persistence, Target Spec, Output Mode). Unoccupied slots default.
+
+| Shape | Outer Slots | Discipline | Remaining Variable Slots | Base W |
+|-------|-------------|------------|--------------------------|--------|
+| Triangle | 3 | 1 | 2 | 3 W |
+| Square | 4 | 1 | 3 | 8 W |
+| Pentagon | 5 | 1 | 4 | 20 W |
+| Circle | 6 | 1 | 5 (all) | 55 W |
+
+A Triangle sigil can only specify two outer variables beyond Discipline — the rest default. A Circle sigil can specify all five remaining outer variables simultaneously. This is why complex multi-variable effects require higher shapes: Triangle geometry cannot hold more than two specified outer variables regardless of the caster's tier.
 
 ---
 
@@ -187,5 +191,29 @@ Sigils inscribed into objects during manufacture distribute their Flux cost acro
 
 **Permanent Soul brand (forced)** — Circle Soul, Plane, Touch, Permanent, Individual
 `4,125 + 0 + 2 + 400 + 8 = 4,535 W` → **T6**
+
+**Full bodily revival (theoretical)** — Circle Soul, Plane, Touch, Permanent, Individual
+`4,125 + 0 + 2 + 400 + 8 = 4,535 W (outer variables only)` → **T6 floor**
+Hook/Mode complexity for "restore a dead person to living" adds substantial cost beyond what the outer variable tables capture — the effect requires reading and restoring full soul-signature continuity, rebuilding the Flux relationship between identity and body, and overriding the death-state of every biological system simultaneously. Practitioners who have theorized this spell estimate the true total at **T7–T8 minimum**, scaling with how long the subject has been dead and how much physical damage is present. No working example exists. The calculation above is the floor, not the ceiling.
+
+---
+
+## The Power Gap: What the Numbers Mean
+
+A worked comparison to make the tier gap concrete.
+
+**Container seal** (everyday T2 work): Triangle Binding, Touch, Latched, Object
+`30 + 0 + 2 + 40 + 2 = 74 W` → T2
+
+**Theoretical revival** (T7–T8 level): Circle Soul + Permanent + estimated Hook/Mode cost
+`4,535 W floor, ~15,000–50,000 W realistic total`
+
+The revival spell costs **200–700× more** than a container seal — and the container seal is already meaningful, skilled work that a T0 practitioner cannot touch. A T2 practitioner's entire daily capacity (~300 W) is not enough to fund a single revival attempt. A T5 practitioner has the daily budget but would need to be T7 or higher to actually hold the precision required.
+
+This is what the tier system describes. The gap between T2 and T7 is not a practitioner who got five levels better at the same thing. It is the difference between someone who can seal a box permanently and someone who can theoretically restore the dead — and the numbers are why.
+
+A T2 Formulist's comfortable working day (300 W) covers about four container seals, or dozens of T1 utility casts, or one or two demanding T2 effects with margin to spare. A T7 practitioner's comfortable day (100,000 W) covers effects that a T2 practitioner could not execute once with their entire life's accumulated casting.
+
+The ledger does not lie about this. Neither does the math.
 
 *See also: [[Spell Variables]], [[Flux Expenditure]], [[Control Tier]], [[Sigils]], [[Discipline]], [[Grimoires]], [[Watts]]*
