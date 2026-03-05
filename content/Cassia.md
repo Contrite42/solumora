@@ -46,4 +46,16 @@ The slow fraying of the peace between the two kingdoms is something she watches 
 
 She hopes, in the quiet way of people who have learned not to hope loudly, that it does not come to war in her lifetime. She does not have a good reason to believe it won't.
 
-*See also: [[Auralis]], [[Eddan Voss]], [[Cael]], [[Drest]], [[The Council of Auralis]], [[Council Members]], [[Maren Sollis]], [[Tovan Ashce]], [[Hadren Cosse]], [[Kingdoms]], [[Flux]], [[Control Tier]], [[Solhaven]]*
+## What She Carries
+
+Cassia has spent nineteen years in a room where consequential decisions are made and has read every document placed before her for signature. The council does not brief her extensively — they present conclusions, not process — but they require her seal, which means they require her presence, which means she has watched them make decisions for nineteen years. She knows who leads and who follows and who follows until they disagree and then leads without saying so. She knows whose positions are principled and whose are negotiated. She knows which faction alignments are genuine and which are tactical alliances that the right pressure could dissolve.
+
+She has not shared this mapping with anyone. There is no one to share it with. What she is doing with it, quietly, is building a model of where the council's unity actually lives and where it is performed. The council believes she is watching the way a monarch watches — for tone, for broad direction, for whether the meeting is going well or badly. She is watching more precisely than that. She has nineteen years of data. She is not passive in her watching.
+
+Her Flux development is a separate project. She cannot access formal training without the council becoming aware of it, and the council has managed her access to formal training for reasons she understood by the time she was fifteen. What she can access is the library — specific texts, requested through the palace's normal acquisition process in ways that individually look like scholarship and collectively represent a curriculum she has assembled herself. She is T4 with a T7 ceiling and years of deliberate suppression. She does not know exactly how much the suppression has cost her. She has been finding out, carefully, without announcing what she is finding.
+
+The practical result of this is limited so far. What she has gained is not capability but accuracy — a better understanding of where she actually is versus where the council believes she is, and what the gap means. She does not think this will be sufficient. She is building it anyway because building nothing is also a choice and she has made that choice for nineteen years and is not interested in making it for another nineteen.
+
+There is one member of the council she watches differently from the rest. Not because she trusts him more, but because his interest in certain categories of research suggests a concern that is personal rather than political, and personal concerns create leverage that political positions don't. She has done nothing with this observation yet. She is waiting until she has something specific enough to be worth using.
+
+*See also: [[Auralis]], [[Eddan Voss]], [[Cael]], [[Drest]], [[The Council of Auralis]], [[Council Members]], [[Maren Sollis]], [[Tovan Ashce]], [[Hadren Cosse]], [[Kingdoms]], [[Flux]], [[Control Tier]], [[Solhaven]], [[Castor Helme]]*

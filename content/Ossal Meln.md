@@ -6,4 +6,4 @@ He charges more for this than the standard rate. His clients include a handful o
 
 He finds the testing the part of the work he is best at and the part that is hardest to explain to people outside the trade. Testing a thing correctly requires having a model of how it will fail. The model is built from things he has seen fail. The accumulated knowledge is the actual skill.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]*
+*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]], [[Ossal Meln's Workshop Notes]]*

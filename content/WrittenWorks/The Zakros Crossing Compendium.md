@@ -1,43 +1,75 @@
-**The Zakros Crossing Compendium** is a survival grimoire authored by [[Avel Coss]], a T4 desert guide with fifteen years of crossing experience. Published as a practical supplement to standard [[Grimoires]], it focuses exclusively on spells that function reliably in the [[Equatorial Desert]]'s extreme conditions. Unlike academic texts, every entry includes field-tested degradation thresholds and resource management priorities.
+*Compiled by [[Avel Coss]], T4. Produced from eleven completed crossings of [[Equatorial Desert|Desert Zakros]] and two that I count differently. This is not a theoretical document. Every note in it is a thing I learned from something that went wrong.*
 
-The compendium emerged from Coss's frustration with expedition deaths caused by sigil failures that standard grimoires did not adequately document. After losing three clients to heat-related spell breakdowns in a single season, he began systematically testing common spells under desert conditions and recording their actual performance limits versus their theoretical specifications.
+*Distribution: [[Auralis]] expedition registry, [[Halveth]] supply office. Not for individual sale. If you are reading a copy that was sold to you separately, the person who sold it to you was cutting corners on expedition preparation in the same way they cut corners on distribution, and you should think carefully about what else they have not told you.*
 
-## Author's Introduction
+---
 
-*I have guided forty-seven crossings through [[Equatorial Desert|Desert Zakros]]. Thirty-one reached their destination. The sixteen that did not failed because their [[Flux]] preparation was built on assumptions that do not survive contact with the desert. This compendium documents what works, what fails, and when to prioritize your reserves when everything is going wrong simultaneously.*
+## On Using This Compendium
 
-*The spells listed here are not the most powerful available. They are the ones that continue functioning when the temperature hits fifty degrees, when the wind has been stripping your sigil surfaces for six hours straight, and when you discover that your theoretical knowledge means nothing because the desert operates by different rules. Use them accordingly.*
+The spells in this selection are not the only spells useful in Zakros. They are the ones I have found consistently reliable across eleven crossings, varied conditions, and varied group compositions. They are organized by function, not by rarity. A T1 spell that keeps you alive is more important than a T3 spell you cannot reliably cast.
 
-## Spell Entries
+Two things I have learned about spell selection in Zakros that the expedition literature does not say clearly enough:
 
-**Warmbreath** — Maintains core body temperature through controlled thermal circulation.
-Standard grimoires claim thirty minutes of sustained warmth. In practice, the effect degrades rapidly above forty-five degrees ambient temperature as the spell struggles to distinguish between internal heat regulation and external thermal load. When reserves are low, prioritize this over comfort heating — hypothermia kills faster than discomfort. The [[Common Grimoire]] duration estimates assume temperate conditions that do not exist in Zakros.
+First: the desert degrades inscription surfaces. The particulate is fine enough to work into sigil lines over hours of exposure. A grimoire left open takes damage. A sigil inscribed on unprotected stone begins degrading by midday. [[Dustlock]] is not optional. Apply it to every working surface before you need it. Reapply when you make camp. An expedition that lets its sigil surfaces degrade is one that will discover the problem at the worst possible moment.
 
-**Breathclean** — Filters particulate matter and chemical contaminants from inhaled air.
-Breaks down completely under heavy particulate load — the kind you encounter in Zakros sandstorms. The spell can handle normal dust. It cannot handle the fine abrasive particles that strip exposed skin and clog breathing passages during storm conditions. Use it in sheltered areas only. Attempting to maintain it during active storms will exhaust your reserves without providing meaningful protection.
+Second: prioritize by failure mode, not by preference. When reserves are low, cast [[Warmcloak]] before anything else. Thermal failure kills faster than almost everything else Zakros can do to a person. [[Breathclean]] is the second priority. After those two are running, make decisions about what else you can sustain.
 
-**Dustsweep** — Removes accumulated particulate from surfaces and equipment.
-Essential for maintaining sigil readability, but the effect weakens progressively in winds above forty kilometers per hour. The spell clears surfaces faster than wind can recontaminate them only in relatively calm conditions. During active weather, you are fighting a losing battle. Save your [[Flux]] and use physical covers instead.
+---
 
-**Heatcheck** — Provides accurate temperature readings of objects and surfaces.
-Reliable within its normal range, but becomes erratic in extreme cold — below negative twenty degrees, the readings drift and cannot be trusted for equipment safety assessments. This matters because desert nights reach temperatures that will crack water containers and damage sigil materials. When checking for cold damage, verify readings with physical inspection.
+## Thermal Management
 
-**Soundlisten** — Amplifies and focuses hearing for threat detection.
-Degrades rapidly in high ambient noise environments. Zakros wind creates constant background interference that overwhelms the spell's discrimination ability. Useful during calm periods for detecting approach of fauna or other crossing parties. Useless during storms when you most need enhanced awareness. Plan accordingly.
+**[[Warmbreath]] (T1)** — Every member of the expedition should carry this. It is the minimum viable thermal response available to a T1 caster. It is not enough on its own for a crossing, but it is a floor. When everything else has failed or been depleted, Warmbreath is what keeps the lowest-tier caster functional for another hour.
 
-**Marksense** — Locates marked objects or individuals within range.
-Becomes unreliable near [[Rift Incursions]] due to [[Flux]] interference from dimensional boundary instability. The spell will return false positives or fail to detect valid marks when rifts are forming in the area. Since rift formation is unpredictable and the spell's failure provides no warning, do not rely on it as your primary navigation method in areas with known incursion history.
+*Zakros note: the coverage is face and chest only. In extreme cold, extremities are still at risk. This spell buys time. It does not solve the problem.*
 
-**Fluxread** — Detects active [[Flux]] signatures and channeling in the immediate area.
-Performance degrades in high ambient Flux environments — exactly the conditions where you most need accurate readings. Near active rifts or in areas with high concentrations of ancient ruin fragments, the background Flux density overwhelms the spell's ability to distinguish between different signatures. Useful for routine camp security. Inadequate for rift response.
+**[[Warmcloak]] (T2)** — The sustained version. Covers the whole body. For the thermal management of any crossing lasting more than a few days, this is the spell I build the schedule around. Cast at dusk before temperatures drop. Maintain through the night. Release at mid-morning when the heat becomes the problem rather than the cold.
 
-**Coldbox Seal** — Maintains low temperatures in containers for preservation.
-Fails above ten degrees ambient temperature, which means it is useless during Zakros days. The spell cannot overcome the thermal load imposed by desert heat and will exhaust itself attempting to maintain the temperature differential. Reserve this for night use only, and accept that your preserved supplies will not remain preserved during daylight hours.
+*Zakros note: the transition from cold to heat in Zakros is faster than any experienced crosser initially expects. Release Warmcloak early rather than late. Carrying excess thermal protection into the heat phase costs time, focus, and Flux that you need for other things.*
 
-**Dryseal** — Removes moisture from surfaces and prevents reaccumulation.
-Highly effective in desert conditions where humidity is naturally low. The spell works with the environment rather than against it, making it one of the few effects that actually performs better in Zakros than in temperate regions. Use it liberally on equipment, clothing, and sleeping areas. It will function reliably throughout the crossing.
+**[[Coldbox Seal]] (T2)** — Not for the caster. For supplies. Food that is not temperature-managed in Zakros either cooks or freezes depending on the hour. A properly sealed supply container lasts. An unsealed one does not.
 
-**Heatshield** — Provides personal thermal buffering against extreme temperatures.
-Sustained persistence makes it expensive to maintain, but the protection degrades above fifty degrees ambient temperature as the spell's buffering capacity is overwhelmed. At that point you are paying full maintenance cost for partial protection. Better to seek physical shelter and conserve reserves than to rely on the spell during peak heat periods.
+---
 
-*See also: [[Avel Coss]], [[Equatorial Desert]], [[Grimoires]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Flux]], [[Halveth]], [[Rift Incursions]]*
+## Air and Surface Protection
+
+**[[Breathclean]] (T2)** — The particulate in Zakros wind is not only damaging to sigil surfaces. Prolonged inhalation produces respiratory damage that compounds over a crossing of any length. Breathclean filters the immediate air around the caster. Duration is short by Zakros standards; it needs to be recast regularly. I treat it as a rhythm task — every two hours while traveling, more frequently in high-wind conditions.
+
+*Zakros note: in particularly high wind events, this spell may need to be cast continuously by a dedicated caster rather than rotated. Plan group composition accordingly.*
+
+**[[Dustlock]] (T2)** — Grimoire protection. Sigil surface protection. Equipment protection. I have watched experienced practitioners lose working grimoires to Zakros particulate because they treated Dustlock as optional. The inscription surfaces of a working document take two to three days to degrade noticeably under active wind exposure. By the time degradation is visible, the damage is already significant. Apply Dustlock before you open a grimoire. Apply it to any surface you intend to inscribe on. This is not a suggestion.
+
+**[[Waterward]] (T2)** — The temperature cycling in Zakros produces condensation patterns that no expedition fully anticipates. Apply Waterward to any item of equipment that would be damaged by moisture penetration. Grimoires, food containers, navigational equipment. This is a permanent seal — apply it before departure and do not think about it again.
+
+---
+
+## Detection and Awareness
+
+**[[Breathsense]] (T2)** — The most common use I have found for this in Zakros is not detecting fauna but detecting other members of the expedition in low-visibility conditions. Sand events and darkness both make visual tracking unreliable. Breathsense finds living beings by respiratory chemical signature. Range is short, which is appropriate — in Zakros, short-range cohesion is more important than long-range awareness.
+
+**[[Faunaread]] (T2)** — Zakros fauna are not aggressive toward confident, moving groups. They are patient toward exhausted, uncertain, stationary ones. Faunaread gives you information about what is in the sphere around you so you are not surprised. The spell distinguishes creature presence from terrain Flux, which matters in the desert because the ambient Flux density is high and a raw Flux reading produces noise. I use this at every camp setup and before any stop of more than a few minutes.
+
+*Zakros note: Faunaread range is medium, which in open terrain is adequate. In ruins sites or near rift-adjacent areas, the ambient Flux is dense enough that the spell's discrimination capability degrades. Do not rely on it near ruins.*
+
+**[[Echolocate]] (T2)** — Navigational tool. Zakros terrain is disorienting in ways that maps cannot fully capture because the landmarks change — dune fields shift, salt flat patterns are seasonally variable. Echolocate returns a spatial map of immediate terrain that is more reliable than visual observation in low-light conditions and significantly more reliable in any sand event. I use it at night and whenever visibility drops below twenty meters.
+
+**[[Fluxread]] (T2)** — I carry this primarily to track sigil degradation. Fluxread tells me what Flux is active in the immediate area. If I cast Warmcloak and Fluxread subsequently shows it running at reduced output, I know the inscription has degraded. I also use it to confirm that embedded objects in our supply kit are holding. It is a diagnostic tool more than a detection tool, and it earns its place in the kit on that basis.
+
+**[[Riftsense]] (T3)** — The only T3 spell in this selection. I include it because the consequences of not having it near ruins or rift-adjacent terrain are significant enough that the Flux cost of carrying a T3 caster who can reliably cast it is consistently worth it.
+
+*Zakros note: Riftsense reads probability of rift formation, not certainty. A clean reading does not mean a rift will not form. In ruins-adjacent areas I cast it every hour regardless of previous readings. The spell's range in high-ambient-Flux zones — ruins sites in particular — is reduced. Cast it before you enter a ruins area, not from inside one.*
+
+---
+
+## Preservation
+
+**[[Preserveseal]] (T3)** — Food that fails on a crossing is a supply problem that becomes a personnel problem faster than it should. Preserveseal requires a T3 caster but the cost is worth carrying over a crossing of any significant length. I apply it to primary food supplies before departure and to anything recovered in the field that might serve as supplemental supply.
+
+*Zakros note: chemical-discipline spells interact unpredictably with some of the organic compounds found in Zakros soil and in some of the fauna. Preserveseal applied to anything gathered in the field should be treated as provisional until you have time to inspect the result. I have had two batches that sealed cleanly on the surface and were already compromised below. In field conditions, smell before you eat.*
+
+---
+
+## Final Note
+
+Eleven crossings. Forty-seven people brought across. Forty-seven returned. I do not treat this record carelessly, which is why this compendium exists and why I am specific about its limitations. Every spell in it is here because it has worked, consistently, in conditions where failing would have mattered. None of them are guarantees. The desert does not issue guarantees.
+
+*See also: [[Avel Coss]], [[Equatorial Desert]], [[Halveth]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Grimoires]], [[Equatorial Fauna]], [[Rift Incursions]], [[Flux]], [[Watts]]*

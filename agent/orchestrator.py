@@ -45,12 +45,20 @@ LAST_ERROR_JSON = REPORTS_DIR / "last_error.json"
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434")
 
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-20250514")
+CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-opus-4-6")   # Upgraded: used rarely now, so afford quality
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1:8b")
 
-CLAUDE_MAX_BATCH_NOTES = int(os.getenv("CLAUDE_MAX_BATCH_NOTES", "2"))
+CLAUDE_MAX_BATCH_NOTES = int(os.getenv("CLAUDE_MAX_BATCH_NOTES", "1"))   # Claude handles 1 note at a time (complex only)
+OPENAI_MAX_BATCH_NOTES = int(os.getenv("OPENAI_MAX_BATCH_NOTES", "3"))   # OpenAI handles ground-level in groups of 3
 CLAUDE_SLEEP_SECONDS = float(os.getenv("CLAUDE_SLEEP_SECONDS", "8"))
+OPENAI_SLEEP_SECONDS = float(os.getenv("OPENAI_SLEEP_SECONDS", "2"))     # OpenAI rate limit is more generous
 MAX_CONTEXT_FILES = int(os.getenv("MAX_CONTEXT_FILES", "12"))
+
+# Cost routing: OpenAI handles "ground-level" complexity; Claude handles "principal" and "lore"
+# Set FORCE_CLAUDE=1 to bypass routing and use Claude for everything (debugging)
+FORCE_CLAUDE = os.getenv("FORCE_CLAUDE", "0").strip() == "1"
+OPENAI_MAX_TOKENS = int(os.getenv("OPENAI_MAX_TOKENS", "4000"))
+OPENAI_MAX_BUNDLE_CHARS = int(os.getenv("OPENAI_MAX_BUNDLE_CHARS", "70000"))  # OpenAI context budget
 
 # -----------------------------
 # Helpers
@@ -168,7 +176,7 @@ def http_post_with_retry(url, headers, payload, timeout, label, max_attempts=6):
 # -----------------------------
 # Model Calls
 # -----------------------------
-def call_openai(system: str, user: str) -> str:
+def call_openai(system: str, user: str, max_tokens: int = 2000, temperature: float = 0.2) -> str:
     key = (os.getenv("OPENAI_API_KEY") or "").strip()
     if not key:
         raise RuntimeError("OPENAI_API_KEY missing.")
@@ -176,8 +184,9 @@ def call_openai(system: str, user: str) -> str:
     headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json"}
     payload = {
         "model": OPENAI_MODEL,
+        "max_tokens": max_tokens,
         "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
-        "temperature": 0.2,
+        "temperature": temperature,
     }
     log_convo("GPT_INPUT", user)
     r = http_post_with_retry(url, headers, payload, timeout=180, label="openai")
@@ -255,29 +264,91 @@ def apply_patch(patch: dict):
     return sorted(set(changed))
 
 # -----------------------------
-# Plan step (Claude JSON only, small)
+# Shared plan schema
 # -----------------------------
-def step_plan_claude(task: str, ctx: dict, seed: str) -> dict:
-    schema_hint = f"""{{
+PLAN_SCHEMA_HINT = """{
   "notes": [
-    {{
+    {
       "path": "content/Folder/Note.md",
       "action": "create|append",
       "purpose": "1 sentence",
-      "links": ["[[A]]","[[B]]","[[C]]"]
-    }}
+      "links": ["[[A]]","[[B]]","[[C]]"],
+      "complexity": "ground-level"
+    }
   ],
-  "batches": [ [0,1], [2,3] ]
-}}"""
+  "batches": [ [0,1,2], [3] ]
+}
 
-    system = """
-You are the Solumora Builder.
+complexity values (determines which model writes the note — choose carefully):
+  "ground-level" -> ordinary person, daily life, trade, location texture, minor NPC  -> OpenAI writes (cheap)
+  "lore"         -> magic rules, history, institutions, geography mechanics           -> Claude writes (quality)
+  "principal"    -> named characters in KEY_NARRATIVE_THREADS, High Demons            -> Claude writes (quality)
+"""
+
+# -----------------------------
+# Plan step — OpenAI (DEFAULT, cheap)
+# -----------------------------
+def step_plan_openai(task: str, ctx: dict, seed: str) -> dict:
+    system = """You are the Solumora world builder planner.
+Plan which files to create or update. Return ONLY valid JSON matching the schema. No markdown. No commentary."""
+
+    user = f"""TASK:
+{task}
+
+WORLD_STATE (canon — do not contradict):
+{ctx['canon']}
+
+STYLE_GUIDE:
+{ctx['style'][:6000]}
+
+SEED:
+{seed}
+
+CONTEXT NOTES (partial):
+{ctx['bundle'][:OPENAI_MAX_BUNDLE_CHARS]}
+
+Return JSON exactly matching this schema:
+{PLAN_SCHEMA_HINT}
+
+Constraints:
+- 6–14 notes total.
+- Each note has at least 3 outbound links.
+- Ground-level batches: up to {OPENAI_MAX_BATCH_NOTES} notes each.
+- Principal/lore batches: 1 note each.
+- Assign complexity carefully — most notes are ground-level."""
+
+    raw = call_openai(system, user, max_tokens=2200, temperature=0.15)
+    raw = strip_code_fences(raw)
+
+    try:
+        plan = json.loads(raw)
+    except Exception:
+        # Repair with OpenAI first (cheap)
+        repair_system = "You repair malformed JSON. Return ONLY valid JSON. No markdown."
+        repair_user = f"Repair into VALID JSON matching this schema:\n{PLAN_SCHEMA_HINT}\n\nMALFORMED:\n{raw}"
+        try:
+            fixed = call_openai(repair_system, repair_user, max_tokens=2200, temperature=0.0)
+            fixed = strip_code_fences(fixed)
+            plan = json.loads(fixed)
+        except Exception:
+            # Last resort: Claude repairs
+            print("OpenAI plan parse failed — falling back to Claude for repair.")
+            fixed = call_claude(repair_system, repair_user, max_tokens=2200, temperature=0.0)
+            fixed = strip_code_fences(fixed)
+            plan = json.loads(fixed)
+
+    write_text(PLAN_FILE, json.dumps(plan, indent=2))
+    return plan
+
+# -----------------------------
+# Plan step — Claude (fallback / manual override)
+# -----------------------------
+def step_plan_claude(task: str, ctx: dict, seed: str) -> dict:
+    system = """You are the Solumora Builder.
 You are PLANNING files only. Do not write note bodies yet.
-Return ONLY JSON matching the schema. No markdown.
-""".strip()
+Return ONLY JSON matching the schema. No markdown."""
 
-    user = f"""
-TASK:
+    user = f"""TASK:
 {task}
 
 WORLD_STATE:
@@ -296,32 +367,23 @@ CLAIMED (files that already exist — do NOT include unless TASK explicitly targ
 {ctx['claimed']}
 
 Return JSON exactly in this schema:
-{schema_hint}
+{PLAN_SCHEMA_HINT}
 
 Constraints:
 - Plan ONLY the files explicitly specified in TASK.md. Do not invent additional notes.
 - Do NOT include any file listed in CLAIMED unless TASK.md explicitly targets it for append.
 - Each note includes at least 3 outbound links.
-- Batches must be <= {CLAUDE_MAX_BATCH_NOTES} notes.
-""".strip()
+- Batches must be <= {CLAUDE_MAX_BATCH_NOTES} notes for principal/lore.
+- Ground-level batches can have up to {OPENAI_MAX_BATCH_NOTES} notes."""
 
-    raw = call_claude(system, user, max_tokens=2200, temperature=0.2)
+    raw = call_claude(system, user, max_tokens=2400, temperature=0.2)
     raw = strip_code_fences(raw)
 
-    # attempt parse; if malformed, ask Claude to repair
     try:
         plan = json.loads(raw)
     except Exception:
         repair_system = "You repair malformed JSON. Return ONLY valid JSON. No markdown."
-        repair_user = f"""
-Repair into VALID JSON matching this schema exactly.
-
-SCHEMA:
-{schema_hint}
-
-MALFORMED:
-{raw}
-""".strip()
+        repair_user = f"Repair into VALID JSON matching this schema:\n{PLAN_SCHEMA_HINT}\n\nMALFORMED:\n{raw}"
         fixed = call_claude(repair_system, repair_user, max_tokens=2200, temperature=0.0)
         fixed = strip_code_fences(fixed)
         plan = json.loads(fixed)
@@ -392,7 +454,66 @@ def parse_file_blocks(raw: str) -> dict:
     return patch
 
 # -----------------------------
-# Batch write step (Claude file blocks)
+# Batch write step — OpenAI (ground-level notes, cheap)
+# -----------------------------
+def step_build_batch_openai(task: str, ctx: dict, seed: str, plan: dict, batch_idxs: list) -> dict:
+    notes = plan["notes"]
+    batch = [notes[i] for i in batch_idxs]
+
+    system = """You are the Solumora world builder.
+Write Obsidian Markdown. Everyone is mid-journey. Dense grounded detail. No fluff. No purple prose.
+Short, terse Solumora names only (Germanic/Nordic feel — e.g. Keld, Vorn, Seld, Orre, Brenne).
+
+OUTPUT FORMAT (MANDATORY — follow exactly):
+===WRITE: content/path.md===
+<full markdown file content>
+===END===
+
+===APPEND: content/path.md===
+<markdown to append>
+===END===
+
+Rules:
+- No JSON. No code fences. No commentary outside blocks.
+- Every new note must include at least 3 outbound [[wikilinks]].
+- Match the voice of existing Solumora pages exactly."""
+
+    # Trim bundle for OpenAI context budget
+    bundle_trimmed = ctx["bundle"][:OPENAI_MAX_BUNDLE_CHARS]
+
+    user = f"""TASK:
+{task}
+
+WORLD_STATE (canon — never contradict):
+{ctx['canon']}
+
+STYLE_GUIDE:
+{ctx['style'][:5000]}
+
+SEED:
+{seed}
+
+CONTEXT (partial):
+{bundle_trimmed}
+
+BATCH TO WRITE:
+{json.dumps(batch, indent=2)}
+
+Mapping: action=create → WRITE block. action=append → APPEND block."""
+
+    raw = call_openai(system, user, max_tokens=OPENAI_MAX_TOKENS, temperature=0.4)
+
+    write_text(STAGING_DIR / f"openai_batch_{now_tag()}.txt", raw)
+
+    try:
+        return parse_file_blocks(raw)
+    except RuntimeError:
+        # OpenAI didn't use block format — fall back to Claude
+        print(f"  OpenAI batch parse failed — falling back to Claude for this batch.")
+        return step_build_batch_claude(task, ctx, seed, plan, batch_idxs)
+
+# -----------------------------
+# Batch write step — Claude (principal/lore notes, quality)
 # -----------------------------
 def step_build_batch_claude(task: str, ctx: dict, seed: str, plan: dict, batch_idxs: list) -> dict:
     notes = plan["notes"]
@@ -562,16 +683,22 @@ KNOWN TITLES (exact):
 # Pipeline
 # -----------------------------
 def step_seed_ollama(task: str) -> str:
-    prompt = f"""
-You generate compact seed material. Hard limit: 120 lines total.
-Return:
-- 10 place names
-- 10 faction names
-- 20 person names + 1-line hook
-- 10 rumor hooks
+    prompt = f"""You generate compact Solumora world seed material. Hard limit: 120 lines total.
 
-World: Solumora. Equator is lethal desert; two belts.
-Task:
+NAME RULES (critical): Names must be SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel.
+FORBIDDEN: compound poetic names, high-fantasy names, Irish/Celtic names.
+Good examples: Keld, Vorn, Seld, Orre, Brenne, Teva, Reth, Soven, Drev, Prenn, Lorn
+
+KNOWN existing characters (do NOT reuse these names):
+Eddan, Sera, Ysel, Cael, Mira, Drest, Cassia, Aldric, Rett, Selvane, Mave, Fennick, Wren, Sorath, Toven, Renne, Osvin, Keld, Sella, Seld, Nara, Cavel, Doss, Orre, Bren, Selt, Sable, Avel, Ossen, Celn, Reth, Ossal, Brenne, Rell, Ostal, Davan, Castor, Yara, Brennan, Orla, Maren, Vend, Essa, Vessa, Miren, Lenne, Neven, Ressa, Osten
+
+Return:
+- 5 new place names (not in existing list)
+- 20 new person names + 1-line character hook each
+- 10 rumor/situation hooks relevant to the task
+
+World: Solumora. North kingdom Terravelle, south kingdom Auralis, lethal equatorial desert between.
+Task context:
 {task}
 """.strip()
     seed = call_ollama(prompt)
@@ -592,7 +719,7 @@ def run_pipeline():
 
     ctx = pack_context(task)
 
-    # Ollama seed (small)
+    # Ollama seed (local, free)
     seed = ""
     try:
         seed = step_seed_ollama(task)
@@ -602,8 +729,17 @@ def run_pipeline():
         write_text(SEED_FILE, seed)
         write_text(REPORTS_DIR / f"ollama_fail_{now_tag()}.txt", str(e))
 
-    # Claude plan
-    plan = step_plan_claude(task, ctx, seed)
+    # Plan step — OpenAI by default (cheap); FORCE_CLAUDE=1 to override
+    if FORCE_CLAUDE:
+        print("FORCE_CLAUDE=1 — using Claude for planning.")
+        plan = step_plan_claude(task, ctx, seed)
+    else:
+        try:
+            plan = step_plan_openai(task, ctx, seed)
+            print("Plan generated by OpenAI.")
+        except Exception as e:
+            print(f"OpenAI planning failed ({e}) — falling back to Claude.")
+            plan = step_plan_claude(task, ctx, seed)
 
     all_changed = []
     all_patches = []
@@ -611,7 +747,24 @@ def run_pipeline():
     review_mode = getattr(run_pipeline, "_review_mode", False)
 
     for batch_num, batch in enumerate(plan.get("batches", []), 1):
-        patch = step_build_batch_claude(task, ctx, seed, plan, batch)
+        notes = plan["notes"]
+        batch_notes = [notes[i] for i in batch]
+
+        # Route by complexity: principal/lore → Claude (quality); ground-level → OpenAI (cost)
+        has_complex = any(
+            n.get("complexity", "ground-level") in ("principal", "lore")
+            for n in batch_notes
+        )
+
+        if FORCE_CLAUDE or has_complex:
+            model_label = "Claude (principal/lore)" if has_complex else "Claude (forced)"
+            print(f"  Batch {batch_num}: {model_label} — {[n['path'] for n in batch_notes]}")
+            patch = step_build_batch_claude(task, ctx, seed, plan, batch)
+            time.sleep(CLAUDE_SLEEP_SECONDS)
+        else:
+            print(f"  Batch {batch_num}: OpenAI (ground-level) — {[n['path'] for n in batch_notes]}")
+            patch = step_build_batch_openai(task, ctx, seed, plan, batch)
+            time.sleep(OPENAI_SLEEP_SECONDS)
 
         if review_mode:
             # Write pending review file for Claude Code to inspect
@@ -653,7 +806,7 @@ def run_pipeline():
         changed = apply_patch(patch)
         all_changed.extend(changed)
         all_patches.append(patch)
-        time.sleep(CLAUDE_SLEEP_SECONDS)
+        # Sleep already applied above inside the routing block
 
     all_changed = sorted(set(all_changed))
     write_text(PATCH_FILE, json.dumps({"patches": all_patches}, indent=2))

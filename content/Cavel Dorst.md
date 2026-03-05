@@ -8,4 +8,14 @@ The management work is less interesting to him than the routing problems. When a
 
 His T3 casting is used for documentation verification and occasional cargo authentication — standard commercial applications. He has not pushed beyond this range in eight years. He is not sure what happens if he does, and he is not particularly curious.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]*
+## Current Conditions
+
+The commercial picture of the border has been changing in ways no formal policy update explains. Cavel has been tracking it in the audit trails: categories of cargo that moved through the Auralis crossing on standard documentation six months ago now receive extended holds. Inspection frequency on shipments destined for the eastern coastal territory has increased without any announced regulatory change. The documentation requirements themselves have not shifted — the requirements are what they have always been — but the interpretive latitude applied to them has narrowed in ways that feel deliberate rather than procedural.
+
+He has been at this office long enough to distinguish between administrative friction and political friction. Administrative friction produces consistent delays across cargo categories. Political friction is selective. What he is currently seeing is selective. He has not yet mapped it to a clear cause, which is the part that bothers him more than the delays themselves.
+
+His clients have begun asking questions about predictability they did not ask two years ago. The question they are actually asking — can I rely on this route — is one he has always been able to answer confidently. He is less confident now, and managing that confidence gap has become part of the job in a way it was not before. He has been building wider time windows into contracts and absorbing the operational cost of the buffer rather than explaining a situation he cannot explain precisely.
+
+The Valdenmoor headquarters receives his reports. What they receive is what he can document: hold frequency, inspection duration by category, route variance. What they do not receive is the part he cannot characterize cleanly — nine years at this office have built a model of what normal pressure looks like, and what is happening now falls outside that model in a direction he has not seen before. The quarterly review format does not accommodate that kind of observation. He has not found a format that does.
+
+*See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]], [[Davan Rhyce]], [[Orre Cavlt]]*
