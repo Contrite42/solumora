@@ -15,3 +15,15 @@ The arrangement serves both purposes effectively. Mourne's academic work provide
 The operation reflects Drest's approach to long-term planning: patient, strategic, built into existing institutional structures in ways that are difficult to detect and harder to contest. He believes this preparation is necessary. The council's territorial ambitions will eventually require military capability that extends beyond the current kingdom boundaries. When that time comes, having detailed intelligence about terrain access and strategic positioning will be essential. The academic research is valuable. The strategic preparation is the actual purpose.
 
 *See also: [[Aldric Mourne]], [[Emberfall]], [[The Culmination Faction]], [[The Advancement Corps]], [[Cassia]], [[Ancient Ruins]], [[Equatorial Desert]]*
+
+## Current Operation
+
+Drest's current expedition work operates under the official framing of research priority coordination with the [[The Advancement Corps|Advancement Corps]]. Site selections follow documented archaeological importance, funding flows through established channels, and expedition reports are filed according to standard procedures. Nothing appears unusual to casual review.
+
+The reality is more complex. Sites are chosen for terrain access and proximity to positions relevant to a longer-term campaign. Several [[Emberfall]]-vicinity sites have line-of-sight to northern desert passes relevant to any Terravelle-facing force. The archaeological work is genuine — [[Aldric Mourne]] conducts legitimate scholarly research and produces findings of real academic value. What Mourne does not know is that his site selections have been shaped by criteria beyond the academic, and that specific findings — particularly anything related to ancient infrastructure or construction techniques — are routed to Drest's office rather than Corps archives.
+
+Veld Dorv, Advancement Corps field documentation specialist working the Emberfall circuit, has noticed documentation gaps in the official records. Reports that should exist according to expedition schedules are missing. Reports that do exist sometimes reference findings not included in the archived materials. Dorv has not understood what these gaps mean yet, but has begun keeping private notes on the discrepancies.
+
+[[Cassia]] suspects Drest has operations beyond what she can confirm through Council oversight. She has no evidence of this specific arrangement. Drest's patience extends to operational security — he believes this work is necessary for [[Auralis]]'s long-term survival, and he has structured it to remain invisible until it produces results worth the political cost of revelation.
+
+*See also: [[Aldric Mourne]], [[Emberfall]], [[The Culmination Faction]], [[The Advancement Corps]], [[Cassia]], [[Ancient Ruins]], [[Equatorial Desert]]*

@@ -1,20 +1,11 @@
 {
+  "claudeCode.terminal.autoApprove": true,
+  "claudeCode.terminal.requireConfirmation": false,
   "permissions": {
     "allow": [
-      "Bash(gh run list --limit 3)",
-      "Bash(npm install)",
-      "Bash(npm install sass@1.97.3 sass-embedded@1.97.3)",
-      "Bash(ls -t content/*.md)",
-      "Bash(curl -s http://localhost:11434/api/tags)",
-      "Bash(python ollama_mcp.py)",
-      "Bash(python \"C:/Users/Contrite42/.claude/ollama_mcp.py\")",
-      "Skill(claude-developer-platform)",
-      "Skill(claude-developer-platform:*)",
-      "Bash(gh run list --repo Contrite42/solumora --limit 5)",
+      "Bash(*)",
       "WebFetch(domain:github.com)",
-      "Bash(python3 -:*)",
-      "claudeCode.terminal.autoApprove": true,
-      "claudeCode.terminal.requireConfirmation": false,
+      "WebFetch(domain:raw.githubusercontent.com)"
     ]
   }
 }
