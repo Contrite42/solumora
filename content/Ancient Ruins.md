@@ -16,7 +16,7 @@ What the expedition researchers have not yet recognized is that the most signifi
 
 No migration evidence. No record of where the population went. No graves. The absence of bodies is considered by most researchers to be the most significant single fact about the ruins — a civilization this large and this established should have left human remains somewhere in the desert, and it has not.
 
-The leading theories are: rapid departure by unknown means, a catastrophic event that consumed the physical remains, or something that does not fit neatly into either category. The third option is the one that the Culmination Faction within [[The Council of Auralis]] finds most interesting.
+The leading theories are: rapid departure by unknown means, a catastrophic event that consumed the physical remains, or something that does not fit neatly into either category. The third option is the one that the [[The Culmination Faction|Culmination Faction]] within [[The Council of Auralis]] finds most interesting.
 
 ## The Three Anomalous Sites
 
@@ -34,5 +34,5 @@ The attrition rate for Auralis expeditions is high. Approximately one in three d
 
 [[Drest]] funds expeditions beyond the official council budget. The Reach Academy in [[Emberfall]] trains expedition members. The work continues.
 
-*See also: [[Equatorial Desert]], [[The Council of Auralis]], [[The Advancement Corps]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Tessel Dran]]*
+*See also: [[Equatorial Desert]], [[The Council of Auralis]], [[The Culmination Faction]], [[The Advancement Corps]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Tessel Dran]]*
 

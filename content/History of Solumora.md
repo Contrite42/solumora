@@ -30,7 +30,7 @@ Regular contact between the kingdoms became possible when [[Auralis]] developed 
 
 The general shape of the Contact Period is: initial cautious exchange, growing economic interdependence, philosophical friction as each kingdom's culture encountered the other's assumptions, and a slow accumulation of strategic competition as both kingdoms recognized that they wanted incompatible things from a world that only had one of everything.
 
-There have been three near-wars in this period. None became actual wars. The desert remains the most effective peace-keeping mechanism in Solumoran history — the logistics of projecting military force across it are sufficiently difficult that neither kingdom has yet concluded the benefits outweigh the costs.
+There have been [[The Three Near-Wars|three near-wars]] in this period. None became actual wars. The desert remains the most effective peace-keeping mechanism in Solumoran history — the logistics of projecting military force across it are sufficiently difficult that neither kingdom has yet concluded the benefits outweigh the costs.
 
 ## The Present Situation
 
@@ -40,4 +40,4 @@ The desert crossing is better understood than it has ever been. [[Auralis]]'s mi
 
 What happens next is not yet written.
 
-*See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Wolfpoint]], [[High Demons]]*
+*See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Wolfpoint]], [[High Demons]], [[The Three Near-Wars]], [[Expansion Faction]], [[The Council of Auralis]]*
