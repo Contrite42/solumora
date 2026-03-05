@@ -10,4 +10,4 @@ Sigil creation is a meticulous process blending art, knowledge, and precision. A
 
 Once completed, a sigil serves as a stable conduit: when activated, it channels the exact [[Flux]] needed to manifest the intended spell.
 
-*See also: [[Spell Variables]], [[Shape]], [[Grimoires]], [[Flux Users]], [[Control Tier]], [[Hypertext]]*
+*See also: [[Spell Variables]], [[Shape]], [[Grimoires]], [[Flux Users]], [[Control Tier]], [[Hypertext]], [[Mella Seln]], [[Ossal Meln]]*

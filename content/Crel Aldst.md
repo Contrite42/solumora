@@ -1,0 +1,9 @@
+**Crel Aldst** is thirty-two years old and works in maritime route documentation for a shipping company in [[Auralis]]'s northern port region. [[Control Tier|T1]]. Four years ago, his company sent him to [[Wolfpoint]] as part of a small team assessing whether the northern overland routes could support an expansion of their cargo network. He was in Wolfpoint for four months.
+
+He did not study [[Hypertext]]. He did not spend time in the archive. He performed the route assessment work he was sent to do, which was completed in six weeks, and then spent another ten weeks waiting for the return party to be ready to travel. During those ten weeks he was in a small settlement of people doing something he found completely opaque, with knowledge he could not access and questions he could not form, and he had the opportunity to observe what a community organized around a genuinely difficult problem looks like from outside.
+
+What he brought back: not knowledge of Hypertext or the archive, but a revised understanding of what expertise looks like when it is working at its actual edge. In Auralis's commercial environment, the people he works with routinely present themselves as working at their limits when they are not. The practitioners in Wolfpoint were genuinely uncertain, genuinely wrong in public, and genuinely incurious about how they appeared. He had not previously encountered this combination as a professional norm.
+
+This understanding has no direct application to his route documentation work. He is not sure it has changed anything practical about how he operates. It has changed how he reads competence when he sees it, and what he notices when competence is being performed rather than exercised.
+
+*See also: [[Auralis]], [[Wolfpoint]], [[Hypertext]], [[Control Tier]], [[Ordinary Life in Auralis]]*

@@ -1,0 +1,9 @@
+**Vorn Teld** is thirty-eight years old and has lived in [[Halveth]] for eleven years. [[Control Tier|T2]]. He came as an expedition member at twenty-seven and stayed after the expedition returned — one of the people the village absorbs, who came planning to leave and found the reasons for leaving less compelling than expected.
+
+Six years ago, he was part of a supply run that encountered [[Rift Incursions|rift activity]] in the desert corridor east of the settlement. The run had three members; all three returned. The encounter lasted approximately forty minutes. He does not describe what the Flux Demons were like in terms that most people find informative, because the accurate description requires a vocabulary he has not found in any language he can speak. What he says instead is that the threat profile is real, the local knowledge matters, and that his Flux application during the encounter was T2 in the same way that a medical procedure is T2 — technically within the range, performed under conditions that technical descriptions don't cover.
+
+He now does pre-expedition consultation for teams heading east. This is not an official role. It is what happens when a person has relevant experience in a place where relevant experience is scarce and other people need to make decisions. He charges in provisions rather than [[Watts]], which is how transactions work in Halveth when someone is providing knowledge rather than goods.
+
+What he tells expedition members: the risk is real, local information is your first protection, and your Flux capacity is your last line, not your first. He has never had a team return to tell him this advice was wrong. He has had two teams that did not return.
+
+*See also: [[Halveth]], [[Life in Halveth]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Flux Users]]*
