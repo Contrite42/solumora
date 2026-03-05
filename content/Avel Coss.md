@@ -8,4 +8,4 @@ He does not consider himself part of [[Auralis]]'s expedition network, though th
 
 He has written about what he knows of the desert — not for any particular reader, as a way of thinking through what eleven crossings have taught him and what they have not. The desert in the crossing season is specific enough that writing is the only way he has found to hold all of it clearly at once.
 
-*See also: [[Equatorial Desert]], [[Auralis]], [[Adventurers]], [[Ancient Ruins]], [[Avel Coss's Crossing Notes]]*
+*See also: [[Equatorial Desert]], [[Auralis]], [[Adventurers]], [[Ancient Ruins]], [[The Zakros Crossing Compendium]], [[Halveth]]*

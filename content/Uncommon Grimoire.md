@@ -1000,3 +1000,37 @@ Projects a condensed electrical beam that punches through resistive material, by
 | Reach | Medium |
 | Persistence | *(default — Immediate)* |
 | Target | Individual |
+
+---
+
+**Distressflag**
+Maintains a sustained monitor on a marked individual's thermal state from any distance through the linked pair — returns a Flux signal to the caster if the target's core temperature deviates beyond a set threshold, used as an expedition safety tether.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Point |
+| Reach | Linked |
+| Persistence | Sustained |
+| Target | Marked |
+
+---
+
+**Riftsense**
+Sweeps a sphere for dimensional instability — detects the Flux pressure differentials that precede rift formation and returns a probability reading. Not a guarantee of safety; an area that reads clean can still produce a rift within hours. An area that reads active should be vacated immediately.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Medium |
+| Persistence | *(default — Immediate)* |
+| Target | Filter |

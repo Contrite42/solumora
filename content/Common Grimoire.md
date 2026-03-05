@@ -1172,3 +1172,71 @@ Temporarily reduces the effective weight of a touched object by dampening its in
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
+
+---
+
+**Dustlock**
+Maintains a sustained reactive barrier across a surface that repels fine particulate — keeps sigil inscriptions, book pages, and precision work clear of grit and debris while active.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Plane |
+| Reach | Touch |
+| Persistence | Sustained |
+| Target | Surface |
+
+---
+
+**Warmcloak**
+Wraps the caster in a sustained sphere of regulated warmth, buffering against cold exposure for as long as it is maintained — more robust than [[Warmbreath]] and covers the whole body rather than the face alone.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Sphere |
+| Reach | Self |
+| Persistence | Sustained |
+| Target | Self |
+
+---
+
+**Faunaread**
+Sweeps a sphere for the ambient Flux signatures of living creatures, returning direction and rough size — distinguishes creature presence from object or terrain Flux, useful for fauna detection in low-visibility conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Medium |
+| Persistence | *(default — Immediate)* |
+| Target | Filter |
+
+---
+
+**Waterward**
+Applies a permanent reactive seal to a surface that repels water penetration — protects grimoires, supplies, and equipment from moisture indefinitely once applied.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Plane |
+| Reach | Touch |
+| Persistence | Permanent |
+| Target | Surface |
