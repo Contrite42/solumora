@@ -19,21 +19,3 @@ The client had been told by someone that "more complex sigils work better." This
 
 Referred to [[Sella Veld]] for basic thermal work. Her T1 capacity is sufficient for the actual requirement.
 
----
-
-**Load-bearing structural reinforcement — Merchant quarter warehouse**
-
-Square sigil (8W) × Binding (×10) = 80W core. Permanent persistence +400W. Total: 480W. Exceeds single-session T3 capacity. Requires staged inscription over two sessions minimum. Client complained about timeline. Explained that the permanence modifier alone (400W) pushes this past what a T3 practitioner can sustain in a single session. Client accepted 9-day completion timeline.
-
-The staged approach: first session establishes the base binding structure at 80W, holds for 72 hours while the material settles. Second session applies the permanence modifier. This prevents channel strain and ensures the binding integrates properly with the warehouse foundation. Client wanted it done in one day. Geometry does not care what the client wants.
-
----
-
-**Circle geometry on a Square job — Fish storage thermal regulation**
-
-Client wanted Circle sigil for fish storage thermal regulation. Correction applied:
-- Square (8W) × Binding (×10) = 80W. Adequate for thermal seal on any standard storage space. T2 work.
-- Circle (55W) × Binding (×10) = 550W. For fish storage. The geometry adds five additional variable slots this application does not need.
-- Cost difference: 80W vs 550W for the core alone. Client argued Circle would be "more thorough." Explained that thorough and expensive are not the same thing. Referred client elsewhere. Declined project.
-
-Circle sigils exist for applications that require six-variable control. Fish storage requires one: maintain temperature within range. Using Circle geometry for single-variable work is like hiring a master carpenter to hammer a nail. The nail gets hammered. The carpenter gets insulted.

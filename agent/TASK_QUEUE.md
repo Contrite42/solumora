@@ -80,11 +80,11 @@ Blocked tasks are marked with their dependency.
 
 ## IN PIPELINE — current TASK.md queued
 
-- [ ] **TASK-03** — Wolfpoint in motion: append Sera Voss ("The First Test") + append Mira Solv ("The Notification Problem"). Both A+D simultaneously.
-- [ ] **TASK-04** — Drest current operation: append to Drest page (Option C — academic cover via Culmination ruins research)
-- [ ] **TASK-05** — Mave Daily Existence rewrite (sibling dynamic; Selvane has genuine warmth for Mave — their only "sweet spot") + minor Selvane update
-- [ ] **TASK-06** — Sorath in Hedun: append to Sorath page (Option C — passing through, Tolla Rend notices)
-- [ ] **FIX-1c** — Ostal Mrev corrected consultation notes (Square=8W, single discipline per sigil)
+- [x] **TASK-03** — Wolfpoint in motion: append Sera Voss ("The First Test") + append Mira Solv ("The Notification Problem"). Both A+D simultaneously.
+- [x] **TASK-04** — Drest current operation: append to Drest page (Option C — academic cover via Culmination ruins research)
+- [x] **TASK-05** — Mave Daily Existence rewrite (sibling dynamic; Selvane has genuine warmth for Mave — their only "sweet spot") + minor Selvane update
+- [x] **TASK-06** — Sorath in Hedun: append to Sorath page (Option C — passing through, Tolla Rend notices)
+- [x] **FIX-1c** — Ostal Mrev corrected consultation notes (Square=8W, single discipline per sigil)
 
 ---
 
@@ -137,3 +137,4 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | WORLD_STATE | Updated | Added Davan Rhyce, Maren Sollis, Castor Helme, Yara Venn, Brennan Solce, Orla Fest |
 | 2026-03-05 | DECISIONS | All 4 resolved | D1: Both A+D. D2: Mave orbits Selvane socially. D3: Option C academic cover. D4: Option C Hedun. |
 | 2026-03-05 | TASK.md | Written | Fix pipeline failures + 4 unblocked narrative tasks. Ready to run. |
+| 2026-03-05 | Pipeline run | All 4 batches approved | TASK-03/04/05/06 + FIX-1c complete. Ostal Mrev duplicate cleaned. |
