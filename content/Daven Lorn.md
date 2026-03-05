@@ -1,0 +1,9 @@
+**Daven Lorn** is forty-four years old and runs a walk-in practice in [[Valdenmoor]]'s lower trade district. Not the guild-certified diagnostic work of the formal medical chapter — the cash-or-credit, no-documentation, no-referral-required practice that serves the section of the population the certified system covers in policy and inconsistently in fact.
+
+He holds a T2 [[Control Tier]] and a basic practitioner certification from seventeen years ago. The certification is current, renewed at intervals, and covers the diagnostic and treatment range that T2 allows. Most of what his patients need falls within this range. The cases that fall outside it he refers up, and he has maintained enough relationships in the certified system over seventeen years to make those referrals land with people who will actually see them.
+
+The lower trade district is a specific kind of medical environment. The presenting problems trend toward the occupational — loading injuries, exposure conditions, the cumulative damage of work done in physically demanding conditions without sufficient rest or nutrition. The presenting problems also include things that the guild certification system's documentation requirements would complicate: situations involving work that is not formally registered, status questions, address questions. Daven's practice has no documentation requirements beyond what he keeps for his own use.
+
+He keeps case notes. Minimal entries: date, presenting problem, what he did, what happened. He keeps them because he has found, over seventeen years, that patterns appear in the notes that he would not have noticed otherwise. The notes are not available to the guild review system. He has been asked about this once and explained that the certification does not require external documentation for uncertified clients. This is accurate. He has not been asked again.
+
+*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Flux Users]], [[Daven Lorn's Case Notes]]*

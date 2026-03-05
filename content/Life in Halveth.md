@@ -64,4 +64,4 @@ What they are less good at, often, is being somewhere that doesn't need them in 
 
 The village is not a trap. People leave. People choose to stay. The choice is usually made gradually, and the moment when it became a choice rather than a temporary arrangement is rarely identifiable afterward. What is identifiable is that Halveth marks the people who remain in it — with competence, with a specific relationship to fear, with the knowledge of what the desert's edge looks like in every season — and that the marks are permanent whether or not the person is.
 
-*See also: [[Halveth]], [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Ordinary Life]], [[Life in Rural Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]]*
+*See also: [[Halveth]], [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Ordinary Life]], [[Life in Rural Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Cor Meln]], [[Ossen Drel]]*

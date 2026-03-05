@@ -34,4 +34,4 @@ The extraction economy, meanwhile, produces a different trait — the directness
 
 The combination is notable. Greyveil residents tend to be direct without being aggressive, open to the unusual without being credulous, rooted without being provincial. They have learned, generation by generation, that the world is larger than their city and that the city is more permanent than the world gives it credit for.
 
-*See also: [[Greyveil]], [[Terravelle]], [[Wolfpoint]], [[Hypertext]], [[Valdenmoor]], [[Ordinary Life in Terravelle]], [[Ordinary Life]], [[Flux Users]], [[Control Tier]]*
+*See also: [[Greyveil]], [[Terravelle]], [[Wolfpoint]], [[Hypertext]], [[Valdenmoor]], [[Ordinary Life in Terravelle]], [[Ordinary Life]], [[Flux Users]], [[Control Tier]], [[Bren Ossve]], [[Keld Dast]], [[Sable Morn]]*
