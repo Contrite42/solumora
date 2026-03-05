@@ -67,10 +67,10 @@ Blocked tasks are marked with their dependency.
 - [x] **TASK-01** — Write `content/Equatorial Desert.md` expansion
   The existing page is a stub. Write it as a full lore page: what the desert actually feels like, why Halveth exists, what Rift Incursions look like in practice, what the ruins in the desert mean. Dense, sensory, no purple prose. Outbound links: Halveth, Rift Incursions, Flux Demons, Ancient Ruins, Emberfall, Auralis, Terravelle, Ascendant Path, High Demons.
 
-- [ ] **TASK-02** — Update backlinks for pipeline-generated characters (Veld Dorv, Life in Emberfall, and others from current run)
+- [x] **TASK-02** — Update backlinks for pipeline-generated characters (Veld Dorv, Life in Emberfall, and others from current run)
   Check what the pipeline created. Ensure Emberfall, The Advancement Corps, and relevant character pages link back to new pages.
 
-- [ ] **TASK-07** — Write `content/Davan Rhyce.md` gap check
+- [x] **TASK-07** — Write `content/Davan Rhyce.md` gap check
   Davan Rhyce is listed in content/ but not in WORLD_STATE.md's character list. Read the existing page and verify it's canon-consistent. Add to WORLD_STATE.md if missing.
 
 - [x] **TASK-08** — Write `content/Life in Halveth.md` expansion
