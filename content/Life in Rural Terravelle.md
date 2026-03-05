@@ -66,4 +66,4 @@ Rural communities produce people who are competent at survival, who are loyal to
 
 A person leaving a rural settlement for a city experiences a specific kind of vertigo — the sudden feeling that very little is required of them directly, that systems exist to handle what they thought they had to manage themselves. A person from the city arriving in a rural settlement experiences the inverse: the sudden visibility of how much work goes into maintaining the basic structure of existence, and how directly one's labor is connected to one's survival.
 
-*See also: [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Covenant of Measure]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Valdenmoor]], [[Geography]], [[Bren Ossve]], [[Reth Caln]]*
+*See also: [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Covenant of Measure]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Valdenmoor]], [[Geography]], [[Bren Ossve]], [[Reth Caln]], [[Solen Carr]]*

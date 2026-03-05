@@ -1,0 +1,9 @@
+**Cadell Mors** is twenty-seven years old and serves in [[Terravelle]]'s northern border garrison, stationed at a post three days' travel east of [[Ashford]]. He has been in the service for six years. He assessed [[Control Tier|T2]] at thirteen, took the military track at fifteen when the scholarship options did not appeal and the farm work that would otherwise have been his future appealed less, and has been on the northern assignment for the last four years.
+
+The posting is not glamorous work. Border patrol, maintenance of the garrison's Flux-integrated defensive infrastructure, training rotations with incoming cohorts, the occasional actual incident that requires more than patrol presence. In peacetime — which this technically still is — the northern garrison's primary function is presence. The Terravelle-Auralis border tension that he has heard about in briefings since his first year has not, in his experience, produced anything that required his actual involvement. He expects this to change, because the briefings have changed tone over the last year in ways he knows how to read.
+
+He uses his T2 for standard military applications: barrier reinforcement work, the diagnostic checks on the garrison's sigil infrastructure, the communication tokens. He is not exceptional at this. He is reliable, which in a garrison posting turns out to matter more than exceptional. The rotation commanders have told him as much.
+
+The thing he knows that the briefings do not cover is what the increased patrol frequency feels like from inside it. It feels like the border has gotten louder without getting noisier — the same sounds, the same sightlines, but with a quality underneath them that was not there two years ago. He has mentioned this to one other person in the garrison, who said he knew what Cadell meant, which was the full extent of the conversation.
+
+*See also: [[Terravelle]], [[Ashford]], [[Auralis]], [[Flux Users]], [[Control Tier]]*
