@@ -72,4 +72,4 @@ A Circle Soul sigil with all six outer variables specified sits near the other e
 
 **Prepared sigils are more efficient than improvised casts** because the variable geometry is encoded in the physical inscription. When a practitioner activates a pre-inscribed sigil, the Flux structure is partially established by the geometry — they are channeling into a framework that already defines its constraints, rather than holding all constraints simultaneously from nothing. The preparation absorbs part of the precision cost so the activation remains accessible to practitioners who could not construct the same spell from scratch.
 
-*See also: [[Control Tier]], [[Spell Variables]], [[Discipline]], [[Shape]], [[Sigils]], [[Grimoires]], [[Flux]], [[Flux Users]], [[Hypertext]], [[Hand Signs]]*
+*See also: [[Flux Cost Reference]], [[Control Tier]], [[Spell Variables]], [[Discipline]], [[Shape]], [[Sigils]], [[Grimoires]], [[Flux]], [[Flux Users]], [[Hypertext]], [[Hand Signs]]*
