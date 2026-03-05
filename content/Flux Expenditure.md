@@ -14,7 +14,7 @@ The daily capacity limits documented in the [[Flux Cost Reference]] represent co
 
 The total cost of a [[Sigils|sigil]]-based spell is calculated as: Shape base W × Discipline multiplier, plus flat additions from all specified outer variables, multiplied by the Hook/Mode complexity factor.
 
-The core cost comes from the intersection of [[Shape]] and [[Discipline]]. Shape provides the base Watt value — Triangle (3W), Square (8W), Pentagon (20W), Circle (55W). Discipline provides the multiplier — Raw (×1), Force (×2), Heat (×2), Light (×3), Sound (×4), Electric (×5), Chemical (×5), Binding (×10), Mind (×25), Soul (×75). A Circle Soul sigil starts at 55 × 75 = 4,125W before any other variables are added.
+The core cost comes from the intersection of [[Spell Variables|Shape]] and [[Discipline]]. Shape provides the base Watt value — Triangle (3W), Square (8W), Pentagon (20W), Circle (55W). Discipline provides the multiplier — Raw (×1), Force (×2), Heat (×2), Light (×3), Sound (×4), Electric (×5), Chemical (×5), Binding (×10), Mind (×25), Soul (×75). A Circle Soul sigil starts at 55 × 75 = 4,125W before any other variables are added.
 
 The outer variables — [[Pattern]], [[Reach]], [[Persistence]], [[Target Spec]], [[Output Mode]] — add flat costs to this core. A Circle Soul sigil with Touch (+2W), Permanent (+400W), and Individual (+8W) totals 4,535W, placing it at the T6 level.
 

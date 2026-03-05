@@ -119,8 +119,8 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 - **Renne Osl** (T3): Active Advancement Corps Senior Field Assessor.
 
 **High Demons (embedded in society, true identities secret):**
-- **Selvane** (Solhaven): Prominent Council-adjacent figure. Does not know Mave is also a demon.
-- **Mave** (Solhaven): Embedded. Does not know Selvane is also a demon.
+- **Selvane** (Solhaven): Prominent Council-adjacent figure. Does not know Mave is also a demon. Mave is Selvane's only "sweet spot" — the one relationship where Selvane's controlled behavior genuinely relaxes. Essa Rolt has noticed.
+- **Mave** (Solhaven): No independent professional identity. Orbits Selvane socially like a younger sibling — appears at Selvane's functions, gravitates to Selvane without explaining why. Neither knows the other is a demon.
 - **Fennick** (Hedun): Port-adjacent. Multiple ground-level characters orbit his sphere without knowing what he is.
 - **Wren** (Halveth): Desert-edge garrison. Has an 18-year relationship with Selt Orvn who does not know.
 - **Sorath** (wandering): Desert crosser. Had a one-night encounter with Celn Vard.

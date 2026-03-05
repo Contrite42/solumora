@@ -1,129 +1,115 @@
-# Task: Emberfall, High Demon Lives, Written Works with Watt Numbers
+# Task: Fix Pipeline Failures + Execute Unblocked Tasks
 
-Three content areas. Execute in order. All pages go in content/ unless specified.
-Naming rules are STRICT — see WORLD_STATE.md before finalizing any new character names.
-
----
-
-## SECTION 1: EMBERFALL EXPANSION
-
-Emberfall is referenced throughout the vault as a ruins-adjacent research town in Auralis,
-near the Equatorial Desert. Currently underdeveloped. Existing characters there:
-- Tessel Dran (T4 scholar, researches ruins, has written Research Notes)
-- Erra Dossn (T2, market trader, knows Tessel Dran's supply habits)
-- Aldric Mourne (T4, Culmination Faction's academic arm, works the ruins)
-
-Write these pages:
-
-### 1a. content/Life in Emberfall.md — CREATE
-
-What daily life looks like in Emberfall. Include:
-- The town's physical character: a genuine research settlement, not a village that happens to have scholars nearby. The ruins access is the reason the town exists. Everything else — housing, food supply, trade — is built around that core.
-- Two distinct populations: the permanent residents (supply workers, traders, locals who service the researchers) and the rotating researchers (Advancement Corps assessors, independent scholars, Culmination Faction representatives). These groups have genuine tension — the researchers treat the town as a platform, the residents treat the researchers as recurring problems.
-- The Advancement Corps presence: a field station here. Ostensibly for "coordinating ruins access." Actually for monitoring what independent researchers find and controlling what leaves Emberfall.
-- The desert proximity: what this means practically. Heat, dust, the awareness that Rift Incursions happen not far south. Emberfall has walls that are genuinely maintained.
-- Name at least Tessel Dran, Erra Dossn, and Aldric Mourne as context for the reader. Add 1-2 unnamed or briefly named locals as texture.
-- See Also must include: [[Emberfall]], [[Auralis]], [[Ancient Ruins]], [[The Advancement Corps]], [[Equatorial Desert]], [[Tessel Dran]], [[Erra Dossn]], [[Aldric Mourne]], [[Rift Incursions]], [[The Culmination Faction]]
-
-### 1b. content/People/[Name 1].md — CREATE (Emberfall resident, T1-T2)
-
-A permanent Emberfall resident who works supply logistics — receives, stores, and distributes materials for the research operations. Not a researcher. Has been there long enough to have watched multiple research cohorts come and go. Knows more than they let on about what gets found and what quietly disappears. T1 or T2. One specific thing they've noticed that they haven't told anyone.
-
-### 1c. content/People/[Name 2].md — CREATE (Emberfall, Advancement Corps field worker, T3)
-
-A low-level Advancement Corps field worker stationed in Emberfall. Not a senior assessor — a logistics and documentation role. Knows the official mission. Has started noticing gaps between what they're told to document and what actually gets reported up. Has not yet decided what to do with this. T3. Write from the position of someone who is loyal but developing doubts.
-
-Names for 1b and 1c: Follow Solumora naming conventions (short, terse, Germanic/Nordic). Check WORLD_STATE.md conflict list. Suggestions: first names like Noss, Veld, Celd, Oss, Tev, Brenn; surnames like Olt, Dorv, Rend, Mast. Do not use names already in WORLD_STATE.md.
+Three categories. Execute in order. All appends go to existing pages in content/.
+Check WORLD_STATE.md before naming anything. Check STYLE_GUIDE.md for voice.
 
 ---
 
-## SECTION 2: HIGH DEMONS — DAILY EXISTENCE
+## SECTION 1: FIX REJECTED PIPELINE OUTPUTS
 
-The five High Demons are embedded in society. Their true nature is unknown to everyone around them. Write pages expanding what their embedded existence looks like from the outside — their cover, their routines, the people orbiting them who don't know what they are, and the moments that almost reveal them.
+### 1a. APPEND to content/People/Mave.md — "## Daily Existence" section
 
-CRITICAL RULES:
-- Do NOT write from the demon's internal perspective. Write from the perspective of what the world sees.
-- Do NOT have any character know the demon is a demon.
-- Do NOT have demons know about each other (Selvane and Mave are both in Solhaven and do not know about each other).
-- Do NOT resolve or reveal their nature. Document the tension of near-reveals without landing them.
-- These are APPEND operations to existing character pages, not new pages. Each demon already has a page.
+CRITICAL CONTEXT:
+- Mave orbits Selvane socially, like a younger sibling to an eldest. This is the central fact.
+- Neither Mave nor Selvane knows the other is a demon. Genuine social relationship.
+- Mave has NO independent professional identity. Appears at Selvane's functions, handles peripheral tasks, simply present in Selvane's orbit without clean explanation.
+- Avel Tors (T1 craftsperson) has had 4 encounters with Mave — now adjacent to Selvane's sphere.
+- "Difficult to remember precisely" quality of Mave still applies.
+- DO NOT write from Mave's internal perspective. DO NOT have anyone know Mave is a demon.
 
-### 2a. APPEND to existing Selvane page
+Add section covering:
+- Mave's visible social position: not professional but social. Someone in Selvane's circle — loosely described as an associate or friend of long standing, though no one can say how they met or when the attachment formed.
+- Four encounters Avel Tors has had: each adjacent to Selvane's world (a function, a referral through Selvane's network, a chance meeting near Crestward). Each slightly wrong. Each with an ordinary explanation. Pattern invisible because the connective tissue (Selvane) is not something Avel tracks.
+- The quality that makes Mave hard to remember: not a Flux effect, a quality of presence that fades. Details don't hold.
+- What Essa Rolt has noticed: Mave visits Selvane's household with a frequency that matches no professional relationship Essa can identify. No business being conducted she can see. Mave arrives, spends time with Selvane, leaves. Essa cannot hold the details afterward. She has noted this without acting on it.
+- See Also must include: [[Selvane]], [[Solhaven]], [[Essa Rolt]], [[Avel Tors]], [[High Demons]], [[Flux]], [[The Council of Auralis]]
 
-Selvane is in Solhaven, prominent enough to be Council-adjacent. Essa Rolt (T1) is their household manager — has a pattern of observations she hasn't connected yet.
+### 1b. Small addition to Selvane's existing "## Daily Existence" section
 
-Add a section: "## Daily Existence" covering:
-- What Selvane's visible role in Solhaven is (something that makes sense given their prominence — a merchant house principal, a senior Formulist, a Flux infrastructure consultant, whatever fits)
-- Their visible behavior patterns that seem slightly off but explainable: too consistent in small ways, occasionally forgets something that should be habit, has been in Solhaven too long without aging visibly (people have started not noticing this)
-- Essa Rolt's specific observations, written as things she has noted without interpretation: Selvane eats rarely and in very small amounts. They do not appear to sleep normally. They have no family that anyone can name. They speak about events from thirty years ago with a specificity that suggests they were there.
-- One moment where someone almost asked a direct question and the conversation quietly redirected.
+CRITICAL CONTEXT UPDATE: Selvane has genuine warmth toward Mave — Mave is the one person in Selvane's social world who produces something that looks like actual relaxation. Selvane, who is controlled and consistent in all habits, is visibly different around this particular visitor: less formal, more present. Essa Rolt has noticed this. It is the most human-looking thing about Selvane and therefore the most unsettling thing Essa has observed, because it means whatever Selvane usually is around other people is not the whole picture.
 
-### 2b. APPEND to existing Mave page
+Add 2-3 sentences to the Essa Rolt observations paragraph:
+- Essa has observed a recurring visitor whose presence she cannot account for professionally and whose details she consistently fails to hold in memory afterward.
+- What she can hold: Selvane's behavior is different when this visitor is present. Not warmer toward Essa, not more social — just different in a way she cannot name. Less like someone managing an appearance. The one time Essa has seen Selvane look like they were not performing anything for anyone.
+- Essa has noted this. She has not connected it to anything. She does not know what to do with the observation that the most unguarded Selvane becomes is in the presence of someone whose name she cannot remember.
 
-Mave is also in Solhaven. Avel Tors (T1, craftsperson) has had 4 encounters with Mave.
+Match existing prose style exactly. Do not name the visitor. Do not let Essa understand what she is observing.
 
-Add a section: "## Daily Existence" covering:
-- Mave's visible role (different from Selvane's — they occupy a different niche in Solhaven's social structure)
-- Avel Tors's four encounters, described briefly — what each one was about, what felt slightly wrong in each one, and why Avel has not put the pieces together (each encounter had an ordinary explanation available)
-- The specific quality that makes Mave hard to remember precisely: people recall the interaction but can't hold the details. Not a Flux effect anyone has identified — just a quality of Mave's presence.
-- How Mave and Selvane both move through Solhaven without ever quite being in the same space.
+### 1c. APPEND to content/WrittenWorks/Ostal Mrev's Consultation Notes.md — CORRECTED
 
-### 2c. APPEND to existing Fennick page
+Ostal Mrev: T3 infrastructure sigil specialist, Valdenmoor. Technical, mildly impatient. Voice: matter-of-fact, no sentimentality, mildly contemptuous of clients who don't understand geometry.
 
-Fennick is in Hedun. Lorn Seld (T1) works in his orbit without knowing what Fennick is. Tolla Rend (T1, harbor supervisor) knows Toven Ral by sight — and Toven Ral is one of the few people sharp enough to notice something is wrong with Fennick (though Toven has not named it).
+CORRECT FORMULA — follow exactly, pipeline got this wrong previously:
+- Square base = 8W (NOT 4W — this was the error last run)
+- One discipline per sigil only
+- Disciplines multiply Shape base: Binding×10, Heat×2, Force×2
+- Variable flat additions come after: Permanent +400W, Touch +2W, etc.
 
-Add a section: "## Daily Existence" covering:
-- Fennick's visible operation in Hedun (port-adjacent — what does this look like? A broker? A factor? A labor organizer?)
-- The small ways Fennick's operation is too smooth: no deals fall through, no workers quit unhappy, no disputes escalate. It reads as management excellence until you look at the numbers.
-- Lorn Seld's relationship: what Lorn thinks Fennick is, what small things Lorn has dismissed, and why working for Fennick feels better than working elsewhere without Lorn being able to say why.
-- Toven Ral watching from a distance: not intervening, not naming it, just watching. What Toven has noticed that he has told no one.
+Add 2 consultation notes:
 
-### 2d. APPEND to existing Wren page
+Note 1 — Load-bearing structural reinforcement:
+Square sigil (8W) × Binding (×10) = 80W core. Permanent persistence +400W. Total: 480W. Exceeds single-session T3 capacity. Requires staged inscription over two sessions minimum. Client complained about timeline. Explained that the permanence modifier alone (400W) pushes this past what a T3 practitioner can sustain in a single session. Client accepted 9-day completion timeline.
 
-Wren is at Halveth, the desert-edge garrison. Selt Orvn (T2) has an 18-year relationship with Wren — supply depot work keeps them in regular contact. Selt doesn't know.
-
-Add a section: "## Daily Existence" covering:
-- Wren's visible role at Halveth (something that requires consistent presence without a clear career ceiling — a position people don't question why someone stays in for decades)
-- The 18-year relationship with Selt Orvn: what this actually looks like. Regular interactions. Probably the most genuine ongoing relationship Wren has in Halveth, which makes it more dangerous. Selt has noticed that Wren never quite changes. Has not yet asked.
-- What the desert means to Wren specifically: Halveth is as close to the Equatorial Desert as any settlement gets. What Wren does near or at the edge that nobody else would. Not explicitly demonic — just someone who goes to the wall at night more than others do.
-- One person who has started asking questions and has not come back to ask more.
+Note 2 — Circle geometry on a Square job:
+Client wanted Circle sigil for fish storage thermal regulation. Correction applied:
+- Square (8W) × Binding (×10) = 80W. Adequate for thermal seal on any standard storage space. T2 work.
+- Circle (55W) × Binding (×10) = 550W. For fish storage. The geometry adds five additional variable slots this application does not need.
+- Cost difference: 80W vs 550W for the core alone. Client argued Circle would be "more thorough." Explained that thorough and expensive are not the same thing. Referred client elsewhere. Declined project.
 
 ---
 
-## SECTION 3: WRITTEN WORKS — ADD WATT NUMBERS
+## SECTION 2: UNBLOCKED NARRATIVE TASKS
 
-The Flux cost system now has real Watt values. Update in-world documents to reference these numbers naturally — the way a practitioner would write about their own work. These are APPEND operations adding brief new entries to existing Written Works pages.
+### 2a. APPEND to existing Drest page — "## Current Operation"
 
-The tone of these additions must match the existing entries exactly — each Written Works page has a distinctive voice. Match it.
+DECISION: Option C. Drest uses Culmination ruins research as cover for strategic access. Academic work is real. Site selection criteria are not disclosed.
 
-### 3a. APPEND to content/WrittenWorks/Osvin Brack's Assessment Ledger.md
+Add section covering:
+- Official framing: expedition sites chosen on research priority, Corps-coordinated, nothing unusual.
+- Reality: sites chosen for terrain access and proximity to positions relevant to a longer-term campaign. Several Emberfall-vicinity sites have line-of-sight to northern desert passes relevant to any Terravelle-facing force.
+- Aldric Mourne conducts genuine scholarly work. He does not know his site selections have been shaped by criteria beyond the academic. Specific findings — particularly anything related to ancient infrastructure or construction — are routed to Drest's office rather than Corps archives. Mourne does not know this.
+- Veld Dorv (Advancement Corps field documentation, Emberfall) has noticed documentation gaps. Has not understood what they mean yet.
+- Cassia suspects Drest has operations beyond what she can confirm. No evidence of this specific one.
+- Tone: Drest is strategic, patient, not theatrical. Operational fact, not villainy. He believes this is necessary.
+- See Also: [[Aldric Mourne]], [[Emberfall]], [[The Culmination Faction]], [[The Advancement Corps]], [[Cassia]], [[Ancient Ruins]], [[Equatorial Desert]]
 
-Add 2-3 new ledger entries where Osvin notes Watt-level assessments. Examples of how to use the numbers naturally:
-- A T1 assessment: "evaluated at comfortable 28-34W range. Typical Flicker tier. Grimoire eligible."
-- A T2 assessment where the number is close to the T3 boundary: "upper Working, 118-122W. Worth watching. Not yet Load tier."
-- A T0 noting the number sadly: "measured at 8W maximum. Trace. Will not hold a sigil independently."
-Osvin's voice is methodical and notation-heavy. He records things people don't ask him to record.
+### 2b. APPEND to existing Sorath page — "## Current Movement"
 
-### 3b. APPEND to content/WrittenWorks/Rell Hadv's Certification Notes.md
+DECISION: Sorath is passing through Hedun. Has not encountered Fennick.
 
-Rell Hadv is a T4 guild master in Valdenmoor with a T5 apprentice. Add 1-2 certification notes where Watt thresholds appear:
-- The apprentice being assessed for journeyman status: "sustained output measured against standard 74W container seal. Apprentice held at 80W for 4-minute window. Threshold cleared."
-- An edge case where a candidate is borderline: a spell that should be T2 work came in at 140W — technically T3, which means a different certification track applies.
-Rell's voice is precise and slightly bureaucratic. He cares about the correct application of standards.
+Add section covering:
+- Sorath has come north from the desert interior and entered Hedun. This is unusual for Sorath.
+- The errand, from outside: someone buying supplies, making a quiet inquiry at a harbor counting house, lingering near the docks. What the errand actually concerns is not visible to anyone Sorath interacts with.
+- Sorath's presence in Hedun: moves through the city like someone who has been in worse places. Not Fennick's smoothness, not Selvane's prominence. Simply present.
+- Fennick and Sorath have not crossed paths. Harbor district is large. Not coincidence — scale of city. Proximity will not last.
+- Tolla Rend (harbor supervisor, T1) has seen Sorath and noted something was wrong but cannot name it. Has not acted on this.
+- DO NOT write from Sorath's internal perspective. DO NOT reveal Sorath as a demon to any character.
+- See Also: [[Hedun]], [[Fennick]], [[Equatorial Desert]], [[High Demons]], [[Tolla Rend]], [[Celn Vard]]
 
-### 3c. APPEND to content/WrittenWorks/Toven Ral's Journal.md
+### 2c. APPEND to existing Sera Voss page — "## The First Test"
 
-Toven is a retired T5 Corps Field Lead in Hedun. Add 1-2 journal entries where Watt costs appear as natural reference for an experienced practitioner thinking about old work:
-- Recalling a field assessment that required T4-range casting (400-600W) in difficult conditions, and what that cost the team physically
-- Noting that the young T3 practitioners he sees in Hedun these days don't know what 1,500W feels like — not as a complaint, just as an observation about what you can't know until you've done it
-Toven's voice is spare, observational, does not sentimentalize.
+DECISION: Sera tests the Watts network. Something responds.
 
-### 3d. APPEND to content/WrittenWorks/Ostal Mrev's Consultation Notes.md
+Add section covering:
+- What Sera does: designs a minimal Flux signal structured to match the pattern she identified in the Watts ledger infrastructure. Channels it through a standard transaction node in Wolfpoint.
+- Something responds. Not a voice, not a message — a change in the ledger entry format that was not there before. Brief, structured, in a notation she does not fully recognize but that resembles ancient sigil fragments from her research.
+- She tells no one. Records it separately. Not filed with her other research.
+- She is designing a second test. The second test will be larger.
+- Ysel does not know. Cael does not know.
+- Voice: careful researcher documenting something she has no framework for yet. Precise, not dramatic.
+- See Also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]]
 
-Ostal Mrev is a T3 infrastructure sigil specialist in Valdenmoor — deep expertise over tier. Add 1-2 consultation notes where Watt costs for infrastructure work appear:
-- A standard load-bearing structural reinforcement: notes the sigil cost, the materials required, the inscription time required because the permanent cost (400W add-on alone) pushed it above single-session capacity
-- A client who wanted Circle geometry on what should be a Square sigil job: Ostal's explanation of why the cost difference (8W base vs 55W base, then multiplied by Binding x10 = 80W vs 550W for the core alone) makes Circle unnecessary and wasteful for this application
-Ostal's voice is technical and mildly impatient with clients who don't understand geometry.
+### 2d. APPEND to existing Mira Solv page — "## The Notification Problem"
+
+DECISION: Mira hears that someone in Terravelle is asking about Watts ledger infrastructure. Does not know it is Sera.
+
+Add section covering:
+- What Mira hears: academic contact in Valdenmoor mentions in passing that someone in Wolfpoint has been making inquiries about the Watts ledger — specifically about whether the network has historical documentation predating the current guilds.
+- Mira does not know who is asking.
+- Her concern: if someone in Terravelle independently approaches the questions she has been sitting on, Drest may hear about it before she has decided whether to tell him. Drest's interpretation of "Terravelle poking at ancient infrastructure" will not be the same as Mira's.
+- What she does: nothing immediately. Notes the contact. Decides to let two weeks pass before deciding whether to act. She is managing information and buying time.
+- Mira does not know the person asking is Sera Voss.
+- See Also: [[Wolfpoint]], [[Watts]], [[Hypertext]], [[Drest]], [[Sera Voss]], [[Ancient Ruins]], [[The Culmination Faction]]
 
 ---
 
@@ -131,6 +117,5 @@ Ostal's voice is technical and mildly impatient with clients who don't understan
 - No new lore, kingdoms, continents, or factions invented.
 - No character knows a High Demon's true identity.
 - Names must follow Solumora conventions (check WORLD_STATE.md).
-- Every new page needs at least 3 outbound links to existing pages.
-- Written works appendages must match the existing voice of each document exactly.
-- Plan this as 7 batches of 2: [1a+1b], [1c+2a], [2b+2c], [2d+3a], [3b+3c], [3d + review pass].
+- Match existing voice exactly for all appends.
+- Plan this as 4 batches of 2: [1a+1b], [1c+2a], [2b+2c], [2d + review pass].
