@@ -1,83 +1,50 @@
-# Task: Grimoire & Spell Development
+# Task: Ashford Political Atmosphere + Cassia People in Motion
 
-Four files to create/append. No new lore, no new characters, no new kingdoms.
-Formula reference (critical — enforce exactly):
-- Shape base costs: Triangle=3W, Square=8W, Pentagon=20W, Circle=55W
-- Disciplines multiply shape base: Binding×10, Heat×2, Force×2, Light×1, Chemical×3, Raw×1, Mind×8, Kinetic×1, Sound×1
-- Persistence flat additions: Permanent +400W (adds to base cost for tier calc)
-- ONE discipline per sigil. Tier determined by Shape×Discipline result (before persistence).
-- T1: 11-40W. T2: 41-130W. T3: 131-400W. T4: 401-1300W.
+Three appends. No new characters. No new lore invented.
+All pages are APPENDs to existing files — do not rewrite or replace existing content.
 
 ---
 
-## TASK-12: CREATE content/WrittenWorks/The Zakros Crossing Compendium.md
+## TASK-09: APPEND to content/Doss Varn.md, content/Orre Cavlt.md, content/Cavel Dorst.md
 
-Author: [[Avel Coss]] (T4 desert guide). Published in-world survival grimoire. Approximately 10 spells, curated from existing Common/Uncommon tier — use only real spell names already in the vault.
+Each needs a new section showing the Expansion Faction political pressure as a lived reality at ground level. They do not know it is the Expansion Faction — they see symptoms, not causes.
 
-Good candidates (all exist): Warmbreath, Breathclean, Dustsweep, Heatcheck, Soundlisten, Marksense, Fluxread, Coldbox Seal, Dryseal, Heatshield.
+**Doss Varn** — border guard, Auralis side near Ashford. T1, 28 years old.
+Append section titled `## The Shift`. His briefings have changed in tone over the past year. New documentation protocols arrived without explanation. More travelers with Terravelle papers than he has seen before. One of his contacts at the Ashford command post told him to log everything carefully, which she has never said before. He is recording what he sees. He does not know what it means.
+Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]
 
-Format: Written Works style. Short first-person introduction by Avel, then each spell entry: spell name, one-line description of its desert application, and Avel's field notes (2-4 sentences) covering: which conditions it degrades under, when to prioritize it when reserves are low, what the standard grimoire gets wrong about it.
+**Orre Cavlt** — cross-border merchant, Ashford. T2, 49 years old.
+Append section titled `## What He Cannot Model`. The informal indicators he reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. Two of his longer relationships on the Auralis side have become careful. A shipment he expected to clear in one day sat for four without any formal hold applied. He has been in this business long enough to know the difference between friction and signal. He is not yet sure which this is. But it is not random.
+Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]
 
-Avel's voice: spare, practical, slightly grim. Has seen the full range of outcomes. Not warm, not hostile — the voice of someone giving an honest accounting to people who need it.
-
-See Also: [[Avel Coss]], [[Equatorial Desert]], [[Desert Zakros]], [[Grimoires]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Flux]], [[Halveth]], [[Rift Incursions]]
-
----
-
-## TASK-13: CREATE content/WrittenWorks/Fifteen Sigils for the Young Practitioner.md
-
-Guild-published T1 teaching text, Valdenmoor Trade Guild. No single author — committee production. 15 T1 spells in pedagogical sequence (safety first, then utility, then refinement).
-
-Use only real T1 spell names from the vault. Good candidates: Warmstone, Glowmark, Hearthlight, Inkmark, Dustsweep, Copymark, Dryseal, Heatcheck, Breathclean, Nudge, Shove, Slowfall, Lift, Marksense, Chargecheck.
-
-The copy we see is annotated by hand — a parent or apprentice master. Their notes run throughout. They have been teaching from this book for years and have opinions about its sequencing. One student (never named — "the Massen boy", "the girl from the textile district") appears repeatedly in the notes.
-
-Format: Written Works style. Brief framing paragraph about the text, then the 15 spells listed in teaching sequence. After each spell: annotator's margin note (1-3 sentences — practical, occasionally worried, occasionally exasperated, occasionally warm).
-
-See Also: [[Grimoires]], [[Common Grimoire]], [[Control Tier]], [[Flux]], [[Valdenmoor]], [[Trade Guilds]], [[Tier Assessment]]
+**Cavel Dorst** — merchant house manager, Ashford. T3, 44 years old.
+Append section titled `## The Audit That Hasn't Come`. Guild documentation requirements have shifted three times in eight months, each time in the direction of more granular reporting on cross-border shipments. His contacts at the guild say the changes come from Auralis-side regulatory pressure, though they use careful language about this. He has updated his compliance protocols ahead of each change because he learned years ago that being prepared for an audit that never comes costs less than being unprepared for one that does. The changes have a direction. The direction has not been stated. He has documented what he observes.
+Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]
 
 ---
 
-## TASK-14: APPEND to content/All Grimoire.md — new spells section
+## TASK-10: APPEND to content/Cassia.md
 
-Append a "## New Additions" section with these 4 spells. Use EXACT table format from rest of All Grimoire (variables: Shape, Hook, Mode, Control Tier, Discipline, Output, Pattern, Reach, Persistence, Target). One discipline per sigil. Tier must match Watt cost.
+Append section titled `## What She Knows`.
 
-**Dustlock** — Chemical discipline. Permanently seals particulate out of a surface (grimoire pages, sigil surfaces). Critical for Zakros use. T2.
-Pentagon(20W) × Chemical(×3) = 60W base. Add Permanent +400W = 460W total. Tier is T2 based on base cost 60W.
+Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
 
-**Faunaread** — Raw discipline. Detects Flux signatures of living creatures in a sphere around caster. T2.
-Circle(55W) × Raw(×1) = 55W → T2. Sphere pattern. Sustained persistence.
+What she knows: The Expansion Faction is accelerating. She has watched Drest's voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what Brennan Solce's "careful" reaction means when she reads it in briefing summaries.
 
-**Waterward** — Chemical discipline. Permanently seals a surface against water penetration. T2.
-Pentagon(20W) × Chemical(×3) = 60W base. Add Permanent +400W = 460W total. Tier is T2 based on base cost 60W.
+What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
 
-**Heatshield** — Heat discipline. Sustained personal thermal buffering, stronger than Warmbreath. T2.
-Circle(55W) × Heat(×2) = 110W → T2. Sustained persistence. Self target.
+She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at Wolfpoint, and Cassia does not have communication with Wolfpoint that is not reviewed.
 
----
+Voice: Direct. Controlled. No self-pity, no martyrdom. She is managing a situation, not performing tragedy.
 
-## TASK-15: CREATE content/WrittenWorks/Ossal Meln's Workshop Notes.md
-
-[[Ossal Meln]] is a T3 Flux-embedded objects craftsperson in Valdenmoor. Working notes from a development project: combining thermal regulation and light emission in a single embedded object.
-
-Format: Numbered entries, dated Day 1 / Day 4 / Day 9 / Day 12. Numbers-heavy. Brief sentences. No sentimentality.
-
-Day 1: Initial attempt. Two-discipline combined sigil (Heat+Light). Fails — cannot apply two disciplines to one sigil. Notes the correct principle.
-
-Day 4: Two separate sigils embedded adjacent. Cost calc for each. Tests interaction — unexpected Flux interference between sigils at close proximity.
-
-Day 9: Spacing solution found. Minimum distance between embedded sigils eliminates interference. Final config: Triangle(3W) × Light(×1) = 3W + Triangle(3W) × Heat(×2) = 6W = 9W total. T1 each. Working.
-
-Day 12: Scaling note. Pentagon(20W) × Light(×1) = 20W + Pentagon(20W) × Heat(×2) = 40W = 60W total config for larger objects. T2 practitioner required. Cost comparison documented.
-
-Ossal's voice: technical, matter-of-fact. Numbers first. Notes failures without self-pity.
-
-See Also: [[Flux]], [[Sigils]], [[Flux Cost Reference]], [[Valdenmoor]], [[Common Grimoire]], [[Control Tier]]
+Outbound links: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]
 
 ---
 
 ## RULES
-- No new lore, kingdoms, continents, or factions invented.
-- No new character names invented — only use Avel Coss and Ossal Meln (both already exist).
-- All spell costs calculated correctly per formula above. ONE discipline per sigil.
-- Plan ONLY these 4 files. Do not add extras.
+- APPENDS ONLY. Do not alter or rewrite existing content on any page.
+- No new characters invented. Use only names that already exist in the vault.
+- No new kingdoms, factions, or lore invented. Expansion Faction already exists.
+- Each append connects to the political pressure already established — characters observe effects without naming causes.
+- Plan ONLY these 4 file targets (3 Ashford characters + Cassia). Do not add extras.
+- After each append, update the See Also for that page to include any new links introduced.
