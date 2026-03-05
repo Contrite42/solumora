@@ -1,7 +1,7 @@
 {
   "stage": "watch_run_pipeline",
-  "time": 1772701265.5281289,
-  "error": "batch_2f75acefbb6cbd77: Could not parse JSON after repairs. Saved raw to agent/staging/",
-  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Contrite42\\quartz\\agent\\orchestrator.py\", line 565, in on_modified\n    run_pipeline()\n  File \"C:\\Users\\Contrite42\\quartz\\agent\\orchestrator.py\", line 528, in run_pipeline\n    patch = step_build_batch_claude(task, ctx, seed, plan, batch)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Contrite42\\quartz\\agent\\orchestrator.py\", line 392, in step_build_batch_claude\n    patch = parse_json_or_retry_with_claude(raw, schema_hint, f\"batch_{sha(json.dumps(batch))}\")\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Contrite42\\quartz\\agent\\orchestrator.py\", line 280, in parse_json_or_retry_with_claude\n    raise RuntimeError(f\"{repair_label}: Could not parse JSON after repairs. Saved raw to agent/staging/\")\nRuntimeError: batch_2f75acefbb6cbd77: Could not parse JSON after repairs. Saved raw to agent/staging/\n",
+  "time": 1772702594.9195359,
+  "error": "name 'step_gpt_qa_and_link' is not defined",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\USers\\Contrite42\\quartz\\agent\\orchestrator.py\", line 674, in on_modified\n    run_pipeline()\n  File \"C:\\USers\\Contrite42\\quartz\\agent\\orchestrator.py\", line 648, in run_pipeline\n    step_gpt_qa_and_link(ctx, all_changed)\n    ^^^^^^^^^^^^^^^^^^^^\nNameError: name 'step_gpt_qa_and_link' is not defined\n",
   "extra": {}
 }

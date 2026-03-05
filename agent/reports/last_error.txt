@@ -1,14 +1,9 @@
 [watch_run_pipeline]
 Traceback (most recent call last):
-  File "C:\Users\Contrite42\quartz\agent\orchestrator.py", line 565, in on_modified
+  File "C:\USers\Contrite42\quartz\agent\orchestrator.py", line 674, in on_modified
     run_pipeline()
-  File "C:\Users\Contrite42\quartz\agent\orchestrator.py", line 528, in run_pipeline
-    patch = step_build_batch_claude(task, ctx, seed, plan, batch)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Contrite42\quartz\agent\orchestrator.py", line 392, in step_build_batch_claude
-    patch = parse_json_or_retry_with_claude(raw, schema_hint, f"batch_{sha(json.dumps(batch))}")
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Contrite42\quartz\agent\orchestrator.py", line 280, in parse_json_or_retry_with_claude
-    raise RuntimeError(f"{repair_label}: Could not parse JSON after repairs. Saved raw to agent/staging/")
-RuntimeError: batch_2f75acefbb6cbd77: Could not parse JSON after repairs. Saved raw to agent/staging/
+  File "C:\USers\Contrite42\quartz\agent\orchestrator.py", line 648, in run_pipeline
+    step_gpt_qa_and_link(ctx, all_changed)
+    ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'step_gpt_qa_and_link' is not defined
 
