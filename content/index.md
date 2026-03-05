@@ -5,7 +5,7 @@ A practical introduction to [[Solumora]] for anyone coming to the vault for the 
 
 ## The World in Brief
 
-[[Solumora]] is a single supercontinent — thitse only known landmass in the world — home to nearly a quarter billion people. It runs north to south, wider at its equatorial middle and narrowing toward both ends, with coastlines on all sides.
+[[Solumora]] is a single supercontinent — the only known landmass in the world — home to nearly a quarter billion people. It runs north to south, wider at its equatorial middle and narrowing toward both ends, with coastlines on all sides.
 
 The continent divides into three zones by climate and elevation. In the south, [[Auralis]] occupies a warm, low basin — partially near or below sea level — that the kingdom has spent generations engineering with [[Flux]] practice to sustain dense urban settlement. At the equator, the [[Equatorial Desert]] runs the full width of the continent, weeks to cross, impossible to go around. In the north, the land rises as you travel: [[Terravelle]] occupies the temperate upland belt, wide river valleys and open grassland that feels horizontal and enormous after the south. The far north climbs into dry mountain country, and at its extreme, built into mountain rock above the settled world, [[Wolfpoint]] sits.
 
@@ -55,10 +55,22 @@ The hunting period four hundred years ago came close to ending all of this. It d
 
 ## Where to Start
 
-- For the world: [[Solumora]] → [[Geography]] → [[Kingdoms]]
-- For the magic: [[Spells]]
-- For the north: [[Terravelle]]
-- For the south: [[Auralis]]
-- For the desert: [[Equatorial Desert]]
+**The world and its history:** [[Solumora]] → [[Geography]] → [[History of Solumora]] → [[The Three Near-Wars]]
+
+**The magic system:** [[Flux]] → [[Control Tier]] → [[Sigils]] → [[Hypertext]] → [[Hand Signs]]
+
+**The north:** [[Terravelle]] → [[Terravelle Administration]] → [[Covenant of Measure]] → [[Life in Valdenmoor]]
+
+**The south:** [[Auralis]] → [[The Council of Auralis]] → [[Ascendant Path]] → [[Life in Solhaven]]
+
+**The political conflict:** [[Drest]] → [[The Culmination Faction]] → [[Expansion Faction]] → [[Cassia]]
+
+**The ancient mystery:** [[Ancient Ruins]] → [[The Culmination Faction]] → [[Watts]] → [[Sera Voss]]
+
+**The desert border:** [[Equatorial Desert]] → [[Halveth]] → [[Rift Incursions]] → [[Flux Demons]] → [[Wren]]
+
+**Ground-level life:** [[Ordinary Life in Terravelle]] → [[Ordinary Life in Auralis]] → [[Life in Rural Terravelle]]
+
+**The thing nobody knows:** [[High Demons]] → [[Selvane]] → [[Wren]] → [[Fennick]] → [[Sorath]]
 
 *This page is an overview. Every topic links to its full page.*

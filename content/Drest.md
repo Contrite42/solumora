@@ -34,4 +34,4 @@ He believes he is helping. He is not entirely wrong. He is also not entirely rig
 
 They have a relationship that neither of them has the vocabulary for. He attends every formal occasion she hosts. He is always the last to leave.
 
-*See also: [[Cassia]], [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Emberfall]], [[Mira Solv]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Corda Lenn]]*
+*See also: [[Cassia]], [[The Council of Auralis]], [[The Culmination Faction]], [[Expansion Faction]], [[Council Members]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[The Three Near-Wars]], [[Emberfall]], [[Mira Solv]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Corda Lenn]]*

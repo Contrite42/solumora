@@ -16,13 +16,15 @@ This is not official Path doctrine. The Path's institutional hierarchy has not e
 
 ## Drest's Position
 
-[[Drest]] is not officially a member of the Culmination Faction. He does not describe himself in those terms. His stated agenda is the ruins research, the desert expeditions, and the goal of finding what the ancient civilization knew about overcoming [[natural decline]]. This is technically distinct from the Culmination Faction's position — his focus is on knowledge recovery rather than replication of an assumed achievement.
+[[Drest]] leads the Culmination Faction. He has organized his political identity and most of his significant personal resources around its central project for twenty years. He is its loudest voice in Council sessions and its most consistent funding source when the official budget is insufficient.
 
-In practice, the Faction's interpretive framework supplies the theoretical basis for Drest's research agenda. If the ruins are failure sites, the research goal is to understand what went wrong and avoid it. If they are success sites, the research goal is to understand what went right and replicate it. Drest's funding priorities, expedition directives, and research emphases align more closely with the second goal than the first. He does not say this publicly.
+His personal framing differs slightly from the faction's more philosophical wing. Where some members articulate the goal as replication — doing what the ancient civilization did, achieving what they achieved — Drest tends to speak in terms of recovery: finding what they knew, extracting the mechanism that defeats natural decline. This is not a substantive disagreement about the faction's goal. It is a presentational preference that allows him to advance the same agenda in Council settings where the transcendence interpretation would invite skepticism.
+
+What he does not say publicly: the correlation between the anomalous Flux sites and active rift zones suggests that the original event that produced the sites is still ongoing in some form. The rifts are where [[Flux Demons]] emerge into inhabited territory. Closing them would reduce the Flux density at exactly the sites the faction needs to study. His position on rift management is consistent with his faction's research interests. He does not explain this connection openly. He does not need to.
 
 ## The Expansion Faction
 
-The [[Expansion Faction]] and the Culmination Faction are not the same group, though their memberships overlap significantly. The Expansion Faction's agenda is political and territorial — asserting [[Auralis]] dominance over the desert and over [[Terravelle]], acquiring strategic advantage through incremental pressure. The Culmination Faction's agenda is philosophical and ultimately transformative — achieving something unprecedented, not consolidating something familiar.
+The [[Expansion Faction]] and the Culmination Faction are not the same group. The Expansion Faction's agenda is political and territorial — asserting [[Auralis]] dominance over the desert and over [[Terravelle]], acquiring strategic advantage through incremental pressure. The Culmination Faction's agenda is philosophical and ultimately transformative — achieving something unprecedented, not consolidating something familiar.
 
 What they share is a conviction that the current balance is not the final state of things. This shared conviction is enough to produce consistent voting alignment in Council sessions where both agendas point in the same direction. It is not enough to eliminate the friction when they point in different directions — when Expansion pushes for military deployment and Culmination wants expedition funding, they compete for the same Council resources.
 
@@ -34,4 +36,4 @@ The Faction's practical achievements: the anomalous site expeditions are funded 
 
 The goal is not imminent. The Faction has been working toward it for decades and expects to continue working toward it for decades more. What has changed in the recent period is that the ruins research has produced partial translations, the anomalous sites have been more extensively mapped, and [[Drest]] has moved from patient accumulation to something that looks more like preparation.
 
-*See also: [[The Council of Auralis]], [[Drest]], [[Ancient Ruins]], [[Ascendant Path]], [[Expansion Faction]], [[Auralis]], [[Aldric Mourne]], [[Emberfall]], [[Rett Soln]], [[Tessel Dran]]*
+*See also: [[The Council of Auralis]], [[Drest]], [[Ancient Ruins]], [[Ascendant Path]], [[Expansion Faction]], [[Auralis]], [[Aldric Mourne]], [[Emberfall]], [[Rift Incursions]], [[Rett Soln]], [[Tessel Dran]]*
