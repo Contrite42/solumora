@@ -44,4 +44,4 @@ The [[Flux Users|Scholar]] community has not yet formally classified Hypertext w
 
 Whether Hypertext represents an evolution of the sigil system or a parallel path that will eventually diverge entirely is a question [[Wolfpoint]] is still in the process of answering.
 
-*See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]]*
+*See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]], [[Mell Rask's Letters]]*

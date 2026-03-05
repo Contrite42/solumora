@@ -6,4 +6,4 @@ Her T2 casting is used almost entirely for documentation verification and cargo 
 
 [[Greyveil]]'s other economy — the transient population of [[Hypertext]] practitioners and researchers passing through from [[Wolfpoint]] — intersects with her work occasionally when expedition logistics require factors services. She has handled this work without particular curiosity. The researchers need cargo priced and documented the same as anyone else.
 
-*See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]]*
+*See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]], [[Saven Dorn]]*
