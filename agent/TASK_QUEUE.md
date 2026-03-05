@@ -90,13 +90,13 @@ Blocked tasks are marked with their dependency.
 
 ## NEXT PIPELINE — Grimoire & Spell Development
 
-- [ ] **TASK-12** — Create `content/WrittenWorks/The Zakros Crossing Compendium.md`
+- [x] **TASK-12** — Create `content/WrittenWorks/The Zakros Crossing Compendium.md`
   Published survival grimoire. Author: Avel Coss (T4 desert guide) writing from field experience. Curated selection of ~12 spells from Common+Uncommon focused on desert crossing survival: thermal management, air filtration, fauna detection, structural shelter, rift-sign detection. Includes author's notes on which spells degrade under Zakros wind conditions and which to prioritize when reserves are low. Tone: spare, practical, slightly grim. Written Works format.
 
-- [ ] **TASK-13** — Create `content/WrittenWorks/Fifteen Sigils for the Young Practitioner.md`
+- [x] **TASK-13** — Create `content/WrittenWorks/Fifteen Sigils for the Young Practitioner.md`
   Educational T1 grimoire, guild-published (Valdenmoor Trade Guild). Not attributed to a single author — guild committee production. 15 T1 spells selected for teaching sequence, with margin notes from a specific copy owner (a parent? an apprentice master?). Notes on common errors, safety, which to teach first. The copy we see has been annotated by hand. Tone: pedagogical but human. Written Works format.
 
-- [ ] **TASK-14** — Append new spell entries to `content/All Grimoire.md` and relevant tier pages
+- [x] **TASK-14** — Append new spell entries to `content/All Grimoire.md` and relevant tier pages
   Add 6-8 new spells that fill obvious gaps:
   - **Dustlock** (T2): Chemical discipline, keeps particulate out of sigil surfaces and book pages. Critical for Zakros use.
   - **Heatshield** (T2): Heat discipline, sustained personal thermal buffering. More robust version of Warmbreath.
@@ -106,7 +106,7 @@ Blocked tasks are marked with their dependency.
   - **Riftsense** (T3): Raw discipline, detects dimensional instability / rift formation probability in an area. Uncommon tier.
   Each entry must follow All Grimoire table format exactly. Watt costs must be calculated correctly per the formula.
 
-- [ ] **TASK-15** — Create `content/WrittenWorks/Ossal Meln's Workshop Notes.md`
+- [x] **TASK-15** — Create `content/WrittenWorks/Ossal Meln's Workshop Notes.md`
   Ossal Meln (T3 Flux-embedded objects craftsperson, Valdenmoor) developing a new embedded object configuration. Shows iterative process: failed attempt at a combined thermal+light embedded sigil, cost calculation error, revised approach, final working configuration. Tone: craftsperson's notebook, numbers-heavy, brief. This is where new spell development is visible as a process.
 
 ---
@@ -139,3 +139,4 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | TASK.md | Written | Fix pipeline failures + 4 unblocked narrative tasks. Ready to run. |
 | 2026-03-05 | Pipeline run | All 4 batches approved | TASK-03/04/05/06 + FIX-1c complete. Ostal Mrev duplicate cleaned. |
 | 2026-03-05 | Pipeline run | TASK-01 + TASK-08 complete | Equatorial Desert expanded (Desert Edge + Rift Encounters). Life in Halveth: Selt Orvn + Vorn Teld in body. Duplicate See Also and misplaced paragraphs fixed manually. |
+| 2026-03-05 | Pipeline run | TASK-12/13/14/15 complete | Grimoire batch: Zakros Compendium, Fifteen Sigils, All Grimoire appended (4 spells), Ossal Meln Workshop Notes. Batch 2 rejected (planner dupe). claimed.md + planner constraint fix applied. |

@@ -4,7 +4,7 @@ This file is loaded by the pipeline planner to prevent re-creating or re-appendi
 
 **RULE: Do NOT include any path listed here in the plan's notes array unless TASK.md explicitly targets that file for an append.**
 
-## Existing Content Files (568 total)
+## Existing Content Files (571 total)
 
 content/Acidpool.md
 content/Acidspray.md
@@ -566,9 +566,12 @@ content/World Index Draft.md
 content/World Primer.md
 content/Worldscar.md
 content/Wren.md
+content/WrittenWorks/Fifteen Sigils for the Young Practitioner.md
+content/WrittenWorks/Ossal Meln's Workshop Notes.md
 content/WrittenWorks/Ostal Mrev's Consultation Notes.md
 content/WrittenWorks/Osvin Brack's Assessment Ledger.md
 content/WrittenWorks/Rell Hadv's Certification Notes.md
+content/WrittenWorks/The Zakros Crossing Compendium.md
 content/WrittenWorks/Toven Ral's Journal.md
 content/Yara Venn.md
 content/Yena Falt.md
