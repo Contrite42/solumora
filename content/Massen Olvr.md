@@ -1,0 +1,11 @@
+**Massen Olvr** is forty-two years old and has worked the cargo docks in [[Valdenmoor]]'s lower river district for nineteen years. He assessed [[Control Tier|T0]] at nine. The guild system that structures skilled work in Valdenmoor has no formal tier floor for dock labor — loading, sorting, and physical maintenance do not require Flux application and so do not require guild certification. Massen has worked in this gap his entire adult life.
+
+[[Terravelle]] does not have the [[Ascendant Path]]'s doctrinal framework for T0s. There is no ceremony that says the journey continues without casting, no Luminant who explains that witness and contemplation are valid forms of participation. What Terravelle has instead is the market, which does not require consolation because it does not notice. The dock work is physically demanding, pays adequately, and is available consistently. These are the parameters Massen works with.
+
+He is not bitter about this in any active way. He is forty-two and has been this tier for thirty-three years, and the people who require sustained bitterness to explain their situation to themselves have generally worked it out by thirty. He understands what his tier means without making it the central fact about himself, because the alternative is to make it the central fact about himself.
+
+What he notices, in the way of someone who has spent nineteen years at the margins of an economy organized around a thing he cannot do: the guild structure is more flexible than it presents. There are ways through and around and adjacent. He knows which practitioners in the lower district take work they'd prefer not to officially document. He knows which guild assessors do rigorous certification checks and which do not. This knowledge is not useful to him directly, but it has been useful to people who have helped him, and Massen keeps track of things that might eventually balance out.
+
+He lives with his partner — [[Control Tier|T2]], guild-certified in textile work — in a two-room apartment above a repair shop. They have been together twelve years. She does not treat his tier as a deficit in the way that the guilds implicitly do, and he has learned that this is rarer than it sounds.
+
+*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]*

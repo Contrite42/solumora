@@ -46,4 +46,4 @@ The assessors who conduct certification examinations are senior certified member
 
 Assessors have discretionary authority in how they conduct examinations but not in what standards they apply — the standards are set by guild review committees and revised periodically. An assessor who believes a standard is inadequate or outdated can raise the concern with the review committee, who will note it. Whether the committee acts is a separate question.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Covenant of Measure]], [[Ordinary Life in Terravelle]], [[Osvin Brack]], [[Osvin Brack's Assessment Ledger]], [[Sable Morn]], [[Keld Dast]]*
+*See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Covenant of Measure]], [[Ordinary Life in Terravelle]], [[Osvin Brack]], [[Osvin Brack's Assessment Ledger]], [[Sable Morn]], [[Keld Dast]], [[Rell Hadv]], [[Ostal Mrev]], [[Massen Olvr]]*

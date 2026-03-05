@@ -1,0 +1,11 @@
+**Neven Cors** is thirty-two years old and has been working in [[Solhaven]]'s commercial district for seven years. [[Control Tier|T5]]. He assessed at eleven, received the [[Ascendant Path]]'s high-tier notification within the week, and spent the following year in the specialized advancement track that T5+ candidates are directed toward. He completed the track. He has been politely declining further Path involvement for four years.
+
+The Path's position on this is that it has not pushed, because it does not push. What it has done is maintain regular contact — a senior Luminant in Solhaven's Path house has met with Neven six times over four years, at intervals that are not quite regular enough to feel scheduled. The meetings are framed as pastoral. Neven understands them as pastoral and as something else.
+
+His commercial work is [[Flux Users|Flux]] verification — the standard application for T5 in a trading city, used for high-value cargo certification and [[Watts]] ledger authentication. He is technically capable of doing work above this tier level. He does not take that work because the clients who require T5+ verification for legitimate purposes also require more engagement with the institutional apparatus than Neven wants, and the clients who require it for other purposes are a different problem.
+
+He finds the Flux work itself uninteresting in a way that is not exactly dissatisfaction. He is good at it and it does not engage him. What engages him is the structural logic of the verification systems themselves — how the ledger works, what the Sigils are actually doing when they authenticate a record, what the gap is between the system's formal claims and its actual mechanism. He has not done anything with this interest. It has the quality of a question he is not yet ready to pursue.
+
+The Path is aware of this interest in the way that the Path tends to be aware of things. Neven is aware that it is aware. He has not decided whether this is a reason to pursue the interest or a reason not to.
+
+*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Watts]], [[Ordinary Life in Auralis]], [[Tier Assessment]]*
