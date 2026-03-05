@@ -1,0 +1,9 @@
+**Lorn Seld** is thirty-one years old and works the evening shift at one of [[Hedun]]'s mid-range bluff establishments — the kind of place that fills every night, never needs a reservation, and has been operating under the same name for longer than any current employee has been alive. He pours drinks, manages the part of the room that needs managing, and is good enough at the job that the shift lead rarely has to think about his section.
+
+He assessed [[Control Tier|T1]] at ten. He has never used his casting for anything in a professional context. The establishment does not require it. He used it once, years ago, to warm a coat for someone who was cold and had forgotten theirs at the door, and the person thanked him, and that is the full history of his professional Flux use.
+
+He has met [[Fennick]] four times that he can identify — Fennick is a regular, recognizable by the particular ease of someone who has been in the same city a long time, comfortable enough that his presence doesn't require work. Lorn does not find this remarkable. Hedun has a lot of people who have apparently always been there. The man orders the same drink, tips well, and occasionally says something interesting to whoever he is with. Lorn has repeated one of these things to a colleague because it was the kind of observation that stays with you. The colleague agreed it was good. Lorn cannot now remember what it was specifically.
+
+He is not curious about Fennick in any particular way. He is not incurious either. He has a working model of regulars built up over six years of the same shift, and Fennick fits the model without straining it, which is the primary criterion by which Lorn categorizes the people he sees every week.
+
+*See also: [[Hedun]], [[Life in Hedun]], [[Fennick]], [[Flux Users]], [[Ordinary Life in Auralis]]*

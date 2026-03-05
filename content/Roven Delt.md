@@ -1,0 +1,11 @@
+**Roven Delt** is forty-four years old and lives in a small settlement in the disputed territory north of [[Auralis]] — the band of land between the kingdom's formal administrative boundary and the approaches to the [[Equatorial Desert]]. His family has been in this settlement for three generations. No kingdom has ever made a sustained effort to formally administer it.
+
+This is mostly fine. The settlement trades with both kingdoms, follows neither kingdom's laws in any strict sense, and handles its internal matters through the kind of informal authority that develops in communities too small and too far from centers of power to attract formal governance. Roven runs the settlement's only wayhouse, handles the supply relationships with passing traders, and is the person most people consult when a question involves the outside world.
+
+He assessed [[Control Tier|T2]] when a traveling assessor came through twenty-six years ago. The assessor came from an [[Auralis]] chapter and delivered the result in terms that implied the [[Ascendant Path]]'s framework. Roven's family followed the [[Covenant of Measure]] in the general way of people who are too far from any formal institution to have strong theological commitments, and received the Path framing without particular interest.
+
+The tension between [[Terravelle]] and [[Auralis]] that he hears about in trading conversations has a specific texture at ground level in the disputed zone: neither kingdom is currently doing anything to administer his settlement, but both have begun appearing in the area with more frequency. [[Terravelle]] is running survey operations along the eastern edge. [[The Advancement Corps]] passed through twice in the last year with what they described as routine flux density surveys. Roven provided them hospitality both times, answered their questions accurately, and watched them go without feeling that he understood what they were actually doing.
+
+He does not think his settlement is about to be absorbed or contested. He thinks his settlement is about to become relevant to people who have not previously found it relevant, which in his experience is the version of this situation that requires the most careful attention.
+
+*See also: [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[The Advancement Corps]], [[Halveth]], [[Ordinary Life]]*

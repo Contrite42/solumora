@@ -1,0 +1,9 @@
+**Brenne Kalt** is thirty-six years old and works as a factors agent in [[Greyveil]]'s ore district — the person between the mining operations and the merchant buyers, managing the pricing, documentation, and logistics that sit between extraction and sale. She assessed [[Control Tier|T2]] at nine, trained through a commercial certification track in her teens, and has been in the factors work for twelve years.
+
+The ore economy is Greyveil's original economy, and factors work in the ore district has a specific texture: the clients are mostly operations that have been running for a generation or more, the pricing relationships are established and move slowly, and the work is less about finding new buyers than about maintaining the existing ones and knowing when the terms need to shift. She has made her professional reputation on the second of these. The mine operations trust that she will tell them when the terms need to shift before they become a problem rather than after.
+
+Her T2 casting is used almost entirely for documentation verification and cargo sealing — standard commercial applications that she could do with her eyes closed after twelve years. She is better at the human side of the work: reading when a mining operation manager is worried about something they have not said, knowing which buyers respond to which framings, understanding that the long-term relationship is almost always more valuable than the individual transaction.
+
+[[Greyveil]]'s other economy — the transient population of [[Hypertext]] practitioners and researchers passing through from [[Wolfpoint]] — intersects with her work occasionally when expedition logistics require factors services. She has handled this work without particular curiosity. The researchers need cargo priced and documented the same as anyone else.
+
+*See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]]*
