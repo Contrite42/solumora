@@ -13,3 +13,17 @@ She is designing a second test. The second test will be larger, more complex, st
 [[Ysel Voss]] does not know about the test or its results. [[Cael]] does not know. Sera has not discussed this development with anyone at Wolfpoint, including the senior practitioners who have been following her research with interest. The response raises questions about the nature of the ancient civilization's infrastructure that extend beyond academic curiosity into practical implications for both kingdoms' economic systems. Until she understands what she has found, she is keeping it contained.
 
 *See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]]*
+
+## The First Test
+
+Sera has designed a minimal [[Flux]] signal structured to match the pattern she identified in the [[Watts]] ledger infrastructure. The signal is deliberately small — barely above the threshold of detection, carrying no meaningful data, designed only to determine whether the network's response mechanisms are still active. She channels it through a standard transaction node in [[Wolfpoint]], routing it as if it were a routine ledger query but with the underlying structure modified to match the ancient patterns she has found in her research.
+
+Something responds. Not a voice, not a message — a change in the ledger entry format that was not there before. Brief, structured, in a notation she does not fully recognize but that resembles ancient sigil fragments from her research. The response appears in the transaction log for exactly long enough for her to copy it, then reverts to the standard format as if nothing had happened.
+
+She tells no one. The response is recorded separately from her other research, in notes she keeps in her private workspace rather than the formal archive. The notation system used in the response is partially familiar — some symbols match references she has found in [[Ancient Ruins]] documentation, others appear to be variations on current sigil vocabulary, and several are entirely unknown. The structure suggests a reply rather than an echo, but a reply to what question she cannot determine.
+
+She is designing a second test. The second test will be larger, more specific, designed to probe whether the response was automated acknowledgment or something more complex. She has not decided whether to inform [[Ysel Voss|Ysel]] or [[Cael]] before proceeding. The response she received suggests the network is not simply a passive ledger system — it may be capable of interaction, recognition, or analysis in ways that neither kingdom has suspected. What that means for the stability of the currency system, or for the political implications of her research, she has not yet determined.
+
+The test was conducted three days ago. She has reviewed the response notation daily since then, looking for additional meaning or context she might have missed. The symbols remain partially opaque, but the structure becomes clearer with repeated examination. It appears to be confirmation of receipt followed by a status indicator she cannot interpret, followed by what might be a request for additional information. If her reading is correct, the network is waiting for her to send something more specific.
+
+*See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]], [[Flux]], [[Sigils]], [[Hypertext]]*
