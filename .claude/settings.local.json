@@ -11,7 +11,8 @@
       "Skill(claude-developer-platform)",
       "Skill(claude-developer-platform:*)",
       "Bash(gh run list --repo Contrite42/solumora --limit 5)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(python3 -:*)"
     ]
   }
 }
