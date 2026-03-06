@@ -77,3 +77,17 @@ He has been in this business long enough to know the difference between friction
 This is signal. He is not yet sure what it is signaling, but it is not random. The informal network he relies on — the relationships that make cross-border commerce practical rather than theoretical — is responding to pressure he cannot see. The pressure has a direction. The direction has not been stated.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+The informal indicators he reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. Orre has been working cross-border trade for eleven years. He knows the difference between seasonal variation, policy adjustment, and something else. This is something else.
+
+Two of his longer relationships on the Auralis side have become careful. Not hostile, not suspicious, but careful in ways that suggest they are operating under constraints they cannot discuss. Meren Voss, who has cleared his documentation for three years without issue, now asks questions about shipment origins that she never asked before. Tald Orrn takes longer to process manifests and uses language that sounds like he is reading from a script rather than speaking from experience.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. No explanation offered. No violation cited. The cargo was released without comment on the fourth day, as if the delay had not happened. When he asked about the hold-up, the response was administrative language that meant nothing and explained nothing.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random — delays here, expedited processing there, individual officials having good days or bad days. Signal is directional. The changes he is observing have a direction. They point toward more scrutiny, more documentation, more time spent on transactions that used to be routine.
+
+The direction has not been stated. The policy has not been announced. But the pattern is consistent enough that he has started building additional time into his crossing schedules and carrying backup documentation for shipments that should not require it. He is not yet sure which this is — friction or signal — but he is preparing for it to be signal, because the cost of being wrong about that is higher than the cost of extra preparation.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*

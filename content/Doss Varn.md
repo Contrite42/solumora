@@ -73,3 +73,17 @@ One of his contacts at the command post — Sergeant Mira Keld, who has been sta
 He is recording what he sees. The patterns, the changes, the small inconsistencies that accumulate over weeks of observation. He does not know what it means. He knows his job is to document, not to interpret. But the shift is real, and he is the one positioned to see it.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+His briefings have changed in tone over the past year. The shift is not dramatic — no new orders, no explicit policy changes — but the emphasis has moved in ways that Doss has learned to notice. Documentation protocols arrived without explanation in late spring. Forms that used to be weekly are now daily. Travelers with Terravelle papers get logged with additional detail fields that were not there before.
+
+More travelers with Terravelle papers than he has seen before, actually. Not dramatically more, but enough to be noticeable when you work the same checkpoint every day for four years. The pattern is consistent enough that he mentioned it to Kess Aldorn at the Ashford command post during their monthly coordination meeting. Kess told him to log everything carefully, which she has never said before. She did not explain why.
+
+Doss is recording what he sees. Departure times, stated destinations, cargo manifests when they are volunteered, the general demeanor of crossing parties. He does not know what it means, but he has been a border guard long enough to understand that when your supervisor starts asking for careful logs without explaining why, the careful logs matter for reasons you are not being told about.
+
+The travelers themselves seem normal. Same mix of merchants, expedition parties, and occasional independent operators that has always moved through this crossing point. If there is a pattern in who they are or what they are carrying, it is not visible to him at checkpoint level. But the frequency has shifted, and the briefing tone has shifted, and Kess has started asking questions she did not ask before.
+
+He keeps the logs. He does his job. He watches for whatever it is that someone expects him to notice, even though no one has told him what that might be.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*

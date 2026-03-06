@@ -47,44 +47,81 @@
   border: 1px solid color-mix(in srgb, var(--gray) 42%, transparent);
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--tertiary) 22%, var(--light) 78%) 0%,
-    color-mix(in srgb, var(--secondary) 13%, var(--light) 87%) 100%
+    color-mix(in srgb, var(--tertiary) 28%, var(--light) 72%) 0%,
+    color-mix(in srgb, var(--secondary) 20%, var(--light) 80%) 42%,
+    color-mix(in srgb, var(--darkgray) 12%, var(--light) 88%) 100%
   );
 }
 
 .solumora-map-continent {
-  fill: color-mix(in srgb, var(--light) 86%, var(--gray) 14%);
-  stroke: color-mix(in srgb, var(--darkgray) 45%, var(--gray) 55%);
-  stroke-width: 2;
+  fill: color-mix(in srgb, var(--light) 84%, var(--gray) 16%);
+  stroke: color-mix(in srgb, var(--darkgray) 52%, var(--gray) 48%);
+  stroke-width: 2.4;
 }
 
 .solumora-zone {
-  stroke-width: 1.6;
-  fill-opacity: 0.28;
+  stroke-width: 0;
+  fill-opacity: 0.42;
 }
 
 .solumora-zone--north {
-  fill: color-mix(in srgb, var(--secondary) 46%, var(--light) 54%);
-  stroke: color-mix(in srgb, var(--secondary) 72%, var(--darkgray) 28%);
+  fill: color-mix(in srgb, var(--secondary) 48%, transparent);
 }
 
 .solumora-zone--desert {
-  fill: color-mix(in srgb, #c78d3a 50%, var(--light) 50%);
-  stroke: color-mix(in srgb, #9a6524 72%, var(--darkgray) 28%);
+  fill: color-mix(in srgb, #c78d3a 58%, transparent);
 }
 
 .solumora-zone--south {
-  fill: color-mix(in srgb, var(--tertiary) 60%, var(--light) 40%);
-  stroke: color-mix(in srgb, var(--tertiary) 80%, var(--darkgray) 20%);
+  fill: color-mix(in srgb, var(--tertiary) 62%, transparent);
+}
+
+.solumora-lat-line {
+  stroke: color-mix(in srgb, var(--light) 30%, var(--darkgray) 70%);
+  stroke-width: 2;
+  stroke-dasharray: 8 8;
+  opacity: 0.65;
+}
+
+.solumora-zone-tag {
+  rect {
+    stroke: color-mix(in srgb, var(--light) 44%, var(--darkgray) 56%);
+    stroke-width: 1.2;
+  }
+
+  &--north rect {
+    fill: color-mix(in srgb, var(--secondary) 56%, var(--light) 44%);
+  }
+
+  &--desert rect {
+    fill: color-mix(in srgb, #c78d3a 62%, var(--light) 38%);
+  }
+
+  &--south rect {
+    fill: color-mix(in srgb, var(--tertiary) 62%, var(--light) 38%);
+  }
 }
 
 .solumora-zone-label {
   text-anchor: middle;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: 700;
-  letter-spacing: 0.05em;
-  fill: color-mix(in srgb, var(--darkgray) 86%, var(--light) 14%);
+  letter-spacing: 0.03em;
+  fill: color-mix(in srgb, var(--darkgray) 88%, var(--light) 12%);
   pointer-events: none;
+}
+
+.solumora-route {
+  fill: none;
+  stroke-linecap: round;
+  stroke-width: 2.2;
+  pointer-events: none;
+}
+
+.solumora-route--zakros {
+  stroke: color-mix(in srgb, #7f5a23 60%, var(--darkgray) 40%);
+  stroke-dasharray: 7 7;
+  opacity: 0.78;
 }
 
 .solumora-map-marker {
@@ -93,14 +130,14 @@
 
   line {
     stroke: color-mix(in srgb, var(--light) 35%, var(--darkgray) 65%);
-    stroke-width: 2;
+    stroke-width: 1.8;
     stroke-linecap: round;
   }
 
   circle {
-    fill: #cb5e26;
+    fill: #1f8f5c;
     stroke: var(--light);
-    stroke-width: 2;
+    stroke-width: 2.2;
     transition:
       transform 0.2s ease,
       fill 0.2s ease,
@@ -110,21 +147,21 @@
 
   text {
     fill: var(--dark);
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     paint-order: stroke;
-    stroke: color-mix(in srgb, var(--light) 96%, transparent);
-    stroke-width: 4;
+    stroke: color-mix(in srgb, var(--light) 94%, transparent);
+    stroke-width: 3;
     pointer-events: none;
   }
 
   &:hover circle {
-    fill: color-mix(in srgb, var(--secondary) 66%, #cb5e26 34%);
+    fill: color-mix(in srgb, #2baf74 70%, var(--secondary) 30%);
     transform: scale(1.15);
   }
 
   &.is-active circle {
-    fill: color-mix(in srgb, #1f8f5c 72%, var(--tertiary) 28%);
+    fill: color-mix(in srgb, #1f8f5c 82%, var(--tertiary) 18%);
   }
 
   &.is-missing {
@@ -153,10 +190,10 @@
   }
 
   .solumora-zone-label {
-    font-size: 17px;
+    font-size: 15px;
   }
 
   .solumora-map-marker text {
-    font-size: 16px;
+    font-size: 14px;
   }
 }

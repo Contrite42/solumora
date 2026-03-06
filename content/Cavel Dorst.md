@@ -59,3 +59,21 @@ Cavel maintains two sets of records now. The official compliance documentation t
 He does not know what the [[Expansion Faction]] is planning. He knows that something is being prepared, and that the preparation includes creating detailed records of exactly what moves between the kingdoms, when, and through whose hands. When the audit comes — and he believes it will come — he will be ready for it. More importantly, he will have records of what the normal pattern looked like before it changed.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+
+## The Audit That Hasn't Come
+
+Guild documentation requirements have shifted three times in eight months, each time in the direction of more granular reporting on cross-border shipments. His contacts at the guild say the changes come from Auralis-side regulatory pressure, though they use careful language about this. He has updated his compliance protocols ahead of each change because he learned years ago that being prepared for an audit that never comes costs less than being unprepared for one that does.
+
+The changes have a direction. The direction has not been stated. He has documented what he observes.
+
+The first shift required itemized manifests for any shipment containing more than three distinct product categories crossing into [[Auralis]]. Previously, general category descriptions had been sufficient. The second shift required origin documentation for any goods sourced from more than fifty kilometers outside [[Ashford]]. The third shift required dual verification signatures on any shipment valued above 2,000 [[Watts]] — one from the merchant house, one from an independent assessor.
+
+Each change arrived with explanatory language about "improved trade transparency" and "enhanced commercial reliability." Each change added approximately four hours of documentation work per major shipment. Each change applied retroactively to pending shipments, creating compliance gaps that had to be resolved before goods could clear.
+
+Cavel has been managing cross-border commerce for eleven years. He recognizes the pattern of regulatory pressure that precedes policy shifts. The guild representatives who deliver the new requirements do not make eye contact the way they used to. They read from prepared statements and deflect questions about implementation timeline. They have been told what to say and what not to say.
+
+He maintains three sets of records now: the official compliance documentation required by current guild standards, a parallel tracking system that captures the information he suspects will be required by the next shift, and a private log of which [[Valdenmoor]] suppliers have started asking questions about [[Auralis]] market access that they did not ask six months ago. The suppliers have noticed something. They are not sure what. Neither is he.
+
+The audit that hasn't come will arrive when someone decides it should arrive. When it does, his house will be ready. The question he cannot answer is what the audit will be looking for, and whether being ready for an audit is the same as being ready for whatever the audit is designed to accomplish.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*

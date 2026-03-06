@@ -18,8 +18,44 @@ interface MapMarker {
   labelDy?: number
 }
 
+interface ZoneBand {
+  id: string
+  label: string
+  y: number
+  height: number
+  labelX: number
+  labelY: number
+}
+
 const CONTINENT_PATH =
   "M420 40 L575 40 L675 115 L760 250 L826 430 L853 630 L841 856 L804 1044 L756 1220 L672 1368 L572 1458 L432 1458 L322 1365 L250 1216 L196 1024 L157 854 L147 640 L174 444 L250 260 L335 120 Z"
+
+const ZONE_BANDS: ZoneBand[] = [
+  {
+    id: "north",
+    label: "Terravelle Uplands",
+    y: 150,
+    height: 470,
+    labelX: 250,
+    labelY: 290,
+  },
+  {
+    id: "desert",
+    label: "Equatorial Desert Zakros",
+    y: 620,
+    height: 300,
+    labelX: 228,
+    labelY: 790,
+  },
+  {
+    id: "south",
+    label: "Auralis Basin",
+    y: 920,
+    height: 500,
+    labelX: 250,
+    labelY: 1080,
+  },
+]
 
 const MAP_MARKERS: MapMarker[] = [
   {
@@ -138,48 +174,41 @@ export default (() => {
             <filter id="solumora-map-shadow" x="-20%" y="-20%" width="140%" height="140%">
               <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.2" />
             </filter>
+            <clipPath id="solumora-continent-clip">
+              <path d={CONTINENT_PATH} />
+            </clipPath>
           </defs>
 
-          <path
-            class="solumora-map-continent"
-            d="M420 40 L575 40 L675 115 L760 250 L826 430 L853 630 L841 856 L804 1044 L756 1220 L672 1368 L572 1458 L432 1458 L322 1365 L250 1216 L196 1024 L157 854 L147 640 L174 444 L250 260 L335 120 Z"
-            filter="url(#solumora-map-shadow)"
-          />
+          <path class="solumora-map-continent" d={CONTINENT_PATH} filter="url(#solumora-map-shadow)" />
 
-          <rect
-            class="solumora-zone solumora-zone--north"
-            x="220"
-            y="154"
-            width="560"
-            height="452"
-            rx="26"
-          />
-          <rect
-            class="solumora-zone solumora-zone--desert"
-            x="194"
-            y="618"
-            width="610"
-            height="304"
-            rx="26"
-          />
-          <rect
-            class="solumora-zone solumora-zone--south"
-            x="196"
-            y="936"
-            width="590"
-            height="452"
-            rx="26"
-          />
+          <g class="solumora-zone-bands" clip-path="url(#solumora-continent-clip)">
+            {ZONE_BANDS.map((zone) => (
+              <rect
+                class={`solumora-zone solumora-zone--${zone.id}`}
+                x="140"
+                y={zone.y}
+                width="740"
+                height={zone.height}
+                rx="0"
+              />
+            ))}
 
-          <text class="solumora-zone-label" x="500" y="176">
-            Terravelle Uplands
-          </text>
-          <text class="solumora-zone-label" x="500" y="760">
-            Equatorial Desert Zakros
-          </text>
-          <text class="solumora-zone-label" x="500" y="1024">
-            Auralis Basin
-          </text>
+            <line class="solumora-lat-line" x1="150" x2="850" y1="620" y2="620" />
+            <line class="solumora-lat-line" x1="150" x2="850" y1="920" y2="920" />
+          </g>
+
+          <path class="solumora-route solumora-route--zakros" d="M688 666 C668 744 670 840 684 906" />
+
+          <g class="solumora-zone-labels">
+            {ZONE_BANDS.map((zone) => (
+              <g class={`solumora-zone-tag solumora-zone-tag--${zone.id}`} transform={`translate(${zone.labelX} ${zone.labelY})`}>
+                <rect x="-8" y="-23" width="274" height="36" rx="10" />
+                <text class="solumora-zone-label" x="129" y="1">
+                  {zone.label}
+                </text>
+              </g>
+            ))}
+          </g>
 
           {MAP_MARKERS.map((marker) => {
             const alignment = marker.align ?? "right"

@@ -97,3 +97,23 @@ What she is doing with it: She is writing. Not correspondence — private notes,
 She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
 
 *See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+
+## What She Knows
+
+Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
+
+What she knows: [[The Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
+
+What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
+
+She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
+
+The acceleration she documents is not dramatic. It is systematic. Council session attendance patterns have shifted. Resource allocation discussions that used to require three meetings now conclude in one. The language used in territorial assessment reports has become more specific about [[Terravelle]] infrastructure vulnerabilities and less specific about the rationale for collecting that information. Drest's questions during briefings have acquired a precision that suggests he is working from information sources that do not appear in the materials distributed to the full Council.
+
+She cannot prove coordination between the Expansion Faction members because coordination that can be proven is coordination that was done poorly. What she can document is the pattern of their individual behaviors, and the pattern has a shape. The shape suggests preparation for something that has not been announced.
+
+Her cipher is simple enough to use quickly and complex enough that casual inspection will not reveal content. She writes in it during Council sessions, in the margins of briefing materials, in spaces that look like note-taking but are not notes about what is being discussed. She writes what she observes, when she observed it, and what questions the observation raises. She does not write speculation. She does not write conclusions. She writes what happened and lets the pattern speak for itself.
+
+The pattern says that the Expansion Faction believes something is going to happen soon enough that they need to be ready for it. Whether they are preparing to cause it or to respond to it is not clear from her observations. Either way, they are preparing.
+
+*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
