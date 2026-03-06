@@ -30,5 +30,4 @@ Use the tiered grimoires as canonical spell references:
 ## Sigil Maker Generated Spells
 
 
-- [[Spells/Sonic Resonant Blast|Sonic Resonant Blast]] - 114 W - T2 (Common)
-- [[Spells/Chainring|Chainring]] - 1375 W - T5 (Rare)
+
