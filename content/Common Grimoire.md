@@ -1266,3 +1266,39 @@ A spell that moves effects using heat magic.
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
 
+
+---
+
+**Sound Wave Disturbance**
+The spell creates a localized sonic disturbance that affects a surface area within its own self-contained radius.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Trigger |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Sonic Resonant Blast**
+The spell creates a focused sonic blast emanating from the caster's body that affects and resonates with surfaces within their immediate surroundings.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Sense |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+

@@ -1,0 +1,18 @@
+{
+  "name": "Sound Wave Disturbance",
+  "summary": "The spell creates a localized sonic disturbance that affects a surface area within its own self-contained radius.",
+  "effect_description": "The spell creates a localized sonic disturbance that affects a surface area within its own self-contained radius. A square trigger/create recipe that channels sound discipline into sonic output. It applies a cone pattern against surface across self reach with immediate persistence.",
+  "hook": "Trigger",
+  "mode": "Create",
+  "shape": "Square",
+  "discipline": "Sound",
+  "output_mode": "Sonic",
+  "pattern": "Cone",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Surface",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.07,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

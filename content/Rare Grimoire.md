@@ -461,3 +461,21 @@ A spell that amplifies effects using soul magic.
 | Persistence | _(default - Immediate)_ |
 | Target | Self |
 
+
+---
+
+**Chainring**
+A spell that amplifies effects using binding magic.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Ring |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Group |
+

@@ -27,3 +27,7 @@ _A note on Pale classification: Pale spells are not simply powerful. They are sp
 - [[Spells/Forcebeam|Forcebeam]] - 78 W - T2 - [[Common Grimoire|Common]]
 - [[Spells/Shockfield|Shockfield]] - 265 W - T3 - [[Uncommon Grimoire|Uncommon]]
 - [[Spells/Heatring|Heatring]] - 32 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Sound Wave Disturbance|Sound Wave Disturbance]] - 97 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Mind Triangle Field|Mind Triangle Field]] - 493 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Sonic Resonant Blast|Sonic Resonant Blast]] - 114 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Chainring|Chainring]] - 1375 W - T5 - [[Rare Grimoire|Rare]]

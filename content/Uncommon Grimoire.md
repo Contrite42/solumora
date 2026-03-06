@@ -1006,3 +1006,21 @@ A spell that counters effects using electric magic.
 | Persistence | _(default - Immediate)_ |
 | Target | Object |
 
+
+---
+
+**Mind Triangle Field**
+The spell creates a triangular field of Mind energy at the location where it is written, with effects that can be amplified by multiple applications due to its counter mode.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T4 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

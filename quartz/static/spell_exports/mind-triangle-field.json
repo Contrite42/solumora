@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Mind Triangle Field",
+    "summary": "The spell creates a triangular field of Mind energy at the location where it is written, with effects that can be amplified by multiple applications due to its counter mode.",
+    "effect_description": "The spell creates a triangular field of Mind energy at the location where it is written, with effects that can be amplified by multiple applications due to its counter mode. A triangle counter/create recipe that channels mind discipline into raw output. It applies a field pattern against where written across self reach with immediate persistence.",
+    "hook": "Counter",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Field",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.9899999999999998,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 75,
+    "pattern_w": 60,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 165,
+    "hook_mode_multiplier": 2.9899999999999998,
+    "hook_mode_flat_w": 0,
+    "total_w": 493,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Mind Triangle Field** | Triangle | Counter | Create | T4 | Mind | Raw | Field | Self | Immediate | Where Written |",
+  "ollama_interpretation": "Here's a practical interpretation of the Solumora sigil:\n\n**Spell Name:** Mind Triangle Field\n\n**Effect:** Creates a triangular field of Mind energy at the location, amplifying effects with multiple applications.\n\n**Likely Use:** Focus, mental discipline, or strategic planning in meditation or high-pressure situations.\n\n**Operational Constraint:** Requires consecutive applications to maintain and amplify the effect."
+}

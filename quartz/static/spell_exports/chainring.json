@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Chainring",
+    "summary": "A spell that amplifies effects using binding magic.",
+    "effect_description": "A spell that amplifies effects using binding magic. A circle amplify/affect recipe that channels binding discipline into constraint output. It applies a ring pattern against group across self reach with timed long persistence.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Binding",
+    "output_mode": "Constraint",
+    "pattern": "Ring",
+    "reach": "Self",
+    "persistence": "Timed Long",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 550,
+    "pattern_w": 15,
+    "reach_w": 0,
+    "persistence_w": 25,
+    "target_w": 35,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 625,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 1375,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Chainring** | Circle | Amplify | Affect | T5 | Binding | Constraint | Ring | Self | Timed Long | Group |"
+}

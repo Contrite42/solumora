@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Sonic Resonant Blast",
+    "summary": "The spell creates a focused sonic blast emanating from the caster's body that affects and resonates with surfaces within their immediate surroundings.",
+    "effect_description": "The spell creates a focused sonic blast emanating from the caster's body that affects and resonates with surfaces within their immediate surroundings. A square sense/control recipe that channels sound discipline into sonic output. It applies a cone pattern against surface across self reach with immediate persistence.",
+    "hook": "Sense",
+    "mode": "Control",
+    "shape": "Square",
+    "discipline": "Sound",
+    "output_mode": "Sonic",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Surface",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 4,
+    "core_discipline_w": 32,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 5,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 47,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "total_w": 114,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Sonic Resonant Blast** | Square | Sense | Control | T2 | Sound | Sonic | Cone | Self | Immediate | Surface |",
+  "ollama_interpretation": "Here is a practical interpretation of the Solumora sigil as a spell note:\n\n**Spell:** Sonic Resonant Blast\n**Description:** Creates a focused sonic blast affecting surfaces within reach.\n**Likely Use:** Demolition, excavation, or disrupting enemy positions.\n**Operational Constraint:** Must be cast in close proximity to target surface."
+}
