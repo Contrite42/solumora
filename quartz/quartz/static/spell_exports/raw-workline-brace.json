@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Raw Workline Brace",
+    "summary": "Stiffens a small work area with controlled neutral flux.",
+    "effect_description": "Forms a flat control plane that limits drift and keeps nearby tooling behavior predictable.",
+    "hook": "Ward",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Raw",
+    "output_mode": "Raw",
+    "pattern": "Plane",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.0,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically by Sigil Maker auto mode."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 1,
+    "core_discipline_w": 3,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 3,
+    "hook_mode_multiplier": 2.0,
+    "hook_mode_flat_w": 0,
+    "total_w": 6,
+    "required_tier": "T0",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Raw Workline Brace** | Triangle | Ward | Affect | T0 | Raw | Raw | Plane | Self | Immediate | Where Written |"
+}

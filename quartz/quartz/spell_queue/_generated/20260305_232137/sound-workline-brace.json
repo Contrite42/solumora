@@ -1,0 +1,18 @@
+{
+  "name": "Sound Workline Brace",
+  "summary": "Stiffens a small work area with controlled resonant pressure.",
+  "effect_description": "Forms a flat control plane that limits drift and keeps nearby tooling behavior predictable.",
+  "hook": "Ward",
+  "mode": "Affect",
+  "shape": "Triangle",
+  "discipline": "Sound",
+  "output_mode": "Sonic",
+  "pattern": "Plane",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.0,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically by Sigil Maker auto mode."
+}

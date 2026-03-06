@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Force Cargo Stitch",
+    "summary": "Secures a single object against routine jolts using kinetic force.",
+    "effect_description": "Writes a compact lock-state into one marked object so handling stress does not break its tuned balance.",
+    "hook": "Bind",
+    "mode": "Affect",
+    "shape": "Square",
+    "discipline": "Force",
+    "output_mode": "Kinetic",
+    "pattern": "Point",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Object",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically by Sigil Maker auto mode."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 16,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 2,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 18,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 29,
+    "required_tier": "T1",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Force Cargo Stitch** | Square | Bind | Affect | T1 | Force | Kinetic | Point | Self | Immediate | Object |"
+}

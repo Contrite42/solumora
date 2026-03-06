@@ -40,7 +40,41 @@ The council does not hate [[Cassia]]. Several members are genuinely fond of her.
 
 They gave her luxury and withheld power. This was the correct calculation for a four-year-old. At twenty-three, the calculation is less obviously correct, and the more perceptive council members know it.
 
-_See also: [[Cassia]], [[Drest]], [[The Culmination Faction]], [[Expansion Faction]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[The Three Near-Wars]], [[The Advancement Corps]], [[Emberfall]], [[Council Members]], [[Mira Solv]], [[Maren Sollis]], [[Tovan Ashce]], [[Castor Helme]], [[Corda Lenn]], [[Ilse Dorn]], [[Pol Ashvane]], [[Hadren Cosse]], [[Sera Keln]], [[Aldric Mourne]], [[Oren Vael]], [[Tess Varun]], [[Veran Ostl]], [[Davan Rhyce]], [[Orla Fest]], [[Brennan Solce]], [[Yara Venn]], [[Celd Arren]], [[Adventurers]], [[Ren Valdh]], [[Osten Reld]]_
+## Enforcement and Implementation Mechanisms
+
+Council decisions do not execute themselves. Between a vote in the council chamber and actual compliance in [[Auralis]]'s districts, three institutional layers translate, measure, and adjudicate what policy means in practice.
+
+### Council Orders Registry
+
+[[Council Orders Registry]] converts council resolutions into actionable directives. When the council votes to "substantially increase expedition funding" or "enhance border security appropriately," the Registry translates political language into budgets, timelines, responsible institutions, and compliance metrics. [[Vessa Rolt]], the Registry Coordinator, signs every final order — which makes her the person institutions blame when directives are impossible and the person the council blames when implementation fails.
+
+The Registry's challenge is structural: council resolutions emerge from factional compromise and strategic ambiguity. The Registry must specify what vague language means when someone has to act on it tomorrow. This translation process is where council intent often shifts. A resolution calling for "enhanced expedition capacity" can become aggressive quarterly quotas, modest budget increases, or dangerously relaxed safety protocols depending on how the Registry interprets factional signals.
+
+Vessa maintains a private **Interpretation Log** documenting every order where she had to make substantive judgment calls because council language was too vague or structurally unworkable. The log is 247 pages. She does not share it. It is her insurance.
+
+### Council Compliance Directorate
+
+[[Council Compliance Directorate]] verifies whether council orders are actually executed. [[Torn Hess]] and his team of twenty-three field inspectors assess whether [[Basin Grain Allocation Board]] maintained required reserves, whether [[Emberfall Expedition Registry]] met permit timelines, whether infrastructure projects delivered what the council ordered.
+
+The Directorate's mandate is neutral measurement, not problem-solving. When institutions fail compliance inspections, the Directorate documents the failure but does not allocate resources to fix it. This creates a recurring pattern: the Directorate identifies non-compliance, institutions explain why compliance was impossible given their constraints, and the council decides whether to resource the fix or accept the gap. Often, they accept the gap.
+
+Torn has ten years of inspection data showing compliance rates declining from 71% to 58% while council ambition accelerates. He includes these trends in annual reports. The council reads them. Policy does not adjust.
+
+### Council Review Board
+
+[[Council Review Board]] handles cases where compliance directives collide with operational reality. [[Helva Drost]] chairs five-member hearings that adjudicate compliance appeals, resolve conflicts between contradictory council orders, and grant exceptions when formal compliance would create worse outcomes than non-compliance.
+
+Most cases end in exceptions or softened timelines. The Board rarely overturns [[Council Compliance Directorate]] findings outright, but it often grants institutions relief from impossible requirements. Exception frequency is accelerating: 47 requests three years ago, 89 last year. Most "time-limited" exceptions are renewed indefinitely.
+
+Helva writes annual reports documenting that the gap between council intent and institutional capacity is widening. The council reads them. Resource commitments do not increase to match ambition. The Board continues granting exceptions that prevent small failures from cascading into system collapse.
+
+### What the Mechanisms Reveal
+
+The three-layer enforcement system functions as intended: orders are issued, compliance is measured, disputes are resolved. It also reveals what the council prefers not to discuss: [[Auralis]] is structurally over-committed, institutional capacity is degrading, and the governance model depends on mid-level administrators like [[Vessa Rolt]], [[Torn Hess]], and [[Helva Drost]] absorbing the gap between political ambition and operational reality.
+
+They write careful reports. They grant careful exceptions. They sign their names. The system bends. It has not yet broken.
+
+_See also: [[Cassia]], [[Drest]], [[The Culmination Faction]], [[Expansion Faction]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[The Three Near-Wars]], [[The Advancement Corps]], [[Emberfall]], [[Council Members]], [[Mira Solv]], [[Maren Sollis]], [[Tovan Ashce]], [[Castor Helme]], [[Corda Lenn]], [[Ilse Dorn]], [[Pol Ashvane]], [[Hadren Cosse]], [[Sera Keln]], [[Aldric Mourne]], [[Oren Vael]], [[Tess Varun]], [[Veran Ostl]], [[Davan Rhyce]], [[Orla Fest]], [[Brennan Solce]], [[Yara Venn]], [[Celd Arren]], [[Adventurers]], [[Ren Valdh]], [[Osten Reld]], [[Council Orders Registry]], [[Council Compliance Directorate]], [[Council Review Board]], [[Vessa Rolt]], [[Torn Hess]], [[Helva Drost]], [[Mella Korss]]_
 
 ## Operational Institutions Around the Council
 
