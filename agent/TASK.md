@@ -11,7 +11,7 @@
 - `Codex`: queue management, review-gate decisions, task completion checkmarks, and worklog/claimed updates.
 - `Codex` active blocker: none. Batch 2 creator escalation is resolved as `APPROVED` in `agent/DECISIONS.md`.
 - `Claude Code`: next core-world unchecked goal is Zakros low-tier access clarification (T1/T0 cannot break into active desert Flux zone), then continue priority order from `agent/TASK_QUEUE.md`; append a handoff note to `agent/staging/PENDING_REVIEW.md`.
-- `Copilot Auto`: assigned artifact/story goal(s) plus FOREVER TASK link/canon checks and report updates.
+- `Copilot Auto`: next artifact/story goals are (1) Ashford informal-economy story (Maria seed) and (2) 12-18 story option slate in `agent/staging/PENDING_REVIEW.md`, then continue other assigned artifact/story tasks plus FOREVER TASK link/canon checks/report updates.
 
 ## File Collision Rules
 

@@ -72,7 +72,7 @@ Blocked tasks are marked with their dependency.
   **Constraints:** Dense urban basin, engineered with Flux. Each district must have its own economy + social pressure + recurring NPCs.  
   **Output:** 8 notes (capital + districts + 4 people) + update [[Auralis]].
 
-- [ ] **Goal:** Clarify Zakros crossing access limits for low tiers in world-facing pages.
+- [x] **Goal:** Clarify Zakros crossing access limits for low tiers in world-facing pages.
   **Constraints:** Establish explicitly that [[Control Tier|Tier 1]] and [[Control Tier|Tier 0]] travelers cannot break into the active Flux zone around [[Desert Zakros]], which is one reason crossings require specialist support. Keep all existing crossing methods canon-consistent. No new factions, characters, or named locations.
   **Output:** Append clarifying language to existing desert crossing pages (minimum: [[Equatorial Desert]] plus two crossing-method/site notes) and add/verify at least one hub backlink.
   **Escalation note:** If scope expands to `content/Solumora.md` or `content/World Primer.md`, create a `agent/DECISIONS.md` escalation entry first.
@@ -97,6 +97,22 @@ Blocked tasks are marked with their dependency.
   **Constraints:** 30 people. Every person must link to 3â€“6 others. Include smugglers, copyists, guards, farmers, priests, couriers, and 2â€“3 high-tier isolates.
   **Output:** [[People]] hub + 30 people notes + update 5 major hubs with â€œPeople in Motionâ€ sections.
   **Owner:** Claude Code
+
+- [ ] **Goal:** Write Ashford informal-economy story from the Maria seed as canon short fiction.
+  **Constraints:** Story must be grounded in existing Ashford systems (registration, documentation, guild/city pressure) and current world tone. If `Maria` is used, treat as one-off story viewpoint only (no automatic new profile page). No out-of-world analysis section in final story file.
+  **Output:** `content/Stories/Ashford False Papers.md` (800â€“1200 words) with at least 3 outbound wikilinks and a final See Also block.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Generate broad story-option slate (specific + vague) for user selection.
+  **Constraints:** Produce 12-18 canon-safe story pitches spanning Terravelle, Auralis, Zakros, and Wolfpoint. Each option must include: one-line premise, likely file path, canon anchors, and whether it introduces a new character.
+  **Output:** Append option slate to `agent/staging/PENDING_REVIEW.md` in a single `[Copilot Auto]` block.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Route story-option slate into creator-facing decision bundles.
+  **Constraints:** Convert generated options into `A/B/C` bundles in `agent/DECISIONS.md` with concise tradeoffs and clear creator action line. Do not write story content in this task.
+  **Output:** New story selection decision entry in `agent/DECISIONS.md`.
+  **Dependency:** Story-option slate task above must be present in `agent/staging/PENDING_REVIEW.md`.
+  **Owner:** `Codex`
 
 - [ ] **Goal:** Create **real purchasable grimoires** as in-universe books â€” actual written texts, not tier reference pages.
   **Constraints:** Common-tier grimoires should be purchasable (include price, who sells them, what they contain as a reader would see). Higher-tier should note where they can be found. Each grimoire is a real artifact: it has a publisher, an edition, margin notes from a previous owner or institutional stamp. Write them as the book itself, not a description of the book.
@@ -195,4 +211,7 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Queue update | Added task | Added explicit world-edit task: Tier 1/Tier 0 cannot break into active Flux zone around Desert Zakros; assigned to Claude Code. |
 | 2026-03-05 | Factions hub | Complete | Created Factions hub + 12 institution notes. Appended inbound link blocks to index.md, Terravelle Administration.md, and The Council of Auralis.md. |
 | 2026-03-05 | Review gate | Complete | Batch 2 creator escalation resolved as APPROVED in DECISIONS.md. Staged appends already present in Cavel Dorst.md and Cassia.md. |
+| 2026-03-05 | Queue update | Added story intake tasks | Normalized raw prompt block into structured tasks: Ashford/Maria story (Copilot), broad story-option slate (Copilot), and DECISIONS routing task (Codex). |
+| 2026-03-05 | Zakros access floor | Complete | Appended T0/T1 flux-entry constraint to Equatorial Desert.md, Standard Guided Crossing.md, and The Southern Approaches.md; verified hub links from Equatorial Desert crossing economy section. |
+
 

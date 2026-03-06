@@ -31,3 +31,11 @@ Experienced guides say the desert announces itself within the first few hours so
 [[Avel Coss]] has specific observations about which expedition behaviors in the first day predict outcomes on day fourteen. He does not share these observations with the expedition members themselves, because parties that know they are being assessed do not provide accurate behavioral data.
 
 *See also: [[Halveth]], [[Equatorial Desert]], [[Halveth Cooperative]], [[Avel Coss]], [[Selt Orvn]], [[Standard Guided Crossing]], [[The Northern Narrows]], [[Rift Incursions]], [[Ancient Ruins]]*
+
+## Flux Entry Reality (Addendum)
+
+Departure checks at [[Halveth]] treat tier floor as a hard condition. [[Control Tier|Tier 0]] and [[Control Tier|Tier 1]] cannot break into the active desert Flux zone south of the settlement, so they are not counted toward required crossing coverage.
+
+Guides may still accept T0 or T1 travelers in larger parties, but only when the party already has sufficient T2+ and guide-tier capacity before departure.
+
+*See also: [[Control Tier]], [[Equatorial Desert]], [[Standard Guided Crossing]], [[Halveth Cooperative]], [[The Northern Narrows]]*

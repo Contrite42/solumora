@@ -16,6 +16,14 @@ Solo crossings are considered reckless to the point of being irrational. Most ex
 
 [[Auralis]] funds formal crossing expeditions. [[Terravelle]] treats Zakros as a problem to be managed, not explored.
 
+## Tier Access Limits
+
+The desert's ambient [[Flux]] distortion is the hard constraint on who can survive a crossing without specialist support. [[Control Tier|T0]] practitioners have no Flux capacity and cannot cast any of the protection effects the crossing requires. [[Control Tier|T1]] practitioners can produce basic low-tier effects but cannot sustain the thermal management load that the desert demands continuously across a two-to-three week transit. Neither can manage their own survival in the active Flux zone.
+
+This does not mean T0 or T1 travelers cannot cross. It means they cannot cross independently. A T0 or T1 person on a [[Standard Guided Crossing]] party survives because the guide and other casters are maintaining the protection effects that cover the full party. A non-caster can physically survive the desert if someone else sustains the Flux infrastructure around them — they simply cannot contribute to that infrastructure themselves.
+
+The practical floor for unsupported crossing is roughly T3 for a guided team member providing partial coverage, and T4 for solo or [[Express Route Crossing|express]] crossing where the practitioner must sustain all effects personally. This is why [[Halveth Cooperative]] gear certification reviews assess party composition, not just equipment: a party whose casters cannot cover all members' thermal load at sustained crossing speed will not survive regardless of how complete their grimoire kit is.
+
 ## Fauna
 
 Zakros is not lifeless. Its ecosystem is built almost entirely on insects and arachnids, most of which are [[Flux]]-fueled — drawing ambient energy from the desert rather than relying solely on biological food chains. They are the only creatures that have fully adapted to the temperature extremes, and they thrive in ways that still puzzle [[Flux Users|Scholars]] who have studied them.
@@ -65,3 +73,11 @@ The desert sustains a significant economic layer built around those who want to 
 **Entry Points:** The [[The Southern Approaches|Southern Approaches]] are the primary departure zone from Halveth, with multiple routes maintained by current Cooperative intelligence. The [[The Northern Narrows|Northern Narrows]] are the Terravelle-side entry routes — less developed, with two main corridors and staging infrastructure that does not match Halveth's depth.
 
 *See also: [[Ancient Ruins]], [[Equatorial Fauna]], [[Flux Demons]], [[Rift Incursions]], [[Halveth]], [[Rett Soln]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[Avel Coss]], [[Ossen Drel]], [[Celn Vard]], [[High Demons]], [[Ascendant Path]], [[Halveth Cooperative]], [[Relay Compact]], [[Terravelle Desert Trade Office]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[The Southern Approaches]], [[The Northern Narrows]]*
+
+## Flux Access Floor (Addendum)
+
+Crossing plans assume at least one caster can open and hold a working channel into the active Zakros Flux field under wind and thermal stress. In practice, [[Control Tier|Tier 0]] and [[Control Tier|Tier 1]] cannot break into that field reliably once a party is beyond the settlement edge.
+
+This is why crossing methods are staffed by capability coverage, not headcount. T0 and T1 travelers can still contribute to transport and camp routines, but crossing-critical response roles are assigned to higher-tier casters in every sanctioned method.
+
+*See also: [[Control Tier]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]], [[Express Route Crossing]], [[The Southern Approaches]], [[Halveth]]*

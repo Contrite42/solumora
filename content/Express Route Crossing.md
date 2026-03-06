@@ -32,4 +32,12 @@ Express crossings fail in three ways:
 
 Some practitioners run a hybrid: using [[Relay Compact]] cache infrastructure for resupply while moving at express crossing speed between cache points. This reduces the thermal exhaustion risk at the cost of the Compact's fee and the crossing-time overhead of cache locations that may not align perfectly with the fastest route. Practitioners with existing Compact relationships often prefer this to pure express crossing, particularly for the return leg when reserves are lower.
 
+## Why T0 and T1 Cannot Run Express Crossings
+
+The express route has a hard floor at T4 for a reason that is specific to what the method requires. A practitioner running express crossing is sustaining all protection effects for themselves — thermal regulation through extreme day heat and cold nights, air filtration against constant particulate, navigation without landmarks — continuously, for 8 to 12 days, while also moving at speed and managing reserves for emergencies.
+
+[[Control Tier|T0]] practitioners cannot cast any of these effects. [[Control Tier|T1]] practitioners can cast low-tier versions of some of them, but cannot sustain the required output across a crossing's full duration — the thermal demands of the active desert zone require more sustained capacity than T1 can provide. Even T2 and T3 practitioners cannot reliably sustain solo express crossing: T3 is the minimum for holding up a team position within a guided party, and T4 is the practical floor where solo survival becomes plausible rather than probable.
+
+The express route is not a faster version of the standard crossing with lower preparation requirements. It is a different method designed around high Flux capacity as the primary survival mechanism — not grimoire depth, not party coordination, not guide knowledge, but raw sustained Flux output. Below T4, that mechanism does not function.
+
 *See also: [[Equatorial Desert]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]], [[Halveth Cooperative]], [[Avel Coss]], [[Rift Incursions]], [[Control Tier]]*

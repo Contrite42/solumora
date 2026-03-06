@@ -31,7 +31,7 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 ### Creator Action
 - Set `- Status:` to `APPROVED` or `REJECTED`.
 - If rejected, replace `- Notes:` with concise guidance and optional option label.
-<!-- REVIEW_DECISION_END -->
+<APPROVED>
 
 ---
 
