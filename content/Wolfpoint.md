@@ -32,6 +32,36 @@ What Wolfpoint has built over seven generations is not a finished system. [[Hype
 
 The current head of the Voss line, [[The Voss Line|Sera Voss]], is the first to formally document Hypertext sequences in transmissible form — a [[Grimoires|grimoire]] equivalent that can be copied and taught rather than passed down through direct instruction. Whether this document ever reaches [[Auralis]] is a question the current Voss head has not yet answered.
 
+## Economic Foundation
+
+Wolfpoint's independence depends on economic reality beyond [[Hypertext]]'s strategic value. The settlement sustains itself through physical exports that justify regular maritime trade access and import contracts that provide survival essentials the cold zone cannot produce.
+
+### Export Operations
+
+Three economic operations generate Wolfpoint's physical export revenue:
+
+**[[Wolfpoint Cold-Forge Works]]** produces premium metalwork using temperature-differential annealing that leverages Wolfpoint's constant 45-degree cold. [[Trel Vann]] manages six smiths producing approximately 200 pieces per year — blades and specialty tools that hold edge 40-60% longer than standard equivalents. The Works generates 35-40% of export revenue. Output is deliberately limited: controlled scarcity maintains premium pricing and keeps cold-forge valuable without making it strategically threatening.
+
+**[[Mountain Game Collective]]** converts northern hunting grounds into preserved meat that reaches [[Ashford]] in superior condition to coastal alternatives. [[Dren Vass]] coordinates sustained harvest operations across managed territories while [[Morra Keld]] runs preservation operations dependent on imported salt. The Collective generates 25-30% of export revenue and provides most of Wolfpoint's internal meat supply. Salt dependency makes this operation vulnerable to [[Outer Coast Packet Line]] disruptions.
+
+**[[Upland Herding Network]]** provides wool textiles from scattered sheep and goat herding families north of Wolfpoint. [[Lenna Tors]] coordinates wool trade between independent herding operations and Wolfpoint's textile workshop. The Network generates 20-25% of export revenue and provides supplementary meat and dairy for internal consumption. Herding families depend on Wolfpoint's trade access to southern grain supplies they cannot produce in cold upland zones.
+
+### Supply Dependencies
+
+Wolfpoint cannot survive on local production alone. The settlement's agricultural limitations create absolute dependency on southern imports:
+
+**[[Ashford Supply Contract]]** relationships managed by [[Kess Rolv]] provide grain (40,000-50,000 pounds annually), salt (8,000-10,000 pounds for preservation operations), replacement tools, and specialty goods. [[Kess Rolv]] maintains standing contracts with 8-12 Ashford merchant houses, deliberately diversifying to prevent any single supplier from controlling critical resources. Failure of these contracts would collapse Wolfpoint's economy within months.
+
+All imports travel through [[Outer Coast Packet Line]]. Maritime disruptions directly threaten settlement survival. [[Wolfpoint Trade Registry]] maintains 6-8 months of grain reserves and negotiates salt contracts 20% above requirements to buffer against transport delays.
+
+### Trade Coordination
+
+**[[Wolfpoint Trade Registry]]** manages the economic balancing act that maintains independence. [[Renn Taska]] has directed the Registry for fourteen years, tracking export revenue ratios (target: 55-65% Terravelle, 35-45% Auralis), supplier diversification (no merchant controls >40% of critical supplies), and trade balance (export revenue covers 100-110% of import costs).
+
+The Registry's strategic function is ensuring Wolfpoint remains valuable enough to trade with, not valuable enough to conquer, and diversified enough to avoid capture. Renn adjusts contracts when metrics indicate drift toward dangerous dependency: declining new buyers from over-represented kingdoms, shifting import allocations to alternative suppliers, managing relationships so economic strategy and Hypertext knowledge-control policy remain aligned.
+
+Wolfpoint's independence is not guaranteed by military strength or isolation. It is maintained through economic strategy executed by people like Renn Taska, Trel Vann, Dren Vass, Morra Keld, Lenna Tors, and Kess Rolv — coordinating export production, preservation operations, wool trade, and supply contracts so the settlement survives through careful management rather than strategic vulnerability.
+
 ## Geopolitical Position
 
 Wolfpoint's independence rests on being more valuable as an independent knowledge center than as a territory belonging to either kingdom. Both kingdoms know this. Both kingdoms manage their relationships with the settlement accordingly — [[Terravelle]] through the standing envoy relationship that [[Keln Varost]] manages from [[Greyveil]], [[Auralis]] through the research relationships and the indirect connection that [[Drest]] maintains with [[Mira Solv]].
@@ -40,7 +70,7 @@ The strategic dimensions of this situation — why both kingdoms want Hypertext 
 
 What Wolfpoint actually sends out into the world — physical exports through the [[Outer Coast Packet Line]], and the knowledge exports that are its primary currency — is documented in [[Wolfpoint Exports]].
 
-_See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Mell Rask]], [[Cossa Vrend]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Keln Varost]], [[Outer Coast Packet Line]], [[Ashford]]_
+_See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Mell Rask]], [[Cossa Vrend]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Keln Varost]], [[Outer Coast Packet Line]], [[Ashford]], [[Wolfpoint Trade Registry]], [[Wolfpoint Cold-Forge Works]], [[Mountain Game Collective]], [[Upland Herding Network]], [[Ashford Supply Contract]], [[Renn Taska]], [[Trel Vann]], [[Dren Vass]], [[Morra Keld]], [[Lenna Tors]], [[Kess Rolv]]_
 
 ## People in Motion
 

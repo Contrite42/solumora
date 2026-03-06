@@ -148,15 +148,17 @@ These tasks expand the world's texture without adding new structural elements. T
       **Owner:** `Copilot Auto`
       **Status:** COMPLETE — 6 profiles (Varn Kest T7, Sera Vond T8, Keld Orun T9, Hedd Norn T0, Rell Vorn T0, Niva Korr T0) + Control Tier "Living at the Extremes" section.
 
-- [ ] **Goal:** Detail the **Council's Mechanisms** — how Auralis governance actually works.
+- [x] **Goal:** Detail the **Council's Mechanisms** — how Auralis governance actually works.
       **Constraints:** The Council of Auralis is documented but the bureaucracy beneath it is thin. Need: how orders flow from council to implementation, who enforces council decisions, what the internal factions actually are, and the people who translate council policy into street-level reality. Must show the gap between council intentions and executed outcomes.
       **Output:** 5-7 notes (2-3 enforcement/implementation institutions + 3-4 mid-level bureaucrats who run things) + update [[The Council of Auralis]] with operational detail.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — 3 institutions (Council Orders Registry, Council Compliance Directorate, Council Review Board) + 4 bureaucrats (Vessa Rolt, Torn Hess, Helva Drost, Mella Korss) + "Enforcement and Implementation Mechanisms" section integrated into The Council of Auralis hub.
 
-- [ ] **Goal:** Ground **Wolfpoint's Economy** in daily trade reality.
+- [x] **Goal:** Ground **Wolfpoint's Economy** in daily trade reality.
       **Constraints:** Sera Voss and Hypertext are documented but Wolfpoint's actual trade goods, seasonal migration patterns, and resource economy are conceptual. Need: what Wolfpoint exports besides knowledge, how they source food/supplies in mountain territory, and the trade relationships that keep them independent. Must integrate with existing [[Outer Coast Packet Line]] documentation.
       **Output:** 4-5 notes (2 major export industries + 2 supply chain sources + 1 trade coordination institution) + update [[Wolfpoint]] with economic detail.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — 5 institutions (Wolfpoint Cold-Forge Works, Mountain Game Collective, Upland Herding Network, Ashford Supply Contract, Wolfpoint Trade Registry) + 6 economic coordinators (Trel Vann, Dren Vass, Morra Keld, Lenna Tors, Kess Rolv, Renn Taska) + "Economic Foundation" section integrated into Wolfpoint hub.
 
 - [ ] **Goal:** Expand the **High Demon Layer** with operational detail.
       **Constraints:** Five High Demons exist (Sorath, Selvane, Fennick, Mave, Wren) but their day-to-day activities, territorial boundaries, how they avoid detection by each other and by humans, and their conflicts/alliances need detail. Must preserve the "nobody knows they exist" constraint while showing what they actually do. This is sensitive canon — escalate any structural additions to [[DECISIONS.md]].

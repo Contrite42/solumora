@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Binding Amplify Beam 2",
+    "summary": "Boosts binding constraint flux as a directed line.",
+    "effect_description": "A triangle amplify/affect recipe that channels binding discipline into constraint output.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Binding",
+    "output_mode": "Constraint",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from sigil variable synthesis."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 30,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 35,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 77,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Binding Amplify Beam 2** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Beam | Self | Immediate | Where Written |",
+  "ollama_interpretation": "**Spell Name:** Binding Amplify Beam 2\n\n**Description:** Boosts binding constraint output as a directed line.\n\n**Likely Use:** Enhancing magical bindings, focus for spellcasting.\n\n**Operational Constraint:** Must be drawn on a surface within reach to activate."
+}

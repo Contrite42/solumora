@@ -12,6 +12,7 @@ from __future__ import annotations
 import argparse
 import contextlib
 import io
+import itertools
 import json
 import math
 import re
@@ -225,166 +226,83 @@ REACH_ALIASES = {
 
 TIER_SEQUENCE = tuple(row["tier"] for row in TIER_OVERVIEW)
 
-AUTO_DISCIPLINES = (
-    "Raw",
-    "Force",
-    "Heat",
-    "Light",
-    "Sound",
-    "Electric",
-    "Chemical",
-    "Binding",
-    "Mind",
-)
+AUTO_DISCIPLINES = tuple(sorted(DISCIPLINE_MULTIPLIERS.keys()))
 
 AUTO_INTERNAL_DIR_NAMES = {"_processed", "_failed", "_generated"}
 
-AUTO_DISCIPLINE_FLAVOR = {
-    "Raw": "neutral flux",
-    "Force": "kinetic force",
-    "Heat": "thermal transfer",
-    "Light": "structured light",
-    "Sound": "resonant pressure",
-    "Electric": "charge flow",
-    "Chemical": "reactive flux",
-    "Binding": "constraint lattices",
-    "Mind": "neural signatures",
-    "Soul": "identity threads",
+AUTO_HOOK_VERBS = {
+    "Emit": "releases",
+    "Shape": "refines",
+    "Bind": "anchors",
+    "Ward": "establishes",
+    "Trigger": "arms",
+    "Transform": "reconfigures",
+    "Move": "repositions",
+    "Sense": "detects",
+    "Filter": "screens",
+    "Amplify": "boosts",
+    "Dampen": "reduces",
+    "Counter": "disrupts",
 }
 
-# Templates are intentionally practical and reusable by guild/field work.
-AUTO_TEMPLATE_LIBRARY = (
-    {
-        "suffix": "Lantern Mark",
-        "hook": "Emit",
-        "mode": "Create",
-        "shape": "Triangle",
-        "pattern": "Point",
-        "summary": "Creates a short-lived {flavor} marker for close work.",
-        "effect": "Projects a compact {flavor} marker that remains stable long enough for routine tasks.",
-    },
-    {
-        "suffix": "Workline Brace",
-        "hook": "Ward",
-        "mode": "Affect",
-        "shape": "Triangle",
-        "pattern": "Plane",
-        "summary": "Stiffens a small work area with controlled {flavor}.",
-        "effect": "Forms a flat control plane that limits drift and keeps nearby tooling behavior predictable.",
-    },
-    {
-        "suffix": "Cargo Stitch",
-        "hook": "Bind",
-        "mode": "Affect",
-        "shape": "Square",
-        "pattern": "Point",
-        "target_spec": "Object",
-        "summary": "Secures a single object against routine jolts using {flavor}.",
-        "effect": "Writes a compact lock-state into one marked object so handling stress does not break its tuned balance.",
-    },
-    {
-        "suffix": "Route Ping",
-        "hook": "Sense",
-        "mode": "Affect",
-        "shape": "Pentagon",
-        "pattern": "Beam",
-        "target_spec": "Marked",
-        "reach": "Medium",
-        "summary": "Scans for tagged signatures across a mid-range lane.",
-        "effect": "Sweeps a directed line through the local route and returns any mark-coded signatures tied to prior registry ink.",
-    },
-    {
-        "suffix": "Dust Filter",
-        "hook": "Filter",
-        "mode": "Control",
-        "shape": "Circle",
-        "pattern": "Field",
-        "target_spec": "Filter",
-        "reach": "Touch",
-        "persistence": "Timed Short",
-        "summary": "Builds a temporary screening zone that favors selected traffic.",
-        "effect": "Maintains a localized field that passes allowed signatures while damping unapproved particulate and residue.",
-    },
-    {
-        "suffix": "Span Latch",
-        "hook": "Bind",
-        "mode": "Control",
-        "shape": "Circle",
-        "pattern": "Ring",
-        "target_spec": "Surface",
-        "reach": "Touch",
-        "persistence": "Timed Long",
-        "summary": "Keeps a ringed anchor active across a long maintenance window.",
-        "effect": "Pins a ring constraint to a prepared surface and holds state under normal interference until the timer expires.",
-    },
-    {
-        "suffix": "Drift Breaker",
-        "hook": "Counter",
-        "mode": "Affect",
-        "shape": "Pentagon",
-        "pattern": "Cone",
-        "target_spec": "Group",
-        "reach": "Short",
-        "summary": "Interrupts unstable local signatures before they cascade.",
-        "effect": "Pushes a short counter-cone through nearby interference and collapses weakly coupled spell drift in the affected area.",
-    },
-    {
-        "suffix": "Watchline Trigger",
-        "hook": "Trigger",
-        "mode": "Control",
-        "shape": "Square",
-        "pattern": "Beam",
-        "target_spec": "Surface",
-        "summary": "Arms a narrow watchline that trips on threshold events.",
-        "effect": "Binds a beam-thin trigger state to a prepared surface and emits a clear signal when crossed by qualifying motion.",
-    },
-    {
-        "suffix": "Pack Stabilizer",
-        "hook": "Shape",
-        "mode": "Control",
-        "shape": "Circle",
-        "pattern": "Field",
-        "target_spec": "Object",
-        "reach": "Touch",
-        "persistence": "Sustained",
-        "sustained_minutes": 20,
-        "summary": "Maintains a load-balancing field on a single packed object.",
-        "effect": "Continuously reshapes microforces around the object to reduce swing, shear, and stress accumulation while moving.",
-    },
-    {
-        "suffix": "Transit Ramp",
-        "hook": "Move",
-        "mode": "Affect",
-        "shape": "Pentagon",
-        "pattern": "Plane",
-        "target_spec": "Group",
-        "reach": "Short",
-        "summary": "Applies directional assist across a short corridor segment.",
-        "effect": "Lays a controlled vector plane under nearby travelers to smooth starts, stops, and grade transitions.",
-    },
-    {
-        "suffix": "Heat Sink Ring",
-        "hook": "Dampen",
-        "mode": "Control",
-        "shape": "Circle",
-        "pattern": "Ring",
-        "target_spec": "Surface",
-        "reach": "Touch",
-        "persistence": "Timed Long",
-        "summary": "Bleeds excess local activity into a controlled perimeter.",
-        "effect": "Circulates excess intensity into a ring boundary to keep work surfaces inside rated tolerances.",
-    },
-    {
-        "suffix": "Repair Shift",
-        "hook": "Transform",
-        "mode": "Affect",
-        "shape": "Square",
-        "pattern": "Point",
-        "target_spec": "Object",
-        "summary": "Performs constrained state correction on damaged fittings.",
-        "effect": "Adjusts one damaged component toward a stable operating state without broad collateral changes.",
-    },
-)
+AUTO_MODE_PHRASES = {
+    "Create": "by creating a fresh flux expression",
+    "Affect": "by changing existing conditions",
+    "Control": "with active regulation while it runs",
+}
+
+AUTO_PATTERN_TERMS = {
+    "Point": "point focus",
+    "Plane": "planar spread",
+    "Beam": "directed line",
+    "Cone": "fan spread",
+    "Ring": "ring perimeter",
+    "Cylinder": "column volume",
+    "Sphere": "spherical envelope",
+    "Field": "field volume",
+}
+
+AUTO_TARGET_TERMS = {
+    "Where Written": "the inscribed anchor",
+    "Self": "the caster",
+    "Object": "one object",
+    "Surface": "a prepared surface",
+    "Individual": "one individual",
+    "Marked": "a marked signature",
+    "Group": "a grouped cluster",
+    "Filter": "a filtered selection",
+}
+
+AUTO_PERSISTENCE_TERMS = {
+    "Immediate": "immediate discharge",
+    "Timed Short": "short timed hold",
+    "Timed Long": "long timed hold",
+    "Sustained": "sustained channeling",
+    "Conditional": "conditional hold",
+    "Latched": "latched hold",
+    "Permanent": "permanent inscription",
+}
+
+AUTO_STOPWORDS = {
+    "a",
+    "an",
+    "and",
+    "as",
+    "at",
+    "by",
+    "for",
+    "from",
+    "in",
+    "into",
+    "it",
+    "of",
+    "on",
+    "or",
+    "the",
+    "to",
+    "while",
+    "with",
+}
 
 
 @dataclass
@@ -917,12 +835,39 @@ def extract_json_object(text: str) -> dict[str, Any] | None:
     return parsed
 
 
+def resolve_ollama_model(model: str, timeout_seconds: int = 20) -> str:
+    requested = model.strip()
+    if not requested:
+        return ""
+    try:
+        process = subprocess.run(
+            ["ollama", "list"],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+            timeout=timeout_seconds,
+            check=False,
+        )
+    except (OSError, subprocess.TimeoutExpired):
+        print(f"[OLLAMA] Runtime unavailable, skipping Ollama model '{requested}'.")
+        return ""
+    if process.returncode != 0:
+        print(f"[OLLAMA] Could not query models, skipping '{requested}'.")
+        return ""
+    if requested not in process.stdout:
+        print(f"[OLLAMA] Model '{requested}' not found locally, using deterministic generator.")
+        return ""
+    return requested
+
+
 def enrich_generated_spec_with_ollama(
     spec_data: dict[str, Any], *, model: str, timeout_seconds: int
 ) -> dict[str, Any]:
     prompt = (
         "You are naming a practical Solumora spell. Return JSON only with keys "
         '"name", "summary", "effect_description". '
+        "Summary must be one sentence. Name must be derived from words in the summary. "
         "Keep the output grounded and functional, no lore backstory. "
         f"Use these sigil variables: {json.dumps(spec_data, ensure_ascii=True)}"
     )
@@ -930,6 +875,8 @@ def enrich_generated_spec_with_ollama(
         ["ollama", "run", model, prompt],
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         timeout=timeout_seconds,
         check=False,
     )
@@ -965,6 +912,8 @@ def interpret_spell_with_ollama(
         ["ollama", "run", model, prompt],
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         timeout=timeout_seconds,
         check=False,
     )
@@ -993,36 +942,166 @@ def collect_existing_spell_names(markdown_dir: Path, all_grimoire_path: Path) ->
     return {name for name in names if name}
 
 
-def build_auto_spec_data(discipline: str, template: dict[str, Any]) -> dict[str, Any]:
-    flavor = AUTO_DISCIPLINE_FLAVOR.get(discipline, discipline.lower())
-    hook = str(template["hook"])
-    mode = str(template["mode"])
-    return {
-        "name": f"{discipline} {template['suffix']}",
-        "summary": str(template["summary"]).format(
-            discipline=discipline,
-            flavor=flavor,
-        ),
-        "effect_description": str(template["effect"]).format(
-            discipline=discipline,
-            flavor=flavor,
-        ),
-        "hook": hook,
-        "mode": mode,
-        "shape": str(template["shape"]),
-        "discipline": discipline,
-        "output_mode": str(template.get("output_mode", NATURAL_OUTPUT_BY_DISCIPLINE[discipline])),
-        "pattern": str(template.get("pattern", DEFAULTS["pattern"])),
-        "reach": str(template.get("reach", DEFAULTS["reach"])),
-        "persistence": str(template.get("persistence", DEFAULTS["persistence"])),
-        "target_spec": str(template.get("target_spec", DEFAULTS["target_spec"])),
-        "sustained_minutes": int(template.get("sustained_minutes", 0)),
-        "hook_mode_multiplier": float(
-            template.get("hook_mode_multiplier", default_hook_mode_multiplier(hook, mode))
-        ),
-        "hook_mode_flat_w": int(template.get("hook_mode_flat_w", 0)),
-        "notes": "Generated automatically by Sigil Maker auto mode.",
-    }
+def titleize_token(token: str) -> str:
+    lower = token.lower()
+    if lower in {"of", "and", "for", "the"}:
+        return lower
+    return lower.capitalize()
+
+
+def output_candidates_for_discipline(discipline: str) -> list[str]:
+    natural = NATURAL_OUTPUT_BY_DISCIPLINE[discipline]
+    adjacent = sorted(ADJACENT_OUTPUT_BY_DISCIPLINE.get(discipline, set()))
+    pool = [natural] + adjacent
+    for candidate in sorted(OUTPUT_MODES):
+        if candidate not in pool:
+            pool.append(candidate)
+    return pool
+
+
+def recipe_summary_from_variables(spec_data: dict[str, Any]) -> str:
+    hook = str(spec_data["hook"])
+    mode = str(spec_data["mode"])
+    discipline = str(spec_data["discipline"])
+    output_mode = str(spec_data["output_mode"]).lower()
+    pattern = AUTO_PATTERN_TERMS.get(str(spec_data["pattern"]), str(spec_data["pattern"]).lower())
+    reach = str(spec_data["reach"]).lower()
+    target = AUTO_TARGET_TERMS.get(
+        str(spec_data["target_spec"]), str(spec_data["target_spec"]).lower()
+    )
+    persistence = AUTO_PERSISTENCE_TERMS.get(
+        str(spec_data["persistence"]), str(spec_data["persistence"]).lower()
+    )
+    hook_verb = AUTO_HOOK_VERBS.get(hook, "applies")
+    mode_phrase = AUTO_MODE_PHRASES.get(mode, "while preserving structure")
+    flux_phrase = f"{discipline.lower()} {output_mode} flux"
+    if discipline.lower() == output_mode:
+        flux_phrase = f"{discipline.lower()} flux"
+    return (
+        f"{hook_verb.capitalize()} {flux_phrase} as a {pattern} at {reach} reach, "
+        f"targeting {target} with {persistence} {mode_phrase}."
+    )
+
+
+def recipe_effect_from_variables(spec_data: dict[str, Any]) -> str:
+    shape = str(spec_data["shape"])
+    hook = str(spec_data["hook"]).lower()
+    mode = str(spec_data["mode"]).lower()
+    discipline = str(spec_data["discipline"]).lower()
+    output_mode = str(spec_data["output_mode"]).lower()
+    pattern = str(spec_data["pattern"]).lower()
+    target = str(spec_data["target_spec"]).lower()
+    reach = str(spec_data["reach"]).lower()
+    persistence = str(spec_data["persistence"]).lower()
+    sustained = int(spec_data.get("sustained_minutes", 0))
+    sustained_tail = ""
+    if persistence == "sustained":
+        sustained_tail = f" The sustained window is set to {max(1, sustained)} minutes."
+    return (
+        f"A {shape.lower()} {hook}/{mode} recipe that channels {discipline} discipline into {output_mode} output. "
+        f"It applies a {pattern} pattern against {target} across {reach} reach with {persistence} persistence."
+        f"{sustained_tail}"
+    )
+
+
+def derive_name_from_summary(summary: str, spec_data: dict[str, Any]) -> str:
+    tokens = [token for token in re.findall(r"[A-Za-z]+", summary) if token.lower() not in AUTO_STOPWORDS]
+    preferred = [
+        str(spec_data.get("discipline", "")),
+        str(spec_data.get("hook", "")),
+        str(spec_data.get("pattern", "")),
+        str(spec_data.get("output_mode", "")),
+    ]
+    name_tokens: list[str] = []
+    for token in preferred:
+        clean = re.sub(r"[^A-Za-z]", "", token).strip()
+        if clean and clean.lower() not in {value.lower() for value in name_tokens}:
+            name_tokens.append(clean)
+        if len(name_tokens) >= 3:
+            break
+    if len(name_tokens) < 3:
+        for token in tokens:
+            if token.lower() in {value.lower() for value in name_tokens}:
+                continue
+            name_tokens.append(titleize_token(token))
+            if len(name_tokens) >= 3:
+                break
+    if len(name_tokens) < 2:
+        name_tokens.extend(["Flux", "Working"])
+    return " ".join(name_tokens[:3]).strip()
+
+
+def ensure_unique_name(base_name: str, reserved_names: set[str]) -> str:
+    candidate = base_name.strip() or "Flux Working"
+    if candidate not in reserved_names:
+        return candidate
+    counter = 2
+    while True:
+        trial = f"{candidate} {counter}"
+        if trial not in reserved_names:
+            return trial
+        counter += 1
+
+
+def iter_auto_recipe_dicts():
+    shapes = ("Triangle", "Square", "Pentagon", "Circle")
+    hooks = sorted(HOOKS)
+    modes = sorted(MODES)
+    disciplines = AUTO_DISCIPLINES
+    patterns = sorted(PATTERN_COSTS.keys())
+    targets = sorted(TARGET_COSTS.keys())
+    reaches = sorted(REACH_COSTS.keys())
+    persistences = [
+        "Immediate",
+        "Timed Short",
+        "Timed Long",
+        "Sustained",
+        "Conditional",
+        "Latched",
+        "Permanent",
+    ]
+
+    for shape, hook, mode, discipline in itertools.product(shapes, hooks, modes, disciplines):
+        explicit = set(explicit_outer_variables(shape))
+        output_options = output_candidates_for_discipline(discipline)
+        pattern_options = patterns if "pattern" in explicit else [DEFAULTS["pattern"]]
+        target_options = targets if "target_spec" in explicit else [DEFAULTS["target_spec"]]
+        reach_options = reaches if "reach" in explicit else [DEFAULTS["reach"]]
+        persistence_options = (
+            persistences if "persistence" in explicit else [DEFAULTS["persistence"]]
+        )
+
+        for (
+            output_mode,
+            pattern,
+            target_spec,
+            reach,
+            persistence,
+        ) in itertools.product(
+            output_options,
+            pattern_options,
+            target_options,
+            reach_options,
+            persistence_options,
+        ):
+            sustained_minutes = 0
+            if persistence == "Sustained":
+                sustained_minutes = 20
+            yield {
+                "hook": hook,
+                "mode": mode,
+                "shape": shape,
+                "discipline": discipline,
+                "output_mode": output_mode,
+                "pattern": pattern,
+                "reach": reach,
+                "persistence": persistence,
+                "target_spec": target_spec,
+                "sustained_minutes": sustained_minutes,
+                "hook_mode_multiplier": default_hook_mode_multiplier(hook, mode),
+                "hook_mode_flat_w": 0,
+                "notes": "Generated automatically from sigil variable synthesis.",
+            }
 
 
 def generate_auto_specs(
@@ -1044,43 +1123,51 @@ def generate_auto_specs(
 
     generated: list[SpellSpec] = []
     reserved_names = set(existing_names)
+    recipes = iter_auto_recipe_dicts()
 
-    for template in AUTO_TEMPLATE_LIBRARY:
-        for discipline in AUTO_DISCIPLINES:
-            spec_data = build_auto_spec_data(discipline, template)
-            base_name = str(spec_data["name"]).strip()
-            if base_name in reserved_names:
-                continue
+    for recipe in recipes:
+        base_spec_data = dict(recipe)
+        base_summary = recipe_summary_from_variables(base_spec_data)
+        base_name = derive_name_from_summary(base_summary, base_spec_data)
+        base_name = ensure_unique_name(base_name, reserved_names)
+        base_spec_data["summary"] = base_summary
+        base_spec_data["effect_description"] = recipe_effect_from_variables(base_spec_data)
+        base_spec_data["name"] = base_name
 
-            if ollama_model:
-                try:
-                    spec_data = enrich_generated_spec_with_ollama(
-                        spec_data,
-                        model=ollama_model,
-                        timeout_seconds=ollama_timeout_seconds,
-                    )
-                except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
-                    print(f"[OLLAMA] Using fallback naming for '{base_name}': {exc}")
+        candidate_data = dict(base_spec_data)
 
-            if str(spec_data.get("name", "")).strip() in reserved_names:
-                spec_data["name"] = base_name
-
+        if ollama_model:
             try:
-                spec = parse_spec(spec_data)
-                breakdown = calculate_cost(spec)
-            except ValueError:
-                continue
+                candidate_data = enrich_generated_spec_with_ollama(
+                    candidate_data,
+                    model=ollama_model,
+                    timeout_seconds=ollama_timeout_seconds,
+                )
+            except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
+                print(f"[OLLAMA] Using deterministic recipe text for '{base_name}': {exc}")
 
-            idx = tier_index(breakdown.required_tier)
-            if idx < min_idx or idx > max_idx:
-                continue
+        candidate_name = ensure_unique_name(
+            str(candidate_data.get("name", "")).strip() or base_name,
+            reserved_names,
+        )
+        candidate_data["name"] = candidate_name
 
-            if spec.name in reserved_names:
-                continue
-            reserved_names.add(spec.name)
-            generated.append(spec)
-            if len(generated) >= count:
-                return generated
+        try:
+            spec = parse_spec(candidate_data)
+            breakdown = calculate_cost(spec)
+        except ValueError:
+            continue
+
+        idx = tier_index(breakdown.required_tier)
+        if idx < min_idx or idx > max_idx:
+            continue
+
+        if spec.name in reserved_names:
+            continue
+        reserved_names.add(spec.name)
+        generated.append(spec)
+        if len(generated) >= count:
+            return generated
 
     return generated
 
@@ -1126,6 +1213,15 @@ def command_auto(args: argparse.Namespace) -> int:
     print(f"- Recursive queue scan: {not args.no_recursive}")
     print(f"- Auto generation target: {args.generate_count} spells")
     print(f"- Tier window: {args.min_tier} to {args.max_tier}")
+    resolved_ollama_model = resolve_ollama_model(
+        str(getattr(args, "ollama_model", "") or ""),
+        timeout_seconds=max(5, int(getattr(args, "ollama_timeout_seconds", 20))),
+    )
+    args.ollama_model = resolved_ollama_model
+    if resolved_ollama_model:
+        print(f"- Ollama model: {resolved_ollama_model}")
+    else:
+        print("- Ollama model: disabled (deterministic naming/summaries active)")
 
     queue_files = discover_spec_files(spec_dir, args.spec_glob, recursive=not args.no_recursive)
     print(f"- Queue files discovered: {len(queue_files)}")
@@ -1178,7 +1274,7 @@ def command_auto(args: argparse.Namespace) -> int:
                 existing_names=existing,
                 min_tier=args.min_tier,
                 max_tier=args.max_tier,
-                ollama_model=(args.ollama_model or "").strip() or None,
+                ollama_model=(resolved_ollama_model or "").strip() or None,
                 ollama_timeout_seconds=int(args.ollama_timeout_seconds),
             )
         except ValueError as exc:
@@ -1957,6 +2053,7 @@ def build_parser() -> argparse.ArgumentParser:
         func=command_auto,
         sync_grimoire_indexes=True,
         sync_spells_hub=True,
+        ollama_model="llama3.1:8b",
     )
 
     gui = subparsers.add_parser(
@@ -1988,7 +2085,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     gui.add_argument(
         "--ollama-model",
-        default="",
+        default="llama3.1:8b",
         help="Initial Ollama model shown in the UI.",
     )
     gui.add_argument(

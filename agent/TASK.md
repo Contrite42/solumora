@@ -1,32 +1,44 @@
-# Task: Council Mechanisms Expansion
+# Task: High Demon Layer Expansion (ESCALATION REQUIRED)
 
 ## Goal
 
-Detail the **Council's Mechanisms** — how Auralis governance actually works beneath top-level council declarations.
+Expand the **High Demon Layer** with operational detail showing what the five High Demons (Sorath, Selvane, Fennick, Mave, Wren) actually do day-to-day.
 
 ## Constraints
 
-- Need 2-3 enforcement/implementation institutions and 3-4 bureaucratic operators
-- Must show how orders flow from council chambers to street-level execution
-- Must show divergence between council intent and implementation outcomes
-- 5-7 notes total: implementation bodies + mid-level administrators
-- Update [[The Council of Auralis]] with operational mechanism detail
+- Five High Demons exist but their daily activities, territorial boundaries, detection avoidance, conflicts/alliances need detail
+- Must preserve "nobody knows they exist" constraint while showing operational reality
+- This is **sensitive canon** — escalate any structural additions to [[DECISIONS.md]] before content creation
+- 5-8 notes total: demon territories/routines + detection-avoidance methods + 2-3 near-miss incidents
+- Update [[High Demons]] page (if exists) or relevant demon pages with behavioral patterns
+
+## Escalation Note
+
+**This task requires creator approval via DECISIONS.md before content creation begins.**
+
+Research and planning activities are permitted:
+- Reading existing demon documentation
+- Identifying canon gaps
+- Drafting expansion options for creator review
+
+Content creation (new demon pages, behavioral detail, near-miss incidents) requires explicit creator approval in agent/DECISIONS.md.
 
 ## Output Target
 
-5-7 notes showing practical governance infrastructure under the Council
+5-8 notes showing demon operational reality + behavioral patterns integration (AFTER creator approval)
 
 ## Execution Plan
 
-1. Create 2-3 implementation institutions (orders, enforcement, audit/appeal flow)
-2. Create 3-4 mid-level operators who translate policy into execution
-3. Connect to existing city and faction documentation in [[Auralis]]
-4. Update The Council of Auralis with mechanisms layer
-5. Run canon/link integrity check
+1. **FIRST:** Review existing High Demon documentation (Sorath, Selvane, Fennick, Mave, Wren pages)
+2. **SECOND:** Draft expansion options (A/B/C) for creator review in agent/DECISIONS.md
+3. **THIRD:** Wait for creator decision before proceeding with content creation
+4. **IF APPROVED:** Create demon territory/routine notes, detection-avoidance systems, near-miss incidents
+5. **IF APPROVED:** Update demon pages with behavioral integration
+6. **IF APPROVED:** Run canon/link integrity check
 
 ## Status
 
-ACTIVE - Copilot Auto executing
+BLOCKED - Awaiting creator escalation decision. Research phase permitted.
 
 ---
 

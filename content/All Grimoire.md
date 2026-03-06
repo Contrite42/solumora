@@ -26,3 +26,9 @@ _A note on Pale classification: Pale spells are not simply powerful. They are sp
 | **Raw Lantern Mark**   | Triangle | Emit  | Create | T0           | Raw        | Raw      | Point   | Self   | Immediate   | Where Written |
 | **Force Lantern Mark** | Triangle | Emit  | Create | T0           | Force      | Kinetic  | Point   | Self   | Immediate   | Where Written |
 | **Heat Lantern Mark** | Triangle | Emit | Create | T0 | Heat | Thermal | Point | Self | Immediate | Where Written |
+| **Binding Amplify Beam** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Beam | Self | Immediate | Where Written |
+| **Binding Amplify Cone** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cone | Self | Immediate | Where Written |
+| **Binding Amplify Cylinder** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cylinder | Self | Immediate | Where Written |
+| **Constraint Flux Augment** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Beam | Self | Immediate | Where Written |
+| **Binding Amplify Cone 3** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cone | Self | Immediate | Where Written |
+| **Binding Amplify Beam 2** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Beam | Self | Immediate | Where Written |

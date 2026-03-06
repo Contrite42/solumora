@@ -1232,3 +1232,129 @@ Creates a short-lived thermal transfer marker for close work.
 | Target | Where Written |
 | Spell Page | [[Spells/Heat Lantern Mark|Heat Lantern Mark]] |
 
+
+---
+
+**Binding Amplify Beam**
+Boosts binding constraint flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 77 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Beam |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Binding Amplify Beam|Binding Amplify Beam]] |
+
+
+---
+
+**Binding Amplify Cone**
+Boosts binding constraint flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 88 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cone |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Binding Amplify Cone|Binding Amplify Cone]] |
+
+
+---
+
+**Binding Amplify Cylinder**
+Boosts binding constraint flux as a column volume at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 110 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Binding Amplify Cylinder|Binding Amplify Cylinder]] |
+
+
+---
+
+**Constraint Flux Augment**
+Boosts binding constraint flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 77 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Beam |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Constraint Flux Augment|Constraint Flux Augment]] |
+
+
+---
+
+**Binding Amplify Cone 3**
+Boosts binding constraint flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 88 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cone |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Binding Amplify Cone 3|Binding Amplify Cone 3]] |
+
+
+---
+
+**Binding Amplify Beam 2**
+Boosts binding constraint flux as a directed line.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 77 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Beam |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Binding Amplify Beam 2|Binding Amplify Beam 2]] |
+
