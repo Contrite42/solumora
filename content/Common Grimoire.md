@@ -1140,3 +1140,129 @@ Temporarily reduces the effective weight of a touched object by dampening its in
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
+
+---
+
+**Primalring**
+A spell that shapes effects using raw magic.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Shape |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Heatplane**
+A spell that detects effects using heat magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Heat |
+| Output | Reactive |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Chaincolumn**
+A spell that dampens effects using binding magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Forcepoint**
+A spell that dampens effects using force magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T1 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Forcecolumn**
+A spell that detects effects using force magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Force |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Forcebeam**
+A spell that counters effects using force magic.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Heatring**
+A spell that moves effects using heat magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

@@ -970,3 +970,39 @@ Projects a condensed electrical beam that punches through resistive material, by
 | Reach | Medium |
 | Persistence | _(default — Immediate)_ |
 | Target | Individual |
+
+---
+
+**Echoring**
+A spell that binds effects using sound magic.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Create |
+| Control Tier | T4 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Ring |
+| Reach | Touch |
+| Persistence | Sustained |
+| Target | Individual |
+
+
+---
+
+**Shockfield**
+A spell that counters effects using electric magic.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T3 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+

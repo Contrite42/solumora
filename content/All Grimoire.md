@@ -14,3 +14,16 @@ The All Grimoire is the collected standard spellwork of [[Solumora]] — documen
 ---
 
 _A note on Pale classification: Pale spells are not simply powerful. They are spells whose effects operate at a level that brushes against something beyond the normal boundaries of [[Flux]]. Where Mythic spells demand everything a Conduit has, Pale spells demand something more. Most [[Flux Users|Scholars]] who have studied them agree they should be documented. Fewer agree they should be cast._
+
+## Sigil Maker Generated Index
+
+- [[Spells/Echoring|Echoring]] - 543 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Primalring|Primalring]] - 28 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Heatplane|Heatplane]] - 29 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Chaincolumn|Chaincolumn]] - 128 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Soulplane|Soulplane]] - 1782 W - T5 - [[Rare Grimoire|Rare]]
+- [[Spells/Forcepoint|Forcepoint]] - 15 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Forcecolumn|Forcecolumn]] - 75 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Forcebeam|Forcebeam]] - 78 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Shockfield|Shockfield]] - 265 W - T3 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Heatring|Heatring]] - 32 W - T1 - [[Common Grimoire|Common]]

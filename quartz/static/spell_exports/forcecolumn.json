@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Forcecolumn",
+    "summary": "A spell that detects effects using force magic.",
+    "effect_description": "A spell that detects effects using force magic. A triangle sense/create recipe that channels force discipline into constraint output. It applies a cylinder pattern against where written across self reach with immediate persistence.",
+    "hook": "Sense",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Force",
+    "output_mode": "Constraint",
+    "pattern": "Cylinder",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 6,
+    "pattern_w": 20,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 36,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "total_w": 75,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Forcecolumn** | Triangle | Sense | Create | T2 | Force | Constraint | Cylinder | Self | Immediate | Where Written |"
+}

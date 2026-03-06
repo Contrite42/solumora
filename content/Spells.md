@@ -26,3 +26,16 @@ Use the tiered grimoires as canonical spell references:
 - [[Legendary Grimoire]]
 - [[Mythic Grimoire]]
 - [[Pale Grimoire]]
+
+## Sigil Maker Generated Spells
+
+- [[Spells/Echoring|Echoring]] - 543 W - T4 (Uncommon)
+- [[Spells/Primalring|Primalring]] - 28 W - T1 (Common)
+- [[Spells/Heatplane|Heatplane]] - 29 W - T1 (Common)
+- [[Spells/Chaincolumn|Chaincolumn]] - 128 W - T2 (Common)
+- [[Spells/Soulplane|Soulplane]] - 1782 W - T5 (Rare)
+- [[Spells/Forcepoint|Forcepoint]] - 15 W - T1 (Common)
+- [[Spells/Forcecolumn|Forcecolumn]] - 75 W - T2 (Common)
+- [[Spells/Forcebeam|Forcebeam]] - 78 W - T2 (Common)
+- [[Spells/Shockfield|Shockfield]] - 265 W - T3 (Uncommon)
+- [[Spells/Heatring|Heatring]] - 32 W - T1 (Common)

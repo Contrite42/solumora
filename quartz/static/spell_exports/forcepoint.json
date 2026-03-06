@@ -1,10 +1,10 @@
 {
   "spec": {
     "name": "Forcepoint",
-    "summary": "A spell that protects against effects using force magic.",
-    "effect_description": "A spell that protects against effects using force magic. A triangle ward/affect recipe that channels force discipline into kinetic output. It applies a point pattern against where written across self reach with immediate persistence.",
-    "hook": "Ward",
-    "mode": "Affect",
+    "summary": "A spell that dampens effects using force magic.",
+    "effect_description": "A spell that dampens effects using force magic. A triangle dampen/control recipe that channels force discipline into kinetic output. It applies a point pattern against where written across self reach with immediate persistence.",
+    "hook": "Dampen",
+    "mode": "Control",
     "shape": "Triangle",
     "discipline": "Force",
     "output_mode": "Kinetic",
@@ -13,7 +13,7 @@
     "persistence": "Immediate",
     "target_spec": "Where Written",
     "sustained_minutes": 0,
-    "hook_mode_multiplier": 2.0,
+    "hook_mode_multiplier": 2.565,
     "hook_mode_flat_w": 0,
     "notes": "Generated automatically from randomized sigil variables."
   },
@@ -27,11 +27,11 @@
     "target_w": 0,
     "output_mode_premium_w": 0,
     "subtotal_outer_w": 6,
-    "hook_mode_multiplier": 2.0,
+    "hook_mode_multiplier": 2.565,
     "hook_mode_flat_w": 0,
-    "total_w": 12,
+    "total_w": 15,
     "required_tier": "T1",
     "rarity": "Common"
   },
-  "all_grimoire_row": "| **Forcepoint** | Triangle | Ward | Affect | T1 | Force | Kinetic | Point | Self | Immediate | Where Written |"
+  "all_grimoire_row": "| **Forcepoint** | Triangle | Dampen | Control | T1 | Force | Kinetic | Point | Self | Immediate | Where Written |"
 }

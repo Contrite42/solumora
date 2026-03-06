@@ -1,0 +1,18 @@
+{
+  "name": "Forcepoint",
+  "summary": "A spell that dampens effects using force magic.",
+  "effect_description": "A spell that dampens effects using force magic. A triangle dampen/control recipe that channels force discipline into kinetic output. It applies a point pattern against where written across self reach with immediate persistence.",
+  "hook": "Dampen",
+  "mode": "Control",
+  "shape": "Triangle",
+  "discipline": "Force",
+  "output_mode": "Kinetic",
+  "pattern": "Point",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.565,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Forcebeam",
+  "summary": "A spell that counters effects using force magic.",
+  "effect_description": "A spell that counters effects using force magic. A square counter/create recipe that channels force discipline into kinetic output. It applies a beam pattern against surface across self reach with immediate persistence.",
+  "hook": "Counter",
+  "mode": "Create",
+  "shape": "Square",
+  "discipline": "Force",
+  "output_mode": "Kinetic",
+  "pattern": "Beam",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Surface",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.9899999999999998,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

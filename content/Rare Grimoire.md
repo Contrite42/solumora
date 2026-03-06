@@ -443,3 +443,21 @@ Sustains a crackling electrical storm field across a wide area, delivering conti
 | Reach | Anchored |
 | Persistence | Sustained |
 | Target | Group |
+
+---
+
+**Soulplane**
+A spell that amplifies effects using soul magic.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+

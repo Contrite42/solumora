@@ -1,0 +1,18 @@
+{
+  "name": "Soulplane",
+  "summary": "A spell that amplifies effects using soul magic.",
+  "effect_description": "A spell that amplifies effects using soul magic. A square amplify/control recipe that channels soul discipline into soul output. It applies a plane pattern against self across self reach with immediate persistence.",
+  "hook": "Amplify",
+  "mode": "Control",
+  "shape": "Square",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Plane",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Self",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.9700000000000006,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

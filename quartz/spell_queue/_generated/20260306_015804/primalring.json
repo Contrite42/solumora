@@ -1,0 +1,18 @@
+{
+  "name": "Primalring",
+  "summary": "A spell that shapes effects using raw magic.",
+  "effect_description": "A spell that shapes effects using raw magic. A square shape/affect recipe that channels raw discipline into raw output. It applies a ring pattern against self across self reach with immediate persistence.",
+  "hook": "Shape",
+  "mode": "Affect",
+  "shape": "Square",
+  "discipline": "Raw",
+  "output_mode": "Raw",
+  "pattern": "Ring",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Self",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.2,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

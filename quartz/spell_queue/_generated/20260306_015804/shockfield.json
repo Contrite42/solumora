@@ -1,0 +1,18 @@
+{
+  "name": "Shockfield",
+  "summary": "A spell that counters effects using electric magic.",
+  "effect_description": "A spell that counters effects using electric magic. A square counter/affect recipe that channels electric discipline into shock output. It applies a field pattern against object across self reach with immediate persistence.",
+  "hook": "Counter",
+  "mode": "Affect",
+  "shape": "Square",
+  "discipline": "Electric",
+  "output_mode": "Shock",
+  "pattern": "Field",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Object",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.6,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

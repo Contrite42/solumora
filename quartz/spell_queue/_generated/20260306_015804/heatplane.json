@@ -1,0 +1,18 @@
+{
+  "name": "Heatplane",
+  "summary": "A spell that detects effects using heat magic.",
+  "effect_description": "A spell that detects effects using heat magic. A triangle sense/affect recipe that channels heat discipline into reactive output. It applies a plane pattern against where written across self reach with immediate persistence.",
+  "hook": "Sense",
+  "mode": "Affect",
+  "shape": "Triangle",
+  "discipline": "Heat",
+  "output_mode": "Reactive",
+  "pattern": "Plane",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.8,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

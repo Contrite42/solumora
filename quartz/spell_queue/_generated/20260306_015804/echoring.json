@@ -1,0 +1,18 @@
+{
+  "name": "Echoring",
+  "summary": "A spell that binds effects using sound magic.",
+  "effect_description": "A spell that binds effects using sound magic. A circle bind/create recipe that channels sound discipline into sonic output. It applies a ring pattern against individual across touch reach with sustained persistence. The sustained window is set to 50 minutes.",
+  "hook": "Bind",
+  "mode": "Create",
+  "shape": "Circle",
+  "discipline": "Sound",
+  "output_mode": "Sonic",
+  "pattern": "Ring",
+  "reach": "Touch",
+  "persistence": "Sustained",
+  "target_spec": "Individual",
+  "sustained_minutes": 50,
+  "hook_mode_multiplier": 1.8399999999999999,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Echoring",
+    "summary": "A spell that binds effects using sound magic.",
+    "effect_description": "A spell that binds effects using sound magic. A circle bind/create recipe that channels sound discipline into sonic output. It applies a ring pattern against individual across touch reach with sustained persistence. The sustained window is set to 50 minutes.",
+    "hook": "Bind",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Sound",
+    "output_mode": "Sonic",
+    "pattern": "Ring",
+    "reach": "Touch",
+    "persistence": "Sustained",
+    "target_spec": "Individual",
+    "sustained_minutes": 50,
+    "hook_mode_multiplier": 1.8399999999999999,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 4,
+    "core_discipline_w": 220,
+    "pattern_w": 15,
+    "reach_w": 2,
+    "persistence_w": 50,
+    "target_w": 8,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 295,
+    "hook_mode_multiplier": 1.8399999999999999,
+    "hook_mode_flat_w": 0,
+    "total_w": 543,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Echoring** | Circle | Bind | Create | T4 | Sound | Sonic | Ring | Touch | Sustained | Individual |"
+}
