@@ -23,6 +23,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.SolumoraMap(),
+      condition: (page) => page.fileData.slug?.toLowerCase() === "solumora",
+    }),
   ],
   left: [
     Component.PageTitle(),

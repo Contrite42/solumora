@@ -1,0 +1,153 @@
+.solumora-map {
+  margin: 1.2rem 0 1.5rem;
+  padding: 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--light) 86%, var(--tertiary) 14%);
+}
+
+.solumora-map-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+
+  h2 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: var(--dark);
+  }
+}
+
+.solumora-map-refresh {
+  border: 1px solid var(--gray);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--secondary);
+  padding: 0.3rem 0.65rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+
+  &:hover {
+    border-color: var(--secondary);
+  }
+}
+
+.solumora-map-status {
+  margin: 0.45rem 0 0.7rem;
+  color: var(--darkgray);
+  font-size: 0.82rem;
+}
+
+.solumora-map-svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid color-mix(in srgb, var(--gray) 42%, transparent);
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--tertiary) 22%, var(--light) 78%) 0%,
+    color-mix(in srgb, var(--secondary) 13%, var(--light) 87%) 100%
+  );
+}
+
+.solumora-map-continent {
+  fill: color-mix(in srgb, var(--light) 86%, var(--gray) 14%);
+  stroke: color-mix(in srgb, var(--darkgray) 45%, var(--gray) 55%);
+  stroke-width: 2;
+}
+
+.solumora-zone {
+  stroke-width: 1.6;
+  fill-opacity: 0.28;
+}
+
+.solumora-zone--north {
+  fill: color-mix(in srgb, var(--secondary) 46%, var(--light) 54%);
+  stroke: color-mix(in srgb, var(--secondary) 72%, var(--darkgray) 28%);
+}
+
+.solumora-zone--desert {
+  fill: color-mix(in srgb, #c78d3a 50%, var(--light) 50%);
+  stroke: color-mix(in srgb, #9a6524 72%, var(--darkgray) 28%);
+}
+
+.solumora-zone--south {
+  fill: color-mix(in srgb, var(--tertiary) 60%, var(--light) 40%);
+  stroke: color-mix(in srgb, var(--tertiary) 80%, var(--darkgray) 20%);
+}
+
+.solumora-zone-label {
+  text-anchor: middle;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  fill: color-mix(in srgb, var(--darkgray) 86%, var(--light) 14%);
+  pointer-events: none;
+}
+
+.solumora-map-marker {
+  cursor: pointer;
+  text-decoration: none;
+
+  circle {
+    fill: #cb5e26;
+    stroke: var(--light);
+    stroke-width: 2;
+    transition: transform 0.2s ease, fill 0.2s ease, opacity 0.2s ease;
+    transform-origin: center;
+  }
+
+  text {
+    fill: var(--dark);
+    font-size: 22px;
+    font-weight: 700;
+    paint-order: stroke;
+    stroke: color-mix(in srgb, var(--light) 96%, transparent);
+    stroke-width: 4;
+    pointer-events: none;
+  }
+
+  &:hover circle {
+    fill: color-mix(in srgb, var(--secondary) 66%, #cb5e26 34%);
+    transform: scale(1.15);
+  }
+
+  &.is-active circle {
+    fill: color-mix(in srgb, #1f8f5c 72%, var(--tertiary) 28%);
+  }
+
+  &.is-missing {
+    cursor: default;
+  }
+
+  &.is-missing circle {
+    fill: color-mix(in srgb, var(--gray) 72%, var(--lightgray) 28%);
+    opacity: 0.55;
+  }
+
+  &.is-missing text {
+    fill: color-mix(in srgb, var(--gray) 76%, var(--darkgray) 24%);
+  }
+}
+
+.solumora-map-note {
+  margin: 0.7rem 0 0;
+  font-size: 0.82rem;
+  color: var(--darkgray);
+}
+
+@media (max-width: 800px) {
+  .solumora-map {
+    padding: 0.8rem;
+  }
+
+  .solumora-zone-label {
+    font-size: 20px;
+  }
+
+  .solumora-map-marker text {
+    font-size: 18px;
+  }
+}

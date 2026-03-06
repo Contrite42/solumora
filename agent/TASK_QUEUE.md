@@ -1,8 +1,11 @@
 ﻿# Task Queue
 Permanant Task: The World Always Needs More. There is Always something to add a new adventure to play out in this world, a new friend, a new town, a new spell, a new description. There will always be more.
 
-Whenever human interaction  
-## CONCURRENT AGENT OWNERSHIP (ACTIVE)
+Whenever human interaction is needed, pop open a GUI that I can respond in
+
+develop a method of file traversal more AI efficient that All three High level Agents can use.
+
+e## CONCURRENT AGENT OWNERSHIP (ACTIVE)
 
 Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` currently offline).
 
