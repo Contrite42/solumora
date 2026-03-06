@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Beam Anchor Amp",
+    "summary": "Boosts binding kinetic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.",
+    "effect_description": "A triangle amplify/affect recipe that channels binding discipline into kinetic output. It applies a beam pattern against where written across self reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Binding",
+    "output_mode": "Kinetic",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from sigil variable synthesis."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 30,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 45,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 99,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Beam Anchor Amp** | Triangle | Amplify | Affect | T2 | Binding | Kinetic | Beam | Self | Immediate | Where Written |",
+  "ollama_interpretation": "**Spell Note: Beam Anchor Amp**\n\nThis spell amplifies binding kinetic flux in a directed line, targeting an inscribed anchor with immediate discharge. It's likely used for combat or anchoring spells.\n\nOperational constraint: The target must be within the caster's reach and clearly defined by writing on themselves."
+}

@@ -18,3 +18,13 @@
 | **Mind Workline Brace** | Triangle | Ward | Affect | T3 | Mind | Neuro | Plane | Self | Immediate | Where Written |
 | **Raw Cargo Stitch** | Square | Bind | Affect | T1 | Raw | Raw | Point | Self | Immediate | Object |
 | **Force Cargo Stitch** | Square | Bind | Affect | T1 | Force | Kinetic | Point | Self | Immediate | Object |
+| **Amplified Binding Target** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Beam | Self | Immediate | Where Written |
+| **Amplify Constraint** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cone | Self | Immediate | Where Written |
+| **Constraint Volume Anchor** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cylinder | Self | Immediate | Where Written |
+| **Amplified Binding Triangle** | Triangle | Amplify | Affect | T3 | Binding | Constraint | Field | Self | Immediate | Where Written |
+| **Binding Affect Triangle** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Plane | Self | Immediate | Where Written |
+| **Amplify Binding** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Point | Self | Immediate | Where Written |
+| **Amplified Constraint** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Ring | Self | Immediate | Where Written |
+| **Sphere Flux Anchor** | Triangle | Amplify | Affect | T3 | Binding | Constraint | Sphere | Self | Immediate | Where Written |
+| **Beam Anchor Amp** | Triangle | Amplify | Affect | T2 | Binding | Kinetic | Beam | Self | Immediate | Where Written |
+| **Amplify Binding Flux** | Triangle | Amplify | Affect | T2 | Binding | Kinetic | Cone | Self | Immediate | Where Written |

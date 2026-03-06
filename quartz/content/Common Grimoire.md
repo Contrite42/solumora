@@ -400,3 +400,171 @@ Secures a single object against routine jolts using kinetic force.
 | Target | Object |
 | Spell Page | [[Spells/Force Cargo Stitch|Force Cargo Stitch]] |
 
+
+---
+
+**Amplified Binding Target**
+Boosts binding constraint flux as a directed line at self reach, targeting the inscribed anchor.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 77 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Beam |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Amplified Binding Target|Amplified Binding Target]] |
+
+
+---
+
+**Amplify Constraint**
+Boosts binding constraint flux as a fan spread at self reach, targeting the inscribed anchor.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 88 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cone |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Amplify Constraint|Amplify Constraint]] |
+
+
+---
+
+**Constraint Volume Anchor**
+Boosts binding constraint flux as a column volume at self reach, targeting the inscribed anchor.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 110 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Constraint Volume Anchor|Constraint Volume Anchor]] |
+
+
+---
+
+**Binding Affect Triangle**
+Boosts binding constraint flux as a planar spread at self reach.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 66 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Binding Affect Triangle|Binding Affect Triangle]] |
+
+
+---
+
+**Amplify Binding**
+Boosts binding constraint flux as a focus targeting the inscribed anchor.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 66 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Point |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Amplify Binding|Amplify Binding]] |
+
+
+---
+
+**Amplified Constraint**
+Boosts binding constraint flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 99 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Ring |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Amplified Constraint|Amplified Constraint]] |
+
+
+---
+
+**Beam Anchor Amp**
+Boosts binding kinetic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 99 W |
+| Discipline | Binding |
+| Output | Kinetic |
+| Pattern | Beam |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Beam Anchor Amp|Beam Anchor Amp]] |
+
+
+---
+
+**Amplify Binding Flux**
+Boosts binding kinetic flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T2 |
+| Rarity | Common |
+| Watts | 110 W |
+| Discipline | Binding |
+| Output | Kinetic |
+| Pattern | Cone |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Amplify Binding Flux|Amplify Binding Flux]] |
+

@@ -1,0 +1,18 @@
+{
+  "name": "Binding Affect Triangle",
+  "summary": "Boosts binding constraint flux as a planar spread at self reach.",
+  "effect_description": "A triangle amplify/affect recipe that channels binding discipline into constraint output. It applies a plane pattern against where written across self reach with immediate persistence.",
+  "hook": "Amplify",
+  "mode": "Affect",
+  "shape": "Triangle",
+  "discipline": "Binding",
+  "output_mode": "Constraint",
+  "pattern": "Plane",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.2,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from sigil variable synthesis."
+}

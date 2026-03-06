@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Amplified Binding Triangle",
+    "summary": "Boosts binding constraint flux as a field volume at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.",
+    "effect_description": "A triangle amplify/affect recipe that channels binding discipline into constraint output. It applies a field pattern against where written across self reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Binding",
+    "output_mode": "Constraint",
+    "pattern": "Field",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from sigil variable synthesis."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 30,
+    "pattern_w": 60,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 90,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 198,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Amplified Binding Triangle** | Triangle | Amplify | Affect | T3 | Binding | Constraint | Field | Self | Immediate | Where Written |",
+  "ollama_interpretation": "**Amplified Binding Triangle Spell**\n\nThis spell amplifies the binding constraint flux in a targeted area, creating a field of binding discipline that affects existing conditions. Likely use: securing or reinforcing a previously bound entity or location.\n\nOperational constraint: Requires direct physical contact with the inscribed anchor to activate the immediate discharge effect."
+}

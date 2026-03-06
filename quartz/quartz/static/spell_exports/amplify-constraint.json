@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Amplify Constraint",
+    "summary": "Boosts binding constraint flux as a fan spread at self reach, targeting the inscribed anchor.",
+    "effect_description": "A triangle amplify/affect recipe that channels binding discipline into constraint output. It applies a cone pattern against where written across self reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Binding",
+    "output_mode": "Constraint",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from sigil variable synthesis."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 30,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 40,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 88,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Amplify Constraint** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cone | Self | Immediate | Where Written |",
+  "ollama_interpretation": "**Spell Name:** Amplify Constraint\n\n**Effect:** Boosts binding constraint energy as a cone-shaped effect that targets the inscribed anchor.\n\n**Likely Use:** Enhancing magical bindings or constraints to increase their effectiveness.\n\n**Operational Constraint:** Must be written across self-reach, limiting its application to personal, internal bindings."
+}

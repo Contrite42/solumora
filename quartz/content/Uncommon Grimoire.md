@@ -22,3 +22,45 @@ Stiffens a small work area with controlled neural signatures.
 | Target | Where Written |
 | Spell Page | [[Spells/Mind Workline Brace|Mind Workline Brace]] |
 
+
+---
+
+**Amplified Binding Triangle**
+Boosts binding constraint flux as a field volume at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T3 |
+| Rarity | Uncommon |
+| Watts | 198 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Field |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Amplified Binding Triangle|Amplified Binding Triangle]] |
+
+
+---
+
+**Sphere Flux Anchor**
+Boosts binding constraint flux as a spherical envelope at self reach, targeting the inscribed anchor.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T3 |
+| Rarity | Uncommon |
+| Watts | 132 W |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Sphere |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+| Spell Page | [[Spells/Sphere Flux Anchor|Sphere Flux Anchor]] |
+
