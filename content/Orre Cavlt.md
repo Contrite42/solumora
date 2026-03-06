@@ -19,3 +19,17 @@ One shipment he expected to clear in one day sat for four without any formal hol
 He has been in this business long enough to know the difference between friction and signal. He is not yet sure which this is. But it is not random.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+The informal indicators he reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. [[Orre Cavlt]] has been in cross-border trade long enough to distinguish between friction that has a cause and friction that is systematic. This is systematic, but the system has changed in ways he cannot map.
+
+Two of his longer relationships on the [[Auralis]] side have become careful. Not hostile, not uncooperative, but careful in a way that suggests they are managing information they did not previously need to manage. Conversations that used to be straightforward now include pauses, qualifications, references to "current conditions" that are never specified. When he asks directly what has changed, they deflect or change the subject.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. No explanation was provided. No additional documentation was requested. The cargo was eventually released with the same paperwork he had submitted originally. When he asked his contact what had caused the delay, she said it was "routine verification" and would not elaborate. He has been moving similar cargo through the same channels for eight years. Routine verification has never taken four days.
+
+The pattern extends beyond individual transactions. The rhythm of the border itself has shifted. Inspections take longer. Conversations between [[Auralis]] officials happen in lower voices. The administrative apparatus that he has learned to navigate efficiently over two decades is operating according to priorities he cannot read.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random, temporary, explicable when you find the right person to ask. Signal is systematic, persistent, and the people who could explain it either do not know or will not say. He is not yet sure which this is, but it is not random.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*

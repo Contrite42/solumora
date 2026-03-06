@@ -13,16 +13,18 @@ Use this split while Codex, Claude Code, and Copilot Auto run simultaneously.
 
 ## CURRENT REVIEW GATE (DO THIS FIRST)
 
-- [ ] **Operator decision first** - Resolve routine review outcomes without creator input.
+- [x] **Operator decision first** - Resolve routine review outcomes without creator input.
   **How:** For low-impact batches, operators set `Active Review Decision` status directly.
   **Reject case:** If invalid links/canon mismatches appear, reject with fix notes and rerun.
   **Owner:** `Codex`
+  **Status note:** Batch 2 was escalated correctly due principal-character scope (`content/Cassia.md`).
 
-- [ ] **Creator escalation only when needed**
+- [x] **Creator escalation only when needed**
   **Escalate only for:** world structure, core storyline, principal characters, or major events.
   **Format:** Write creator decision in `agent/DECISIONS.md` with at least 3 options (A/B/C).
   **Done when:** creator sets chosen option in `agent/DECISIONS.md`.
   **Owner:** `Codex`
+  **Status note:** Batch 2 decision recorded as `APPROVED` in `agent/DECISIONS.md`; review gate cleared.
 ---
 ## âœ… FOREVER TASK â€” Canon + Links Integrity (Run Every Cycle)
 
@@ -69,6 +71,12 @@ Blocked tasks are marked with their dependency.
 - [x] **Goal:** Make **Auralis** feel like a place by building 1 capital city + 3 districts + the people moving inside them.  
   **Constraints:** Dense urban basin, engineered with Flux. Each district must have its own economy + social pressure + recurring NPCs.  
   **Output:** 8 notes (capital + districts + 4 people) + update [[Auralis]].
+
+- [ ] **Goal:** Clarify Zakros crossing access limits for low tiers in world-facing pages.
+  **Constraints:** Establish explicitly that [[Control Tier|Tier 1]] and [[Control Tier|Tier 0]] travelers cannot break into the active Flux zone around [[Desert Zakros]], which is one reason crossings require specialist support. Keep all existing crossing methods canon-consistent. No new factions, characters, or named locations.
+  **Output:** Append clarifying language to existing desert crossing pages (minimum: [[Equatorial Desert]] plus two crossing-method/site notes) and add/verify at least one hub backlink.
+  **Escalation note:** If scope expands to `content/Solumora.md` or `content/World Primer.md`, create a `agent/DECISIONS.md` escalation entry first.
+  **Owner:** `Claude Code`
 
 - [ ] **Goal:** Make **Terravelle** feel like a place by building 1 northern megacity + 3 districts + rural supply chain feeding it.  
   **Constraints:** Rural/pragmatic kingdom; Flux as trade skill. City must depend on farms/river valleys and trade.  
@@ -184,5 +192,7 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Trade & Travel spine | Complete | Batch 3R1 applied: Solumora.md + World Primer.md "How People Move" sections. TASK-09/10 marked complete. |
 | 2026-03-05 | Equatorial Crossing Economy | Complete | 8 new pages: Halveth Cooperative, Relay Compact, Terravelle Desert Trade Office, Standard Guided Crossing, Express Route Crossing, Relay-Stage Crossing, The Southern Approaches, The Northern Narrows. Equatorial Desert.md updated. Backlinks added to Halveth.md, Avel Coss.md. |
 | 2026-03-05 | Grimoire Economy | Complete | 10 new pages: Guild Scrivener Network, Independent Scrivener, Grimoire Authentication, Black Market Grimoire Circulation, Grimoire Rights and Restrictions, Grimoire Lending and Rental, Grimoire Commissioning, Cross-Border Grimoire Trade, Scrivener Regulation, Grimoire Repair and Preservation. Grimoires.md updated with comprehensive economy section. All notes linked from Grimoires hub. |
+| 2026-03-05 | Queue update | Added task | Added explicit world-edit task: Tier 1/Tier 0 cannot break into active Flux zone around Desert Zakros; assigned to Claude Code. |
 | 2026-03-05 | Factions hub | Complete | Created Factions hub + 12 institution notes. Appended inbound link blocks to index.md, Terravelle Administration.md, and The Council of Auralis.md. |
+| 2026-03-05 | Review gate | Complete | Batch 2 creator escalation resolved as APPROVED in DECISIONS.md. Staged appends already present in Cavel Dorst.md and Cassia.md. |
 

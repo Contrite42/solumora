@@ -44,4 +44,10 @@ The [[Flux Users|Scholar]] community has not yet formally classified Hypertext w
 
 Whether Hypertext represents an evolution of the sigil system or a parallel path that will eventually diverge entirely is a question [[Wolfpoint]] is still in the process of answering.
 
-*See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]], [[Mell Rask's Letters]]*
+## Strategic Significance
+
+Both [[Terravelle]] and [[Auralis]] are aware of Hypertext's existence. Neither has meaningful access to it. The analysis of why both kingdoms want it, what they have tried, and what Wolfpoint is doing about the pressure is in [[The Wolfpoint Question]].
+
+From Auralis's side, [[Orva Dresk]] has been attempting to reconstruct Hypertext from secondhand sources and ruins-artifact analysis — significant progress by some measures, but missing the foundational structure that Scholarium access would provide. From Terravelle's side, the Crown's strategy has been relationship management rather than independent development, maintained through [[Keln Varost]]'s standing envoy relationship.
+
+*See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]], [[Mell Rask's Letters]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Orva Dresk]], [[Keln Varost]]*

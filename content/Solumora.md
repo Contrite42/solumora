@@ -62,3 +62,17 @@ The exception is the Ascendant Path, which is explicit enough in its theology th
 
 *See also: [[Religions]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]]*
 
+## History
+
+The full timeline of Solumora spans an unknown pre-modern period, a founding era approximately six hundred years ago, four centuries of isolation between the kingdoms, and two centuries of Contact-era development that has produced the current political situation.
+
+The **ancient civilization** that built the ruins in Desert Zakros is not named in any surviving record. What they left behind — the ruins, the [[Watts]] ledger, the [[Ancient Ruins|anomalous Flux sites]] — is still active. What ended them is unknown. The leading theories are documented in [[The Ancient Civilization]] and [[The Desert Barrier]].
+
+The **founding period** produced two kingdoms that developed independently across the [[Isolation Period]] — four centuries in which the [[Grimoire Tradition|grimoire tradition]] emerged separately in both kingdoms (arriving at nearly identical systems), the [[Persecution Era]] burned through both kingdoms' communities, and the cultures diverged in ways documented in [[The Cultural Divergence]].
+
+**Contact** began approximately two hundred years ago when Auralis developed reliable crossing technology. The relationship since then has included [[The Three Near-Wars]] and the slow accumulation of the current tensions described in [[The Fraying Peace]].
+
+For the full historical hub, see [[History]].
+
+*See also: [[History]], [[History of Solumora]], [[The Ancient Civilization]], [[The Desert Barrier]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Isolation Period]], [[The Persecution Era]], [[The First Contact]], [[The Three Near-Wars]], [[The Fraying Peace]]*
+

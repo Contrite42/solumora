@@ -24,4 +24,12 @@ The kingdoms are not enemies. They are rivals who have not yet become enemies, m
 
 The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Dozens of smaller cities and towns fill the settled belt between them.
 
-*See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Terravelle Administration]], [[The Three Near-Wars]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Adventurers]]*
+### Valdenmoor
+
+Valdenmoor is Terravelle's largest city and its administrative center, spread horizontally across both banks of the [[Maren River]]. Half a million people. Wide roads, functional architecture, the civic pride of a city that works without being impressive.
+
+The city's internal structure reflects its priorities. [[The Dock Wards]] run the river-facing commercial waterfront where the [[Maren Freight Chain]]'s volume arrives and distributes. The [[Guild Quarter]] is where Terravelle's trade guilds — the kingdom's actual governance for most practical purposes — maintain their institutional life. [[The Outer Wards]] are the residential belt where the city's working population lives, organized by trade districts and long-resident community networks.
+
+Valdenmoor's agricultural supply base is [[Maren Valley]], the farming communities along the upper and middle Maren whose grain output and seasonal labor pool flow toward the capital through the Freight Chain's river logistics.
+
+*See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Terravelle Administration]], [[The Three Near-Wars]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Adventurers]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]]*

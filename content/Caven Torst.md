@@ -1,0 +1,19 @@
+**Caven Torst** is a ferry operator on the [[Maren River]] at [[Valdenmoor]], running the main crossing at the northern dock approach. He is forty-one, T1, and has worked the same crossing for fifteen years.
+
+## The Work
+
+The Maren crossing at the northern approach is one of the busier ferry points in Valdenmoor — connecting the two riverbanks at a location that is downstream of most of the dock freight traffic and therefore usable for the lighter crossings of people, livestock, and small cargo that need to move without competing with heavy freight scheduling. Caven owns his crossing boat and leases the dock access from the River Transport Guild on an annual arrangement that has renewed without significant renegotiation since he established the operation.
+
+Fifteen years on a specific point of river creates a body of knowledge that cannot be replicated from records. Caven knows the current patterns at his crossing in every season — the spring snowmelt surge that raises the water level by nearly a meter and increases current velocity; the late summer shallow that pushes debris into the channel; the particular wind behavior that comes off the valley to the northwest on certain summer mornings, producing a crosswind component that a loaded boat must account for on an eastward crossing. He knows which river wall sigils upstream are due for maintenance before the spring surge and can estimate from the water's behavior whether they have been properly refreshed or are running on deferred maintenance.
+
+His T1 capacity covers the basic navigation assists he uses — water-reading, the minor current-resistance spells that reduce pole-work on headwind crossings — but the core of his expertise is observational and practical rather than magical. The guild certification that governs his operation recognizes this; the River Transport Guild's certification for ferry operators has separate skill tracks for Flux-assisted and non-assisted navigation, and Caven's full certification covers both.
+
+## Character and Life
+
+Caven is deliberate and unhurried in the way that people who cannot afford to rush on a river become. A hasty ferry crossing on the Maren in poor conditions is a recoverable situation if the operator reads it correctly in the first several seconds and is a much more serious problem if they don't. This professional caution extends to his general approach: he is not quick to conclude, not quick to commit, and has a reputation among his regular passengers for giving accurate assessments of river conditions and crossing risks that is trusted more than official river safety bulletins because his track record is longer.
+
+He has a son who assessed at T3 last year at age thirteen. The assessment drew some attention from the [[Trade Guilds|guild]] scholarship network — T3 at thirteen is early enough and high enough that training opportunities are extended. Caven has been careful about this, not steering his son toward any particular track but ensuring he understands what the options actually offer versus what they appear to offer. His own experience of guild life has given him a fairly accurate read on which training opportunities lead to genuine independence and which lead to institutional dependency wearing the appearance of support.
+
+He lives in the northern Outer Wards with his son, in a building he owns outright. The ferry income is consistent rather than large, and his ownership of both boat and building means his fixed costs are low relative to income. He is not wealthy but has the particular financial stability that comes from having reduced variable exposure through ownership — a Valdenmoor aspiration that his specific position has allowed him to achieve.
+
+*See also: [[The Dock Wards]], [[Valdenmoor]], [[Maren River]], [[Trade Guilds]], [[Control Tier]], [[The Outer Wards]], [[Life in Valdenmoor]]*

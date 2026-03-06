@@ -20,6 +20,9 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 ### Escalation Reasons
 - Touches principal character page: `content/Cassia.md`.
 
+### Auto Flags
+- content/Cassia.md: missing link targets -> The Expansion Faction
+
 ### Creator Options
 - Option A: APPROVE batch as staged.
 - Option B: REJECT and regenerate this batch.

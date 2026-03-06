@@ -32,12 +32,12 @@ What Wolfpoint has built over seven generations is not a finished system. [[Hype
 
 The current head of the Voss line, [[The Voss Line|Sera Voss]], is the first to formally document Hypertext sequences in transmissible form — a [[Grimoires|grimoire]] equivalent that can be copied and taught rather than passed down through direct instruction. Whether this document ever reaches [[Auralis]] is a question the current Voss head has not yet answered.
 
-*See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Solen Carr]], [[Mell Rask]], [[Cossa Vrend]]*
+## Geopolitical Position
 
-## Trade Connectivity
+Wolfpoint's independence rests on being more valuable as an independent knowledge center than as a territory belonging to either kingdom. Both kingdoms know this. Both kingdoms manage their relationships with the settlement accordingly — [[Terravelle]] through the standing envoy relationship that [[Keln Varost]] manages from [[Greyveil]], [[Auralis]] through the research relationships and the indirect connection that [[Drest]] maintains with [[Mira Solv]].
 
-Wolfpoint's material link to the broader economy is intermittent but dependable: the [[Outer Coast Packet Line]]. Packet captains handle mixed cargo and correspondence runs that connect Wolfpoint to [[Ashford]] and onward commercial networks.
+The strategic dimensions of this situation — why both kingdoms want Hypertext access, what they have tried, what Wolfpoint fears — are examined in [[The Wolfpoint Question]].
 
-The settlement's leadership treats this line as utility, not dependence. Packet arrivals are scheduled into storage and workshop cycles so delays do not force emergency procurement.
+What Wolfpoint actually sends out into the world — physical exports through the [[Outer Coast Packet Line]], and the knowledge exports that are its primary currency — is documented in [[Wolfpoint Exports]].
 
-*See also: [[Outer Coast Packet Line]], [[Ashford]], [[Terravelle]], [[Auralis]], [[Life in Wolfpoint]]*
+*See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Mell Rask]], [[Cossa Vrend]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Keln Varost]], [[Outer Coast Packet Line]], [[Ashford]]*

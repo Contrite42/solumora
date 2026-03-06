@@ -24,12 +24,14 @@ The Maren River runs through the center of the city and has been the reason for 
 
 The trade gala where [[Cael]] first saw [[Cassia]] was held in Valdenmoor's formal reception district, in the hall that handles diplomatic functions when the palace itself is considered too pointed a venue.
 
-*See also: [[Terravelle]], [[Eddan Voss]], [[Cael]], [[Solumora]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Fen Orel]], [[Life in Valdenmoor]], [[Ordinary Life]]*
+## Districts
 
-## River Logistics Role
+Valdenmoor's internal organization follows the logic of its functions. [[The Dock Wards]] run along the Maren's western bank — the commercial waterfront where river trade arrives, is stored, and moves on. Behind them, [[Guild Quarter]] is the city's institutional and social center, where the trade guilds maintain their halls and run the certification systems that govern most of Valdenmoor's professional life. The residential belt beyond is [[The Outer Wards]] — neighborhoods where most of the city's population lives, organized by the specific trades and long-term community relationships that characterize settled urban life.
 
-Valdenmoor's market and warehouse districts serve as the administrative center of the [[Maren Freight Chain]]. Dispatch schedules, bonded storage windows, and transfer pricing for river-borne bulk cargo are coordinated here before volume is pushed east toward [[Ashford]] for export.
+## Hinterland and Supply
 
-This work is not glamorous, but it is one of the systems that allows Terravelle to keep trade moving when political conditions at the border are unstable.
+Valdenmoor's supply base is [[Maren Valley]] — the agricultural and river-transport communities within several days' travel of the capital. The valley's grain and agricultural output reaches the city through the [[Maren Freight Chain]]'s river logistics. Valley communities also provide seasonal labor to the city's dock market, with workers spending low-demand agricultural seasons in Valdenmoor before returning home for planting and harvest.
 
-*See also: [[Maren Freight Chain]], [[Ashford]], [[Trade Guilds]], [[Life in Valdenmoor]]*
+Dispatch schedules, bonded storage windows, and transfer pricing for river-borne bulk cargo are coordinated in Valdenmoor's administrative offices before volume is pushed east toward [[Ashford]] for export. This is not glamorous work, but it is one of the systems that allows Terravelle to keep trade moving when political conditions at the border are unstable.
+
+*See also: [[Terravelle]], [[Eddan Voss]], [[Cael]], [[Solumora]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Fen Orel]], [[Life in Valdenmoor]], [[Ordinary Life]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Maren Freight Chain]], [[Trade Guilds]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]]*

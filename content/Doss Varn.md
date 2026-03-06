@@ -19,3 +19,17 @@ He is also seeing more travelers with [[Terravelle]] papers than he has seen in 
 He is recording what he sees. He does not know what it means.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+His briefings have changed in tone over the past year. [[Doss Varn]] cannot point to a specific moment when this started, but the change is consistent enough that he has begun keeping his own notes about what he observes. The documentation protocols that arrived six months ago came without explanation — new forms for logging traveler information, additional fields for recording the origin and stated purpose of [[Terravelle]] papers, requirements to note details that were previously considered routine administrative noise.
+
+The officer who delivered the new protocols said they came from [[Auralis]] command, which is not unusual. What was unusual was her tone when she said it. Careful. As if the protocols themselves were not the point, but rather evidence of something larger that she could not discuss directly.
+
+More travelers with Terravelle papers than he has seen before. Not dramatically more — the numbers are not outside normal seasonal variation — but the pattern is different. More merchants claiming extended stays. More people whose stated business in [[Ashford]] does not quite align with the cargo they are carrying or the contacts they name. He logs what he sees because that is what the protocols require, but he has begun to wonder what the logs are being used for.
+
+One of his contacts at the Ashford command post told him to log everything carefully, which she has never said before. When he asked why, she said the information was being forwarded and that accuracy mattered more than usual. She would not elaborate. This was three weeks ago. He has been recording what he sees with the precision she requested, though he does not know what it means or who is reading it.
+
+The shift is not dramatic enough to be alarming. It is systematic enough to be noticeable. He is a border guard. He knows the difference between random variation and pattern. This is pattern.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
