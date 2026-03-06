@@ -1,5 +1,12 @@
 # Task: Ashford Political Atmosphere + Cassia People in Motion
 
+## Current Operator Step
+1. Read `agent/staging/PENDING_REVIEW.md` batch 1.
+2. In `agent/DECISIONS.md` under `Active Review Decision`, set `- Status:` to `APPROVED` or `REJECTED`.
+3. If `REJECTED`, replace `- Notes:` with concrete rewrite instructions.
+4. Use operator-owned decisions by default.
+5. Escalate to creator only if the change impacts world structure, core storyline, principal characters, or major events.
+
 Three appends. No new characters. No new lore invented.
 All pages are APPENDs to existing files — do not rewrite or replace existing content.
 

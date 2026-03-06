@@ -4,13 +4,15 @@
 - TASK-09 and TASK-10 from `agent/TASK.md` (append-only updates to Doss Varn, Orre Cavlt, Cavel Dorst, Cassia).
 
 ## Current Status
-- `agent/staging/PENDING_REVIEW.md` exists and is waiting for a review decision.
-- The reviewed draft currently includes at least one broken link target (`[[Border Guards]]`).
-- Existing runtime had multiple concurrent `orchestrator.py --loop --review` processes; orchestration was vulnerable to overlap before this update.
+- Operator-owned appends are applied to `content/Doss Varn.md`, `content/Orre Cavlt.md`, and `content/Cavel Dorst.md`.
+- `agent/staging/PENDING_REVIEW.md` has been restaged as Cassia-only rewrite batch `2R1`.
+- `agent/DECISIONS.md` active review block repaired with valid `REVIEW_DECISION` markers and creator-owned pending status.
+- Batch 2 (`content/Cavel Dorst.md`, `content/Cassia.md`) has been regenerated with tighter canon alignment and is pending creator decision.
 
 ## Operator Role Assignment
 - Current operator (Codex): reviewer + repair agent.
-- Narrative writing remains review-gated.
+- Routine narrative writing decisions are operator-owned.
+- Creator escalation is reserved for major canon/story decisions only.
 - Priority is orchestration reliability and clean handoff.
 
 ## Changes Applied By Current Operator
@@ -25,11 +27,14 @@
 - Recorded `REJECTED` guidance in `agent/DECISIONS.md` for the current pending draft (broken link + batch scope issues).
 
 ## Open Items
-- Confirm the active orchestrator process consumes the review decision from `agent/DECISIONS.md`.
-- Rerun pipeline (or write manually) with corrected links and strict target scope.
+- Creator review required for `content/Cassia.md` batch `2R1` in `agent/DECISIONS.md`.
+- After creator approval, append staged `## What She Knows` section to `content/Cassia.md`.
+- If creator rejects, regenerate Cassia section using explicit rejection notes.
+- `agent/staging/orchestrator.lock` may still reference stale PID; avoid destructive process commands.
+- Await creator decision on regenerated batch 2 in `agent/DECISIONS.md`.
 
 ## Next Operator Checklist
-1. Inspect `agent/staging/PENDING_REVIEW.md` and decide `APPROVED` vs `REJECTED`.
-2. If rejected, update `agent/DECISIONS.md` with precise fix notes.
-3. Re-run orchestrator in review mode once providers are available.
-4. Confirm reports update in `agent/reports/`.
+1. Wait for creator decision on active Cassia review gate (`APPROVED` or `REJECTED`).
+2. On `APPROVED`, append staged Cassia section and close TASK-09/TASK-10.
+3. On `REJECTED`, rewrite Cassia batch from creator notes and restage.
+4. Keep escalation strict to principal-character/major-impact edits.

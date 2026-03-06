@@ -9,3 +9,15 @@ The management work is less interesting to him than the routing problems. When a
 His T3 casting is used for documentation verification and occasional cargo authentication — standard commercial applications. He has not pushed beyond this range in eight years. He is not sure what happens if he does, and he is not particularly curious.
 
 *See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]*
+
+## The Audit That Hasn't Come
+
+Guild documentation requirements have shifted three times in eight months, each change moving toward more granular reporting on cross-border shipments. Fields that were once treated as supporting detail are now treated as primary record entries.
+
+His contacts at the guild say the changes come from [[Auralis]]-side regulatory pressure, though they use careful language when they say it. They can explain implementation. They avoid discussing purpose.
+
+He has updated office compliance protocols ahead of each change because he learned years ago that being prepared for an audit that never comes costs less than being unprepared for one that does. Internal record checks now exceed current guild minimums. Staff procedures have been tightened to match.
+
+The changes have a direction. The direction has not been stated. He has documented what he observes.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*

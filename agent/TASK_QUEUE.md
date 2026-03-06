@@ -1,5 +1,16 @@
 # Task Queue
 
+## CURRENT REVIEW GATE (DO THIS FIRST)
+
+- [ ] **Operator decision first** - Resolve routine review outcomes without creator input.
+  **How:** For low-impact batches, operators set `Active Review Decision` status directly.
+  **Reject case:** If invalid links/canon mismatches appear, reject with fix notes and rerun.
+
+- [ ] **Creator escalation only when needed**
+  **Escalate only for:** world structure, core storyline, principal characters, or major events.
+  **Format:** Write creator decision in `agent/DECISIONS.md` with at least 3 options (A/B/C).
+  **Done when:** creator sets chosen option in `agent/DECISIONS.md`.
+---
 ## ✅ FOREVER TASK — Canon + Links Integrity (Run Every Cycle)
 
 - [ ] **Goal:** Maintain world coherence and navigability after every content expansion.

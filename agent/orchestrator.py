@@ -62,6 +62,50 @@ ALLOW_OFFLINE_FALLBACK = os.getenv("ALLOW_OFFLINE_FALLBACK", "1").lower() not in
 
 RUN_LOCK_OWNER = False
 
+# Creator escalation policy:
+# Routine world-filling decisions are operator-owned.
+# Only major canon/story decisions are escalated for creator choice.
+MAJOR_CANON_PATHS = {
+    "content/Solumora.md",
+    "content/World Primer.md",
+    "content/History of Solumora.md",
+    "content/The Three Near-Wars.md",
+    "content/Kingdoms.md",
+    "content/Geography.md",
+    "content/Terravelle.md",
+    "content/Auralis.md",
+    "content/Flux.md",
+    "content/Watts.md",
+    "content/The Council of Auralis.md",
+    "content/Expansion Faction.md",
+    "content/The Culmination Faction.md",
+}
+
+MAJOR_CHARACTER_PAGES = {
+    "content/Eddan Voss.md",
+    "content/Sera Voss.md",
+    "content/Ysel Voss.md",
+    "content/Cael.md",
+    "content/Mira Solv.md",
+    "content/Drest.md",
+    "content/Cassia.md",
+    "content/Aldric Mourne.md",
+    "content/Rett Soln.md",
+    "content/Davan Rhyce.md",
+    "content/Toven Ral.md",
+    "content/Renne Osl.md",
+    "content/Selvane.md",
+    "content/Mave.md",
+    "content/Fennick.md",
+    "content/Wren.md",
+    "content/Sorath.md",
+}
+
+CREATOR_ESCALATION_MARKERS = (
+    "[creator_decision_required]",
+    "creator_decision_required: true",
+)
+
 # -----------------------------
 # Helpers
 # -----------------------------
@@ -169,6 +213,10 @@ def pid_is_running(pid: int) -> bool:
     except PermissionError:
         return True
     except OSError:
+        return False
+    except SystemError:
+        return False
+    except ValueError:
         return False
     return True
 
@@ -291,7 +339,46 @@ def normalize_review_status(raw: str) -> str:
     return "PENDING"
 
 
-def build_review_decision_block(batch_num: int, pending_paths: list, link_issues: list) -> str:
+def classify_review_owner(task_text: str, pending_paths: list, patch: dict) -> tuple[str, list]:
+    reasons = []
+    task_l = (task_text or "").lower()
+
+    if any(marker in task_l for marker in CREATOR_ESCALATION_MARKERS):
+        reasons.append("Task explicitly requests creator decision.")
+
+    for p in pending_paths or []:
+        if p in MAJOR_CANON_PATHS:
+            reasons.append(f"Touches major canon page: `{p}`.")
+        if p in MAJOR_CHARACTER_PAGES:
+            reasons.append(f"Touches principal character page: `{p}`.")
+
+    patch_text = []
+    for op in patch.get("writes", []):
+        patch_text.append(op.get("content", ""))
+    for op in patch.get("appends", []):
+        patch_text.append(op.get("append", ""))
+    blob = " ".join(patch_text).lower()
+    if any(h in blob for h in ("retcon", "rewrites history", "declares war", "annexation", "succession crisis")):
+        reasons.append("Generated text includes major-event terms.")
+
+    deduped = []
+    seen = set()
+    for r in reasons:
+        if r not in seen:
+            seen.add(r)
+            deduped.append(r)
+
+    owner = "CREATOR" if deduped else "OPERATOR"
+    return owner, deduped
+
+
+def build_review_decision_block(
+    batch_num: int,
+    pending_paths: list,
+    link_issues: list,
+    decision_owner: str = "OPERATOR",
+    escalation_reasons: list = None,
+) -> str:
     scope = ", ".join(f"`{p}`" for p in pending_paths) if pending_paths else "(none)"
     lines = [
         REVIEW_DECISION_START,
@@ -299,9 +386,16 @@ def build_review_decision_block(batch_num: int, pending_paths: list, link_issues
         f"- Batch: {batch_num}",
         f"- Scope: {scope}",
         "- Source: `agent/staging/PENDING_REVIEW.md`",
+        f"- Decision Owner: {decision_owner}",
         "- Status: PENDING",
         "- Notes: (set when rejecting)",
     ]
+
+    if escalation_reasons:
+        lines.append("")
+        lines.append("### Escalation Reasons")
+        for reason in escalation_reasons:
+            lines.append(f"- {reason}")
 
     if link_issues:
         lines.append("")
@@ -310,20 +404,47 @@ def build_review_decision_block(batch_num: int, pending_paths: list, link_issues
             missing = ", ".join(it.get("missing", []))
             lines.append(f"- {it.get('path','')}: missing link targets -> {missing}")
 
-    lines.extend(
-        [
-            "",
-            "### Operator Action",
-            "- Set `- Status:` to `APPROVED` or `REJECTED`.",
-            "- If rejected, replace `- Notes:` with concise fix guidance.",
-            REVIEW_DECISION_END,
-        ]
-    )
+    lines.append("")
+    if decision_owner == "CREATOR":
+        lines.extend(
+            [
+                "### Creator Options",
+                "- Option A: APPROVE batch as staged.",
+                "- Option B: REJECT and regenerate this batch.",
+                "- Option C: REJECT and request manual operator rewrite.",
+                "",
+                "### Creator Action",
+                "- Set `- Status:` to `APPROVED` or `REJECTED`.",
+                "- If rejected, replace `- Notes:` with concise guidance and optional option label.",
+            ]
+        )
+    else:
+        lines.extend(
+            [
+                "### Operator Action",
+                "- Routine batches are operator-owned and should not be escalated to creator.",
+                "- Set `- Status:` only when manual intervention is needed.",
+            ]
+        )
+
+    lines.append(REVIEW_DECISION_END)
     return "\n".join(lines)
 
 
-def upsert_review_decision_block(batch_num: int, pending_paths: list, link_issues: list):
-    block = build_review_decision_block(batch_num, pending_paths, link_issues)
+def upsert_review_decision_block(
+    batch_num: int,
+    pending_paths: list,
+    link_issues: list,
+    decision_owner: str = "OPERATOR",
+    escalation_reasons: list = None,
+):
+    block = build_review_decision_block(
+        batch_num=batch_num,
+        pending_paths=pending_paths,
+        link_issues=link_issues,
+        decision_owner=decision_owner,
+        escalation_reasons=escalation_reasons,
+    )
     text = read_text(DECISIONS_FILE)
     pattern = re.compile(
         re.escape(REVIEW_DECISION_START) + r".*?" + re.escape(REVIEW_DECISION_END),
@@ -337,6 +458,40 @@ def upsert_review_decision_block(batch_num: int, pending_paths: list, link_issue
     else:
         new_text = "# Decisions\n\n" + block + "\n"
 
+    write_text(DECISIONS_FILE, new_text)
+
+
+def set_review_decision_status(status: str, notes: str = ""):
+    text = read_text(DECISIONS_FILE)
+    if not text.strip():
+        return
+
+    block_match = re.search(
+        re.escape(REVIEW_DECISION_START) + r".*?" + re.escape(REVIEW_DECISION_END),
+        text,
+        re.S,
+    )
+    if not block_match:
+        return
+
+    block = block_match.group(0)
+    status_norm = normalize_review_status(status)
+    notes_clean = (notes or "").strip().replace("\n", " ")
+
+    block = re.sub(
+        r"(?im)^(\s*-\s*Status\s*:\s*).*$",
+        lambda m: m.group(1) + status_norm,
+        block,
+        count=1,
+    )
+    block = re.sub(
+        r"(?im)^(\s*-\s*Notes\s*:\s*).*$",
+        lambda m: m.group(1) + (notes_clean or "(none)"),
+        block,
+        count=1,
+    )
+
+    new_text = text[: block_match.start()] + block + text[block_match.end() :]
     write_text(DECISIONS_FILE, new_text)
 
 
@@ -373,7 +528,7 @@ def log_error(stage: str, err: Exception, extra: dict = None):
         "extra": extra or {}
     }
     write_text(LAST_ERROR_JSON, json.dumps(payload, indent=2))
-    print(f"\nâŒ ERROR @ {stage}: {err}\n(see agent/reports/last_error.*)\n")
+    print(f"\n[ERROR @ {stage}] {err}\n(see agent/reports/last_error.*)\n")
 
 
 def log_convo(role: str, text: str, limit: int = 12000):
@@ -579,7 +734,7 @@ SEED (optional):
 CONTEXT NOTES (partial):
 {ctx['bundle']}
 
-CLAIMED (files that already exist â€” do NOT include unless TASK explicitly targets for append):
+CLAIMED (files that already exist - do NOT include unless TASK explicitly targets for append):
 {ctx['claimed']}
 
 Return JSON exactly in this schema:
@@ -938,9 +1093,17 @@ def run_pipeline():
                         )
 
                 if review_mode:
+                    decision_owner, escalation_reasons = classify_review_owner(task, allowed_paths, patch)
+
                     # Write pending review file for Claude Code to inspect
                     lines = [f"# Pending Batch {batch_num} of {len(plan.get('batches',[]))}\n"]
                     lines.append(f"Notes in this batch: {[n['path'] for n in pending_notes]}\n\n")
+                    lines.append(f"Decision owner: {decision_owner}\n")
+                    if escalation_reasons:
+                        lines.append("Escalation reasons:\n")
+                        for reason in escalation_reasons:
+                            lines.append(f"- {reason}\n")
+                        lines.append("\n")
                     for op in patch.get("writes", []):
                         lines.append(f"## WRITE: {op['path']}\n\n```\n{op['content'][:3000]}\n```\n")
                     for op in patch.get("appends", []):
@@ -953,32 +1116,65 @@ def run_pipeline():
                     lines.append(
                         "\n---\nReview decision is tracked in `agent/DECISIONS.md`.\n"
                     )
-                    lines.append(
-                        "Set `- Status:` under Active Review Decision to `APPROVED` or `REJECTED`.\n"
-                    )
-                    lines.append("If rejected, replace `- Notes:` with concise fix guidance.\n")
+                    if decision_owner == "CREATOR":
+                        lines.append(
+                            "Creator decision required: choose option and set `- Status:` to `APPROVED` or `REJECTED`.\n"
+                        )
+                        lines.append("If rejected, replace `- Notes:` with concise fix guidance.\n")
+                    else:
+                        lines.append(
+                            "Operator-owned batch: this will auto-apply if valid, or auto-reject with fix notes if invalid.\n"
+                        )
                     write_text(STAGING_DIR / "PENDING_REVIEW.md", "".join(lines))
-                    upsert_review_decision_block(batch_num, allowed_paths, link_issues)
+                    upsert_review_decision_block(
+                        batch_num=batch_num,
+                        pending_paths=allowed_paths,
+                        link_issues=link_issues,
+                        decision_owner=decision_owner,
+                        escalation_reasons=escalation_reasons,
+                    )
 
                     print(f"\n[REVIEW GATE] Batch {batch_num}: {[n['path'] for n in pending_notes]}")
+                    print(f"   Decision owner: {decision_owner}")
                     print("   Inspect: agent/staging/PENDING_REVIEW.md")
-                    print("   Then update status in agent/DECISIONS.md")
+                    print("   Decision file: agent/DECISIONS.md")
 
-                    # Poll for response
-                    while True:
-                        time.sleep(0.5)
-                        status, notes_text = read_review_decision()
-                        if status == "APPROVED":
-                            print(f"Batch {batch_num} approved - applying.")
-                            break
-                        if status == "REJECTED":
-                            print(f"Batch {batch_num} rejected. Notes: {notes_text or '(none)'}")
+                    if decision_owner == "CREATOR":
+                        # Poll for creator response
+                        while True:
+                            time.sleep(0.5)
+                            status, notes_text = read_review_decision()
+                            if status == "APPROVED":
+                                print(f"Batch {batch_num} approved by creator - applying.")
+                                break
+                            if status == "REJECTED":
+                                print(f"Batch {batch_num} rejected by creator. Notes: {notes_text or '(none)'}")
+                                append_text(
+                                    CONVO_LOG,
+                                    f"\n[CREATOR REJECTED batch {batch_num}]\n{notes_text}\n",
+                                )
+                                patch = {"writes": [], "appends": []}  # empty patch = skip
+                                break
+                    else:
+                        if link_issues:
+                            flat = []
+                            for issue in link_issues:
+                                miss = ", ".join(issue.get("missing", []))
+                                flat.append(f"{issue.get('path','')}: {miss}")
+                            notes_text = "Operator auto-rejected due missing link targets: " + "; ".join(flat)
+                            set_review_decision_status("REJECTED", notes_text)
                             append_text(
                                 CONVO_LOG,
-                                f"\n[REVIEW REJECTED batch {batch_num}]\n{notes_text}\n",
+                                f"\n[OPERATOR AUTO-REJECT batch {batch_num}]\n{notes_text}\n",
                             )
-                            patch = {"writes": [], "appends": []}  # empty patch = skip
-                            break
+                            print(f"Batch {batch_num} auto-rejected by operator policy (invalid links).")
+                            patch = {"writes": [], "appends": []}
+                        else:
+                            notes_text = (
+                                "Operator auto-approved: low-impact batch; no major world/story/principal-character impact."
+                            )
+                            set_review_decision_status("APPROVED", notes_text)
+                            print(f"Batch {batch_num} auto-approved by operator policy.")
 
                 changed = apply_patch(patch)
                 all_changed.extend(changed)

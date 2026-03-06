@@ -7,3 +7,15 @@ The situations that require judgment are infrequent but recurring: documentation
 The political briefings from the [[Ashford]] command post have changed in tone over the past year. The changes are not stated directly — the briefings do not say that the border situation is different. But the language around documentation requirements has tightened, and the frequency of reports required from his post has increased, and there are more travelers with Terravelle documentation coming through than there were two years ago. He cannot tell if this is trend or noise. He records what he sees.
 
 *See also: [[Ashford]], [[Life in Ashford]], [[Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+
+## The Shift
+
+Over the past year, Doss has watched the briefings from the [[Ashford]] command post change in tone. The directives are still framed as routine border management, but the language has become tighter and less tolerant of gaps in documentation.
+
+New logging protocols arrived in phases without a clear explanation for why they were being introduced. Forms that used to be optional are now expected. Supplemental notes that used to be discretionary are now expected every shift. A contact at the Ashford command post told him to log everything carefully, which she has never said before.
+
+He is also seeing more travelers with [[Terravelle]] papers than he has seen in previous years, including traffic patterns that do not match the seasonal movement he is used to. None of this is obvious enough to call an incident. All of it is consistent enough that he has stopped treating it as noise.
+
+He is recording what he sees. He does not know what it means.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*

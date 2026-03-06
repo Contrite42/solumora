@@ -1,16 +1,49 @@
 ﻿# Decisions
 
-## Active Review Decision
-- Scope: `TASK-09` and `TASK-10` current pending review batch
-- Source: `agent/staging/PENDING_REVIEW.md`
-- Status: REJECTED
+This file serves both operators and `agent/orchestrator.py`.
+Do not remove the `REVIEW_DECISION` markers while an active review is open.
 
-### Required Corrections
-1. Remove non-existent link target `[[Border Guards]]` from the Doss Varn append.
-2. Keep batch scope strict:
-   - Batch 1 only: `content/Doss Varn.md`, `content/Orre Cavlt.md`
-   - Batch 2 only: `content/Cavel Dorst.md`, `content/Cassia.md`
-3. Keep outbound links aligned with `agent/TASK.md` requirements per target page.
+## Decision Policy
+- Operators decide routine implementation and low-impact world-filling tasks.
+- Escalate to creator only for changes that impact world structure, core storyline, principal characters, or major events.
+- Creator escalations must provide multiple options (A/B/C) with concise tradeoffs.
+
+<!-- REVIEW_DECISION_START -->
+## Active Review Decision
+- Batch: 2R1
+- Scope: `content/Cassia.md`
+- Source: `agent/staging/PENDING_REVIEW.md`
+- Decision Owner: CREATOR
+- Status: PENDING
+- Notes: Manual rewrite staged after prior rejection; pending creator review.
+
+### Escalation Reasons
+- Touches principal character page: `content/Cassia.md`.
+
+### Creator Options
+- Option A: APPROVE batch as staged.
+- Option B: REJECT and regenerate this batch.
+- Option C: REJECT and request manual operator rewrite.
+
+### Creator Action
+- Set `- Status:` to `APPROVED` or `REJECTED`.
+- If rejected, replace `- Notes:` with concise guidance and optional option label.
+Approved
+
+---
+
+## DECISION B - TASK-09/TASK-10 Batch 2 Execution Strategy
+Status: RESOLVED (OPERATOR)
+
+Options:
+- A: Continue with standard review gate (generate batch 2, then review in this file).
+- B: Manual operator write mode (skip generation and write both appends directly by operator).
+
+Decision:
+- Chosen: A
+- Reason: Routine execution strategy; no creator-level canon impact.
+
+---
 
 ## Archived Canon Decisions (Resolved)
 - D1 Wolfpoint secret sequencing: both Sera test and Mira signal-awareness run in parallel.

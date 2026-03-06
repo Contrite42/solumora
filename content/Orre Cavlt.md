@@ -7,3 +7,15 @@ This year has been different from previous years in ways he has not yet been abl
 He has been trying to determine whether what he is seeing is a temporary fluctuation or the beginning of a structural change. He does not have enough information to decide. He has been in business for twenty-two years, which means he knows that not deciding is also a decision.
 
 *See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Terravelle]]*
+
+## What He Cannot Model
+
+The indicators Orre trusts most are informal: crossing wait times, inspection tone, and whether his contacts on each side of the line are speaking plainly or protecting themselves. Over the last year, those indicators have shifted without a clean pattern.
+
+Two of his longer relationships on the [[Auralis]] side have become careful in ways they were not before. They still answer, but less directly. They still cooperate, but with more documented distance than they used to maintain.
+
+One shipment he expected to clear in one day sat for four without any formal hold being applied. No one called it a problem. No one wrote it as an exception. It simply did not move.
+
+He has been in this business long enough to know the difference between friction and signal. He is not yet sure which this is. But it is not random.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
