@@ -14,8 +14,8 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 - Scope: `content/Cassia.md`
 - Source: `agent/staging/PENDING_REVIEW.md`
 - Decision Owner: CREATOR
-- Status: PENDING
-- Notes: Manual rewrite staged after prior rejection; pending creator review.
+- Status: APPROVED
+- Notes: Creator approved batch 2R1 for apply.
 
 ### Escalation Reasons
 - Touches principal character page: `content/Cassia.md`.
@@ -28,7 +28,6 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 ### Creator Action
 - Set `- Status:` to `APPROVED` or `REJECTED`.
 - If rejected, replace `- Notes:` with concise guidance and optional option label.
-Approved
 
 ---
 

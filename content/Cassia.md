@@ -47,3 +47,15 @@ The slow fraying of the peace between the two kingdoms is something she watches 
 She hopes, in the quiet way of people who have learned not to hope loudly, that it does not come to war in her lifetime. She does not have a good reason to believe it won't.
 
 *See also: [[Auralis]], [[Eddan Voss]], [[Cael]], [[Drest]], [[The Council of Auralis]], [[Council Members]], [[Maren Sollis]], [[Tovan Ashce]], [[Hadren Cosse]], [[Kingdoms]], [[Flux]], [[Control Tier]], [[Solhaven]]*
+
+## What She Knows
+
+Cassia is not passive. She has spent nineteen years in rooms where outcomes are arranged before the meeting begins, and she has learned to read what is omitted as carefully as what is said. Her position limits what she can do, but it does not limit what she can observe.
+
+What she knows: the [[Expansion Faction]] is accelerating. She has tracked [[Drest]]'s voting alignment over the last three years and can see where his compromises have shifted and where they have not. She knows [[Castor Helme]] speaks to occupy space while [[Davan Rhyce]] speaks only when his position is already prepared, and she knows which pattern is harder to counter. She also knows what [[Brennan Solce]] means when a briefing summary calls him "careful"; it means he sees risk that has not yet been made discussable.
+
+What she is doing with it: she is writing private notes in a cipher she built at seventeen. Not correspondence. Not a political archive. A personal record of what she can still verify for herself before it is flattened into formal minutes. She is equally careful about what she requests to read, and when, because request patterns are monitored.
+
+She has not told anyone. [[Ysel Voss]] is the nearest person she might trust, but Ysel is at [[Wolfpoint]], and Cassia has no unreviewed channel to Wolfpoint.
+
+*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
