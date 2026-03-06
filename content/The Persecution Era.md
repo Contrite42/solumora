@@ -16,7 +16,7 @@ What is consistent across surviving records is the absence of any systematic att
 
 ## The End
 
-The Persecution Era did not end with a decision or a reversal. It ran out of momentum. By approximately two hundred years ago — coinciding roughly with the beginning of the [[First Contact]] period, though the connection is probably circumstantial rather than causal — the active violence had subsided in most of the documented regions. The cultural residue persisted longer: suspicion of high-tier capacity, particularly in rural communities, remained elevated for decades afterward.
+The Persecution Era did not end with a decision or a reversal. It ran out of momentum. By approximately two hundred years ago — coinciding roughly with the beginning of the [[The First Contact|First Contact]] period, though the connection is probably circumstantial rather than causal — the active violence had subsided in most of the documented regions. The cultural residue persisted longer: suspicion of high-tier capacity, particularly in rural communities, remained elevated for decades afterward.
 
 What replaced it was not acceptance but institutional management. The guild certification systems in [[Terravelle]] and the [[Ascendant Path]]'s tier advancement frameworks in [[Auralis]] both provided structures through which high-tier practitioners could be integrated into social and economic life on terms that existing communities could manage. The institutions made high-tier capacity legible in ways that made it less threatening — a T5 with a guild certification is a known quantity in a way that a T5 with no institutional affiliation was not.
 

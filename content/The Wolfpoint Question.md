@@ -24,7 +24,7 @@ This is a passive strategy, and the Crown knows it. Eddan's administration has n
 
 ## What Wolfpoint Fears
 
-Wolfpoint's strategic position depends on remaining more valuable as an independent resource than as a territory belonging to either kingdom. This balance has held for seven generations, but the people in [[the Voss family|the Voss line]] are aware that it is not guaranteed.
+Wolfpoint's strategic position depends on remaining more valuable as an independent resource than as a territory belonging to either kingdom. This balance has held for seven generations, but the people in [[The Voss Line|the Voss line]] are aware that it is not guaranteed.
 
 What Wolfpoint fears is not military conquest — the logistics of projecting force into the far north are genuinely difficult, and neither kingdom has found a compelling enough immediate reason to try. What it fears is irrelevance: the possibility that one or both kingdoms will develop alternative access to Hypertext capability through the ruins sites, through independent practitioner development, or through the partial knowledge that Scholarium alumni carry, such that Wolfpoint's exclusive position erodes without any single confrontation that the settlement could have seen coming.
 

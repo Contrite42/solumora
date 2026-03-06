@@ -2,7 +2,7 @@ Cross-Border Grimoire Trade refers to the movement of [[Grimoires]] between [[Te
 
 ## Why It Exists
 
-Each kingdom's grimoire production reflects its cultural priorities. [[Terravelle]] treats grimoires as practical tools and optimizes for affordable, reliable, low-tier texts. Its [[Guild Scrivener Network]] focuses on volume production of standardized spells useful for trade, agriculture, and logistics. [[Auralis]] treats grimoires as research outputs and status markers, producing more specialized, higher-tier, and experimental works through academy and [[Council of Auralis|Council]]-sponsored programs.
+Each kingdom's grimoire production reflects its cultural priorities. [[Terravelle]] treats grimoires as practical tools and optimizes for affordable, reliable, low-tier texts. Its [[Guild Scrivener Network]] focuses on volume production of standardized spells useful for trade, agriculture, and logistics. [[Auralis]] treats grimoires as research outputs and status markers, producing more specialized, higher-tier, and experimental works through academy and [[The Council of Auralis|Council]]-sponsored programs.
 
 This creates demand asymmetry. A [[Flux Users|Scholar]] in [[Auralis]] seeking a well-documented compilation of agricultural thermal management spells will find better options from [[Terravelle]]'s guild libraries. A merchant in [[Terravelle]] seeking a [[Rare Grimoire]] with advanced embedded object sigils will likely commission from an Auralis academy.
 
@@ -18,7 +18,7 @@ Some transactions bypass physical transport entirely. A buyer in [[Terravelle]] 
 
 Both kingdoms permit grimoire trade but impose customs inspections at border crossings like [[Ashford]] and [[Halveth]]. Inspectors verify that grimoires comply with [[Grimoire Rights and Restrictions|governmental restrictions]]: certain mind-affecting or destructive spells are prohibited from import or export in both directions, though the lists don't fully overlap.
 
-[[Terravelle]] restricts grimoires deemed dangerous to public order. [[Auralis]] restricts grimoires that could undermine [[Council of Auralis|Council]] authority or enable unsanctioned Flux research. Most [[Common Grimoire|Common]] and [[Uncommon Grimoire|Uncommon]] grimoires pass inspection without issue. [[Rare Grimoire|Rare]] and higher tiers face closer scrutiny and may require import permits.
+[[Terravelle]] restricts grimoires deemed dangerous to public order. [[Auralis]] restricts grimoires that could undermine [[The Council of Auralis|Council]] authority or enable unsanctioned Flux research. Most [[Common Grimoire|Common]] and [[Uncommon Grimoire|Uncommon]] grimoires pass inspection without issue. [[Rare Grimoire|Rare]] and higher tiers face closer scrutiny and may require import permits.
 
 Enforcement is inconsistent. A grimoire traveling via official courier lanes undergoes inspection. A grimoire carried privately by a merchant or traveler faces inspection only if customs officers choose to search. Some traders exploit this by carrying grimoires as personal effects rather than declaring them as commercial goods.
 

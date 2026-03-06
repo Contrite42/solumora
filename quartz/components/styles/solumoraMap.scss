@@ -80,7 +80,7 @@
 
 .solumora-zone-label {
   text-anchor: middle;
-  font-size: 24px;
+  font-size: 21px;
   font-weight: 700;
   letter-spacing: 0.05em;
   fill: color-mix(in srgb, var(--darkgray) 86%, var(--light) 14%);
@@ -104,7 +104,7 @@
 
   text {
     fill: var(--dark);
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     paint-order: stroke;
     stroke: color-mix(in srgb, var(--light) 96%, transparent);
@@ -147,10 +147,10 @@
   }
 
   .solumora-zone-label {
-    font-size: 20px;
+    font-size: 17px;
   }
 
   .solumora-map-marker text {
-    font-size: 18px;
+    font-size: 16px;
   }
 }

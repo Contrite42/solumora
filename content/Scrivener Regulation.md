@@ -38,7 +38,7 @@ Some independent scriveners form informal self-regulation networks — groups of
 
 In [[Terravelle]], the government largely defers to guild self-regulation. [[Trade Guilds]] handle scrivener standards, and the government intervenes only in cases involving [[Grimoire Rights and Restrictions|restricted texts]] or major fraud.
 
-In [[Auralis]], the [[Council of Auralis]] exercises more direct oversight. The Council maintains an approved scrivener registry separate from guild membership, and higher-tier copying work requires Council approval regardless of guild certification. This adds bureaucratic overhead but gives [[Auralis]] more control over what grimoires circulate and who produces them.
+In [[Auralis]], the [[The Council of Auralis|Council of Auralis]] exercises more direct oversight. The Council maintains an approved scrivener registry separate from guild membership, and higher-tier copying work requires Council approval regardless of guild certification. This adds bureaucratic overhead but gives [[Auralis]] more control over what grimoires circulate and who produces them.
 
 ## Enforcement Challenges
 
@@ -46,4 +46,4 @@ Regulation is hardest to enforce for lower-tier work produced in high volume. A 
 
 [[Black Market Grimoire Circulation]] operates entirely outside regulation, and enforcement is reactive: authorities pursue black market scriveners only when their work causes visible harm or a buyer reports fraud. This makes black market scrivening persistently viable despite legal and guild prohibitions.
 
-*See also: [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoires]], [[Grimoire Authentication]], [[Grimoire Rights and Restrictions]], [[Black Market Grimoire Circulation]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Trade Guilds]], [[Council of Auralis]], [[Terravelle]], [[Auralis]]*
+*See also: [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoires]], [[Grimoire Authentication]], [[Grimoire Rights and Restrictions]], [[Black Market Grimoire Circulation]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Trade Guilds]], [[The Council of Auralis|Council of Auralis]], [[Terravelle]], [[Auralis]]*

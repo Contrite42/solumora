@@ -20,8 +20,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "wolfpoint",
     label: "Wolfpoint",
-    x: 490,
-    y: 102,
+    x: 526,
+    y: 114,
     keys: ["Wolfpoint"],
     titles: ["Wolfpoint"],
     align: "right",
@@ -29,8 +29,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "greyveil",
     label: "Greyveil",
-    x: 462,
-    y: 220,
+    x: 468,
+    y: 258,
     keys: ["Greyveil"],
     titles: ["Greyveil"],
     align: "right",
@@ -56,8 +56,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "northern-narrows",
     label: "Northern Narrows",
-    x: 676,
-    y: 620,
+    x: 650,
+    y: 646,
     keys: ["The-Northern-Narrows", "Northern-Narrows"],
     titles: ["The Northern Narrows", "Northern Narrows"],
     align: "left",
@@ -165,7 +165,7 @@ export default (() => {
             rx="26"
           />
 
-          <text class="solumora-zone-label" x="500" y="222">
+          <text class="solumora-zone-label" x="500" y="186">
             Terravelle Uplands
           </text>
           <text class="solumora-zone-label" x="500" y="776">

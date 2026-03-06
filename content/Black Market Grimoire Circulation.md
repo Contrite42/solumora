@@ -20,7 +20,7 @@ Authentication is a persistent problem. A black market buyer has no recourse if 
 
 In [[Terravelle]], the black market is smaller and mostly rural. Guild infrastructure is strong in major cities, but enforcement weakens in border regions near [[Halveth]] or [[Greyveil]]. Most black market activity involves routine grimoire copying at below-market prices rather than genuinely restricted texts.
 
-In [[Auralis]], the black market is larger and more urban. [[Solhaven]] and [[Hedun]] both have underground networks for restricted sigils, higher-tier texts, and cross-border materials. The [[Council of Auralis]] restricts certain grimoire types officially, but enforcement is inconsistent and wealthy buyers can often acquire what they want through private arrangements that blur the line between legal and illegal.
+In [[Auralis]], the black market is larger and more urban. [[Solhaven]] and [[Hedun]] both have underground networks for restricted sigils, higher-tier texts, and cross-border materials. The [[The Council of Auralis|Council of Auralis]] restricts certain grimoire types officially, but enforcement is inconsistent and wealthy buyers can often acquire what they want through private arrangements that blur the line between legal and illegal.
 
 ## Risks
 
