@@ -217,3 +217,31 @@ A T2 Formulist's comfortable working day (300 W) covers about four container sea
 The ledger does not lie about this. Neither does the math.
 
 _See also: [[Spell Variables]], [[Flux Expenditure]], [[Control Tier]], [[Sigils]], [[Discipline]], [[Grimoires]], [[Watts]]_
+
+---
+
+## Grimoire Rarity Distribution
+
+The [[All Grimoire]] maintains an exponential decay ratio across rarity tiers to reflect the scarcity of higher-tier spellwork and the time required to theorize, test, and validate spells at each level.
+
+**Target Distribution Ratio** (per 100 Common baseline):
+| Rarity | Tier | Target Count |
+|--------|------|--------------|
+| Common | T1–T2 | 100 |
+| Uncommon | T3–T4 | 50 |
+| Rare | T5–T6 | 25 |
+| Legendary | T7–T8 | 12–13 |
+| Mythic | T9 | 6 |
+| Pale | T9+ | 3 |
+
+**Scaling Rule**: When adding new spells to the grimoires, maintain this 100:50:25:13:6:3 ratio proportionally. If 100 new Common spells are added, also add 50 Uncommon, 25 Rare, 13 Legendary, 6 Mythic, and 3 Pale to keep the distribution consistent.
+
+**Current State** (as of 2026-03-06):
+- Common: 100 (baseline)
+- Uncommon: 86 (below target of 50 for this baseline; surplus retained)
+- Rare: 126 (above target of 25 for this baseline; surplus retained)
+- Legendary: 20 (below proportional target; expansion in progress)
+- Mythic: 23 (above proportional target; surplus retained)
+- Pale: 22 (above proportional target; surplus retained)
+
+**Expansion Plan**: Expand to 500 Common spells, with proportional additions to other tiers maintaining the 100:50:25:13:6:3 ratio across the entire grimoire. This will create a larger, more comprehensive spell corpus while preserving the theoretical rarity gradient.
