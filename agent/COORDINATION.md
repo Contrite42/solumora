@@ -33,6 +33,7 @@
 - **Live map integration**: COMPLETE. Added `quartz/components/SolumoraMap.tsx` with supporting script/style files and layout injection in `quartz.layout.ts` so `Solumora` now shows a canonical-position continent map with periodic link-refresh sync.
 - **Canonical integrity cycle**: COMPLETE (Codex fallback). Reports updated; map marker resolution verified (10/10) and representative route/hub inbound-outbound counts remain healthy.
 - **Live map polish pass**: COMPLETE (Codex). Reworked map zone geometry to continent-clipped north/desert/south bands, repositioned labels/markers to prevent overlaps, and aligned point placement with canon geography notes (`Terravelle` uplands north, `Zakros` equatorial band, `Auralis` basin south, coast-facing hubs).
+- **Codex integrity cycle (recent vault files)**: COMPLETE. Audited latest content clusters for dead wikilinks and canon drift, normalized alias links in scope, removed unresolved-link leakage to non-existent pages, and re-checked Halveth/Narrows/Approaches consistency. Typecheck + Quartz build both passed.
 
 ## Operator Role Assignment
 - Current control-plane operator (Codex): pipeline executor + queue/decision owner.

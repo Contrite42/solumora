@@ -34,5 +34,15 @@ The attrition rate for Auralis expeditions is high. Approximately one in three d
 
 [[Drest]] funds expeditions beyond the official council budget. The Reach Academy in [[Emberfall]] trains expedition members. The work continues.
 
-*See also: [[Equatorial Desert]], [[The Council of Auralis]], [[The Culmination Faction]], [[The Advancement Corps]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Tessel Dran]]*
+## Expedition Infrastructure
+
+Ruin research now depends on a stable support ecosystem rather than one-off heroic teams. Project permits and compliance run through [[Emberfall Expedition Registry]]. Field execution is commonly contracted to operators like [[Crestward Field Company]], with guide assignment and route-fit control coordinated through [[Halveth Guide Bureau]].
+
+Failure analysis is handled by [[Zakros Loss Table]], which classifies incident patterns across multiple missions and feeds recommendations back into planning and sponsor review. This has shifted expedition culture from narrative debriefs to structured loss-memory systems where avoidable failure can be tracked over time.
+
+The practical effect is uneven but measurable: fewer missions depart with unresolved staffing contradictions, objective down-scope is normalized during deteriorating conditions, and sponsor override decisions are increasingly documented rather than implied.
+
+This infrastructure does not solve the core ruins problem. It keeps the research effort from resetting to zero after every bad quarter.
+
+*See also: [[Equatorial Desert]], [[The Council of Auralis]], [[The Culmination Faction]], [[The Advancement Corps]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Tessel Dran]], [[Emberfall Expedition Registry]], [[Crestward Field Company]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[Nessa Keld]], [[Toren Vass]], [[Sera Nolt]]*
 

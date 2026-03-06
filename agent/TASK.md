@@ -1,25 +1,24 @@
-# Task: Expedition Culture Expansion
+# Task: Tier Extremes Expansion
 
 ## Goal
-Document the **Expedition Culture** around Auralis desert research. Council funding exists, but expedition companies, field specialists, and failure-culture infrastructure are under-documented.
+Explore the **Tier Extremes** — what life is like at T7+ and T0 in a society that is mostly built around mid-tier practical Flux use.
 
 ## Constraints
-- Need 3-4 expedition-adjacent institutions and the people who make crossings possible
-- Must show the gap between [[The Council of Auralis]] ambitions and ground-level expedition reality
-- Must connect to existing [[Emberfall]] and [[Ancient Ruins]] documentation
-- 6-7 notes total: 3 expedition companies/guide services + 3-4 expedition specialists
-- Update [[Emberfall]] and [[Ancient Ruins]] with expedition infrastructure detail
+- Need 4-6 characters across the extremes with adaptation strategies
+- Cover both high-tier practitioners (T7-T9) and zero-tier individuals (T0)
+- Must avoid power-fantasy framing; focus on social, logistical, and institutional constraints
+- 6 notes total: 3 high-tier practitioners + 3 zero-tier individuals
+- Update [[Control Tier]] with a "Living at the Extremes" section
 
 ## Output Target
-6-7 notes showing how desert expeditions are actually staffed, financed, and kept alive in practice
+6 notes showing concrete daily adaptation at both ends of the tier distribution
 
 ## Execution Plan
-1. Create 3 expedition institutions/services (field company, guide bureau, risk-assessment operation)
-2. Create 3-4 specialists (logistics lead, casualty analyst, route planner, gear certifier)
-3. Integrate with existing Emberfall and Halveth-facing desert systems
-4. Update Emberfall with expedition operations layer
-5. Update Ancient Ruins with expedition-support infrastructure layer
-6. Run canon/link integrity check
+1. Create 3 high-tier practitioner pages (T7+), each with specific constraint profile
+2. Create 3 zero-tier pages (T0), each with concrete workarounds in Flux-dependent systems
+3. Cross-link each to existing institutions and economies they rely on
+4. Update Control Tier with "Living at the Extremes" section
+5. Run canon/link integrity check
 
 ## Status
 ACTIVE - Copilot Auto executing

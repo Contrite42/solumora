@@ -36,6 +36,7 @@ Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` cu
 
 - [ ] **Goal:** Maintain world coherence and navigability after every content expansion.
   **Owner:** `Copilot Auto` (default), `Codex` (fallback)
+  **Latest run:** `2026-03-06` by `Codex` fallback (recent-file integrity cycle complete).
 - **Constraints:**
   - **Backlinks:** Every new or updated note must be reachable from at least one appropriate hub page (ex: [[Solumora]], [[Auralis]], [[Terravelle]], [[Desert Zakros]], [[Flux]], [[Grimoires]], [[Factions]], [[Religions]], [[History]], [[People]]).
   - **No Orphans:** No new note should exist without at least **3 outbound links** and at least **1 inbound link** from a hub or parent topic.
@@ -133,10 +134,11 @@ These tasks expand the world's texture without adding new structural elements. T
   **Owner:** `Copilot Auto`
   **Status:** COMPLETE — 6 notes (Brendt Lineage, Cors Lineage, Seln Lineage, Narrowglass Cellar, Rimewell Loft, Quiet Index Repository) + The Persecution Era "Legacy and Memory" integration.
 
-- [ ] **Goal:** Document the **Expedition Culture** around Auralis desert research.
+- [x] **Goal:** Document the **Expedition Culture** around Auralis desert research.
   **Constraints:** Council funds expeditions but we have no expedition companies, professional guides, risk assessment specialists, or the culture around failed expeditions. Need 3-4 expedition-adjacent institutions and the people who make crossings possible. Must show the gap between council ambitions and ground-level expedition reality.
   **Output:** 6-7 notes (3 expedition companies/guide services + 3-4 expedition specialists) + update [[Emberfall]] and [[Ancient Ruins]] with expedition infrastructure detail.
   **Owner:** `Copilot Auto`
+  **Status:** COMPLETE — 3 institutions (Crestward Field Company, Halveth Guide Bureau, Zakros Loss Table) + 3 specialists (Nessa Keld, Toren Vass, Sera Nolt) + expedition infrastructure integration in Emberfall and Ancient Ruins.
 
 - [ ] **Goal:** Explore the **Tier Extremes** — what life is like at T7+ and T0.
   **Constraints:** Control Tier system is documented but we have few examples of how exceptional practitioners (T7-T9) navigate a society not built for them, or how T0 individuals (zero Flux capacity) survive in a Flux-dependent world. Need 4-6 characters across the extremes with their adaptation strategies.
@@ -339,3 +341,4 @@ These tasks expand the world's texture without adding new structural elements. T
 | 2026-03-05 | Integrity closure | Complete | Added 12 missing target pages from prior flagged list and re-ran filtered vault scan with zero unresolved targets. |
 | 2026-03-06 | Live map polish + pipeline cycle | Complete | Reworked Solumora map bands/labels/marker placement for canon geography clarity; fixed sync-status encoding; validated with `npx tsc --noEmit` and `npx quartz build -d content`; refreshed integrity reports. |
 | 2026-03-05 | Trade & Travel enrichment | Complete | Pipeline applied Business Climate appends to Doss Varn.md, Orre Cavlt.md, Cavel Dorst.md, plus Cassia "What She Knows" section. Missing canon aliases resolved (The Expansion Faction.md, Border Trade.md). |
+| 2026-03-06 | Codex pipeline integrity run | Complete | Audited recent vault files for dead links and canon drift, normalized/removed unresolved recent-file wikilinks, verified Halveth/Narrows/Approaches consistency, and revalidated with `npx tsc --noEmit` + `npx quartz build -d content`. |

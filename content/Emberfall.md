@@ -2,6 +2,16 @@
 
 The institution exists because the [[The Council of Auralis|Council]] needs [[Sigils]]. Combat sigils, utility sigils, preservation sigils, experimental applications that might unlock new understanding. [[Emberfall]] produces these. It also exists because certain kinds of people cannot stop thinking about a single magical problem once they have started, and [[Emberfall]] is built to let them think without interruption.
 
+## Expedition Operations Layer
+
+Emberfall's research identity depends on field systems that are less visible than laboratories but equally decisive. Council-backed desert work now runs through a practical chain: permitting and compliance at [[Emberfall Expedition Registry]], execution through operators such as [[Crestward Field Company]], guide assignment coordination with [[Halveth Guide Bureau]], and post-incident pattern analysis in [[Zakros Loss Table]].
+
+This chain exists because research proposals are written in objective language while desert conditions enforce logistics language. The gap between those languages is where most avoidable losses used to occur.
+
+Mid-level specialists carry most of that translation load. [[Nessa Keld]] and [[Toren Vass]] convert project ambition into survivable staffing and supply architecture. Analysts like [[Sera Nolt]] convert failure records into policy friction that slows repetition of known mistakes. None of this removes risk from Zakros operations. It does make institutional memory cumulative instead of cyclical.
+
+The political tension remains constant: [[The Council of Auralis]] wants visible expedition progress; field systems require schedule discipline, down-scope triggers, and occasionally saying not yet. Emberfall's current expedition culture is defined by how well those competing pressures are mediated before departure, not by rhetoric after return.
+
 ## The Scholars
 
 A scholar at [[Emberfall]] commits themselves to mastery of one thing. Some choose a specific [[Sigils|sigil]] — they will spend years refining it, expanding its applications, understanding its boundaries in ways that incrementally increase its power or precision. Some choose a problem — how to combine incompatible [[Discipline|disciplines]] safely, how to extend casting range, how to miniaturize complex sigil patterns. Some choose a [[Discipline|discipline]] itself and work on pushing what Mind or Soul or Force can actually accomplish.
@@ -54,4 +64,4 @@ It also produces breakthroughs. The obsession, combined with resources and commu
 
 A person choosing to go to [[Emberfall]] is choosing a life where one thing becomes everything. This is a difficult choice, and [[Emberfall]] attracts people for whom the choice was already made before they arrived. They are people for whom the obsession is not a career commitment but a necessity of their nature.
 
-*See also: [[Auralis]], [[The Council of Auralis]], [[Drest]], [[Castor Helme]], [[Flux Users]], [[Grimoires]], [[Sigils]], [[Flux]], [[Adventurers]], [[Discipline]], [[Tessel Dran]], [[Aldric Mourne]], [[Erra Dossn]], [[Veld Dorv]]*
+*See also: [[Auralis]], [[The Council of Auralis]], [[Drest]], [[Castor Helme]], [[Flux Users]], [[Grimoires]], [[Sigils]], [[Flux]], [[Adventurers]], [[Discipline]], [[Tessel Dran]], [[Aldric Mourne]], [[Erra Dossn]], [[Veld Dorv]], [[Emberfall Expedition Registry]], [[Crestward Field Company]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[Nessa Keld]], [[Toren Vass]], [[Sera Nolt]]*
