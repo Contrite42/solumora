@@ -11,6 +11,8 @@ type MapLinkElement = SVGAElement & {
 }
 
 const REFRESH_INTERVAL_MS = 45000
+const refreshHandlers = new WeakMap<HTMLElement, () => void>()
+const refreshIntervals = new WeakMap<HTMLElement, number>()
 
 function splitList(raw: string | undefined): string[] {
   if (!raw) {
@@ -122,9 +124,22 @@ function setupMaps(currentSlug: FullSlug) {
   ) as NodeListOf<HTMLElement>
   for (const mapRoot of mapRoots) {
     const refreshButton = mapRoot.querySelector(".solumora-map-refresh") as HTMLButtonElement | null
+
+    const existingHandler = refreshHandlers.get(mapRoot)
+    if (refreshButton && existingHandler) {
+      refreshButton.removeEventListener("click", existingHandler)
+    }
+
+    const existingInterval = refreshIntervals.get(mapRoot)
+    if (existingInterval !== undefined) {
+      window.clearInterval(existingInterval)
+    }
+
     const refreshFn = () => {
       refreshMap(mapRoot, currentSlug)
     }
+
+    refreshHandlers.set(mapRoot, refreshFn)
 
     refreshFn()
 
@@ -134,6 +149,7 @@ function setupMaps(currentSlug: FullSlug) {
     }
 
     const intervalId = window.setInterval(refreshFn, REFRESH_INTERVAL_MS)
+    refreshIntervals.set(mapRoot, intervalId)
     window.addCleanup(() => window.clearInterval(intervalId))
   }
 }
