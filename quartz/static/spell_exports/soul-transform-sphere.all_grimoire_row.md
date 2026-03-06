@@ -1,1 +1,1 @@
-| **Soul Transform Sphere** | Circle | Transform | Create | T6 | Soul | Soul | Sphere | Linked | Conditional | Group |
+| **Soul Transform Sphere** | Circle | Transform | Control | T6 | Soul | Raw | Sphere | Line-of-Sight | Permanent | Filter |

@@ -1,0 +1,15 @@
+{
+  "name": "Soul Amplify Field",
+  "summary": "boosts soul energy in a field volume with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that boosts soul energy in a field volume with active regulation while it runs. Effect range: long. Persistence: latched.",
+  "hook": "Amplify",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Field",
+  "reach": "Long",
+  "persistence": "Latched",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "notes": "Auto-generated T9 spell"
+}

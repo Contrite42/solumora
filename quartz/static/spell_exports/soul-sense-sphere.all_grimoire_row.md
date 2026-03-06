@@ -1,1 +1,1 @@
-| **Soul Sense Sphere** | Circle | Sense | Control | T6 | Soul | Shock | Sphere | Long | Conditional | Individual |
+| **Soul Sense Sphere** | Circle | Sense | Control | T6 | Soul | Raw | Sphere | Long | Permanent | Group |

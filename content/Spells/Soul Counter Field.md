@@ -1,10 +1,10 @@
 # Soul Counter Field
 
-Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+disrupts soul energy in a field volume with active regulation while it runs
 
 ## Effect
 
-Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A pentagon counter/control recipe that channels soul discipline into soul output. It applies a field pattern against where written across anchored reach with immediate persistence.
+The caster inscribes a sigil that disrupts soul energy in a field volume with active regulation while it runs. Effect range: line-of-sight. Persistence: latched.
 
 ## Sigil Variables
 
@@ -12,64 +12,64 @@ Disrupts soul flux as a field volume at anchored reach, targeting the inscribed 
 |---|---|---|
 | Hook | Counter | Center core variable (complexity handled via multiplier/flat) |
 | Mode | Control | Center core variable (complexity handled via multiplier/flat) |
-| Shape | Pentagon | Base 20 W, outer slots 5 |
+| Shape | Circle | Base 55 W, outer slots 6 |
 | Discipline | Soul | x75 multiplier |
-| Output Mode | Soul | +0 W premium |
+| Output Mode | Raw | +30 W premium |
 | Pattern | Field | +60 W |
-| Reach | Anchored | +0 W |
-| Persistence | Immediate | +0 W |
-| Target Spec | Where Written | +0 W |
+| Reach | Line-of-Sight | +80 W |
+| Persistence | Latched | +40 W |
+| Target Spec | Group | +35 W |
 
 ## Cost Breakdown
 
-- Shape control surface: Pentagon explicit outer variables = discipline, output_mode, pattern, target_spec, reach
-- Shape implied defaults: persistence=Immediate
-- Core discipline cost: 20 * 75 = 1500 W
+- Shape control surface: Circle explicit outer variables = discipline, output_mode, pattern, target_spec, reach, persistence
+- Shape implied defaults: (none)
+- Core discipline cost: 55 * 75 = 4125 W
 - Pattern + Reach + Persistence + Target + Output premium:
-  60 + 0 + 0 + 0 + 0 = 60 W
-- Subtotal: 1560 W
+  60 + 80 + 40 + 35 + 30 = 245 W
+- Subtotal: 4370 W
 - Hook/Mode complexity multiplier: x3.5100000000000002
 - Hook/Mode flat addition: +0 W
-- Total: **5476 W**
-- Required Control Tier: **T6**
-- Rarity bucket: **Rare**
+- Total: **15339 W**
+- Required Control Tier: **T7**
+- Rarity bucket: **Legendary**
 
 ## All Grimoire Row
 
-| **Soul Counter Field** | Pentagon | Counter | Control | T6 | Soul | Soul | Field | Anchored | Immediate | Where Written |
+| **Soul Counter Field** | Circle | Counter | Control | T7 | Soul | Raw | Field | Line-of-Sight | Latched | Group |
 
 ## AI Spell Data
 
 ```json
 {
   "name": "Soul Counter Field",
-  "summary": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
-  "effect_description": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A pentagon counter/control recipe that channels soul discipline into soul output. It applies a field pattern against where written across anchored reach with immediate persistence.",
+  "summary": "disrupts soul energy in a field volume with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that disrupts soul energy in a field volume with active regulation while it runs. Effect range: line-of-sight. Persistence: latched.",
   "hook": "Counter",
   "mode": "Control",
-  "shape": "Pentagon",
+  "shape": "Circle",
   "discipline": "Soul",
-  "output_mode": "Soul",
+  "output_mode": "Raw",
   "pattern": "Field",
-  "reach": "Anchored",
-  "persistence": "Immediate",
-  "target_spec": "Where Written",
+  "reach": "Line-of-Sight",
+  "persistence": "Latched",
+  "target_spec": "Group",
   "sustained_minutes": 0,
   "cost": {
-    "shape_base_w": 20,
+    "shape_base_w": 55,
     "discipline_multiplier": 75,
-    "core_discipline_w": 1500,
+    "core_discipline_w": 4125,
     "pattern_w": 60,
-    "reach_w": 0,
-    "persistence_w": 0,
-    "target_w": 0,
-    "output_mode_premium_w": 0,
-    "subtotal_outer_w": 1560,
+    "reach_w": 80,
+    "persistence_w": 40,
+    "target_w": 35,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4370,
     "hook_mode_multiplier": 3.5100000000000002,
     "hook_mode_flat_w": 0,
-    "total_w": 5476,
-    "required_tier": "T6",
-    "rarity": "Rare"
+    "total_w": 15339,
+    "required_tier": "T7",
+    "rarity": "Legendary"
   },
   "ai_interpretation_hint": "Use name + summary + effect_description to explain what the spell does in plain language."
 }

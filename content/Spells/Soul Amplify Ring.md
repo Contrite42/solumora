@@ -1,73 +1,73 @@
 # Soul Amplify Ring
 
-Boosts soul thermal flux as a ring perimeter at short reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.
+boosts soul energy in a ring perimeter by changing existing conditions
 
 ## Effect
 
-Boosts soul thermal flux as a ring perimeter at short reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression. A pentagon amplify/create recipe that channels soul discipline into thermal output. It applies a ring pattern against filter across short reach with immediate persistence.
+The caster inscribes a sigil that boosts soul energy in a ring perimeter by changing existing conditions. Effect range: medium. Persistence: conditional.
 
 ## Sigil Variables
 
 | Variable | Assigned Value | Cost Rule |
 |---|---|---|
 | Hook | Amplify | Center core variable (complexity handled via multiplier/flat) |
-| Mode | Create | Center core variable (complexity handled via multiplier/flat) |
-| Shape | Pentagon | Base 20 W, outer slots 5 |
+| Mode | Affect | Center core variable (complexity handled via multiplier/flat) |
+| Shape | Circle | Base 55 W, outer slots 6 |
 | Discipline | Soul | x75 multiplier |
-| Output Mode | Thermal | +60 W premium |
+| Output Mode | Raw | +30 W premium |
 | Pattern | Ring | +15 W |
-| Reach | Short | +5 W |
-| Persistence | Immediate | +0 W |
-| Target Spec | Filter | +60 W |
+| Reach | Medium | +15 W |
+| Persistence | Conditional | +20 W |
+| Target Spec | Individual | +8 W |
 
 ## Cost Breakdown
 
-- Shape control surface: Pentagon explicit outer variables = discipline, output_mode, pattern, target_spec, reach
-- Shape implied defaults: persistence=Immediate
-- Core discipline cost: 20 * 75 = 1500 W
+- Shape control surface: Circle explicit outer variables = discipline, output_mode, pattern, target_spec, reach, persistence
+- Shape implied defaults: (none)
+- Core discipline cost: 55 * 75 = 4125 W
 - Pattern + Reach + Persistence + Target + Output premium:
-  15 + 5 + 0 + 60 + 60 = 140 W
-- Subtotal: 1640 W
-- Hook/Mode complexity multiplier: x2.53
+  15 + 15 + 20 + 8 + 30 = 88 W
+- Subtotal: 4213 W
+- Hook/Mode complexity multiplier: x2.2
 - Hook/Mode flat addition: +0 W
-- Total: **4149 W**
+- Total: **9269 W**
 - Required Control Tier: **T6**
 - Rarity bucket: **Rare**
 
 ## All Grimoire Row
 
-| **Soul Amplify Ring** | Pentagon | Amplify | Create | T6 | Soul | Thermal | Ring | Short | Immediate | Filter |
+| **Soul Amplify Ring** | Circle | Amplify | Affect | T6 | Soul | Raw | Ring | Medium | Conditional | Individual |
 
 ## AI Spell Data
 
 ```json
 {
   "name": "Soul Amplify Ring",
-  "summary": "Boosts soul thermal flux as a ring perimeter at short reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.",
-  "effect_description": "Boosts soul thermal flux as a ring perimeter at short reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression. A pentagon amplify/create recipe that channels soul discipline into thermal output. It applies a ring pattern against filter across short reach with immediate persistence.",
+  "summary": "boosts soul energy in a ring perimeter by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that boosts soul energy in a ring perimeter by changing existing conditions. Effect range: medium. Persistence: conditional.",
   "hook": "Amplify",
-  "mode": "Create",
-  "shape": "Pentagon",
+  "mode": "Affect",
+  "shape": "Circle",
   "discipline": "Soul",
-  "output_mode": "Thermal",
+  "output_mode": "Raw",
   "pattern": "Ring",
-  "reach": "Short",
-  "persistence": "Immediate",
-  "target_spec": "Filter",
+  "reach": "Medium",
+  "persistence": "Conditional",
+  "target_spec": "Individual",
   "sustained_minutes": 0,
   "cost": {
-    "shape_base_w": 20,
+    "shape_base_w": 55,
     "discipline_multiplier": 75,
-    "core_discipline_w": 1500,
+    "core_discipline_w": 4125,
     "pattern_w": 15,
-    "reach_w": 5,
-    "persistence_w": 0,
-    "target_w": 60,
-    "output_mode_premium_w": 60,
-    "subtotal_outer_w": 1640,
-    "hook_mode_multiplier": 2.53,
+    "reach_w": 15,
+    "persistence_w": 20,
+    "target_w": 8,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4213,
+    "hook_mode_multiplier": 2.2,
     "hook_mode_flat_w": 0,
-    "total_w": 4149,
+    "total_w": 9269,
     "required_tier": "T6",
     "rarity": "Rare"
   },

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "EchoBreach",
+    "summary": "A reality-altering effect that disrupts raw energy in a spherical envelope with active regulation while it runs",
+    "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that disrupts raw energy in a spherical envelope with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Raw",
+    "output_mode": "Raw",
+    "pattern": "Sphere",
+    "reach": "Line-of-Sight",
+    "persistence": "Permanent",
+    "target_spec": "Surface",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Pale-class spell - use with extreme caution"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 1,
+    "core_discipline_w": 55,
+    "pattern_w": 30,
+    "reach_w": 80,
+    "persistence_w": 400,
+    "target_w": 5,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 570,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 2001,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **EchoBreach** | Circle | Counter | Control | T5 | Raw | Raw | Sphere | Line-of-Sight | Permanent | Surface |"
+}

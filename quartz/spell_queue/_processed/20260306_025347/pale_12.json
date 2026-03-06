@@ -1,0 +1,14 @@
+{
+  "name": "SoulWound",
+  "summary": "A reality-altering effect that reconfigures raw energy in a column volume by changing existing conditions",
+  "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that reconfigures raw energy in a column volume by changing existing conditions. Effect range: long. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+  "hook": "Transform",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Raw",
+  "pattern": "Cylinder",
+  "reach": "Long",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
+  "notes": "Pale-class spell - use with extreme caution"
+}

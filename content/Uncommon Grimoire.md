@@ -1456,3 +1456,39 @@ Boosts light photonic flux as a fan spread at self reach, targeting a filtered s
 | Persistence | _(default - Immediate)_ |
 | Target | Filter |
 
+
+---
+
+**SoulWound**
+A reality-altering effect that reconfigures raw energy in a column volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Filter |
+
+
+---
+
+**SoulRend**
+A reality-altering effect that reconfigures raw energy in a column volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Surface |
+

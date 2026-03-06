@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Ward Sphere",
+    "summary": "establishes soul energy in a spherical envelope by changing existing conditions",
+    "effect_description": "The caster inscribes a sigil that establishes soul energy in a spherical envelope by changing existing conditions. Effect range: line-of-sight. Persistence: permanent.",
+    "hook": "Ward",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Raw",
+    "pattern": "Sphere",
+    "reach": "Line-of-Sight",
+    "persistence": "Permanent",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.0,
+    "hook_mode_flat_w": 0,
+    "notes": "Auto-generated T9 spell"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 30,
+    "reach_w": 80,
+    "persistence_w": 400,
+    "target_w": 35,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4700,
+    "hook_mode_multiplier": 2.0,
+    "hook_mode_flat_w": 0,
+    "total_w": 9400,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Ward Sphere** | Circle | Ward | Affect | T6 | Soul | Raw | Sphere | Line-of-Sight | Permanent | Group |"
+}

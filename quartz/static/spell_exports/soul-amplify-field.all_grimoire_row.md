@@ -1,1 +1,1 @@
-| **Soul Amplify Field** | Pentagon | Amplify | Control | T6 | Soul | Soul | Field | Anchored | Immediate | Group |
+| **Soul Amplify Field** | Circle | Amplify | Affect | T6 | Soul | Raw | Field | Line-of-Sight | Permanent | Filter |

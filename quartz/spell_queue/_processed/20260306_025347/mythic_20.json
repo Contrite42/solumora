@@ -1,0 +1,15 @@
+{
+  "name": "Soul Ward Sphere",
+  "summary": "establishes soul energy in a spherical envelope by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that establishes soul energy in a spherical envelope by changing existing conditions. Effect range: line-of-sight. Persistence: permanent.",
+  "hook": "Ward",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Sphere",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "notes": "Auto-generated T9 spell"
+}

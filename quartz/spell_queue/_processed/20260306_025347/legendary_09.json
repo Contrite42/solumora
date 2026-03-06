@@ -1,0 +1,14 @@
+{
+  "name": "Mind Move Ring",
+  "summary": "repositions mind energy in a ring perimeter with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that repositions mind energy in a ring perimeter with active regulation while it runs. Effect range: line-of-sight. Persistence: timed long.",
+  "hook": "Move",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "pattern": "Ring",
+  "reach": "Line-of-Sight",
+  "persistence": "Timed Long",
+  "target_spec": "Filter",
+  "notes": "Auto-generated high-tier spell"
+}

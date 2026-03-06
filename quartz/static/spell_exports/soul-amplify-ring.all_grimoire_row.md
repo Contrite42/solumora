@@ -1,1 +1,1 @@
-| **Soul Amplify Ring** | Pentagon | Amplify | Create | T6 | Soul | Thermal | Ring | Short | Immediate | Filter |
+| **Soul Amplify Ring** | Circle | Amplify | Affect | T6 | Soul | Raw | Ring | Medium | Conditional | Individual |

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Move Ring",
+    "summary": "repositions mind energy in a ring perimeter with active regulation while it runs",
+    "effect_description": "The caster inscribes a sigil that repositions mind energy in a ring perimeter with active regulation while it runs. Effect range: line-of-sight. Persistence: timed long.",
+    "hook": "Move",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Ring",
+    "reach": "Line-of-Sight",
+    "persistence": "Timed Long",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.0250000000000004,
+    "hook_mode_flat_w": 0,
+    "notes": "Auto-generated high-tier spell"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 15,
+    "reach_w": 80,
+    "persistence_w": 25,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 1585,
+    "hook_mode_multiplier": 2.0250000000000004,
+    "hook_mode_flat_w": 0,
+    "total_w": 3210,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Move Ring** | Circle | Move | Control | T5 | Mind | Raw | Ring | Line-of-Sight | Timed Long | Filter |"
+}

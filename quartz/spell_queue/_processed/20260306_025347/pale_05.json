@@ -1,0 +1,14 @@
+{
+  "name": "MindStorm",
+  "summary": "A reality-altering effect that releases mind energy in a field volume with active regulation while it runs",
+  "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that releases mind energy in a field volume with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+  "hook": "Emit",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "pattern": "Field",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Surface",
+  "notes": "Pale-class spell - use with extreme caution"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "NullCollapse",
+    "summary": "A reality-altering effect that establishes soul energy in a field volume with active regulation while it runs",
+    "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that establishes soul energy in a field volume with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+    "hook": "Ward",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Raw",
+    "pattern": "Field",
+    "reach": "Line-of-Sight",
+    "persistence": "Permanent",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.7,
+    "hook_mode_flat_w": 0,
+    "notes": "Pale-class spell - use with extreme caution"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 60,
+    "reach_w": 80,
+    "persistence_w": 400,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4755,
+    "hook_mode_multiplier": 2.7,
+    "hook_mode_flat_w": 0,
+    "total_w": 12838,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **NullCollapse** | Circle | Ward | Control | T6 | Soul | Raw | Field | Line-of-Sight | Permanent | Filter |"
+}

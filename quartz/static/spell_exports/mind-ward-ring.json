@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Ward Ring",
+    "summary": "establishes mind energy in a ring perimeter with active regulation while it runs",
+    "effect_description": "The caster inscribes a sigil that establishes mind energy in a ring perimeter with active regulation while it runs. Effect range: line-of-sight. Persistence: latched.",
+    "hook": "Ward",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Ring",
+    "reach": "Line-of-Sight",
+    "persistence": "Latched",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.7,
+    "hook_mode_flat_w": 0,
+    "notes": "Auto-generated high-tier spell"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 15,
+    "reach_w": 80,
+    "persistence_w": 40,
+    "target_w": 35,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 1575,
+    "hook_mode_multiplier": 2.7,
+    "hook_mode_flat_w": 0,
+    "total_w": 4252,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Ward Ring** | Circle | Ward | Control | T6 | Mind | Raw | Ring | Line-of-Sight | Latched | Group |"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Counter Sphere",
+    "summary": "disrupts mind energy in a spherical envelope with active regulation while it runs",
+    "effect_description": "The caster inscribes a sigil that disrupts mind energy in a spherical envelope with active regulation while it runs. Effect range: line-of-sight. Persistence: timed long.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Sphere",
+    "reach": "Line-of-Sight",
+    "persistence": "Timed Long",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Auto-generated high-tier spell"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 30,
+    "reach_w": 80,
+    "persistence_w": 25,
+    "target_w": 35,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 1575,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 5528,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Counter Sphere** | Circle | Counter | Control | T6 | Mind | Raw | Sphere | Line-of-Sight | Timed Long | Group |"
+}

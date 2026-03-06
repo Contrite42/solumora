@@ -1,0 +1,14 @@
+{
+  "name": "Mind Ward Ring",
+  "summary": "establishes mind energy in a ring perimeter with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that establishes mind energy in a ring perimeter with active regulation while it runs. Effect range: line-of-sight. Persistence: latched.",
+  "hook": "Ward",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "pattern": "Ring",
+  "reach": "Line-of-Sight",
+  "persistence": "Latched",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

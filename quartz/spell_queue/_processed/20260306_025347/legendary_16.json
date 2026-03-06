@@ -1,0 +1,14 @@
+{
+  "name": "Mind Bind Ring",
+  "summary": "anchors mind energy in a ring perimeter with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that anchors mind energy in a ring perimeter with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent.",
+  "hook": "Bind",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "pattern": "Ring",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

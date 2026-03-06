@@ -1,24 +1,24 @@
 # Soul Transform Sphere
 
-Reconfigures soul flux as a spherical envelope at linked reach, targeting a grouped cluster with conditional hold by creating a fresh flux expression.
+reconfigures soul energy in a spherical envelope with active regulation while it runs
 
 ## Effect
 
-Reconfigures soul flux as a spherical envelope at linked reach, targeting a grouped cluster with conditional hold by creating a fresh flux expression. A circle transform/create recipe that channels soul discipline into soul output. It applies a sphere pattern against group across linked reach with conditional persistence.
+The caster inscribes a sigil that reconfigures soul energy in a spherical envelope with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent.
 
 ## Sigil Variables
 
 | Variable | Assigned Value | Cost Rule |
 |---|---|---|
 | Hook | Transform | Center core variable (complexity handled via multiplier/flat) |
-| Mode | Create | Center core variable (complexity handled via multiplier/flat) |
+| Mode | Control | Center core variable (complexity handled via multiplier/flat) |
 | Shape | Circle | Base 55 W, outer slots 6 |
 | Discipline | Soul | x75 multiplier |
-| Output Mode | Soul | +0 W premium |
+| Output Mode | Raw | +30 W premium |
 | Pattern | Sphere | +30 W |
-| Reach | Linked | +150 W |
-| Persistence | Conditional | +20 W |
-| Target Spec | Group | +35 W |
+| Reach | Line-of-Sight | +80 W |
+| Persistence | Permanent | +400 W |
+| Target Spec | Filter | +60 W |
 
 ## Cost Breakdown
 
@@ -26,48 +26,48 @@ Reconfigures soul flux as a spherical envelope at linked reach, targeting a grou
 - Shape implied defaults: (none)
 - Core discipline cost: 55 * 75 = 4125 W
 - Pattern + Reach + Persistence + Target + Output premium:
-  30 + 150 + 20 + 35 + 0 = 235 W
-- Subtotal: 4360 W
-- Hook/Mode complexity multiplier: x1.9549999999999998
+  30 + 80 + 400 + 60 + 30 = 600 W
+- Subtotal: 4725 W
+- Hook/Mode complexity multiplier: x2.295
 - Hook/Mode flat addition: +0 W
-- Total: **8524 W**
+- Total: **10844 W**
 - Required Control Tier: **T6**
 - Rarity bucket: **Rare**
 
 ## All Grimoire Row
 
-| **Soul Transform Sphere** | Circle | Transform | Create | T6 | Soul | Soul | Sphere | Linked | Conditional | Group |
+| **Soul Transform Sphere** | Circle | Transform | Control | T6 | Soul | Raw | Sphere | Line-of-Sight | Permanent | Filter |
 
 ## AI Spell Data
 
 ```json
 {
   "name": "Soul Transform Sphere",
-  "summary": "Reconfigures soul flux as a spherical envelope at linked reach, targeting a grouped cluster with conditional hold by creating a fresh flux expression.",
-  "effect_description": "Reconfigures soul flux as a spherical envelope at linked reach, targeting a grouped cluster with conditional hold by creating a fresh flux expression. A circle transform/create recipe that channels soul discipline into soul output. It applies a sphere pattern against group across linked reach with conditional persistence.",
+  "summary": "reconfigures soul energy in a spherical envelope with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that reconfigures soul energy in a spherical envelope with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent.",
   "hook": "Transform",
-  "mode": "Create",
+  "mode": "Control",
   "shape": "Circle",
   "discipline": "Soul",
-  "output_mode": "Soul",
+  "output_mode": "Raw",
   "pattern": "Sphere",
-  "reach": "Linked",
-  "persistence": "Conditional",
-  "target_spec": "Group",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
   "sustained_minutes": 0,
   "cost": {
     "shape_base_w": 55,
     "discipline_multiplier": 75,
     "core_discipline_w": 4125,
     "pattern_w": 30,
-    "reach_w": 150,
-    "persistence_w": 20,
-    "target_w": 35,
-    "output_mode_premium_w": 0,
-    "subtotal_outer_w": 4360,
-    "hook_mode_multiplier": 1.9549999999999998,
+    "reach_w": 80,
+    "persistence_w": 400,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4725,
+    "hook_mode_multiplier": 2.295,
     "hook_mode_flat_w": 0,
-    "total_w": 8524,
+    "total_w": 10844,
     "required_tier": "T6",
     "rarity": "Rare"
   },

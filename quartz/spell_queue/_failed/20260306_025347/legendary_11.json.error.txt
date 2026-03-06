@@ -1,0 +1,1 @@
+Pentagon does not expose 'persistence' for explicit assignment. Use default 'Immediate' or choose a higher-control shape.

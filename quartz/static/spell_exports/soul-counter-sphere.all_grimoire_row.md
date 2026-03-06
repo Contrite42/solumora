@@ -1,1 +1,1 @@
-| **Soul Counter Sphere** | Pentagon | Counter | Control | T6 | Soul | Soul | Sphere | Touch | Immediate | Object |
+| **Soul Counter Sphere** | Circle | Counter | Control | T7 | Soul | Raw | Sphere | Line-of-Sight | Latched | Group |

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "MindRend",
+    "summary": "A reality-altering effect that releases mind energy in a column volume by changing existing conditions",
+    "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that releases mind energy in a column volume by changing existing conditions. Effect range: long. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+    "hook": "Emit",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Cylinder",
+    "reach": "Long",
+    "persistence": "Permanent",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.0,
+    "hook_mode_flat_w": 0,
+    "notes": "Pale-class spell - use with extreme caution"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 20,
+    "reach_w": 40,
+    "persistence_w": 400,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 1925,
+    "hook_mode_multiplier": 1.0,
+    "hook_mode_flat_w": 0,
+    "total_w": 1925,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **MindRend** | Circle | Emit | Affect | T5 | Mind | Raw | Cylinder | Long | Permanent | Filter |"
+}

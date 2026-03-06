@@ -1,1 +1,1 @@
-| **Soul Counter Field** | Pentagon | Counter | Control | T6 | Soul | Soul | Field | Anchored | Immediate | Where Written |
+| **Soul Counter Field** | Circle | Counter | Control | T7 | Soul | Raw | Field | Line-of-Sight | Latched | Group |

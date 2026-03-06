@@ -1,0 +1,14 @@
+{
+  "name": "RiftPulse",
+  "summary": "A reality-altering effect that reconfigures raw energy in a field volume with active regulation while it runs",
+  "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that reconfigures raw energy in a field volume with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+  "hook": "Transform",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Raw",
+  "pattern": "Field",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
+  "notes": "Pale-class spell - use with extreme caution"
+}

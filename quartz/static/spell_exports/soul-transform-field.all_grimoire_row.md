@@ -1,0 +1,1 @@
+| **Soul Transform Field** | Circle | Transform | Affect | T6 | Soul | Raw | Field | Line-of-Sight | Permanent | Filter |

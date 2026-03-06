@@ -1,0 +1,15 @@
+{
+  "name": "Soul Ward Field",
+  "summary": "establishes soul energy in a field volume by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that establishes soul energy in a field volume by changing existing conditions. Effect range: long. Persistence: latched.",
+  "hook": "Ward",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Field",
+  "reach": "Long",
+  "persistence": "Latched",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "notes": "Auto-generated T9 spell"
+}

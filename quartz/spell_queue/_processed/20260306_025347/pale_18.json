@@ -1,0 +1,14 @@
+{
+  "name": "MindMark",
+  "summary": "A reality-altering effect that establishes soul energy in a field volume by changing existing conditions",
+  "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that establishes soul energy in a field volume by changing existing conditions. Effect range: line-of-sight. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+  "hook": "Ward",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Field",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Group",
+  "notes": "Pale-class spell - use with extreme caution"
+}

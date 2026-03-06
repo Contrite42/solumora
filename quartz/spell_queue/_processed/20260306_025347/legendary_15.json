@@ -1,0 +1,14 @@
+{
+  "name": "Mind Filter Field",
+  "summary": "screens mind energy in a field volume by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that screens mind energy in a field volume by changing existing conditions. Effect range: line-of-sight. Persistence: conditional.",
+  "hook": "Filter",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "pattern": "Field",
+  "reach": "Line-of-Sight",
+  "persistence": "Conditional",
+  "target_spec": "Individual",
+  "notes": "Auto-generated high-tier spell"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Soul Trigger Sphere",
+  "summary": "arms soul energy in a spherical envelope by creating a fresh flux expression",
+  "effect_description": "The caster inscribes a sigil that arms soul energy in a spherical envelope by creating a fresh flux expression. Effect range: medium. Persistence: permanent.",
+  "hook": "Trigger",
+  "mode": "Create",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Sphere",
+  "reach": "Medium",
+  "persistence": "Permanent",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

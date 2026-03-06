@@ -1,0 +1,14 @@
+{
+  "name": "WorldCollapse",
+  "summary": "A reality-altering effect that releases soul energy in a field volume by changing existing conditions",
+  "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that releases soul energy in a field volume by changing existing conditions. Effect range: long. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+  "hook": "Emit",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Field",
+  "reach": "Long",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
+  "notes": "Pale-class spell - use with extreme caution"
+}

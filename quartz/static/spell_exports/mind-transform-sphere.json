@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Transform Sphere",
+    "summary": "reconfigures mind energy in a spherical envelope by creating a fresh flux expression",
+    "effect_description": "The caster inscribes a sigil that reconfigures mind energy in a spherical envelope by creating a fresh flux expression. Effect range: long. Persistence: conditional.",
+    "hook": "Transform",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Sphere",
+    "reach": "Long",
+    "persistence": "Conditional",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.9549999999999998,
+    "hook_mode_flat_w": 0,
+    "notes": "Auto-generated high-tier spell"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 30,
+    "reach_w": 40,
+    "persistence_w": 20,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 1555,
+    "hook_mode_multiplier": 1.9549999999999998,
+    "hook_mode_flat_w": 0,
+    "total_w": 3040,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Transform Sphere** | Circle | Transform | Create | T5 | Mind | Raw | Sphere | Long | Conditional | Filter |"
+}

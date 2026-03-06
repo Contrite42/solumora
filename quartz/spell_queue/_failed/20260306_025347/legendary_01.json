@@ -1,0 +1,14 @@
+{
+  "name": "Soul Dampen Cylinder",
+  "summary": "reduces soul energy in a column volume with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that reduces soul energy in a column volume with active regulation while it runs. Effect range: long. Persistence: latched.",
+  "hook": "Dampen",
+  "mode": "Control",
+  "shape": "Pentagon",
+  "discipline": "Soul",
+  "pattern": "Cylinder",
+  "reach": "Long",
+  "persistence": "Latched",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

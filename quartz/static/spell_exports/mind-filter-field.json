@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Filter Field",
+    "summary": "screens mind energy in a field volume by changing existing conditions",
+    "effect_description": "The caster inscribes a sigil that screens mind energy in a field volume by changing existing conditions. Effect range: line-of-sight. Persistence: conditional.",
+    "hook": "Filter",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Field",
+    "reach": "Line-of-Sight",
+    "persistence": "Conditional",
+    "target_spec": "Individual",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Auto-generated high-tier spell"
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 60,
+    "reach_w": 80,
+    "persistence_w": 20,
+    "target_w": 8,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 1573,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 2517,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Filter Field** | Circle | Filter | Affect | T5 | Mind | Raw | Field | Line-of-Sight | Conditional | Individual |"
+}

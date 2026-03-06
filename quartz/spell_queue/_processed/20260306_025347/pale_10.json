@@ -1,0 +1,14 @@
+{
+  "name": "PaleWound",
+  "summary": "A reality-altering effect that disrupts raw energy in a column volume with active regulation while it runs",
+  "effect_description": "Invokes a fundamental disruption to local Flux architecture. The caster inscribes a sigil that disrupts raw energy in a column volume with active regulation while it runs. Effect range: long. Persistence: permanent. Side effects on caster and casting site are documented but not fully understood.",
+  "hook": "Counter",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Raw",
+  "pattern": "Cylinder",
+  "reach": "Long",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
+  "notes": "Pale-class spell - use with extreme caution"
+}

@@ -1,73 +1,73 @@
 # Soul Amplify Field
 
-Boosts soul flux as a field volume at anchored reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+boosts soul energy in a field volume by changing existing conditions
 
 ## Effect
 
-Boosts soul flux as a field volume at anchored reach, targeting a grouped cluster with immediate discharge with active regulation while it runs. A pentagon amplify/control recipe that channels soul discipline into soul output. It applies a field pattern against group across anchored reach with immediate persistence.
+The caster inscribes a sigil that boosts soul energy in a field volume by changing existing conditions. Effect range: line-of-sight. Persistence: permanent.
 
 ## Sigil Variables
 
 | Variable | Assigned Value | Cost Rule |
 |---|---|---|
 | Hook | Amplify | Center core variable (complexity handled via multiplier/flat) |
-| Mode | Control | Center core variable (complexity handled via multiplier/flat) |
-| Shape | Pentagon | Base 20 W, outer slots 5 |
+| Mode | Affect | Center core variable (complexity handled via multiplier/flat) |
+| Shape | Circle | Base 55 W, outer slots 6 |
 | Discipline | Soul | x75 multiplier |
-| Output Mode | Soul | +0 W premium |
+| Output Mode | Raw | +30 W premium |
 | Pattern | Field | +60 W |
-| Reach | Anchored | +0 W |
-| Persistence | Immediate | +0 W |
-| Target Spec | Group | +35 W |
+| Reach | Line-of-Sight | +80 W |
+| Persistence | Permanent | +400 W |
+| Target Spec | Filter | +60 W |
 
 ## Cost Breakdown
 
-- Shape control surface: Pentagon explicit outer variables = discipline, output_mode, pattern, target_spec, reach
-- Shape implied defaults: persistence=Immediate
-- Core discipline cost: 20 * 75 = 1500 W
+- Shape control surface: Circle explicit outer variables = discipline, output_mode, pattern, target_spec, reach, persistence
+- Shape implied defaults: (none)
+- Core discipline cost: 55 * 75 = 4125 W
 - Pattern + Reach + Persistence + Target + Output premium:
-  60 + 0 + 0 + 35 + 0 = 95 W
-- Subtotal: 1595 W
-- Hook/Mode complexity multiplier: x2.9700000000000006
+  60 + 80 + 400 + 60 + 30 = 630 W
+- Subtotal: 4755 W
+- Hook/Mode complexity multiplier: x2.2
 - Hook/Mode flat addition: +0 W
-- Total: **4737 W**
+- Total: **10461 W**
 - Required Control Tier: **T6**
 - Rarity bucket: **Rare**
 
 ## All Grimoire Row
 
-| **Soul Amplify Field** | Pentagon | Amplify | Control | T6 | Soul | Soul | Field | Anchored | Immediate | Group |
+| **Soul Amplify Field** | Circle | Amplify | Affect | T6 | Soul | Raw | Field | Line-of-Sight | Permanent | Filter |
 
 ## AI Spell Data
 
 ```json
 {
   "name": "Soul Amplify Field",
-  "summary": "Boosts soul flux as a field volume at anchored reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.",
-  "effect_description": "Boosts soul flux as a field volume at anchored reach, targeting a grouped cluster with immediate discharge with active regulation while it runs. A pentagon amplify/control recipe that channels soul discipline into soul output. It applies a field pattern against group across anchored reach with immediate persistence.",
+  "summary": "boosts soul energy in a field volume by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that boosts soul energy in a field volume by changing existing conditions. Effect range: line-of-sight. Persistence: permanent.",
   "hook": "Amplify",
-  "mode": "Control",
-  "shape": "Pentagon",
+  "mode": "Affect",
+  "shape": "Circle",
   "discipline": "Soul",
-  "output_mode": "Soul",
+  "output_mode": "Raw",
   "pattern": "Field",
-  "reach": "Anchored",
-  "persistence": "Immediate",
-  "target_spec": "Group",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
   "sustained_minutes": 0,
   "cost": {
-    "shape_base_w": 20,
+    "shape_base_w": 55,
     "discipline_multiplier": 75,
-    "core_discipline_w": 1500,
+    "core_discipline_w": 4125,
     "pattern_w": 60,
-    "reach_w": 0,
-    "persistence_w": 0,
-    "target_w": 35,
-    "output_mode_premium_w": 0,
-    "subtotal_outer_w": 1595,
-    "hook_mode_multiplier": 2.9700000000000006,
+    "reach_w": 80,
+    "persistence_w": 400,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4755,
+    "hook_mode_multiplier": 2.2,
     "hook_mode_flat_w": 0,
-    "total_w": 4737,
+    "total_w": 10461,
     "required_tier": "T6",
     "rarity": "Rare"
   },

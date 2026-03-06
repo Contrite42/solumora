@@ -1,0 +1,14 @@
+{
+  "name": "Mind Dampen Field",
+  "summary": "reduces mind energy in a field volume by creating a fresh flux expression",
+  "effect_description": "The caster inscribes a sigil that reduces mind energy in a field volume by creating a fresh flux expression. Effect range: medium. Persistence: latched.",
+  "hook": "Dampen",
+  "mode": "Create",
+  "shape": "Pentagon",
+  "discipline": "Mind",
+  "pattern": "Field",
+  "reach": "Medium",
+  "persistence": "Latched",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

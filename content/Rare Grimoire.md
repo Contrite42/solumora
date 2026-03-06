@@ -1757,3 +1757,489 @@ Detects soul flux as a column volume at medium reach, targeting a marked signatu
 | Persistence | Immediate |
 | Target | Marked |
 
+
+---
+
+**Soul Trigger Sphere**
+arms soul energy in a spherical envelope by creating a fresh flux expression
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Trigger |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Medium |
+| Persistence | Permanent |
+| Target | Group |
+
+
+---
+
+**Mind Counter Sphere**
+disrupts mind energy in a spherical envelope with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Group |
+
+
+---
+
+**Mind Move Ring**
+repositions mind energy in a ring perimeter with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Ring |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Filter |
+
+
+---
+
+**Mind Ward Ring**
+establishes mind energy in a ring perimeter with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Ring |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Group |
+
+
+---
+
+**Mind Transform Sphere**
+reconfigures mind energy in a spherical envelope by creating a fresh flux expression
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Long |
+| Persistence | Conditional |
+| Target | Filter |
+
+
+---
+
+**Mind Filter Field**
+screens mind energy in a field volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Individual |
+
+
+---
+
+**Mind Bind Ring**
+anchors mind energy in a ring perimeter with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Ring |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Group |
+
+
+---
+
+**Soul Transform Field**
+reconfigures soul energy in a field volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Filter |
+
+
+---
+
+**Soul Ward Sphere**
+establishes soul energy in a spherical envelope with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Filter |
+
+
+---
+
+**Soul Ward Field**
+establishes soul energy in a field volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Group |
+
+
+---
+
+**NullPulse**
+A reality-altering effect that reconfigures soul energy in a column volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Surface |
+
+
+---
+
+**WorldCollapse**
+A reality-altering effect that reconfigures mind energy in a column volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Surface |
+
+
+---
+
+**RealityMark**
+A reality-altering effect that disrupts raw energy in a column volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Group |
+
+
+---
+
+**PaleBreach**
+A reality-altering effect that releases mind energy in a field volume with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Surface |
+
+
+---
+
+**MindStorm**
+A reality-altering effect that releases mind energy in a field volume with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Surface |
+
+
+---
+
+**VoidPulse**
+A reality-altering effect that reconfigures mind energy in a spherical envelope with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Group |
+
+
+---
+
+**VoidMark**
+A reality-altering effect that releases soul energy in a column volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Filter |
+
+
+---
+
+**WorldWound**
+A reality-altering effect that disrupts soul energy in a field volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Surface |
+
+
+---
+
+**PaleWound**
+A reality-altering effect that disrupts raw energy in a column volume with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Filter |
+
+
+---
+
+**MindWound**
+A reality-altering effect that disrupts soul energy in a field volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Filter |
+
+
+---
+
+**NullCollapse**
+A reality-altering effect that establishes soul energy in a field volume with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Filter |
+
+
+---
+
+**RiftPulse**
+A reality-altering effect that reconfigures raw energy in a field volume with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Filter |
+
+
+---
+
+**MindRend**
+A reality-altering effect that releases mind energy in a column volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Filter |
+
+
+---
+
+**RealityBreach**
+A reality-altering effect that establishes mind energy in a column volume with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Surface |
+
+
+---
+
+**EchoShatter**
+A reality-altering effect that disrupts raw energy in a field volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Surface |
+
+
+---
+
+**MindMark**
+A reality-altering effect that establishes soul energy in a field volume by changing existing conditions
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Group |
+
+
+---
+
+**EchoBreach**
+A reality-altering effect that disrupts raw energy in a spherical envelope with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Surface |
+

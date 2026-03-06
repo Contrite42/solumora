@@ -1,0 +1,14 @@
+{
+  "name": "Mind Transform Sphere",
+  "summary": "reconfigures mind energy in a spherical envelope by creating a fresh flux expression",
+  "effect_description": "The caster inscribes a sigil that reconfigures mind energy in a spherical envelope by creating a fresh flux expression. Effect range: long. Persistence: conditional.",
+  "hook": "Transform",
+  "mode": "Create",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "pattern": "Sphere",
+  "reach": "Long",
+  "persistence": "Conditional",
+  "target_spec": "Filter",
+  "notes": "Auto-generated high-tier spell"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Mind Filter Field",
+  "summary": "screens mind energy in a field volume by creating a fresh flux expression",
+  "effect_description": "The caster inscribes a sigil that screens mind energy in a field volume by creating a fresh flux expression. Effect range: long. Persistence: conditional.",
+  "hook": "Filter",
+  "mode": "Create",
+  "shape": "Pentagon",
+  "discipline": "Mind",
+  "pattern": "Field",
+  "reach": "Long",
+  "persistence": "Conditional",
+  "target_spec": "Marked",
+  "notes": "Auto-generated high-tier spell"
+}

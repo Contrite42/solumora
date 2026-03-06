@@ -310,3 +310,39 @@ Disrupts soul flux as a directed line at long reach, targeting a prepared surfac
 | Persistence | Timed (Long) |
 | Target | Surface |
 
+
+---
+
+**Soul Counter Field**
+disrupts soul energy in a field volume with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Group |
+
+
+---
+
+**Soul Counter Sphere**
+disrupts soul energy in a spherical envelope with active regulation while it runs
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Group |
+

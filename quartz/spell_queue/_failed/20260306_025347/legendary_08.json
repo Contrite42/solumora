@@ -1,0 +1,14 @@
+{
+  "name": "Mind Ward Ring",
+  "summary": "establishes mind energy in a ring perimeter by creating a fresh flux expression",
+  "effect_description": "The caster inscribes a sigil that establishes mind energy in a ring perimeter by creating a fresh flux expression. Effect range: medium. Persistence: timed long.",
+  "hook": "Ward",
+  "mode": "Create",
+  "shape": "Pentagon",
+  "discipline": "Mind",
+  "pattern": "Ring",
+  "reach": "Medium",
+  "persistence": "Timed Long",
+  "target_spec": "Marked",
+  "notes": "Auto-generated high-tier spell"
+}

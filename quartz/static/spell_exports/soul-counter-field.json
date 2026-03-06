@@ -1,37 +1,37 @@
 {
   "spec": {
     "name": "Soul Counter Field",
-    "summary": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
-    "effect_description": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A pentagon counter/control recipe that channels soul discipline into soul output. It applies a field pattern against where written across anchored reach with immediate persistence.",
+    "summary": "disrupts soul energy in a field volume with active regulation while it runs",
+    "effect_description": "The caster inscribes a sigil that disrupts soul energy in a field volume with active regulation while it runs. Effect range: line-of-sight. Persistence: latched.",
     "hook": "Counter",
     "mode": "Control",
-    "shape": "Pentagon",
+    "shape": "Circle",
     "discipline": "Soul",
-    "output_mode": "Soul",
+    "output_mode": "Raw",
     "pattern": "Field",
-    "reach": "Anchored",
-    "persistence": "Immediate",
-    "target_spec": "Where Written",
+    "reach": "Line-of-Sight",
+    "persistence": "Latched",
+    "target_spec": "Group",
     "sustained_minutes": 0,
     "hook_mode_multiplier": 3.5100000000000002,
     "hook_mode_flat_w": 0,
-    "notes": "Generated automatically from randomized sigil variables."
+    "notes": "Auto-generated T9 spell"
   },
   "cost": {
-    "shape_base_w": 20,
+    "shape_base_w": 55,
     "discipline_multiplier": 75,
-    "core_discipline_w": 1500,
+    "core_discipline_w": 4125,
     "pattern_w": 60,
-    "reach_w": 0,
-    "persistence_w": 0,
-    "target_w": 0,
-    "output_mode_premium_w": 0,
-    "subtotal_outer_w": 1560,
+    "reach_w": 80,
+    "persistence_w": 40,
+    "target_w": 35,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4370,
     "hook_mode_multiplier": 3.5100000000000002,
     "hook_mode_flat_w": 0,
-    "total_w": 5476,
-    "required_tier": "T6",
-    "rarity": "Rare"
+    "total_w": 15339,
+    "required_tier": "T7",
+    "rarity": "Legendary"
   },
-  "all_grimoire_row": "| **Soul Counter Field** | Pentagon | Counter | Control | T6 | Soul | Soul | Field | Anchored | Immediate | Where Written |"
+  "all_grimoire_row": "| **Soul Counter Field** | Circle | Counter | Control | T7 | Soul | Raw | Field | Line-of-Sight | Latched | Group |"
 }

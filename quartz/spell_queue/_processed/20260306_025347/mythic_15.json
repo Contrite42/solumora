@@ -1,0 +1,15 @@
+{
+  "name": "Soul Amplify Field",
+  "summary": "boosts soul energy in a field volume by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that boosts soul energy in a field volume by changing existing conditions. Effect range: line-of-sight. Persistence: permanent.",
+  "hook": "Amplify",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Field",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "notes": "Auto-generated T9 spell"
+}

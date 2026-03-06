@@ -1,0 +1,14 @@
+{
+  "name": "Soul Amplify Sphere",
+  "summary": "boosts soul energy in a spherical envelope by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that boosts soul energy in a spherical envelope by changing existing conditions. Effect range: medium. Persistence: timed long.",
+  "hook": "Amplify",
+  "mode": "Affect",
+  "shape": "Pentagon",
+  "discipline": "Soul",
+  "pattern": "Sphere",
+  "reach": "Medium",
+  "persistence": "Timed Long",
+  "target_spec": "Individual",
+  "notes": "Auto-generated high-tier spell"
+}

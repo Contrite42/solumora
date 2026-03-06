@@ -1,0 +1,14 @@
+{
+  "name": "Soul Amplify Ring",
+  "summary": "boosts soul energy in a ring perimeter by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that boosts soul energy in a ring perimeter by changing existing conditions. Effect range: medium. Persistence: conditional.",
+  "hook": "Amplify",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Ring",
+  "reach": "Medium",
+  "persistence": "Conditional",
+  "target_spec": "Individual",
+  "notes": "Auto-generated high-tier spell"
+}

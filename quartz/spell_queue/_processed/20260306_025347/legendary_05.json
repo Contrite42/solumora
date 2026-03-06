@@ -1,0 +1,14 @@
+{
+  "name": "Mind Counter Sphere",
+  "summary": "disrupts mind energy in a spherical envelope with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that disrupts mind energy in a spherical envelope with active regulation while it runs. Effect range: line-of-sight. Persistence: timed long.",
+  "hook": "Counter",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "pattern": "Sphere",
+  "reach": "Line-of-Sight",
+  "persistence": "Timed Long",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

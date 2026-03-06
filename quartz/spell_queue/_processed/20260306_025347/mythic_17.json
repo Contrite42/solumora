@@ -1,0 +1,15 @@
+{
+  "name": "Soul Counter Sphere",
+  "summary": "disrupts soul energy in a spherical envelope with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that disrupts soul energy in a spherical envelope with active regulation while it runs. Effect range: line-of-sight. Persistence: latched.",
+  "hook": "Counter",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Sphere",
+  "reach": "Line-of-Sight",
+  "persistence": "Latched",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "notes": "Auto-generated T9 spell"
+}

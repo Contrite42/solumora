@@ -1,0 +1,14 @@
+{
+  "name": "Mind Emit Field",
+  "summary": "releases mind energy in a field volume by changing existing conditions",
+  "effect_description": "The caster inscribes a sigil that releases mind energy in a field volume by changing existing conditions. Effect range: line-of-sight. Persistence: timed long.",
+  "hook": "Emit",
+  "mode": "Affect",
+  "shape": "Pentagon",
+  "discipline": "Mind",
+  "pattern": "Field",
+  "reach": "Line-of-Sight",
+  "persistence": "Timed Long",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

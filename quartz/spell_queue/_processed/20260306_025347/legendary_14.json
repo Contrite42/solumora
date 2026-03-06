@@ -1,0 +1,14 @@
+{
+  "name": "Soul Sense Sphere",
+  "summary": "detects soul energy in a spherical envelope with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that detects soul energy in a spherical envelope with active regulation while it runs. Effect range: long. Persistence: permanent.",
+  "hook": "Sense",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Sphere",
+  "reach": "Long",
+  "persistence": "Permanent",
+  "target_spec": "Group",
+  "notes": "Auto-generated high-tier spell"
+}

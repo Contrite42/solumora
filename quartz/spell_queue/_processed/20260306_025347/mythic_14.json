@@ -1,0 +1,15 @@
+{
+  "name": "Soul Transform Sphere",
+  "summary": "reconfigures soul energy in a spherical envelope with active regulation while it runs",
+  "effect_description": "The caster inscribes a sigil that reconfigures soul energy in a spherical envelope with active regulation while it runs. Effect range: line-of-sight. Persistence: permanent.",
+  "hook": "Transform",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "pattern": "Sphere",
+  "reach": "Line-of-Sight",
+  "persistence": "Permanent",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "notes": "Auto-generated T9 spell"
+}
