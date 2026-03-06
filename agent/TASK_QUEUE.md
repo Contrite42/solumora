@@ -98,6 +98,71 @@ Blocked tasks are marked with their dependency.
 - [x] **Goal:** Integrate [[Wolfpoint]] / [[Hypertext]] into the geopolitical world as a third pole, not a lore island.  
   **Constraints:** Why it matters, who wants it, what it exports, what it refuses, what it fears. Everyone has a personal stake.  
   **Output:** 6 notes (institutions + exports + conflicts + 3 people) + update [[Wolfpoint]] + update [[Hypertext]].
+
+---
+## 🔄 EXPANSION CYCLE — Building Outward from the Foundation
+
+These tasks expand the world's texture without adding new structural elements. They connect existing systems, add ground-level detail, and create natural story opportunities.
+
+- [ ] **Goal:** Build the **Rural Backbone** that feeds the cities.
+  **Constraints:** Terravelle and Auralis both have urban centers but rural life is conceptual. Need farming communities with names, resource extraction settlements, supply chains that actually connect to documented trade routes. Must show how T0-T2 practitioners make rural life work with minimal Flux resources. Everyone is mid-harvest, mid-journey, mid-negotiation.
+  **Output:** 8-10 notes (4-5 Terravelle rural communities + 4-5 Auralis rural communities) with distinct economies, recurring problems, and named people. Update [[Maren Valley]], [[Life in Rural Terravelle]], [[Ordinary Life in Auralis]] with concrete examples.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Develop the **Desert Edge Culture** — settlements along the Zakros boundary that aren't military garrisons.
+  **Constraints:** Halveth is documented but there should be 4-6 other border settlements with economies built around the barrier: guide services, expedition supply, risk assessment, refugee flow from failed crossings, salvage from abandoned attempts. Each settlement should have developed unique adaptations to living at the edge of the uninhabitable zone.
+  **Output:** 6 notes (4 border settlements + 2 specialist institutions/guilds) + update [[Equatorial Desert]] with a "Border Settlement Network" section.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Expand the **Maritime World** beyond documented trade routes.
+  **Constraints:** Coastal shipping exists but we have no fishing communities, coastal towns between major ports, maritime culture, or ship-building economy. Need at least 3 coastal settlements (2 in Auralis, 1 in Terravelle) that depend on the sea rather than just using it for transport. Must address how Flux interacts with deep-water navigation and storm management.
+  **Output:** 5-6 notes (3 coastal towns + 2-3 maritime institutions/practices) + update [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] with stopping points.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Build the **Grimoire Underground** as operational reality.
+  **Constraints:** Black market circulation is documented but no actual criminal organizations, smuggling routes through existing trade networks, or illicit practitioners who operate outside guild regulation. Need 3-4 underground institutions with names, methods, territories, and the people who run them. Must show how they interface with legitimate grimoire economy without replacing it.
+  **Output:** 6-8 notes (3-4 underground orgs + 2-3 key smuggling routes/methods + 2-3 underground practitioners) + update [[Black Market Grimoire Circulation]] with organizational detail.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Surface the **Persecution Era Legacy** in present-day Solumora.
+  **Constraints:** The hunting period 400 years ago is documented historically but has no present-day artifacts. Need: survivor family lineages that remember, hidden community sites that were never found, institutional memory preserved in unexpected places (guild archives, rural oral tradition, religious texts). Must show how this history still shapes behavior without making it the central drama.
+  **Output:** 5-6 notes (2-3 survivor lineages + 2 hidden/preserved sites + 1 institutional memory keeper) + update [[The Persecution Era]] with "Legacy and Memory" section.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Document the **Expedition Culture** around Auralis desert research.
+  **Constraints:** Council funds expeditions but we have no expedition companies, professional guides, risk assessment specialists, or the culture around failed expeditions. Need 3-4 expedition-adjacent institutions and the people who make crossings possible. Must show the gap between council ambitions and ground-level expedition reality.
+  **Output:** 6-7 notes (3 expedition companies/guide services + 3-4 expedition specialists) + update [[Emberfall]] and [[Ancient Ruins]] with expedition infrastructure detail.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Explore the **Tier Extremes** — what life is like at T7+ and T0.
+  **Constraints:** Control Tier system is documented but we have few examples of how exceptional practitioners (T7-T9) navigate a society not built for them, or how T0 individuals (zero Flux capacity) survive in a Flux-dependent world. Need 4-6 characters across the extremes with their adaptation strategies.
+  **Output:** 6 notes (3 high-tier practitioners T7+ with their constraints + 3 zero-tier individuals with their workarounds) + update [[Control Tier]] with "Living at the Extremes" section.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Detail the **Council's Mechanisms** — how Auralis governance actually works.
+  **Constraints:** The Council of Auralis is documented but the bureaucracy beneath it is thin. Need: how orders flow from council to implementation, who enforces council decisions, what the internal factions actually are, and the people who translate council policy into street-level reality. Must show the gap between council intentions and executed outcomes.
+  **Output:** 5-7 notes (2-3 enforcement/implementation institutions + 3-4 mid-level bureaucrats who run things) + update [[The Council of Auralis]] with operational detail.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Ground **Wolfpoint's Economy** in daily trade reality.
+  **Constraints:** Sera Voss and Hypertext are documented but Wolfpoint's actual trade goods, seasonal migration patterns, and resource economy are conceptual. Need: what Wolfpoint exports besides knowledge, how they source food/supplies in mountain territory, and the trade relationships that keep them independent. Must integrate with existing [[Outer Coast Packet Line]] documentation.
+  **Output:** 4-5 notes (2 major export industries + 2 supply chain sources + 1 trade coordination institution) + update [[Wolfpoint]] with economic detail.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Expand the **High Demon Layer** with operational detail.
+  **Constraints:** Five High Demons exist (Sorath, Selvane, Fennick, Mave, Wren) but their day-to-day activities, territorial boundaries, how they avoid detection by each other and by humans, and their conflicts/alliances need detail. Must preserve the "nobody knows they exist" constraint while showing what they actually do. This is sensitive canon — escalate any structural additions to [[DECISIONS.md]].
+  **Output:** 5-8 notes (demon territories/routines + detection-avoidance methods + 2-3 near-miss incidents where demons almost revealed themselves) + update [[High Demons]] with behavioral patterns section.
+  **Owner:** `Copilot Auto` (research/planning only — actual demon expansion requires creator approval in DECISIONS.md)
+
+- [ ] **Goal:** Build **Inter-Kingdom Communication Systems** beyond official channels.
+  **Constraints:** Diplomatic channels exist but we don't have: unofficial messenger networks, how information smuggled across the desert moves, communication lag times, or how mis-information spreads. Need 3-4 communication institutions/methods with realistic speed/reliability trade-offs.
+  **Output:** 5-6 notes (3 unofficial communication networks + 2-3 key information brokers) + update [[Ashford-Halveth Courier Road]] with communication infrastructure detail.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Document **Flux Research Institutions** in both kingdoms.
+  **Constraints:** Auralis Crestward has research but Terravelle's approach to Flux study is undocumented. Need: 2-3 research institutions in each kingdom with different philosophies, what they study, what they've discovered, and what questions they're asking that might be dangerous. Must show kingdom philosophical differences in how they approach the same questions.
+  **Output:** 6-8 notes (4 research institutions + 3-4 key researchers with their projects) + update [[Flux]] with "Contemporary Research" section.
+  **Owner:** `Copilot Auto`
   **Owner:** `Copilot Auto` (temporary while Claude offline)
 
 - [x] **Goal:** Build the **timeline backbone** of Solumora (eras that explain current institutions).  
