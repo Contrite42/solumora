@@ -10,6 +10,7 @@
 - Story intake reconciliation complete: Copilot story outputs + Codex decision bundles synced. Next: Terravelle preflight escalation then Terravelle buildout.
 - Terravelle preflight escalation complete: `DECISION D` added with creator `A/B/C` scope options for protected `content/Terravelle.md`.
 - Terravelle/Wolfpoint/History packages confirmed complete. Next: People Web phase build + remaining stub cleanup.
+- Solumora live map component complete: canonical-position continental map now renders on `Solumora` page and refreshes links from content index.
 
 ## Current Status
 - **Trade & Travel spine**: COMPLETE. Routes, hub notes, inbound links, and "How People Move" appends to Solumora.md + World Primer.md all applied.
@@ -29,6 +30,7 @@
 - **Terravelle package**: COMPLETE. Added/updated `Terravelle.md`, `Valdenmoor.md`, district pages (`The Dock Wards`, `Guild Quarter`, `The Outer Wards`), supply page (`Maren Valley`), and people (`Caven Torst`, `Noll Drenk`, `Trel Alvn`).
 - **Wolfpoint integration package**: COMPLETE. Added/updated `The Wolfpoint Question`, `Wolfpoint Exports`, `Keln Varost`, `Orva Dresk`, `Renn Cald`, plus updates in `Wolfpoint.md` and `Hypertext.md`.
 - **History backbone package**: COMPLETE. Added/updated `History.md`, `The Ancient Civilization`, `The Desert Barrier`, `The Grimoire Tradition`, `The Cultural Divergence`, `The Persecution Era`, `The Northern Founding`, `The Southern Founding`, and `Solumora.md` timeline section. Added support page `Maren River.md` and fixed history aliases.
+- **Live map integration**: COMPLETE. Added `quartz/components/SolumoraMap.tsx` with supporting script/style files and layout injection in `quartz.layout.ts` so `Solumora` now shows a canonical-position continent map with periodic link-refresh sync.
 
 ## Operator Role Assignment
 - Current control-plane operator (Codex): pipeline executor + queue/decision owner.
