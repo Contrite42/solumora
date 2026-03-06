@@ -22,11 +22,18 @@ REPORTS_DIR = AGENT_DIR / "reports"
 STAGING_DIR = AGENT_DIR / "staging"
 
 TASK_FILE = AGENT_DIR / "TASK.md"
+TASK_QUEUE_FILE = AGENT_DIR / "TASK_QUEUE.md"
+OFFLINE_REPORT = REPORTS_DIR / "offline_mode.md"
 WORLD_STATE = AGENT_DIR / "WORLD_STATE.md"
 STYLE_GUIDE = AGENT_DIR / "STYLE_GUIDE.md"
 QA_RULES = AGENT_DIR / "QA_RULES.md"
-CLAIMED_FILE = AGENT_DIR / "claimed.md"
+CLAIMED_FILE_PRIMARY = AGENT_DIR / "claimed.md"
+CLAIMED_FILE_STAGING = STAGING_DIR / "CLAIMED.md"
 SECRETS_PATH = AGENT_DIR / "secrets.json"
+LOCK_FILE = STAGING_DIR / "orchestrator.lock"
+DECISIONS_FILE = AGENT_DIR / "DECISIONS.md"
+REVIEW_DECISION_START = "<!-- REVIEW_DECISION_START -->"
+REVIEW_DECISION_END = "<!-- REVIEW_DECISION_END -->"
 
 PLAN_FILE = STAGING_DIR / "PLAN.json"
 SEED_FILE = STAGING_DIR / "OLLAMA_SEED.md"
@@ -51,33 +58,309 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1:8b")
 CLAUDE_MAX_BATCH_NOTES = int(os.getenv("CLAUDE_MAX_BATCH_NOTES", "2"))
 CLAUDE_SLEEP_SECONDS = float(os.getenv("CLAUDE_SLEEP_SECONDS", "8"))
 MAX_CONTEXT_FILES = int(os.getenv("MAX_CONTEXT_FILES", "12"))
+ALLOW_OFFLINE_FALLBACK = os.getenv("ALLOW_OFFLINE_FALLBACK", "1").lower() not in ("0", "false", "no")
+
+RUN_LOCK_OWNER = False
 
 # -----------------------------
 # Helpers
 # -----------------------------
+
+# -----------------------------
+# Helpers
+# -----------------------------
+
+def get_active_task_text():
+    """
+    Priority:
+    1) If TASK.md has content -> use it.
+    2) Else pull next unchecked task from TASK_QUEUE.md.
+    Returns (task_text, source_label).
+    """
+    task = read_text(TASK_FILE).strip()
+    if task:
+        return task, "TASK.md"
+
+    tq = read_text(TASK_QUEUE_FILE).splitlines() if TASK_QUEUE_FILE.exists() else []
+    if not tq:
+        return "", "NONE"
+
+    # Find first unchecked task: "- [ ]"
+    start = None
+    for i, line in enumerate(tq):
+        if line.strip().startswith("- [ ]"):
+            start = i
+            break
+    if start is None:
+        return "", "NONE"
+
+    # Capture until next "- [ ]" or "- [x]" or EOF
+    block = [tq[start]]
+    for j in range(start + 1, len(tq)):
+        if tq[j].strip().startswith("- [ ]") or tq[j].strip().startswith("- [x]"):
+            break
+        block.append(tq[j])
+
+    task_text = "\n".join(block).strip()
+    return task_text, "TASK_QUEUE.md"
+
+
+def mark_task_queue_done(task_text: str):
+    """
+    Marks the first matching unchecked task line as done ("- [x]").
+    Only flips the header line, keeps the body.
+    """
+    if not TASK_QUEUE_FILE.exists():
+        return
+
+    lines = read_text(TASK_QUEUE_FILE).splitlines()
+    header = task_text.splitlines()[0].strip()
+
+    for i, line in enumerate(lines):
+        if line.strip() == header and line.strip().startswith("- [ ]"):
+            lines[i] = line.replace("- [ ]", "- [x]", 1)
+            write_text(TASK_QUEUE_FILE, "\n".join(lines) + "\n")
+            return
+
+
 def ensure_dirs():
     for d in [AGENT_DIR, REPORTS_DIR, STAGING_DIR]:
         d.mkdir(parents=True, exist_ok=True)
     if not CONTENT_DIR.exists():
         raise RuntimeError(f"CONTENT_DIR not found: {CONTENT_DIR}")
 
+
 def read_text(p: Path) -> str:
     return p.read_text(encoding="utf-8", errors="ignore") if p.exists() else ""
+
 
 def write_text(p: Path, s: str):
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(s, encoding="utf-8")
+
 
 def append_text(p: Path, s: str):
     p.parent.mkdir(parents=True, exist_ok=True)
     old = read_text(p)
     p.write_text(old + s, encoding="utf-8")
 
+
 def sha(s: str) -> str:
     return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
 
+
 def now_tag():
     return time.strftime("%Y%m%d_%H%M%S")
+
+
+def resolve_claimed_file() -> Path:
+    if CLAIMED_FILE_STAGING.exists():
+        return CLAIMED_FILE_STAGING
+    return CLAIMED_FILE_PRIMARY
+
+
+def pid_is_running(pid: int) -> bool:
+    if not isinstance(pid, int) or pid <= 0:
+        return False
+    try:
+        os.kill(pid, 0)
+    except ProcessLookupError:
+        return False
+    except PermissionError:
+        return True
+    except OSError:
+        return False
+    return True
+
+
+def acquire_run_lock() -> bool:
+    global RUN_LOCK_OWNER
+    payload = {"pid": os.getpid(), "created_at": time.time()}
+
+    for _ in range(2):
+        try:
+            fd = os.open(str(LOCK_FILE), os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+            with os.fdopen(fd, "w", encoding="utf-8") as f:
+                json.dump(payload, f)
+            RUN_LOCK_OWNER = True
+            return True
+        except FileExistsError:
+            lock_data = {}
+            try:
+                lock_data = json.loads(read_text(LOCK_FILE) or "{}")
+            except Exception:
+                lock_data = {}
+
+            holder_pid = lock_data.get("pid")
+            if isinstance(holder_pid, int) and pid_is_running(holder_pid):
+                return False
+            try:
+                LOCK_FILE.unlink()
+            except Exception:
+                return False
+
+    return False
+
+
+def release_run_lock():
+    global RUN_LOCK_OWNER
+    if not RUN_LOCK_OWNER:
+        return
+    try:
+        lock_data = {}
+        try:
+            lock_data = json.loads(read_text(LOCK_FILE) or "{}")
+        except Exception:
+            lock_data = {}
+        if lock_data.get("pid") == os.getpid() and LOCK_FILE.exists():
+            LOCK_FILE.unlink()
+    finally:
+        RUN_LOCK_OWNER = False
+
+
+def should_fallback_to_offline(err: Exception) -> bool:
+    msg = str(err).lower()
+    return (
+        "rate limit" in msg
+        or "failed after retries" in msg
+        or "429" in msg
+        or "transient" in msg
+    )
+
+
+def extract_wikilinks(text: str):
+    links = []
+    for m in re.finditer(r"\[\[([^\]]+)\]\]", text or ""):
+        target = m.group(1).split("|", 1)[0].split("#", 1)[0].strip()
+        if target:
+            links.append(target)
+    return links
+
+
+def find_missing_link_targets(patch: dict):
+    known_titles = {p.stem for p in CONTENT_DIR.rglob("*.md")}
+
+    for w in patch.get("writes", []):
+        path = w.get("path", "")
+        if path.startswith("content/"):
+            known_titles.add(Path(path).stem)
+
+    issues = []
+    for bucket, content_key in (("writes", "content"), ("appends", "append")):
+        for op in patch.get(bucket, []):
+            body = op.get(content_key, "")
+            missing = sorted({lk for lk in extract_wikilinks(body) if lk not in known_titles})
+            if missing:
+                issues.append({"path": op.get("path", ""), "missing": missing, "kind": bucket})
+
+    return issues
+
+
+def filter_patch_to_batch(patch: dict, allowed_paths):
+    allowed = {p for p in allowed_paths if p}
+    if not allowed:
+        dropped = []
+        for w in patch.get("writes", []):
+            dropped.append({"type": "WRITE", "path": w.get("path", "")})
+        for a in patch.get("appends", []):
+            dropped.append({"type": "APPEND", "path": a.get("path", "")})
+        return {"writes": [], "appends": []}, dropped
+
+    filtered = {"writes": [], "appends": []}
+    dropped = []
+
+    for w in patch.get("writes", []):
+        if w.get("path") in allowed:
+            filtered["writes"].append(w)
+        else:
+            dropped.append({"type": "WRITE", "path": w.get("path", "")})
+
+    for a in patch.get("appends", []):
+        if a.get("path") in allowed:
+            filtered["appends"].append(a)
+        else:
+            dropped.append({"type": "APPEND", "path": a.get("path", "")})
+
+    return filtered, dropped
+
+
+def normalize_review_status(raw: str) -> str:
+    token = ((raw or "").strip().upper().split() or [""])[0]
+    if token in ("APPROVED", "REJECTED", "PENDING"):
+        return token
+    return "PENDING"
+
+
+def build_review_decision_block(batch_num: int, pending_paths: list, link_issues: list) -> str:
+    scope = ", ".join(f"`{p}`" for p in pending_paths) if pending_paths else "(none)"
+    lines = [
+        REVIEW_DECISION_START,
+        "## Active Review Decision",
+        f"- Batch: {batch_num}",
+        f"- Scope: {scope}",
+        "- Source: `agent/staging/PENDING_REVIEW.md`",
+        "- Status: PENDING",
+        "- Notes: (set when rejecting)",
+    ]
+
+    if link_issues:
+        lines.append("")
+        lines.append("### Auto Flags")
+        for it in link_issues:
+            missing = ", ".join(it.get("missing", []))
+            lines.append(f"- {it.get('path','')}: missing link targets -> {missing}")
+
+    lines.extend(
+        [
+            "",
+            "### Operator Action",
+            "- Set `- Status:` to `APPROVED` or `REJECTED`.",
+            "- If rejected, replace `- Notes:` with concise fix guidance.",
+            REVIEW_DECISION_END,
+        ]
+    )
+    return "\n".join(lines)
+
+
+def upsert_review_decision_block(batch_num: int, pending_paths: list, link_issues: list):
+    block = build_review_decision_block(batch_num, pending_paths, link_issues)
+    text = read_text(DECISIONS_FILE)
+    pattern = re.compile(
+        re.escape(REVIEW_DECISION_START) + r".*?" + re.escape(REVIEW_DECISION_END),
+        re.S,
+    )
+
+    if pattern.search(text):
+        new_text = pattern.sub(block, text, count=1)
+    elif text.strip():
+        new_text = block + "\n\n" + text
+    else:
+        new_text = "# Decisions\n\n" + block + "\n"
+
+    write_text(DECISIONS_FILE, new_text)
+
+
+def read_review_decision() -> tuple[str, str]:
+    text = read_text(DECISIONS_FILE)
+    if not text.strip():
+        return "PENDING", ""
+
+    section = text
+    m = re.search(
+        re.escape(REVIEW_DECISION_START) + r"(.*?)" + re.escape(REVIEW_DECISION_END),
+        text,
+        re.S,
+    )
+    if m:
+        section = m.group(1)
+
+    status_match = re.search(r"(?im)^\s*-\s*Status\s*:\s*(.+?)\s*$", section)
+    notes_match = re.search(r"(?im)^\s*-\s*Notes\s*:\s*(.*)$", section)
+
+    status = normalize_review_status(status_match.group(1) if status_match else "PENDING")
+    notes = (notes_match.group(1) if notes_match else "").strip()
+    return status, notes
+
 
 def log_error(stage: str, err: Exception, extra: dict = None):
     t = traceback.format_exc()
@@ -90,12 +373,14 @@ def log_error(stage: str, err: Exception, extra: dict = None):
         "extra": extra or {}
     }
     write_text(LAST_ERROR_JSON, json.dumps(payload, indent=2))
-    print(f"\n❌ ERROR @ {stage}: {err}\n(see agent/reports/last_error.*)\n")
+    print(f"\nâŒ ERROR @ {stage}: {err}\n(see agent/reports/last_error.*)\n")
+
 
 def log_convo(role: str, text: str, limit: int = 12000):
     stamp = time.strftime("%Y-%m-%d %H:%M:%S")
     snippet = (text or "")[:limit]
     append_text(CONVO_LOG, f"\n\n[{stamp}] {role}\n{snippet}\n")
+
 
 def load_secrets():
     if not SECRETS_PATH.exists():
@@ -105,20 +390,24 @@ def load_secrets():
         if v:
             os.environ[k] = str(v).strip()
 
+
 def strip_code_fences(raw: str) -> str:
     raw = raw.strip()
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
     raw = re.sub(r"\s*```$", "", raw)
     return raw.strip()
 
+
 def list_md_files():
     return list(CONTENT_DIR.rglob("*.md"))
+
 
 def basic_retrieve(task: str, k: int = MAX_CONTEXT_FILES):
     files = list_md_files()
     terms = [t.lower() for t in re.findall(r"[A-Za-z]{3,}", task)]
     if not terms:
         return []
+
     scored = []
     for f in files:
         txt = read_text(f)
@@ -129,14 +418,17 @@ def basic_retrieve(task: str, k: int = MAX_CONTEXT_FILES):
                 score += 1
         if score > 0:
             scored.append((score, f))
+
     scored.sort(key=lambda x: x[0], reverse=True)
     return [f for _, f in scored[:k]]
+
 
 def pack_context(task: str):
     canon = read_text(WORLD_STATE)[:20000]
     style = read_text(STYLE_GUIDE)[:16000]
     qa = read_text(QA_RULES)[:12000]
-    claimed = read_text(CLAIMED_FILE)[:12000] if CLAIMED_FILE.exists() else ""
+    claimed_path = resolve_claimed_file()
+    claimed = read_text(claimed_path)[:12000] if claimed_path.exists() else ""
 
     ctx_files = basic_retrieve(task)
     ctx_blobs = []
@@ -189,11 +481,6 @@ def call_claude(system: str, user: str, max_tokens: int = 3500, temperature: flo
     key = (os.getenv("ANTHROPIC_API_KEY") or "").strip()
     if not key:
         raise RuntimeError("ANTHROPIC_API_KEY missing.")
-
-    # print once
-    if not getattr(call_claude, "_printed", False):
-        print("Anthropic key prefix:", key[:12])
-        call_claude._printed = True
 
     url = "https://api.anthropic.com/v1/messages"
     headers = {
@@ -292,7 +579,7 @@ SEED (optional):
 CONTEXT NOTES (partial):
 {ctx['bundle']}
 
-CLAIMED (files that already exist — do NOT include unless TASK explicitly targets for append):
+CLAIMED (files that already exist â€” do NOT include unless TASK explicitly targets for append):
 {ctx['claimed']}
 
 Return JSON exactly in this schema:
@@ -580,94 +867,184 @@ Task:
 
 def run_pipeline():
     ensure_dirs()
-    load_secrets()
-
-    # clear convo log per run (optional)
-    write_text(CONVO_LOG, "")
-
-    task = read_text(TASK_FILE).strip()
-    if not task:
-        print("TASK.md empty. Nothing to do.")
+    if not acquire_run_lock():
+        print("Another orchestrator run is active. Skipping this cycle.")
         return
 
-    ctx = pack_context(task)
+    try:
+        load_secrets()
 
-    # Ollama seed (small)
-    seed = ""
+        # clear convo log per run (optional)
+        write_text(CONVO_LOG, "")
+
+        task, task_source = get_active_task_text()
+        if not task:
+            print("No active task found in TASK.md or TASK_QUEUE.md. Nothing to do.")
+            return
+        print(f"Active task source: {task_source}")
+
+        ctx = pack_context(task)
+
+        # Ollama seed (small)
+        seed = ""
+        try:
+            seed = step_seed_ollama(task)
+            print("Ollama seed written to:", SEED_FILE)
+        except Exception as e:
+            seed = "(ollama seed skipped)"
+            write_text(SEED_FILE, seed)
+            write_text(REPORTS_DIR / f"ollama_fail_{now_tag()}.txt", str(e))
+
+        try:
+            # Claude plan
+            plan = step_plan_claude(task, ctx, seed)
+
+            all_changed = []
+            all_patches = []
+
+            review_mode = getattr(run_pipeline, "_review_mode", False)
+            notes = plan.get("notes", [])
+
+            for batch_num, batch in enumerate(plan.get("batches", []), 1):
+                pending_notes = [notes[i] for i in batch if isinstance(i, int) and 0 <= i < len(notes)]
+                allowed_paths = [n.get("path", "") for n in pending_notes]
+
+                patch = step_build_batch_claude(task, ctx, seed, plan, batch)
+                patch, dropped = filter_patch_to_batch(patch, allowed_paths)
+
+                if dropped:
+                    dropped_path = STAGING_DIR / f"batch_dropped_ops_{now_tag()}.json"
+                    write_text(
+                        dropped_path,
+                        json.dumps(
+                            {"batch_num": batch_num, "allowed_paths": allowed_paths, "dropped": dropped},
+                            indent=2,
+                        ),
+                    )
+                    append_text(
+                        CONVO_LOG,
+                        f"\n[BATCH FILTER] batch={batch_num} dropped_ops={len(dropped)} file={dropped_path.name}\n",
+                    )
+                    print(f"Filtered {len(dropped)} out-of-batch ops in batch {batch_num}.")
+
+                link_issues = find_missing_link_targets(patch)
+                if link_issues:
+                    issues_path = REPORTS_DIR / f"missing_link_targets_{now_tag()}.json"
+                    write_text(issues_path, json.dumps(link_issues, indent=2))
+                    print(f"Detected missing link targets in batch {batch_num} (see {issues_path}).")
+                    if not review_mode:
+                        raise RuntimeError(
+                            f"Patch contains missing wikilink targets. See {issues_path.relative_to(ROOT)}"
+                        )
+
+                if review_mode:
+                    # Write pending review file for Claude Code to inspect
+                    lines = [f"# Pending Batch {batch_num} of {len(plan.get('batches',[]))}\n"]
+                    lines.append(f"Notes in this batch: {[n['path'] for n in pending_notes]}\n\n")
+                    for op in patch.get("writes", []):
+                        lines.append(f"## WRITE: {op['path']}\n\n```\n{op['content'][:3000]}\n```\n")
+                    for op in patch.get("appends", []):
+                        lines.append(f"## APPEND: {op['path']}\n\n```\n{op['append'][:3000]}\n```\n")
+                    if link_issues:
+                        lines.append("## LINK VALIDATION WARNINGS\n")
+                        for it in link_issues:
+                            lines.append(f"- {it.get('path','')}: missing {', '.join(it.get('missing', []))}\n")
+                        lines.append("\n")
+                    lines.append(
+                        "\n---\nReview decision is tracked in `agent/DECISIONS.md`.\n"
+                    )
+                    lines.append(
+                        "Set `- Status:` under Active Review Decision to `APPROVED` or `REJECTED`.\n"
+                    )
+                    lines.append("If rejected, replace `- Notes:` with concise fix guidance.\n")
+                    write_text(STAGING_DIR / "PENDING_REVIEW.md", "".join(lines))
+                    upsert_review_decision_block(batch_num, allowed_paths, link_issues)
+
+                    print(f"\n[REVIEW GATE] Batch {batch_num}: {[n['path'] for n in pending_notes]}")
+                    print("   Inspect: agent/staging/PENDING_REVIEW.md")
+                    print("   Then update status in agent/DECISIONS.md")
+
+                    # Poll for response
+                    while True:
+                        time.sleep(0.5)
+                        status, notes_text = read_review_decision()
+                        if status == "APPROVED":
+                            print(f"Batch {batch_num} approved - applying.")
+                            break
+                        if status == "REJECTED":
+                            print(f"Batch {batch_num} rejected. Notes: {notes_text or '(none)'}")
+                            append_text(
+                                CONVO_LOG,
+                                f"\n[REVIEW REJECTED batch {batch_num}]\n{notes_text}\n",
+                            )
+                            patch = {"writes": [], "appends": []}  # empty patch = skip
+                            break
+
+                changed = apply_patch(patch)
+                all_changed.extend(changed)
+                all_patches.append(patch)
+                time.sleep(CLAUDE_SLEEP_SECONDS)
+
+            all_changed = sorted(set(all_changed))
+            write_text(PATCH_FILE, json.dumps({"patches": all_patches}, indent=2))
+            write_text(CHANGELOG, json.dumps({"changed_files": all_changed}, indent=2))
+
+            # GPT QA + links
+            step_gpt_qa_and_link(ctx, all_changed)
+
+            if task_source == "TASK_QUEUE.md" and all_changed:
+                mark_task_queue_done(task)
+                print("Marked TASK_QUEUE item complete.")
+
+            print("\nPIPELINE COMPLETE")
+            print("Changed files:", len(all_changed))
+            print("Conversation log:", CONVO_LOG)
+            print("Reports:")
+            print(" - agent/reports/inconsistencies.md")
+            print(" - agent/reports/links_applied.md")
+        except Exception as e:
+            if ALLOW_OFFLINE_FALLBACK and should_fallback_to_offline(e):
+                print(f"Provider unavailable; running offline fallback. Reason: {e}")
+                run_offline_pipeline(task, ctx, reason=str(e))
+                return
+            raise
+    finally:
+        release_run_lock()
+
+def run_offline_pipeline(task: str, ctx: dict, reason: str = ""):
+    """
+    Claude is down. Do only safe work:
+    - Ollama seed (tiny)
+    - GPT QA + conservative linker on last changed files if possible
+    - Hub updates / reports
+    """
+    write_text(OFFLINE_REPORT, "")
+    if reason:
+        append_text(OFFLINE_REPORT, f"## Trigger\n{reason}\n\n")
+
+    # Seed (optional)
     try:
         seed = step_seed_ollama(task)
-        print("Ollama seed written to:", SEED_FILE)
+        append_text(OFFLINE_REPORT, f"## Ollama Seed\nWritten to: {SEED_FILE}\n\n")
     except Exception as e:
-        seed = "(ollama seed skipped)"
-        write_text(SEED_FILE, seed)
-        write_text(REPORTS_DIR / f"ollama_fail_{now_tag()}.txt", str(e))
+        append_text(OFFLINE_REPORT, f"## Ollama Seed Failed\n{e}\n\n")
 
-    # Claude plan
-    plan = step_plan_claude(task, ctx, seed)
+    # If we have a previous changelog, run GPT against it
+    changed_files = []
+    try:
+        if CHANGELOG.exists():
+            changed_files = json.loads(read_text(CHANGELOG)).get("changed_files", [])
+    except Exception:
+        changed_files = []
 
-    all_changed = []
-    all_patches = []
+    try:
+        step_gpt_qa_and_link(ctx, changed_files)
+        append_text(OFFLINE_REPORT, "## GPT QA + Linker\nCompleted.\n\n")
+    except Exception as e:
+        append_text(OFFLINE_REPORT, f"## GPT QA + Linker Failed\n{e}\n\n")
 
-    review_mode = getattr(run_pipeline, "_review_mode", False)
-
-    for batch_num, batch in enumerate(plan.get("batches", []), 1):
-        patch = step_build_batch_claude(task, ctx, seed, plan, batch)
-
-        if review_mode:
-            # Write pending review file for Claude Code to inspect
-            notes = plan["notes"]
-            pending_notes = [notes[i] for i in batch]
-            lines = [f"# Pending Batch {batch_num} of {len(plan.get('batches',[]))}\n"]
-            lines.append(f"Notes in this batch: {[n['path'] for n in pending_notes]}\n\n")
-            for op in patch.get("writes", []):
-                lines.append(f"## WRITE: {op['path']}\n\n```\n{op['content'][:3000]}\n```\n")
-            for op in patch.get("appends", []):
-                lines.append(f"## APPEND: {op['path']}\n\n```\n{op['append'][:3000]}\n```\n")
-            lines.append("\n---\nTo approve: write `APPROVED` to agent/staging/REVIEW_RESPONSE.md\n")
-            lines.append("To reject:  write `REJECTED` (optionally followed by notes) to agent/staging/REVIEW_RESPONSE.md\n")
-            write_text(STAGING_DIR / "PENDING_REVIEW.md", "".join(lines))
-            # Remove stale response file
-            resp_path = STAGING_DIR / "REVIEW_RESPONSE.md"
-            if resp_path.exists():
-                resp_path.unlink()
-
-            print(f"\n⏸  REVIEW GATE — Batch {batch_num}: {[n['path'] for n in pending_notes]}")
-            print(f"   Inspect: agent/staging/PENDING_REVIEW.md")
-            print(f"   Then write APPROVED or REJECTED to agent/staging/REVIEW_RESPONSE.md")
-
-            # Poll for response
-            while True:
-                time.sleep(0.5)
-                if resp_path.exists():
-                    response = read_text(resp_path).strip()
-                    if response.upper().startswith("APPROVED"):
-                        print(f"✅ Batch {batch_num} approved — applying.")
-                        break
-                    elif response.upper().startswith("REJECTED"):
-                        notes_text = response[8:].strip()
-                        print(f"❌ Batch {batch_num} rejected. Notes: {notes_text or '(none)'}")
-                        append_text(CONVO_LOG, f"\n[REVIEW REJECTED batch {batch_num}]\n{notes_text}\n")
-                        patch = {"writes": [], "appends": []}  # empty patch = skip
-                        break
-
-        changed = apply_patch(patch)
-        all_changed.extend(changed)
-        all_patches.append(patch)
-        time.sleep(CLAUDE_SLEEP_SECONDS)
-
-    all_changed = sorted(set(all_changed))
-    write_text(PATCH_FILE, json.dumps({"patches": all_patches}, indent=2))
-    write_text(CHANGELOG, json.dumps({"changed_files": all_changed}, indent=2))
-
-    # GPT QA + links
-    step_gpt_qa_and_link(ctx, all_changed)
-
-    print("\n✅ PIPELINE COMPLETE")
-    print("Changed files:", len(all_changed))
-    print("Conversation log:", CONVO_LOG)
-    print("Reports:")
-    print(" - agent/reports/inconsistencies.md")
-    print(" - agent/reports/links_applied.md")
+    append_text(OFFLINE_REPORT, "## Status\nClaude unavailable. No world-writing performed.\n")
+    append_text(OFFLINE_REPORT, "Next step: re-run when Claude usage returns.\n")
 
 # -----------------------------
 # Watcher
@@ -709,7 +1086,7 @@ def main():
 
     if args.review:
         run_pipeline._review_mode = True
-        print("Review mode enabled — each batch will pause for approval before applying.")
+        print("Review mode enabled - each batch will pause for approval before applying.")
 
     if args.loop:
         def file_hash():
@@ -761,3 +1138,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
