@@ -1,12 +1,12 @@
 ﻿# Task Queue
-
+Permanant Task: The World Always Needs More. There is Always something to add a new adventure to play out in this world, a new friend, a new town, a new spell, a new description. There will always be more.
 ## CONCURRENT AGENT OWNERSHIP (ACTIVE)
 
-Use this split while Codex, Claude Code, and Copilot Auto run simultaneously.
+Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` currently offline).
 
 - `Codex` (control plane owner): only agent allowed to edit `agent/TASK_QUEUE.md`, `agent/TASK.md`, `agent/COORDINATION.md`, `agent/DECISIONS.md`, and `agent/staging/CLAIMED.md`.
-- `Claude Code` (core content lane): writes new or append world content in `content/` for assigned queue goals only. Does not edit control-plane files.
-- `Copilot Auto` (artifact plus integrity lane): handles assigned artifact/story tasks, runs canon/link QA, and updates `agent/reports/inconsistencies.md` plus `agent/reports/links_applied.md`.
+- `Claude Code` (core content lane): OFFLINE. Do not assign new active tasks until back online.
+- `Copilot Auto` (content plus integrity lane): handles assigned content/story tasks, runs canon/link QA, and updates `agent/reports/inconsistencies.md` plus `agent/reports/links_applied.md`.
 - Shared staging note: all agents may append status notes to `agent/staging/PENDING_REVIEW.md` using prefix `[Agent][YYYY-MM-DD HH:MM]`.
 - Conflict rule: if another agent is already editing a file, stop and hand off through `agent/staging/PENDING_REVIEW.md` instead of writing.
 - Assignment rule: only `Codex` may change task ownership labels in this queue.
@@ -78,48 +78,69 @@ Blocked tasks are marked with their dependency.
   **Escalation note:** If scope expands to `content/Solumora.md` or `content/World Primer.md`, create a `agent/DECISIONS.md` escalation entry first.
   **Owner:** `Claude Code`
 
-- [ ] **Goal:** Make **Terravelle** feel like a place by building 1 northern megacity + 3 districts + rural supply chain feeding it.  
+- [x] **Goal:** Preflight Terravelle canon-touch escalation before city buildout.
+  **Constraints:** `content/Terravelle.md` is a protected major canon file and cannot be edited directly without creator-facing escalation. Do not write Terravelle content in this task.
+  **Output:** Add `A/B/C` Terravelle scope options in `agent/DECISIONS.md` and define what can proceed before creator choice.
+  **Owner:** `Codex`
+  **Dependency:** Must be completed before the Terravelle megacity task below.
+
+- [x] **Goal:** Make **Terravelle** feel like a place by building 1 northern megacity + 3 districts + rural supply chain feeding it.  
   **Constraints:** Rural/pragmatic kingdom; Flux as trade skill. City must depend on farms/river valleys and trade.  
   **Output:** 8 notes (megacity + districts + rural supply chain + 3 people) + update [[Terravelle]].
-  **Owner:** `Claude Code`
+  **Owner:** `Copilot Auto` (temporary while Claude offline)
 
-- [ ] **Goal:** Integrate [[Wolfpoint]] / [[Hypertext]] into the geopolitical world as a third pole, not a lore island.  
+- [x] **Goal:** Integrate [[Wolfpoint]] / [[Hypertext]] into the geopolitical world as a third pole, not a lore island.  
   **Constraints:** Why it matters, who wants it, what it exports, what it refuses, what it fears. Everyone has a personal stake.  
   **Output:** 6 notes (institutions + exports + conflicts + 3 people) + update [[Wolfpoint]] + update [[Hypertext]].
-  **Owner:** `Claude Code`
+  **Owner:** `Copilot Auto` (temporary while Claude offline)
 
-- [ ] **Goal:** Build the **timeline backbone** of Solumora (eras that explain current institutions).  
+- [x] **Goal:** Build the **timeline backbone** of Solumora (eras that explain current institutions).  
   **Constraints:** Must explain why the equator became uninhabitable, how grimoires spread, and how Terravelle/Auralis diverged culturally.  
   **Output:** [[History]] hub + 8 era notes + add timeline section to [[Solumora]].
-  **Owner:** `Claude Code`
+  **Owner:** `Copilot Auto` (temporary while Claude offline)
+
+- [ ] **Goal:** Expand `content/The Bone Sea.md` from stub to usable travel/canon note.
+  **Constraints:** Append-only to existing page. No new kingdoms/factions. Anchor it to existing route and risk systems; include at least 3 outbound links and a See Also block.
+  **Output:** Expanded `content/The Bone Sea.md` plus at least one inbound-link append from a relevant existing hub/page.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Resolve remaining spell-structure stubs and preserve glossary coherence.
+  **Constraints:** `Binding.md`, `Pattern.md`, and `Filter.md` are currently zero-byte placeholders. Convert each into concise canon glossary notes aligned with existing spell-variable vocabulary; no contradictory mechanics.
+  **Output:** Three populated glossary pages + inbound mentions from at least one anchor page (prefer [[Spell Variables]] or [[Spells]]).
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Stabilize legacy alias links introduced by older batches.
+  **Constraints:** Run targeted alias cleanup for `Culmination Faction`/`The Culmination Faction`, `Persecution Era`/`The Persecution Era`, and similar known drift without changing narrative meaning.
+  **Output:** Low-impact link fixes across touched files + report entry in `agent/reports/inconsistencies.md`.
+  **Owner:** `Copilot Auto`
 
 - [ ] **Goal:** Make â€œeveryone mid-journeyâ€ structurally real: create **People Web Index** + minimum viable cast.
   **Constraints:** 30 people. Every person must link to 3â€“6 others. Include smugglers, copyists, guards, farmers, priests, couriers, and 2â€“3 high-tier isolates.
   **Output:** [[People]] hub + 30 people notes + update 5 major hubs with â€œPeople in Motionâ€ sections.
-  **Owner:** Claude Code
+  **Owner:** `Copilot Auto` (temporary while Claude offline)
 
-- [ ] **Goal:** Write Ashford informal-economy story from the Maria seed as canon short fiction.
+- [x] **Goal:** Write Ashford informal-economy story from the Maria seed as canon short fiction.
   **Constraints:** Story must be grounded in existing Ashford systems (registration, documentation, guild/city pressure) and current world tone. If `Maria` is used, treat as one-off story viewpoint only (no automatic new profile page). No out-of-world analysis section in final story file.
   **Output:** `content/Stories/Ashford False Papers.md` (800â€“1200 words) with at least 3 outbound wikilinks and a final See Also block.
   **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Generate broad story-option slate (specific + vague) for user selection.
+- [x] **Goal:** Generate broad story-option slate (specific + vague) for user selection.
   **Constraints:** Produce 12-18 canon-safe story pitches spanning Terravelle, Auralis, Zakros, and Wolfpoint. Each option must include: one-line premise, likely file path, canon anchors, and whether it introduces a new character.
   **Output:** Append option slate to `agent/staging/PENDING_REVIEW.md` in a single `[Copilot Auto]` block.
   **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Route story-option slate into creator-facing decision bundles.
+- [x] **Goal:** Route story-option slate into creator-facing decision bundles.
   **Constraints:** Convert generated options into `A/B/C` bundles in `agent/DECISIONS.md` with concise tradeoffs and clear creator action line. Do not write story content in this task.
   **Output:** New story selection decision entry in `agent/DECISIONS.md`.
   **Dependency:** Story-option slate task above must be present in `agent/staging/PENDING_REVIEW.md`.
   **Owner:** `Codex`
 
-- [ ] **Goal:** Create **real purchasable grimoires** as in-universe books â€” actual written texts, not tier reference pages.
+- [x] **Goal:** Create **real purchasable grimoires** as in-universe books â€” actual written texts, not tier reference pages.
   **Constraints:** Common-tier grimoires should be purchasable (include price, who sells them, what they contain as a reader would see). Higher-tier should note where they can be found. Each grimoire is a real artifact: it has a publisher, an edition, margin notes from a previous owner or institutional stamp. Write them as the book itself, not a description of the book.
   **Output:** 4â€“6 grimoire entries in `content/WrittenWorks/` â€” at least 2 Common-tier (purchasable), 1 Uncommon-tier (harder to find), 1 Rare-tier (institutional only). Each is a fully written in-universe text.
   **Owner:** Copilot Auto
 
-- [ ] **Goal:** Write **â€The Screaming Shadeâ€** â€” a short story following an adventurer group who encounter a soul bound to a location that keeps screaming it is the strongest Flux user in Solumora.
+- [x] **Goal:** Write **â€The Screaming Shadeâ€** â€” a short story following an adventurer group who encounter a soul bound to a location that keeps screaming it is the strongest Flux user in Solumora.
   **Constraints:** Nobody in the party is strong enough to dispel it. The soul is genuinely distressed, not just malicious. The bound-soul mechanism should be consistent with existing lore (Flux, Binding discipline, Watts). End is unresolved â€” they leave it screaming. Tone: grounded, not comedic, slightly grim. Format: short fiction, 800â€“1200 words.
   **Output:** `content/Stories/The Screaming Shade.md`
   **Owner:** Copilot Auto
@@ -213,5 +234,7 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Review gate | Complete | Batch 2 creator escalation resolved as APPROVED in DECISIONS.md. Staged appends already present in Cavel Dorst.md and Cassia.md. |
 | 2026-03-05 | Queue update | Added story intake tasks | Normalized raw prompt block into structured tasks: Ashford/Maria story (Copilot), broad story-option slate (Copilot), and DECISIONS routing task (Codex). |
 | 2026-03-05 | Zakros access floor | Complete | Appended T0/T1 flux-entry constraint to Equatorial Desert.md, Standard Guided Crossing.md, and The Southern Approaches.md; verified hub links from Equatorial Desert crossing economy section. |
-
-
+| 2026-03-05 | Pipeline continuation | Complete | Added missing `The Northern Founding` + `The Southern Founding`, added `Maren River`, repaired history aliases in `History.md` + `Solumora.md`, and marked Terravelle/Wolfpoint/History goals complete. |
+| 2026-03-05 | Queue update | Added world-needs maintenance | Added tasks for remaining stubs (`Binding`, `Pattern`, `Filter`) and legacy alias-link stabilization pass. |
+| 2026-03-06 | Story lane reconciliation | Complete | Marked completed Copilot outputs as done (Ashford False Papers, story-option slate, purchasable grimoires, The Screaming Shade) and completed Codex DECISIONS routing task. |
+| 2026-03-06 | Queue ownership update | Updated | Set Claude offline mode, reassigned core unchecked content tasks to Copilot Auto, and added preflight Terravelle escalation + Bone Sea expansion tasks. |

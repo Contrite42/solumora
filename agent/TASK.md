@@ -3,15 +3,15 @@
 ## Agent Ownership (active now)
 
 - `Codex` owns control-plane files only: `agent/TASK_QUEUE.md`, `agent/TASK.md`, `agent/COORDINATION.md`, `agent/DECISIONS.md`, and `agent/staging/CLAIMED.md`.
-- `Claude Code` owns core worldbuilding content tasks in `content/` from the assigned unchecked queue goals.
-- `Copilot Auto` owns artifact/story tasks plus canon/link integrity reports in `agent/reports/`.
+- `Claude Code` is currently offline (no active assignments).
+- `Copilot Auto` owns active worldbuilding content/story tasks plus canon/link integrity reports in `agent/reports/` while Claude is offline.
 
 ## Current Assignments
 
 - `Codex`: queue management, review-gate decisions, task completion checkmarks, and worklog/claimed updates.
-- `Codex` active blocker: none. Batch 2 creator escalation is resolved as `APPROVED` in `agent/DECISIONS.md`.
-- `Claude Code`: next core-world unchecked goal is Zakros low-tier access clarification (T1/T0 cannot break into active desert Flux zone), then continue priority order from `agent/TASK_QUEUE.md`; append a handoff note to `agent/staging/PENDING_REVIEW.md`.
-- `Copilot Auto`: next artifact/story goals are (1) Ashford informal-economy story (Maria seed) and (2) 12-18 story option slate in `agent/staging/PENDING_REVIEW.md`, then continue other assigned artifact/story tasks plus FOREVER TASK link/canon checks/report updates.
+- `Codex` active task: keep queue/decisions synchronized, execute Codex-owned tasks, and manage delegation while Claude is offline.
+- `Claude Code`: offline; do not route active work here.
+- `Copilot Auto`: execute unchecked content/story tasks from `agent/TASK_QUEUE.md` plus FOREVER TASK link/canon checks/report updates.
 
 ## File Collision Rules
 

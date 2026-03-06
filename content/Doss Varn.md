@@ -33,3 +33,15 @@ One of his contacts at the Ashford command post told him to log everything caref
 The shift is not dramatic enough to be alarming. It is systematic enough to be noticeable. He is a border guard. He knows the difference between random variation and pattern. This is pattern.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+His briefings have changed in tone over the past year. The shift started small — additional documentation protocols that arrived without explanation, new forms that required more granular tracking of traveler origins and destinations. [[Doss Varn]] has been working the [[Ashford]] border crossing for six years, and he knows the difference between seasonal adjustments and something else.
+
+More travelers with [[Terravelle]] papers than he has seen before. Not dramatically more, but consistently more. The pattern sits at the edge of what could be coincidence, but Doss has learned to trust patterns over explanations. His contact at the Ashford command post — Sergeant Mell, who has never been particularly careful about operational security — told him three weeks ago to log everything carefully, which she has never said before. When he asked why, she said the word had come down from [[Auralis]] that documentation standards were being reviewed.
+
+He is recording what he sees. Traveler volumes, paper types, the frequency of inspection delays that have no clear cause. The merchants who cross regularly have started asking him questions he cannot answer — why certain shipments are taking longer to clear, why the inspection process has become more thorough without any formal announcement of policy changes. He tells them he does not know, which is true. But he is documenting the questions along with everything else.
+
+The documentation protocols require him to note details that were previously considered routine: the specific routes travelers report taking to reach Ashford, their stated business in [[Auralis]], the duration of their planned stay. Information that was always collected but is now being collected with a precision that suggests someone intends to analyze it systematically. He does not know what it means. He knows it represents a change in how the crossing is being managed, and changes at border crossings do not happen without reasons.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*

@@ -1,6 +1,6 @@
 _(Queen of Auralis)_
 
-Cassia has been Queen of [[Auralis]] since she was four years old. She does not remember a time before the title. She has never been permitted to find out who she would have been without it.
+[[Cassia]] has been Queen of [[Auralis]] since she was four years old. She does not remember a time before the title. She has never been permitted to find out who she would have been without it.
 
 She is twenty-three. She is kind, perceptive, and politically trapped in ways that have become so familiar she has stopped noticing all of them. The ones she does notice, she has chosen not to fight. This is the central fact of her life and she is quietly ashamed of it.
 
@@ -57,5 +57,31 @@ What she knows: the [[Expansion Faction]] is accelerating. She has tracked [[Dre
 What she is doing with it: she is writing private notes in a cipher she built at seventeen. Not correspondence. Not a political archive. A personal record of what she can still verify for herself before it is flattened into formal minutes. She is equally careful about what she requests to read, and when, because request patterns are monitored.
 
 She has not told anyone. [[Ysel Voss]] is the nearest person she might trust, but Ysel is at [[Wolfpoint]], and Cassia has no unreviewed channel to Wolfpoint.
+
+*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+
+## What She Knows
+
+Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
+
+What she knows: [[The Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
+
+What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
+
+She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
+
+The acceleration she documents is not dramatic. It is incremental shifts in language, in meeting frequency, in the topics that receive extended discussion versus the topics that are resolved quickly. [[Drest]] has been building consensus for three years, and the consensus is approaching the point where it will support action. She can see this in the voting records, in the committee assignments, in the way certain Council members now defer to Expansion positions they would have questioned eighteen months ago.
+
+She knows that [[Davan Rhyce]] has been conducting independent research for over a decade. She knows this because she has access to resource allocation records, and she has tracked the pattern of his requests for geographic information, transportation logistics, and demographic data. His requests are always individually reasonable and always officially justified. The cumulative pattern reveals systematic intelligence gathering focused on [[Terravelle]]'s eastern territories.
+
+She knows that the recent changes in cross-border trade documentation requirements originated from Expansion pressure, not from legitimate regulatory need. She knows this because she was present when the policy was discussed in preliminary form, and she watched the language shift between the initial proposal and the final implementation. The initial proposal was about taxation efficiency. The final implementation is about information gathering.
+
+What she cannot do: speak openly in [[The Council of Auralis|Council]] sessions about what she observes. Her position depends on being seen as moderate and reasonable, not as someone who makes accusations about other Council members' intentions. She cannot build a coalition to oppose Expansion initiatives because doing so would require revealing her analysis, and revealing her analysis would end her access to the information that makes the analysis possible.
+
+What she can do: she can vote against specific proposals when her opposition can be framed as procedural or technical rather than political. She can ask questions that force Expansion members to provide more detailed justifications for their positions. She can ensure that her own administrative responsibilities are handled with precision, so that if the political situation deteriorates, her record will show that she maintained proper procedures throughout.
+
+She can also continue writing. The cipher she uses is not complex enough to resist serious cryptographic analysis, but it is sufficient to prevent casual reading. Her notes document not just what happens in Council sessions, but her analysis of what the patterns suggest, what the likely next steps are, and what the long-term trajectory appears to be. If the situation reaches the point where this information becomes relevant to people who can act on it, she will have a detailed record to provide.
+
+The constraint she operates under is that she cannot prevent what she sees coming. She can only document it, prepare for it, and position herself to respond appropriately when it arrives. This is not the role she would have chosen, but it is the role her circumstances permit, and she has learned to work within it effectively.
 
 *See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*

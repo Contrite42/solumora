@@ -7,6 +7,8 @@
 - Auralis capital city development complete. Next: Terravelle megacity + 3 districts + rural supply chain.
 - Zakros low-tier access clarification complete. Next: Terravelle megacity + 3 districts + rural supply chain.
 - Review gate cleared: Batch 2 in `agent/DECISIONS.md` marked `APPROVED`.
+- Story intake reconciliation complete: Copilot story outputs + Codex decision bundles synced. Next: Terravelle preflight escalation then Terravelle buildout.
+- Terravelle/Wolfpoint/History packages confirmed complete. Next: People Web phase build + remaining stub cleanup.
 
 ## Current Status
 - **Trade & Travel spine**: COMPLETE. Routes, hub notes, inbound links, and "How People Move" appends to Solumora.md + World Primer.md all applied.
@@ -20,10 +22,16 @@
 - **TASK-09/10**: Applied (Doss Varn, Orre Cavlt, Cavel Dorst appends; Cassia "What She Knows"). Marked complete in TASK_QUEUE.md.
 - **Batch 3R1**: Applied (Solumora.md + World Primer.md). DECISIONS.md updated to APPROVED.
 - Orchestrator hardened by Codex: lock file, batch file filter, wikilink validation, offline fallback, dual claimed file support.
+- **Story Intake + Routing**: COMPLETE. `Ashford False Papers`, story-option slate, purchasable grimoires set, and `The Screaming Shade` all present and marked complete in queue. Codex added `DECISION C` with creator `A/B/C` story bundles.
+- **Claude Offline Routing**: ACTIVE. Queue ownership updated so Copilot Auto handles core content tasks until Claude returns; Codex remains control-plane owner.
+- **Terravelle package**: COMPLETE. Added/updated `Terravelle.md`, `Valdenmoor.md`, district pages (`The Dock Wards`, `Guild Quarter`, `The Outer Wards`), supply page (`Maren Valley`), and people (`Caven Torst`, `Noll Drenk`, `Trel Alvn`).
+- **Wolfpoint integration package**: COMPLETE. Added/updated `The Wolfpoint Question`, `Wolfpoint Exports`, `Keln Varost`, `Orva Dresk`, `Renn Cald`, plus updates in `Wolfpoint.md` and `Hypertext.md`.
+- **History backbone package**: COMPLETE. Added/updated `History.md`, `The Ancient Civilization`, `The Desert Barrier`, `The Grimoire Tradition`, `The Cultural Divergence`, `The Persecution Era`, `The Northern Founding`, `The Southern Founding`, and `Solumora.md` timeline section. Added support page `Maren River.md` and fixed history aliases.
 
 ## Operator Role Assignment
-- Current operator (Claude): primary writer + pipeline executor.
-- Routine narrative writing decisions are operator-owned.
+- Current control-plane operator (Codex): pipeline executor + queue/decision owner.
+- Current content operator (Copilot Auto): active writer while Claude is offline.
+- Claude Code: temporarily offline; no active assignments until back online.
 - Creator escalation reserved for major canon/story decisions only.
 
 ## Open Items
@@ -32,7 +40,7 @@
 - `content/The Bone Sea.md` is a near-empty stub — needs content if it is to remain linked anywhere.
 
 ## Next Operator Checklist
-1. Copilot Auto: run story intake tasks (Ashford/Maria story + 12-18 story option slate in `agent/staging/PENDING_REVIEW.md`).
-2. Codex: convert Copilot story slate into `A/B/C` creator choice bundles in `agent/DECISIONS.md`.
-3. Claude Code: execute next major world task: Terravelle megacity (1 city note + 3 district notes + rural supply chain + 3 people = 8 notes total).
-4. Run canon/link coherence check and update `agent/reports/`.
+1. Copilot Auto: execute People Web Phase 1 (`People` hub + first 10 interconnected notes + "People in Motion" appends).
+2. Copilot Auto: resolve remaining stubs (`The Bone Sea`, `Binding`, `Pattern`, `Filter`) with inbound-link integrity.
+3. Copilot Auto: run alias stabilization pass and report updates in `agent/reports/`.
+4. Codex: prune resolved stale payload from `agent/staging/PENDING_REVIEW.md`.

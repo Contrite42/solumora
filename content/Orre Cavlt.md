@@ -33,3 +33,17 @@ The pattern extends beyond individual transactions. The rhythm of the border its
 He has been in this business long enough to know the difference between friction and signal. Friction is random, temporary, explicable when you find the right person to ask. Signal is systematic, persistent, and the people who could explain it either do not know or will not say. He is not yet sure which this is, but it is not random.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+The informal indicators he reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. [[Orre Cavlt]] has been managing cross-border trade through [[Ashford]] for fifteen years, and he has developed a working model of how the crossing functions. The model is breaking down in ways that concern him more than any formal policy change would.
+
+Two of his longer relationships on the [[Auralis]] side have become careful. Not hostile, not suspicious, but careful in ways that suggest they have been instructed to be careful. Conversations that were previously straightforward now include pauses, qualifications, the kind of diplomatic language that people use when they are being monitored. His contact at the Solhaven factors office — a woman he has worked with for eight years — now confirms shipment details in writing that she used to confirm verbally.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. When he inquired, he was told the inspection was routine and that delays were normal. The inspection was routine. Delays of that duration are not normal, not for the cargo type, not for his documentation history. When the shipment finally cleared, no explanation was provided for what had caused the delay or what had resolved it.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random, episodic, the result of individual inspectors having bad days or administrative systems running behind schedule. Signal is consistent, directional, the result of policy changes that have not been announced but are being implemented. What he is observing has direction. It has consistency. It is not random.
+
+He is not yet sure which this is. But he has started building contingency plans for supply chain disruption, and he has started diversifying his client relationships to reduce his dependence on cross-border trade. The informal indicators that built his business are telling him to prepare for the possibility that the business model is changing.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*

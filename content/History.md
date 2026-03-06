@@ -14,7 +14,7 @@ For a broad narrative overview, see [[History of Solumora]].
 → [[The Northern Founding]] — Terravelle's consolidation and the emergence of the [[Covenant of Measure]]
 → [[The Southern Founding]] — Auralis's consolidation and the emergence of the [[Ascendant Path]]
 
-**The Isolation Era** (approximately 600–200 years ago) — Four centuries of independent development. The [[Grimoires|grimoire tradition]] emerged and spread through both kingdoms. The [[Persecution Era]] — an episode of community-level violence against suspected high-tier casters — belongs to this period.
+**The Isolation Era** (approximately 600–200 years ago) — Four centuries of independent development. The [[Grimoires|grimoire tradition]] emerged and spread through both kingdoms. The [[The Persecution Era|Persecution Era]] — an episode of community-level violence against suspected high-tier casters — belongs to this period.
 → [[The Grimoire Tradition]] — how grimoires developed and spread as the primary technology of Flux access
 → [[The Persecution Era]] — two centuries of decentralized violence and its connection to High Demon presence
 
@@ -29,6 +29,6 @@ For a broad narrative overview, see [[History of Solumora]].
 
 **The Cultural Divergence** — [[Terravelle]] and [[Auralis]] started from the same situation and arrived at fundamentally different cultures. The reasons are partly geographic, partly the accidents of which early leaders made which decisions, and partly the different relationships each kingdom developed with Flux use.
 
-**The Ruins Problem** — The ancient civilization's ruins are still active in ways that current scholarship cannot fully explain. The [[Culmination Faction]]'s entire agenda is organized around what those ruins might mean.
+**The Ruins Problem** — The ancient civilization's ruins are still active in ways that current scholarship cannot fully explain. The [[The Culmination Faction|Culmination Faction]]'s entire agenda is organized around what those ruins might mean.
 
-*See also: [[History of Solumora]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Flux]], [[Grimoires]], [[The Three Near-Wars]], [[Culmination Faction]], [[Wolfpoint]]*
+*See also: [[History of Solumora]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Flux]], [[Grimoires]], [[The Three Near-Wars]], [[The Culmination Faction|Culmination Faction]], [[Wolfpoint]]*
