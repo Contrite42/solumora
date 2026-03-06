@@ -50,12 +50,26 @@ The one who knows what he is doing wants a permanent passage between Solumora an
 
 The hunting period four hundred years ago came close to ending all of this. It did not.
 
+## How People Move
+
+Solumora runs on overlapping transport systems rather than one universal network.
+
+- River freight: bulk movement in [[Terravelle]] is organized through the [[Maren Freight Chain]] from inland producers to [[Ashford]] export handling.
+- Coastal runs: high-frequency west-coast circulation in [[Auralis]] is handled by the [[Hedun-Solhaven Coastal Run]].
+- Long-haul packets: low-volume, high-reliability mixed cargo and correspondence move on the [[Outer Coast Packet Line]] between northern and eastern markets.
+- Overland relay: priority dispatches and compact critical goods between Ashford and desert-edge operations move on the [[Ashford-Halveth Courier Road]].
+- Seasonal caravan circuits: expedition supply and return goods around the desert edge are routed through the [[Zakros Rim Caravan Loop]].
+
+The practical rule is simple: people route by consequence. High-consequence traffic uses redundancy and faster handoff systems. Low-consequence bulk moves on the cheapest reliable channel.
+
+*See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Hedun]], [[Wolfpoint]], [[Desert Zakros]], [[Maren Freight Chain]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]]*
+
 ## Where to Start
 
 - For the world: [[Solumora]] → [[Geography]] → [[Kingdoms]]
 - For the magic: [[Spells]]
-- For the north: [[Terravelle]] 
-- For the south: [[Auralis]] 
-- For the desert: [[Equatorial Desert]] 
+- For the north: [[Terravelle]]
+- For the south: [[Auralis]]
+- For the desert: [[Equatorial Desert]]
 
 *This page is an overview. Every topic links to its full page.*

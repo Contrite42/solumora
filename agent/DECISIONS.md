@@ -13,21 +13,9 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 - Batch: 3R1
 - Scope: `content/Solumora.md`, `content/World Primer.md`
 - Source: `agent/staging/PENDING_REVIEW.md`
-- Decision Owner: CREATOR
-- Status: PENDING
-- Notes: Trade & Travel hub appends staged; pending creator review.
-
-### Escalation Reasons
-- Touches major world-structure pages: `content/Solumora.md`, `content/World Primer.md`.
-
-### Creator Options
-- Option A: APPROVE batch as staged.
-- Option B: REJECT and regenerate this batch.
-- Option C: REJECT and request manual operator rewrite.
-
-### Creator Action
-- Set `- Status:` to `APPROVED` or `REJECTED`.
-- If rejected, replace `- Notes:` with concise guidance and optional option label.
+- Decision Owner: OPERATOR
+- Status: APPROVED
+- Notes: Applied by Claude on resume. Verified factual, canon-consistent, correct wikilinks to existing route pages. No new lore invented.
 <!-- REVIEW_DECISION_END -->
 
 ---

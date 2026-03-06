@@ -33,3 +33,15 @@ The moment goods or services cross into quality-of-life territory the price clim
 [[Flux Users|Channeler]]-tier [[Sigils|sigil]] work — anything at [[Rare Grimoire|Rare]] and above — is not really priced like a service. It is priced like access to something that most of the world will never be able to replicate, because that is exactly what it is.
 
 *See also: [[World Primer]], [[Kingdoms]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Flux]], [[Flux Users]], [[History of Solumora]], [[Geography]], [[Ordinary Life]]*
+
+## How People Move
+
+Movement in Solumora is not one network. It is layered systems built for different risk and volume profiles.
+
+Bulk goods in [[Terravelle]] move most efficiently through the [[Maren Freight Chain]], with [[Valdenmoor]] coordinating schedules and [[Ashford]] converting river volume into export flow. High-priority overland communication and compact critical cargo between border commerce and desert staging move through the [[Ashford-Halveth Courier Road]]. Seasonal expedition-linked heavy movement around the desert edge is handled by the [[Zakros Rim Caravan Loop]], where timing and local route knowledge matter more than nominal distance.
+
+Maritime movement ties the coasts together on two different scales. The [[Hedun-Solhaven Coastal Run]] provides high-frequency west-coast circulation inside [[Auralis]]. The [[Outer Coast Packet Line]] carries slower long-haul mixed cargo and correspondence linking northern settlements near [[Wolfpoint]] to eastern trade infrastructure near [[Ashford]] and onward buyers.
+
+Information usually arrives before volume, and systems are designed around that fact. When a route destabilizes, dispatchers reroute messages first, then cargo. Most institutions in both kingdoms survive disruption not by preventing breaks, but by preserving movement continuity across at least one channel.
+
+*See also: [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Wolfpoint]], [[Desert Zakros]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]]*

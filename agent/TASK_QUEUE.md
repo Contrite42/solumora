@@ -124,10 +124,10 @@ Blocked tasks are marked with their dependency.
 
 ## FUTURE (not yet scoped)
 
-- [ ] **TASK-09** — Ashford political atmosphere update
+- [x] **TASK-09** — Ashford political atmosphere update
   Doss Varn (border guard), Orre Cavlt (cross-border merchant), and Cavel Dorst (merchant house) all see the political shift from ground level. Update their pages or write a "Life in Ashford" expansion reflecting current Expansion Faction pressure.
 
-- [ ] **TASK-10** — Cassia: what she actually knows
+- [x] **TASK-10** — Cassia: what she actually knows
   Cassia is constrained but she's not passive. What information does she have access to that she hasn't shared? What is she doing with it? Needs a "People in Motion" style append.
 
 - [x] **TASK-11** — Bren Ossve (rural T7) developed
