@@ -48,36 +48,36 @@ const ZONE_BANDS: ZoneBand[] = [
     id: "north",
     label: "Terravelle Uplands",
     y: 150,
-    height: 470,
+    height: 430,
     labelX: 218,
     labelY: 292,
     labelWidth: 258,
   },
   {
+    id: "frontier",
+    label: "Disputed Desert Edge",
+    y: 580,
+    height: 66,
+    labelX: 220,
+    labelY: 616,
+    labelWidth: 250,
+  },
+  {
     id: "desert",
     label: "Desert Zakros (Equatorial Belt)",
-    y: 620,
-    height: 300,
+    y: 646,
+    height: 286,
     labelX: 194,
     labelY: 790,
     labelWidth: 336,
   },
   {
-    id: "frontier",
-    label: "Disputed Desert Edge",
-    y: 920,
-    height: 72,
-    labelX: 220,
-    labelY: 954,
-    labelWidth: 250,
-  },
-  {
     id: "south",
     label: "Auralis Basin",
-    y: 992,
-    height: 428,
+    y: 932,
+    height: 488,
     labelX: 232,
-    labelY: 1098,
+    labelY: 1086,
     labelWidth: 226,
   },
 ]
@@ -86,7 +86,7 @@ const REGION_LINKS: RegionLink[] = [
   {
     id: "zakros-region",
     label: "Zakros Crossing Belt",
-    path: "M156 622 L846 622 L842 918 L160 918 Z",
+    path: "M156 648 L846 648 L842 930 L160 930 Z",
     keys: ["Equatorial-Desert"],
     titles: ["Equatorial Desert", "Desert Zakros"],
     labelX: 500,
@@ -97,22 +97,11 @@ const REGION_LINKS: RegionLink[] = [
   {
     id: "northern-narrows-region",
     label: "Northern Narrows Corridors",
-    path: "M622 622 L758 622 L744 774 L608 774 Z",
+    path: "M648 588 L770 588 L752 748 L636 748 Z",
     keys: ["The-Northern-Narrows", "Northern-Narrows"],
     titles: ["The Northern Narrows", "Northern Narrows"],
     labelX: 746,
-    labelY: 708,
-    labelAnchor: "end",
-    showLabel: true,
-  },
-  {
-    id: "southern-approaches-region",
-    label: "Southern Approaches Network",
-    path: "M598 918 L736 918 L702 1038 L572 1038 Z",
-    keys: ["The-Southern-Approaches", "Southern-Approaches"],
-    titles: ["The Southern Approaches", "Southern Approaches"],
-    labelX: 744,
-    labelY: 990,
+    labelY: 676,
     labelAnchor: "end",
     showLabel: true,
   },
@@ -126,6 +115,7 @@ const MOUNTAIN_RIDGES = [
 const MAREN_RIVER_PATH = "M404 250 C430 356 452 438 486 504 C554 566 642 588 740 588"
 
 const EAST_ESTUARY_PATH = "M740 588 C780 600 814 618 844 646"
+const WEST_COAST_ROUTE_PATH = "M272 1166 C286 1224 298 1268 308 1310"
 
 const WEST_TERRACE_PATHS = [
   "M204 1090 C286 1060 346 1080 402 1128",
@@ -173,8 +163,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "halveth",
     label: "Halveth",
-    x: 622,
-    y: 968,
+    x: 618,
+    y: 612,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
@@ -182,7 +172,7 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "solhaven",
     label: "Solhaven",
-    x: 232,
+    x: 274,
     y: 1166,
     keys: ["Solhaven"],
     titles: ["Solhaven"],
@@ -191,8 +181,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "emberfall",
     label: "Emberfall",
-    x: 542,
-    y: 1144,
+    x: 548,
+    y: 1140,
     keys: ["Emberfall"],
     titles: ["Emberfall"],
     align: "right",
@@ -200,8 +190,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "hedun",
     label: "Hedun",
-    x: 188,
-    y: 1280,
+    x: 308,
+    y: 1310,
     keys: ["Hedun"],
     titles: ["Hedun"],
     align: "right",
@@ -255,15 +245,9 @@ export default (() => {
               />
             ))}
 
-            <line class="solumora-lat-line" x1="150" x2="850" y1="620" y2="620" />
-            <line class="solumora-lat-line" x1="150" x2="850" y1="920" y2="920" />
-            <line
-              class="solumora-lat-line solumora-lat-line--soft"
-              x1="150"
-              x2="850"
-              y1="992"
-              y2="992"
-            />
+            <line class="solumora-lat-line" x1="150" x2="850" y1="580" y2="580" />
+            <line class="solumora-lat-line" x1="150" x2="850" y1="646" y2="646" />
+            <line class="solumora-lat-line" x1="150" x2="850" y1="932" y2="932" />
           </g>
 
           <g class="solumora-terrain-layer" clip-path="url(#solumora-continent-clip)">
@@ -276,6 +260,10 @@ export default (() => {
             ))}
             <path class="solumora-terrain solumora-terrain--river" d={MAREN_RIVER_PATH} />
             <path class="solumora-terrain solumora-terrain--estuary" d={EAST_ESTUARY_PATH} />
+            <path
+              class="solumora-terrain solumora-terrain--coast-route"
+              d={WEST_COAST_ROUTE_PATH}
+            />
             {WEST_TERRACE_PATHS.map((terrace, idx) => (
               <path
                 key={`terrace-${idx}`}
@@ -355,7 +343,7 @@ export default (() => {
         </svg>
         <p class="solumora-map-note">
           Positions follow current canon: full-width Zakros barrier, corridor-style approach
-          systems, disputed Halveth edge, and coast-facing plus valley-linked hubs.
+          systems, Halveth on the north desert edge, and coast-facing plus valley-linked hubs.
         </p>
       </section>
     )

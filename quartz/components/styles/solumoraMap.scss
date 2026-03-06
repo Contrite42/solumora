@@ -1,9 +1,14 @@
 .solumora-map {
   margin: 1.2rem 0 1.5rem;
-  padding: 1rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 10px;
-  background: color-mix(in srgb, var(--light) 86%, var(--tertiary) 14%);
+  padding: 1.5rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 60%, var(--lightgray) 40%);
+  border-radius: 12px;
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--light) 95%, var(--secondary) 5%) 0%,
+    color-mix(in srgb, var(--light) 92%, var(--tertiary) 8%) 100%
+  );
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
 }
 
 .solumora-map-header {
@@ -43,75 +48,76 @@
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 8px;
-  border: 1px solid color-mix(in srgb, var(--gray) 42%, transparent);
-  background: linear-gradient(
-    180deg,
-    color-mix(in srgb, var(--tertiary) 28%, var(--light) 72%) 0%,
-    color-mix(in srgb, var(--secondary) 20%, var(--light) 80%) 42%,
-    color-mix(in srgb, var(--darkgray) 12%, var(--light) 88%) 100%
-  );
+  border-radius: 10px;
+  border: 2px solid color-mix(in srgb, var(--gray) 50%, var(--lightgray) 50%);
+  background: linear-gradient(180deg, #e8f4f8 0%, #f0f5f8 35%, #faf8f0 62%, #f5f3ed 100%);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
 .solumora-map-continent {
-  fill: color-mix(in srgb, var(--light) 84%, var(--gray) 16%);
-  stroke: color-mix(in srgb, var(--darkgray) 52%, var(--gray) 48%);
-  stroke-width: 2.4;
+  fill: #fdfcf9;
+  stroke: #4a5568;
+  stroke-width: 3;
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));
 }
 
 .solumora-zone {
   stroke-width: 0;
-  fill-opacity: 0.42;
+  fill-opacity: 0.35;
 }
 
 .solumora-zone--north {
-  fill: color-mix(in srgb, var(--secondary) 48%, transparent);
+  fill: #6b9bb8;
 }
 
 .solumora-zone--desert {
-  fill: color-mix(in srgb, #c78d3a 58%, transparent);
+  fill: #d4a356;
 }
 
 .solumora-zone--frontier {
-  fill: color-mix(in srgb, #8d8a84 42%, transparent);
+  fill: #9e9a90;
 }
 
 .solumora-zone--south {
-  fill: color-mix(in srgb, var(--tertiary) 62%, transparent);
+  fill: #7ba896;
 }
 
 .solumora-lat-line {
-  stroke: color-mix(in srgb, var(--light) 30%, var(--darkgray) 70%);
-  stroke-width: 2;
-  stroke-dasharray: 8 8;
-  opacity: 0.65;
+  stroke: #697686;
+  stroke-width: 2.5;
+  stroke-dasharray: 10 6;
+  opacity: 0.5;
 }
 
 .solumora-lat-line--soft {
-  opacity: 0.45;
-  stroke-dasharray: 4 10;
+  opacity: 0.3;
+  stroke-dasharray: 6 8;
 }
 
 .solumora-zone-tag {
   rect {
-    stroke: color-mix(in srgb, var(--light) 44%, var(--darkgray) 56%);
-    stroke-width: 1.2;
+    stroke: #5a6470;
+    stroke-width: 1.5;
   }
 
   &--north rect {
-    fill: color-mix(in srgb, var(--secondary) 56%, var(--light) 44%);
+    fill: #5d8ca8;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.15));
   }
 
   &--desert rect {
-    fill: color-mix(in srgb, #c78d3a 62%, var(--light) 38%);
+    fill: #c79247;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.15));
   }
 
   &--frontier rect {
-    fill: color-mix(in srgb, #89847d 56%, var(--light) 44%);
+    fill: #8a8577;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.15));
   }
 
   &--south rect {
-    fill: color-mix(in srgb, var(--tertiary) 62%, var(--light) 38%);
+    fill: #69967f;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.15));
   }
 }
 
@@ -119,8 +125,11 @@
   text-anchor: middle;
   font-size: 18px;
   font-weight: 700;
-  letter-spacing: 0.03em;
-  fill: color-mix(in srgb, var(--darkgray) 88%, var(--light) 12%);
+  letter-spacing: 0.05em;
+  fill: #ffffff;
+  paint-order: stroke;
+  stroke: rgba(0, 0, 0, 0.3);
+  stroke-width: 0.5;
   pointer-events: none;
 }
 
@@ -135,28 +144,37 @@
 }
 
 .solumora-terrain--ridge {
-  stroke: color-mix(in srgb, #3b434d 62%, var(--darkgray) 38%);
-  stroke-width: 2.1;
-  opacity: 0.8;
+  stroke: #4a5463;
+  stroke-width: 2.5;
+  opacity: 0.7;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
 }
 
 .solumora-terrain--river {
-  stroke: color-mix(in srgb, #2f7294 72%, var(--light) 28%);
-  stroke-width: 2.4;
-  opacity: 0.82;
+  stroke: #3a8bb8;
+  stroke-width: 3;
+  opacity: 0.75;
+  filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.15));
 }
 
 .solumora-terrain--estuary {
-  stroke: color-mix(in srgb, #3b7d9f 62%, var(--light) 38%);
-  stroke-width: 1.9;
-  stroke-dasharray: 5 6;
-  opacity: 0.76;
+  stroke: #4a95c0;
+  stroke-width: 2.2;
+  stroke-dasharray: 6 5;
+  opacity: 0.65;
+}
+
+.solumora-terrain--coast-route {
+  stroke: #2f8f7b;
+  stroke-width: 2.2;
+  stroke-dasharray: 5 5;
+  opacity: 0.8;
 }
 
 .solumora-terrain--terrace {
-  stroke: color-mix(in srgb, #4e6e6a 64%, var(--light) 36%);
-  stroke-width: 1.5;
-  opacity: 0.72;
+  stroke: #5a7e78;
+  stroke-width: 1.8;
+  opacity: 0.6;
 }
 
 .solumora-map-region-link {
@@ -164,58 +182,61 @@
   cursor: pointer;
 
   path {
-    fill-opacity: 0.18;
-    stroke-width: 1.8;
+    fill-opacity: 0.15;
+    stroke-width: 2;
     transition:
       fill-opacity 0.2s ease,
-      stroke 0.2s ease;
+      stroke 0.2s ease,
+      filter 0.2s ease;
   }
 
   .solumora-region-label {
-    fill: var(--light);
+    fill: #ffffff;
     font-size: 15px;
     font-weight: 700;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     paint-order: stroke;
-    stroke: color-mix(in srgb, var(--darkgray) 84%, transparent);
+    stroke: rgba(0, 0, 0, 0.5);
     stroke-width: 3;
     pointer-events: none;
   }
 
   &--zakros-region path {
     fill: transparent;
-    stroke: color-mix(in srgb, #8b5e23 55%, var(--darkgray) 45%);
-    stroke-dasharray: 10 8;
-    opacity: 0.62;
+    stroke: #9d6e2f;
+    stroke-dasharray: 12 6;
+    opacity: 0.55;
   }
 
   &--northern-narrows-region path {
-    fill: color-mix(in srgb, #9a6b2c 52%, transparent);
-    stroke: color-mix(in srgb, #7b4f1f 64%, var(--darkgray) 36%);
+    fill: #a87935;
+    stroke: #7d5525;
   }
 
   &--southern-approaches-region path {
-    fill: color-mix(in srgb, #786a52 52%, transparent);
-    stroke: color-mix(in srgb, #5f5442 65%, var(--darkgray) 35%);
+    fill: #887a5e;
+    stroke: #6a5f4a;
   }
 
   &:hover path {
     fill-opacity: 0.3;
+    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.2));
   }
 
   &.is-active path {
-    stroke: color-mix(in srgb, #1f8f5c 72%, var(--darkgray) 28%);
+    stroke: #28a869;
+    stroke-width: 2.5;
   }
 
   &.is-missing path {
-    stroke: color-mix(in srgb, var(--gray) 68%, var(--lightgray) 32%);
-    fill: color-mix(in srgb, var(--gray) 40%, transparent);
-    fill-opacity: 0.18;
-    opacity: 0.65;
+    stroke: #9ca3af;
+    fill: #d1d5db;
+    fill-opacity: 0.15;
+    opacity: 0.6;
   }
 
   &.is-missing .solumora-region-label {
-    fill: color-mix(in srgb, var(--gray) 76%, var(--darkgray) 24%);
+    fill: #9ca3af;
   }
 }
 
@@ -224,39 +245,43 @@
   text-decoration: none;
 
   line {
-    stroke: color-mix(in srgb, var(--light) 35%, var(--darkgray) 65%);
-    stroke-width: 1.8;
+    stroke: #5a6472;
+    stroke-width: 2;
     stroke-linecap: round;
   }
 
   circle {
-    fill: #1f8f5c;
-    stroke: var(--light);
-    stroke-width: 2.2;
+    fill: #2d9d68;
+    stroke: #ffffff;
+    stroke-width: 2.5;
     transition:
       transform 0.2s ease,
       fill 0.2s ease,
-      opacity 0.2s ease;
+      filter 0.2s ease;
     transform-origin: center;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
   }
 
   text {
-    fill: var(--dark);
-    font-size: 18px;
+    fill: #2d3748;
+    font-size: 17px;
     font-weight: 700;
     paint-order: stroke;
-    stroke: color-mix(in srgb, var(--light) 94%, transparent);
-    stroke-width: 3;
+    stroke: rgba(255, 255, 255, 0.95);
+    stroke-width: 3.5;
     pointer-events: none;
   }
 
   &:hover circle {
-    fill: color-mix(in srgb, #2baf74 70%, var(--secondary) 30%);
-    transform: scale(1.15);
+    fill: #38b579;
+    transform: scale(1.2);
+    filter: drop-shadow(0 3px 8px rgba(0, 0, 0, 0.25));
   }
 
   &.is-active circle {
-    fill: color-mix(in srgb, #1f8f5c 82%, var(--tertiary) 18%);
+    fill: #2d9d68;
+    stroke: #fbbf24;
+    stroke-width: 3;
   }
 
   &.is-missing {
@@ -264,12 +289,12 @@
   }
 
   &.is-missing circle {
-    fill: color-mix(in srgb, var(--gray) 72%, var(--lightgray) 28%);
-    opacity: 0.55;
+    fill: #9ca3af;
+    opacity: 0.5;
   }
 
   &.is-missing text {
-    fill: color-mix(in srgb, var(--gray) 76%, var(--darkgray) 24%);
+    fill: #9ca3af;
   }
 }
 
