@@ -10,20 +10,24 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 
 <!-- REVIEW_DECISION_START -->
 ## Active Review Decision
-- Batch: 1
-- Scope: `content/Doss Varn.md`, `content/Orre Cavlt.md`
+- Batch: 2
+- Scope: `content/Cavel Dorst.md`, `content/Cassia.md`
 - Source: `agent/staging/PENDING_REVIEW.md`
-- Decision Owner: OPERATOR
-- Status: REJECTED
-- Notes: Operator auto-rejected due missing link targets: content/Doss Varn.md: Border Guards, Cross-Border Trade; content/Orre Cavlt.md: Cross-Border Trade
+- Decision Owner: CREATOR
+- Status: PENDING
+- Notes: (set when rejecting)
 
-### Auto Flags
-- content/Doss Varn.md: missing link targets -> Border Guards, Cross-Border Trade
-- content/Orre Cavlt.md: missing link targets -> Cross-Border Trade
+### Escalation Reasons
+- Touches principal character page: `content/Cassia.md`.
 
-### Operator Action
-- Routine batches are operator-owned and should not be escalated to creator.
-- Set `- Status:` only when manual intervention is needed.
+### Creator Options
+- Option A: APPROVE batch as staged.
+- Option B: REJECT and regenerate this batch.
+- Option C: REJECT and request manual operator rewrite.
+
+### Creator Action
+- Set `- Status:` to `APPROVED` or `REJECTED`.
+- If rejected, replace `- Notes:` with concise guidance and optional option label.
 <!-- REVIEW_DECISION_END -->
 
 ---

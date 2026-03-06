@@ -9,6 +9,7 @@ Use this split while Codex, Claude Code, and Copilot Auto run simultaneously.
 - `Copilot Auto` (artifact plus integrity lane): handles assigned artifact/story tasks, runs canon/link QA, and updates `agent/reports/inconsistencies.md` plus `agent/reports/links_applied.md`.
 - Shared staging note: all agents may append status notes to `agent/staging/PENDING_REVIEW.md` using prefix `[Agent][YYYY-MM-DD HH:MM]`.
 - Conflict rule: if another agent is already editing a file, stop and hand off through `agent/staging/PENDING_REVIEW.md` instead of writing.
+- Assignment rule: only `Codex` may change task ownership labels in this queue.
 
 ## CURRENT REVIEW GATE (DO THIS FIRST)
 

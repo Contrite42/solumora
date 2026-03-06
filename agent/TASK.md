@@ -1,3 +1,28 @@
+# Task: Active Concurrent Split (Top Section Overrides Older Notes Below)
+
+## Agent Ownership (active now)
+
+- `Codex` owns control-plane files only: `agent/TASK_QUEUE.md`, `agent/TASK.md`, `agent/COORDINATION.md`, `agent/DECISIONS.md`, and `agent/staging/CLAIMED.md`.
+- `Claude Code` owns core worldbuilding content tasks in `content/` from the assigned unchecked queue goals.
+- `Copilot Auto` owns artifact/story tasks plus canon/link integrity reports in `agent/reports/`.
+
+## Current Assignments
+
+- `Codex`: queue management, review-gate decisions, task completion checkmarks, and worklog/claimed updates.
+- `Claude Code`: next core-world unchecked goal(s) in `agent/TASK_QUEUE.md` and append a handoff note to `agent/staging/PENDING_REVIEW.md`.
+- `Copilot Auto`: assigned artifact/story goal(s) plus FOREVER TASK link/canon checks and report updates.
+
+## File Collision Rules
+
+1. Never have two agents edit the same file in the same cycle.
+2. `agent/` control files are Codex-only, except append-only handoff notes in `agent/staging/PENDING_REVIEW.md`.
+3. Every handoff note must include `[Agent][YYYY-MM-DD HH:MM][files touched]`.
+4. On conflict, stop writing and hand off instead of force-overwriting.
+
+---
+
+## Archived Batch Notes (Do Not Execute)
+
 # Task: Trade & Travel Spine - Phase 1
 
 ## Current Operator Step

@@ -1,4 +1,6 @@
-The Middling Steps are the middle terraces of [[Solhaven]] — the three residential and commercial levels between the [[Harbor District]] and the [[Crestward District]]. They are where most of Solhaven's working professional population lives: guild-certified craftspeople, Path-trained instructors, mid-tier merchants, scriveners, healers, and the various support functions that a city of a million requires at its functional core.
+*For the commercial and craft heart of Solhaven's middle terraces, see [[The Bluff District]]. The Middling Steps refers specifically to the upper portion of the middle terrace zone — the residential and professional district that sits between the Bluff's merchant quarter and the Crestward proper.*
+
+The Middling Steps are the upper middle terraces of [[Solhaven]] — the residential and professional levels directly below the [[Crestward District]], above [[The Bluff District]]'s commercial core. They are where most of Solhaven's working professional population lives: guild-certified craftspeople, Path-trained instructors, mid-tier merchants, scriveners, healers, and the various support functions that a city of a million requires at its functional core.
 
 The name is partly descriptive and partly ironic. The Steps are, literally, the steps up the terrace — the staircases and ramp-streets connecting harbor to crest are mostly routed through this zone. They are also, as every person living in them understands, the steps in the social sense: the place you are on your way through, not a destination in itself.
 

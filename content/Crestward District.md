@@ -1,4 +1,6 @@
-The Crestward District is the uppermost terrace of [[Solhaven]] — the administrative, residential, and ceremonial heart of [[Auralis]]. It sits above the city both physically and symbolically, and everyone who lives there is aware of both facts simultaneously.
+*For the Crestward's political institutions, governance structure, and notable locations, see [[The Crestward]]. This page focuses on the residential quarter and the people who manage the district's daily functions from below its formal power centers.*
+
+The Crestward District is the uppermost terrace of [[Solhaven]] — the administrative, residential, and ceremonial heart of [[Auralis]]. The people at the very top of it hold council seats and senior Luminant positions. The people one layer down — household managers, council administrative staff, private physicians, lower-level faction operatives — are where the district's daily operations actually run, and where the distance between formal and informal power is most clearly visible.
 
 ## Layout and Function
 
@@ -38,4 +40,4 @@ The palace is Cassia's residence, her court, and her constraint. She is the most
 
 The Crestward's residents have calibrated views of her. Senior council members understand her as a managed asset who has been becoming progressively more difficult to manage. Senior Luminants regard her with the particular care they reserve for things that are theologically important and personally inconvenient. Household staff and administrative workers, who interact with the palace's daily operations rather than its ceremonial face, have a somewhat different view: she is competent, she is aware of what is happening around her, and she treats people at the T1 level with more directness than they are typically shown by Crestward residents.
 
-*See also: [[Solhaven]], [[Harbor District]], [[The Middling Steps]], [[Cassia]], [[The Council of Auralis]], [[Drest]], [[Hadren Cosse]], [[Ascendant Path]], [[Ren Valdh]], [[Essa Rolt]], [[Osten Reld]], [[Life in Solhaven]], [[Auralis]]*
+*See also: [[The Crestward]], [[Solhaven]], [[Harbor District]], [[The Middling Steps]], [[The Bluff District]], [[Cassia]], [[The Council of Auralis]], [[Drest]], [[Hadren Cosse]], [[Ascendant Path]], [[Ren Valdh]], [[Essa Rolt]], [[Osten Reld]], [[Ossan Treml]], [[Life in Solhaven]], [[Auralis]]*

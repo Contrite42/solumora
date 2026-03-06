@@ -20,6 +20,18 @@ High-tier casters here are celebrated rather than othered — though even in Aur
 
 The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port cities on both coasts that contribute significantly to its trade economy.
 
+### Solhaven
+
+Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other.
+
+The [[Harbor District]] at the base is where maritime commerce runs and where most of the city's T0-T2 population lives. Practical competence matters more than tier here — a reliable logistics coordinator or guild foreman earns real standing regardless of their assessment. The [[Ascendant Path]] maintains a temple presence but takes a low-pressure approach.
+
+[[The Bluff District]] occupies the middle commercial terraces — craftspeople, merchants, guild-certified professionals, and the working middle class of a major port city. The most economically diverse zone, and the one where social mobility runs most visibly in both directions.
+
+[[The Middling Steps]], the upper-middle residential terraces, hold the professional community: Flux instructors, specialized practitioners, assessment tutors, the families of senior guild members and mid-rank Path officials. Children born here face Solhaven's tier anxiety in its most legible form.
+
+[[The Crestward]] sits at the summit: the palace, the council chambers, the major Path temple, and the residential estates of Auralis's elite. The kingdom's governance happens here, and the Crestward's social life is structured around access to that governance.
+
 ## Leadership
 
 [[Auralis]] is ruled in name by Queen [[Cassia]], who has held the title since she was four years old. In practice, the kingdom is governed by a council that placed her on the throne and has managed her reign ever since. The council's long-term goal is the consolidation and expansion of Auralis toward something they consider a final achievement — a magnum opus of [[Flux]] mastery and territorial completion that has been the quiet engine of Auralis policy for two decades.
@@ -40,4 +52,4 @@ At the center of this tension are two rulers with fundamentally opposing visions
 
 These are not rulers who hate each other out of pride. The situation is more uncomfortable than that.
 
-*See also: [[Solumora]], [[Terravelle]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Flux]], [[Cassia]], [[Eddan Voss]], [[Drest]], [[The Council of Auralis]], [[Solhaven]], [[Emberfall]], [[Hedun]], [[Flux Demons]], [[Rift Incursions]], [[Ordinary Life in Auralis]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Adventurers]]*
+*See also: [[Solumora]], [[Terravelle]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Flux]], [[Cassia]], [[Eddan Voss]], [[Drest]], [[The Council of Auralis]], [[Solhaven]], [[Emberfall]], [[Hedun]], [[Flux Demons]], [[Rift Incursions]], [[Ordinary Life in Auralis]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Adventurers]], [[Harbor District]], [[The Bluff District]], [[The Middling Steps]], [[The Crestward]], [[Crestward District]]*

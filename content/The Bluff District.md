@@ -46,4 +46,4 @@ Vertical movement out of the Bluff typically happens in one of three ways: accum
 
 Most people who grow up in the Bluff who stay in the Bluff do so because they find the work meaningful and the autonomy valuable. The Bluff offers independence that the Crestward does not — a respected merchant answers to customers and guild standards, not to patrons and political pressure.
 
-*See also: [[Solhaven]], [[Auralis]], [[Life in Solhaven]], [[Ascendant Path]], [[Control Tier]], [[Mave]], [[Avel Tors]], [[Cassia]], [[Ordinary Life in Auralis]]*
+*See also: [[Solhaven]], [[Auralis]], [[Life in Solhaven]], [[Ascendant Path]], [[Control Tier]], [[Mave]], [[Avel Tors]], [[Cassia]], [[Ordinary Life in Auralis]], [[The Middling Steps]], [[Renna Molt]], [[Celde Morv]], [[Rella Dost]]*

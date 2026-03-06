@@ -56,4 +56,4 @@ The Crestward includes secret facilities where sensitive research occurs, holdin
 
 [[Cassia]] moves through this unseen structure while maintaining the fiction of formal authority. Council members coordinate with her on important decisions; she ratifies them, which makes them official. Whether she is actually part of decision-making or merely ratifying decisions already made is something Cassia herself sometimes finds difficult to determine.
 
-*See also: [[Solhaven]], [[Auralis]], [[Cassia]], [[The Council of Auralis]], [[Ascendant Path]], [[Hadren Cosse]], [[Control Tier]], [[Ordinary Life in Auralis]], [[Life in Solhaven]]*
+*See also: [[Solhaven]], [[Auralis]], [[Cassia]], [[The Council of Auralis]], [[Ascendant Path]], [[Hadren Cosse]], [[Control Tier]], [[Ordinary Life in Auralis]], [[Life in Solhaven]], [[Crestward District]], [[Ren Valdh]], [[Essa Rolt]], [[Osten Reld]], [[Pellam Vores]], [[Ossan Treml]]*
