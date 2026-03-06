@@ -40,8 +40,8 @@ Blocked tasks are marked with their dependency.
   **Constraints:** Crossing is rare; only grimoires/mages/extreme resistance. Build 3 crossing methods, 3 failure modes, and 3 organizations that profit from it. Everyone mid-journey.
   **Output:** 8 notes (3 orgs, 3 methods, 2 key crossing sites) + update [[Desert Zakros]].
 
-- [ ] **Goal:** Build the **Grimoire Economy** (copying, licensing, fraud, black markets).  
-  **Constraints:** Flux cost exponential; most are low-tier; society optimizes low-cost spells. Show how grimoires spread power without creating a caste.  
+- [x] **Goal:** Build the **Grimoire Economy** (copying, licensing, fraud, black markets).
+  **Constraints:** Flux cost exponential; most are low-tier; society optimizes low-cost spells. Show how grimoires spread power without creating a caste.
   **Output:** 10 notes (guilds, copyists, regulation, black market, “common grimoire” tiers) + update [[Grimoires]].
 
 - [ ] **Goal:** Create the **Factions hub** and populate it with real institutions.  
@@ -155,3 +155,4 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Trade & Travel spine | Phase 1-2 in progress | Added 6 route notes and inbound links across Ashford, Valdenmoor, Halveth, Wolfpoint, Hedun, Greyveil. Staged creator-gated Solumora/World Primer appends (Batch 3R1). |
 | 2026-03-05 | Trade & Travel spine | Complete | Batch 3R1 applied: Solumora.md + World Primer.md "How People Move" sections. TASK-09/10 marked complete. |
 | 2026-03-05 | Equatorial Crossing Economy | Complete | 8 new pages: Halveth Cooperative, Relay Compact, Terravelle Desert Trade Office, Standard Guided Crossing, Express Route Crossing, Relay-Stage Crossing, The Southern Approaches, The Northern Narrows. Equatorial Desert.md updated. Backlinks added to Halveth.md, Avel Coss.md. |
+| 2026-03-05 | Grimoire Economy | Complete | 11 new pages: Grimoire Economy (hub), Grimoire Copyists, Grimoire Licensing, Common Grimoire Market, Grimoire Fraud, Black Market Grimoires, Grimoire Inheritance, Grimoire Regulation, High-Tier Grimoire Access, Personal Working Grimoire, Grimoire Distribution. Grimoires.md updated with economy section. |
