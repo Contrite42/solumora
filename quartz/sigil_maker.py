@@ -653,7 +653,7 @@ def collect_spec_interactive() -> SpellSpec:
         "persistence": DEFAULTS["persistence"],
         "target_spec": DEFAULTS["target_spec"],
         "sustained_minutes": 0,
-        "hook_mode_multiplier": 1.0,
+        "hook_mode_multiplier": default_hook_mode_multiplier("Ward", "Affect"),
         "hook_mode_flat_w": 0,
         "notes": "",
     }
@@ -667,35 +667,58 @@ def collect_spec_interactive() -> SpellSpec:
         draft["hook"] = prompt_choice("Hook", hook_options, default=draft["hook"])
         draft["mode"] = prompt_choice("Mode", mode_options, default=draft["mode"])
         draft["shape"] = prompt_choice("Shape", shape_options, default=draft["shape"])
+        explicit = set(explicit_outer_variables(draft["shape"]))
+        print(
+            "Shape control surface explicit vars: "
+            + ", ".join(explicit_outer_variables(draft["shape"]))
+        )
         draft["discipline"] = prompt_choice(
             "Discipline", discipline_options, default=draft["discipline"]
         )
-        draft["output_mode"] = prompt_choice(
-            "Output mode", output_options, default=draft["output_mode"]
-        )
+        draft["output_mode"] = prompt_choice("Output mode", output_options, default=draft["output_mode"])
         draft["pattern"] = prompt_choice("Pattern", pattern_options, default=draft["pattern"])
-        draft["reach"] = prompt_choice(
-            "Reach", reach_options, default=draft["reach"], aliases=REACH_ALIASES
-        )
-        draft["persistence"] = prompt_choice(
-            "Persistence",
-            persistence_options,
-            default=draft["persistence"],
-            aliases=PERSISTENCE_ALIASES,
-        )
-        draft["target_spec"] = prompt_choice(
-            "Target spec", target_options, default=draft["target_spec"]
-        )
 
-        if draft["persistence"] == "Sustained":
+        if "target_spec" in explicit:
+            draft["target_spec"] = prompt_choice(
+                "Target spec", target_options, default=draft["target_spec"]
+            )
+        else:
+            draft["target_spec"] = DEFAULTS["target_spec"]
+
+        if "reach" in explicit:
+            draft["reach"] = prompt_choice(
+                "Reach", reach_options, default=draft["reach"], aliases=REACH_ALIASES
+            )
+        else:
+            draft["reach"] = DEFAULTS["reach"]
+
+        if "persistence" in explicit:
+            draft["persistence"] = prompt_choice(
+                "Persistence",
+                persistence_options,
+                default=draft["persistence"],
+                aliases=PERSISTENCE_ALIASES,
+            )
+        else:
+            draft["persistence"] = DEFAULTS["persistence"]
+
+        if draft["persistence"] == "Sustained" and "persistence" in explicit:
             draft["sustained_minutes"] = prompt_int(
-                "Sustained minutes (active window)", default=max(10, draft["sustained_minutes"]), min_value=1
+                "Sustained minutes (active window)",
+                default=max(10, draft["sustained_minutes"]),
+                min_value=1,
             )
         else:
             draft["sustained_minutes"] = 0
 
+        suggested_multiplier = default_hook_mode_multiplier(draft["hook"], draft["mode"])
+        print(
+            f"Suggested hook/mode multiplier from full-system table: {suggested_multiplier:.2f}"
+        )
         draft["hook_mode_multiplier"] = prompt_float(
-            "Hook/mode multiplier", default=float(draft["hook_mode_multiplier"]), min_value=0.0
+            "Hook/mode multiplier",
+            default=float(suggested_multiplier),
+            min_value=0.0,
         )
         draft["hook_mode_flat_w"] = prompt_int(
             "Hook/mode flat Watts addition", default=int(draft["hook_mode_flat_w"])
