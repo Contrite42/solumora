@@ -45,3 +45,20 @@ Maritime movement ties the coasts together on two different scales. The [[Hedun-
 Information usually arrives before volume, and systems are designed around that fact. When a route destabilizes, dispatchers reroute messages first, then cargo. Most institutions in both kingdoms survive disruption not by preventing breaks, but by preserving movement continuity across at least one channel.
 
 *See also: [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Wolfpoint]], [[Equatorial Desert]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]]*
+
+## Religion and Belief
+
+Solumora has no unified religion. What it has is [[Flux]] — real, permeating, accessible to anyone with the capacity to touch it — and five distinct cultural traditions that interpret what this means spiritually.
+
+The northern kingdom of [[Terravelle]] is shaped by the [[Covenant of Measure]], a tradition emphasizing proportionality and ethical Flux use. It has no clergy and no formal theology, but its influence runs deep: the suspicion of display, the trust in demonstrated competence, the belief that excess reveals character flaws. A Terravellian city dweller lives this tradition without thinking about it as tradition.
+
+The southern kingdom of [[Auralis]] centers on the [[Ascendant Path]], an institutional religion claiming that Flux mastery is the highest form of spiritual development. The Path is thoroughly embedded in Auralis's government, schools, and social hierarchy. Its priests (Luminants) are skilled casters who officiate at every significant life event. The Path offers a theology that makes Auralis's tier-based society feel like cosmic order.
+
+Between and beyond these institutional traditions lie three other practices: [[The Quiet Work]] of the northern territories, which treats Flux as a precise language; [[The Returners]], who believe the ancient civilization persists in the ruins and waits for contact; and [[The Ancestral Current]], a folk tradition present everywhere but formalized nowhere, which holds that Flux presence lingers in places where practitioners worked.
+
+Most people practice some blend of their region's dominant tradition and elements from the others. A Terravelle merchant honors Covenant contracts and leaves food for local spirits. An Auralis scholar speaks in Ascendant Path theological language while quietly maintaining Ancestral Current practices in their family's home. The traditions do not demand exclusivity, and boundaries blur in lived practice.
+
+The exception is the Ascendant Path, which is explicit enough in its theology that orthodox Luminants do distinguish between Path-consistent and Path-inconsistent beliefs. This creates an undercurrent of tension — the Path's institutional power in Auralis contrasts with the Covenant's institutional invisibility in Terravelle, a difference that reflects deeper divergence in how the two kingdoms understand authority, truth, and what Flux is for.
+
+*See also: [[Religions]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]]*
+

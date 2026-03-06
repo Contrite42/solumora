@@ -1,0 +1,13 @@
+**Pellam Vores** is twenty-nine years old and works in the [[Crestward Research Nexus]] conducting Flux-related research under informal supervision by the [[Culmination Faction]]. [[Control Tier|T5]]. She assessed T6 at age twelve, which is rare enough to be noticed by institutional talent scouts. Her family is minor merchant (Bluff District origins) rather than elite, so the pathway upward required demonstrating sufficient research competence that the Crestward institutions were willing to invest in training her.
+
+She completed formal apprenticeships in theory and practice, published a paper on control mechanisms in Pentagon sigils that was well-regarded, and was offered a position at the Nexus five years ago. She works on projects that are officially "open" research (publishable, defensible) but that have strategic value to the Council's agenda.
+
+Pellam is personally driven by genuine intellectual curiosity about Flux mechanics and would probably be researching regardless of institutional support. The Crestward position allows her to pursue the research seriously with equipment and support she could not have accessed independently. The tradeoff is that her research agenda is, gently, aligned toward questions the Council considers strategically important rather than toward whatever she might have chosen independently.
+
+She is aware of this tension and has not resolved it. The work is fascinating. The institutional support is genuinely helpful. The fact that her research directions are mildly influenced by Council interests is something she has accepted as the cost of having the position at all.
+
+She lives in the Crestward in a small estate that the Nexus maintains for promising researchers. She is unmarried, maintains several professional friendships among other elite researchers, and has not had time to develop significant social relationships outside her work. She is aware this is unusual by Crestward standards, where strategic family alliances are normal, and she has accepted that she is unlikely to develop such alliances unless her research success becomes dramatically more prominent.
+
+She has recently been asked to consult on a project investigating the mechanism of Flux incursions near anomalous ruins sites. The project has both scientific interest and obvious strategic importance. She has accepted. She does not know whether this is advancement or whether accepting has compromised her future independence.
+
+*See also: [[Solhaven]], [[The Crestward]], [[Auralis]], [[Crestward Research Nexus]], [[Culmination Faction]], [[Control Tier]], [[Flux]], [[Ordinary Life in Auralis]]*

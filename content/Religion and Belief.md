@@ -32,4 +32,4 @@ The Quiet Work holds that [[Flux]] is a language and that the purpose of a life 
 
 The Quiet Work has no afterlife doctrine. When you stop working, the work continues without you, and that is sufficient.
 
-*See also: [[Terravelle]], [[Auralis]], [[Wolfpoint]], [[Flux]], [[Flux Users]], [[Birth Runes]], [[Hadren Cosse]], [[Ascendant Path]], [[Covenant of Measure]]*
+*See also: [[Religions]], [[Terravelle]], [[Auralis]], [[Wolfpoint]], [[Flux]], [[Flux Users]], [[Birth Runes]], [[Hadren Cosse]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]]*

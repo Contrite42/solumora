@@ -1,19 +1,32 @@
 # Task Queue
 
+## CONCURRENT AGENT OWNERSHIP (ACTIVE)
+
+Use this split while Codex, Claude Code, and Copilot Auto run simultaneously.
+
+- `Codex` (control plane owner): only agent allowed to edit `agent/TASK_QUEUE.md`, `agent/TASK.md`, `agent/COORDINATION.md`, `agent/DECISIONS.md`, and `agent/staging/CLAIMED.md`.
+- `Claude Code` (core content lane): writes new or append world content in `content/` for assigned queue goals only. Does not edit control-plane files.
+- `Copilot Auto` (artifact plus integrity lane): handles assigned artifact/story tasks, runs canon/link QA, and updates `agent/reports/inconsistencies.md` plus `agent/reports/links_applied.md`.
+- Shared staging note: all agents may append status notes to `agent/staging/PENDING_REVIEW.md` using prefix `[Agent][YYYY-MM-DD HH:MM]`.
+- Conflict rule: if another agent is already editing a file, stop and hand off through `agent/staging/PENDING_REVIEW.md` instead of writing.
+
 ## CURRENT REVIEW GATE (DO THIS FIRST)
 
 - [ ] **Operator decision first** - Resolve routine review outcomes without creator input.
   **How:** For low-impact batches, operators set `Active Review Decision` status directly.
   **Reject case:** If invalid links/canon mismatches appear, reject with fix notes and rerun.
+  **Owner:** `Codex`
 
 - [ ] **Creator escalation only when needed**
   **Escalate only for:** world structure, core storyline, principal characters, or major events.
   **Format:** Write creator decision in `agent/DECISIONS.md` with at least 3 options (A/B/C).
   **Done when:** creator sets chosen option in `agent/DECISIONS.md`.
+  **Owner:** `Codex`
 ---
 ## ✅ FOREVER TASK — Canon + Links Integrity (Run Every Cycle)
 
 - [ ] **Goal:** Maintain world coherence and navigability after every content expansion.
+  **Owner:** `Copilot Auto` (default), `Codex` (fallback)
 - **Constraints:**
   - **Backlinks:** Every new or updated note must be reachable from at least one appropriate hub page (ex: [[Solumora]], [[Auralis]], [[Terravelle]], [[Desert Zakros]], [[Flux]], [[Grimoires]], [[Factions]], [[Religions]], [[History]], [[People]]).
   - **No Orphans:** No new note should exist without at least **3 outbound links** and at least **1 inbound link** from a hub or parent topic.
@@ -48,11 +61,11 @@ Blocked tasks are marked with their dependency.
   **Constraints:** Factions must have logistics: funding, recruitment, rules, enemies, and what they trade in (information, grimoires, routes, protection).  
   **Output:** 1 hub note [[Factions]] + 12 faction notes + link each into relevant kingdom pages.
 
-- [ ] **Goal:** Create the **Religion hub** tied to Flux + the equator barrier.  
+- [x] **Goal:** Create the **Religion hub** tied to Flux + the equator barrier.  
   **Constraints:** 3–5 religions. Each must have: core doctrine, rituals, taboo, political relationship to grimoires, and how common people practice it.  
   **Output:** [[Religions]] hub + 5 religion notes + update [[Solumora]].
 
-- [ ] **Goal:** Make **Auralis** feel like a place by building 1 capital city + 3 districts + the people moving inside them.  
+- [x] **Goal:** Make **Auralis** feel like a place by building 1 capital city + 3 districts + the people moving inside them.  
   **Constraints:** Dense urban basin, engineered with Flux. Each district must have its own economy + social pressure + recurring NPCs.  
   **Output:** 8 notes (capital + districts + 4 people) + update [[Auralis]].
 
