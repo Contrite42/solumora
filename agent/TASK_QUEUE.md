@@ -130,7 +130,7 @@ Blocked tasks are marked with their dependency.
 - [ ] **TASK-10** — Cassia: what she actually knows
   Cassia is constrained but she's not passive. What information does she have access to that she hasn't shared? What is she doing with it? Needs a "People in Motion" style append.
 
-- [ ] **TASK-11** — Bren Ossve (rural T7) developed
+- [x] **TASK-11** — Bren Ossve (rural T7) developed
   A T7 practitioner living rurally and declining Path service pressure is one of the world's most interesting tensions. His page likely needs significant expansion.
 
 ---

@@ -1,13 +1,12 @@
 ﻿# Coordination Log
 
 ## Active Task
-- TASK-09 and TASK-10 from `agent/TASK.md` (append-only updates to Doss Varn, Orre Cavlt, Cavel Dorst, Cassia).
+- Completed TASK-09/TASK-10 cycle; continuing queued world-building.
 
 ## Current Status
 - Operator-owned appends are applied to `content/Doss Varn.md`, `content/Orre Cavlt.md`, and `content/Cavel Dorst.md`.
-- `agent/staging/PENDING_REVIEW.md` has been restaged as Cassia-only rewrite batch `2R1`.
-- `agent/DECISIONS.md` active review block repaired with valid `REVIEW_DECISION` markers and creator-owned pending status.
-- Batch 2 (`content/Cavel Dorst.md`, `content/Cassia.md`) has been regenerated with tighter canon alignment and is pending creator decision.
+- Creator-approved Cassia rewrite (`2R1`) has been applied to `content/Cassia.md`.
+- Added Bren Ossve expansion in `content/Bren Ossve.md` (`## The Requests`) and marked TASK-11 complete in `agent/TASK_QUEUE.md`.
 
 ## Operator Role Assignment
 - Current operator (Codex): reviewer + repair agent.
@@ -27,14 +26,11 @@
 - Recorded `REJECTED` guidance in `agent/DECISIONS.md` for the current pending draft (broken link + batch scope issues).
 
 ## Open Items
-- Creator review required for `content/Cassia.md` batch `2R1` in `agent/DECISIONS.md`.
-- After creator approval, append staged `## What She Knows` section to `content/Cassia.md`.
-- If creator rejects, regenerate Cassia section using explicit rejection notes.
+- Pick next scoped build item from `agent/TASK_QUEUE.md` (Trade & Travel spine recommended next major chunk).
 - `agent/staging/orchestrator.lock` may still reference stale PID; avoid destructive process commands.
-- Await creator decision on regenerated batch 2 in `agent/DECISIONS.md`.
 
 ## Next Operator Checklist
-1. Wait for creator decision on active Cassia review gate (`APPROVED` or `REJECTED`).
-2. On `APPROVED`, append staged Cassia section and close TASK-09/TASK-10.
-3. On `REJECTED`, rewrite Cassia batch from creator notes and restage.
-4. Keep escalation strict to principal-character/major-impact edits.
+1. Draft the first 2-3 notes for the Trade & Travel spine to establish route and logistics foundations.
+2. Update nearest hubs with append-only linkage blocks.
+3. Run canon/link coherence check and update reports.
+4. Escalate only if world-structure decisions are required.

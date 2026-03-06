@@ -9,3 +9,17 @@ In forty years of practice she has had one case that required her full range. Th
 The guild offered her a teaching position in Greyveil when she was thirty-two. She declined. They have not asked again.
 
 *See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Covenant of Measure]], [[Greyveil]], [[Flux Users]], [[Control Tier]]*
+
+## The Requests
+
+The pressure on Bren has never arrived as an order. It arrives as requests framed as service.
+
+In her thirties, the requests came from Terravelle institutions: guild chapters, medical administrators, and occasionally Crown intermediaries who preferred to sound informal while discussing formal appointments. The argument was always practical. A T7 in one upland valley is an inefficient allocation of rare capability. There are urban districts and military hospitals where she could do measurable good at scale.
+
+In her forties, the requests widened. Some came through neutral trade contacts who had done business with [[Auralis]] houses for years, carrying invitations to visit southern research programs "without commitment." Others came from clerical scholars associated with the [[Ascendant Path]], interested in whether her refusal reflected doctrine, politics, or temperament. Bren declined to answer on all three points. She treated the visitors politely, offered tea, and sent them away with the same response she gave everyone else: she already has work.
+
+The pressure does not stop because she is right or wrong. It stops when the season turns difficult and resumes when roads are passable again. What she has learned is that refusal has to be maintained like a boundary wall; one neglected stretch invites the next person through.
+
+Her neighbors understand the practical side of this better than the officials do. If Bren leaves, the nearest practitioner with her range is days away in good weather, farther in rain. People who live in those hills measure policy in travel time. Bren does too.
+
+*See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Covenant of Measure]], [[Greyveil]], [[Flux Users]], [[Control Tier]], [[Auralis]], [[Ascendant Path]]*
