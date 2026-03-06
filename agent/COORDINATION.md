@@ -40,6 +40,9 @@
 - Claude Code: temporarily offline; no active assignments until back online.
 - Creator escalation reserved for major canon/story decisions only.
 
+## Workflow Constraints
+- **Map edits**: ALL changes to `quartz/components/SolumoraMap.tsx` must go through the Copilot pipeline (add task to `TASK_QUEUE.md`, do not edit directly). Direct edits are for emergency fixes only.
+
 ## Open Items
 - `agent/staging/orchestrator.lock` may reference stale PID — avoid destructive process commands.
 - `agent/staging/PENDING_REVIEW.md` contains resolved Batch 2 record; can be pruned/rotated on next cleanup pass.
