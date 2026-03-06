@@ -34,4 +34,42 @@ The black market persists because demand exists and legal supply is restricted b
 
 Enforcement is also difficult. Grimoires are small, portable, and hard to distinguish from legal texts unless inspected closely. Cross-border trade makes tracking even harder — a grimoire copied in [[Auralis]] and sold in [[Terravelle]] may pass through three intermediaries before reaching the buyer, and tracing the lineage back takes resources most authorities don't allocate.
 
-*See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Rare Grimoire]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Watts]], [[Terravelle]], [[Auralis]], [[Valdenmoor]], [[Solhaven]]*
+## Operational Networks
+
+While black market grimoire circulation appears fragmented from law enforcement perspectives, several coordinated networks operate sustained illicit trade across both kingdoms:
+
+**[[Midden Exchange]]** — A cross-border smuggling network exploiting the [[Ashford-Halveth Courier Road]] trade corridor. Approximately 30-40 participants (couriers, brokers, scriveners, border specialists) move unauthorized grimoires disguised as legitimate document traffic. The network operates through compartmentalized relationships rather than centralized leadership, generating 8,000-12,000 [[Watts]] annually across all participants. Most involved are legitimate operators for whom smuggling represents secondary income alongside legal work.
+
+**[[Solhaven Copymark]]** — An authentication forgery operation producing fake [[Guild Scrivener Network]] seals, institutional library stamps, and provenance documentation. Three core practitioners with [[Control Tier|Tier 3-5]] capabilities create authentication marks sophisticated enough to pass casual inspection and lightweight review. The operation has functioned for approximately eleven years, generating 12,000-18,000 Watts annually by solving the credibility problem that makes black market purchases risky for buyers.
+
+**[[Northern Lens]]** — A distributed rural copying network across [[Terravelle]], consisting of 15-20 independent scriveners producing unauthorized [[Common Grimoire|Common]] and [[Uncommon Grimoire]] copies for practitioners who cannot access urban guild services. Operations are low-volume (30-50 grimoires per copyist per year), quality-focused, and serve genuine market needs in underserved rural populations. The network functions through reputation and source-material sharing rather than formal organization.
+
+These networks represent different black market segments: cross-border smuggling for high-value restricted materials, authentication fraud for credibility enhancement, and rural production for underserved legitimate demand. They operate independently but occasionally intersect — [[Midden Exchange]] participants sometimes use [[Solhaven Copymark]] services for authentication, [[Northern Lens]] copyists occasionally supply source materials to smuggling networks.
+
+## Smuggling Methods
+
+Underground grimoire circulation exploits existing legitimate trade infrastructure through several established methods:
+
+**Document Concealment** — Grimoires travel hidden among large volumes of legitimate documents in courier shipments. A grimoire packed with fifty pages of contracts and correspondence is nearly invisible unless inspectors specifically target that shipment. Success depends on using licensed couriers with clean histories, maintaining low smuggling volume relative to legitimate traffic, and avoiding materials that would trigger intensive investigation if discovered.
+
+**Desert Crossing Circuits** — Grimoires move with [[Desert Zakros]] expedition equipment, guide manifests, or crossing party personal effects. This route experiences less inspection intensity than commercial trade corridors but is slower and more expensive.  Used primarily for high-risk materials too dangerous to move through standard courier channels.
+
+**Coastal Packet Infiltration** — Maritime logistics through [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] provide opportunistic smuggling capacity. Grimoires travel with merchant cargo or passenger luggage where inspection is minimal. Limited capacity and unpredictable timing make this a secondary route for materials that cannot move through primary channels.
+
+**Institutional Disguise** — High-tier grimoires occasionally move through legitimate institutional channels using forged authentication that makes them appear to be legal transfers. This method requires sophisticated authentication forgery ([[Solhaven Copymark]] capabilities) and is reserved for extremely valuable materials where the risk-return balance justifies the operational complexity.
+
+## Underground Practitioners
+
+Black market circulation depends on practitioners operating outside guild oversight:
+
+**Unlicensed Copyists** — Rural scriveners like [[Voss Neln]], [[Mira Seln]], and [[Cor Venn]] produce functional grimoires for practitioners who cannot access urban guild services. Most work in [[Control Tier|T2-T3]] range producing [[Common Grimoire]] utilities, though some handle occasional [[Rare Grimoire]] copying when buyers provide source materials.
+
+**Authentication Forgers** — Specialists like [[Marn Ols]] (T5), [[Trel Brendt]] (T3), and [[Ven Kort]] (T2) create fake guild seals, library stamps, and provenance documentation that make unauthorized grimoires appear legitimate. This work requires technical sophistication and carries significant risk.
+
+**Brokers and Intermediaries** — Operators like [[Cor Mals]] connect buyers seeking black market grimoires to production and smuggling networks without exposing either party to unnecessary risk. They manage reputation, assess grimoire quality, coordinate transactions, and insulate participants through compartmentalized relationships.
+
+**Border Specialists** — Individuals like [[Ren Cors]] provide intelligence about customs enforcement patterns, inspection intensity, and optimal crossing timing. They do not smuggle personally but sell intelligence that makes successful smuggling more likely.
+
+These practitioners represent different capability levels and risk tolerances. Rural copyists perform relatively low-risk work serving genuine demand. Authentication forgers perform technically sophisticated high-risk operations. Brokers manage relationships and reputation. Border specialists sell intelligence. Together, they create operational infrastructure that makes black market circulation function as distributed but coherent system.
+
+*See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Rare Grimoire]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Watts]], [[Terravelle]], [[Auralis]], [[Valdenmoor]], [[Solhaven]], [[Midden Exchange]], [[Solhaven Copymark]], [[Northern Lens]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Ashford-Halveth Courier Road]], [[Desert Zakros]]*
