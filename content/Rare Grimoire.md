@@ -123,23 +123,6 @@ Locks a spoken agreement between two individuals at the Soul level — both part
 
 ---
 
-**Mindbreak**
-Delivers a catastrophic neuro-disruptive pulse targeted at a single individual, causing complete sensory collapse and rendering them non-functional for up to one hour.
-| Variable | Value |
-|---|---|
-| Shape | Circle |
-| Hook | Emit |
-| Mode | Affect |
-| Control Tier | T6 |
-| Discipline | Mind |
-| Output | Neuro |
-| Pattern | Point |
-| Reach | Medium |
-| Persistence | Timed (Long) |
-| Target | Individual |
-
----
-
 **Fluxsever**
 Severs the Flux connection of a single target individual, temporarily blocking their ability to channel or activate sigils.
 | Variable | Value |
@@ -476,39 +459,3 @@ Sustains a crackling electrical storm field across a wide area, delivering conti
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Group     |
-
----
-
-**Soul Dampen Cone**
-Reduces soul flux as a fan spread at self reach, targeting a grouped cluster with immediate discharge by creating a fresh flux expression.
-| Variable | Value |
-|---|---|
-| Shape | Square |
-| Hook | Dampen |
-| Mode | Create |
-| Control Tier | T5 |
-| Discipline | Soul |
-| Output | Soul |
-| Pattern | Cone |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | Group |
-
-
----
-
-**Soulsurge**
-A spell that amplifies effects using soul magic.
-| Variable | Value |
-|---|---|
-| Shape | Square |
-| Hook | Amplify |
-| Mode | Affect |
-| Control Tier | T5 |
-| Discipline | Soul |
-| Output | Neuro |
-| Pattern | Cylinder |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | Filter |
-

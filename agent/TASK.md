@@ -42,6 +42,20 @@ BLOCKED - Awaiting creator escalation decision. Research phase permitted.
 
 ---
 
+## Operator Override Completed (2026-03-06)
+
+Grimoire hygiene pass completed outside High Demon scope:
+- Removed malformed/low-quality generated spell entries from tiered grimoires.
+- Normalized spell-entry formatting across `Common`, `Uncommon`, `Rare`, `Legendary`, `Mythic`, and `Pale` grimoires.
+- Removed all individual spell pages under `content/Spells/`.
+- Updated hubs so spell references now point to tiered grimoires as canonical lookup sources.
+
+Policy now active for pipeline work:
+- Do not create new `content/Spells/*.md` pages.
+- Add and maintain spells only inside tiered grimoire files.
+
+---
+
 ## Archived Batch Notes (Do Not Execute)
 
 Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]
