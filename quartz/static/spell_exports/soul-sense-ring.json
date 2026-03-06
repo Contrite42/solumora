@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Sense Ring",
+    "summary": "Detects soul flux as a ring perimeter at short reach, targeting the inscribed anchor with short timed hold with active regulation while it runs.",
+    "effect_description": "Detects soul flux as a ring perimeter at short reach, targeting the inscribed anchor with short timed hold with active regulation while it runs. A circle sense/control recipe that channels soul discipline into soul output. It applies a ring pattern against where written across short reach with timed short persistence.",
+    "hook": "Sense",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Ring",
+    "reach": "Short",
+    "persistence": "Timed Short",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 15,
+    "reach_w": 5,
+    "persistence_w": 5,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4150,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "total_w": 10084,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Sense Ring** | Circle | Sense | Control | T6 | Soul | Soul | Ring | Short | Timed Short | Where Written |"
+}

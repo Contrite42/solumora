@@ -1,0 +1,18 @@
+{
+  "name": "Light Shape Cylinder",
+  "summary": "Refines light sonic flux as a column volume at anchored reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.",
+  "effect_description": "Refines light sonic flux as a column volume at anchored reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression. A pentagon shape/create recipe that channels light discipline into sonic output. It applies a cylinder pattern against filter across anchored reach with immediate persistence.",
+  "hook": "Shape",
+  "mode": "Create",
+  "shape": "Pentagon",
+  "discipline": "Light",
+  "output_mode": "Sonic",
+  "pattern": "Cylinder",
+  "reach": "Anchored",
+  "persistence": "Immediate",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.38,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

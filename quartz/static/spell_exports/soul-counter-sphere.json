@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Counter Sphere",
+    "summary": "Disrupts soul flux as a spherical envelope at touch reach, targeting one object with immediate discharge with active regulation while it runs.",
+    "effect_description": "Disrupts soul flux as a spherical envelope at touch reach, targeting one object with immediate discharge with active regulation while it runs. A pentagon counter/control recipe that channels soul discipline into soul output. It applies a sphere pattern against object across touch reach with immediate persistence.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Pentagon",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Sphere",
+    "reach": "Touch",
+    "persistence": "Immediate",
+    "target_spec": "Object",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 1500,
+    "pattern_w": 30,
+    "reach_w": 2,
+    "persistence_w": 0,
+    "target_w": 2,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 1534,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 5384,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Counter Sphere** | Pentagon | Counter | Control | T6 | Soul | Soul | Sphere | Touch | Immediate | Object |"
+}

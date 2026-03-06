@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Shape Cylinder",
+    "summary": "Refines soul flux as a column volume at medium reach, targeting the caster with latched hold by creating a fresh flux expression.",
+    "effect_description": "Refines soul flux as a column volume at medium reach, targeting the caster with latched hold by creating a fresh flux expression. A circle shape/create recipe that channels soul discipline into soul output. It applies a cylinder pattern against self across medium reach with latched persistence.",
+    "hook": "Shape",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Cylinder",
+    "reach": "Medium",
+    "persistence": "Latched",
+    "target_spec": "Self",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.38,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 20,
+    "reach_w": 15,
+    "persistence_w": 40,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4200,
+    "hook_mode_multiplier": 1.38,
+    "hook_mode_flat_w": 0,
+    "total_w": 5796,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Shape Cylinder** | Circle | Shape | Create | T6 | Soul | Soul | Cylinder | Medium | Latched | Self |"
+}

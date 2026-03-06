@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Chemical Move Cone",
+    "summary": "Repositions chemical reactive flux as a fan spread at self reach, targeting a filtered selection with immediate discharge by changing existing conditions.",
+    "effect_description": "Repositions chemical reactive flux as a fan spread at self reach, targeting a filtered selection with immediate discharge by changing existing conditions. A square move/affect recipe that channels chemical discipline into reactive output. It applies a cone pattern against filter across self reach with immediate persistence.",
+    "hook": "Move",
+    "mode": "Affect",
+    "shape": "Square",
+    "discipline": "Chemical",
+    "output_mode": "Reactive",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.5,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 40,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 110,
+    "hook_mode_multiplier": 1.5,
+    "hook_mode_flat_w": 0,
+    "total_w": 165,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Chemical Move Cone** | Square | Move | Affect | T3 | Chemical | Reactive | Cone | Self | Immediate | Filter |"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Soul Dampen Ring",
+  "summary": "Reduces soul flux as a ring perimeter at linked reach, targeting a filtered selection with immediate discharge with active regulation while it runs.",
+  "effect_description": "Reduces soul flux as a ring perimeter at linked reach, targeting a filtered selection with immediate discharge with active regulation while it runs. A circle dampen/control recipe that channels soul discipline into soul output. It applies a ring pattern against filter across linked reach with immediate persistence.",
+  "hook": "Dampen",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Ring",
+  "reach": "Linked",
+  "persistence": "Immediate",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.565,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

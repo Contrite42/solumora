@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Binding Bind Point",
+    "summary": "Anchors binding raw flux as a point focus at self reach, targeting a marked signature with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Anchors binding raw flux as a point focus at self reach, targeting a marked signature with immediate discharge by creating a fresh flux expression. A square bind/create recipe that channels binding discipline into raw output. It applies a point pattern against marked across self reach with immediate persistence.",
+    "hook": "Bind",
+    "mode": "Create",
+    "shape": "Square",
+    "discipline": "Binding",
+    "output_mode": "Raw",
+    "pattern": "Point",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Marked",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.8399999999999999,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 80,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 15,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 125,
+    "hook_mode_multiplier": 1.8399999999999999,
+    "hook_mode_flat_w": 0,
+    "total_w": 230,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Binding Bind Point** | Square | Bind | Create | T3 | Binding | Raw | Point | Self | Immediate | Marked |"
+}

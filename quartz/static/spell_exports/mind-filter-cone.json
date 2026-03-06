@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Filter Cone",
+    "summary": "Screens mind shock flux as a fan spread at medium reach, targeting the caster with immediate discharge by changing existing conditions.",
+    "effect_description": "Screens mind shock flux as a fan spread at medium reach, targeting the caster with immediate discharge by changing existing conditions. A pentagon filter/affect recipe that channels mind discipline into shock output. It applies a cone pattern against self across medium reach with immediate persistence.",
+    "hook": "Filter",
+    "mode": "Affect",
+    "shape": "Pentagon",
+    "discipline": "Mind",
+    "output_mode": "Shock",
+    "pattern": "Cone",
+    "reach": "Medium",
+    "persistence": "Immediate",
+    "target_spec": "Self",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 500,
+    "pattern_w": 10,
+    "reach_w": 15,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 60,
+    "subtotal_outer_w": 585,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 936,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Mind Filter Cone** | Pentagon | Filter | Affect | T4 | Mind | Shock | Cone | Medium | Immediate | Self |"
+}

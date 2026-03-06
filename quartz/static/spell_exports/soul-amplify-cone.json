@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Amplify Cone",
+    "summary": "Boosts soul flux as a fan spread at self reach, targeting one individual with sustained channeling by creating a fresh flux expression.",
+    "effect_description": "Boosts soul flux as a fan spread at self reach, targeting one individual with sustained channeling by creating a fresh flux expression. A circle amplify/create recipe that channels soul discipline into soul output. It applies a cone pattern against individual across self reach with sustained persistence. The sustained window is set to 50 minutes.",
+    "hook": "Amplify",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Sustained",
+    "target_spec": "Individual",
+    "sustained_minutes": 50,
+    "hook_mode_multiplier": 2.53,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 50,
+    "target_w": 8,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4193,
+    "hook_mode_multiplier": 2.53,
+    "hook_mode_flat_w": 0,
+    "total_w": 10608,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Amplify Cone** | Circle | Amplify | Create | T6 | Soul | Soul | Cone | Self | Sustained | Individual |"
+}

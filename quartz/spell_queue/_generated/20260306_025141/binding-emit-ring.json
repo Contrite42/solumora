@@ -1,0 +1,18 @@
+{
+  "name": "Binding Emit Ring",
+  "summary": "Releases binding reactive flux as a ring perimeter at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs.",
+  "effect_description": "Releases binding reactive flux as a ring perimeter at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs. A pentagon emit/control recipe that channels binding discipline into reactive output. It applies a ring pattern against surface across long reach with immediate persistence.",
+  "hook": "Emit",
+  "mode": "Control",
+  "shape": "Pentagon",
+  "discipline": "Binding",
+  "output_mode": "Reactive",
+  "pattern": "Ring",
+  "reach": "Long",
+  "persistence": "Immediate",
+  "target_spec": "Surface",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.35,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Binding Emit Ring",
+    "summary": "Releases binding reactive flux as a ring perimeter at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs.",
+    "effect_description": "Releases binding reactive flux as a ring perimeter at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs. A pentagon emit/control recipe that channels binding discipline into reactive output. It applies a ring pattern against surface across long reach with immediate persistence.",
+    "hook": "Emit",
+    "mode": "Control",
+    "shape": "Pentagon",
+    "discipline": "Binding",
+    "output_mode": "Reactive",
+    "pattern": "Ring",
+    "reach": "Long",
+    "persistence": "Immediate",
+    "target_spec": "Surface",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 200,
+    "pattern_w": 15,
+    "reach_w": 40,
+    "persistence_w": 0,
+    "target_w": 5,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 270,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "total_w": 364,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Binding Emit Ring** | Pentagon | Emit | Control | T3 | Binding | Reactive | Ring | Long | Immediate | Surface |"
+}

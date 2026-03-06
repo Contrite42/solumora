@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Counter Beam",
+    "summary": "Disrupts soul flux as a directed line at long reach, targeting a prepared surface with long timed hold with active regulation while it runs.",
+    "effect_description": "Disrupts soul flux as a directed line at long reach, targeting a prepared surface with long timed hold with active regulation while it runs. A circle counter/control recipe that channels soul discipline into soul output. It applies a beam pattern against surface across long reach with timed long persistence.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Beam",
+    "reach": "Long",
+    "persistence": "Timed Long",
+    "target_spec": "Surface",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 5,
+    "reach_w": 40,
+    "persistence_w": 25,
+    "target_w": 5,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4200,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 14742,
+    "required_tier": "T7",
+    "rarity": "Legendary"
+  },
+  "all_grimoire_row": "| **Soul Counter Beam** | Circle | Counter | Control | T7 | Soul | Soul | Beam | Long | Timed Long | Surface |"
+}

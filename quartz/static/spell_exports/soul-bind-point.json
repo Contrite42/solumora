@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Bind Point",
+    "summary": "Anchors soul thermal flux as a point focus at touch reach, targeting a marked signature with long timed hold by changing existing conditions.",
+    "effect_description": "Anchors soul thermal flux as a point focus at touch reach, targeting a marked signature with long timed hold by changing existing conditions. A circle bind/affect recipe that channels soul discipline into thermal output. It applies a point pattern against marked across touch reach with timed long persistence.",
+    "hook": "Bind",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Thermal",
+    "pattern": "Point",
+    "reach": "Touch",
+    "persistence": "Timed Long",
+    "target_spec": "Marked",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 0,
+    "reach_w": 2,
+    "persistence_w": 25,
+    "target_w": 15,
+    "output_mode_premium_w": 60,
+    "subtotal_outer_w": 4227,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 6763,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Bind Point** | Circle | Bind | Affect | T6 | Soul | Thermal | Point | Touch | Timed Long | Marked |"
+}

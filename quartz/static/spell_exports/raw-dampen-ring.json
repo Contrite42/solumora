@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Raw Dampen Ring",
+    "summary": "Reduces raw flux as a ring perimeter at line-of-sight reach, targeting one individual with long timed hold with active regulation while it runs.",
+    "effect_description": "Reduces raw flux as a ring perimeter at line-of-sight reach, targeting one individual with long timed hold with active regulation while it runs. A circle dampen/control recipe that channels raw discipline into raw output. It applies a ring pattern against individual across line-of-sight reach with timed long persistence.",
+    "hook": "Dampen",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Raw",
+    "output_mode": "Raw",
+    "pattern": "Ring",
+    "reach": "Line-of-Sight",
+    "persistence": "Timed Long",
+    "target_spec": "Individual",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.565,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 1,
+    "core_discipline_w": 55,
+    "pattern_w": 15,
+    "reach_w": 80,
+    "persistence_w": 25,
+    "target_w": 8,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 183,
+    "hook_mode_multiplier": 2.565,
+    "hook_mode_flat_w": 0,
+    "total_w": 469,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Raw Dampen Ring** | Circle | Dampen | Control | T4 | Raw | Raw | Ring | Line-of-Sight | Timed Long | Individual |"
+}

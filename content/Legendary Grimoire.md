@@ -11,7 +11,7 @@ Channels a sustained beam of raw high-tier Flux at a target, structurally degrad
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T7 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Beam |
@@ -28,7 +28,7 @@ Simultaneously severs the Flux connection of every individual within a defined f
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
-| Control Tier | T7 |
+| Control Tier | T4 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Field |
@@ -45,7 +45,7 @@ Binds two individuals together at the Soul level with a permanent tether — wha
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T7 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -62,7 +62,7 @@ Permanently severs a targeted individual's Soul signature from a specific bound 
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T8 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -79,7 +79,7 @@ Triggers a cascading reactive chemical breakdown in all organic material within 
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T7 |
+| Control Tier | T4 |
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Field |
@@ -96,7 +96,7 @@ Channels raw apex-adjacent Flux directly into a single individual's channels, ca
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
-| Control Tier | T8 |
+| Control Tier | T2 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -113,7 +113,7 @@ Generates a sustained wide-area Flux disruption field that destabilizes all acti
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
-| Control Tier | T7 |
+| Control Tier | T4 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Field |
@@ -130,7 +130,7 @@ Sends a massive kinetic shockwave through a wide area, cracking surfaces, collap
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T7 |
+| Control Tier | T3 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Field |
@@ -147,7 +147,7 @@ Applies a catastrophic kinetic force to a single structural target — wall, gat
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T8 |
+| Control Tier | T3 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
@@ -164,7 +164,7 @@ Wraps a sustained neuro-disrupting concealment field over an entire area, causin
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
-| Control Tier | T8 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Field |
@@ -181,7 +181,7 @@ Permanently destroys the higher cognitive function of a single targeted individu
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T8 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Point |
@@ -198,7 +198,7 @@ Permanently erases a targeted individual's memory of a defined period, replacing
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T7 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Point |
@@ -215,7 +215,7 @@ Cracks the Soul signature of a targeted individual, causing ongoing identity des
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T7 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -232,7 +232,7 @@ Tears a targeted individual's Soul signature partially free from their physical 
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T8 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -249,10 +249,64 @@ Erects a sustained barrier of combined sonic and kinetic force that is physicall
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T7 |
+| Control Tier | T4 |
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Plane |
 | Reach | Anchored |
 | Persistence | Sustained |
 | Target | Filter |
+
+---
+
+**Soul Counter Plane**
+Disrupts soul flux as a planar spread at anchored reach, targeting a marked signature with conditional hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | Anchored |
+| Persistence | Conditional |
+| Target | Marked |
+
+
+---
+
+**Soul Counter Cone 2**
+Disrupts soul flux as a fan spread at line-of-sight reach, targeting the caster with long timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Self |
+
+
+---
+
+**Soul Counter Beam**
+Disrupts soul flux as a directed line at long reach, targeting a prepared surface with long timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Beam |
+| Reach | Long |
+| Persistence | Timed (Long) |
+| Target | Surface |
+

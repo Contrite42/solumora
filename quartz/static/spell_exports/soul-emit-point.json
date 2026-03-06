@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Emit Point",
+    "summary": "Releases soul kinetic flux as a point focus at self reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Releases soul kinetic flux as a point focus at self reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression. A pentagon emit/create recipe that channels soul discipline into kinetic output. It applies a point pattern against surface across self reach with immediate persistence.",
+    "hook": "Emit",
+    "mode": "Create",
+    "shape": "Pentagon",
+    "discipline": "Soul",
+    "output_mode": "Kinetic",
+    "pattern": "Point",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Surface",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.15,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 1500,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 5,
+    "output_mode_premium_w": 60,
+    "subtotal_outer_w": 1565,
+    "hook_mode_multiplier": 1.15,
+    "hook_mode_flat_w": 0,
+    "total_w": 1800,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Emit Point** | Pentagon | Emit | Create | T5 | Soul | Kinetic | Point | Self | Immediate | Surface |"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Binding Move Cone",
+    "summary": "Repositions binding kinetic flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.",
+    "effect_description": "Repositions binding kinetic flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions. A triangle move/affect recipe that channels binding discipline into kinetic output. It applies a cone pattern against where written across self reach with immediate persistence.",
+    "hook": "Move",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Binding",
+    "output_mode": "Kinetic",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.5,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 30,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 50,
+    "hook_mode_multiplier": 1.5,
+    "hook_mode_flat_w": 0,
+    "total_w": 75,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Binding Move Cone** | Triangle | Move | Affect | T2 | Binding | Kinetic | Cone | Self | Immediate | Where Written |"
+}

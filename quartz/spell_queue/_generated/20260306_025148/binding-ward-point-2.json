@@ -1,0 +1,18 @@
+{
+  "name": "Binding Ward Point 2",
+  "summary": "Establishes binding reactive flux as a point focus at line-of-sight reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.",
+  "effect_description": "Establishes binding reactive flux as a point focus at line-of-sight reach, targeting a grouped cluster with immediate discharge with active regulation while it runs. A circle ward/control recipe that channels binding discipline into reactive output. It applies a point pattern against group across line-of-sight reach with immediate persistence.",
+  "hook": "Ward",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Binding",
+  "output_mode": "Reactive",
+  "pattern": "Point",
+  "reach": "Line-of-Sight",
+  "persistence": "Immediate",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.7,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

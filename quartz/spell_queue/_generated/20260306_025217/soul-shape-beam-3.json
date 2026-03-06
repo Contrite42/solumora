@@ -1,0 +1,18 @@
+{
+  "name": "Soul Shape Beam 3",
+  "summary": "Refines soul flux as a directed line at touch reach, targeting the inscribed anchor with short timed hold by changing existing conditions.",
+  "effect_description": "Refines soul flux as a directed line at touch reach, targeting the inscribed anchor with short timed hold by changing existing conditions. A circle shape/affect recipe that channels soul discipline into soul output. It applies a beam pattern against where written across touch reach with timed short persistence.",
+  "hook": "Shape",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Beam",
+  "reach": "Touch",
+  "persistence": "Timed Short",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.2,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

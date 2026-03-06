@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Heat Counter Cone",
+    "summary": "Disrupts heat thermal flux as a fan spread at self reach, targeting a prepared surface with immediate discharge by changing existing conditions.",
+    "effect_description": "Disrupts heat thermal flux as a fan spread at self reach, targeting a prepared surface with immediate discharge by changing existing conditions. A square counter/affect recipe that channels heat discipline into thermal output. It applies a cone pattern against surface across self reach with immediate persistence.",
+    "hook": "Counter",
+    "mode": "Affect",
+    "shape": "Square",
+    "discipline": "Heat",
+    "output_mode": "Thermal",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Surface",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 16,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 5,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 31,
+    "hook_mode_multiplier": 2.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 81,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Heat Counter Cone** | Square | Counter | Affect | T2 | Heat | Thermal | Cone | Self | Immediate | Surface |"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Light Shape Cylinder",
+    "summary": "Refines light sonic flux as a column volume at anchored reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Refines light sonic flux as a column volume at anchored reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression. A pentagon shape/create recipe that channels light discipline into sonic output. It applies a cylinder pattern against filter across anchored reach with immediate persistence.",
+    "hook": "Shape",
+    "mode": "Create",
+    "shape": "Pentagon",
+    "discipline": "Light",
+    "output_mode": "Sonic",
+    "pattern": "Cylinder",
+    "reach": "Anchored",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.38,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 60,
+    "pattern_w": 20,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 150,
+    "hook_mode_multiplier": 1.38,
+    "hook_mode_flat_w": 0,
+    "total_w": 207,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Light Shape Cylinder** | Pentagon | Shape | Create | T3 | Light | Sonic | Cylinder | Anchored | Immediate | Filter |"
+}

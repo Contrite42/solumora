@@ -1,0 +1,18 @@
+{
+  "name": "Mind Amplify Cone",
+  "summary": "Boosts mind neuro flux as a fan spread at self reach, targeting the inscribed anchor with long timed hold with active regulation while it runs.",
+  "effect_description": "Boosts mind neuro flux as a fan spread at self reach, targeting the inscribed anchor with long timed hold with active regulation while it runs. A circle amplify/control recipe that channels mind discipline into neuro output. It applies a cone pattern against where written across self reach with timed long persistence.",
+  "hook": "Amplify",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "output_mode": "Neuro",
+  "pattern": "Cone",
+  "reach": "Self",
+  "persistence": "Timed Long",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.9700000000000006,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

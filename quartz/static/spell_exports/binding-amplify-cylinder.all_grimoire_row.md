@@ -1,1 +1,1 @@
-| **Binding Amplify Cylinder** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cylinder | Self | Immediate | Where Written |
+| **Binding Amplify Cylinder** | Square | Amplify | Affect | T3 | Binding | Neuro | Cylinder | Self | Immediate | Object |

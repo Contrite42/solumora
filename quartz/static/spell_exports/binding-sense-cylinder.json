@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Binding Sense Cylinder",
+    "summary": "Detects binding constraint flux as a column volume at long reach, targeting a filtered selection with short timed hold by creating a fresh flux expression.",
+    "effect_description": "Detects binding constraint flux as a column volume at long reach, targeting a filtered selection with short timed hold by creating a fresh flux expression. A circle sense/create recipe that channels binding discipline into constraint output. It applies a cylinder pattern against filter across long reach with timed short persistence.",
+    "hook": "Sense",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Binding",
+    "output_mode": "Constraint",
+    "pattern": "Cylinder",
+    "reach": "Long",
+    "persistence": "Timed Short",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 550,
+    "pattern_w": 20,
+    "reach_w": 40,
+    "persistence_w": 5,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 675,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "total_w": 1397,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Binding Sense Cylinder** | Circle | Sense | Create | T5 | Binding | Constraint | Cylinder | Long | Timed Short | Filter |"
+}

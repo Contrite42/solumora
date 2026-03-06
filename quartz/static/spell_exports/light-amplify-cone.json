@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Light Amplify Cone",
+    "summary": "Boosts light photonic flux as a fan spread at long reach, targeting one individual with immediate discharge by changing existing conditions.",
+    "effect_description": "Boosts light photonic flux as a fan spread at long reach, targeting one individual with immediate discharge by changing existing conditions. A circle amplify/affect recipe that channels light discipline into photonic output. It applies a cone pattern against individual across long reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Light",
+    "output_mode": "Photonic",
+    "pattern": "Cone",
+    "reach": "Long",
+    "persistence": "Immediate",
+    "target_spec": "Individual",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 165,
+    "pattern_w": 10,
+    "reach_w": 40,
+    "persistence_w": 0,
+    "target_w": 8,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 223,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 491,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Light Amplify Cone** | Circle | Amplify | Affect | T4 | Light | Photonic | Cone | Long | Immediate | Individual |"
+}

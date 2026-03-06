@@ -1,0 +1,18 @@
+{
+  "name": "Soul Ward Plane",
+  "summary": "Establishes soul flux as a planar spread at line-of-sight reach, targeting one object with immediate discharge by changing existing conditions.",
+  "effect_description": "Establishes soul flux as a planar spread at line-of-sight reach, targeting one object with immediate discharge by changing existing conditions. A circle ward/affect recipe that channels soul discipline into soul output. It applies a plane pattern against object across line-of-sight reach with immediate persistence.",
+  "hook": "Ward",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Plane",
+  "reach": "Line-of-Sight",
+  "persistence": "Immediate",
+  "target_spec": "Object",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.0,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

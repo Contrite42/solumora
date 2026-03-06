@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Transform Plane",
+    "summary": "Reconfigures soul flux as a planar spread at line-of-sight reach, targeting a filtered selection with immediate discharge by changing existing conditions.",
+    "effect_description": "Reconfigures soul flux as a planar spread at line-of-sight reach, targeting a filtered selection with immediate discharge by changing existing conditions. A circle transform/affect recipe that channels soul discipline into soul output. It applies a plane pattern against filter across line-of-sight reach with immediate persistence.",
+    "hook": "Transform",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Plane",
+    "reach": "Line-of-Sight",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.7,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 0,
+    "reach_w": 80,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4265,
+    "hook_mode_multiplier": 1.7,
+    "hook_mode_flat_w": 0,
+    "total_w": 7250,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Transform Plane** | Circle | Transform | Affect | T6 | Soul | Soul | Plane | Line-of-Sight | Immediate | Filter |"
+}

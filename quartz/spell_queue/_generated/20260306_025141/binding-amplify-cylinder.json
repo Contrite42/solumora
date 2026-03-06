@@ -1,0 +1,18 @@
+{
+  "name": "Binding Amplify Cylinder",
+  "summary": "Boosts binding neuro flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions.",
+  "effect_description": "Boosts binding neuro flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions. A square amplify/affect recipe that channels binding discipline into neuro output. It applies a cylinder pattern against object across self reach with immediate persistence.",
+  "hook": "Amplify",
+  "mode": "Affect",
+  "shape": "Square",
+  "discipline": "Binding",
+  "output_mode": "Neuro",
+  "pattern": "Cylinder",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Object",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.2,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

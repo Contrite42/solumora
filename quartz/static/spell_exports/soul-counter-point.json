@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Counter Point",
+    "summary": "Disrupts soul neuro flux as a point focus at line-of-sight reach, targeting one individual with sustained channeling by creating a fresh flux expression.",
+    "effect_description": "Disrupts soul neuro flux as a point focus at line-of-sight reach, targeting one individual with sustained channeling by creating a fresh flux expression. A circle counter/create recipe that channels soul discipline into neuro output. It applies a point pattern against individual across line-of-sight reach with sustained persistence. The sustained window is set to 20 minutes.",
+    "hook": "Counter",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Neuro",
+    "pattern": "Point",
+    "reach": "Line-of-Sight",
+    "persistence": "Sustained",
+    "target_spec": "Individual",
+    "sustained_minutes": 20,
+    "hook_mode_multiplier": 2.9899999999999998,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 0,
+    "reach_w": 80,
+    "persistence_w": 20,
+    "target_w": 8,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4263,
+    "hook_mode_multiplier": 2.9899999999999998,
+    "hook_mode_flat_w": 0,
+    "total_w": 12746,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Counter Point** | Circle | Counter | Create | T6 | Soul | Neuro | Point | Line-of-Sight | Sustained | Individual |"
+}

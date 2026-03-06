@@ -15,7 +15,7 @@ Permanently rewrites a single individual's Flux ceiling, either elevating or col
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T9 |
+| Control Tier | T4 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -32,7 +32,7 @@ Permanently restructures the conscious identity of a single individual, replacin
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T9 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Point |
@@ -49,7 +49,7 @@ Releases a catastrophic Soul-frequency eruption across a wide field, fracturing 
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
-| Control Tier | T9 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Field |

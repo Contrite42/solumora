@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Raw Amplify Ring",
+    "summary": "Boosts raw flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
+    "effect_description": "Boosts raw flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A triangle amplify/control recipe that channels raw discipline into raw output. It applies a ring pattern against where written across self reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Control",
+    "shape": "Triangle",
+    "discipline": "Raw",
+    "output_mode": "Raw",
+    "pattern": "Ring",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.9700000000000006,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 1,
+    "core_discipline_w": 3,
+    "pattern_w": 15,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 18,
+    "hook_mode_multiplier": 2.9700000000000006,
+    "hook_mode_flat_w": 0,
+    "total_w": 53,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Raw Amplify Ring** | Triangle | Amplify | Control | T2 | Raw | Raw | Ring | Self | Immediate | Where Written |"
+}

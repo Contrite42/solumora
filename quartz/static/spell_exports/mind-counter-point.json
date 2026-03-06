@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Counter Point",
+    "summary": "Disrupts mind raw flux as a point focus at anchored reach, targeting a filtered selection with immediate discharge with active regulation while it runs.",
+    "effect_description": "Disrupts mind raw flux as a point focus at anchored reach, targeting a filtered selection with immediate discharge with active regulation while it runs. A circle counter/control recipe that channels mind discipline into raw output. It applies a point pattern against filter across anchored reach with immediate persistence.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Raw",
+    "pattern": "Point",
+    "reach": "Anchored",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 1465,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 5142,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Counter Point** | Circle | Counter | Control | T6 | Mind | Raw | Point | Anchored | Immediate | Filter |"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Amplify Ring",
+    "summary": "Boosts soul thermal flux as a ring perimeter at short reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Boosts soul thermal flux as a ring perimeter at short reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression. A pentagon amplify/create recipe that channels soul discipline into thermal output. It applies a ring pattern against filter across short reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Create",
+    "shape": "Pentagon",
+    "discipline": "Soul",
+    "output_mode": "Thermal",
+    "pattern": "Ring",
+    "reach": "Short",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.53,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 1500,
+    "pattern_w": 15,
+    "reach_w": 5,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 60,
+    "subtotal_outer_w": 1640,
+    "hook_mode_multiplier": 2.53,
+    "hook_mode_flat_w": 0,
+    "total_w": 4149,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Amplify Ring** | Pentagon | Amplify | Create | T6 | Soul | Thermal | Ring | Short | Immediate | Filter |"
+}

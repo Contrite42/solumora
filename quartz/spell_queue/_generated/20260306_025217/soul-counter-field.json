@@ -1,0 +1,18 @@
+{
+  "name": "Soul Counter Field",
+  "summary": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
+  "effect_description": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A pentagon counter/control recipe that channels soul discipline into soul output. It applies a field pattern against where written across anchored reach with immediate persistence.",
+  "hook": "Counter",
+  "mode": "Control",
+  "shape": "Pentagon",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Field",
+  "reach": "Anchored",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 3.5100000000000002,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

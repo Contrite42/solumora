@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Heat Move Beam",
+    "summary": "Repositions heat thermal flux as a directed line at self reach, targeting the caster with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Repositions heat thermal flux as a directed line at self reach, targeting the caster with immediate discharge by creating a fresh flux expression. A square move/create recipe that channels heat discipline into thermal output. It applies a beam pattern against self across self reach with immediate persistence.",
+    "hook": "Move",
+    "mode": "Create",
+    "shape": "Square",
+    "discipline": "Heat",
+    "output_mode": "Thermal",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Self",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.7249999999999999,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 16,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 21,
+    "hook_mode_multiplier": 1.7249999999999999,
+    "hook_mode_flat_w": 0,
+    "total_w": 36,
+    "required_tier": "T1",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Heat Move Beam** | Square | Move | Create | T1 | Heat | Thermal | Beam | Self | Immediate | Self |"
+}

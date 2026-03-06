@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Counter Beam",
+    "summary": "Disrupts mind neuro flux as a directed line at self reach, targeting a grouped cluster with sustained channeling with active regulation while it runs.",
+    "effect_description": "Disrupts mind neuro flux as a directed line at self reach, targeting a grouped cluster with sustained channeling with active regulation while it runs. A circle counter/control recipe that channels mind discipline into neuro output. It applies a beam pattern against group across self reach with sustained persistence. The sustained window is set to 40 minutes.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Neuro",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Sustained",
+    "target_spec": "Group",
+    "sustained_minutes": 40,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 40,
+    "target_w": 35,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 1455,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 5107,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Counter Beam** | Circle | Counter | Control | T6 | Mind | Neuro | Beam | Self | Sustained | Group |"
+}

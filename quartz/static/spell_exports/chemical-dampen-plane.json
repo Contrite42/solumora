@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Chemical Dampen Plane",
+    "summary": "Reduces chemical reactive flux as a planar spread at long reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Reduces chemical reactive flux as a planar spread at long reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression. A pentagon dampen/create recipe that channels chemical discipline into reactive output. It applies a plane pattern against surface across long reach with immediate persistence.",
+    "hook": "Dampen",
+    "mode": "Create",
+    "shape": "Pentagon",
+    "discipline": "Chemical",
+    "output_mode": "Reactive",
+    "pattern": "Plane",
+    "reach": "Long",
+    "persistence": "Immediate",
+    "target_spec": "Surface",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 100,
+    "pattern_w": 0,
+    "reach_w": 40,
+    "persistence_w": 0,
+    "target_w": 5,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 145,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "total_w": 317,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Chemical Dampen Plane** | Pentagon | Dampen | Create | T3 | Chemical | Reactive | Plane | Long | Immediate | Surface |"
+}

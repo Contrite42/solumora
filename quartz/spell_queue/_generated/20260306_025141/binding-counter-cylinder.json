@@ -1,0 +1,18 @@
+{
+  "name": "Binding Counter Cylinder",
+  "summary": "Disrupts binding kinetic flux as a column volume at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.",
+  "effect_description": "Disrupts binding kinetic flux as a column volume at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression. A triangle counter/create recipe that channels binding discipline into kinetic output. It applies a cylinder pattern against where written across self reach with immediate persistence.",
+  "hook": "Counter",
+  "mode": "Create",
+  "shape": "Triangle",
+  "discipline": "Binding",
+  "output_mode": "Kinetic",
+  "pattern": "Cylinder",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.9899999999999998,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

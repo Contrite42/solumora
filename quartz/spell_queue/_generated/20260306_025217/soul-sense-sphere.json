@@ -1,0 +1,18 @@
+{
+  "name": "Soul Sense Sphere",
+  "summary": "Detects soul shock flux as a spherical envelope at long reach, targeting one individual with conditional hold with active regulation while it runs.",
+  "effect_description": "Detects soul shock flux as a spherical envelope at long reach, targeting one individual with conditional hold with active regulation while it runs. A circle sense/control recipe that channels soul discipline into shock output. It applies a sphere pattern against individual across long reach with conditional persistence.",
+  "hook": "Sense",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Shock",
+  "pattern": "Sphere",
+  "reach": "Long",
+  "persistence": "Conditional",
+  "target_spec": "Individual",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.43,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

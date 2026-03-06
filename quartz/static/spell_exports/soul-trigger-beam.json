@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Trigger Beam",
+    "summary": "Arms soul neuro flux as a directed line at long reach, targeting the caster with short timed hold by changing existing conditions.",
+    "effect_description": "Arms soul neuro flux as a directed line at long reach, targeting the caster with short timed hold by changing existing conditions. A circle trigger/affect recipe that channels soul discipline into neuro output. It applies a beam pattern against self across long reach with timed short persistence.",
+    "hook": "Trigger",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Neuro",
+    "pattern": "Beam",
+    "reach": "Long",
+    "persistence": "Timed Short",
+    "target_spec": "Self",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.8,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 5,
+    "reach_w": 40,
+    "persistence_w": 5,
+    "target_w": 0,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4205,
+    "hook_mode_multiplier": 1.8,
+    "hook_mode_flat_w": 0,
+    "total_w": 7569,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Trigger Beam** | Circle | Trigger | Affect | T6 | Soul | Neuro | Beam | Long | Timed Short | Self |"
+}

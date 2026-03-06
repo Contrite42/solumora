@@ -1,0 +1,18 @@
+{
+  "name": "Soul Transform Plane",
+  "summary": "Reconfigures soul flux as a planar spread at line-of-sight reach, targeting a filtered selection with immediate discharge by changing existing conditions.",
+  "effect_description": "Reconfigures soul flux as a planar spread at line-of-sight reach, targeting a filtered selection with immediate discharge by changing existing conditions. A circle transform/affect recipe that channels soul discipline into soul output. It applies a plane pattern against filter across line-of-sight reach with immediate persistence.",
+  "hook": "Transform",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Plane",
+  "reach": "Line-of-Sight",
+  "persistence": "Immediate",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.7,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

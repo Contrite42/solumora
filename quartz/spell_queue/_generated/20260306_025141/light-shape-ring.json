@@ -1,0 +1,18 @@
+{
+  "name": "Light Shape Ring",
+  "summary": "Refines light photonic flux as a ring perimeter at long reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
+  "effect_description": "Refines light photonic flux as a ring perimeter at long reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A pentagon shape/control recipe that channels light discipline into photonic output. It applies a ring pattern against where written across long reach with immediate persistence.",
+  "hook": "Shape",
+  "mode": "Control",
+  "shape": "Pentagon",
+  "discipline": "Light",
+  "output_mode": "Photonic",
+  "pattern": "Ring",
+  "reach": "Long",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.62,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

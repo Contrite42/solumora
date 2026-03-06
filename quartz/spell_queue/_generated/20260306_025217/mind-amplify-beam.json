@@ -1,0 +1,18 @@
+{
+  "name": "Mind Amplify Beam",
+  "summary": "Boosts mind photonic flux as a directed line at line-of-sight reach, targeting the caster with conditional hold with active regulation while it runs.",
+  "effect_description": "Boosts mind photonic flux as a directed line at line-of-sight reach, targeting the caster with conditional hold with active regulation while it runs. A circle amplify/control recipe that channels mind discipline into photonic output. It applies a beam pattern against self across line-of-sight reach with conditional persistence.",
+  "hook": "Amplify",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "output_mode": "Photonic",
+  "pattern": "Beam",
+  "reach": "Line-of-Sight",
+  "persistence": "Conditional",
+  "target_spec": "Self",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.9700000000000006,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

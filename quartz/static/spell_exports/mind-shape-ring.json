@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Shape Ring",
+    "summary": "Refines mind reactive flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
+    "effect_description": "Refines mind reactive flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A triangle shape/control recipe that channels mind discipline into reactive output. It applies a ring pattern against where written across self reach with immediate persistence.",
+    "hook": "Shape",
+    "mode": "Control",
+    "shape": "Triangle",
+    "discipline": "Mind",
+    "output_mode": "Reactive",
+    "pattern": "Ring",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.62,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 75,
+    "pattern_w": 15,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 60,
+    "subtotal_outer_w": 150,
+    "hook_mode_multiplier": 1.62,
+    "hook_mode_flat_w": 0,
+    "total_w": 243,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Mind Shape Ring** | Triangle | Shape | Control | T3 | Mind | Reactive | Ring | Self | Immediate | Where Written |"
+}

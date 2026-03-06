@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Electric Shape Ring",
+    "summary": "Refines electric shock flux as a ring perimeter at self reach, targeting a grouped cluster with immediate discharge by changing existing conditions.",
+    "effect_description": "Refines electric shock flux as a ring perimeter at self reach, targeting a grouped cluster with immediate discharge by changing existing conditions. A square shape/affect recipe that channels electric discipline into shock output. It applies a ring pattern against group across self reach with immediate persistence.",
+    "hook": "Shape",
+    "mode": "Affect",
+    "shape": "Square",
+    "discipline": "Electric",
+    "output_mode": "Shock",
+    "pattern": "Ring",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 40,
+    "pattern_w": 15,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 35,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 90,
+    "hook_mode_multiplier": 1.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 108,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Electric Shape Ring** | Square | Shape | Affect | T2 | Electric | Shock | Ring | Self | Immediate | Group |"
+}

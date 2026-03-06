@@ -1,0 +1,18 @@
+{
+  "name": "Chemical Move Cone",
+  "summary": "Repositions chemical reactive flux as a fan spread at self reach, targeting a filtered selection with immediate discharge by changing existing conditions.",
+  "effect_description": "Repositions chemical reactive flux as a fan spread at self reach, targeting a filtered selection with immediate discharge by changing existing conditions. A square move/affect recipe that channels chemical discipline into reactive output. It applies a cone pattern against filter across self reach with immediate persistence.",
+  "hook": "Move",
+  "mode": "Affect",
+  "shape": "Square",
+  "discipline": "Chemical",
+  "output_mode": "Reactive",
+  "pattern": "Cone",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.5,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

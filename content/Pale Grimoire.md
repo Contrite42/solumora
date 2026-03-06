@@ -15,7 +15,7 @@ Channels a sustained column of raw apex-tier Flux into a fixed point, permanentl
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T9 |
+| Control Tier | T4 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cylinder |
@@ -38,7 +38,7 @@ Collapses the ambient Flux density of a defined area to zero, permanently — no
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T9 |
+| Control Tier | T4 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Field |
@@ -55,7 +55,7 @@ Saturates an entire area with raw Soul-frequency output at a level that overwrit
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
-| Control Tier | T9 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Field |
@@ -72,7 +72,7 @@ Emits a single pulse of something that is not Flux — it carries no discipline,
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T9 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Sphere |

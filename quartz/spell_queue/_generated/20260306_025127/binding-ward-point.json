@@ -1,0 +1,18 @@
+{
+  "name": "Binding Ward Point",
+  "summary": "Establishes binding constraint flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.",
+  "effect_description": "Establishes binding constraint flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions. A triangle ward/affect recipe that channels binding discipline into constraint output. It applies a point pattern against where written across self reach with immediate persistence.",
+  "hook": "Ward",
+  "mode": "Affect",
+  "shape": "Triangle",
+  "discipline": "Binding",
+  "output_mode": "Constraint",
+  "pattern": "Point",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.0,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

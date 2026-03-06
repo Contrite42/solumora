@@ -1,0 +1,18 @@
+{
+  "name": "Chemical Filter Plane",
+  "summary": "Screens chemical thermal flux as a planar spread at medium reach, targeting one individual with immediate discharge with active regulation while it runs.",
+  "effect_description": "Screens chemical thermal flux as a planar spread at medium reach, targeting one individual with immediate discharge with active regulation while it runs. A pentagon filter/control recipe that channels chemical discipline into thermal output. It applies a plane pattern against individual across medium reach with immediate persistence.",
+  "hook": "Filter",
+  "mode": "Control",
+  "shape": "Pentagon",
+  "discipline": "Chemical",
+  "output_mode": "Thermal",
+  "pattern": "Plane",
+  "reach": "Medium",
+  "persistence": "Immediate",
+  "target_spec": "Individual",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.16,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

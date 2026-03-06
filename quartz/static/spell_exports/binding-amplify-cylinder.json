@@ -1,37 +1,37 @@
 {
   "spec": {
     "name": "Binding Amplify Cylinder",
-    "summary": "Boosts binding constraint flux as a column volume at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.",
-    "effect_description": "A triangle amplify/affect recipe that channels binding discipline into constraint output. It applies a cylinder pattern against where written across self reach with immediate persistence.",
+    "summary": "Boosts binding neuro flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions.",
+    "effect_description": "Boosts binding neuro flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions. A square amplify/affect recipe that channels binding discipline into neuro output. It applies a cylinder pattern against object across self reach with immediate persistence.",
     "hook": "Amplify",
     "mode": "Affect",
-    "shape": "Triangle",
+    "shape": "Square",
     "discipline": "Binding",
-    "output_mode": "Constraint",
+    "output_mode": "Neuro",
     "pattern": "Cylinder",
     "reach": "Self",
     "persistence": "Immediate",
-    "target_spec": "Where Written",
+    "target_spec": "Object",
     "sustained_minutes": 0,
     "hook_mode_multiplier": 2.2,
     "hook_mode_flat_w": 0,
-    "notes": "Generated automatically from sigil variable synthesis."
+    "notes": "Generated automatically from randomized sigil variables."
   },
   "cost": {
-    "shape_base_w": 3,
+    "shape_base_w": 8,
     "discipline_multiplier": 10,
-    "core_discipline_w": 30,
+    "core_discipline_w": 80,
     "pattern_w": 20,
     "reach_w": 0,
     "persistence_w": 0,
-    "target_w": 0,
-    "output_mode_premium_w": 0,
-    "subtotal_outer_w": 50,
+    "target_w": 2,
+    "output_mode_premium_w": 60,
+    "subtotal_outer_w": 162,
     "hook_mode_multiplier": 2.2,
     "hook_mode_flat_w": 0,
-    "total_w": 110,
-    "required_tier": "T2",
-    "rarity": "Common"
+    "total_w": 356,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
   },
-  "all_grimoire_row": "| **Binding Amplify Cylinder** | Triangle | Amplify | Affect | T2 | Binding | Constraint | Cylinder | Self | Immediate | Where Written |"
+  "all_grimoire_row": "| **Binding Amplify Cylinder** | Square | Amplify | Affect | T3 | Binding | Neuro | Cylinder | Self | Immediate | Object |"
 }

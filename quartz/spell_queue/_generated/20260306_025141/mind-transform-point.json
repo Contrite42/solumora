@@ -1,0 +1,18 @@
+{
+  "name": "Mind Transform Point",
+  "summary": "Reconfigures mind neuro flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
+  "effect_description": "Reconfigures mind neuro flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A triangle transform/control recipe that channels mind discipline into neuro output. It applies a point pattern against where written across self reach with immediate persistence.",
+  "hook": "Transform",
+  "mode": "Control",
+  "shape": "Triangle",
+  "discipline": "Mind",
+  "output_mode": "Neuro",
+  "pattern": "Point",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.295,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

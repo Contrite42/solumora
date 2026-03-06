@@ -1,0 +1,18 @@
+{
+  "name": "Soul Move Sphere",
+  "summary": "Repositions soul flux as a spherical envelope at line-of-sight reach, targeting a filtered selection with short timed hold by creating a fresh flux expression.",
+  "effect_description": "Repositions soul flux as a spherical envelope at line-of-sight reach, targeting a filtered selection with short timed hold by creating a fresh flux expression. A circle move/create recipe that channels soul discipline into soul output. It applies a sphere pattern against filter across line-of-sight reach with timed short persistence.",
+  "hook": "Move",
+  "mode": "Create",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Sphere",
+  "reach": "Line-of-Sight",
+  "persistence": "Timed Short",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.7249999999999999,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

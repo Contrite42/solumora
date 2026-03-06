@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Counter Field",
+    "summary": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.",
+    "effect_description": "Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs. A pentagon counter/control recipe that channels soul discipline into soul output. It applies a field pattern against where written across anchored reach with immediate persistence.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Pentagon",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Field",
+    "reach": "Anchored",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 1500,
+    "pattern_w": 60,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 1560,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 5476,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Counter Field** | Pentagon | Counter | Control | T6 | Soul | Soul | Field | Anchored | Immediate | Where Written |"
+}

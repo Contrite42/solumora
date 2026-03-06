@@ -11,7 +11,7 @@ Projects a precise electrical beam from the caster toward a visible individual t
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T3 |
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Beam |
@@ -45,7 +45,7 @@ Sustains a crackling electrical field across a defined area, delivering continuo
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T4 |
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Field |
@@ -79,7 +79,7 @@ Burns a permanent Soul-signature brand onto a willing individual, serving as a v
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -96,7 +96,7 @@ Senses the Soul signature of a touched individual, confirming identity beyond ph
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -130,7 +130,7 @@ Severs the Flux connection of a single target individual, temporarily blocking t
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
-| Control Tier | T6 |
+| Control Tier | T4 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
@@ -164,7 +164,7 @@ Erects a sustained field that actively disrupts incoming Flux before it can reso
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
-| Control Tier | T6 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Field |
@@ -181,7 +181,7 @@ Simultaneously applies constraint force bindings to every individual in a group,
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T6 |
+| Control Tier | T4 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Field |
@@ -198,7 +198,7 @@ Sustains a reactive chemical saturation field across a wide area, slowly breakin
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T4 |
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Field |
@@ -215,7 +215,7 @@ Channels a sustained thermal beam that penetrates surface material to heat and d
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
-| Control Tier | T6 |
+| Control Tier | T3 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Beam |
@@ -232,7 +232,7 @@ Performs a full Flux-signature scan of an individual at range, returning their a
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -249,7 +249,7 @@ Forces a targeted individual's Flux channels open beyond safe limits, causing th
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T6 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -266,7 +266,7 @@ Siphons active Flux from a single individual's ongoing casting, weakening their 
 | Shape | Circle |
 | Hook | Dampen |
 | Mode | Affect |
-| Control Tier | T5 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -283,7 +283,7 @@ Raises a sustained vertical plane of dense constrained kinetic force that physic
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T4 |
 | Discipline | Force |
 | Output | Constraint |
 | Pattern | Plane |
@@ -300,7 +300,7 @@ Erects a sustained wide plane of intense combined thermal and reactive output, c
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T4 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
@@ -334,7 +334,7 @@ Delivers a catastrophic neuro-disruptive burst to an entire group simultaneously
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
-| Control Tier | T6 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Sphere |
@@ -368,7 +368,7 @@ Burns a Soul-level mark of identification onto an unwilling individual, making t
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -402,7 +402,7 @@ Temporarily detaches the caster's Soul signature from their physical location, a
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
-| Control Tier | T5 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -436,7 +436,7 @@ Sustains a crackling electrical storm field across a wide area, delivering conti
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T5 |
+| Control Tier | T4 |
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Field |
@@ -457,8 +457,8 @@ A spell that amplifies effects using soul magic.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Self |
 
 
@@ -494,7 +494,7 @@ Releases a shimmering barrier of ethereal energy that momentarily repels any neg
 | Output | Soul |
 | Pattern | Ring |
 | Reach | Anchored |
-| Persistence | _(default — Immediate)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Object |
 
 
@@ -514,4 +514,1246 @@ Temporarily enhances an object with a vibrant aura that resonates with the essen
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
+
+
+---
+
+**Soul Dampen Field**
+Reduces soul sonic flux as a field volume at self reach, targeting a filtered selection with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Dampen |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Sonic |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+
+
+---
+
+**Binding Ward Point 2**
+Establishes binding reactive flux as a point focus at line-of-sight reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Binding |
+| Output | Reactive |
+| Pattern | Point |
+| Reach | Line-of-Sight |
+| Persistence | Immediate |
+| Target | Group |
+
+
+---
+
+**Soul Move Cylinder**
+Repositions soul kinetic flux as a column volume at long reach, targeting a grouped cluster with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Kinetic |
+| Pattern | Cylinder |
+| Reach | Long |
+| Persistence | Immediate |
+| Target | Group |
+
+
+---
+
+**Mind Amplify Point**
+Boosts mind neuro flux as a point focus at short reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Point |
+| Reach | Short |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Soul Ward Cone**
+Establishes soul shock flux as a fan spread at line-of-sight reach, targeting one object with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Shock |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Soul Counter Sphere**
+Disrupts soul flux as a spherical envelope at touch reach, targeting one object with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Touch |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Mind Trigger Cone**
+Arms mind neuro flux as a fan spread at long reach, targeting a marked signature with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Trigger |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Cone |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Mind Filter Beam**
+Screens mind neuro flux as a directed line at self reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Beam |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Group |
+
+
+---
+
+**Soul Amplify Cone**
+Boosts soul flux as a fan spread at self reach, targeting one individual with sustained channeling by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Self |
+| Persistence | Sustained |
+| Target | Individual |
+
+
+---
+
+**Mind Dampen Sphere**
+Reduces mind neuro flux as a spherical envelope at long reach, targeting a filtered selection with conditional hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Sphere |
+| Reach | Long |
+| Persistence | Conditional |
+| Target | Filter |
+
+
+---
+
+**Soul Counter Cone**
+Disrupts soul flux as a fan spread at self reach, targeting the caster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Soul Amplify Point**
+Boosts soul flux as a point focus at touch reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Touch |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Soul Emit Point**
+Releases soul kinetic flux as a point focus at self reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Kinetic |
+| Pattern | Point |
+| Reach | Self |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Mind Counter Plane**
+Disrupts mind neuro flux as a planar spread at long reach, targeting one individual with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Plane |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Individual |
+
+
+---
+
+**Mind Amplify Sphere**
+Boosts mind shock flux as a spherical envelope at touch reach, targeting one individual with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Shock |
+| Pattern | Sphere |
+| Reach | Touch |
+| Persistence | Immediate |
+| Target | Individual |
+
+
+---
+
+**Binding Sense Cylinder**
+Detects binding constraint flux as a column volume at long reach, targeting a filtered selection with short timed hold by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | Long |
+| Persistence | Timed (Short) |
+| Target | Filter |
+
+
+---
+
+**Binding Amplify Plane**
+Boosts binding constraint flux as a planar spread at touch reach, targeting a filtered selection with long timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Plane |
+| Reach | Touch |
+| Persistence | Timed (Long) |
+| Target | Filter |
+
+
+---
+
+**Soul Filter Point**
+Screens soul raw flux as a point focus at self reach, targeting a marked signature with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Mind Amplify Sphere 2**
+Boosts mind neuro flux as a spherical envelope at long reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Sphere |
+| Reach | Long |
+| Persistence | Immediate |
+| Target | Where Written |
+
+
+---
+
+**Binding Amplify Point**
+Boosts binding constraint flux as a point focus at long reach, targeting the caster with permanent inscription by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Point |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Self |
+
+
+---
+
+**Soul Sense Cylinder**
+Detects soul photonic flux as a column volume at linked reach, targeting a grouped cluster with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Photonic |
+| Pattern | Cylinder |
+| Reach | Linked |
+| Persistence | Immediate |
+| Target | Group |
+
+
+---
+
+**Soul Move Point**
+Repositions soul flux as a point focus at short reach, targeting a prepared surface with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Short |
+| Persistence | Timed (Short) |
+| Target | Surface |
+
+
+---
+
+**Mind Amplify Beam**
+Boosts mind photonic flux as a directed line at line-of-sight reach, targeting the caster with conditional hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Photonic |
+| Pattern | Beam |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Self |
+
+
+---
+
+**Soul Dampen Ring**
+Reduces soul flux as a ring perimeter at linked reach, targeting a filtered selection with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Ring |
+| Reach | Linked |
+| Persistence | Immediate |
+| Target | Filter |
+
+
+---
+
+**Soul Dampen Cone**
+Reduces soul photonic flux as a fan spread at touch reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Photonic |
+| Pattern | Cone |
+| Reach | Touch |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Mind Counter Point**
+Disrupts mind raw flux as a point focus at anchored reach, targeting a filtered selection with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Point |
+| Reach | Anchored |
+| Persistence | Immediate |
+| Target | Filter |
+
+
+---
+
+**Soul Emit Cone**
+Releases soul flux as a fan spread at anchored reach, targeting the inscribed anchor with short timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Anchored |
+| Persistence | Timed (Short) |
+| Target | Where Written |
+
+
+---
+
+**Soul Emit Field**
+Releases soul flux as a field volume at linked reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Immediate |
+| Target | Filter |
+
+
+---
+
+**Soul Filter Point 2**
+Screens soul raw flux as a point focus at touch reach, targeting one object with sustained channeling by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Raw |
+| Pattern | Point |
+| Reach | Touch |
+| Persistence | Sustained |
+| Target | Object |
+
+
+---
+
+**Soul Sense Ring**
+Detects soul flux as a ring perimeter at short reach, targeting the inscribed anchor with short timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Ring |
+| Reach | Short |
+| Persistence | Timed (Short) |
+| Target | Where Written |
+
+
+---
+
+**Soul Amplify Ring**
+Boosts soul thermal flux as a ring perimeter at short reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Amplify |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Thermal |
+| Pattern | Ring |
+| Reach | Short |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+
+
+---
+
+**Soul Counter Cone 3**
+Disrupts soul flux as a fan spread at long reach, targeting one individual with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Long |
+| Persistence | Immediate |
+| Target | Individual |
+
+
+---
+
+**Soul Ward Plane**
+Establishes soul flux as a planar spread at line-of-sight reach, targeting one object with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | Line-of-Sight |
+| Persistence | Immediate |
+| Target | Object |
+
+
+---
+
+**Soul Amplify Point 2**
+Boosts soul flux as a point focus at short reach, targeting one individual with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Short |
+| Persistence | Timed (Short) |
+| Target | Individual |
+
+
+---
+
+**Soul Shape Beam**
+Refines soul flux as a directed line at short reach, targeting a filtered selection with latched hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Shape |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Beam |
+| Reach | Short |
+| Persistence | Latched |
+| Target | Filter |
+
+
+---
+
+**Soul Counter Point**
+Disrupts soul neuro flux as a point focus at line-of-sight reach, targeting one individual with sustained channeling by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Neuro |
+| Pattern | Point |
+| Reach | Line-of-Sight |
+| Persistence | Sustained |
+| Target | Individual |
+
+
+---
+
+**Soul Shape Beam 2**
+Refines soul flux as a directed line at long reach, targeting one object with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Shape |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Beam |
+| Reach | Long |
+| Persistence | Timed (Short) |
+| Target | Object |
+
+
+---
+
+**Soul Dampen Point**
+Reduces soul flux as a point focus at long reach, targeting one object with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Dampen |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Long |
+| Persistence | Immediate |
+| Target | Object |
+
+
+---
+
+**Soul Counter Plane 2**
+Disrupts soul flux as a planar spread at line-of-sight reach, targeting one object with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | Line-of-Sight |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Soul Counter Field**
+Disrupts soul flux as a field volume at anchored reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Anchored |
+| Persistence | _(default - Immediate)_ |
+| Target | Where Written |
+
+
+---
+
+**Soul Bind Point**
+Anchors soul thermal flux as a point focus at touch reach, targeting a marked signature with long timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Thermal |
+| Pattern | Point |
+| Reach | Touch |
+| Persistence | Timed (Long) |
+| Target | Marked |
+
+
+---
+
+**Soul Trigger Beam**
+Arms soul neuro flux as a directed line at long reach, targeting the caster with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Trigger |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Neuro |
+| Pattern | Beam |
+| Reach | Long |
+| Persistence | Timed (Short) |
+| Target | Self |
+
+
+---
+
+**Soul Shape Beam 3**
+Refines soul flux as a directed line at touch reach, targeting the inscribed anchor with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Shape |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Beam |
+| Reach | Touch |
+| Persistence | Timed (Short) |
+| Target | Where Written |
+
+
+---
+
+**Soul Amplify Field**
+Boosts soul flux as a field volume at anchored reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Anchored |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Soul Sense Sphere**
+Detects soul shock flux as a spherical envelope at long reach, targeting one individual with conditional hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Shock |
+| Pattern | Sphere |
+| Reach | Long |
+| Persistence | Conditional |
+| Target | Individual |
+
+
+---
+
+**Soul Move Sphere**
+Repositions soul flux as a spherical envelope at line-of-sight reach, targeting a filtered selection with short timed hold by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Short) |
+| Target | Filter |
+
+
+---
+
+**Soul Transform Point**
+Reconfigures soul flux as a point focus at short reach, targeting one individual with short timed hold by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Short |
+| Persistence | Timed (Short) |
+| Target | Individual |
+
+
+---
+
+**Mind Amplify Cone**
+Boosts mind neuro flux as a fan spread at self reach, targeting the inscribed anchor with long timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Cone |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
+
+
+---
+
+**Soul Emit Field 2**
+Releases soul reactive flux as a field volume at touch reach, targeting one object with long timed hold by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Reactive |
+| Pattern | Field |
+| Reach | Touch |
+| Persistence | Timed (Long) |
+| Target | Object |
+
+
+---
+
+**Soul Amplify Field 2**
+Boosts soul flux as a field volume at line-of-sight reach, targeting one individual with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Immediate |
+| Target | Individual |
+
+
+---
+
+**Soul Transform Sphere**
+Reconfigures soul flux as a spherical envelope at linked reach, targeting a grouped cluster with conditional hold by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Linked |
+| Persistence | Conditional |
+| Target | Group |
+
+
+---
+
+**Soul Emit Beam**
+Releases soul flux as a directed line at medium reach, targeting one object with latched hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Beam |
+| Reach | Medium |
+| Persistence | Latched |
+| Target | Object |
+
+
+---
+
+**Soul Move Cone**
+Repositions soul flux as a fan spread at line-of-sight reach, targeting a filtered selection with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Short) |
+| Target | Filter |
+
+
+---
+
+**Soul Transform Point 2**
+Reconfigures soul flux as a point focus at medium reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Medium |
+| Persistence | Immediate |
+| Target | Filter |
+
+
+---
+
+**Soul Sense Plane**
+Detects soul flux as a planar spread at medium reach, targeting one object with short timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | Medium |
+| Persistence | Timed (Short) |
+| Target | Object |
+
+
+---
+
+**Mind Counter Beam**
+Disrupts mind neuro flux as a directed line at self reach, targeting a grouped cluster with sustained channeling with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Beam |
+| Reach | Self |
+| Persistence | Sustained |
+| Target | Group |
+
+
+---
+
+**Soul Sense Field**
+Detects soul reactive flux as a field volume at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Sense |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Reactive |
+| Pattern | Field |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Soul Filter Point 3**
+Screens soul flux as a point focus at long reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Long |
+| Persistence | Immediate |
+| Target | Group |
+
+
+---
+
+**Soul Trigger Cone**
+Arms soul flux as a fan spread at linked reach, targeting one object with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Trigger |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Linked |
+| Persistence | Immediate |
+| Target | Object |
+
+
+---
+
+**Soul Shape Cylinder**
+Refines soul flux as a column volume at medium reach, targeting the caster with latched hold by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Shape |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cylinder |
+| Reach | Medium |
+| Persistence | Latched |
+| Target | Self |
+
+
+---
+
+**Soul Counter Ring**
+Disrupts soul flux as a ring perimeter at medium reach, targeting one object with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Ring |
+| Reach | Medium |
+| Persistence | Immediate |
+| Target | Object |
+
+
+---
+
+**Soul Ward Cone 2**
+Establishes soul flux as a fan spread at line-of-sight reach, targeting a filtered selection with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+
+
+---
+
+**Soul Transform Plane**
+Reconfigures soul flux as a planar spread at line-of-sight reach, targeting a filtered selection with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | Line-of-Sight |
+| Persistence | Immediate |
+| Target | Filter |
+
+
+---
+
+**Soul Counter Beam 2**
+Disrupts soul flux as a directed line at linked reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Beam |
+| Reach | Linked |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+
+
+---
+
+**Soul Dampen Field 2**
+Reduces soul flux as a field volume at linked reach, targeting a marked signature with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Soul Dampen Cone 2**
+Reduces soul constraint flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Constraint |
+| Pattern | Cone |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
+
+
+---
+
+**Soul Counter Plane 3**
+Disrupts soul flux as a planar spread at touch reach, targeting the caster with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | Touch |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Soul Bind Plane**
+Anchors soul flux as a planar spread at self reach, targeting a filtered selection with short timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Filter |
+
+
+---
+
+**Soul Sense Cylinder 2**
+Detects soul flux as a column volume at medium reach, targeting a marked signature with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cylinder |
+| Reach | Medium |
+| Persistence | Immediate |
+| Target | Marked |
 

@@ -1,0 +1,18 @@
+{
+  "name": "Soul Move Cylinder",
+  "summary": "Repositions soul kinetic flux as a column volume at long reach, targeting a grouped cluster with immediate discharge by changing existing conditions.",
+  "effect_description": "Repositions soul kinetic flux as a column volume at long reach, targeting a grouped cluster with immediate discharge by changing existing conditions. A circle move/affect recipe that channels soul discipline into kinetic output. It applies a cylinder pattern against group across long reach with immediate persistence.",
+  "hook": "Move",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Kinetic",
+  "pattern": "Cylinder",
+  "reach": "Long",
+  "persistence": "Immediate",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.5,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

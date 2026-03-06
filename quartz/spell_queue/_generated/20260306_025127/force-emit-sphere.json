@@ -1,0 +1,18 @@
+{
+  "name": "Force Emit Sphere",
+  "summary": "Releases force kinetic flux as a spherical envelope at self reach, targeting a filtered selection with immediate discharge by changing existing conditions.",
+  "effect_description": "Releases force kinetic flux as a spherical envelope at self reach, targeting a filtered selection with immediate discharge by changing existing conditions. A square emit/affect recipe that channels force discipline into kinetic output. It applies a sphere pattern against filter across self reach with immediate persistence.",
+  "hook": "Emit",
+  "mode": "Affect",
+  "shape": "Square",
+  "discipline": "Force",
+  "output_mode": "Kinetic",
+  "pattern": "Sphere",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.0,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Chemical Shape Cone",
+    "summary": "Refines chemical reactive flux as a fan spread at linked reach, targeting a filtered selection with long timed hold with active regulation while it runs.",
+    "effect_description": "Refines chemical reactive flux as a fan spread at linked reach, targeting a filtered selection with long timed hold with active regulation while it runs. A circle shape/control recipe that channels chemical discipline into reactive output. It applies a cone pattern against filter across linked reach with timed long persistence.",
+    "hook": "Shape",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Chemical",
+    "output_mode": "Reactive",
+    "pattern": "Cone",
+    "reach": "Linked",
+    "persistence": "Timed Long",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.62,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 275,
+    "pattern_w": 10,
+    "reach_w": 150,
+    "persistence_w": 25,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 520,
+    "hook_mode_multiplier": 1.62,
+    "hook_mode_flat_w": 0,
+    "total_w": 842,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Chemical Shape Cone** | Circle | Shape | Control | T4 | Chemical | Reactive | Cone | Linked | Timed Long | Filter |"
+}

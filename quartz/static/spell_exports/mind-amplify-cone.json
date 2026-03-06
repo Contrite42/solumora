@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Amplify Cone",
+    "summary": "Boosts mind neuro flux as a fan spread at self reach, targeting the inscribed anchor with long timed hold with active regulation while it runs.",
+    "effect_description": "Boosts mind neuro flux as a fan spread at self reach, targeting the inscribed anchor with long timed hold with active regulation while it runs. A circle amplify/control recipe that channels mind discipline into neuro output. It applies a cone pattern against where written across self reach with timed long persistence.",
+    "hook": "Amplify",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Neuro",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Timed Long",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.9700000000000006,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 25,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 1410,
+    "hook_mode_multiplier": 2.9700000000000006,
+    "hook_mode_flat_w": 0,
+    "total_w": 4188,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Amplify Cone** | Circle | Amplify | Control | T6 | Mind | Neuro | Cone | Self | Timed Long | Where Written |"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Trigger Cone",
+    "summary": "Arms mind neuro flux as a fan spread at long reach, targeting a marked signature with immediate discharge with active regulation while it runs.",
+    "effect_description": "Arms mind neuro flux as a fan spread at long reach, targeting a marked signature with immediate discharge with active regulation while it runs. A pentagon trigger/control recipe that channels mind discipline into neuro output. It applies a cone pattern against marked across long reach with immediate persistence.",
+    "hook": "Trigger",
+    "mode": "Control",
+    "shape": "Pentagon",
+    "discipline": "Mind",
+    "output_mode": "Neuro",
+    "pattern": "Cone",
+    "reach": "Long",
+    "persistence": "Immediate",
+    "target_spec": "Marked",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 500,
+    "pattern_w": 10,
+    "reach_w": 40,
+    "persistence_w": 0,
+    "target_w": 15,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 565,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "total_w": 1373,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Trigger Cone** | Pentagon | Trigger | Control | T5 | Mind | Neuro | Cone | Long | Immediate | Marked |"
+}

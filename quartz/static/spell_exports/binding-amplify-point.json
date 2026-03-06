@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Binding Amplify Point",
+    "summary": "Boosts binding constraint flux as a point focus at long reach, targeting the caster with permanent inscription by creating a fresh flux expression.",
+    "effect_description": "Boosts binding constraint flux as a point focus at long reach, targeting the caster with permanent inscription by creating a fresh flux expression. A circle amplify/create recipe that channels binding discipline into constraint output. It applies a point pattern against self across long reach with permanent persistence.",
+    "hook": "Amplify",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Binding",
+    "output_mode": "Constraint",
+    "pattern": "Point",
+    "reach": "Long",
+    "persistence": "Permanent",
+    "target_spec": "Self",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.53,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 550,
+    "pattern_w": 0,
+    "reach_w": 40,
+    "persistence_w": 400,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 990,
+    "hook_mode_multiplier": 2.53,
+    "hook_mode_flat_w": 0,
+    "total_w": 2505,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Binding Amplify Point** | Circle | Amplify | Create | T5 | Binding | Constraint | Point | Long | Permanent | Self |"
+}

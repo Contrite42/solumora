@@ -1,0 +1,18 @@
+{
+  "name": "Mind Filter Beam",
+  "summary": "Screens mind neuro flux as a directed line at self reach, targeting a grouped cluster with immediate discharge with active regulation while it runs.",
+  "effect_description": "Screens mind neuro flux as a directed line at self reach, targeting a grouped cluster with immediate discharge with active regulation while it runs. A circle filter/control recipe that channels mind discipline into neuro output. It applies a beam pattern against group across self reach with immediate persistence.",
+  "hook": "Filter",
+  "mode": "Control",
+  "shape": "Circle",
+  "discipline": "Mind",
+  "output_mode": "Neuro",
+  "pattern": "Beam",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.16,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Sound Bind Ring",
+    "summary": "Anchors sound sonic flux as a ring perimeter at self reach, targeting one object with immediate discharge by changing existing conditions.",
+    "effect_description": "Anchors sound sonic flux as a ring perimeter at self reach, targeting one object with immediate discharge by changing existing conditions. A square bind/affect recipe that channels sound discipline into sonic output. It applies a ring pattern against object across self reach with immediate persistence.",
+    "hook": "Bind",
+    "mode": "Affect",
+    "shape": "Square",
+    "discipline": "Sound",
+    "output_mode": "Sonic",
+    "pattern": "Ring",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Object",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 4,
+    "core_discipline_w": 32,
+    "pattern_w": 15,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 2,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 49,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 78,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Sound Bind Ring** | Square | Bind | Affect | T2 | Sound | Sonic | Ring | Self | Immediate | Object |"
+}

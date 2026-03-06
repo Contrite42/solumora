@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Filter Point",
+    "summary": "Screens soul raw flux as a point focus at self reach, targeting a marked signature with immediate discharge with active regulation while it runs.",
+    "effect_description": "Screens soul raw flux as a point focus at self reach, targeting a marked signature with immediate discharge with active regulation while it runs. A square filter/control recipe that channels soul discipline into raw output. It applies a point pattern against marked across self reach with immediate persistence.",
+    "hook": "Filter",
+    "mode": "Control",
+    "shape": "Square",
+    "discipline": "Soul",
+    "output_mode": "Raw",
+    "pattern": "Point",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Marked",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 600,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 15,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 645,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "total_w": 1393,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Filter Point** | Square | Filter | Control | T5 | Soul | Raw | Point | Self | Immediate | Marked |"
+}

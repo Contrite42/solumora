@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Counter Beam 2",
+    "summary": "Disrupts soul flux as a directed line at linked reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Disrupts soul flux as a directed line at linked reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression. A pentagon counter/create recipe that channels soul discipline into soul output. It applies a beam pattern against filter across linked reach with immediate persistence.",
+    "hook": "Counter",
+    "mode": "Create",
+    "shape": "Pentagon",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Beam",
+    "reach": "Linked",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.9899999999999998,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 1500,
+    "pattern_w": 5,
+    "reach_w": 150,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 1715,
+    "hook_mode_multiplier": 2.9899999999999998,
+    "hook_mode_flat_w": 0,
+    "total_w": 5128,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Counter Beam 2** | Pentagon | Counter | Create | T6 | Soul | Soul | Beam | Linked | Immediate | Filter |"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Dampen Sphere",
+    "summary": "Reduces mind neuro flux as a spherical envelope at long reach, targeting a filtered selection with conditional hold with active regulation while it runs.",
+    "effect_description": "Reduces mind neuro flux as a spherical envelope at long reach, targeting a filtered selection with conditional hold with active regulation while it runs. A circle dampen/control recipe that channels mind discipline into neuro output. It applies a sphere pattern against filter across long reach with conditional persistence.",
+    "hook": "Dampen",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Mind",
+    "output_mode": "Neuro",
+    "pattern": "Sphere",
+    "reach": "Long",
+    "persistence": "Conditional",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.565,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 1375,
+    "pattern_w": 30,
+    "reach_w": 40,
+    "persistence_w": 20,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 1525,
+    "hook_mode_multiplier": 2.565,
+    "hook_mode_flat_w": 0,
+    "total_w": 3912,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Mind Dampen Sphere** | Circle | Dampen | Control | T5 | Mind | Neuro | Sphere | Long | Conditional | Filter |"
+}

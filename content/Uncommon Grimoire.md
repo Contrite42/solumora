@@ -11,7 +11,7 @@ Creates an airtight binding seal across a surface, preventing gas or liquid from
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T4 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
@@ -79,7 +79,7 @@ Reads and maps the unique Flux signature of a specific individual on contact, cr
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -96,7 +96,7 @@ Locates any object or individual bearing a specific paired mark within medium ra
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T4 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Sphere |
@@ -113,7 +113,7 @@ Emits a cone of intense thermal energy from the caster, burning everything in it
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
@@ -130,7 +130,7 @@ Projects a reactive chemical cone that rapidly corrodes metal, leather, and orga
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
@@ -164,7 +164,7 @@ Fires a narrow concentrated sonic beam at a single individual target, causing sh
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Beam |
@@ -215,7 +215,7 @@ Applies a continuous upward kinetic resistance to the caster during a fall, dram
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
@@ -232,7 +232,7 @@ Applies a continuous upward kinetic force to a single object, holding it aloft w
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
@@ -266,7 +266,7 @@ Fires a targeted neuro-disruptive pulse at a single individual, overwhelming the
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
-| Control Tier | T4 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Point |
@@ -283,7 +283,7 @@ Detonates a ring of outward kinetic force centered on the caster, staggering eve
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Ring |
@@ -317,7 +317,7 @@ Fires a raw counter-burst timed to intercept and neutralize an incoming spell's 
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -334,7 +334,7 @@ Wraps the caster in a sustained sphere that absorbs and disperses incoming therm
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Sphere |
@@ -368,7 +368,7 @@ Inscribes a standing ring boundary that repels anything crossing the perimeter w
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T5 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Ring |
@@ -436,7 +436,7 @@ Applies a sustained pulling force on a specific marked object, dragging it towar
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Beam |
@@ -521,7 +521,7 @@ Burns a permanent chemical mark into organic or metal surfaces that resists remo
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T4 |
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
@@ -555,7 +555,7 @@ Releases a flat expanding plane of kinetic force outward from the sigil, knockin
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
@@ -572,7 +572,7 @@ Erupts a sustained column of intense thermal force from a fixed anchored point, 
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cylinder |
@@ -589,7 +589,7 @@ Temporarily boosts the effective output of a written sigil already inscribed on 
 | Shape | Circle |
 | Hook | Amplify |
 | Mode | Affect |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
@@ -606,7 +606,7 @@ Releases a full-sphere kinetic explosion centered on the caster, throwing everyt
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Sphere |
@@ -623,7 +623,7 @@ Constructs a sustained cubic field of constrained kinetic force around a target 
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Force |
 | Output | Constraint |
 | Pattern | Sphere |
@@ -657,7 +657,7 @@ Sends a kinetic shockwave along a flat surface outward from the caster, staggeri
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Ring |
@@ -725,7 +725,7 @@ Projects a condensed photonic beam at line-of-sight range that temporarily blind
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Beam |
@@ -742,7 +742,7 @@ Reads the surface emotional state and immediate intent of a touched individual, 
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T4 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Point |
@@ -759,7 +759,7 @@ Erects a sustained neuro-disrupting field that makes it painful and disorienting
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Ring |
@@ -793,7 +793,7 @@ Amplifies the Flux throughput of a willing individual's active casting, boosting
 | Shape | Circle |
 | Hook | Amplify |
 | Mode | Affect |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
@@ -827,7 +827,7 @@ Releases a sphere of concentrated sonic force that shatters fragile objects and 
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Sphere |
@@ -844,7 +844,7 @@ Sends a brief Soul-frequency pulse through a touched individual, confirming whet
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T6 |
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Point |
@@ -878,7 +878,7 @@ Takes a full thermal scan of a body or object within short range, returning a de
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T3 |
+| Control Tier | T2 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
@@ -895,7 +895,7 @@ Reads a single clear surface thought from a touched individual without their awa
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T5 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Point |
@@ -929,7 +929,7 @@ Sends a powerful kinetic shockwave through the ground in a sphere around the cas
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Sphere |
@@ -963,7 +963,7 @@ Projects a condensed electrical beam that punches through resistive material, by
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T4 |
+| Control Tier | T3 |
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Beam |
@@ -1002,8 +1002,8 @@ A spell that counters effects using electric magic.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Field |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Object |
 
 
@@ -1020,9 +1020,9 @@ The spell creates a triangular field of Mind energy at the location where it is 
 | Discipline | Mind |
 | Output | Raw |
 | Pattern | Field |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
 
 
 ---
@@ -1038,8 +1038,8 @@ Releases a reactive chemical mist that instantly filters and purifies the air wi
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Filter |
 
 
@@ -1075,7 +1075,7 @@ Creates a powerful shockwave of chemical energy that intensifies and radiates ou
 | Output | Shock |
 | Pattern | Field |
 | Reach | Long |
-| Persistence | _(default — Immediate)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Marked |
 
 
@@ -1092,7 +1092,367 @@ Creates a temporary, soft cushion of energy that absorbs impact when landing on 
 | Discipline | Binding |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Surface |
+
+
+---
+
+**Light Shape Cylinder**
+Refines light sonic flux as a column volume at anchored reach, targeting a filtered selection with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Shape |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Light |
+| Output | Sonic |
+| Pattern | Cylinder |
+| Reach | Anchored |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+
+
+---
+
+**Chemical Filter Plane**
+Screens chemical thermal flux as a planar spread at medium reach, targeting one individual with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Chemical |
+| Output | Thermal |
+| Pattern | Plane |
+| Reach | Medium |
+| Persistence | _(default - Immediate)_ |
+| Target | Individual |
+
+
+---
+
+**Force Move Point**
+Repositions force kinetic flux as a point focus at long reach, targeting one individual with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T3 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Point |
+| Reach | Long |
+| Persistence | Timed (Short) |
+| Target | Individual |
+
+
+---
+
+**Raw Dampen Ring**
+Reduces raw flux as a ring perimeter at line-of-sight reach, targeting one individual with long timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T4 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Ring |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Individual |
+
+
+---
+
+**Mind Transform Point**
+Reconfigures mind neuro flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Transform |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Light Amplify Cone**
+Boosts light photonic flux as a fan spread at long reach, targeting one individual with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Cone |
+| Reach | Long |
+| Persistence | Immediate |
+| Target | Individual |
+
+
+---
+
+**Binding Counter Cylinder**
+Disrupts binding kinetic flux as a column volume at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Binding |
+| Output | Kinetic |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Mind Filter Cone**
+Screens mind shock flux as a fan spread at medium reach, targeting the caster with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Mind |
+| Output | Shock |
+| Pattern | Cone |
+| Reach | Medium |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Light Trigger Cone**
+Arms light photonic flux as a fan spread at long reach, targeting a marked signature with short timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Trigger |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Cone |
+| Reach | Long |
+| Persistence | Timed (Short) |
+| Target | Marked |
+
+
+---
+
+**Chemical Shape Cone**
+Refines chemical reactive flux as a fan spread at linked reach, targeting a filtered selection with long timed hold with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Shape |
+| Mode | Control |
+| Control Tier | T4 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Cone |
+| Reach | Linked |
+| Persistence | Timed (Long) |
+| Target | Filter |
+
+
+---
+
+**Chemical Dampen Plane**
+Reduces chemical reactive flux as a planar spread at long reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Dampen |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Plane |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Binding Bind Point**
+Anchors binding raw flux as a point focus at self reach, targeting a marked signature with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Bind |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Binding |
+| Output | Raw |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Light Shape Ring**
+Refines light photonic flux as a ring perimeter at long reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Shape |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Ring |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Where Written |
+
+
+---
+
+**Electric Sense Plane**
+Detects electric kinetic flux as a planar spread at line-of-sight reach, targeting the caster with long timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Electric |
+| Output | Kinetic |
+| Pattern | Plane |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Self |
+
+
+---
+
+**Force Filter Field**
+Screens force kinetic flux as a field volume at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Where Written |
+
+
+---
+
+**Binding Amplify Cylinder**
+Boosts binding neuro flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T3 |
+| Discipline | Binding |
+| Output | Neuro |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Chemical Move Cone**
+Repositions chemical reactive flux as a fan spread at self reach, targeting a filtered selection with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T3 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+
+
+---
+
+**Mind Shape Ring**
+Refines mind reactive flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Shape |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Mind |
+| Output | Reactive |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Binding Emit Ring**
+Releases binding reactive flux as a ring perimeter at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Binding |
+| Output | Reactive |
+| Pattern | Ring |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Light Amplify Cone 2**
+Boosts light photonic flux as a fan spread at self reach, targeting a filtered selection with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
 

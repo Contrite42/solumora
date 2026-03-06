@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Shape Beam 2",
+    "summary": "Refines soul flux as a directed line at long reach, targeting one object with short timed hold by changing existing conditions.",
+    "effect_description": "Refines soul flux as a directed line at long reach, targeting one object with short timed hold by changing existing conditions. A circle shape/affect recipe that channels soul discipline into soul output. It applies a beam pattern against object across long reach with timed short persistence.",
+    "hook": "Shape",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Beam",
+    "reach": "Long",
+    "persistence": "Timed Short",
+    "target_spec": "Object",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 5,
+    "reach_w": 40,
+    "persistence_w": 5,
+    "target_w": 2,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4177,
+    "hook_mode_multiplier": 1.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 5012,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Shape Beam 2** | Circle | Shape | Affect | T6 | Soul | Soul | Beam | Long | Timed Short | Object |"
+}

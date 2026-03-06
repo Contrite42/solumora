@@ -1,0 +1,18 @@
+{
+  "name": "Soul Sense Field",
+  "summary": "Detects soul reactive flux as a field volume at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs.",
+  "effect_description": "Detects soul reactive flux as a field volume at long reach, targeting a prepared surface with immediate discharge with active regulation while it runs. A pentagon sense/control recipe that channels soul discipline into reactive output. It applies a field pattern against surface across long reach with immediate persistence.",
+  "hook": "Sense",
+  "mode": "Control",
+  "shape": "Pentagon",
+  "discipline": "Soul",
+  "output_mode": "Reactive",
+  "pattern": "Field",
+  "reach": "Long",
+  "persistence": "Immediate",
+  "target_spec": "Surface",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.43,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

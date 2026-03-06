@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Light Amplify Cone 2",
+    "summary": "Boosts light photonic flux as a fan spread at self reach, targeting a filtered selection with immediate discharge with active regulation while it runs.",
+    "effect_description": "Boosts light photonic flux as a fan spread at self reach, targeting a filtered selection with immediate discharge with active regulation while it runs. A square amplify/control recipe that channels light discipline into photonic output. It applies a cone pattern against filter across self reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Control",
+    "shape": "Square",
+    "discipline": "Light",
+    "output_mode": "Photonic",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.9700000000000006,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 24,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 94,
+    "hook_mode_multiplier": 2.9700000000000006,
+    "hook_mode_flat_w": 0,
+    "total_w": 279,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Light Amplify Cone 2** | Square | Amplify | Control | T3 | Light | Photonic | Cone | Self | Immediate | Filter |"
+}

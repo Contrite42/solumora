@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Dampen Ring",
+    "summary": "Reduces soul flux as a ring perimeter at linked reach, targeting a filtered selection with immediate discharge with active regulation while it runs.",
+    "effect_description": "Reduces soul flux as a ring perimeter at linked reach, targeting a filtered selection with immediate discharge with active regulation while it runs. A circle dampen/control recipe that channels soul discipline into soul output. It applies a ring pattern against filter across linked reach with immediate persistence.",
+    "hook": "Dampen",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Ring",
+    "reach": "Linked",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.565,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 15,
+    "reach_w": 150,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4350,
+    "hook_mode_multiplier": 2.565,
+    "hook_mode_flat_w": 0,
+    "total_w": 11158,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Dampen Ring** | Circle | Dampen | Control | T6 | Soul | Soul | Ring | Linked | Immediate | Filter |"
+}

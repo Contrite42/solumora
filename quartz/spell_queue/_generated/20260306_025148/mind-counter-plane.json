@@ -1,0 +1,18 @@
+{
+  "name": "Mind Counter Plane",
+  "summary": "Disrupts mind neuro flux as a planar spread at long reach, targeting one individual with immediate discharge by creating a fresh flux expression.",
+  "effect_description": "Disrupts mind neuro flux as a planar spread at long reach, targeting one individual with immediate discharge by creating a fresh flux expression. A pentagon counter/create recipe that channels mind discipline into neuro output. It applies a plane pattern against individual across long reach with immediate persistence.",
+  "hook": "Counter",
+  "mode": "Create",
+  "shape": "Pentagon",
+  "discipline": "Mind",
+  "output_mode": "Neuro",
+  "pattern": "Plane",
+  "reach": "Long",
+  "persistence": "Immediate",
+  "target_spec": "Individual",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.9899999999999998,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

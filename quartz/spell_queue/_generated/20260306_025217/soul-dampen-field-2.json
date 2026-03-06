@@ -1,0 +1,18 @@
+{
+  "name": "Soul Dampen Field 2",
+  "summary": "Reduces soul flux as a field volume at linked reach, targeting a marked signature with immediate discharge with active regulation while it runs.",
+  "effect_description": "Reduces soul flux as a field volume at linked reach, targeting a marked signature with immediate discharge with active regulation while it runs. A pentagon dampen/control recipe that channels soul discipline into soul output. It applies a field pattern against marked across linked reach with immediate persistence.",
+  "hook": "Dampen",
+  "mode": "Control",
+  "shape": "Pentagon",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Field",
+  "reach": "Linked",
+  "persistence": "Immediate",
+  "target_spec": "Marked",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.565,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

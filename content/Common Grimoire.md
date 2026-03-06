@@ -11,7 +11,7 @@ A warm orb of light anchors to the written sigil and illuminates the surrounding
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T0 |
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default â€” Plane)_ |
@@ -45,7 +45,7 @@ Transfers steady heat into the inscribed object, keeping it warm for up to one h
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T1 |
+| Control Tier | T2 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
@@ -79,7 +79,7 @@ Accelerates evaporation across a flat surface, leaving it completely dry within 
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T1 |
+| Control Tier | T0 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | _(default â€” Plane)_ |
@@ -130,7 +130,7 @@ Burns a faint but permanent sigil-compatible mark onto a surface or object on co
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default â€” Plane)_ |
@@ -147,7 +147,7 @@ Detects physical impact or pressure against the inscribed surface and logs its d
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T2 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | _(default â€” Plane)_ |
@@ -198,7 +198,7 @@ Releases a single raw kinetic burst from the written sigil, pushing anything in 
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T0 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | _(default â€” Plane)_ |
@@ -317,7 +317,7 @@ Binds a door, chest, or container shut with a constraint force that holds until 
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
@@ -334,7 +334,7 @@ Suppresses all sound originating from the written sigil's surface for up to one 
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T1 |
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | _(default â€” Plane)_ |
@@ -453,7 +453,7 @@ Senses and maps the presence and intensity of active Flux within a short radius,
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Sphere |
@@ -470,7 +470,7 @@ Detects the presence of living beings within a short radius by sensing the heat 
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Sphere |
@@ -487,7 +487,7 @@ Emits a blinding burst of photonic light from the sigil, overwhelming the vision
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T0 |
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default â€” Plane)_ |
@@ -504,7 +504,7 @@ Channels a focused thermal burst through direct contact, burning the touched tar
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | _(default â€” Plane)_ |
@@ -521,7 +521,7 @@ Releases a blunt kinetic burst in a directed cone from the caster, pushing every
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
@@ -538,7 +538,7 @@ Applies a brief force-layer to the caster's body, slightly hardening the surface
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T2 |
+| Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | _(default â€” Plane)_ |
@@ -572,7 +572,7 @@ An open Flux reservoir inscribed onto a physical object â€” slowly charges from 
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default â€” Plane)_ |
@@ -589,7 +589,7 @@ A keyed Flux reservoir inscribed onto a physical object â€” slowly charges from 
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default â€” Plane)_ |
@@ -606,7 +606,7 @@ A conditional Flux reservoir inscribed onto a physical object â€” slowly charges
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default â€” Plane)_ |
@@ -640,7 +640,7 @@ Rapidly lowers the temperature of a small enclosed space to near-freezing, funct
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Field |
@@ -691,7 +691,7 @@ Pushes loose debris, dust, and surface grime off a flat surface in a single raw 
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T0 |
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | _(default â€” Plane)_ |
@@ -708,7 +708,7 @@ Emits a low sonic pulse that bounces off nearby surfaces and returns a rough spa
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Sphere |
@@ -725,7 +725,7 @@ Sustains a faint thermal warmth across an inscribed object indefinitely, keeping
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T4 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | _(default â€” Plane)_ |
@@ -742,7 +742,7 @@ Imprints a brief bright photonic impression of the sigil onto the retinas of any
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T0 |
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default â€” Plane)_ |
@@ -827,7 +827,7 @@ Generates a sustained sound-dampening field around a single object, muffling all
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Sphere |
@@ -861,7 +861,7 @@ Applies a dim but permanent photonic glow to any flat surface, commonly used for
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T4 |
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default â€” Plane)_ |
@@ -878,7 +878,7 @@ Floods the immediate area with low-level neuro-disrupting static, making it diff
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Mind |
 | Output | Neuro |
 | Pattern | Sphere |
@@ -912,7 +912,7 @@ Sends a raw Flux pulse through a touched object, returning a basic sense of its 
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
-| Control Tier | T1 |
+| Control Tier | T0 |
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default â€” Plane)_ |
@@ -963,7 +963,7 @@ Burns a precise small point onto a surface using focused thermal output â€” used
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
@@ -980,7 +980,7 @@ Runs a contained electrical current through a defined ring on a surface, creatin
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
-| Control Tier | T2 |
+| Control Tier | T3 |
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Ring |
@@ -1154,8 +1154,8 @@ A spell that shapes effects using raw magic.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Ring |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Self |
 
 
@@ -1172,9 +1172,9 @@ A spell that detects effects using heat magic.
 | Discipline | Heat |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
 
 
 ---
@@ -1190,9 +1190,9 @@ A spell that dampens effects using binding magic.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cylinder |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
 
 
 ---
@@ -1208,9 +1208,9 @@ A spell that dampens effects using force magic.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
 
 
 ---
@@ -1226,9 +1226,9 @@ A spell that detects effects using force magic.
 | Discipline | Force |
 | Output | Constraint |
 | Pattern | Cylinder |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
 
 
 ---
@@ -1244,8 +1244,8 @@ A spell that counters effects using force magic.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Beam |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Surface |
 
 
@@ -1262,9 +1262,9 @@ A spell that moves effects using heat magic.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Ring |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
 
 
 ---
@@ -1280,8 +1280,8 @@ The spell creates a localized sonic disturbance that affects a surface area with
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Cone |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Surface |
 
 
@@ -1298,8 +1298,8 @@ The spell creates a focused sonic blast emanating from the caster's body that af
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Cone |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Surface |
 
 
@@ -1316,8 +1316,8 @@ Unleashes a blinding beam of light that momentarily disorients anyone who looks 
 | Discipline | Light |
 | Output | Sonic |
 | Pattern | Beam |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Self |
 
 
@@ -1334,9 +1334,9 @@ Instantly generates a protective barrier around the caster that deflects incomin
 | Discipline | Binding |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
 
 
 ---
@@ -1352,8 +1352,8 @@ Creates a brief, localized cushion of force that gently slows the impact of an o
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
 | Target | Object |
 
 
@@ -1370,7 +1370,367 @@ Releases a concentrated beam of raw energy that instantly etches a glowing sigil
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Beam |
-| Reach | _(default — Self)_ |
-| Persistence | _(default — Immediate)_ |
-| Target | _(default — Where Written)_ |
+| Reach | _(default ï¿½ Self)_ |
+| Persistence | _(default ï¿½ Immediate)_ |
+| Target | _(default ï¿½ Where Written)_ |
+
+
+---
+
+**Sound Emit Cone**
+Releases sound sonic flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T1 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Heat Counter Cone**
+Disrupts heat thermal flux as a fan spread at self reach, targeting a prepared surface with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Force Sense Beam**
+Detects force kinetic flux as a directed line at self reach, targeting the caster with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Raw Transform Beam**
+Reconfigures raw flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Transform |
+| Mode | Control |
+| Control Tier | T1 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Chemical Dampen Sphere**
+Reduces chemical reactive flux as a spherical envelope at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Dampen |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Sphere |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Electric Shape Ring**
+Refines electric shock flux as a ring perimeter at self reach, targeting a grouped cluster with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Shape |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Electric Filter Beam**
+Screens electric shock flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Raw Emit Cone**
+Releases raw flux as a fan spread at short reach, targeting a prepared surface with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Cone |
+| Reach | Short |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Binding Move Cone**
+Repositions binding kinetic flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Binding |
+| Output | Kinetic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Chemical Dampen Cone**
+Reduces chemical reactive flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Dampen |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Heat Move Beam**
+Repositions heat thermal flux as a directed line at self reach, targeting the caster with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T1 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Raw Amplify Ring**
+Boosts raw flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Sound Bind Ring**
+Anchors sound sonic flux as a ring perimeter at self reach, targeting one object with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Bind |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Raw Move Point**
+Repositions raw flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T0 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Electric Emit Field**
+Releases electric shock flux as a field volume at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Chemical Move Cylinder**
+Repositions chemical thermal flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Chemical |
+| Output | Thermal |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Force Bind Cone**
+Anchors force kinetic flux as a fan spread at self reach, targeting a marked signature with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Bind |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Binding Ward Point**
+Establishes binding constraint flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Sound Filter Plane**
+Screens sound sonic flux as a planar spread at self reach, targeting the caster with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Force Emit Sphere**
+Releases force kinetic flux as a spherical envelope at self reach, targeting a filtered selection with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Sphere |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
 

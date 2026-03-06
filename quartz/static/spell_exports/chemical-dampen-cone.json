@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Chemical Dampen Cone",
+    "summary": "Reduces chemical reactive flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Reduces chemical reactive flux as a fan spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression. A triangle dampen/create recipe that channels chemical discipline into reactive output. It applies a cone pattern against where written across self reach with immediate persistence.",
+    "hook": "Dampen",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Chemical",
+    "output_mode": "Reactive",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 15,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 25,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "total_w": 55,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Chemical Dampen Cone** | Triangle | Dampen | Create | T2 | Chemical | Reactive | Cone | Self | Immediate | Where Written |"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Chemical Move Cylinder",
+  "summary": "Repositions chemical thermal flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions.",
+  "effect_description": "Repositions chemical thermal flux as a column volume at self reach, targeting one object with immediate discharge by changing existing conditions. A square move/affect recipe that channels chemical discipline into thermal output. It applies a cylinder pattern against object across self reach with immediate persistence.",
+  "hook": "Move",
+  "mode": "Affect",
+  "shape": "Square",
+  "discipline": "Chemical",
+  "output_mode": "Thermal",
+  "pattern": "Cylinder",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Object",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.5,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Soul Sense Cylinder",
+  "summary": "Detects soul photonic flux as a column volume at linked reach, targeting a grouped cluster with immediate discharge by changing existing conditions.",
+  "effect_description": "Detects soul photonic flux as a column volume at linked reach, targeting a grouped cluster with immediate discharge by changing existing conditions. A circle sense/affect recipe that channels soul discipline into photonic output. It applies a cylinder pattern against group across linked reach with immediate persistence.",
+  "hook": "Sense",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Soul",
+  "output_mode": "Photonic",
+  "pattern": "Cylinder",
+  "reach": "Linked",
+  "persistence": "Immediate",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.8,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

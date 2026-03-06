@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Transform Sphere",
+    "summary": "Reconfigures soul flux as a spherical envelope at linked reach, targeting a grouped cluster with conditional hold by creating a fresh flux expression.",
+    "effect_description": "Reconfigures soul flux as a spherical envelope at linked reach, targeting a grouped cluster with conditional hold by creating a fresh flux expression. A circle transform/create recipe that channels soul discipline into soul output. It applies a sphere pattern against group across linked reach with conditional persistence.",
+    "hook": "Transform",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Sphere",
+    "reach": "Linked",
+    "persistence": "Conditional",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.9549999999999998,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 30,
+    "reach_w": 150,
+    "persistence_w": 20,
+    "target_w": 35,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4360,
+    "hook_mode_multiplier": 1.9549999999999998,
+    "hook_mode_flat_w": 0,
+    "total_w": 8524,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Transform Sphere** | Circle | Transform | Create | T6 | Soul | Soul | Sphere | Linked | Conditional | Group |"
+}

@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Filter Point 2",
+    "summary": "Screens soul raw flux as a point focus at touch reach, targeting one object with sustained channeling by changing existing conditions.",
+    "effect_description": "Screens soul raw flux as a point focus at touch reach, targeting one object with sustained channeling by changing existing conditions. A circle filter/affect recipe that channels soul discipline into raw output. It applies a point pattern against object across touch reach with sustained persistence. The sustained window is set to 30 minutes.",
+    "hook": "Filter",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Raw",
+    "pattern": "Point",
+    "reach": "Touch",
+    "persistence": "Sustained",
+    "target_spec": "Object",
+    "sustained_minutes": 30,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 0,
+    "reach_w": 2,
+    "persistence_w": 30,
+    "target_w": 2,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 4189,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 6702,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Filter Point 2** | Circle | Filter | Affect | T6 | Soul | Raw | Point | Touch | Sustained | Object |"
+}

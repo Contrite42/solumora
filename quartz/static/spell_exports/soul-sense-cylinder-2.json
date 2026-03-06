@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Sense Cylinder 2",
+    "summary": "Detects soul flux as a column volume at medium reach, targeting a marked signature with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Detects soul flux as a column volume at medium reach, targeting a marked signature with immediate discharge by creating a fresh flux expression. A circle sense/create recipe that channels soul discipline into soul output. It applies a cylinder pattern against marked across medium reach with immediate persistence.",
+    "hook": "Sense",
+    "mode": "Create",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Cylinder",
+    "reach": "Medium",
+    "persistence": "Immediate",
+    "target_spec": "Marked",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 20,
+    "reach_w": 15,
+    "persistence_w": 0,
+    "target_w": 15,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4175,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "total_w": 8642,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soul Sense Cylinder 2** | Circle | Sense | Create | T6 | Soul | Soul | Cylinder | Medium | Immediate | Marked |"
+}
