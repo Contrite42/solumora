@@ -18,6 +18,7 @@ A warm orb of light anchors to the written sigil and illuminates the surrounding
 | Reach | _(default — Self)_ |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Hearthlight|Hearthlight]] |
 
 ---
 
@@ -35,6 +36,7 @@ Causes the inscribed sigil surface to emit a faint steady photonic glow, functio
 | Reach | _(default — Self)_ |
 | Persistence | Sustained |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Glowmark|Glowmark]] |
 
 ---
 
@@ -52,6 +54,7 @@ Transfers steady heat into the inscribed object, keeping it warm for up to one h
 | Reach | _(default — Self)_ |
 | Persistence | Timed (Long) |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Warmstone|Warmstone]] |
 
 ---
 
@@ -69,6 +72,7 @@ Draws heat out of a touched object on contact, rapidly cooling it to a safe hand
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Chill Touch|Chill Touch]] |
 
 ---
 
@@ -86,6 +90,7 @@ Accelerates evaporation across a flat surface, leaving it completely dry within 
 | Reach | _(default — Self)_ |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Dryseal|Dryseal]] |
 
 ---
 
@@ -103,7 +108,9 @@ Takes an immediate thermal reading of a touched object, giving the caster a clea
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Heatcheck|Heatcheck]] |
 
+| Spell Page | [[Spells/Drycleave|Drycleave]] |
 ---
 
 **Drycleave**
@@ -120,7 +127,9 @@ Instantly strips moisture and surface contaminants from the inscribed object usi
 | Reach | _(default — Self)_ |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Drycleave|Drycleave]] |
 
+| Spell Page | [[Spells/Inkmark|Inkmark]] |
 ---
 
 **Inkmark**
@@ -137,6 +146,7 @@ Burns a faint but permanent sigil-compatible mark onto a surface or object on co
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Knocksense|Knocksense]] |
 
 ---
 
@@ -154,6 +164,7 @@ Detects physical impact or pressure against the inscribed surface and logs its d
 | Reach | _(default — Self)_ |
 | Persistence | Conditional |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Chargecheck|Chargecheck]] |
 
 ---
 
@@ -171,6 +182,7 @@ Detects the presence and polarity of electrical charge in a touched object, used
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Nudge|Nudge]] |
 
 ---
 
@@ -188,6 +200,7 @@ Applies a brief directed kinetic push to a small object within reach, moving it 
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | Object |
+| Spell Page | [[Spells/Shove|Shove]] |
 
 ---
 
@@ -205,6 +218,7 @@ Releases a single raw kinetic burst from the written sigil, pushing anything in 
 | Reach | _(default — Self)_ |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Crackle|Crackle]] |
 
 ---
 
@@ -222,6 +236,7 @@ Discharges a small electrical spark from the sigil on contact, delivering a pain
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Coldbox Seal|Coldbox Seal]] |
 
 ---
 
@@ -239,6 +254,7 @@ Draws heat out of the inscribed surface and holds it cold for up to one hour, fu
 | Reach | _(default — Self)_ |
 | Persistence | Timed (Long) |
 | Target | Surface |
+| Spell Page | [[Spells/Steadyflame|Steadyflame]] |
 
 ---
 
@@ -256,6 +272,7 @@ Anchors a small sustained flame to the written sigil that burns cleanly without 
 | Reach | _(default — Self)_ |
 | Persistence | Timed (Long) |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Mending Seal|Mending Seal]] |
 
 ---
 
@@ -273,6 +290,7 @@ Applies a reactive chemical bond to a cracked or broken object on contact, fusin
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | Object |
+| Spell Page | [[Spells/Fumegate|Fumegate]] |
 
 ---
 
@@ -290,6 +308,7 @@ Releases a short-lived reactive chemical cloud from the sigil surface, neutraliz
 | Reach | _(default — Self)_ |
 | Persistence | Timed (Short) |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Breathclean|Breathclean]] |
 
 ---
 
@@ -307,6 +326,7 @@ Filters chemical contaminants and particulates out of the air within a short sph
 | Reach | Short |
 | Persistence | Timed (Short) |
 | Target | Self |
+| Spell Page | [[Spells/Lockward|Lockward]] |
 
 ---
 
@@ -324,6 +344,7 @@ Binds a door, chest, or container shut with a constraint force that holds until 
 | Reach | Touch |
 | Persistence | Latched |
 | Target | Object |
+| Spell Page | [[Spells/Silence Patch|Silence Patch]] |
 
 ---
 
@@ -341,6 +362,7 @@ Suppresses all sound originating from the written sigil's surface for up to one 
 | Reach | _(default — Self)_ |
 | Persistence | Timed (Short) |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Muffle|Muffle]] |
 
 ---
 
@@ -358,6 +380,7 @@ Wraps a single object in a sustained sonic dampening field, significantly reduci
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
+| Spell Page | [[Spells/Sharpen|Sharpen]] |
 
 ---
 
@@ -375,7 +398,9 @@ Temporarily hardens and refines the edge of a bladed object on contact, improvin
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
+| Spell Page | [[Spells/Stonehard|Stonehard]] |
 
+| Spell Page | [[Spells/Insulationlayer|Insulationlayer]] |
 ---
 
 **Stonehard**
@@ -392,7 +417,9 @@ Temporarily increases the structural density of a surface or object, making it s
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
+| Spell Page | [[Spells/Stonehard|Stonehard]] |
 
+| Spell Page | [[Spells/Copymark|Copymark]] |
 ---
 
 **Insulationlayer**
@@ -409,6 +436,7 @@ Coats the inscribed surface in a thin reactive chemical layer that resists elect
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
+| Spell Page | [[Spells/Tripwire|Tripwire]] |
 
 ---
 
@@ -426,6 +454,7 @@ Transfers the exact surface impression of a sigil or inscription from one object
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | Object |
+| Spell Page | [[Spells/Fluxread|Fluxread]] |
 
 ---
 
@@ -443,6 +472,7 @@ Waits silently on the inscribed surface until a physical threshold is crossed, t
 | Reach | _(default — Self)_ |
 | Persistence | Conditional |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Breathsense|Breathsense]] |
 
 ---
 
@@ -460,6 +490,7 @@ Senses and maps the presence and intensity of active Flux within a short radius,
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | Filter |
+| Spell Page | [[Spells/Flashburst|Flashburst]] |
 
 ---
 
@@ -477,6 +508,7 @@ Detects the presence of living beings within a short radius by sensing the heat 
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | Filter |
+| Spell Page | [[Spells/Heatpalm|Heatpalm]] |
 
 ---
 
@@ -494,6 +526,7 @@ Emits a blinding burst of photonic light from the sigil, overwhelming the vision
 | Reach | _(default — Self)_ |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Forcepulse|Forcepulse]] |
 
 ---
 
@@ -511,6 +544,7 @@ Channels a focused thermal burst through direct contact, burning the touched tar
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | Individual |
+| Spell Page | [[Spells/Hardenskin|Hardenskin]] |
 
 ---
 
@@ -528,6 +562,7 @@ Releases a blunt kinetic burst in a directed cone from the caster, pushing every
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Slickplane|Slickplane]] |
 
 ---
 
@@ -545,6 +580,7 @@ Applies a brief force-layer to the caster's body, slightly hardening the surface
 | Reach | _(default — Self)_ |
 | Persistence | Timed (Short) |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Fluxhold|Fluxhold]] |
 
 ---
 
@@ -562,6 +598,7 @@ Coats a surface with a low-friction reactive chemical layer, causing anyone step
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
+| Spell Page | [[Spells/Fluxhold (Keyed)|Fluxhold (Keyed)]] |
 
 ---
 
@@ -579,6 +616,7 @@ An open Flux reservoir inscribed onto a physical object — slowly charges from 
 | Reach | _(default — Self)_ |
 | Persistence | Latched |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Fluxhold (Conditional)|Fluxhold (Conditional)]] |
 
 ---
 
@@ -596,6 +634,7 @@ A keyed Flux reservoir inscribed onto a physical object — slowly charges from 
 | Reach | _(default — Self)_ |
 | Persistence | Latched |
 | Target | Marked |
+| Spell Page | [[Spells/Bluntedge|Bluntedge]] |
 
 ---
 
@@ -613,6 +652,7 @@ A conditional Flux reservoir inscribed onto a physical object — slowly charges
 | Reach | _(default — Self)_ |
 | Persistence | Conditional |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Chillbox|Chillbox]] |
 
 ---
 
@@ -631,6 +671,7 @@ Temporarily softens and dulls the cutting edge of a blade on contact, rendering 
 | Reach        | Touch               |
 | Persistence  | Timed (Short)       |
 | Target       | Object              |
+| Spell Page | [[Spells/Coldbreath|Coldbreath]] |
 
 ---
 
@@ -649,6 +690,7 @@ Rapidly lowers the temperature of a small enclosed space to near-freezing, funct
 | Reach        | _(default — Self)_ |
 | Persistence  | Timed (Long)       |
 | Target       | Surface            |
+| Spell Page | [[Spells/Dimmer|Dimmer]] |
 
 ---
 
@@ -667,6 +709,7 @@ Chills the air immediately around the caster's face, providing brief relief from
 | Reach        | _(default — Self)_          |
 | Persistence  | Timed (Short)               |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Dustsweep|Dustsweep]] |
 
 ---
 
@@ -685,7 +728,9 @@ Gradually reduces the photonic output of a light source over a timed window, use
 | Reach        | Touch         |
 | Persistence  | Timed (Short) |
 | Target       | Object        |
+| Spell Page | [[Spells/Echolocate|Echolocate]] |
 
+| Spell Page | [[Spells/Emberglow|Emberglow]] |
 ---
 
 **Dustsweep**
@@ -703,7 +748,9 @@ Pushes loose debris, dust, and surface grime off a flat surface in a single raw 
 | Reach        | _(default — Self)_          |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Dustsweep|Dustsweep]] |
 
+| Spell Page | [[Spells/Flashmark|Flashmark]] |
 ---
 
 **Echolocate**
@@ -721,6 +768,7 @@ Emits a low sonic pulse that bounces off nearby surfaces and returns a rough spa
 | Reach        | Short                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Self                    |
+| Spell Page | [[Spells/Fogshroud|Fogshroud]] |
 
 ---
 
@@ -739,6 +787,7 @@ Sustains a faint thermal warmth across an inscribed object indefinitely, keeping
 | Reach        | _(default — Self)_          |
 | Persistence  | Permanent                   |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Forceanchor|Forceanchor]] |
 
 ---
 
@@ -757,6 +806,7 @@ Imprints a brief bright photonic impression of the sigil onto the retinas of any
 | Reach        | _(default — Self)_          |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Gripcoat|Gripcoat]] |
 
 ---
 
@@ -775,6 +825,7 @@ Releases a brief reactive chemical fog from the sigil surface, obscuring vision 
 | Reach        | Short                       |
 | Persistence  | Timed (Short)               |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Heatthread|Heatthread]] |
 
 ---
 
@@ -793,6 +844,7 @@ Pins a small object to a surface with a persistent kinetic force, holding it imm
 | Reach        | Touch   |
 | Persistence  | Latched |
 | Target       | Object  |
+| Spell Page | [[Spells/Hushfield|Hushfield]] |
 
 ---
 
@@ -811,6 +863,7 @@ Applies a tacky reactive layer to a surface or handle, significantly improving g
 | Reach        | Touch                       |
 | Persistence  | Timed (Short)               |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Lightbeam|Lightbeam]] |
 
 ---
 
@@ -829,6 +882,7 @@ Runs a sustained line of precise thermal output along a defined path on a surfac
 | Reach        | Touch     |
 | Persistence  | Sustained |
 | Target       | Surface   |
+| Spell Page | [[Spells/Lightpatch|Lightpatch]] |
 
 ---
 
@@ -847,6 +901,7 @@ Generates a sustained sound-dampening field around a single object, muffling all
 | Reach        | _(default — Self)_ |
 | Persistence  | Sustained          |
 | Target       | Object             |
+| Spell Page | [[Spells/Mindnoise|Mindnoise]] |
 
 ---
 
@@ -865,6 +920,7 @@ Projects a steady narrow beam of photonic light from the sigil in a fixed direct
 | Reach        | _(default — Self)_          |
 | Persistence  | Sustained                   |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Presspoint|Presspoint]] |
 
 ---
 
@@ -883,6 +939,7 @@ Applies a dim but permanent photonic glow to any flat surface, commonly used for
 | Reach        | _(default — Self)_          |
 | Persistence  | Permanent                   |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Pulsecheck|Pulsecheck]] |
 
 ---
 
@@ -901,6 +958,7 @@ Floods the immediate area with low-level neuro-disrupting static, making it diff
 | Reach        | Short                       |
 | Persistence  | Timed (Short)               |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Rustblock|Rustblock]] |
 
 ---
 
@@ -919,6 +977,7 @@ Delivers a precise focused pressure burst to a single point on contact — used 
 | Reach        | Touch                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Scentstrip|Scentstrip]] |
 
 ---
 
@@ -937,6 +996,7 @@ Sends a raw Flux pulse through a touched object, returning a basic sense of its 
 | Reach        | Touch                       |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Scorchdot|Scorchdot]] |
 
 ---
 
@@ -955,6 +1015,7 @@ Applies a thin reactive coating to a metal surface that halts oxidation on conta
 | Reach        | Touch                       |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Shockloop|Shockloop]] |
 
 ---
 
@@ -973,6 +1034,7 @@ Chemically neutralizes odor from the inscribed surface, leaving it scent-neutral
 | Reach        | _(default — Self)_          |
 | Persistence  | Timed (Short)               |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Shockpad|Shockpad]] |
 
 ---
 
@@ -991,7 +1053,9 @@ Burns a precise small point onto a surface using focused thermal output — used
 | Reach        | Touch                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Surface                 |
+| Spell Page | [[Spells/Solventstrip|Solventstrip]] |
 
+| Spell Page | [[Spells/Soundping|Soundping]] |
 ---
 
 **Shockloop**
@@ -1009,7 +1073,9 @@ Runs a contained electrical current through a defined ring on a surface, creatin
 | Reach        | _(default — Self)_          |
 | Persistence  | Latched                     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Shockloop|Shockloop]] |
 
+| Spell Page | [[Spells/Sparknail|Sparknail]] |
 ---
 
 **Shockpad**
@@ -1027,6 +1093,7 @@ Stores a latent electrical charge in the inscribed surface, releasing it as a pa
 | Reach        | _(default — Self)_          |
 | Persistence  | Conditional                 |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Staticsnap|Staticsnap]] |
 
 ---
 
@@ -1045,6 +1112,7 @@ Applies a reactive chemical dissolve to an adhesive bond, breaking glue, resin, 
 | Reach        | Touch                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Object                  |
+| Spell Page | [[Spells/Stickbind|Stickbind]] |
 
 ---
 
@@ -1063,6 +1131,7 @@ Emits a single sharp sonic tone from the inscribed surface, audible up to 30 fee
 | Reach        | _(default — Self)_          |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Vibrasense|Vibrasense]] |
 
 ---
 
@@ -1081,6 +1150,7 @@ Drives a small focused kinetic point into a surface on contact, functioning as a
 | Reach        | Touch                       |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Warmbreath|Warmbreath]] |
 
 ---
 
@@ -1099,6 +1169,7 @@ Releases a small but sharp electrical snap at the point of contact — startling
 | Reach        | Touch                       |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Weightshift|Weightshift]] |
 
 ---
 
@@ -1117,6 +1188,7 @@ Creates a strong adhesive reactive bond between two surfaces on contact, holding
 | Reach        | Touch        |
 | Persistence  | Timed (Long) |
 | Target       | Object       |
+| Spell Page | [[Spells/Stickbind|Stickbind]] |
 
 ---
 
@@ -1135,7 +1207,9 @@ Detects vibration patterns in a touched surface, allowing the caster to identify
 | Reach        | Touch     |
 | Persistence  | Sustained |
 | Target       | Surface   |
+| Spell Page | [[Spells/Vibrasense|Vibrasense]] |
 
+| Spell Page | [[Spells/Warmbreath|Warmbreath]] |
 ---
 
 **Warmbreath**
@@ -1153,7 +1227,9 @@ Gently heats the air immediately around the caster's face and chest, taking the 
 | Reach        | _(default — Self)_          |
 | Persistence  | Timed (Short)               |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Warmbreath|Warmbreath]] |
 
+| Spell Page | [[Spells/Weightshift|Weightshift]] |
 ---
 
 **Weightshift**
@@ -1171,6 +1247,7 @@ Temporarily reduces the effective weight of a touched object by dampening its in
 | Reach        | Touch         |
 | Persistence  | Timed (Short) |
 | Target       | Object        |
+| Spell Page | [[Spells/Weightshift|Weightshift]] |
 
 ---
 
@@ -1315,6 +1392,7 @@ Boosts binding constraint flux as a directed line at self reach, targeting the i
 | Persistence | Immediate |
 | Target | Where Written |
 | Spell Page | [[Spells/Constraint Flux Augment|Constraint Flux Augment]] |
+| Spell Page | [[Spells/Heat Ring of Triangle|Heat Ring of Triangle]] |
 
 
 ---
@@ -1358,6 +1436,7 @@ Boosts binding constraint flux as a directed line.
 | Target | Where Written |
 | Spell Page | [[Spells/Binding Amplify Beam 2|Binding Amplify Beam 2]] |
 
+| Spell Page | [[Spells/Heat Ring of Triangle|Heat Ring of Triangle]] |
 
 ---
 
@@ -1375,4 +1454,5 @@ This spell creates a triangular ring of heat on its written location that lasts 
 | Reach | _(default - Self)_ |
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
+| Spell Page | [[Spells/Heat Ring of Triangle|Heat Ring of Triangle]] |
 

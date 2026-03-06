@@ -19,6 +19,8 @@ import re
 import shutil
 import subprocess
 import threading
+import urllib.error
+import urllib.request
 from dataclasses import asdict, dataclass
 from datetime import datetime
 from pathlib import Path
@@ -226,6 +228,8 @@ REACH_ALIASES = {
 
 TIER_SEQUENCE = tuple(row["tier"] for row in TIER_OVERVIEW)
 
+LLM_PROVIDER_CHOICES = ("local", "ollama", "sonnet", "openai")
+
 AUTO_DISCIPLINES = tuple(sorted(DISCIPLINE_MULTIPLIERS.keys()))
 
 AUTO_INTERNAL_DIR_NAMES = {"_processed", "_failed", "_generated"}
@@ -358,6 +362,13 @@ class SpellCostBreakdown:
     total_w: int
     required_tier: str
     rarity: str
+
+
+@dataclass
+class GenerationLLMConfig:
+    provider: str
+    model: str
+    api_key: str = ""
 
 
 def normalize_token(value: str) -> str:
@@ -900,6 +911,80 @@ def resolve_ollama_model(model: str, timeout_seconds: int = 20) -> str:
     return requested
 
 
+def load_secrets(path: Path) -> dict[str, str]:
+    if not path.exists() or not path.is_file():
+        return {}
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8", errors="replace"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    if not isinstance(raw, dict):
+        return {}
+    out: dict[str, str] = {}
+    for key, value in raw.items():
+        if isinstance(key, str) and isinstance(value, str):
+            out[key] = value
+    return out
+
+
+def post_json(url: str, payload: dict[str, Any], headers: dict[str, str], timeout_seconds: int) -> dict[str, Any]:
+    body = json.dumps(payload).encode("utf-8")
+    request = urllib.request.Request(url=url, data=body, headers=headers, method="POST")
+    try:
+        with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib.error.HTTPError as exc:
+        details = exc.read().decode("utf-8", errors="replace") if hasattr(exc, "read") else ""
+        raise ValueError(f"HTTP {exc.code} from {url}: {details[:300]}") from exc
+    except urllib.error.URLError as exc:
+        raise ValueError(f"Connection error to {url}: {exc}") from exc
+    try:
+        decoded = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise ValueError(f"Invalid JSON response from {url}") from exc
+    if not isinstance(decoded, dict):
+        raise ValueError(f"Unexpected response payload from {url}")
+    return decoded
+
+
+def resolve_generation_llm(args: argparse.Namespace) -> GenerationLLMConfig:
+    provider = str(getattr(args, "llm_provider", "ollama") or "ollama").strip().lower()
+    if provider not in LLM_PROVIDER_CHOICES:
+        print(f"[LLM] Unknown provider '{provider}', falling back to local.")
+        return GenerationLLMConfig(provider="local", model="")
+
+    timeout_seconds = max(5, int(getattr(args, "ollama_timeout_seconds", 20)))
+    if provider == "local":
+        return GenerationLLMConfig(provider="local", model="")
+
+    if provider == "ollama":
+        model = resolve_ollama_model(str(getattr(args, "ollama_model", "") or ""), timeout_seconds=timeout_seconds)
+        if not model:
+            return GenerationLLMConfig(provider="local", model="")
+        return GenerationLLMConfig(provider="ollama", model=model)
+
+    secrets_path = Path(str(getattr(args, "secrets_path", "agent/secrets.json") or "agent/secrets.json"))
+    secrets = load_secrets(secrets_path)
+
+    if provider == "sonnet":
+        key = secrets.get("ANTHROPIC_API_KEY", "").strip()
+        model = str(getattr(args, "sonnet_model", "claude-3-5-sonnet-latest") or "claude-3-5-sonnet-latest").strip()
+        if not key:
+            print("[LLM] Missing ANTHROPIC_API_KEY in secrets; falling back to local.")
+            return GenerationLLMConfig(provider="local", model="")
+        return GenerationLLMConfig(provider="sonnet", model=model, api_key=key)
+
+    if provider == "openai":
+        key = secrets.get("OPENAI_API_KEY", "").strip()
+        model = str(getattr(args, "openai_model", "gpt-4o-mini") or "gpt-4o-mini").strip()
+        if not key:
+            print("[LLM] Missing OPENAI_API_KEY in secrets; falling back to local.")
+            return GenerationLLMConfig(provider="local", model="")
+        return GenerationLLMConfig(provider="openai", model=model, api_key=key)
+
+    return GenerationLLMConfig(provider="local", model="")
+
+
 def normalize_single_sentence(text: str) -> str:
     normalized = re.sub(r"\s+", " ", text.replace("```", " ").strip())
     if not normalized:
@@ -979,6 +1064,121 @@ def ollama_name_from_summary(
     name = sanitize_spell_name(first_line)
     if not name:
         raise ValueError("Ollama returned an empty name.")
+    return name
+
+
+def sonnet_run_prompt(prompt: str, *, model: str, api_key: str, timeout_seconds: int) -> str:
+    payload = {
+        "model": model,
+        "max_tokens": 200,
+        "temperature": 0,
+        "messages": [{"role": "user", "content": prompt}],
+    }
+    headers = {
+        "content-type": "application/json",
+        "x-api-key": api_key,
+        "anthropic-version": "2023-06-01",
+    }
+    response = post_json(
+        "https://api.anthropic.com/v1/messages",
+        payload,
+        headers,
+        timeout_seconds,
+    )
+    content = response.get("content", [])
+    if isinstance(content, list):
+        for block in content:
+            if isinstance(block, dict) and block.get("type") == "text":
+                text = str(block.get("text", "")).strip()
+                if text:
+                    return text
+    raise ValueError("Anthropic response did not contain text content.")
+
+
+def openai_run_prompt(prompt: str, *, model: str, api_key: str, timeout_seconds: int) -> str:
+    payload = {
+        "model": model,
+        "temperature": 0,
+        "max_tokens": 200,
+        "messages": [{"role": "user", "content": prompt}],
+    }
+    headers = {
+        "content-type": "application/json",
+        "authorization": f"Bearer {api_key}",
+    }
+    response = post_json(
+        "https://api.openai.com/v1/chat/completions",
+        payload,
+        headers,
+        timeout_seconds,
+    )
+    choices = response.get("choices", [])
+    if isinstance(choices, list) and choices:
+        first = choices[0]
+        if isinstance(first, dict):
+            message = first.get("message", {})
+            if isinstance(message, dict):
+                text = str(message.get("content", "")).strip()
+                if text:
+                    return text
+    raise ValueError("OpenAI response did not contain message content.")
+
+
+def llm_summary_from_recipe(
+    spec_data: dict[str, Any], *, config: GenerationLLMConfig, timeout_seconds: int
+) -> str:
+    if config.provider == "ollama":
+        return ollama_summary_from_recipe(spec_data, model=config.model, timeout_seconds=timeout_seconds)
+
+    prompt = (
+        "You are given Solumora spell recipe variables. "
+        "Write exactly one plain sentence (no markdown) describing what the spell does in practice. "
+        "Do not include labels, bullets, or extra commentary.\n"
+        f"Recipe: {json.dumps(spec_data, ensure_ascii=True)}"
+    )
+    if config.provider == "sonnet":
+        summary = normalize_single_sentence(
+            sonnet_run_prompt(prompt, model=config.model, api_key=config.api_key, timeout_seconds=timeout_seconds)
+        )
+        if not summary:
+            raise ValueError("Sonnet returned an empty summary.")
+        return summary
+    if config.provider == "openai":
+        summary = normalize_single_sentence(
+            openai_run_prompt(prompt, model=config.model, api_key=config.api_key, timeout_seconds=timeout_seconds)
+        )
+        if not summary:
+            raise ValueError("OpenAI returned an empty summary.")
+        return summary
+    raise ValueError("Unsupported LLM provider for summary generation.")
+
+
+def llm_name_from_summary(
+    summary: str,
+    spec_data: dict[str, Any],
+    *,
+    config: GenerationLLMConfig,
+    timeout_seconds: int,
+) -> str:
+    if config.provider == "ollama":
+        return ollama_name_from_summary(summary, spec_data, model=config.model, timeout_seconds=timeout_seconds)
+
+    prompt = (
+        "Given this one-sentence spell summary, return only a spell name "
+        "(2-4 words, title case, no punctuation, no explanation).\n"
+        f"Summary: {summary}\n"
+        f"Recipe: {json.dumps(spec_data, ensure_ascii=True)}"
+    )
+    if config.provider == "sonnet":
+        raw = sonnet_run_prompt(prompt, model=config.model, api_key=config.api_key, timeout_seconds=timeout_seconds)
+    elif config.provider == "openai":
+        raw = openai_run_prompt(prompt, model=config.model, api_key=config.api_key, timeout_seconds=timeout_seconds)
+    else:
+        raise ValueError("Unsupported LLM provider for name generation.")
+    first_line = raw.strip().splitlines()[0] if raw.strip() else ""
+    name = sanitize_spell_name(first_line)
+    if not name:
+        raise ValueError("LLM returned an empty spell name.")
     return name
 
 
@@ -1182,7 +1382,7 @@ def generate_auto_specs(
     existing_names: set[str],
     min_tier: str,
     max_tier: str,
-    ollama_model: str | None = None,
+    llm_config: GenerationLLMConfig | None = None,
     ollama_timeout_seconds: int = 90,
 ) -> list[SpellSpec]:
     if count <= 0:
@@ -1198,37 +1398,38 @@ def generate_auto_specs(
     rng = random.SystemRandom()
     max_attempts = max(500, count * 400)
     attempts = 0
-    ollama_enabled = bool(ollama_model)
+    llm_enabled = bool(llm_config and llm_config.provider != "local")
+    config = llm_config or GenerationLLMConfig(provider="local", model="")
 
     while len(generated) < count and attempts < max_attempts:
         attempts += 1
         recipe = random_recipe_spec_data(rng)
         summary = recipe_summary_from_variables(recipe)
 
-        if ollama_enabled and ollama_model:
+        if llm_enabled:
             try:
-                summary = ollama_summary_from_recipe(
+                summary = llm_summary_from_recipe(
                     recipe,
-                    model=ollama_model,
+                    config=config,
                     timeout_seconds=ollama_timeout_seconds,
                 )
             except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
-                print(f"[OLLAMA] Summary fallback engaged: {exc}")
-                ollama_enabled = False
+                print(f"[LLM] Summary fallback engaged: {exc}")
+                llm_enabled = False
 
         fallback_name = derive_name_from_summary(summary, recipe)
         name = fallback_name
-        if ollama_enabled and ollama_model:
+        if llm_enabled:
             try:
-                name = ollama_name_from_summary(
+                name = llm_name_from_summary(
                     summary,
                     recipe,
-                    model=ollama_model,
+                    config=config,
                     timeout_seconds=ollama_timeout_seconds,
                 )
             except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
-                print(f"[OLLAMA] Name fallback engaged: {exc}")
-                ollama_enabled = False
+                print(f"[LLM] Name fallback engaged: {exc}")
+                llm_enabled = False
                 name = fallback_name
 
         name = ensure_unique_name(sanitize_spell_name(name) or fallback_name, reserved_names)
@@ -1299,15 +1500,26 @@ def command_auto(args: argparse.Namespace) -> int:
     print(f"- Recursive queue scan: {not args.no_recursive}")
     print(f"- Auto generation target: {args.generate_count} spells")
     print(f"- Tier window: {args.min_tier} to {args.max_tier}")
-    resolved_ollama_model = resolve_ollama_model(
-        str(getattr(args, "ollama_model", "") or ""),
-        timeout_seconds=max(5, int(getattr(args, "ollama_timeout_seconds", 20))),
-    )
+    llm_config = resolve_generation_llm(args)
+    if llm_config.provider == "local":
+        print("- LLM provider: local deterministic fallback")
+    elif llm_config.provider == "ollama":
+        print(f"- LLM provider: ollama ({llm_config.model})")
+    elif llm_config.provider == "sonnet":
+        print(f"- LLM provider: sonnet ({llm_config.model})")
+    elif llm_config.provider == "openai":
+        print(f"- LLM provider: openai ({llm_config.model})")
+    else:
+        print(f"- LLM provider: {llm_config.provider} ({llm_config.model})")
+
+    resolved_ollama_model = ""
+    if llm_config.provider == "ollama":
+        resolved_ollama_model = llm_config.model
     args.ollama_model = resolved_ollama_model
     if resolved_ollama_model:
-        print(f"- Ollama model: {resolved_ollama_model}")
+        print(f"- Ollama interpretation model: {resolved_ollama_model}")
     else:
-        print("- Ollama model: disabled (deterministic naming/summaries active)")
+        print("- Ollama interpretation model: disabled")
 
     queue_files = discover_spec_files(spec_dir, args.spec_glob, recursive=not args.no_recursive)
     print(f"- Queue files discovered: {len(queue_files)}")
@@ -1360,7 +1572,7 @@ def command_auto(args: argparse.Namespace) -> int:
                 existing_names=existing,
                 min_tier=args.min_tier,
                 max_tier=args.max_tier,
-                ollama_model=(resolved_ollama_model or "").strip() or None,
+                llm_config=llm_config,
                 ollama_timeout_seconds=int(args.ollama_timeout_seconds),
             )
         except ValueError as exc:
@@ -1424,7 +1636,11 @@ def command_gui(args: argparse.Namespace) -> int:
     archive_queue_var = tk.BooleanVar(value=True)
     sync_indexes_var = tk.BooleanVar(value=True)
     sync_spells_hub_var = tk.BooleanVar(value=True)
+    llm_provider_var = tk.StringVar(value=str(getattr(args, "llm_provider", "ollama")))
     ollama_model_var = tk.StringVar(value=str(getattr(args, "ollama_model", "")))
+    sonnet_model_var = tk.StringVar(value=str(getattr(args, "sonnet_model", "claude-3-5-sonnet-latest")))
+    openai_model_var = tk.StringVar(value=str(getattr(args, "openai_model", "gpt-4o-mini")))
+    secrets_path_var = tk.StringVar(value=str(getattr(args, "secrets_path", "agent/secrets.json")))
     ollama_timeout_var = tk.IntVar(value=int(getattr(args, "ollama_timeout_seconds", 90)))
     status_var = tk.StringVar(value="Idle")
 
@@ -1454,20 +1670,42 @@ def command_gui(args: argparse.Namespace) -> int:
         controls, textvariable=max_tier_var, values=TIER_SEQUENCE, state="readonly", width=10
     ).grid(row=1, column=3, sticky="w", padx=4, pady=4)
 
-    ttk.Label(controls, text="Ollama Model (optional)").grid(
-        row=2, column=0, sticky="w", padx=4, pady=4
-    )
+    ttk.Label(controls, text="LLM Provider").grid(row=2, column=0, sticky="w", padx=4, pady=4)
+    ttk.Combobox(
+        controls,
+        textvariable=llm_provider_var,
+        values=list(LLM_PROVIDER_CHOICES),
+        state="readonly",
+        width=14,
+    ).grid(row=2, column=1, sticky="w", padx=4, pady=4)
+
+    ttk.Label(controls, text="Ollama Model").grid(row=2, column=2, sticky="w", padx=4, pady=4)
     ttk.Entry(controls, textvariable=ollama_model_var).grid(
-        row=2, column=1, sticky="ew", padx=4, pady=4
+        row=2, column=3, sticky="ew", padx=4, pady=4
     )
 
-    ttk.Label(controls, text="Ollama Timeout (s)").grid(row=2, column=2, sticky="w", padx=4, pady=4)
+    ttk.Label(controls, text="Sonnet Model").grid(row=3, column=0, sticky="w", padx=4, pady=4)
+    ttk.Entry(controls, textvariable=sonnet_model_var).grid(
+        row=3, column=1, sticky="ew", padx=4, pady=4
+    )
+
+    ttk.Label(controls, text="OpenAI Model").grid(row=3, column=2, sticky="w", padx=4, pady=4)
+    ttk.Entry(controls, textvariable=openai_model_var).grid(
+        row=3, column=3, sticky="ew", padx=4, pady=4
+    )
+
+    ttk.Label(controls, text="Secrets Path").grid(row=4, column=0, sticky="w", padx=4, pady=4)
+    ttk.Entry(controls, textvariable=secrets_path_var).grid(
+        row=4, column=1, columnspan=3, sticky="ew", padx=4, pady=4
+    )
+
+    ttk.Label(controls, text="LLM Timeout (s)").grid(row=5, column=2, sticky="w", padx=4, pady=4)
     ttk.Spinbox(controls, from_=5, to=600, textvariable=ollama_timeout_var, width=8).grid(
-        row=2, column=3, sticky="w", padx=4, pady=4
+        row=5, column=3, sticky="w", padx=4, pady=4
     )
 
     toggle_row = ttk.Frame(controls)
-    toggle_row.grid(row=3, column=0, columnspan=4, sticky="w", padx=4, pady=(4, 2))
+    toggle_row.grid(row=6, column=0, columnspan=4, sticky="w", padx=4, pady=(4, 2))
     ttk.Checkbutton(toggle_row, text="Recursive queue scan", variable=recursive_var).pack(
         side="left", padx=(0, 10)
     )
@@ -1529,7 +1767,11 @@ def command_gui(args: argparse.Namespace) -> int:
                 rarity_pages_dir="content",
                 sync_spells_hub=sync_spells_hub_var.get(),
                 spells_hub_path="content/Spells.md",
+                llm_provider=llm_provider_var.get().strip() or "ollama",
                 ollama_model=ollama_model_var.get().strip(),
+                sonnet_model=sonnet_model_var.get().strip() or "claude-3-5-sonnet-latest",
+                openai_model=openai_model_var.get().strip() or "gpt-4o-mini",
+                secrets_path=secrets_path_var.get().strip() or "agent/secrets.json",
                 ollama_timeout_seconds=max(5, int(ollama_timeout_var.get())),
             )
 
@@ -1971,6 +2213,15 @@ def build_parser() -> argparse.ArgumentParser:
 
     def add_ollama_args(command_parser: argparse.ArgumentParser) -> None:
         command_parser.add_argument(
+            "--llm-provider",
+            choices=LLM_PROVIDER_CHOICES,
+            default="ollama",
+            help=(
+                "Provider used for generated summary+name passes in auto mode. "
+                "Choose local, ollama, sonnet, or openai."
+            ),
+        )
+        command_parser.add_argument(
             "--ollama-model",
             default="",
             help=(
@@ -1984,6 +2235,21 @@ def build_parser() -> argparse.ArgumentParser:
             type=int,
             default=90,
             help="Timeout in seconds for each Ollama request.",
+        )
+        command_parser.add_argument(
+            "--sonnet-model",
+            default="claude-3-5-sonnet-latest",
+            help="Anthropic model used when --llm-provider sonnet.",
+        )
+        command_parser.add_argument(
+            "--openai-model",
+            default="gpt-4o-mini",
+            help="OpenAI model used when --llm-provider openai.",
+        )
+        command_parser.add_argument(
+            "--secrets-path",
+            default="agent/secrets.json",
+            help="Path to JSON secrets file containing API keys.",
         )
 
     def add_sync_args(command_parser: argparse.ArgumentParser) -> None:
@@ -2139,6 +2405,7 @@ def build_parser() -> argparse.ArgumentParser:
         func=command_auto,
         sync_grimoire_indexes=True,
         sync_spells_hub=True,
+        llm_provider="ollama",
         ollama_model="llama3.1:8b",
     )
 
@@ -2170,9 +2437,30 @@ def build_parser() -> argparse.ArgumentParser:
         help="Initial maximum tier shown in the UI.",
     )
     gui.add_argument(
+        "--llm-provider",
+        choices=LLM_PROVIDER_CHOICES,
+        default="ollama",
+        help="Initial provider shown in the UI for generated summary/name.",
+    )
+    gui.add_argument(
         "--ollama-model",
         default="llama3.1:8b",
         help="Initial Ollama model shown in the UI.",
+    )
+    gui.add_argument(
+        "--sonnet-model",
+        default="claude-3-5-sonnet-latest",
+        help="Initial Sonnet model shown in the UI.",
+    )
+    gui.add_argument(
+        "--openai-model",
+        default="gpt-4o-mini",
+        help="Initial OpenAI model shown in the UI.",
+    )
+    gui.add_argument(
+        "--secrets-path",
+        default="agent/secrets.json",
+        help="Initial secrets path shown in the UI.",
     )
     gui.add_argument(
         "--ollama-timeout-seconds",

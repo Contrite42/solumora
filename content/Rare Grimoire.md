@@ -18,6 +18,7 @@ Projects a precise electrical beam from the caster toward a visible individual t
 | Reach | Long |
 | Persistence | _(default — Immediate)_ |
 | Target | Individual |
+| Spell Page | [[Spells/Longbolt|Longbolt]] |
 
 ---
 
@@ -35,6 +36,7 @@ Delivers a sustained neuro-disruptive field across a group within range, causing
 | Reach | Medium |
 | Persistence | Sustained |
 | Target | Group |
+| Spell Page | [[Spells/Nerveshred|Nerveshred]] |
 
 ---
 
@@ -52,6 +54,7 @@ Sustains a crackling electrical field across a defined area, delivering continuo
 | Reach | Anchored |
 | Persistence | Sustained |
 | Target | Filter |
+| Spell Page | [[Spells/Voltfield|Voltfield]] |
 
 ---
 
@@ -69,6 +72,7 @@ Wraps a sustained Mind-discipline field around a group, causing those inside to 
 | Reach | Anchored |
 | Persistence | Sustained |
 | Target | Group |
+| Spell Page | [[Spells/Mindveil|Mindveil]] |
 
 ---
 
@@ -86,6 +90,7 @@ Burns a permanent Soul-signature brand onto a willing individual, serving as a v
 | Reach | Touch |
 | Persistence | Permanent |
 | Target | Individual |
+| Spell Page | [[Spells/Soulmark|Soulmark]] |
 
 ---
 
@@ -103,7 +108,9 @@ Senses the Soul signature of a touched individual, confirming identity beyond ph
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | Individual |
+| Spell Page | [[Spells/Soulread|Soulread]] |
 
+| Spell Page | [[Spells/Oathbind|Oathbind]] |
 ---
 
 **Oathbind**
@@ -120,7 +127,9 @@ Locks a spoken agreement between two individuals at the Soul level — both part
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Group |
+| Spell Page | [[Spells/Oathbind|Oathbind]] |
 
+| Spell Page | [[Spells/Mindbreak|Mindbreak]] |
 ---
 
 **Mindbreak**
@@ -137,6 +146,7 @@ Delivers a catastrophic neuro-disruptive pulse targeted at a single individual, 
 | Reach | Medium |
 | Persistence | Timed (Long) |
 | Target | Individual |
+| Spell Page | [[Spells/Fluxsever|Fluxsever]] |
 
 ---
 
@@ -154,6 +164,7 @@ Severs the Flux connection of a single target individual, temporarily blocking t
 | Reach | Medium |
 | Persistence | Timed (Short) |
 | Target | Individual |
+| Spell Page | [[Spells/Identitymask|Identitymask]] |
 
 ---
 
@@ -171,6 +182,7 @@ Wraps a single individual in a sustained Soul-level veil that obscures their tru
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Individual |
+| Spell Page | [[Spells/Fluxward|Fluxward]] |
 
 ---
 
@@ -188,6 +200,7 @@ Erects a sustained field that actively disrupts incoming Flux before it can reso
 | Reach | Anchored |
 | Persistence | Sustained |
 | Target | Filter |
+| Spell Page | [[Spells/Chainbind|Chainbind]] |
 
 ---
 
@@ -206,6 +219,7 @@ Simultaneously applies constraint force bindings to every individual in a group,
 | Reach        | Medium       |
 | Persistence  | Timed (Long) |
 | Target       | Group        |
+| Spell Page | [[Spells/Chemfield|Chemfield]] |
 
 ---
 
@@ -224,6 +238,7 @@ Sustains a reactive chemical saturation field across a wide area, slowly breakin
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Filter    |
+| Spell Page | [[Spells/Deepburn|Deepburn]] |
 
 ---
 
@@ -242,6 +257,7 @@ Channels a sustained thermal beam that penetrates surface material to heat and d
 | Reach        | Long       |
 | Persistence  | Sustained  |
 | Target       | Individual |
+| Spell Page | [[Spells/Deepread|Deepread]] |
 
 ---
 
@@ -260,6 +276,7 @@ Performs a full Flux-signature scan of an individual at range, returning their a
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Fluxbleed|Fluxbleed]] |
 
 ---
 
@@ -278,6 +295,7 @@ Forces a targeted individual's Flux channels open beyond safe limits, causing th
 | Reach        | Medium        |
 | Persistence  | Timed (Short) |
 | Target       | Individual    |
+| Spell Page | [[Spells/Fluxdrain|Fluxdrain]] |
 
 ---
 
@@ -296,6 +314,7 @@ Siphons active Flux from a single individual's ongoing casting, weakening their 
 | Reach        | Medium     |
 | Persistence  | Sustained  |
 | Target       | Individual |
+| Spell Page | [[Spells/Forcewall|Forcewall]] |
 
 ---
 
@@ -314,6 +333,7 @@ Raises a sustained vertical plane of dense constrained kinetic force that physic
 | Reach        | Anchored   |
 | Persistence  | Sustained  |
 | Target       | Filter     |
+| Spell Page | [[Spells/Infernowall|Infernowall]] |
 
 ---
 
@@ -332,6 +352,7 @@ Erects a sustained wide plane of intense combined thermal and reactive output, c
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Filter    |
+| Spell Page | [[Spells/Mindanchor|Mindanchor]] |
 
 ---
 
@@ -350,6 +371,7 @@ Locks a single individual's conscious state in place, preventing them from being
 | Reach        | Touch      |
 | Persistence  | Sustained  |
 | Target       | Individual |
+| Spell Page | [[Spells/Mindshatter|Mindshatter]] |
 
 ---
 
@@ -368,6 +390,7 @@ Delivers a catastrophic neuro-disruptive burst to an entire group simultaneously
 | Reach        | Medium        |
 | Persistence  | Timed (Short) |
 | Target       | Group         |
+| Spell Page | [[Spells/Mindsweep|Mindsweep]] |
 
 ---
 
@@ -386,6 +409,7 @@ Broadcasts a wide neuro-disrupting field that simultaneously stuns every individ
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
+| Spell Page | [[Spells/Soulbrand|Soulbrand]] |
 
 ---
 
@@ -404,7 +428,9 @@ Burns a Soul-level mark of identification onto an unwilling individual, making t
 | Reach        | Touch      |
 | Persistence  | Permanent  |
 | Target       | Individual |
+| Spell Page | [[Spells/Soulcage|Soulcage]] |
 
+| Spell Page | [[Spells/Souldrift|Souldrift]] |
 ---
 
 **Soulcage**
@@ -422,7 +448,9 @@ Wraps a single individual in a permanent Soul-level constraint that prevents the
 | Reach        | Touch      |
 | Persistence  | Latched    |
 | Target       | Individual |
+| Spell Page | [[Spells/Soulcage|Soulcage]] |
 
+| Spell Page | [[Spells/Soulscan|Soulscan]] |
 ---
 
 **Souldrift**
@@ -440,6 +468,7 @@ Temporarily detaches the caster's Soul signature from their physical location, a
 | Reach        | Self      |
 | Persistence  | Sustained |
 | Target       | Self      |
+| Spell Page | [[Spells/Stormfield|Stormfield]] |
 
 ---
 
@@ -458,6 +487,7 @@ Performs a deep Soul-frequency sweep of an area, returning the identity signatur
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
+| Spell Page | [[Spells/Soulscan|Soulscan]] |
 
 ---
 
@@ -476,3 +506,4 @@ Sustains a crackling electrical storm field across a wide area, delivering conti
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Group     |
+| Spell Page | [[Spells/Stormfield|Stormfield]] |

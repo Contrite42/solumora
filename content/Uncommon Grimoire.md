@@ -18,6 +18,7 @@ Creates an airtight binding seal across a surface, preventing gas or liquid from
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
+| Spell Page | [[Spells/Pressureseal|Pressureseal]] |
 
 ---
 
@@ -35,6 +36,7 @@ Locks the chemical state of organic material — food, plant matter, leather —
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
+| Spell Page | [[Spells/Preserveseal|Preserveseal]] |
 
 ---
 
@@ -52,6 +54,7 @@ Filters light around the caster to reveal hidden sigils, invisible marks, and ac
 | Reach | Line-of-Sight |
 | Persistence | Sustained |
 | Target | Self |
+| Spell Page | [[Spells/Truesight Lens|Truesight Lens]] |
 
 ---
 
@@ -69,6 +72,7 @@ Amplifies and focuses the caster's hearing in a directed cone, allowing them to 
 | Reach | Medium |
 | Persistence | Sustained |
 | Target | Self |
+| Spell Page | [[Spells/Soundlisten|Soundlisten]] |
 
 ---
 
@@ -86,6 +90,7 @@ Reads and maps the unique Flux signature of a specific individual on contact, cr
 | Reach | Touch |
 | Persistence | _(default — Immediate)_ |
 | Target | Individual |
+| Spell Page | [[Spells/Fluxprint|Fluxprint]] |
 
 ---
 
@@ -103,7 +108,9 @@ Locates any object or individual bearing a specific paired mark within medium ra
 | Reach | Medium |
 | Persistence | _(default — Immediate)_ |
 | Target | Marked |
+| Spell Page | [[Spells/Marksense|Marksense]] |
 
+| Spell Page | [[Spells/Scorch|Scorch]] |
 ---
 
 **Scorch**
@@ -120,7 +127,9 @@ Emits a cone of intense thermal energy from the caster, burning everything in it
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Scorch|Scorch]] |
 
+| Spell Page | [[Spells/Acidspray|Acidspray]] |
 ---
 
 **Acidspray**
@@ -137,6 +146,7 @@ Projects a reactive chemical cone that rapidly corrodes metal, leather, and orga
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Thunderclap|Thunderclap]] |
 
 ---
 
@@ -154,6 +164,7 @@ Detonates a sphere of concussive sonic force centered on the sigil, disorienting
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | _(default — Where Written)_ |
+| Spell Page | [[Spells/Sonicspike|Sonicspike]] |
 
 ---
 
@@ -171,6 +182,7 @@ Fires a narrow concentrated sonic beam at a single individual target, causing sh
 | Reach | Medium |
 | Persistence | _(default — Immediate)_ |
 | Target | Individual |
+| Spell Page | [[Spells/Bolt|Bolt]] |
 
 ---
 
@@ -188,6 +200,7 @@ Projects a focused beam of electrical discharge from the caster toward a single 
 | Reach | Medium |
 | Persistence | _(default — Immediate)_ |
 | Target | Individual |
+| Spell Page | [[Spells/Shieldwall|Shieldwall]] |
 
 ---
 
@@ -205,6 +218,7 @@ Erects a flat plane of constrained force in front of the caster, holding as a ph
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Self |
+| Spell Page | [[Spells/Slowfall|Slowfall]] |
 
 ---
 
@@ -222,6 +236,7 @@ Applies a continuous upward kinetic resistance to the caster during a fall, dram
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Self |
+| Spell Page | [[Spells/Lift|Lift]] |
 
 ---
 
@@ -239,6 +254,7 @@ Applies a continuous upward kinetic force to a single object, holding it aloft w
 | Reach | Short |
 | Persistence | Sustained |
 | Target | Object |
+| Spell Page | [[Spells/Whisperlink|Whisperlink]] |
 
 ---
 
@@ -256,6 +272,7 @@ Sends a short spoken message through a linked sigil mark to a specific individua
 | Reach | Linked |
 | Persistence | _(default — Immediate)_ |
 | Target | Marked |
+| Spell Page | [[Spells/Mindstun|Mindstun]] |
 
 ---
 
@@ -273,6 +290,7 @@ Fires a targeted neuro-disruptive pulse at a single individual, overwhelming the
 | Reach | Medium |
 | Persistence | Timed (Short) |
 | Target | Individual |
+| Spell Page | [[Spells/Concussive Ring|Concussive Ring]] |
 
 ---
 
@@ -290,6 +308,7 @@ Detonates a ring of outward kinetic force centered on the caster, staggering eve
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | Group |
+| Spell Page | [[Spells/Corrosivefield|Corrosivefield]] |
 
 ---
 
@@ -307,6 +326,7 @@ Sustains a reactive chemical field across a defined area, slowly degrading any u
 | Reach | Anchored |
 | Persistence | Sustained |
 | Target | Filter |
+| Spell Page | [[Spells/Counterpulse|Counterpulse]] |
 
 ---
 
@@ -324,6 +344,7 @@ Fires a raw counter-burst timed to intercept and neutralize an incoming spell's 
 | Reach | Short |
 | Persistence | _(default — Immediate)_ |
 | Target | Filter |
+| Spell Page | [[Spells/Heatshield|Heatshield]] |
 
 ---
 
@@ -341,6 +362,7 @@ Wraps the caster in a sustained sphere that absorbs and disperses incoming therm
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Self |
+| Spell Page | [[Spells/Soundshell|Soundshell]] |
 
 ---
 
@@ -358,6 +380,7 @@ Wraps the caster in a sustained sphere that absorbs incoming sonic force, protec
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Self |
+| Spell Page | [[Spells/Warding Circle|Warding Circle]] |
 
 ---
 
@@ -375,7 +398,9 @@ Inscribes a standing ring boundary that repels anything crossing the perimeter w
 | Reach | Anchored |
 | Persistence | Latched |
 | Target | Filter |
+| Spell Page | [[Spells/Deadzone|Deadzone]] |
 
+| Spell Page | [[Spells/Permanentpreserve|Permanentpreserve]] |
 ---
 
 **Deadzone**
@@ -392,7 +417,9 @@ Projects a sustained field that suppresses all sound in a cylindrical area, prev
 | Reach | Anchored |
 | Persistence | Sustained |
 | Target | Surface |
+| Spell Page | [[Spells/Deadzone|Deadzone]] |
 
+| Spell Page | [[Spells/Tether|Tether]] |
 ---
 
 **Permanentpreserve**
@@ -409,6 +436,7 @@ Locks the chemical state of organic material indefinitely, permanently halting d
 | Reach | Touch |
 | Persistence | Permanent |
 | Target | Object |
+| Spell Page | [[Spells/Drawback|Drawback]] |
 
 ---
 
@@ -426,6 +454,7 @@ Binds a target individual with a constraint force anchored to a fixed point, lim
 | Reach | Medium |
 | Persistence | Timed (Long) |
 | Target | Individual |
+| Spell Page | [[Spells/Guided Drift|Guided Drift]] |
 
 ---
 
@@ -443,6 +472,7 @@ Applies a sustained pulling force on a specific marked object, dragging it towar
 | Reach | Medium |
 | Persistence | Sustained |
 | Target | Marked |
+| Spell Page | [[Spells/Acidpool|Acidpool]] |
 
 ---
 
@@ -460,6 +490,7 @@ Maintains a continuous directional kinetic force on a moving object, steering it
 | Reach | Line-of-Sight |
 | Persistence | Sustained |
 | Target | Object |
+| Spell Page | [[Spells/Arcchain|Arcchain]] |
 
 ---
 
@@ -478,6 +509,7 @@ Deposits a sustained reactive chemical field on a surface that corrodes anything
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Surface   |
+| Spell Page | [[Spells/Binding Net|Binding Net]] |
 
 ---
 
@@ -496,6 +528,7 @@ Fires an electrical bolt that chains between up to three individuals in proximit
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
+| Spell Page | [[Spells/Chembrand|Chembrand]] |
 
 ---
 
@@ -514,6 +547,7 @@ Projects a spread of constraint force in a cone, wrapping and restricting the mo
 | Reach        | Short         |
 | Persistence  | Timed (Short) |
 | Target       | Group         |
+| Spell Page | [[Spells/Chemcloud|Chemcloud]] |
 
 ---
 
@@ -532,6 +566,7 @@ Burns a permanent chemical mark into organic or metal surfaces that resists remo
 | Reach        | Touch     |
 | Persistence  | Permanent |
 | Target       | Object    |
+| Spell Page | [[Spells/Concusswave|Concusswave]] |
 
 ---
 
@@ -550,6 +585,7 @@ Releases a sustained toxic reactive cloud from an anchored point, causing respir
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Group     |
+| Spell Page | [[Spells/Flamepillar|Flamepillar]] |
 
 ---
 
@@ -568,6 +604,7 @@ Releases a flat expanding plane of kinetic force outward from the sigil, knockin
 | Reach        | Short                       |
 | Persistence  | _(default — Immediate)_     |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Fluxamplify|Fluxamplify]] |
 
 ---
 
@@ -586,6 +623,7 @@ Erupts a sustained column of intense thermal force from a fixed anchored point, 
 | Reach        | Anchored                    |
 | Persistence  | Sustained                   |
 | Target       | _(default — Where Written)_ |
+| Spell Page | [[Spells/Forceburst|Forceburst]] |
 
 ---
 
@@ -604,6 +642,7 @@ Temporarily boosts the effective output of a written sigil already inscribed on 
 | Reach        | Touch         |
 | Persistence  | Timed (Short) |
 | Target       | Object        |
+| Spell Page | [[Spells/Forcecage|Forcecage]] |
 
 ---
 
@@ -622,6 +661,7 @@ Releases a full-sphere kinetic explosion centered on the caster, throwing everyt
 | Reach        | Short                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
+| Spell Page | [[Spells/Forceshell|Forceshell]] |
 
 ---
 
@@ -640,6 +680,7 @@ Constructs a sustained cubic field of constrained kinetic force around a target 
 | Reach        | Short      |
 | Persistence  | Sustained  |
 | Target       | Individual |
+| Spell Page | [[Spells/Groundpulse|Groundpulse]] |
 
 ---
 
@@ -658,6 +699,7 @@ Wraps a single object in a sustained sphere of constrained kinetic force, protec
 | Reach        | Touch      |
 | Persistence  | Sustained  |
 | Target       | Object     |
+| Spell Page | [[Spells/Heatfield|Heatfield]] |
 
 ---
 
@@ -676,6 +718,7 @@ Sends a kinetic shockwave along a flat surface outward from the caster, staggeri
 | Reach        | Short                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
+| Spell Page | [[Spells/Heattrack|Heattrack]] |
 
 ---
 
@@ -694,7 +737,9 @@ Sustains a broad thermal field across a defined area, maintaining a consistent e
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Surface   |
+| Spell Page | [[Spells/Heatwall|Heatwall]] |
 
+| Spell Page | [[Spells/Lightspear|Lightspear]] |
 ---
 
 **Heattrack**
@@ -712,7 +757,9 @@ Follows the thermal signature of a specific individual, updating the caster's aw
 | Reach        | Medium     |
 | Persistence  | Sustained  |
 | Target       | Individual |
+| Spell Page | [[Spells/Heattrack|Heattrack]] |
 
+| Spell Page | [[Spells/Mindread|Mindread]] |
 ---
 
 **Heatwall**
@@ -730,6 +777,7 @@ Erects a sustained flat plane of intense thermal output that burns anything pass
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Filter    |
+| Spell Page | [[Spells/Mindwall|Mindwall]] |
 
 ---
 
@@ -748,6 +796,7 @@ Projects a condensed photonic beam at line-of-sight range that temporarily blind
 | Reach        | Line-of-Sight           |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Mirrorlight|Mirrorlight]] |
 
 ---
 
@@ -766,6 +815,7 @@ Reads the surface emotional state and immediate intent of a touched individual, 
 | Reach        | Touch                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Overclock|Overclock]] |
 
 ---
 
@@ -784,6 +834,7 @@ Erects a sustained neuro-disrupting field that makes it painful and disorienting
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Filter    |
+| Spell Page | [[Spells/Shatterpoint|Shatterpoint]] |
 
 ---
 
@@ -802,6 +853,7 @@ Bends photonic output around the caster's body, causing light to pass around the
 | Reach        | Self      |
 | Persistence  | Sustained |
 | Target       | Self      |
+| Spell Page | [[Spells/Sonicburst|Sonicburst]] |
 
 ---
 
@@ -820,6 +872,7 @@ Amplifies the Flux throughput of a willing individual's active casting, boosting
 | Reach        | Touch         |
 | Persistence  | Timed (Short) |
 | Target       | Individual    |
+| Spell Page | [[Spells/Soulpulse|Soulpulse]] |
 
 ---
 
@@ -838,6 +891,7 @@ Delivers a focused sonic resonance to a single object, tuned to exploit structur
 | Reach        | Short                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Object                  |
+| Spell Page | [[Spells/Sparkcage|Sparkcage]] |
 
 ---
 
@@ -856,6 +910,7 @@ Releases a sphere of concentrated sonic force that shatters fragile objects and 
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
+| Spell Page | [[Spells/Termalread|Termalread]] |
 
 ---
 
@@ -874,6 +929,7 @@ Sends a brief Soul-frequency pulse through a touched individual, confirming whet
 | Reach        | Touch                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Thoughtlift|Thoughtlift]] |
 
 ---
 
@@ -892,6 +948,7 @@ Surrounds a single object or individual with a crackling electrical field that s
 | Reach        | Touch     |
 | Persistence  | Sustained |
 | Target       | Object    |
+| Spell Page | [[Spells/Toxfilter|Toxfilter]] |
 
 ---
 
@@ -910,6 +967,7 @@ Takes a full thermal scan of a body or object within short range, returning a de
 | Reach        | Short                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Tremor|Tremor]] |
 
 ---
 
@@ -928,6 +986,7 @@ Reads a single clear surface thought from a touched individual without their awa
 | Reach        | Touch                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Veillight|Veillight]] |
 
 ---
 
@@ -946,6 +1005,7 @@ Filters toxic chemical compounds out of a liquid on contact, rendering it safe f
 | Reach        | Touch                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Object                  |
+| Spell Page | [[Spells/Voltspear|Voltspear]] |
 
 ---
 
@@ -964,6 +1024,7 @@ Sends a powerful kinetic shockwave through the ground in a sphere around the cas
 | Reach        | Short                   |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
+| Spell Page | [[Spells/Tremor|Tremor]] |
 
 ---
 
@@ -982,6 +1043,7 @@ Creates a sustained field of dim scattered photonic output across a defined area
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Surface   |
+| Spell Page | [[Spells/Veillight|Veillight]] |
 
 ---
 
@@ -1000,3 +1062,4 @@ Projects a condensed electrical beam that punches through resistive material, by
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+| Spell Page | [[Spells/Voltspear|Voltspear]] |
