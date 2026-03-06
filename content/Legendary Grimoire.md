@@ -3,8 +3,6 @@ Legendary spells require [[Control Tier]] T7–T8 and exist at a tier of power w
 _Return to [[All Grimoire]]_
 **ReleaseVeil**
 Filters binding in a field at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -21,8 +19,6 @@ Filters binding in a field at long (200 ft targeting individual.
 
 **VastGate**
 Alters light in a ring at line-of-sight targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -39,8 +35,6 @@ Alters light in a ring at line-of-sight targeting marked.
 
 **DissolvBridge**
 Releases heat in a cylinder at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -57,8 +51,6 @@ Releases heat in a cylinder at line-of-sight targeting individual.
 
 **SurgePulse**
 Alters soul in a cone at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -75,8 +67,6 @@ Alters soul in a cone at long (200 ft targeting group.
 
 **GentleCalm**
 Manipulates mind in a sphere at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -93,8 +83,6 @@ Manipulates mind in a sphere at long (200 ft targeting individual.
 
 **KindleFlame**
 Alters force in a cylinder at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -111,8 +99,6 @@ Alters force in a cylinder at long (200 ft targeting individual.
 
 **SteadyCharm**
 Manipulates light in a ring at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -129,8 +115,6 @@ Manipulates light in a ring at line-of-sight targeting individual.
 
 **PierceScar**
 Alters force in a field at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -147,8 +131,6 @@ Alters force in a field at medium (50 ft targeting individual.
 
 **VastGlyph**
 Shields against chemical in a ring at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -165,8 +147,6 @@ Shields against chemical in a ring at line-of-sight targeting individual.
 
 **GuardThread**
 Constrains force in a ring at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -183,8 +163,6 @@ Constrains force in a ring at medium (50 ft targeting individual.
 
 **BrightSeal**
 Detects heat in a cylinder at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -201,8 +179,6 @@ Detects heat in a cylinder at line-of-sight targeting group.
 
 **SteadyRoot**
 Alters heat in a cone at line-of-sight targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -219,8 +195,6 @@ Alters heat in a cone at line-of-sight targeting marked.
 
 **FreezeBond**
 Detects chemical in a field at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -237,8 +211,6 @@ Detects chemical in a field at long (200 ft targeting filter.
 
 **SweepBond**
 Detects mind in a ring at medium (50 ft targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -255,8 +227,6 @@ Detects mind in a ring at medium (50 ft targeting marked.
 
 **SurPulse**
 Constrains binding in a cone at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -273,8 +243,6 @@ Constrains binding in a cone at long (200 ft targeting filter.
 
 **WeavPath**
 Manipulates binding in a cylinder at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -291,8 +259,6 @@ Manipulates binding in a cylinder at line-of-sight targeting individual.
 
 **DriftBond**
 Constrains electric in a cone at line-of-sight targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -309,8 +275,6 @@ Constrains electric in a cone at line-of-sight targeting marked.
 
 **BurnWay**
 Alters force in a cone at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -327,8 +291,6 @@ Alters force in a cone at line-of-sight targeting group.
 
 **BurnFrost**
 Opposes electric in a sphere at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -345,8 +307,6 @@ Opposes electric in a sphere at long (200 ft targeting filter.
 
 **WeavWard**
 Shields against light in a cone at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -363,8 +323,6 @@ Shields against light in a cone at long (200 ft targeting filter.
 
 **FreezHalo**
 Opposes chemical in a cylinder at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -381,8 +339,6 @@ Opposes chemical in a cylinder at line-of-sight targeting group.
 
 **ReleasFrost**
 Manipulates binding in a cone at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -399,8 +355,6 @@ Manipulates binding in a cone at line-of-sight targeting individual.
 
 **BreakStorm**
 Alters binding in a cylinder at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -417,8 +371,6 @@ Alters binding in a cylinder at line-of-sight targeting group.
 
 **StraightWeb**
 Releases force in a cylinder at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
@@ -435,8 +387,6 @@ Releases force in a cylinder at medium (50 ft targeting individual.
 
 **CalmFrost**
 Displaces chemical in a sphere at medium (50 ft targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -453,8 +403,6 @@ Displaces chemical in a sphere at medium (50 ft targeting marked.
 
 **FierceHalo**
 Manipulates force in a field at long (200 ft targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -471,8 +419,6 @@ Manipulates force in a field at long (200 ft targeting marked.
 
 **StillGate**
 Manipulates chemical in a cone at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -489,8 +435,6 @@ Manipulates chemical in a cone at line-of-sight targeting filter.
 
 **HardyNet**
 Manipulates heat in a cone at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -507,8 +451,6 @@ Manipulates heat in a cone at long (200 ft targeting individual.
 
 **FreezGate**
 Constrains binding in a sphere at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -525,8 +467,6 @@ Constrains binding in a sphere at long (200 ft targeting filter.
 
 **BreakRoad**
 Filters heat in a cylinder at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -543,8 +483,6 @@ Filters heat in a cylinder at line-of-sight targeting individual.
 
 **LoudNet**
 Opposes binding in a cylinder at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -561,8 +499,6 @@ Opposes binding in a cylinder at line-of-sight targeting filter.
 
 **FierceSigil**
 Alters mind in a cone at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -579,8 +515,6 @@ Alters mind in a cone at long (200 ft targeting group.
 
 **WeavBond**
 Manipulates electric in a sphere at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -597,8 +531,6 @@ Manipulates electric in a sphere at line-of-sight targeting filter.
 
 **CapturStorm**
 Filters force in a cone at line-of-sight targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -615,8 +547,6 @@ Filters force in a cone at line-of-sight targeting marked.
 
 **FlowSpirit**
 Opposes chemical in a field at medium (50 ft targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -633,8 +563,6 @@ Opposes chemical in a field at medium (50 ft targeting marked.
 
 **AncientKnot**
 Displaces chemical in a cylinder at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -651,8 +579,6 @@ Displaces chemical in a cylinder at medium (50 ft targeting individual.
 
 **StillSilence**
 Alters soul in a cylinder at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -669,8 +595,6 @@ Alters soul in a cylinder at line-of-sight targeting group.
 
 **ClearVeil**
 Opposes mind in a sphere at line-of-sight targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -687,8 +611,6 @@ Opposes mind in a sphere at line-of-sight targeting marked.
 
 **SweepStorm**
 Filters electric in a sphere at medium (50 ft targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -705,8 +627,6 @@ Filters electric in a sphere at medium (50 ft targeting marked.
 
 **SlowSeal**
 Displaces light in a field at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -723,8 +643,6 @@ Displaces light in a field at line-of-sight targeting filter.
 
 **AnchorCrown**
 Shields against heat in a sphere at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -741,8 +659,6 @@ Shields against heat in a sphere at medium (50 ft targeting group.
 
 **BurBond**
 Opposes chemical in a ring at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -759,8 +675,6 @@ Opposes chemical in a ring at long (200 ft targeting filter.
 
 **RisGate**
 Displaces heat in a field at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -777,8 +691,6 @@ Displaces heat in a field at line-of-sight targeting individual.
 
 **TransformShadow**
 Manipulates electric in a field at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -795,8 +707,6 @@ Manipulates electric in a field at long (200 ft targeting group.
 
 **SolidSoul**
 Manipulates force in a ring at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -813,8 +723,6 @@ Manipulates force in a ring at long (200 ft targeting individual.
 
 **FallVoid**
 Shields against mind in a sphere at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -831,8 +739,6 @@ Shields against mind in a sphere at line-of-sight targeting filter.
 
 **ShatterBrand**
 Manipulates light in a field at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -849,8 +755,6 @@ Manipulates light in a field at medium (50 ft targeting group.
 
 **FlowKnot**
 Releases heat in a sphere at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -867,8 +771,6 @@ Releases heat in a sphere at long (200 ft targeting group.
 
 **BreakCurse**
 Constrains force in a field at line-of-sight targeting marked.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -885,8 +787,6 @@ Constrains force in a field at line-of-sight targeting marked.
 
 **CaptureThought**
 Displaces force in a cylinder at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -900,4 +800,5 @@ Displaces force in a cylinder at line-of-sight targeting individual.
 | Wattage | 13001 W |
 
 ---
+
 

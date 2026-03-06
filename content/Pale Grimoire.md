@@ -3,8 +3,6 @@ Pale spells require [[Control Tier]] T9 and represent effects that brush against
 _Return to [[All Grimoire]]_
 **SweepBreath**
 Constrains soul in a sphere at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -21,8 +19,6 @@ Constrains soul in a sphere at line-of-sight targeting individual.
 
 **FierceAura**
 Releases soul in a field at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -39,8 +35,6 @@ Releases soul in a field at line-of-sight targeting filter.
 
 **SwiftDoor**
 Detects soul in a field at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -57,8 +51,6 @@ Detects soul in a field at line-of-sight targeting individual.
 
 **KindlFlame**
 Displaces soul in a sphere at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -75,8 +67,6 @@ Displaces soul in a sphere at line-of-sight targeting individual.
 
 **GuardShroud**
 Filters soul in a field at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -93,8 +83,6 @@ Filters soul in a field at line-of-sight targeting individual.
 
 **TwinBridge**
 Shields against soul in a field at linked targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -111,8 +99,6 @@ Shields against soul in a field at linked targeting group.
 
 **FallWeb**
 Detects soul in a sphere at linked targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -129,8 +115,6 @@ Detects soul in a sphere at linked targeting individual.
 
 **BurningGlyph**
 Detects soul in a field at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -147,8 +131,6 @@ Detects soul in a field at line-of-sight targeting group.
 
 **SlowSilence**
 Displaces soul in a field at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -165,8 +147,6 @@ Displaces soul in a field at line-of-sight targeting group.
 
 **StillGate**
 Displaces soul in a sphere at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -183,8 +163,6 @@ Displaces soul in a sphere at line-of-sight targeting filter.
 
 **DissolveScar**
 Shields against soul in a field at linked targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -201,8 +179,6 @@ Shields against soul in a field at linked targeting individual.
 
 **CalmBond**
 Alters soul in a sphere at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -216,4 +192,5 @@ Alters soul in a sphere at line-of-sight targeting group.
 | Wattage | 206135 W |
 
 ---
+
 

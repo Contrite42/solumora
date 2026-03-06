@@ -3,8 +3,6 @@ Uncommon spells require [[Control Tier]] T3–T4 and represent the threshold whe
 _Return to [[All Grimoire]]_
 **CurvedRing**
 Releases mind in a cone at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -21,8 +19,6 @@ Releases mind in a cone at medium (50 ft targeting _(default  where written.
 
 **WarmCurse**
 Detects chemical in a cylinder at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -39,8 +35,6 @@ Detects chemical in a cylinder at medium (50 ft targeting individual.
 
 **StrongBond**
 Alters binding across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -57,8 +51,6 @@ Alters binding across surfaces at short (10 ft targeting surface.
 
 **PierceFlame**
 Opposes electric in a ring at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -75,8 +67,6 @@ Opposes electric in a ring at medium (50 ft targeting surface.
 
 **BurShroud**
 Filters mind in a beam at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -93,8 +83,6 @@ Filters mind in a beam at short (10 ft targeting _(default  where written.
 
 **ReleasSigil**
 Shields against mind in a cylinder at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -111,8 +99,6 @@ Shields against mind in a cylinder at touch targeting individual.
 
 **SurgeRoad**
 Detects mind in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -129,8 +115,6 @@ Detects mind in a cylinder at short (10 ft targeting surface.
 
 **SweepSpirit**
 Opposes electric in a cylinder at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -147,8 +131,6 @@ Opposes electric in a cylinder at touch targeting surface.
 
 **VividThread**
 Alters binding in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -165,8 +147,6 @@ Alters binding in a cone at short (10 ft targeting surface.
 
 **ShallowLock**
 Filters mind in a cylinder at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -183,8 +163,6 @@ Filters mind in a cylinder at medium (50 ft targeting individual.
 
 **AnchorLock**
 Filters chemical in a ring at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -201,8 +179,6 @@ Filters chemical in a ring at short (10 ft targeting individual.
 
 **SolidWisp**
 Displaces mind across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -219,8 +195,6 @@ Displaces mind across surfaces at touch targeting surface.
 
 **SolidSigil**
 Filters binding across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -237,8 +211,6 @@ Filters binding across surfaces at touch targeting _(default  where written.
 
 **KindleWay**
 Opposes chemical in a cylinder at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -255,8 +227,6 @@ Opposes chemical in a cylinder at touch targeting _(default  where written.
 
 **CaptureDance**
 Detects binding in a ring at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -273,8 +243,6 @@ Detects binding in a ring at medium (50 ft targeting object.
 
 **KindleStorm**
 Shields against binding across surfaces at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -291,8 +259,6 @@ Shields against binding across surfaces at short (10 ft targeting individual.
 
 **TwistMark**
 Opposes electric in a cylinder at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -309,8 +275,6 @@ Opposes electric in a cylinder at medium (50 ft targeting individual.
 
 **PaleWard**
 Constrains mind in a cylinder at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -327,8 +291,6 @@ Constrains mind in a cylinder at short (10 ft targeting individual.
 
 **RiseStorm**
 Detects chemical in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -345,8 +307,6 @@ Detects chemical in a cylinder at short (10 ft targeting surface.
 
 **PiercPulse**
 Constrains chemical in a cylinder at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -363,8 +323,6 @@ Constrains chemical in a cylinder at medium (50 ft targeting surface.
 
 **TwistStorm**
 Shields against chemical in a cone at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -381,8 +339,6 @@ Shields against chemical in a cone at medium (50 ft targeting individual.
 
 **TwistVeil**
 Shields against chemical in a cylinder at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -399,8 +355,6 @@ Shields against chemical in a cylinder at short (10 ft targeting object.
 
 **HeavyKnot**
 Detects mind in a cone at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -417,8 +371,6 @@ Detects mind in a cone at touch targeting individual.
 
 **DissolveStorm**
 Constrains mind in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -435,8 +387,6 @@ Constrains mind in a cone at short (10 ft targeting surface.
 
 **DissolveLight**
 Filters chemical in a beam at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -453,8 +403,6 @@ Filters chemical in a beam at touch targeting _(default  where written.
 
 **SurEcho**
 Releases mind in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -471,8 +419,6 @@ Releases mind in a cone at short (10 ft targeting surface.
 
 **CaptureBlessing**
 Opposes electric in a cylinder at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -489,8 +435,6 @@ Opposes electric in a cylinder at short (10 ft targeting object.
 
 **BindRune**
 Opposes mind in a cylinder at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Counter |
 | Mode | Create |
@@ -507,8 +451,6 @@ Opposes mind in a cylinder at touch targeting _(default  where written.
 
 **PierceWay**
 Displaces mind in a cone at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -525,8 +467,6 @@ Displaces mind in a cone at short (10 ft targeting individual.
 
 **PierceSight**
 Filters electric in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -543,8 +483,6 @@ Filters electric in a cone at short (10 ft targeting surface.
 
 **AnchorSigil**
 Opposes electric in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -561,8 +499,6 @@ Opposes electric in a cylinder at short (10 ft targeting surface.
 
 **BreakVeil**
 Alters binding in a beam at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -579,8 +515,6 @@ Alters binding in a beam at short (10 ft targeting individual.
 
 **SteadyVoid**
 Alters binding in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -597,8 +531,6 @@ Alters binding in a cone at short (10 ft targeting object.
 
 **ChillShadow**
 Displaces mind in a cylinder at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Control |
@@ -615,8 +547,6 @@ Displaces mind in a cylinder at medium (50 ft targeting object.
 
 **KindleMark**
 Filters binding across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -633,8 +563,6 @@ Filters binding across surfaces at touch targeting object.
 
 **RestlessCurse**
 Constrains mind in a ring at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -651,8 +579,6 @@ Constrains mind in a ring at medium (50 ft targeting object.
 
 **LoudAura**
 Filters electric in a cone at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -669,8 +595,6 @@ Filters electric in a cone at touch targeting individual.
 
 **RiseBrand**
 Displaces mind in a ring at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -687,8 +611,6 @@ Displaces mind in a ring at short (10 ft targeting surface.
 
 **WildVoid**
 Filters chemical in a cylinder at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -705,8 +627,6 @@ Filters chemical in a cylinder at touch targeting surface.
 
 **PierceDream**
 Releases binding in a cylinder at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -723,8 +643,6 @@ Releases binding in a cylinder at short (10 ft targeting object.
 
 **SweepShroud**
 Shields against mind in a cylinder at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -741,8 +659,6 @@ Shields against mind in a cylinder at medium (50 ft targeting object.
 
 **BurningRune**
 Detects mind in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -759,8 +675,6 @@ Detects mind in a cone at touch targeting _(default  where written.
 
 **CalmCurse**
 Detects mind in a cone at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -777,8 +691,6 @@ Detects mind in a cone at medium (50 ft targeting object.
 
 **HeavyVoice**
 Shields against chemical in a ring at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -795,8 +707,6 @@ Shields against chemical in a ring at medium (50 ft targeting _(default  where w
 
 **DriftingCharm**
 Filters mind in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -813,8 +723,6 @@ Filters mind in a cone at short (10 ft targeting _(default  where written.
 
 **FrozenBreath**
 Displaces mind in a beam at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -831,8 +739,6 @@ Displaces mind in a beam at touch targeting individual.
 
 **PiercePulse**
 Filters electric across surfaces at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -849,8 +755,6 @@ Filters electric across surfaces at medium (50 ft targeting _(default  where wri
 
 **HeavyAura**
 Displaces chemical in a cylinder at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -867,8 +771,6 @@ Displaces chemical in a cylinder at medium (50 ft targeting surface.
 
 **TaintedGate**
 Shields against mind in a beam at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -885,8 +787,6 @@ Shields against mind in a beam at short (10 ft targeting object.
 
 **GuardBrand**
 Opposes binding across surfaces at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -903,8 +803,6 @@ Opposes binding across surfaces at medium (50 ft targeting object.
 
 **KindlMark**
 Opposes mind in a beam at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -921,8 +819,6 @@ Opposes mind in a beam at medium (50 ft targeting object.
 
 **AncientWard**
 Detects mind in a beam at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -939,8 +835,6 @@ Detects mind in a beam at short (10 ft targeting surface.
 
 **ReleaseStorm**
 Opposes binding across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -957,8 +851,6 @@ Opposes binding across surfaces at touch targeting _(default  where written.
 
 **BurPath**
 Opposes mind in a cylinder at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -975,8 +867,6 @@ Opposes mind in a cylinder at touch targeting individual.
 
 **ChillDream**
 Shields against binding across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Affect |
@@ -993,8 +883,6 @@ Shields against binding across surfaces at touch targeting object.
 
 **BindThought**
 Releases mind in a beam at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -1011,8 +899,6 @@ Releases mind in a beam at touch targeting object.
 
 **BurnCurse**
 Constrains mind in a beam at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -1029,8 +915,6 @@ Constrains mind in a beam at medium (50 ft targeting _(default  where written.
 
 **DriftHeart**
 Alters mind in a beam at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -1047,8 +931,6 @@ Alters mind in a beam at short (10 ft targeting _(default  where written.
 
 **ClearCharm**
 Constrains binding across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -1065,8 +947,6 @@ Constrains binding across surfaces at short (10 ft targeting _(default  where wr
 
 **GuardTide**
 Detects chemical in a cylinder at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1083,8 +963,6 @@ Detects chemical in a cylinder at medium (50 ft targeting _(default  where writt
 
 **StraightShell**
 Filters binding in a beam at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -1101,8 +979,6 @@ Filters binding in a beam at short (10 ft targeting _(default  where written.
 
 **ReleasEcho**
 Detects mind across surfaces at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1119,8 +995,6 @@ Detects mind across surfaces at medium (50 ft targeting object.
 
 **GuardScar**
 Displaces electric in a cone at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -1137,8 +1011,6 @@ Displaces electric in a cone at medium (50 ft targeting surface.
 
 **KindleTouch**
 Alters mind across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Control |
@@ -1155,8 +1027,6 @@ Alters mind across surfaces at short (10 ft targeting surface.
 
 **SweepBrand**
 Detects mind across surfaces at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1173,8 +1043,6 @@ Detects mind across surfaces at medium (50 ft targeting _(default  where written
 
 **TaintedVoice**
 Detects binding in a beam at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1191,8 +1059,6 @@ Detects binding in a beam at medium (50 ft targeting _(default  where written.
 
 **KindleBrand**
 Filters binding in a cylinder at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -1209,8 +1075,6 @@ Filters binding in a cylinder at short (10 ft targeting object.
 
 **GrandWard**
 Detects binding in a cone at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1227,8 +1091,6 @@ Detects binding in a cone at medium (50 ft targeting individual.
 
 **GuardCore**
 Filters electric in a cylinder at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1245,8 +1107,6 @@ Filters electric in a cylinder at medium (50 ft targeting object.
 
 **StraightFrost**
 Detects mind in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1263,8 +1123,6 @@ Detects mind in a cone at touch targeting object.
 
 **BreakPath**
 Detects binding in a beam at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -1281,8 +1139,6 @@ Detects binding in a beam at short (10 ft targeting surface.
 
 **TameRune**
 Detects mind in a beam at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -1299,8 +1155,6 @@ Detects mind in a beam at medium (50 ft targeting _(default  where written.
 
 **ClearDoor**
 Detects mind in a ring at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -1317,8 +1171,6 @@ Detects mind in a ring at medium (50 ft targeting _(default  where written.
 
 **SharpBoon**
 Detects electric in a beam at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1335,8 +1187,6 @@ Detects electric in a beam at medium (50 ft targeting surface.
 
 **FreezChain**
 Alters binding in a cylinder at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1353,8 +1203,6 @@ Alters binding in a cylinder at medium (50 ft targeting individual.
 
 **StraightRune**
 Detects electric in a cylinder at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1371,8 +1219,6 @@ Detects electric in a cylinder at medium (50 ft targeting surface.
 
 **BrightKnot**
 Releases mind in a cone at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -1389,8 +1235,6 @@ Releases mind in a cone at medium (50 ft targeting individual.
 
 **BurningWeb**
 Alters chemical in a cylinder at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1407,8 +1251,6 @@ Alters chemical in a cylinder at short (10 ft targeting _(default  where written
 
 **CapturNet**
 Detects mind in a ring at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1425,8 +1267,6 @@ Detects mind in a ring at short (10 ft targeting surface.
 
 **BindBrand**
 Detects binding across surfaces at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1443,8 +1283,6 @@ Detects binding across surfaces at medium (50 ft targeting _(default  where writ
 
 **ShallowDoor**
 Displaces binding in a beam at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1461,8 +1299,6 @@ Displaces binding in a beam at medium (50 ft targeting surface.
 
 **DriftDance**
 Filters chemical in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -1479,8 +1315,6 @@ Filters chemical in a cone at touch targeting _(default  where written.
 
 **TwistShell**
 Opposes mind in a cylinder at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -1497,8 +1331,6 @@ Opposes mind in a cylinder at touch targeting individual.
 
 **DarkCage**
 Displaces mind in a cylinder at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -1515,8 +1347,6 @@ Displaces mind in a cylinder at medium (50 ft targeting surface.
 
 **DissolveRoad**
 Alters mind in a ring at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1533,8 +1363,6 @@ Alters mind in a ring at medium (50 ft targeting object.
 
 **DriftBrand**
 Releases binding in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -1551,8 +1379,6 @@ Releases binding in a cone at short (10 ft targeting object.
 
 **TaintedStorm**
 Detects mind in a beam at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1569,8 +1395,6 @@ Detects mind in a beam at short (10 ft targeting surface.
 
 **BurningCharm**
 Displaces mind across surfaces at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1587,8 +1411,6 @@ Displaces mind across surfaces at medium (50 ft targeting individual.
 
 **ShatterSeal**
 Detects mind in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1605,8 +1427,6 @@ Detects mind in a cone at touch targeting _(default  where written.
 
 **GuardWard**
 Detects binding across surfaces at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1623,8 +1443,6 @@ Detects binding across surfaces at medium (50 ft targeting _(default  where writ
 
 **TransformSight**
 Shields against electric in a ring at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -1641,8 +1459,6 @@ Shields against electric in a ring at touch targeting object.
 
 **RiseStrike**
 Constrains chemical in a ring at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -1659,8 +1475,6 @@ Constrains chemical in a ring at medium (50 ft targeting individual.
 
 **RisBoon**
 Opposes binding in a cylinder at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -1677,8 +1491,6 @@ Opposes binding in a cylinder at touch targeting object.
 
 **ShatterBond**
 Detects mind in a cone at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -1695,8 +1507,6 @@ Detects mind in a cone at medium (50 ft targeting _(default  where written.
 
 **WeavePulse**
 Alters mind in a cylinder at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1713,8 +1523,6 @@ Alters mind in a cylinder at touch targeting individual.
 
 **ReleaseTide**
 Releases binding in a beam at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -1731,8 +1539,6 @@ Releases binding in a beam at touch targeting _(default  where written.
 
 **GuardSpirit**
 Detects mind across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1749,8 +1555,6 @@ Detects mind across surfaces at short (10 ft targeting surface.
 
 **TwistSpirit**
 Detects chemical across surfaces at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1767,8 +1571,6 @@ Detects chemical across surfaces at medium (50 ft targeting individual.
 
 **BreakBreath**
 Shields against mind across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -1785,8 +1587,6 @@ Shields against mind across surfaces at short (10 ft targeting _(default  where 
 
 **FreezeStrike**
 Opposes mind in a cylinder at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -1803,8 +1603,6 @@ Opposes mind in a cylinder at short (10 ft targeting _(default  where written.
 
 **AnchorVeil**
 Detects chemical in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1821,8 +1619,6 @@ Detects chemical in a cylinder at short (10 ft targeting surface.
 
 **ChillCrown**
 Releases mind in a cylinder at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -1839,8 +1635,6 @@ Releases mind in a cylinder at short (10 ft targeting object.
 
 **BurnRoad**
 Constrains electric in a cylinder at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -1857,8 +1651,6 @@ Constrains electric in a cylinder at medium (50 ft targeting _(default  where wr
 
 **GuardLight**
 Alters chemical in a beam at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1875,8 +1667,6 @@ Alters chemical in a beam at short (10 ft targeting individual.
 
 **DissolveFlame**
 Opposes chemical in a cylinder at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -1893,8 +1683,6 @@ Opposes chemical in a cylinder at medium (50 ft targeting _(default  where writt
 
 **DeepSeal**
 Alters mind across surfaces at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -1911,8 +1699,6 @@ Alters mind across surfaces at medium (50 ft targeting object.
 
 **ChillPulse**
 Constrains mind in a cone at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1929,8 +1715,6 @@ Constrains mind in a cone at medium (50 ft targeting _(default  where written.
 
 **DullMirror**
 Shields against mind in a ring at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -1947,8 +1731,6 @@ Shields against mind in a ring at touch targeting object.
 
 **RestlessSeal**
 Releases chemical in a cylinder at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -1965,8 +1747,6 @@ Releases chemical in a cylinder at short (10 ft targeting individual.
 
 **SweepBond**
 Releases binding across surfaces at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -1983,8 +1763,6 @@ Releases binding across surfaces at medium (50 ft targeting individual.
 
 **ShatterVoice**
 Releases electric in a cone at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -2001,8 +1779,6 @@ Releases electric in a cone at touch targeting surface.
 
 **QuietCore**
 Detects mind in a ring at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -2019,8 +1795,6 @@ Detects mind in a ring at touch targeting individual.
 
 **PaleBreath**
 Alters mind in a cylinder at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -2037,8 +1811,6 @@ Alters mind in a cylinder at touch targeting object.
 
 **BrightPath**
 Detects mind in a beam at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -2055,8 +1827,6 @@ Detects mind in a beam at short (10 ft targeting object.
 
 **GuardDance**
 Alters mind in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Control |
@@ -2073,8 +1843,6 @@ Alters mind in a cone at short (10 ft targeting _(default  where written.
 
 **DissolvGlyph**
 Opposes binding in a ring at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -2091,8 +1859,6 @@ Opposes binding in a ring at medium (50 ft targeting object.
 
 **TwistFlame**
 Displaces mind in a ring at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -2109,8 +1875,6 @@ Displaces mind in a ring at medium (50 ft targeting object.
 
 **QuietHalo**
 Displaces mind in a cone at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -2127,8 +1891,6 @@ Displaces mind in a cone at medium (50 ft targeting _(default  where written.
 
 **QuietGate**
 Filters mind in a cylinder at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -2145,8 +1907,6 @@ Filters mind in a cylinder at touch targeting _(default  where written.
 
 **PierceBrand**
 Releases electric in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -2163,8 +1923,6 @@ Releases electric in a cone at short (10 ft targeting surface.
 
 **BreakRing**
 Alters mind in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Control |
@@ -2181,8 +1939,6 @@ Alters mind in a cylinder at short (10 ft targeting surface.
 
 **WarmWeb**
 Opposes binding across surfaces at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2199,8 +1955,6 @@ Opposes binding across surfaces at touch targeting individual.
 
 **WhirlingKey**
 Releases mind across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Control |
@@ -2217,8 +1971,6 @@ Releases mind across surfaces at short (10 ft targeting object.
 
 **CalmRoad**
 Releases mind in a ring at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2235,8 +1987,6 @@ Releases mind in a ring at medium (50 ft targeting surface.
 
 **KindleDream**
 Opposes mind in a ring at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2253,8 +2003,6 @@ Opposes mind in a ring at touch targeting object.
 
 **WarmBond**
 Opposes mind in a beam at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2271,8 +2019,6 @@ Opposes mind in a beam at medium (50 ft targeting surface.
 
 **MurkyRing**
 Filters binding in a ring at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2289,8 +2035,6 @@ Filters binding in a ring at short (10 ft targeting individual.
 
 **HiddenWard**
 Shields against chemical in a cone at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -2307,8 +2051,6 @@ Shields against chemical in a cone at medium (50 ft targeting _(default  where w
 
 **FlowTouch**
 Detects mind across surfaces at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -2325,8 +2067,6 @@ Detects mind across surfaces at medium (50 ft targeting _(default  where written
 
 **ReleasFlame**
 Opposes binding in a ring at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2343,8 +2083,6 @@ Opposes binding in a ring at short (10 ft targeting object.
 
 **DarkVoid**
 Opposes mind in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -2361,8 +2099,6 @@ Opposes mind in a cylinder at short (10 ft targeting surface.
 
 **HiddenFlame**
 Alters binding across surfaces at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -2379,8 +2115,6 @@ Alters binding across surfaces at medium (50 ft targeting object.
 
 **WildCrown**
 Filters mind in a beam at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2397,8 +2131,6 @@ Filters mind in a beam at touch targeting surface.
 
 **WarmRing**
 Detects electric in a cylinder at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -2415,8 +2147,6 @@ Detects electric in a cylinder at medium (50 ft targeting _(default  where writt
 
 **DissolvSigil**
 Detects mind in a ring at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -2433,8 +2163,6 @@ Detects mind in a ring at medium (50 ft targeting individual.
 
 **SteadyMirror**
 Constrains chemical in a cone at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -2451,8 +2179,6 @@ Constrains chemical in a cone at touch targeting individual.
 
 **DullNet**
 Releases electric in a beam at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2469,8 +2195,6 @@ Releases electric in a beam at medium (50 ft targeting individual.
 
 **FreezBoon**
 Alters chemical in a ring at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -2487,8 +2211,6 @@ Alters chemical in a ring at medium (50 ft targeting individual.
 
 **VastSoul**
 Detects electric in a cylinder at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -2505,8 +2227,6 @@ Detects electric in a cylinder at touch targeting _(default  where written.
 
 **BurVoice**
 Alters binding in a ring at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -2523,8 +2243,6 @@ Alters binding in a ring at medium (50 ft targeting surface.
 
 **ChillRoad**
 Filters mind across surfaces at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2541,8 +2259,6 @@ Filters mind across surfaces at medium (50 ft targeting individual.
 
 **BrightDoor**
 Shields against electric in a cylinder at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -2559,8 +2275,6 @@ Shields against electric in a cylinder at short (10 ft targeting individual.
 
 **HiddenHand**
 Filters chemical in a cylinder at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -2577,8 +2291,6 @@ Filters chemical in a cylinder at touch targeting individual.
 
 **VastBoon**
 Alters mind in a beam at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -2595,8 +2307,6 @@ Alters mind in a beam at touch targeting surface.
 
 **PiercAura**
 Filters mind across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2613,8 +2323,6 @@ Filters mind across surfaces at short (10 ft targeting _(default  where written.
 
 **GuardPulse**
 Constrains binding in a ring at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -2631,8 +2339,6 @@ Constrains binding in a ring at short (10 ft targeting object.
 
 **SlowCrown**
 Opposes mind across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -2649,8 +2355,6 @@ Opposes mind across surfaces at short (10 ft targeting surface.
 
 **AnchorMark**
 Releases mind in a beam at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2667,8 +2371,6 @@ Releases mind in a beam at medium (50 ft targeting surface.
 
 **ReleaseDream**
 Filters binding in a ring at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2685,8 +2387,6 @@ Filters binding in a ring at touch targeting object.
 
 **BindChain**
 Detects binding in a ring at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -2703,8 +2403,6 @@ Detects binding in a ring at short (10 ft targeting individual.
 
 **FreezeFlame**
 Constrains binding in a ring at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -2721,8 +2419,6 @@ Constrains binding in a ring at short (10 ft targeting individual.
 
 **FlowThread**
 Opposes binding in a cylinder at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2739,8 +2435,6 @@ Opposes binding in a cylinder at short (10 ft targeting _(default  where written
 
 **CalmWisp**
 Constrains chemical in a cylinder at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -2757,8 +2451,6 @@ Constrains chemical in a cylinder at touch targeting individual.
 
 **AnchorScar**
 Opposes chemical in a beam at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -2775,8 +2467,6 @@ Opposes chemical in a beam at touch targeting object.
 
 **SlowKnot**
 Shields against mind in a beam at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -2793,8 +2483,6 @@ Shields against mind in a beam at touch targeting surface.
 
 **ReleasMirror**
 Detects electric in a ring at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -2811,8 +2499,6 @@ Detects electric in a ring at short (10 ft targeting surface.
 
 **KindleCurse**
 Releases mind in a ring at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2829,8 +2515,6 @@ Releases mind in a ring at medium (50 ft targeting _(default  where written.
 
 **DissolvHeart**
 Constrains mind across surfaces at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Control |
@@ -2847,8 +2531,6 @@ Constrains mind across surfaces at medium (50 ft targeting surface.
 
 **StillVoice**
 Releases binding across surfaces at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2865,8 +2547,6 @@ Releases binding across surfaces at touch targeting individual.
 
 **DriftShadow**
 Filters mind in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -2883,8 +2563,6 @@ Filters mind in a cone at short (10 ft targeting _(default  where written.
 
 **SweepRune**
 Displaces mind in a beam at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -2901,8 +2579,6 @@ Displaces mind in a beam at medium (50 ft targeting _(default  where written.
 
 **WeavBridge**
 Constrains mind across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -2919,8 +2595,6 @@ Constrains mind across surfaces at short (10 ft targeting surface.
 
 **ChillBond**
 Constrains electric in a ring at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -2937,8 +2611,6 @@ Constrains electric in a ring at touch targeting surface.
 
 **TransformShadow**
 Alters chemical in a ring at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -2955,8 +2627,6 @@ Alters chemical in a ring at short (10 ft targeting surface.
 
 **BindTide**
 Releases mind across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2973,8 +2643,6 @@ Releases mind across surfaces at touch targeting object.
 
 **QuietVoid**
 Releases mind across surfaces at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2991,8 +2659,6 @@ Releases mind across surfaces at short (10 ft targeting individual.
 
 **FreezeThought**
 Detects mind across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3009,8 +2675,6 @@ Detects mind across surfaces at short (10 ft targeting _(default  where written.
 
 **ReleaseLight**
 Filters binding in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -3027,8 +2691,6 @@ Filters binding in a cone at short (10 ft targeting _(default  where written.
 
 **TransformVeil**
 Alters binding in a cone at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -3045,8 +2707,6 @@ Alters binding in a cone at short (10 ft targeting individual.
 
 **HollowCurse**
 Filters binding in a ring at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Control |
@@ -3063,8 +2723,6 @@ Filters binding in a ring at medium (50 ft targeting _(default  where written.
 
 **TransformSeal**
 Releases mind in a cylinder at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -3081,8 +2739,6 @@ Releases mind in a cylinder at short (10 ft targeting object.
 
 **FreezeTide**
 Displaces binding in a cylinder at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -3099,8 +2755,6 @@ Displaces binding in a cylinder at short (10 ft targeting object.
 
 **LoneTouch**
 Shields against binding in a beam at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -3117,8 +2771,6 @@ Shields against binding in a beam at short (10 ft targeting object.
 
 **RisDoor**
 Filters mind in a beam at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -3135,8 +2787,6 @@ Filters mind in a beam at short (10 ft targeting _(default  where written.
 
 **DeepHeart**
 Filters binding across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -3153,8 +2803,6 @@ Filters binding across surfaces at touch targeting object.
 
 **RiseVeil**
 Filters mind in a beam at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -3171,8 +2819,6 @@ Filters mind in a beam at short (10 ft targeting _(default  where written.
 
 **PiercCrown**
 Filters binding in a cone at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -3189,8 +2835,6 @@ Filters binding in a cone at touch targeting surface.
 
 **DriftingEye**
 Shields against chemical in a cylinder at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -3207,8 +2851,6 @@ Shields against chemical in a cylinder at touch targeting _(default  where writt
 
 **CapturCrown**
 Alters mind in a ring at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -3225,8 +2867,6 @@ Alters mind in a ring at touch targeting _(default  where written.
 
 **RisePulse**
 Opposes mind in a ring at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Counter |
 | Mode | Affect |
@@ -3243,8 +2883,6 @@ Opposes mind in a ring at medium (50 ft targeting individual.
 
 **PureMirror**
 Constrains chemical in a cone at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -3261,8 +2899,6 @@ Constrains chemical in a cone at medium (50 ft targeting object.
 
 **CalmTide**
 Releases binding across surfaces at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -3279,8 +2915,6 @@ Releases binding across surfaces at medium (50 ft targeting _(default  where wri
 
 **TwinSigil**
 Detects binding in a cylinder at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -3297,8 +2931,6 @@ Detects binding in a cylinder at short (10 ft targeting individual.
 
 **SlowStorm**
 Filters electric in a cylinder at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -3315,8 +2947,6 @@ Filters electric in a cylinder at medium (50 ft targeting _(default  where writt
 
 **AncientShroud**
 Alters binding in a cylinder at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -3333,8 +2963,6 @@ Alters binding in a cylinder at touch targeting individual.
 
 **KindlGate**
 Filters mind in a beam at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -3351,8 +2979,6 @@ Filters mind in a beam at short (10 ft targeting surface.
 
 **ShatterWall**
 Shields against chemical in a cone at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -3369,8 +2995,6 @@ Shields against chemical in a cone at short (10 ft targeting individual.
 
 **GrandVoice**
 Constrains mind in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Control |
@@ -3387,8 +3011,6 @@ Constrains mind in a cone at touch targeting object.
 
 **SurgeBrand**
 Shields against binding in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -3405,8 +3027,6 @@ Shields against binding in a cone at short (10 ft targeting object.
 
 **LightBond**
 Opposes chemical in a ring at medium (50 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -3423,8 +3043,6 @@ Opposes chemical in a ring at medium (50 ft targeting _(default  where written.
 
 **PureFrost**
 Constrains mind in a beam at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3441,8 +3059,6 @@ Constrains mind in a beam at short (10 ft targeting _(default  where written.
 
 **SweepStorm**
 Constrains mind in a ring at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3459,8 +3075,6 @@ Constrains mind in a ring at short (10 ft targeting _(default  where written.
 
 **WeavAura**
 Alters electric in a ring at touch targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -3477,8 +3091,6 @@ Alters electric in a ring at touch targeting individual.
 
 **BindWisp**
 Detects mind in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -3495,8 +3107,6 @@ Detects mind in a cone at touch targeting _(default  where written.
 
 **CalmBrand**
 Detects chemical in a cone at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -3513,8 +3123,6 @@ Detects chemical in a cone at medium (50 ft targeting surface.
 
 **BindWay**
 Filters binding in a cylinder at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -3531,8 +3139,6 @@ Filters binding in a cylinder at touch targeting object.
 
 **StraightBoon**
 Constrains chemical in a ring at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -3549,8 +3155,6 @@ Constrains chemical in a ring at medium (50 ft targeting individual.
 
 **BreakShell**
 Shields against binding across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -3567,8 +3171,6 @@ Shields against binding across surfaces at touch targeting object.
 
 **CalmTouch**
 Opposes binding in a cone at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -3585,8 +3187,6 @@ Opposes binding in a cone at medium (50 ft targeting object.
 
 **SurCurse**
 Releases binding across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -3600,4 +3200,5 @@ Releases binding across surfaces at short (10 ft targeting surface.
 | Wattage | 215 W |
 
 ---
+
 

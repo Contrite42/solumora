@@ -1,10 +1,10 @@
 Common spells require [[Control Tier]] T1–T2 and represent the backbone of everyday [[Flux]] use across [[Solumora]]. The majority of the population can cast at least some of these. They are the spells found in every home, workshop, and market stall — mass-produced, widely copied, and deliberately simple.
 
 _Return to [[All Grimoire]]_
-**PiercLock**
+
+
+**PierceLock**
 Constrains force across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -21,8 +21,6 @@ Constrains force across surfaces at touch targeting surface.
 
 **ReleaseShadow**
 Releases raw in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -39,8 +37,6 @@ Releases raw in a cone at short (10 ft targeting object.
 
 **SolidCage**
 Filters force in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -57,8 +53,6 @@ Filters force in a point at touch targeting object.
 
 **DriftTide**
 Releases light in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -75,8 +69,6 @@ Releases light in a point at short (10 ft targeting surface.
 
 **SweepBond**
 Displaces chemical in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -93,8 +85,6 @@ Displaces chemical in a cone at touch targeting object.
 
 **DarkVeil**
 Displaces chemical in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -111,8 +101,6 @@ Displaces chemical in a cone at _(default  self targeting object.
 
 **SweepStrike**
 Shields against force across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -129,8 +117,6 @@ Shields against force across surfaces at short (10 ft targeting _(default  where
 
 **WeaveLight**
 Constrains heat across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -147,8 +133,6 @@ Constrains heat across surfaces at short (10 ft targeting object.
 
 **FreezAura**
 Filters force in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -165,8 +149,6 @@ Filters force in a point at touch targeting object.
 
 **FreezWard**
 Displaces binding across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -183,8 +165,6 @@ Displaces binding across surfaces at short (10 ft targeting surface.
 
 **LoudWeb**
 Alters force in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -201,8 +181,6 @@ Alters force in a _(default  plane at touch targeting surface.
 
 **BurBoon**
 Constrains force in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -219,8 +197,6 @@ Constrains force in a point at _(default  self targeting surface.
 
 **BindSong**
 Filters raw in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -237,8 +213,6 @@ Filters raw in a cone at short (10 ft targeting object.
 
 **LightHand**
 Releases light across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -255,8 +229,6 @@ Releases light across surfaces at _(default  self targeting surface.
 
 **TwistMark**
 Shields against heat in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -273,8 +245,6 @@ Shields against heat in a point at touch targeting surface.
 
 **HeavyCurse**
 Detects binding in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -291,8 +261,6 @@ Detects binding in a _(default  plane at short (10 ft targeting _(default  where
 
 **DriftScar**
 Displaces light in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -309,8 +277,6 @@ Displaces light in a point at touch targeting surface.
 
 **BindLight**
 Shields against electric across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -327,8 +293,6 @@ Shields against electric across surfaces at short (10 ft targeting surface.
 
 **PierceBreath**
 Constrains light across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -345,8 +309,6 @@ Constrains light across surfaces at _(default  self targeting object.
 
 **BurShell**
 Shields against raw in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -363,8 +325,6 @@ Shields against raw in a _(default  plane at short (10 ft targeting object.
 
 **HollowRing**
 Alters chemical across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -381,8 +341,6 @@ Alters chemical across surfaces at short (10 ft targeting object.
 
 **ReleasMirror**
 Detects electric in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -399,8 +357,6 @@ Detects electric in a point at short (10 ft targeting surface.
 
 **TransformFlame**
 Filters binding across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -417,8 +373,6 @@ Filters binding across surfaces at short (10 ft targeting _(default  where writt
 
 **FreezCurse**
 Filters light in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -435,8 +389,6 @@ Filters light in a _(default  plane at touch targeting object.
 
 **PierceDream**
 Detects raw in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -453,8 +405,6 @@ Detects raw in a _(default  plane at short (10 ft targeting object.
 
 **PureWeb**
 Constrains binding across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -471,8 +421,6 @@ Constrains binding across surfaces at _(default  self targeting surface.
 
 **SweepHalo**
 Releases chemical in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -489,8 +437,6 @@ Releases chemical in a cone at _(default  self targeting object.
 
 **TameVoice**
 Constrains electric across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -507,8 +453,6 @@ Constrains electric across surfaces at _(default  self targeting surface.
 
 **FreshMark**
 Filters light across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -525,8 +469,6 @@ Filters light across surfaces at short (10 ft targeting object.
 
 **BrightCalm**
 Displaces heat across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -543,8 +485,6 @@ Displaces heat across surfaces at short (10 ft targeting object.
 
 **RiseTouch**
 Alters electric across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -561,8 +501,6 @@ Alters electric across surfaces at short (10 ft targeting object.
 
 **BurWeb**
 Constrains binding in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -579,8 +517,6 @@ Constrains binding in a _(default  plane at touch targeting _(default  where wri
 
 **FallAura**
 Detects force in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -597,8 +533,6 @@ Detects force in a point at touch targeting object.
 
 **AnchoredPath**
 Shields against electric across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -615,8 +549,6 @@ Shields against electric across surfaces at _(default  self targeting _(default 
 
 **CalmBridge**
 Shields against electric in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -633,8 +565,6 @@ Shields against electric in a _(default  plane at short (10 ft targeting object.
 
 **DriftBoon**
 Constrains chemical in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -651,8 +581,6 @@ Constrains chemical in a _(default  plane at touch targeting surface.
 
 **CalmBoon**
 Displaces binding in a point at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -669,8 +597,6 @@ Displaces binding in a point at short (10 ft targeting object.
 
 **FlowSilence**
 Detects heat in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -687,8 +613,6 @@ Detects heat in a _(default  plane at touch targeting _(default  where written.
 
 **ChillBond**
 Constrains raw in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -705,8 +629,6 @@ Constrains raw in a point at touch targeting object.
 
 **RisRune**
 Displaces raw across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -723,8 +645,6 @@ Displaces raw across surfaces at touch targeting object.
 
 **CalmBond**
 Releases light across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -741,8 +661,6 @@ Releases light across surfaces at _(default  self targeting surface.
 
 **DriftFlame**
 Filters binding in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -759,8 +677,6 @@ Filters binding in a _(default  plane at _(default  self targeting _(default  wh
 
 **GrandCore**
 Releases raw across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -777,8 +693,6 @@ Releases raw across surfaces at _(default  self targeting surface.
 
 **ReleasChain**
 Filters heat in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -795,8 +709,6 @@ Filters heat in a _(default  plane at _(default  self targeting _(default  where
 
 **ChillBreath**
 Shields against force in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -813,8 +725,6 @@ Shields against force in a _(default  plane at short (10 ft targeting object.
 
 **ShatterShell**
 Filters chemical in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -831,8 +741,6 @@ Filters chemical in a _(default  plane at touch targeting surface.
 
 **ReleaseFlame**
 Shields against binding in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -849,8 +757,6 @@ Shields against binding in a point at short (10 ft targeting surface.
 
 **SweepRing**
 Constrains binding across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -867,8 +773,6 @@ Constrains binding across surfaces at touch targeting surface.
 
 **SolidGlyph**
 Filters heat in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -885,8 +789,6 @@ Filters heat in a point at touch targeting object.
 
 **BurCharm**
 Displaces heat in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -903,8 +805,6 @@ Displaces heat in a _(default  plane at _(default  self targeting object.
 
 **SweepBlessing**
 Shields against force in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -921,8 +821,6 @@ Shields against force in a point at touch targeting object.
 
 **DriftGate**
 Displaces light across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -939,8 +837,6 @@ Displaces light across surfaces at _(default  self targeting surface.
 
 **TransformChain**
 Detects binding in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -957,8 +853,6 @@ Detects binding in a point at short (10 ft targeting surface.
 
 **WhirlingRoot**
 Detects light in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -975,8 +869,6 @@ Detects light in a point at touch targeting _(default  where written.
 
 **TwinBond**
 Constrains light in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -993,8 +885,6 @@ Constrains light in a point at _(default  self targeting object.
 
 **CapturRune**
 Constrains heat in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -1011,8 +901,6 @@ Constrains heat in a point at short (10 ft targeting surface.
 
 **BurWall**
 Filters light in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -1029,8 +917,6 @@ Filters light in a point at touch targeting _(default  where written.
 
 **TaintedCharm**
 Alters electric across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -1047,8 +933,6 @@ Alters electric across surfaces at _(default  self targeting object.
 
 **KindlVoid**
 Constrains heat across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -1065,8 +949,6 @@ Constrains heat across surfaces at _(default  self targeting surface.
 
 **WeavMark**
 Releases light in a cone at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -1083,8 +965,6 @@ Releases light in a cone at _(default  self targeting surface.
 
 **WeaveThought**
 Detects electric in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -1101,8 +981,6 @@ Detects electric in a point at _(default  self targeting _(default  where writte
 
 **SwiftTouch**
 Shields against electric in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -1119,8 +997,6 @@ Shields against electric in a point at _(default  self targeting surface.
 
 **KindleFlame**
 Detects binding in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -1137,8 +1013,6 @@ Detects binding in a _(default  plane at _(default  self targeting object.
 
 **DissolvHeart**
 Displaces electric in a cone at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -1155,8 +1029,6 @@ Displaces electric in a cone at _(default  self targeting surface.
 
 **ChillPulse**
 Alters chemical in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1173,8 +1045,6 @@ Alters chemical in a _(default  plane at short (10 ft targeting _(default  where
 
 **ReleasCrown**
 Shields against force in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -1191,8 +1061,6 @@ Shields against force in a cone at touch targeting _(default  where written.
 
 **BreakNet**
 Alters binding in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1209,8 +1077,6 @@ Alters binding in a cone at short (10 ft targeting object.
 
 **SlowHalo**
 Detects light across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1227,8 +1093,6 @@ Detects light across surfaces at touch targeting _(default  where written.
 
 **TwistGlyph**
 Filters force in a cone at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -1245,8 +1109,6 @@ Filters force in a cone at touch targeting surface.
 
 **PureWall**
 Filters chemical across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1263,8 +1125,6 @@ Filters chemical across surfaces at short (10 ft targeting surface.
 
 **PaleCore**
 Filters light across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -1281,8 +1141,6 @@ Filters light across surfaces at _(default  self targeting object.
 
 **WeakCage**
 Constrains binding in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1299,8 +1157,6 @@ Constrains binding in a _(default  plane at short (10 ft targeting _(default  wh
 
 **ReleasTouch**
 Constrains force in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -1317,8 +1173,6 @@ Constrains force in a cone at short (10 ft targeting surface.
 
 **FreshWisp**
 Alters binding in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1335,8 +1189,6 @@ Alters binding in a _(default  plane at _(default  self targeting surface.
 
 **GentleHand**
 Filters heat in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -1353,8 +1205,6 @@ Filters heat in a point at _(default  self targeting surface.
 
 **FallStrike**
 Alters heat in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -1371,8 +1221,6 @@ Alters heat in a _(default  plane at short (10 ft targeting surface.
 
 **BurnMark**
 Shields against binding in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1389,8 +1237,6 @@ Shields against binding in a cone at touch targeting object.
 
 **SweepHand**
 Displaces light across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -1407,8 +1253,6 @@ Displaces light across surfaces at touch targeting _(default  where written.
 
 **ShatterSeal**
 Displaces heat across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -1425,8 +1269,6 @@ Displaces heat across surfaces at short (10 ft targeting surface.
 
 **BreakPulse**
 Constrains heat in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -1443,8 +1285,6 @@ Constrains heat in a cone at short (10 ft targeting object.
 
 **SurCurse**
 Constrains light across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -1461,8 +1301,6 @@ Constrains light across surfaces at _(default  self targeting surface.
 
 **LoudCharm**
 Alters binding in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1479,8 +1317,6 @@ Alters binding in a cone at short (10 ft targeting _(default  where written.
 
 **GuardVeil**
 Shields against electric in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1497,8 +1333,6 @@ Shields against electric in a point at _(default  self targeting object.
 
 **SurCore**
 Shields against force in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -1515,8 +1349,6 @@ Shields against force in a point at short (10 ft targeting _(default  where writ
 
 **CalmSight**
 Releases heat in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -1533,8 +1365,6 @@ Releases heat in a _(default  plane at touch targeting object.
 
 **GuardGate**
 Constrains heat in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1551,8 +1381,6 @@ Constrains heat in a point at short (10 ft targeting surface.
 
 **HiddenGlyph**
 Constrains electric in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1569,8 +1397,6 @@ Constrains electric in a cone at touch targeting _(default  where written.
 
 **DriftingSigil**
 Releases electric in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -1587,8 +1413,6 @@ Releases electric in a _(default  plane at short (10 ft targeting object.
 
 **SwiftWall**
 Shields against force in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1605,8 +1429,6 @@ Shields against force in a _(default  plane at _(default  self targeting _(defau
 
 **NakedMark**
 Shields against force in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -1623,8 +1445,6 @@ Shields against force in a point at touch targeting surface.
 
 **ReleasCalm**
 Shields against light in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1641,8 +1461,6 @@ Shields against light in a cone at short (10 ft targeting surface.
 
 **ShatterSilence**
 Releases raw in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -1659,8 +1477,6 @@ Releases raw in a point at _(default  self targeting surface.
 
 **ChillRing**
 Displaces chemical in a point at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -1677,8 +1493,6 @@ Displaces chemical in a point at short (10 ft targeting object.
 
 **TwistWisp**
 Displaces light in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -1695,8 +1509,6 @@ Displaces light in a _(default  plane at touch targeting _(default  where writte
 
 **DriftMark**
 Shields against binding in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -1713,8 +1525,6 @@ Shields against binding in a point at _(default  self targeting object.
 
 **ClearGate**
 Constrains electric in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -1731,8 +1541,6 @@ Constrains electric in a cone at short (10 ft targeting _(default  where written
 
 **SweepBreath**
 Filters force in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -1749,8 +1557,6 @@ Filters force in a point at touch targeting _(default  where written.
 
 **VastPath**
 Detects binding in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1767,8 +1573,6 @@ Detects binding in a cone at touch targeting _(default  where written.
 
 **FlowEye**
 Shields against force in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -1785,8 +1589,6 @@ Shields against force in a cone at touch targeting object.
 
 **TwistLight**
 Detects light in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -1803,8 +1605,6 @@ Detects light in a _(default  plane at short (10 ft targeting object.
 
 **SwiftDoor**
 Constrains force across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1821,8 +1621,6 @@ Constrains force across surfaces at _(default  self targeting object.
 
 **SlowDoor**
 Alters light across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -1839,8 +1637,6 @@ Alters light across surfaces at _(default  self targeting surface.
 
 **PierceWay**
 Detects electric in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1857,8 +1653,6 @@ Detects electric in a cone at short (10 ft targeting surface.
 
 **GuardFrost**
 Filters binding in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -1875,8 +1669,6 @@ Filters binding in a point at touch targeting object.
 
 **SurShell**
 Displaces electric in a cone at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -1893,8 +1685,6 @@ Displaces electric in a cone at _(default  self targeting _(default  where writt
 
 **LoudPulse**
 Filters force in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1911,8 +1701,6 @@ Filters force in a point at touch targeting _(default  where written.
 
 **CaptureFrost**
 Shields against raw in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1929,8 +1717,6 @@ Shields against raw in a point at short (10 ft targeting surface.
 
 **PierceTide**
 Detects binding in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -1947,8 +1733,6 @@ Detects binding in a point at touch targeting object.
 
 **SlowBond**
 Constrains electric in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1965,8 +1749,6 @@ Constrains electric in a point at _(default  self targeting object.
 
 **FreezGate**
 Detects heat in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1983,8 +1765,6 @@ Detects heat in a point at _(default  self targeting surface.
 
 **TaintedHalo**
 Constrains force in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -2001,8 +1781,6 @@ Constrains force in a cone at _(default  self targeting object.
 
 **FallBoon**
 Detects electric in a point at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -2019,8 +1797,6 @@ Detects electric in a point at short (10 ft targeting object.
 
 **SurMark**
 Alters heat in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -2037,8 +1813,6 @@ Alters heat in a _(default  plane at _(default  self targeting _(default  where 
 
 **TaintedCurse**
 Detects electric across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2055,8 +1829,6 @@ Detects electric across surfaces at _(default  self targeting object.
 
 **HeavyShell**
 Shields against raw in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -2073,8 +1845,6 @@ Shields against raw in a cone at _(default  self targeting object.
 
 **BreakSoul**
 Displaces heat in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -2091,8 +1861,6 @@ Displaces heat in a cone at short (10 ft targeting object.
 
 **ReleasBoon**
 Alters raw across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -2109,8 +1877,6 @@ Alters raw across surfaces at short (10 ft targeting object.
 
 **HeavyWard**
 Detects raw in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -2127,8 +1893,6 @@ Detects raw in a cone at touch targeting object.
 
 **CaptureMark**
 Detects chemical in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -2145,8 +1909,6 @@ Detects chemical in a _(default  plane at short (10 ft targeting surface.
 
 **ChillDance**
 Detects binding in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -2163,8 +1925,6 @@ Detects binding in a cone at touch targeting object.
 
 **FallVeil**
 Shields against raw in a point at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -2181,8 +1941,6 @@ Shields against raw in a point at short (10 ft targeting object.
 
 **CalmVeil**
 Shields against heat in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -2199,8 +1957,6 @@ Shields against heat in a point at touch targeting _(default  where written.
 
 **FlowLight**
 Releases raw in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -2217,8 +1973,6 @@ Releases raw in a cone at touch targeting object.
 
 **SurTouch**
 Alters chemical in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -2235,8 +1989,6 @@ Alters chemical in a point at short (10 ft targeting _(default  where written.
 
 **MurkyGlyph**
 Detects force across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2253,8 +2005,6 @@ Detects force across surfaces at _(default  self targeting object.
 
 **NakedShroud**
 Alters force in a cone at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -2271,8 +2021,6 @@ Alters force in a cone at _(default  self targeting surface.
 
 **BindHalo**
 Displaces electric in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -2289,8 +2037,6 @@ Displaces electric in a point at touch targeting surface.
 
 **VividFrost**
 Alters binding in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -2307,8 +2053,6 @@ Alters binding in a cone at short (10 ft targeting surface.
 
 **GuardPulse**
 Detects heat in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2325,8 +2069,6 @@ Detects heat in a _(default  plane at touch targeting object.
 
 **TransformTide**
 Displaces light in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -2343,8 +2085,6 @@ Displaces light in a _(default  plane at _(default  self targeting _(default  wh
 
 **PiercVeil**
 Detects force in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2361,8 +2101,6 @@ Detects force in a point at _(default  self targeting surface.
 
 **BurHand**
 Filters electric in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -2379,8 +2117,6 @@ Filters electric in a _(default  plane at short (10 ft targeting object.
 
 **KindleMark**
 Constrains raw across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -2397,8 +2133,6 @@ Constrains raw across surfaces at touch targeting object.
 
 **KindlHeart**
 Shields against electric in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -2415,8 +2149,6 @@ Shields against electric in a _(default  plane at touch targeting object.
 
 **PaleGate**
 Alters light in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -2433,8 +2165,6 @@ Alters light in a point at touch targeting surface.
 
 **TwistFlame**
 Displaces light in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -2451,8 +2181,6 @@ Displaces light in a _(default  plane at touch targeting surface.
 
 **CalmScar**
 Alters raw in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -2469,8 +2197,6 @@ Alters raw in a point at short (10 ft targeting surface.
 
 **CalmTouch**
 Releases chemical in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -2487,8 +2213,6 @@ Releases chemical in a point at touch targeting object.
 
 **TwistScar**
 Releases chemical across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -2505,8 +2229,6 @@ Releases chemical across surfaces at _(default  self targeting object.
 
 **FlowVeil**
 Constrains light across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -2523,8 +2245,6 @@ Constrains light across surfaces at touch targeting object.
 
 **WeakAura**
 Filters raw in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -2541,8 +2261,6 @@ Filters raw in a point at _(default  self targeting surface.
 
 **SolidMirror**
 Detects light across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -2559,8 +2277,6 @@ Detects light across surfaces at _(default  self targeting _(default  where writ
 
 **FiercePulse**
 Detects light in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2577,8 +2293,6 @@ Detects light in a _(default  plane at short (10 ft targeting object.
 
 **ReleasStorm**
 Releases light across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2595,8 +2309,6 @@ Releases light across surfaces at touch targeting _(default  where written.
 
 **DullWall**
 Shields against light in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -2613,8 +2325,6 @@ Shields against light in a _(default  plane at touch targeting _(default  where 
 
 **TwinKnot**
 Detects electric in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -2631,8 +2341,6 @@ Detects electric in a _(default  plane at _(default  self targeting surface.
 
 **KindlCrown**
 Alters force across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -2649,8 +2357,6 @@ Alters force across surfaces at short (10 ft targeting surface.
 
 **DeepCurse**
 Shields against heat across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -2667,8 +2373,6 @@ Shields against heat across surfaces at short (10 ft targeting _(default  where 
 
 **SolidBoon**
 Displaces raw in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -2685,8 +2389,6 @@ Displaces raw in a _(default  plane at touch targeting surface.
 
 **CalmThought**
 Detects force in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -2703,8 +2405,6 @@ Detects force in a cone at touch targeting _(default  where written.
 
 **SweepTide**
 Detects force in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2721,8 +2421,6 @@ Detects force in a point at touch targeting object.
 
 **DeepBridge**
 Shields against electric in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -2739,8 +2437,6 @@ Shields against electric in a cone at short (10 ft targeting surface.
 
 **AnchorWay**
 Detects raw in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -2757,8 +2453,6 @@ Detects raw in a _(default  plane at short (10 ft targeting surface.
 
 **RiseWay**
 Displaces light in a cone at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -2775,8 +2469,6 @@ Displaces light in a cone at _(default  self targeting _(default  where written.
 
 **QuietKnot**
 Alters chemical across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -2793,8 +2485,6 @@ Alters chemical across surfaces at touch targeting _(default  where written.
 
 **ReleasShroud**
 Alters heat in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -2811,8 +2501,6 @@ Alters heat in a _(default  plane at _(default  self targeting surface.
 
 **FreezHeart**
 Detects light in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -2829,8 +2517,6 @@ Detects light in a _(default  plane at short (10 ft targeting surface.
 
 **SurBreath**
 Detects chemical in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2847,8 +2533,6 @@ Detects chemical in a point at short (10 ft targeting _(default  where written.
 
 **WarmRing**
 Filters chemical in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -2865,8 +2549,6 @@ Filters chemical in a point at short (10 ft targeting surface.
 
 **TwistVoice**
 Constrains binding across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -2883,8 +2565,6 @@ Constrains binding across surfaces at _(default  self targeting _(default  where
 
 **SteadyEye**
 Filters force in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -2901,8 +2581,6 @@ Filters force in a cone at touch targeting object.
 
 **SlowWeb**
 Filters force across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -2919,8 +2597,6 @@ Filters force across surfaces at short (10 ft targeting surface.
 
 **TransformCharm**
 Displaces heat in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -2937,8 +2613,6 @@ Displaces heat in a _(default  plane at touch targeting object.
 
 **FlowBond**
 Alters binding in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -2955,8 +2629,6 @@ Alters binding in a cone at touch targeting object.
 
 **PiercSilence**
 Detects heat across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -2973,8 +2645,6 @@ Detects heat across surfaces at touch targeting object.
 
 **TwistBond**
 Alters heat in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -2991,8 +2661,6 @@ Alters heat in a point at _(default  self targeting _(default  where written.
 
 **FragileCurse**
 Alters force across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3009,8 +2677,6 @@ Alters force across surfaces at touch targeting object.
 
 **TransformDance**
 Shields against raw in a cone at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -3027,8 +2693,6 @@ Shields against raw in a cone at _(default  self targeting _(default  where writ
 
 **ShatterLight**
 Displaces raw in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -3045,8 +2709,6 @@ Displaces raw in a point at short (10 ft targeting _(default  where written.
 
 **SolidFrost**
 Shields against heat in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -3063,8 +2725,6 @@ Shields against heat in a point at _(default  self targeting _(default  where wr
 
 **FierceThread**
 Filters raw in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -3081,8 +2741,6 @@ Filters raw in a point at touch targeting surface.
 
 **WeavEcho**
 Detects chemical across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -3099,8 +2757,6 @@ Detects chemical across surfaces at _(default  self targeting surface.
 
 **WildKey**
 Filters force in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -3117,8 +2773,6 @@ Filters force in a point at _(default  self targeting _(default  where written.
 
 **ShatterFlame**
 Displaces heat in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -3135,8 +2789,6 @@ Displaces heat in a point at _(default  self targeting object.
 
 **ReleaseBreath**
 Filters electric in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -3153,8 +2805,6 @@ Filters electric in a point at short (10 ft targeting surface.
 
 **ShatterNet**
 Shields against force in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -3171,8 +2821,6 @@ Shields against force in a _(default  plane at touch targeting _(default  where 
 
 **TaintedPulse**
 Alters raw across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3189,8 +2837,6 @@ Alters raw across surfaces at _(default  self targeting object.
 
 **PiercBridge**
 Shields against heat in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -3207,8 +2853,6 @@ Shields against heat in a _(default  plane at _(default  self targeting object.
 
 **CurvedWard**
 Alters light in a cone at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -3225,8 +2869,6 @@ Alters light in a cone at _(default  self targeting _(default  where written.
 
 **RisNet**
 Filters binding across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -3243,8 +2885,6 @@ Filters binding across surfaces at _(default  self targeting _(default  where wr
 
 **TransformBreath**
 Shields against heat across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -3261,8 +2901,6 @@ Shields against heat across surfaces at _(default  self targeting object.
 
 **CalmPath**
 Constrains electric in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -3279,8 +2917,6 @@ Constrains electric in a _(default  plane at touch targeting _(default  where wr
 
 **DissolveLight**
 Alters binding in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3297,8 +2933,6 @@ Alters binding in a _(default  plane at _(default  self targeting surface.
 
 **HeavyCalm**
 Displaces raw in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -3315,8 +2949,6 @@ Displaces raw in a cone at _(default  self targeting object.
 
 **RestlessRoot**
 Releases heat across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -3333,8 +2965,6 @@ Releases heat across surfaces at short (10 ft targeting _(default  where written
 
 **RisCurse**
 Detects raw across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -3351,8 +2981,6 @@ Detects raw across surfaces at short (10 ft targeting object.
 
 **GuardStorm**
 Shields against binding in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -3369,8 +2997,6 @@ Shields against binding in a _(default  plane at short (10 ft targeting surface.
 
 **ColdEcho**
 Filters raw in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -3387,8 +3013,6 @@ Filters raw in a _(default  plane at _(default  self targeting object.
 
 **SurRoot**
 Detects light in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3405,8 +3029,6 @@ Detects light in a point at _(default  self targeting _(default  where written.
 
 **SweepAura**
 Constrains heat in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -3423,8 +3045,6 @@ Constrains heat in a _(default  plane at _(default  self targeting object.
 
 **DissolveMark**
 Detects chemical across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3441,8 +3061,6 @@ Detects chemical across surfaces at _(default  self targeting object.
 
 **FlowShadow**
 Alters chemical in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -3459,8 +3077,6 @@ Alters chemical in a cone at touch targeting _(default  where written.
 
 **RisMirror**
 Displaces chemical in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -3477,8 +3093,6 @@ Displaces chemical in a cone at short (10 ft targeting object.
 
 **PiercCore**
 Filters force in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -3495,8 +3109,6 @@ Filters force in a point at _(default  self targeting surface.
 
 **LoudKnot**
 Filters force in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -3513,8 +3125,6 @@ Filters force in a _(default  plane at touch targeting surface.
 
 **FreezShroud**
 Shields against light in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -3531,8 +3141,6 @@ Shields against light in a point at short (10 ft targeting _(default  where writ
 
 **DissolvShell**
 Displaces raw in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -3549,8 +3157,6 @@ Displaces raw in a _(default  plane at touch targeting object.
 
 **FallBridge**
 Constrains light in a point at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3567,8 +3173,6 @@ Constrains light in a point at short (10 ft targeting object.
 
 **SurgeScar**
 Detects force in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -3585,8 +3189,6 @@ Detects force in a point at touch targeting surface.
 
 **AnchoredVoid**
 Displaces chemical in a cone at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -3603,8 +3205,6 @@ Displaces chemical in a cone at _(default  self targeting _(default  where writt
 
 **FreezChain**
 Releases light in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -3621,8 +3221,6 @@ Releases light in a _(default  plane at short (10 ft targeting _(default  where 
 
 **SweepMirror**
 Alters chemical across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3639,8 +3237,6 @@ Alters chemical across surfaces at touch targeting surface.
 
 **SurgeLight**
 Detects chemical in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3657,8 +3253,6 @@ Detects chemical in a cone at touch targeting object.
 
 **HardyBond**
 Shields against light in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -3675,8 +3269,6 @@ Shields against light in a point at _(default  self targeting object.
 
 **RisPulse**
 Filters heat across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -3693,8 +3285,6 @@ Filters heat across surfaces at _(default  self targeting object.
 
 **ShallowKnot**
 Displaces raw in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -3711,8 +3301,6 @@ Displaces raw in a _(default  plane at _(default  self targeting object.
 
 **GuardBlessing**
 Filters force in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -3729,8 +3317,6 @@ Filters force in a _(default  plane at touch targeting _(default  where written.
 
 **RiseShadow**
 Displaces light in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -3747,8 +3333,6 @@ Displaces light in a _(default  plane at touch targeting object.
 
 **WhirlingTouch**
 Constrains chemical across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -3765,8 +3349,6 @@ Constrains chemical across surfaces at short (10 ft targeting object.
 
 **FallKnot**
 Releases heat across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -3783,8 +3365,6 @@ Releases heat across surfaces at _(default  self targeting object.
 
 **QuietTouch**
 Constrains chemical in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3801,8 +3381,6 @@ Constrains chemical in a cone at short (10 ft targeting _(default  where written
 
 **SolidRing**
 Displaces light across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -3819,8 +3397,6 @@ Displaces light across surfaces at touch targeting surface.
 
 **BindWeb**
 Shields against binding across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -3837,8 +3413,6 @@ Shields against binding across surfaces at _(default  self targeting object.
 
 **TransformGlyph**
 Alters binding in a point at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3855,8 +3429,6 @@ Alters binding in a point at short (10 ft targeting object.
 
 **SurgeSight**
 Alters heat in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3873,8 +3445,6 @@ Alters heat in a point at short (10 ft targeting surface.
 
 **BindThread**
 Filters electric in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -3891,8 +3461,6 @@ Filters electric in a cone at touch targeting object.
 
 **SolidVeil**
 Alters force across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -3909,8 +3477,6 @@ Alters force across surfaces at touch targeting object.
 
 **GuardMirror**
 Shields against chemical in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -3927,8 +3493,6 @@ Shields against chemical in a _(default  plane at touch targeting object.
 
 **BurCage**
 Shields against binding across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -3945,8 +3509,6 @@ Shields against binding across surfaces at short (10 ft targeting object.
 
 **FierceHalo**
 Detects electric in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3963,8 +3525,6 @@ Detects electric in a point at _(default  self targeting surface.
 
 **KindleRoad**
 Shields against chemical in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -3981,8 +3541,6 @@ Shields against chemical in a _(default  plane at _(default  self targeting _(de
 
 **KindleDream**
 Releases light across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -3999,8 +3557,6 @@ Releases light across surfaces at touch targeting _(default  where written.
 
 **CaptureLight**
 Shields against heat across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -4017,8 +3573,6 @@ Shields against heat across surfaces at _(default  self targeting _(default  whe
 
 **BreakMark**
 Releases chemical in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4035,8 +3589,6 @@ Releases chemical in a _(default  plane at _(default  self targeting surface.
 
 **RiseDream**
 Alters electric across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -4053,8 +3605,6 @@ Alters electric across surfaces at _(default  self targeting surface.
 
 **PureCore**
 Alters binding across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -4071,8 +3621,6 @@ Alters binding across surfaces at _(default  self targeting surface.
 
 **SwiftBreath**
 Detects raw in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -4089,8 +3637,6 @@ Detects raw in a _(default  plane at _(default  self targeting surface.
 
 **BreakHand**
 Constrains electric in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -4107,8 +3653,6 @@ Constrains electric in a cone at touch targeting _(default  where written.
 
 **VastBoon**
 Displaces raw in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -4125,8 +3669,6 @@ Displaces raw in a point at touch targeting _(default  where written.
 
 **ShatterVoid**
 Displaces electric across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -4143,8 +3685,6 @@ Displaces electric across surfaces at touch targeting _(default  where written.
 
 **BindBreath**
 Releases light in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4161,8 +3701,6 @@ Releases light in a cone at short (10 ft targeting object.
 
 **BindStorm**
 Constrains chemical in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -4179,8 +3717,6 @@ Constrains chemical in a _(default  plane at _(default  self targeting surface.
 
 **DriftRune**
 Detects electric in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -4197,8 +3733,6 @@ Detects electric in a point at _(default  self targeting object.
 
 **BreakShadow**
 Releases raw in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -4215,8 +3749,6 @@ Releases raw in a _(default  plane at _(default  self targeting object.
 
 **FreezePulse**
 Displaces force in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -4233,8 +3765,6 @@ Displaces force in a _(default  plane at touch targeting surface.
 
 **FlowRoad**
 Alters light in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -4251,8 +3781,6 @@ Alters light in a point at touch targeting object.
 
 **SweepSight**
 Releases force in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -4269,8 +3797,6 @@ Releases force in a _(default  plane at touch targeting object.
 
 **ShatterFrost**
 Displaces electric in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -4287,8 +3813,6 @@ Displaces electric in a point at touch targeting _(default  where written.
 
 **BindHand**
 Alters binding in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -4305,8 +3829,6 @@ Alters binding in a _(default  plane at short (10 ft targeting _(default  where 
 
 **DriftingBond**
 Shields against raw in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -4323,8 +3845,6 @@ Shields against raw in a _(default  plane at short (10 ft targeting _(default  w
 
 **StraightBond**
 Filters binding in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -4341,8 +3861,6 @@ Filters binding in a _(default  plane at _(default  self targeting _(default  wh
 
 **BurnDream**
 Detects binding in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -4359,8 +3877,6 @@ Detects binding in a point at _(default  self targeting object.
 
 **CurvedRing**
 Shields against binding across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -4377,8 +3893,6 @@ Shields against binding across surfaces at _(default  self targeting object.
 
 **ReleaseSight**
 Displaces force in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -4395,8 +3909,6 @@ Displaces force in a _(default  plane at touch targeting _(default  where writte
 
 **HeavyVeil**
 Constrains chemical across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -4413,8 +3925,6 @@ Constrains chemical across surfaces at _(default  self targeting surface.
 
 **TwinThread**
 Alters force in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -4431,8 +3941,6 @@ Alters force in a point at touch targeting surface.
 
 **CalmStorm**
 Constrains heat across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -4449,8 +3957,6 @@ Constrains heat across surfaces at _(default  self targeting surface.
 
 **WildFrost**
 Displaces chemical in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -4467,8 +3973,6 @@ Displaces chemical in a cone at _(default  self targeting object.
 
 **TransformBrand**
 Shields against electric in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -4485,8 +3989,6 @@ Shields against electric in a point at touch targeting _(default  where written.
 
 **DullPulse**
 Detects chemical in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -4503,8 +4005,6 @@ Detects chemical in a _(default  plane at short (10 ft targeting _(default  wher
 
 **PiercHand**
 Filters raw in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -4521,8 +4021,6 @@ Filters raw in a point at _(default  self targeting _(default  where written.
 
 **AnchorBreath**
 Detects chemical in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -4539,8 +4037,6 @@ Detects chemical in a cone at touch targeting object.
 
 **CapturPath**
 Filters binding in a cone at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4557,8 +4053,6 @@ Filters binding in a cone at _(default  self targeting _(default  where written.
 
 **VastWeb**
 Filters chemical in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4575,8 +4069,6 @@ Filters chemical in a point at short (10 ft targeting _(default  where written.
 
 **BrightRing**
 Releases force in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -4593,8 +4085,6 @@ Releases force in a _(default  plane at _(default  self targeting object.
 
 **LightNet**
 Releases binding in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4611,8 +4101,6 @@ Releases binding in a cone at touch targeting object.
 
 **FreezeFlame**
 Shields against raw in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -4629,8 +4117,6 @@ Shields against raw in a _(default  plane at touch targeting surface.
 
 **TwistWay**
 Shields against light in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -4647,8 +4133,6 @@ Shields against light in a point at touch targeting _(default  where written.
 
 **TameThread**
 Releases raw across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -4665,8 +4149,6 @@ Releases raw across surfaces at _(default  self targeting object.
 
 **FallCore**
 Releases chemical across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4683,8 +4165,6 @@ Releases chemical across surfaces at short (10 ft targeting surface.
 
 **VastBond**
 Constrains raw across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -4701,8 +4181,6 @@ Constrains raw across surfaces at touch targeting surface.
 
 **HeavySeal**
 Displaces heat in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -4719,8 +4197,6 @@ Displaces heat in a cone at short (10 ft targeting _(default  where written.
 
 **RiseTide**
 Displaces chemical in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -4737,8 +4213,6 @@ Displaces chemical in a cone at short (10 ft targeting object.
 
 **TwistBreath**
 Detects light in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -4755,8 +4229,6 @@ Detects light in a point at touch targeting _(default  where written.
 
 **RisEcho**
 Releases light in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -4773,8 +4245,6 @@ Releases light in a cone at touch targeting _(default  where written.
 
 **NakedEcho**
 Shields against binding in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -4791,8 +4261,6 @@ Shields against binding in a _(default  plane at touch targeting _(default  wher
 
 **BurBreath**
 Shields against raw in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -4809,8 +4277,6 @@ Shields against raw in a point at touch targeting object.
 
 **ReleaseStrike**
 Releases binding in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -4827,8 +4293,6 @@ Releases binding in a point at touch targeting _(default  where written.
 
 **PalePulse**
 Filters raw across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -4845,8 +4309,6 @@ Filters raw across surfaces at _(default  self targeting surface.
 
 **ReleasRing**
 Releases heat in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4863,8 +4325,6 @@ Releases heat in a _(default  plane at _(default  self targeting object.
 
 **ReleaseSong**
 Releases raw in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -4881,8 +4341,6 @@ Releases raw in a point at short (10 ft targeting surface.
 
 **PiercRing**
 Filters binding in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -4899,8 +4357,6 @@ Filters binding in a cone at touch targeting object.
 
 **WarmNet**
 Constrains electric in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -4917,8 +4373,6 @@ Constrains electric in a point at _(default  self targeting object.
 
 **SweepSoul**
 Filters electric in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4935,8 +4389,6 @@ Filters electric in a point at touch targeting object.
 
 **QuietAura**
 Shields against heat in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -4953,8 +4405,6 @@ Shields against heat in a _(default  plane at short (10 ft targeting _(default  
 
 **HiddenCharm**
 Constrains light in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -4971,8 +4421,6 @@ Constrains light in a _(default  plane at short (10 ft targeting object.
 
 **ColdShell**
 Filters light in a cone at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -4989,8 +4437,6 @@ Filters light in a cone at touch targeting surface.
 
 **TaintedAura**
 Alters raw across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -5007,8 +4453,6 @@ Alters raw across surfaces at _(default  self targeting object.
 
 **CurvedCrown**
 Detects light across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -5025,8 +4469,6 @@ Detects light across surfaces at short (10 ft targeting _(default  where written
 
 **MurkyMark**
 Releases electric in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -5043,8 +4485,6 @@ Releases electric in a point at touch targeting _(default  where written.
 
 **PureSpirit**
 Alters light in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -5061,8 +4501,6 @@ Alters light in a _(default  plane at touch targeting _(default  where written.
 
 **KindleWay**
 Shields against electric in a cone at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -5079,8 +4517,6 @@ Shields against electric in a cone at touch targeting object.
 
 **FallRing**
 Shields against binding in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -5097,8 +4533,6 @@ Shields against binding in a point at _(default  self targeting _(default  where
 
 **ReleaseLight**
 Releases heat in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -5115,8 +4549,6 @@ Releases heat in a point at _(default  self targeting _(default  where written.
 
 **FragileShroud**
 Detects heat in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -5133,8 +4565,6 @@ Detects heat in a point at _(default  self targeting surface.
 
 **DriftVeil**
 Constrains chemical in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -5151,8 +4581,6 @@ Constrains chemical in a cone at short (10 ft targeting _(default  where written
 
 **SharpFlame**
 Releases raw in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -5169,8 +4597,6 @@ Releases raw in a point at _(default  self targeting object.
 
 **TransformBoon**
 Filters binding in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5187,8 +4613,6 @@ Filters binding in a point at touch targeting object.
 
 **TwistChain**
 Constrains heat in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -5205,8 +4629,6 @@ Constrains heat in a point at short (10 ft targeting _(default  where written.
 
 **PiercRoot**
 Filters force in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5223,8 +4645,6 @@ Filters force in a cone at _(default  self targeting object.
 
 **DriftingTouch**
 Filters light in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5241,8 +4661,6 @@ Filters light in a cone at touch targeting _(default  where written.
 
 **StraightPath**
 Detects raw across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -5259,8 +4677,6 @@ Detects raw across surfaces at _(default  self targeting _(default  where writte
 
 **FallCharm**
 Alters chemical in a cone at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -5277,8 +4693,6 @@ Alters chemical in a cone at touch targeting surface.
 
 **StillCurse**
 Releases force in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -5295,8 +4709,6 @@ Releases force in a point at _(default  self targeting surface.
 
 **KindleTide**
 Constrains heat across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -5313,8 +4725,6 @@ Constrains heat across surfaces at touch targeting _(default  where written.
 
 **ShatterMirror**
 Releases chemical across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -5331,8 +4741,6 @@ Releases chemical across surfaces at short (10 ft targeting surface.
 
 **RisCalm**
 Alters raw in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -5349,8 +4757,6 @@ Alters raw in a _(default  plane at short (10 ft targeting object.
 
 **BurnFrost**
 Constrains binding in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -5367,8 +4773,6 @@ Constrains binding in a _(default  plane at touch targeting surface.
 
 **SweepWeb**
 Filters force in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5385,8 +4789,6 @@ Filters force in a _(default  plane at short (10 ft targeting _(default  where w
 
 **FrozenMark**
 Constrains heat in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -5403,8 +4805,6 @@ Constrains heat in a _(default  plane at touch targeting _(default  where writte
 
 **BurShroud**
 Alters light in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -5421,8 +4821,6 @@ Alters light in a cone at _(default  self targeting object.
 
 **ShallowCage**
 Shields against binding in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -5439,8 +4837,6 @@ Shields against binding in a point at short (10 ft targeting surface.
 
 **TransformRune**
 Constrains raw across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -5457,8 +4853,6 @@ Constrains raw across surfaces at touch targeting _(default  where written.
 
 **WarmCore**
 Constrains chemical in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -5475,8 +4869,6 @@ Constrains chemical in a point at _(default  self targeting _(default  where wri
 
 **TransformSong**
 Shields against electric across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -5493,8 +4885,6 @@ Shields against electric across surfaces at short (10 ft targeting object.
 
 **FiercePath**
 Alters binding across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -5511,8 +4901,6 @@ Alters binding across surfaces at short (10 ft targeting surface.
 
 **DarkCore**
 Releases electric in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -5529,8 +4917,6 @@ Releases electric in a point at _(default  self targeting _(default  where writt
 
 **FragileNet**
 Releases binding across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -5547,8 +4933,6 @@ Releases binding across surfaces at touch targeting _(default  where written.
 
 **CaptureFlame**
 Alters light in a _(default  plane at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -5565,8 +4949,6 @@ Alters light in a _(default  plane at _(default  self targeting object.
 
 **CalmFlame**
 Constrains chemical in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -5583,8 +4965,6 @@ Constrains chemical in a _(default  plane at _(default  self targeting surface.
 
 **AnchorBrand**
 Alters raw in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -5601,8 +4981,6 @@ Alters raw in a _(default  plane at short (10 ft targeting _(default  where writ
 
 **WeavVoid**
 Constrains raw in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -5619,8 +4997,6 @@ Constrains raw in a _(default  plane at short (10 ft targeting surface.
 
 **CalmLock**
 Filters binding in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5637,8 +5013,6 @@ Filters binding in a point at touch targeting surface.
 
 **KindlPath**
 Shields against raw in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -5655,8 +5029,6 @@ Shields against raw in a point at _(default  self targeting surface.
 
 **TwinSigil**
 Alters force in a cone at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -5673,8 +5045,6 @@ Alters force in a cone at _(default  self targeting surface.
 
 **BindKnot**
 Filters force in a _(default  plane at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5691,8 +5061,6 @@ Filters force in a _(default  plane at touch targeting _(default  where written.
 
 **DullFrost**
 Detects chemical in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -5709,8 +5077,6 @@ Detects chemical in a _(default  plane at touch targeting surface.
 
 **StillGlyph**
 Shields against light in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -5727,8 +5093,6 @@ Shields against light in a cone at _(default  self targeting object.
 
 **BurThread**
 Detects raw in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -5745,8 +5109,6 @@ Detects raw in a _(default  plane at short (10 ft targeting surface.
 
 **FrozenMirror**
 Filters electric across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5763,8 +5125,6 @@ Filters electric across surfaces at short (10 ft targeting surface.
 
 **DriftBrand**
 Detects heat in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -5781,8 +5141,6 @@ Detects heat in a point at touch targeting object.
 
 **BurRune**
 Constrains electric in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -5799,8 +5157,6 @@ Constrains electric in a _(default  plane at _(default  self targeting surface.
 
 **TransformMark**
 Alters electric in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -5817,8 +5173,6 @@ Alters electric in a point at _(default  self targeting surface.
 
 **ShatterWay**
 Filters raw across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -5835,8 +5189,6 @@ Filters raw across surfaces at short (10 ft targeting _(default  where written.
 
 **FierceWall**
 Constrains chemical in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -5853,8 +5205,6 @@ Constrains chemical in a cone at short (10 ft targeting object.
 
 **QuietVoice**
 Alters electric in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -5871,8 +5221,6 @@ Alters electric in a cone at short (10 ft targeting surface.
 
 **WeaveFlame**
 Constrains binding in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -5889,8 +5237,6 @@ Constrains binding in a point at _(default  self targeting surface.
 
 **FlowRune**
 Releases heat in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -5907,8 +5253,6 @@ Releases heat in a cone at short (10 ft targeting object.
 
 **BurTouch**
 Filters heat in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -5925,8 +5269,6 @@ Filters heat in a point at touch targeting _(default  where written.
 
 **LoneAura**
 Releases electric in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -5943,8 +5285,6 @@ Releases electric in a _(default  plane at touch targeting surface.
 
 **PiercKnot**
 Constrains chemical in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -5961,8 +5301,6 @@ Constrains chemical in a _(default  plane at short (10 ft targeting surface.
 
 **ClearShroud**
 Constrains heat across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -5979,8 +5317,6 @@ Constrains heat across surfaces at _(default  self targeting object.
 
 **CapturEcho**
 Filters binding in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -5997,8 +5333,6 @@ Filters binding in a point at short (10 ft targeting _(default  where written.
 
 **TransformGate**
 Displaces chemical in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -6015,8 +5349,6 @@ Displaces chemical in a _(default  plane at short (10 ft targeting object.
 
 **HumbleGlyph**
 Detects raw in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -6033,8 +5365,6 @@ Detects raw in a _(default  plane at short (10 ft targeting _(default  where wri
 
 **FrozenNet**
 Displaces chemical in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -6051,8 +5381,6 @@ Displaces chemical in a _(default  plane at short (10 ft targeting object.
 
 **BindVeil**
 Filters light in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -6069,8 +5397,6 @@ Filters light in a cone at short (10 ft targeting surface.
 
 **SwiftCage**
 Releases chemical in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -6087,8 +5413,6 @@ Releases chemical in a cone at touch targeting _(default  where written.
 
 **KindleSong**
 Shields against light in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -6105,8 +5429,6 @@ Shields against light in a cone at short (10 ft targeting _(default  where writt
 
 **SurgeBreath**
 Alters force in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -6123,8 +5445,6 @@ Alters force in a _(default  plane at short (10 ft targeting object.
 
 **ReleaseBlessing**
 Releases force in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -6141,8 +5461,6 @@ Releases force in a _(default  plane at touch targeting object.
 
 **PureStorm**
 Displaces chemical across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -6159,8 +5477,6 @@ Displaces chemical across surfaces at touch targeting surface.
 
 **ShatterDance**
 Filters chemical in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -6177,8 +5493,6 @@ Filters chemical in a point at short (10 ft targeting _(default  where written.
 
 **SlowGate**
 Releases binding across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -6195,8 +5509,6 @@ Releases binding across surfaces at _(default  self targeting object.
 
 **AnchorVeil**
 Constrains heat in a cone at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -6213,8 +5525,6 @@ Constrains heat in a cone at short (10 ft targeting object.
 
 **ShatterKey**
 Releases raw in a _(default  plane at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -6231,8 +5541,6 @@ Releases raw in a _(default  plane at short (10 ft targeting _(default  where wr
 
 **LoneSilence**
 Alters force across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -6249,8 +5557,6 @@ Alters force across surfaces at touch targeting object.
 
 **VastRoot**
 Filters heat across surfaces at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -6267,8 +5573,6 @@ Filters heat across surfaces at short (10 ft targeting _(default  where written.
 
 **KindlChain**
 Alters force in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -6285,8 +5589,6 @@ Alters force in a _(default  plane at touch targeting object.
 
 **HumbleHeart**
 Detects binding across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -6303,8 +5605,6 @@ Detects binding across surfaces at _(default  self targeting object.
 
 **BrightAura**
 Detects heat across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -6321,8 +5621,6 @@ Detects heat across surfaces at touch targeting _(default  where written.
 
 **ChillScar**
 Alters light in a cone at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -6339,8 +5637,6 @@ Alters light in a cone at _(default  self targeting surface.
 
 **SolidBond**
 Alters light in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -6357,8 +5653,6 @@ Alters light in a point at touch targeting object.
 
 **BreakBrand**
 Alters force in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -6375,8 +5669,6 @@ Alters force in a cone at short (10 ft targeting _(default  where written.
 
 **FreezCharm**
 Displaces electric in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -6393,8 +5685,6 @@ Displaces electric in a _(default  plane at touch targeting surface.
 
 **BreakEcho**
 Shields against raw in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -6411,8 +5701,6 @@ Shields against raw in a _(default  plane at touch targeting object.
 
 **BurnShadow**
 Alters heat in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -6429,8 +5717,6 @@ Alters heat in a _(default  plane at _(default  self targeting _(default  where 
 
 **SurgeDance**
 Filters force in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -6447,8 +5733,6 @@ Filters force in a _(default  plane at _(default  self targeting _(default  wher
 
 **ChillWard**
 Shields against force across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -6465,8 +5749,6 @@ Shields against force across surfaces at _(default  self targeting _(default  wh
 
 **PiercFrost**
 Releases raw in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -6483,8 +5765,6 @@ Releases raw in a point at short (10 ft targeting _(default  where written.
 
 **AncientVoice**
 Shields against chemical in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -6501,8 +5781,6 @@ Shields against chemical in a _(default  plane at touch targeting surface.
 
 **WeaveWay**
 Displaces binding in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -6519,8 +5797,6 @@ Displaces binding in a _(default  plane at short (10 ft targeting surface.
 
 **SurSoul**
 Shields against chemical in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -6537,8 +5813,6 @@ Shields against chemical in a point at touch targeting object.
 
 **DriftRoot**
 Displaces light in a _(default  plane at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -6555,8 +5829,6 @@ Displaces light in a _(default  plane at _(default  self targeting _(default  wh
 
 **BreakBreath**
 Shields against binding in a point at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -6573,8 +5845,6 @@ Shields against binding in a point at short (10 ft targeting surface.
 
 **PiercVoice**
 Detects binding in a cone at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -6591,8 +5861,6 @@ Detects binding in a cone at touch targeting surface.
 
 **BindKey**
 Detects binding in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -6609,8 +5877,6 @@ Detects binding in a point at _(default  self targeting object.
 
 **BindFrost**
 Alters force in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -6627,8 +5893,6 @@ Alters force in a cone at short (10 ft targeting surface.
 
 **SweepPulse**
 Shields against force in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -6645,8 +5909,6 @@ Shields against force in a _(default  plane at touch targeting object.
 
 **FallDance**
 Shields against heat in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -6663,8 +5925,6 @@ Shields against heat in a _(default  plane at touch targeting object.
 
 **SurgeStorm**
 Displaces light in a _(default  plane at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -6681,8 +5941,6 @@ Displaces light in a _(default  plane at short (10 ft targeting surface.
 
 **AnchorVoid**
 Releases chemical across surfaces at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -6699,8 +5957,6 @@ Releases chemical across surfaces at _(default  self targeting surface.
 
 **CurvedWisp**
 Displaces electric in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -6717,8 +5973,6 @@ Displaces electric in a point at _(default  self targeting _(default  where writ
 
 **BindFlame**
 Releases heat across surfaces at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -6735,8 +5989,6 @@ Releases heat across surfaces at touch targeting object.
 
 **TameCore**
 Displaces heat in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -6753,8 +6005,6 @@ Displaces heat in a cone at touch targeting _(default  where written.
 
 **FragileCalm**
 Constrains binding across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -6771,8 +6021,6 @@ Constrains binding across surfaces at touch targeting _(default  where written.
 
 **PiercSpirit**
 Releases electric across surfaces at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -6789,8 +6037,6 @@ Releases electric across surfaces at _(default  self targeting object.
 
 **ShatterBridge**
 Alters binding in a point at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -6807,8 +6053,6 @@ Alters binding in a point at _(default  self targeting object.
 
 **ShatterCrown**
 Constrains electric in a point at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -6825,8 +6069,6 @@ Constrains electric in a point at touch targeting _(default  where written.
 
 **HumbleWall**
 Filters raw in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -6843,8 +6085,6 @@ Filters raw in a _(default  plane at touch targeting surface.
 
 **ShatterCalm**
 Constrains heat in a _(default  plane at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -6861,8 +6101,6 @@ Constrains heat in a _(default  plane at touch targeting surface.
 
 **LightVoid**
 Detects force in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -6879,8 +6117,6 @@ Detects force in a _(default  plane at touch targeting object.
 
 **FallShadow**
 Shields against heat across surfaces at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -6897,8 +6133,6 @@ Shields against heat across surfaces at _(default  self targeting _(default  whe
 
 **GentleWisp**
 Constrains raw in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -6915,8 +6149,6 @@ Constrains raw in a _(default  plane at short (10 ft targeting object.
 
 **FreezeStorm**
 Constrains binding in a point at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -6933,8 +6165,6 @@ Constrains binding in a point at touch targeting surface.
 
 **SweepFlame**
 Constrains electric across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -6951,8 +6181,6 @@ Constrains electric across surfaces at touch targeting surface.
 
 **BreakTouch**
 Filters raw in a point at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -6969,8 +6197,6 @@ Filters raw in a point at touch targeting object.
 
 **VastHeart**
 Shields against raw in a _(default  plane at touch targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -6987,8 +6213,6 @@ Shields against raw in a _(default  plane at touch targeting object.
 
 **HumbleChain**
 Releases binding in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -7005,8 +6229,6 @@ Releases binding in a cone at _(default  self targeting object.
 
 **FallCurse**
 Constrains raw in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -7023,8 +6245,6 @@ Constrains raw in a _(default  plane at _(default  self targeting surface.
 
 **TwinRoot**
 Detects heat in a cone at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -7041,8 +6261,6 @@ Detects heat in a cone at short (10 ft targeting _(default  where written.
 
 **WeavSigil**
 Alters force across surfaces at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -7059,8 +6277,6 @@ Alters force across surfaces at touch targeting _(default  where written.
 
 **FreezEye**
 Constrains electric in a _(default  plane at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -7077,8 +6293,6 @@ Constrains electric in a _(default  plane at short (10 ft targeting object.
 
 **RiseScar**
 Displaces force across surfaces at touch targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -7095,8 +6309,6 @@ Displaces force across surfaces at touch targeting surface.
 
 **DriftPulse**
 Displaces raw in a cone at touch targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -7113,8 +6325,6 @@ Displaces raw in a cone at touch targeting _(default  where written.
 
 **ChillBrand**
 Filters electric in a cone at _(default  self targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -7131,8 +6341,6 @@ Filters electric in a cone at _(default  self targeting object.
 
 **BindPulse**
 Releases light in a point at _(default  self targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -7149,8 +6357,6 @@ Releases light in a point at _(default  self targeting _(default  where written.
 
 **DeepPath**
 Releases raw in a point at short (10 ft targeting _(default  where written.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -7167,8 +6373,6 @@ Releases raw in a point at short (10 ft targeting _(default  where written.
 
 **AnchorFlame**
 Constrains light in a point at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -7185,8 +6389,6 @@ Constrains light in a point at _(default  self targeting surface.
 
 **DriftingVoid**
 Releases force in a _(default  plane at _(default  self targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -7200,4 +6402,5 @@ Releases force in a _(default  plane at _(default  self targeting surface.
 | Wattage | 21 W |
 
 ---
+
 

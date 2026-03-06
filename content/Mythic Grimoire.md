@@ -3,8 +3,6 @@ Mythic spells require [[Control Tier]] T9 and represent the upper bound of [[Flu
 _Return to [[All Grimoire]]_
 **CapturThread**
 Releases soul in a sphere at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -21,8 +19,6 @@ Releases soul in a sphere at line-of-sight targeting group.
 
 **PaleNet**
 Displaces mind in a field at linked targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -39,8 +35,6 @@ Displaces mind in a field at linked targeting group.
 
 **ColdPath**
 Opposes soul in a sphere at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -57,8 +51,6 @@ Opposes soul in a sphere at line-of-sight targeting individual.
 
 **AncientPath**
 Manipulates soul in a field at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -75,8 +67,6 @@ Manipulates soul in a field at line-of-sight targeting group.
 
 **GentleTouch**
 Opposes mind in a sphere at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -93,8 +83,6 @@ Opposes mind in a sphere at line-of-sight targeting filter.
 
 **PiercTouch**
 Alters mind in a sphere at linked targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -111,8 +99,6 @@ Alters mind in a sphere at linked targeting individual.
 
 **FallMirror**
 Alters mind in a field at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -129,8 +115,6 @@ Alters mind in a field at line-of-sight targeting individual.
 
 **SolidPath**
 Shields against soul in a sphere at linked targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -147,8 +131,6 @@ Shields against soul in a sphere at linked targeting individual.
 
 **FreshHeart**
 Shields against soul in a sphere at line-of-sight targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -165,8 +147,6 @@ Shields against soul in a sphere at line-of-sight targeting filter.
 
 **ShatterBrand**
 Releases soul in a sphere at linked targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -183,8 +163,6 @@ Releases soul in a sphere at linked targeting individual.
 
 **FierceWard**
 Constrains soul in a sphere at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -201,8 +179,6 @@ Constrains soul in a sphere at line-of-sight targeting individual.
 
 **RisCalm**
 Releases soul in a field at linked targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -219,8 +195,6 @@ Releases soul in a field at linked targeting group.
 
 **PaleDoor**
 Alters soul in a sphere at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -237,8 +211,6 @@ Alters soul in a sphere at line-of-sight targeting group.
 
 **ReleaseBond**
 Detects soul in a field at linked targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -255,8 +227,6 @@ Detects soul in a field at linked targeting filter.
 
 **WeaveBlessing**
 Constrains mind in a field at linked targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -273,8 +243,6 @@ Constrains mind in a field at linked targeting individual.
 
 **ReleasBridge**
 Alters mind in a field at linked targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -291,8 +259,6 @@ Alters mind in a field at linked targeting filter.
 
 **BurSpirit**
 Filters mind in a sphere at linked targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -309,8 +275,6 @@ Filters mind in a sphere at linked targeting group.
 
 **StraightHand**
 Releases soul in a sphere at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
@@ -327,8 +291,6 @@ Releases soul in a sphere at line-of-sight targeting individual.
 
 **CalmDream**
 Releases soul in a field at linked targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -345,8 +307,6 @@ Releases soul in a field at linked targeting filter.
 
 **AnchorFrost**
 Releases mind in a sphere at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -363,8 +323,6 @@ Releases mind in a sphere at line-of-sight targeting group.
 
 **TransformBreath**
 Opposes soul in a field at linked targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -381,8 +339,6 @@ Opposes soul in a field at linked targeting group.
 
 **HardyCore**
 Filters soul in a field at line-of-sight targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Create |
@@ -399,8 +355,6 @@ Filters soul in a field at line-of-sight targeting individual.
 
 **NakedRoot**
 Shields against mind in a field at linked targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -417,8 +371,6 @@ Shields against mind in a field at linked targeting group.
 
 **RiseMark**
 Displaces soul in a field at linked targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -435,8 +387,6 @@ Displaces soul in a field at linked targeting group.
 
 **DriftFrost**
 Manipulates soul in a sphere at line-of-sight targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -450,4 +400,5 @@ Manipulates soul in a sphere at line-of-sight targeting group.
 | Wattage | 130001 W |
 
 ---
+
 

@@ -3,8 +3,6 @@ Rare spells require [[Control Tier]] T5–T6 and are the exclusive territory of 
 _Return to [[All Grimoire]]_
 **FallTouch**
 Filters soul across surfaces at medium (50 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -21,8 +19,6 @@ Filters soul across surfaces at medium (50 ft targeting filter.
 
 **AnchorShadow**
 Constrains soul in a cone at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -39,8 +35,6 @@ Constrains soul in a cone at long (200 ft targeting group.
 
 **GuardSeal**
 Releases mind in a beam at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -57,8 +51,6 @@ Releases mind in a beam at short (10 ft targeting object.
 
 **SurgeFrost**
 Constrains soul in a cylinder at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -75,8 +67,6 @@ Constrains soul in a cylinder at long (200 ft targeting object.
 
 **CalmSigil**
 Opposes soul in a sphere at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -93,8 +83,6 @@ Opposes soul in a sphere at long (200 ft targeting individual.
 
 **ChillFrost**
 Filters soul across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -111,8 +99,6 @@ Filters soul across surfaces at short (10 ft targeting surface.
 
 **SurgeDream**
 Alters soul in a cone at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -129,8 +115,6 @@ Alters soul in a cone at long (200 ft targeting object.
 
 **LoneFlame**
 Opposes mind across surfaces at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -147,8 +131,6 @@ Opposes mind across surfaces at medium (50 ft targeting group.
 
 **BreakScar**
 Manipulates soul in a sphere at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Create |
@@ -165,8 +147,6 @@ Manipulates soul in a sphere at short (10 ft targeting object.
 
 **PiercBreath**
 Shields against mind in a beam at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -183,8 +163,6 @@ Shields against mind in a beam at short (10 ft targeting individual.
 
 **PierceBrand**
 Manipulates soul in a cylinder at medium (50 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Affect |
@@ -201,8 +179,6 @@ Manipulates soul in a cylinder at medium (50 ft targeting filter.
 
 **WildGate**
 Filters mind across surfaces at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -219,8 +195,6 @@ Filters mind across surfaces at medium (50 ft targeting surface.
 
 **FlowThought**
 Shields against soul in a beam at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -237,8 +211,6 @@ Shields against soul in a beam at long (200 ft targeting object.
 
 **LoudVoid**
 Displaces soul across surfaces at short (10 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -255,8 +227,6 @@ Displaces soul across surfaces at short (10 ft targeting filter.
 
 **AnchorPulse**
 Alters soul in a beam at short (10 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -273,8 +243,6 @@ Alters soul in a beam at short (10 ft targeting filter.
 
 **DissolvPath**
 Constrains soul in a cylinder at short (10 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -291,8 +259,6 @@ Constrains soul in a cylinder at short (10 ft targeting group.
 
 **ShatterBrand**
 Constrains mind in a ring at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -309,8 +275,6 @@ Constrains mind in a ring at medium (50 ft targeting surface.
 
 **LightGlyph**
 Displaces mind in a sphere at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -327,8 +291,6 @@ Displaces mind in a sphere at short (10 ft targeting object.
 
 **AnchorFlame**
 Filters soul in a cone at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -345,8 +307,6 @@ Filters soul in a cone at short (10 ft targeting individual.
 
 **SurgeMark**
 Alters soul in a cone at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -363,8 +323,6 @@ Alters soul in a cone at long (200 ft targeting individual.
 
 **TransformPulse**
 Detects soul in a cone at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -381,8 +339,6 @@ Detects soul in a cone at long (200 ft targeting surface.
 
 **CaptureLight**
 Opposes soul across surfaces at short (10 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -399,8 +355,6 @@ Opposes soul across surfaces at short (10 ft targeting group.
 
 **CurvedKey**
 Opposes mind in a cone at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -417,8 +371,6 @@ Opposes mind in a cone at long (200 ft targeting filter.
 
 **FreezeFlame**
 Releases soul in a beam at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -435,8 +387,6 @@ Releases soul in a beam at medium (50 ft targeting group.
 
 **TransformDance**
 Detects soul in a sphere at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -453,8 +403,6 @@ Detects soul in a sphere at long (200 ft targeting group.
 
 **SurSeal**
 Opposes mind in a beam at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -471,8 +419,6 @@ Opposes mind in a beam at long (200 ft targeting group.
 
 **HeavyRoot**
 Detects mind in a beam at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -489,8 +435,6 @@ Detects mind in a beam at short (10 ft targeting object.
 
 **DriftBridge**
 Displaces mind in a cylinder at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -507,8 +451,6 @@ Displaces mind in a cylinder at long (200 ft targeting group.
 
 **PierceShadow**
 Constrains soul in a ring at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -525,8 +467,6 @@ Constrains soul in a ring at short (10 ft targeting object.
 
 **ReleasMark**
 Displaces soul in a cone at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -543,8 +483,6 @@ Displaces soul in a cone at medium (50 ft targeting individual.
 
 **AncientFrost**
 Constrains mind in a beam at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -561,8 +499,6 @@ Constrains mind in a beam at short (10 ft targeting individual.
 
 **FreezeDance**
 Manipulates soul in a sphere at short (10 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -579,8 +515,6 @@ Manipulates soul in a sphere at short (10 ft targeting filter.
 
 **CalmScar**
 Manipulates soul in a sphere at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -597,8 +531,6 @@ Manipulates soul in a sphere at medium (50 ft targeting surface.
 
 **HiddenLock**
 Manipulates mind in a sphere at short (10 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -615,8 +547,6 @@ Manipulates mind in a sphere at short (10 ft targeting group.
 
 **PierceBreath**
 Opposes soul across surfaces at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -633,8 +563,6 @@ Opposes soul across surfaces at long (200 ft targeting individual.
 
 **SweepFlame**
 Manipulates mind in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -651,8 +579,6 @@ Manipulates mind in a cylinder at short (10 ft targeting surface.
 
 **BurWisp**
 Shields against soul across surfaces at short (10 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -669,8 +595,6 @@ Shields against soul across surfaces at short (10 ft targeting object.
 
 **AncientSilence**
 Constrains mind in a ring at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -687,8 +611,6 @@ Constrains mind in a ring at short (10 ft targeting surface.
 
 **SteadyGate**
 Opposes soul in a cone at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -705,8 +627,6 @@ Opposes soul in a cone at medium (50 ft targeting surface.
 
 **BindSight**
 Alters soul in a sphere at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -723,8 +643,6 @@ Alters soul in a sphere at medium (50 ft targeting group.
 
 **PureMirror**
 Constrains soul in a beam at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -741,8 +659,6 @@ Constrains soul in a beam at short (10 ft targeting surface.
 
 **FreezeLight**
 Constrains soul in a beam at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -759,8 +675,6 @@ Constrains soul in a beam at medium (50 ft targeting individual.
 
 **DullLock**
 Displaces soul in a beam at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -777,8 +691,6 @@ Displaces soul in a beam at short (10 ft targeting individual.
 
 **ShatterBlessing**
 Displaces soul across surfaces at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -795,8 +707,6 @@ Displaces soul across surfaces at long (200 ft targeting individual.
 
 **SweepDoor**
 Releases mind in a sphere at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -813,8 +723,6 @@ Releases mind in a sphere at long (200 ft targeting object.
 
 **ShatterEcho**
 Detects soul in a ring at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -831,8 +739,6 @@ Detects soul in a ring at long (200 ft targeting object.
 
 **SweepMark**
 Opposes soul in a ring at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -849,8 +755,6 @@ Opposes soul in a ring at long (200 ft targeting object.
 
 **ColdBreath**
 Displaces soul in a cylinder at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -867,8 +771,6 @@ Displaces soul in a cylinder at long (200 ft targeting filter.
 
 **PiercMirror**
 Constrains mind across surfaces at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -885,8 +787,6 @@ Constrains mind across surfaces at medium (50 ft targeting object.
 
 **FallStrike**
 Detects soul in a beam at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -903,8 +803,6 @@ Detects soul in a beam at long (200 ft targeting surface.
 
 **StrongSigil**
 Alters mind in a beam at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -921,8 +819,6 @@ Alters mind in a beam at short (10 ft targeting surface.
 
 **LightVeil**
 Opposes mind across surfaces at medium (50 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -939,8 +835,6 @@ Opposes mind across surfaces at medium (50 ft targeting filter.
 
 **TwistDream**
 Filters mind across surfaces at medium (50 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Create |
@@ -957,8 +851,6 @@ Filters mind across surfaces at medium (50 ft targeting filter.
 
 **DissolvFrost**
 Filters mind in a sphere at medium (50 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -975,8 +867,6 @@ Filters mind in a sphere at medium (50 ft targeting individual.
 
 **WeakVeil**
 Detects soul in a sphere at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -993,8 +883,6 @@ Detects soul in a sphere at medium (50 ft targeting object.
 
 **BurnRoad**
 Shields against mind across surfaces at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -1011,8 +899,6 @@ Shields against mind across surfaces at long (200 ft targeting surface.
 
 **TransformRing**
 Filters soul in a cylinder at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1029,8 +915,6 @@ Filters soul in a cylinder at short (10 ft targeting individual.
 
 **FallThought**
 Detects soul in a cone at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1047,8 +931,6 @@ Detects soul in a cone at long (200 ft targeting object.
 
 **StillVoid**
 Releases soul in a sphere at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -1065,8 +947,6 @@ Releases soul in a sphere at long (200 ft targeting individual.
 
 **ChillRoad**
 Constrains mind in a cylinder at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -1083,8 +963,6 @@ Constrains mind in a cylinder at short (10 ft targeting surface.
 
 **StillBreath**
 Releases soul in a beam at long (200 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -1101,8 +979,6 @@ Releases soul in a beam at long (200 ft targeting group.
 
 **BreakFlame**
 Filters mind in a beam at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1119,8 +995,6 @@ Filters mind in a beam at long (200 ft targeting individual.
 
 **DissolvGlyph**
 Opposes soul in a beam at short (10 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -1137,8 +1011,6 @@ Opposes soul in a beam at short (10 ft targeting filter.
 
 **VastGlyph**
 Manipulates soul in a beam at medium (50 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -1155,8 +1027,6 @@ Manipulates soul in a beam at medium (50 ft targeting filter.
 
 **DarkBond**
 Alters soul in a cone at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -1173,8 +1043,6 @@ Alters soul in a cone at medium (50 ft targeting object.
 
 **WildSpirit**
 Displaces soul in a beam at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1191,8 +1059,6 @@ Displaces soul in a beam at medium (50 ft targeting group.
 
 **BreakWay**
 Filters soul in a beam at short (10 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1209,8 +1075,6 @@ Filters soul in a beam at short (10 ft targeting group.
 
 **TwistTouch**
 Displaces soul across surfaces at medium (50 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1227,8 +1091,6 @@ Displaces soul across surfaces at medium (50 ft targeting filter.
 
 **WhirlingSigil**
 Opposes soul across surfaces at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -1245,8 +1107,6 @@ Opposes soul across surfaces at medium (50 ft targeting group.
 
 **AncientGlyph**
 Constrains soul in a cone at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -1263,8 +1123,6 @@ Constrains soul in a cone at long (200 ft targeting individual.
 
 **StillSpirit**
 Filters soul in a beam at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -1281,8 +1139,6 @@ Filters soul in a beam at long (200 ft targeting surface.
 
 **BindMark**
 Manipulates soul across surfaces at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -1299,8 +1155,6 @@ Manipulates soul across surfaces at short (10 ft targeting surface.
 
 **ColdVoid**
 Detects soul across surfaces at short (10 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -1317,8 +1171,6 @@ Detects soul across surfaces at short (10 ft targeting group.
 
 **SweepCore**
 Constrains mind in a cone at short (10 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -1335,8 +1187,6 @@ Constrains mind in a cone at short (10 ft targeting group.
 
 **ShatterBreath**
 Detects soul in a sphere at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1353,8 +1203,6 @@ Detects soul in a sphere at medium (50 ft targeting surface.
 
 **DriftLock**
 Alters soul in a ring at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1371,8 +1219,6 @@ Alters soul in a ring at long (200 ft targeting individual.
 
 **ColdSoul**
 Manipulates mind in a cone at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -1389,8 +1235,6 @@ Manipulates mind in a cone at long (200 ft targeting surface.
 
 **BindWard**
 Shields against mind in a ring at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -1407,8 +1251,6 @@ Shields against mind in a ring at long (200 ft targeting object.
 
 **FreezeTide**
 Filters soul in a cylinder at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -1425,8 +1267,6 @@ Filters soul in a cylinder at long (200 ft targeting object.
 
 **SlowCrown**
 Shields against soul in a ring at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -1443,8 +1283,6 @@ Shields against soul in a ring at long (200 ft targeting object.
 
 **PierceFrost**
 Filters mind in a ring at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1461,8 +1299,6 @@ Filters mind in a ring at short (10 ft targeting individual.
 
 **DissolvCurse**
 Filters soul in a ring at medium (50 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -1479,8 +1315,6 @@ Filters soul in a ring at medium (50 ft targeting object.
 
 **LoudBond**
 Opposes soul in a ring at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -1497,8 +1331,6 @@ Opposes soul in a ring at medium (50 ft targeting surface.
 
 **GuardRoot**
 Detects mind in a ring at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1515,8 +1347,6 @@ Detects mind in a ring at long (200 ft targeting surface.
 
 **WeavHand**
 Releases mind in a beam at short (10 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -1533,8 +1363,6 @@ Releases mind in a beam at short (10 ft targeting individual.
 
 **SolidStorm**
 Filters soul in a cylinder at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -1551,8 +1379,6 @@ Filters soul in a cylinder at long (200 ft targeting object.
 
 **ShallowHalo**
 Displaces soul in a sphere at long (200 ft targeting individual.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -1569,8 +1395,6 @@ Displaces soul in a sphere at long (200 ft targeting individual.
 
 **TwinFrost**
 Constrains soul in a cone at long (200 ft targeting filter.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -1587,8 +1411,6 @@ Constrains soul in a cone at long (200 ft targeting filter.
 
 **ClearCurse**
 Filters mind in a cone at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1605,8 +1427,6 @@ Filters mind in a cone at long (200 ft targeting object.
 
 **BindFlame**
 Opposes mind in a beam at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -1623,8 +1443,6 @@ Opposes mind in a beam at medium (50 ft targeting group.
 
 **AnchoredGate**
 Detects soul in a sphere at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -1641,8 +1459,6 @@ Detects soul in a sphere at long (200 ft targeting surface.
 
 **TwistNet**
 Shields against soul in a cylinder at long (200 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -1659,8 +1475,6 @@ Shields against soul in a cylinder at long (200 ft targeting surface.
 
 **AnchorCalm**
 Manipulates mind in a beam at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -1677,8 +1491,6 @@ Manipulates mind in a beam at short (10 ft targeting surface.
 
 **SweepPulse**
 Constrains soul across surfaces at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -1695,8 +1507,6 @@ Constrains soul across surfaces at medium (50 ft targeting group.
 
 **CaptureCurse**
 Filters soul across surfaces at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1713,8 +1523,6 @@ Filters soul across surfaces at long (200 ft targeting object.
 
 **AnchorSeal**
 Detects soul in a cone at medium (50 ft targeting group.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -1731,8 +1539,6 @@ Detects soul in a cone at medium (50 ft targeting group.
 
 **FreezChain**
 Opposes soul in a cylinder at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -1749,8 +1555,6 @@ Opposes soul in a cylinder at medium (50 ft targeting surface.
 
 **FallCurse**
 Displaces mind in a cone at long (200 ft targeting object.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -1767,8 +1571,6 @@ Displaces mind in a cone at long (200 ft targeting object.
 
 **GentleKnot**
 Manipulates soul in a sphere at medium (50 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -1785,8 +1587,6 @@ Manipulates soul in a sphere at medium (50 ft targeting surface.
 
 **SweepPath**
 Shields against soul in a cone at short (10 ft targeting surface.
-| Variable | Value |
-|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -1800,4 +1600,5 @@ Shields against soul in a cone at short (10 ft targeting surface.
 | Wattage | 4170 W |
 
 ---
+
 
