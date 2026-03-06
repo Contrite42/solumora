@@ -91,6 +91,12 @@
   cursor: pointer;
   text-decoration: none;
 
+  line {
+    stroke: color-mix(in srgb, var(--light) 35%, var(--darkgray) 65%);
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+
   circle {
     fill: #cb5e26;
     stroke: var(--light);

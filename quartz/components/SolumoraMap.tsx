@@ -14,6 +14,8 @@ interface MapMarker {
   keys: string[]
   titles: string[]
   align?: MarkerAlignment
+  labelDx?: number
+  labelDy?: number
 }
 
 const MAP_MARKERS: MapMarker[] = [
@@ -65,11 +67,12 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "equatorial-desert",
     label: "Desert Zakros",
-    x: 500,
-    y: 770,
+    x: 620,
+    y: 786,
     keys: ["Equatorial-Desert"],
     titles: ["Equatorial Desert", "Desert Zakros"],
-    align: "right",
+    align: "left",
+    labelDy: -6,
   },
   {
     id: "southern-approaches",
@@ -178,7 +181,10 @@ export default (() => {
           {MAP_MARKERS.map((marker) => {
             const alignment = marker.align ?? "right"
             const textAnchor = alignment === "left" ? "end" : "start"
-            const textX = alignment === "left" ? -14 : 14
+            const textX = marker.labelDx ?? (alignment === "left" ? -14 : 14)
+            const textY = marker.labelDy ?? 4
+            const lineX1 = alignment === "left" ? -5 : 5
+            const lineX2 = alignment === "left" ? -11 : 11
             return (
               <g transform={`translate(${marker.x} ${marker.y})`}>
                 <a
@@ -189,8 +195,9 @@ export default (() => {
                   data-map-label={marker.label}
                   href="#"
                 >
+                  <line x1={lineX1} y1="0" x2={lineX2} y2="0" />
                   <circle r="8" />
-                  <text x={textX} y="4" text-anchor={textAnchor}>
+                  <text x={textX} y={textY} text-anchor={textAnchor}>
                     {marker.label}
                   </text>
                 </a>
