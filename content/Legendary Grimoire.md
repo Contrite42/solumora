@@ -1,302 +1,902 @@
 Legendary spells require [[Control Tier]] T7–T8 and exist at a tier of power where even possession becomes a political statement. These spells are theoretically documented, carefully locked away, and subject to formal scrutiny. Most major institutions hold only a handful of examples. The knowledge to create a Legendary-tier spell is itself considered classified in [[Terravelle]].
 
 _Return to [[All Grimoire]]_
-**BluntBox**
-Common utility spell designed to filters constraining force reliably.
+**ChainScreenHalo**
+Filters out binding in a field pattern at long (200 ft), targeting individual, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Field |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**FreshPlate**
-Everyday spell that alters light for practical purposes.
+**RadianceShiftRing**
+Alters light in a ring pattern at line-of-sight, targeting marked, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Ring |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**DeepSenseWeave**
-A practical spell that releases thermal energy across the inscribed surface.
+**FlameWaveColumn**
+Releases heat in a cylinder pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**WetLink**
-Everyday spell that alters energy for practical purposes.
+**SpiritShiftSpread**
+Alters soul in a cone pattern at long (200 ft), targeting group, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | Long (200 ft) |
+| Persistence | Permanent |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**LongPlate**
-Common utility spell designed to affects energy reliably.
+**ThoughtWeaveOrb**
+Manipulates mind in a sphere pattern at long (200 ft), targeting individual, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Sphere |
+| Reach | Long (200 ft) |
+| Persistence | Sustained |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**SoftTrace**
-Straightforward spell that alters kinetic force with precision.
+**ThrustShiftColumn**
+Alters force in a cylinder pattern at long (200 ft), targeting individual, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Cylinder |
+| Reach | Long (200 ft) |
+| Persistence | Permanent |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**FairSeal**
-A practical spell that affects light across the inscribed surface.
+**RadianceWeaveRing**
+Manipulates light in a ring pattern at line-of-sight, targeting individual, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Ring |
+| Reach | Line-of-Sight |
+| Persistence | Sustained |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**BasePlate**
-Everyday spell that alters kinetic force for practical purposes.
+**ThrustShiftHalo**
+Alters force in a field pattern at medium (50 ft), targeting individual, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Field |
+| Reach | Medium (50 ft) |
+| Persistence | Sustained |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**DryPlane**
-Inscribed sigil that protects against reactive compounds in a controlled manner.
+**FluxGuardRing**
+Shields against chemical in a ring pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Ring |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**ColdSpark**
-Common utility spell designed to constrains kinetic force reliably.
+**ThrustLockRing**
+Constrains force in a ring pattern at medium (50 ft), targeting individual, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Ring |
+| Reach | Medium (50 ft) |
+| Persistence | Sustained |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**NeatCage**
-Straightforward spell that detects thermal energy with precision.
+**FlameReadColumn**
+Detects heat in a cylinder pattern at line-of-sight, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**NeatFrame**
-Straightforward spell that alters thermal energy with precision.
+**FlameShiftSpread**
+Alters heat in a cone pattern at line-of-sight, targeting marked, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**MixedFlame**
-Everyday spell that detects reactive compounds for practical purposes.
+**FluxReadHalo**
+Detects chemical in a field pattern at long (200 ft), targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Field |
+| Reach | Long (200 ft) |
+| Persistence | Latched |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**LongBeam**
-A practical spell that detects energy across the inscribed surface.
+**ThoughtReadRing**
+Detects mind in a ring pattern at medium (50 ft), targeting marked, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Ring |
+| Reach | Medium (50 ft) |
+| Persistence | Permanent |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**DarkSpiral**
-Inscribed sigil that constrains constraining force in a controlled manner.
+**ChainLockSpread**
+Constrains binding in a cone pattern at long (200 ft), targeting filter, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cone |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**TightBond**
-A practical spell that affects constraining force across the inscribed surface.
+**ChainWeaveColumn**
+Manipulates binding in a cylinder pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**LowGuardDraw**
-A practical spell that constrains electrical charge across the inscribed surface.
+**BoltLockSpread**
+Constrains electric in a cone pattern at line-of-sight, targeting marked, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Sustained |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**SoiledReadCage**
-Common utility spell designed to alters kinetic force reliably.
+**ThrustShiftSpread**
+Alters force in a cone pattern at line-of-sight, targeting group, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Sustained |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**LightTake**
-A practical spell that affects electrical charge across the inscribed surface.
+**BoltBreakOrb**
+Opposes electric in a sphere pattern at long (200 ft), targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Sphere |
+| Reach | Long (200 ft) |
+| Persistence | Latched |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**TightWrite**
-Common utility spell designed to protects against light reliably.
+**RadianceGuardSpread**
+Shields against light in a cone pattern at long (200 ft), targeting filter, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Cone |
+| Reach | Long (200 ft) |
+| Persistence | Sustained |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**TrueHold**
-Common utility spell designed to affects reactive compounds reliably.
+**FluxBreakColumn**
+Opposes chemical in a cylinder pattern at line-of-sight, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**ShortFilter**
-Everyday spell that affects constraining force for practical purposes.
+**ChainWeaveSpread**
+Manipulates binding in a cone pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**DeepBond**
-Straightforward spell that alters constraining force with precision.
+**ChainShiftColumn**
+Alters binding in a cylinder pattern at line-of-sight, targeting group, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**MessyBind**
-Straightforward spell that releases kinetic force with precision.
+**ThrustWaveColumn**
+Releases force in a cylinder pattern at medium (50 ft), targeting individual, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Cylinder |
+| Reach | Medium (50 ft) |
+| Persistence | Permanent |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**StrongChainLight**
-Straightforward spell that displaces reactive compounds with precision.
+**FluxPushOrb**
+Displaces chemical in a sphere pattern at medium (50 ft), targeting marked.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Sphere |
+| Reach | Medium (50 ft) |
+| Persistence | Conditional |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**SoiledThread**
-Everyday spell that affects kinetic force for practical purposes.
+**ThrustWeaveHalo**
+Manipulates force in a field pattern at long (200 ft), targeting marked, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Field |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**HighStoneBox**
-Everyday spell that affects reactive compounds for practical purposes.
+**FluxWeaveSpread**
+Manipulates chemical in a cone pattern at line-of-sight, targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**FoulWebPoint**
-Common utility spell designed to affects thermal energy reliably.
+**FlameWeaveSpread**
+Manipulates heat in a cone pattern at long (200 ft), targeting individual, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Cone |
+| Reach | Long (200 ft) |
+| Persistence | Sustained |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**BluntSend**
-Everyday spell that constrains constraining force for practical purposes.
+**ChainLockOrb**
+Constrains binding in a sphere pattern at long (200 ft), targeting filter, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Sphere |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**WideMesh**
-Common utility spell designed to filters thermal energy reliably.
+**FlameScreenColumn**
+Filters out heat in a cylinder pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**WideColumnBind**
-Straightforward spell that affects constraining force with precision.
+**ChainBreakColumn**
+Opposes binding in a cylinder pattern at line-of-sight, targeting filter, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**FairLink**
-Common utility spell designed to alters energy reliably.
+**ThoughtShiftSpread**
+Alters mind in a cone pattern at long (200 ft), targeting group, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Cone |
+| Reach | Long (200 ft) |
+| Persistence | Sustained |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**StillChime**
-Common utility spell designed to affects electrical charge reliably.
+**BoltWeaveOrb**
+Manipulates electric in a sphere pattern at line-of-sight, targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**MixedAnchor**
-Everyday spell that filters kinetic force for practical purposes.
+**ThrustScreenSpread**
+Filters out force in a cone pattern at line-of-sight, targeting marked, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Cone |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**NobleTake**
-Straightforward spell that affects reactive compounds with precision.
+**FluxBreakHalo**
+Opposes chemical in a field pattern at medium (50 ft), targeting marked, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Field |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**ThickPull**
-Everyday spell that displaces reactive compounds for practical purposes.
+**FluxPushColumn**
+Displaces chemical in a cylinder pattern at medium (50 ft), targeting individual, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Cylinder |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**MixedChimeRing**
-Inscribed sigil that alters energy in a controlled manner.
+**SpiritShiftColumn**
+Alters soul in a cylinder pattern at line-of-sight, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**FoulFilter**
-Common utility spell designed to affects energy reliably.
+**ThoughtBreakOrb**
+Opposes mind in a sphere pattern at line-of-sight, targeting marked, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**FairPullMesh**
-Common utility spell designed to filters electrical charge reliably.
+**BoltScreenOrb**
+Filters out electric in a sphere pattern at medium (50 ft), targeting marked.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Sphere |
+| Reach | Medium (50 ft) |
+| Persistence | Conditional |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**ShallowPull**
-Inscribed sigil that displaces light in a controlled manner.
+**RadiancePushHalo**
+Displaces light in a field pattern at line-of-sight, targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**StillLine**
-Common utility spell designed to protects against thermal energy reliably.
+**FlameGuardOrb**
+Shields against heat in a sphere pattern at medium (50 ft), targeting group, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Sphere |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**SwiftSongKeep**
-Straightforward spell that affects reactive compounds with precision.
+**FluxBreakRing**
+Opposes chemical in a ring pattern at long (200 ft), targeting filter, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Ring |
+| Reach | Long (200 ft) |
+| Persistence | Sustained |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**CleanCube**
-Everyday spell that displaces thermal energy for practical purposes.
+**FlamePushHalo**
+Displaces heat in a field pattern at line-of-sight, targeting individual, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**LowLine**
-A practical spell that affects electrical charge across the inscribed surface.
+**BoltWeaveHalo**
+Manipulates electric in a field pattern at long (200 ft), targeting group, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Field |
+| Reach | Long (200 ft) |
+| Persistence | Sustained |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**LightGate**
-A practical spell that affects kinetic force across the inscribed surface.
+**ThrustWeaveRing**
+Manipulates force in a ring pattern at long (200 ft), targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Ring |
+| Reach | Long (200 ft) |
+| Persistence | Conditional |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**FairWeb**
-Everyday spell that protects against energy for practical purposes.
+**ThoughtGuardOrb**
+Shields against mind in a sphere pattern at line-of-sight, targeting filter, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Sustained |
+| Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**OuterGateTouch**
-Straightforward spell that affects light with precision.
+**RadianceWeaveHalo**
+Manipulates light in a field pattern at medium (50 ft), targeting group, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Field |
+| Reach | Medium (50 ft) |
+| Persistence | Permanent |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**DarkMarkMark**
-Straightforward spell that releases thermal energy with precision.
+**FlameWaveOrb**
+Releases heat in a sphere pattern at long (200 ft), targeting group, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T7 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Sphere |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
+| Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**DullEcho**
-A practical spell that constrains kinetic force across the inscribed surface.
+**ThrustLockHalo**
+Constrains force in a field pattern at line-of-sight, targeting marked.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Affect |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**SmoothKnotRing**
-Inscribed sigil that displaces kinetic force in a controlled manner.
+**ThrustPushColumn**
+Displaces force in a cylinder pattern at line-of-sight, targeting individual, persisting timed (long).
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T7 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Cylinder |
+| Reach | Line-of-Sight |
+| Persistence | Timed (Long) |
+| Target | Individual |
 | Wattage | 13001 W |
 
 ---

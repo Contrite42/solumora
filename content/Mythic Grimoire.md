@@ -1,152 +1,452 @@
 Mythic spells require [[Control Tier]] T9 and represent the upper bound of [[Flux]] theory. These spells demand everything a Conduit has to offer. Most exist only in fragments, theoretical notes, or as dangerous prototypes. The line between "studied Mythic spell" and "uncontrolled Flux disaster" is often a matter of luck, preparation, and nerve.
 
 _Return to [[All Grimoire]]_
-**ThickThread**
-A practical spell that releases energy across the inscribed surface.
+**SpiritWaveOrb**
+Releases soul in a sphere pattern at line-of-sight, targeting group, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Permanent |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**WetWindGate**
-Everyday spell that displaces energy for practical purposes.
+**ThoughtPushHalo**
+Displaces mind in a field pattern at linked, targeting group, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Permanent |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**InnerColumnChain**
-Straightforward spell that affects energy with precision.
+**SpiritBreakOrb**
+Opposes soul in a sphere pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**RoughSong**
-Straightforward spell that affects energy with precision.
+**SpiritWeaveHalo**
+Manipulates soul in a field pattern at line-of-sight, targeting group, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Sustained |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**MixedBlockPoint**
-Everyday spell that affects energy for practical purposes.
+**ThoughtBreakOrb**
+Opposes mind in a sphere pattern at line-of-sight, targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Filter |
 | Wattage | 130001 W |
 
 ---
 
-**KeenRing**
-Everyday spell that alters energy for practical purposes.
+**ThoughtShiftOrb**
+Alters mind in a sphere pattern at linked, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Sphere |
+| Reach | Linked |
+| Persistence | Conditional |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**ThickColumn**
-A practical spell that alters energy across the inscribed surface.
+**ThoughtShiftHalo**
+Alters mind in a field pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**QuickPlane**
-Common utility spell designed to protects against energy reliably.
+**SpiritGuardOrb**
+Shields against soul in a sphere pattern at linked, targeting individual, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Linked |
+| Persistence | Sustained |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**NeatBreakVoice**
-Straightforward spell that protects against energy with precision.
+**SpiritGuardOrb**
+Shields against soul in a sphere pattern at line-of-sight, targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Filter |
 | Wattage | 130001 W |
 
 ---
 
-**QuietSphereSend**
-A practical spell that releases energy across the inscribed surface.
+**SpiritWaveOrb**
+Releases soul in a sphere pattern at linked, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Linked |
+| Persistence | Latched |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**LowSong**
-Straightforward spell that constrains energy with precision.
+**SpiritLockOrb**
+Constrains soul in a sphere pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**BrightSeal**
-Common utility spell designed to releases energy reliably.
+**SpiritWaveHalo**
+Releases soul in a field pattern at linked, targeting group, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Sustained |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**StaleTake**
-A practical spell that alters energy across the inscribed surface.
+**SpiritShiftOrb**
+Alters soul in a sphere pattern at line-of-sight, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**LightFilter**
-Common utility spell designed to detects energy reliably.
+**SpiritReadHalo**
+Detects soul in a field pattern at linked, targeting filter, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Sustained |
+| Target | Filter |
 | Wattage | 130001 W |
 
 ---
 
-**InnerBox**
-A practical spell that constrains energy across the inscribed surface.
+**ThoughtLockHalo**
+Constrains mind in a field pattern at linked, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Conditional |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**SmoothPlateKnot**
-Everyday spell that alters energy for practical purposes.
+**ThoughtShiftHalo**
+Alters mind in a field pattern at linked, targeting filter.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Conditional |
+| Target | Filter |
 | Wattage | 130001 W |
 
 ---
 
-**WarmTone**
-A practical spell that filters energy across the inscribed surface.
+**ThoughtScreenOrb**
+Filters out mind in a sphere pattern at linked, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Sphere |
+| Reach | Linked |
+| Persistence | Conditional |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**FreshWave**
-Everyday spell that releases energy for practical purposes.
+**SpiritWaveOrb**
+Releases soul in a sphere pattern at line-of-sight, targeting individual.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**SparseColumn**
-A practical spell that releases energy across the inscribed surface.
+**SpiritWaveHalo**
+Releases soul in a field pattern at linked, targeting filter, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Sustained |
+| Target | Filter |
 | Wattage | 130001 W |
 
 ---
 
-**KeenHum**
-Straightforward spell that releases energy with precision.
+**ThoughtWaveOrb**
+Releases mind in a sphere pattern at line-of-sight, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**UnsureDisk**
-A practical spell that affects energy across the inscribed surface.
+**SpiritBreakHalo**
+Opposes soul in a field pattern at linked, targeting group, creating a permanent effect.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Permanent |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**FairBond**
-Straightforward spell that filters energy with precision.
+**SpiritScreenHalo**
+Filters out soul in a field pattern at line-of-sight, targeting individual, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Line-of-Sight |
+| Persistence | Sustained |
+| Target | Individual |
 | Wattage | 130001 W |
 
 ---
 
-**SwiftLoopPoint**
-Straightforward spell that protects against energy with precision.
+**ThoughtGuardHalo**
+Shields against mind in a field pattern at linked, targeting group, requiring sustained concentration.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Mind |
+| Output | Mind |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Sustained |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**BrightWard**
-Straightforward spell that displaces energy with precision.
+**SpiritPushHalo**
+Displaces soul in a field pattern at linked, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Move |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Linked |
+| Persistence | Latched |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
 
-**DenseBreak**
-Common utility spell designed to affects energy reliably.
+**SpiritWeaveOrb**
+Manipulates soul in a sphere pattern at line-of-sight, targeting group.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Control |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Conditional |
+| Target | Group |
 | Wattage | 130001 W |
 
 ---
