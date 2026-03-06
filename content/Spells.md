@@ -19,13 +19,3 @@ _See also: [[Sigils]], [[Flux]], [[Flux Users]], [[Spell Variables]], [[All Grim
 
 ## Sigil Maker Generated Spells
 
-- [[Spells/Raw Lantern Mark|Raw Lantern Mark]] - 3 W - T0 (Common)
-- [[Spells/Force Lantern Mark|Force Lantern Mark]] - 7 W - T0 (Common)
-- [[Spells/Heat Lantern Mark|Heat Lantern Mark]] - 7 W - T0 (Common)
-- [[Spells/Binding Amplify Beam|Binding Amplify Beam]] - 77 W - T2 (Common)
-- [[Spells/Binding Amplify Cone|Binding Amplify Cone]] - 88 W - T2 (Common)
-- [[Spells/Binding Amplify Cylinder|Binding Amplify Cylinder]] - 110 W - T2 (Common)
-- [[Spells/Constraint Flux Augment|Constraint Flux Augment]] - 77 W - T2 (Common)
-- [[Spells/Binding Amplify Cone 3|Binding Amplify Cone 3]] - 88 W - T2 (Common)
-- [[Spells/Binding Amplify Beam 2|Binding Amplify Beam 2]] - 77 W - T2 (Common)
-- [[Spells/Heat Ring of Triangle|Heat Ring of Triangle]] - 55 W - T2 (Common)

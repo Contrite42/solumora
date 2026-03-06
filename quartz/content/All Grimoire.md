@@ -42,3 +42,4 @@
 - [[Spells/Sonic Beam Manipulation|Sonic Beam Manipulation]] - 80 W - T2 - [[Common Grimoire|Common]]
 - [[Spells/Sonic Ring of Sound|Sonic Ring of Sound]] - 180 W - T3 - [[Uncommon Grimoire|Uncommon]]
 - [[Spells/Raw Bind Ring|Raw Bind Ring]] - 39 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Soul Shape Cylinder|Soul Shape Cylinder]] - 1029 W - T4 - [[Uncommon Grimoire|Uncommon]]

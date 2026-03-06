@@ -154,3 +154,21 @@ The spell creates a sustained sonic ring of sound that affects the marked area o
 | Persistence | _(default - Immediate)_ |
 | Target | Marked |
 
+
+---
+
+**Soul Shape Cylinder**
+Refines soul flux as a column volume at self reach, targeting a marked signature with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Shape |
+| Mode | Control |
+| Control Tier | T4 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
