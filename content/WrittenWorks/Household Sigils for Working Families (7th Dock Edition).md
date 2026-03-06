@@ -17,7 +17,7 @@ If your copy has missing strokes or blurred corners, return it. Bad copying cost
 
 ---
 
-## Plate 1: [[Warmstone]]
+## Plate 1: [[Common Grimoire#Warmstone|Warmstone]]
 
 Purpose: Holds steady warmth in cookware, bedbricks, and night-room basins.
 
@@ -29,7 +29,7 @@ House Rule:
 Margin note (previous owner):
 "Night use only in our house. Day use wasted fuel and Watts."
 
-## Plate 2: [[Breathclean]]
+## Plate 2: [[Common Grimoire#Breathclean|Breathclean]]
 
 Purpose: Filters smoke and fine dust for enclosed rooms.
 
@@ -42,7 +42,7 @@ Use sequence:
 Margin note:
 "Works well with fish-smoke days near docks. Not enough for chemical spill nights."
 
-## Plate 3: [[Mending Seal]]
+## Plate 3: [[Common Grimoire#Mending Seal|Mending Seal]]
 
 Purpose: Temporary repair for cracked pottery, split handles, and light vessel seams.
 
@@ -54,7 +54,7 @@ Restriction:
 Margin note:
 "Held our basin three weeks. We got lucky."
 
-## Plate 4: [[Glowmark]]
+## Plate 4: [[Common Grimoire#Glowmark|Glowmark]]
 
 Purpose: Low-cost light marking for stairs, doorframes, and ledger shelves.
 
@@ -66,7 +66,7 @@ Pattern recommendation:
 Margin note:
 "Blue mark for back stairs, amber for roof stairs."
 
-## Plate 5: [[Lockward]]
+## Plate 5: [[Common Grimoire#Lockward|Lockward]]
 
 Purpose: Basic anti-tamper ward for trunks and cabinet doors.
 

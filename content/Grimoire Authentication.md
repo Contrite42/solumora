@@ -4,7 +4,7 @@ Grimoire Authentication is the process of verifying that a [[Grimoires|grimoire]
 
 The [[Guild Scrivener Network]] maintains authenticated source libraries — grimoires known to contain correct sigils, verified through repeated successful casting and institutional lineage. When a scrivener produces a copy, the guild inspects the work by comparing it to the source text. Copies that pass inspection receive a guild mark — typically an embossed seal or ink stamp indicating the date, location, and inspecting authority.
 
-Independent authentication is harder. A buyer commissioning a grimoire from an [[Independent Scrivener]] must either test the spells themselves or hire a third party to verify sigil accuracy. Some buyers use [[Copymark]] or [[Fluxread]] to detect obvious errors, but those spells only catch gross mistakes, not subtle geometry flaws that degrade performance over time.
+Independent authentication is harder. A buyer commissioning a grimoire from an [[Independent Scrivener]] must either test the spells themselves or hire a third party to verify sigil accuracy. Some buyers use [[Common Grimoire#Copymark|Copymark]] or [[Common Grimoire#Fluxread|Fluxread]] to detect obvious errors, but those spells only catch gross mistakes, not subtle geometry flaws that degrade performance over time.
 
 ## Fraud Patterns
 
@@ -26,4 +26,4 @@ In practice, authentication relies heavily on reputation. A scrivener with decad
 
 Reputation also protects against fraud claims. A scrivener with a strong track record can weather an accusation more easily than someone with thin documentation or recent disputes. This creates pressure to work conservatively — copying only well-known spells from well-documented sources — which slows the spread of new or experimental sigil designs.
 
-_See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Sigils]], [[Copymark]], [[Fluxread]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Terravelle]], [[Auralis]]_
+_See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Sigils]], [[Common Grimoire#Copymark|Copymark]], [[Common Grimoire#Fluxread|Fluxread]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Terravelle]], [[Auralis]]_

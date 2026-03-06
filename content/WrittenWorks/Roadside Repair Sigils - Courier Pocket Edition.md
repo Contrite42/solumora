@@ -17,7 +17,7 @@ Keep wrapped. Dust eats corners first.
 
 ---
 
-## Plate 1: [[Pressureseal]]
+## Plate 1: [[Uncommon Grimoire#Pressureseal|Pressureseal]]
 
 Use: Stop container leaks long enough to finish route segment.
 
@@ -29,7 +29,7 @@ Field rule:
 Margin note:
 "Saved dye barrels twice. Failed once in sandstorm."
 
-## Plate 2: [[Tripwire]]
+## Plate 2: [[Common Grimoire#Tripwire|Tripwire]]
 
 Use: Camp perimeter warning during short rest halts.
 
@@ -41,7 +41,7 @@ Field rule:
 Margin note:
 "Good for sleepy crews. Better with a dog."
 
-## Plate 3: [[Knocksense]]
+## Plate 3: [[Common Grimoire#Knocksense|Knocksense]]
 
 Use: Detect movement or impact on locked cargo compartments.
 
@@ -53,7 +53,7 @@ Field rule:
 Margin note:
 "Storm nights produce false taps. Adjust threshold."
 
-## Plate 4: [[Shove]]
+## Plate 4: [[Common Grimoire#Shove|Shove]]
 
 Use: Controlled push to reset stuck wheel hubs and jammed gate bars.
 
@@ -65,7 +65,7 @@ Field rule:
 Margin note:
 "Broke my wrist first month I owned this. Respect recoil."
 
-## Plate 5: [[Shieldwall]]
+## Plate 5: [[Uncommon Grimoire#Shieldwall|Shieldwall]]
 
 Use: Brief barrier against thrown debris during route emergencies.
 

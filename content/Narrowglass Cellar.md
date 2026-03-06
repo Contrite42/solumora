@@ -19,7 +19,7 @@ Recovered items were practical and mostly non-symbolic:
 
 - Fragmented water-storage ceramic with repeated ownership marks
 - Worn transit cloth strips used for binding and load distribution
-- Two damaged grimoire folios in low-tier utility range ([[Dimmer]], [[Breathclean]])
+- Two damaged grimoire folios in low-tier utility range ([[Common Grimoire#Dimmer|Dimmer]], [[Common Grimoire#Breathclean|Breathclean]])
 - A list of first names and route abbreviations scratched into interior stone
 
 The name list is the strongest evidence for persecution-era use. The sequence includes annotations interpreted as movement timing and caution states ("wait," "north clear," "no fire"). No surname clusters suggest this was multi-family shelter, not single-lineage holdout.
@@ -50,4 +50,4 @@ Narrowglass cannot tell the full story of the era. It preserves no explicit narr
 
 For historians, that is enough to challenge sanitized accounts that describe the period as mostly rhetorical suspicion. Someone built this. Someone used it. Someone expected not to be safe above ground.
 
-_See also: [[The Persecution Era]], [[Halveth]], [[Dren Outpost]], [[Desert Watch]], [[Cross-Border Guide Network]], [[History of Solumora]], [[Dimmer]], [[Breathclean]], [[Auralis]], [[Terravelle]]_
+_See also: [[The Persecution Era]], [[Halveth]], [[Dren Outpost]], [[Desert Watch]], [[Cross-Border Guide Network]], [[History of Solumora]], [[Common Grimoire#Dimmer|Dimmer]], [[Common Grimoire#Breathclean|Breathclean]], [[Auralis]], [[Terravelle]]_

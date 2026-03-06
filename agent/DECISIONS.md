@@ -109,7 +109,7 @@ Creator Action:
 
 ## DECISION E - High Demon Layer Expansion Scope
 
-Status: PENDING (CREATOR)
+Status: APPROVED (C)
 Prepared by: Copilot Auto
 Reason: High Demons are sensitive canon (tier-9 scale threats, operating undetected for centuries). Operational detail expansion requires creator approval to preserve "nobody knows they exist" constraint while adding daily tradecraft/near-miss material.
 
@@ -133,7 +133,8 @@ Options:
 - C: **Hybrid: Routines + Select Incidents** — Create 1 operational note per demon (5 total) covering territory/routine/tradecraft in compact format, plus 2-3 compelling near-miss incidents. Update demon pages with brief operational subsections. Balanced approach between depth and canon safety.
   Tradeoff: Good worldbuilding/canon balance; moderate page count (7-8 notes); preserves mystery while grounding demon presence; agent can execute with clear boundaries.
 
-Creator Action:
+Decision:
 
--  `APPROVED (C)`.
-- If rejected, set `Status: REJECTED` and provide alternative direction or task skip instruction.
+- Chosen: C
+- Date: 2026-03-06
+- Rationale: Balanced scope delivered operational patterns plus near-miss incidents while preserving the non-disclosure canon constraint.

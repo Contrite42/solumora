@@ -38,7 +38,7 @@ Content creation (new demon pages, behavioral detail, near-miss incidents) requi
 
 ## Status
 
-BLOCKED - Awaiting creator escalation decision. Research phase permitted.
+COMPLETE - Decision E approved (`APPROVED (C)`), scoped operational notes and near-miss integrations are present in content.
 
 ---
 

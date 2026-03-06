@@ -22,7 +22,7 @@ _Price note: The Path-Certified edition carries a modest premium over uncertifie
 
 ---
 
-## Plate 1: [[Warmstone]]
+## Plate 1: [[Common Grimoire#Warmstone|Warmstone]]
 
 **Discipline: Heat. Tier: T1.**
 
@@ -37,7 +37,7 @@ Margin note (previous owner, handwritten): "Daughter learned this first. Used it
 
 ---
 
-## Plate 2: [[Breathclean]]
+## Plate 2: [[Common Grimoire#Breathclean|Breathclean]]
 
 **Discipline: Chemical. Tier: T1.**
 
@@ -52,7 +52,7 @@ Margin note: "Dock smell. You need this if you live anywhere near the harbor."
 
 ---
 
-## Plate 3: [[Dryseal]]
+## Plate 3: [[Common Grimoire#Dryseal|Dryseal]]
 
 **Discipline: Chemical. Tier: T1.**
 
@@ -67,7 +67,7 @@ Margin note: "Applied to grimoire covers every season. This book is still in goo
 
 ---
 
-## Plate 4: [[Glowmark]]
+## Plate 4: [[Common Grimoire#Glowmark|Glowmark]]
 
 **Discipline: Light. Tier: T1.**
 
@@ -82,7 +82,7 @@ Margin note (different hand, possibly a child's writing): "Blue ones are stairs.
 
 ---
 
-## Plate 5: [[Inkmark]]
+## Plate 5: [[Common Grimoire#Inkmark|Inkmark]]
 
 **Discipline: Binding. Tier: T1.**
 

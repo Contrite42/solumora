@@ -165,10 +165,11 @@ These tasks expand the world's texture without adding new structural elements. T
       **Owner:** `Copilot Auto`
       **Status:** COMPLETE — 5 institutions (Wolfpoint Cold-Forge Works, Mountain Game Collective, Upland Herding Network, Ashford Supply Contract, Wolfpoint Trade Registry) + 6 economic coordinators (Trel Vann, Dren Vass, Morra Keld, Lenna Tors, Kess Rolv, Renn Taska) + "Economic Foundation" section integrated into Wolfpoint hub.
 
-- [ ] **Goal:** Expand the **High Demon Layer** with operational detail.
+- [x] **Goal:** Expand the **High Demon Layer** with operational detail.
       **Constraints:** Five High Demons exist (Sorath, Selvane, Fennick, Mave, Wren) but their day-to-day activities, territorial boundaries, how they avoid detection by each other and by humans, and their conflicts/alliances need detail. Must preserve the "nobody knows they exist" constraint while showing what they actually do. This is sensitive canon — escalate any structural additions to [[DECISIONS.md]].
       **Output:** 5-8 notes (demon territories/routines + detection-avoidance methods + 2-3 near-miss incidents where demons almost revealed themselves) + update [[High Demons]] with behavioral patterns section.
       **Owner:** `Copilot Auto` (research/planning only — actual demon expansion requires creator approval in DECISIONS.md)
+      **Status:** COMPLETE — Decision E approved as `C`; delivered 5 operational pattern notes, 3 near-miss incident notes, and integrated behavioral patterns section in [[High Demons]].
 
 - [ ] **Goal:** Build **Inter-Kingdom Communication Systems** beyond official channels.
       **Constraints:** Diplomatic channels exist but we don't have: unofficial messenger networks, how information smuggled across the desert moves, communication lag times, or how mis-information spreads. Need 3-4 communication institutions/methods with realistic speed/reliability trade-offs.
@@ -307,6 +308,80 @@ These tasks expand the world's texture without adding new structural elements. T
       A T7 practitioner living rurally and declining Path service pressure is one of the world's most interesting tensions. His page likely needs significant expansion.
 
 ---
+
+## NEW BACKLOG - WORLD ROUNDING (2026-03-06)
+
+Additive backlog generated from a full-world thin-page and systems audit. These are scoped to deepen operational realism and close current coverage gaps.
+
+- [ ] **Goal:** Enforce post-cleanup spell canon policy across the vault.
+      **Constraints:** Tiered grimoires are canonical spell references. Remove or archive any remaining `content/Spells/*.md` pages and zero-byte leftovers that conflict with this policy. Do not delete `content/Spells.md` hub unless replaced with equivalent navigation.
+      **Output:** Clean `content/Spells/` directory state + policy note appended in `agent/reports/inconsistencies.md` and `agent/reports/links_applied.md`.
+      **Owner:** `Codex`
+
+- [ ] **Goal:** Expand bridge concepts into operational reference notes.
+      **Constraints:** Upgrade thin bridge pages (`Kingdoms`, `Guilds`, `Infrastructure`, `Border Trade`, `Cross-Border Trade`, `Cross-Border Commerce`, `Political Dynamics`, `Political Intelligence`, `Council Dynamics`) from glossary-style stubs to practical system notes. Keep tone matter-of-fact and non-mythic.
+      **Output:** 9 upgraded concept pages with concrete mechanisms, recurring actors, and failure modes; each with 5+ outbound links and cross-links between pages.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Build Terravelle governance mechanics to parity with Auralis council detail.
+      **Constraints:** Auralis has operational governance pages; Terravelle needs matching bureaucratic depth (order routing, enforcement, compliance review, field implementation). No principal-character retcons.
+      **Output:** 5-7 notes (registries, enforcement units, review offices, and 3-4 implementers) + append a Terravelle governance-operations section to `content/Terravelle Administration.md`.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Establish justice and dispute-resolution systems in daily life.
+      **Constraints:** Cover civil disputes, trade arbitration, and low-level criminal process in both kingdoms without introducing modern legal institutions out of tone.
+      **Output:** 6 notes (3 Terravelle, 3 Auralis) + update `content/Ordinary Life.md` and one city life page per kingdom with a "How disputes are resolved" section.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Build education pipelines from childhood to professional tracks.
+      **Constraints:** Must include non-Flux households, T0 outcomes, guild apprenticeships, Path tracks, and specialist routes (guides, scriveners, logistics). Show drop-off points, bottlenecks, and class pressure.
+      **Output:** 7-9 notes (institutions + student pathways + family decision pressure) + update `content/Control Tier.md` and `content/Ordinary Life.md` with education trajectory summaries.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Expand healthcare and public health systems across regions.
+      **Constraints:** Distinguish routine care, trauma care, expedition medicine, and Flux-side effects treatment. Include resource constraints for rural and desert-edge communities.
+      **Output:** 6-8 notes (clinics, medics, supply channels, referral patterns) + updates to `content/Flux Medicine.md`, `content/Life in Halveth.md`, and one urban life page.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Formalize seasonal calendar, climate pressure, and work cycles.
+      **Constraints:** Tie weather and seasonality to agriculture, shipping, crossings, and labor demand; preserve established Zakros and coastal route constraints.
+      **Output:** 5-6 notes (seasonal calendar + regional cycle notes) + append seasonality blocks to `content/Solumora.md`, `content/Equatorial Desert.md`, and `content/Outer Coast Packet Line.md`.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Build food systems from production to urban kitchens.
+      **Constraints:** Existing references are thin (`Food Creation`, rural notes). Show how cities are fed, what fails first under disruption, and how T0-T2 labor carries the system.
+      **Output:** 8 notes (production, storage, transport, market conversion, shortage handling) + update `content/Life in Solhaven.md` and `content/Life in Valdenmoor.md` with food-chain detail.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Expand labor and housing reality in major city districts.
+      **Constraints:** Keep focus on recurring stressors: rent pressure, shift rhythms, credential barriers, and household survival decisions. No sudden industrial-tech jumps.
+      **Output:** 6-8 notes (district-level housing/labor patterns in Solhaven, Valdenmoor, Ashford) + updates to corresponding "Life in" pages.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Deepen religion-in-practice beyond doctrine pages.
+      **Constraints:** Existing religion framework exists; add how rituals actually appear in households, routes, ports, and workplaces. Must include disagreement between official and folk practice.
+      **Output:** 6 notes (ritual contexts + one conflict note per major tradition) + update `content/Religions.md` and `content/Solumora.md` with a "Practice vs Doctrine" section.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Convert thin character stubs into usable cast pages in themed batches.
+      **Constraints:** Prioritize pages currently <=12 lines; each expansion must include job routine, one non-public fact, institutional tie, and practical stakes. No principal-character rewrites.
+      **Output:** 24 upgraded people pages in 4 batches (port workers, border workers, rural workers, institutional staff) + `agent/staging/PENDING_REVIEW.md` summary after each batch.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Build an "information economy" layer for rumors, signals, and narrative control.
+      **Constraints:** Distinct from formal courier systems already documented; focus on informal channels, reliability scoring, intentional misinformation, and broker incentives.
+      **Output:** 5-7 notes (broker roles, rumor paths, verification habits) + update `content/Ashford-Halveth Courier Road.md` and `content/Political Intelligence.md` with practical interplay sections.
+      **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Reconcile and formalize top-level world indexing.
+      **Constraints:** `World Index Draft.md` is currently utility-format and not vault-style. Convert into in-world navigation (or archive as admin artifact) without dead links or markdown-link path syntax.
+      **Output:** Canonical index page update (`content/World Index Draft.md` or promoted replacement) + hub backlinks from `content/index.md`, `content/World Primer.md`, and `content/Solumora.md`.
+      **Owner:** `Codex`
+
+- [ ] **Goal:** Run a dedicated "No Orphans" integrity cycle after backlog batch-1.
+      **Constraints:** Every new note must have 3+ outbound links and 1+ inbound link from a hub/parent page. Contradictions are logged, not silently rewritten.
+      **Output:** Refreshed `agent/reports/inconsistencies.md` and `agent/reports/links_applied.md` plus checklist pass/fail block in `agent/staging/PENDING_REVIEW.md`.
+      **Owner:** `Codex`
 
 ## WORKLOG
 

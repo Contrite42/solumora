@@ -10,7 +10,7 @@ The [[Common Grimoire|Common]]-tier market drives the bulk of copying work. Most
 
 ## Copymark
 
-The spell [[Copymark]] (T2, Chemical/Binding discipline) is the professional Scribe's primary tool — it transfers the exact surface impression of a sigil from one object to another on contact, using the source itself as the template. It does not substitute for skill; the spell is only as accurate as the contact it makes, and inconsistencies in surface, ink quality, or pressure produce inconsistencies in the copy. But it removes the hand-tremor variable and is fast enough to make volume work viable.
+The spell [[Common Grimoire#Copymark|Copymark]] (T2, Chemical/Binding discipline) is the professional Scribe's primary tool — it transfers the exact surface impression of a sigil from one object to another on contact, using the source itself as the template. It does not substitute for skill; the spell is only as accurate as the contact it makes, and inconsistencies in surface, ink quality, or pressure produce inconsistencies in the copy. But it removes the hand-tremor variable and is fast enough to make volume work viable.
 
 Scribes who work without Copymark — using freehand technique only — are rarer and more expensive. Their work is considered more authoritative in [[Auralis]] scholarly circles, where Copymark output is sometimes viewed as second-generation reproduction rather than true copying.
 
@@ -26,4 +26,4 @@ Honest Scribes track their error rates, because a reputation for clean copies is
 
 The industry standard distinction is between a transcription error (geometric inaccuracy in the copy — Scribe fault) and an activation error (caster did not meet tier requirement, insufficient Flux, poor surface conditions — not Scribe fault). Disputes over which category applies are common, particularly for buyers who are near the tier threshold for a given spell.
 
-_See also: [[Grimoires]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Copymark]], [[Trade Guilds]], [[Grimoire Fraud]], [[Grimoire Licensing]], [[Flux Users]]_
+_See also: [[Grimoires]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Common Grimoire#Copymark|Copymark]], [[Trade Guilds]], [[Grimoire Fraud]], [[Grimoire Licensing]], [[Flux Users]]_

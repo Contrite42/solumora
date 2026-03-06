@@ -24,4 +24,4 @@ Any actor profiting from delay tries to jam, spoof, or buy signal priority. Riva
 
 It trades in timing advantage and decision coherence across the southern kingdom.
 
-_See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Emberfall]], [[Whisperlink]], [[Hand Signs]], [[The Council of Auralis]]_
+_See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Emberfall]], [[Uncommon Grimoire#Whisperlink|Whisperlink]], [[Hand Signs]], [[The Council of Auralis]]_

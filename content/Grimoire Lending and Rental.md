@@ -14,7 +14,7 @@ Private rental markets exist in urban centers where demand for short-term grimoi
 
 Renters must provide collateral — either cash deposit (commonly 2-3 times the grimoire's replacement cost) or a verified identity that the shop can use to pursue collection if the grimoire isn't returned. Some rental shops specialize: one might focus on agricultural spells, another on courier and logistics texts, a third on embedded object design grimoires.
 
-Rental shops face persistent risk of non-return. A renter who disappears with a grimoire leaves the shop with a loss unless the collateral covers replacement costs. Some shops use [[Flashmark]] or [[Copymark]] spells on their grimoires to track them if stolen, though this adds operational cost.
+Rental shops face persistent risk of non-return. A renter who disappears with a grimoire leaves the shop with a loss unless the collateral covers replacement costs. Some shops use [[Common Grimoire#Flashmark|Flashmark]] or [[Common Grimoire#Copymark|Copymark]] spells on their grimoires to track them if stolen, though this adds operational cost.
 
 ## Private Lending
 

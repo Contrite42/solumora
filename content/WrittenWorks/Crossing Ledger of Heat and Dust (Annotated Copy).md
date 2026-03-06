@@ -18,7 +18,7 @@ If you bought this, someone told you confidence is enough to cross. Confidence i
 
 ---
 
-## Plate A: [[Heatshield]]
+## Plate A: [[Uncommon Grimoire#Heatshield|Heatshield]]
 
 Purpose: Sustained personal buffering against thermal load.
 
@@ -30,7 +30,7 @@ Operational guidance:
 Margin note:
 "Saved two apprentices. Burned one reserve caster to exhaustion."
 
-## Plate B: [[Dryseal]]
+## Plate B: [[Common Grimoire#Dryseal|Dryseal]]
 
 Purpose: Keep sleeping fabric, page surfaces, and map wraps dry.
 
@@ -42,7 +42,7 @@ Operational guidance:
 Margin note:
 "One of the few pages here that does what it promises every time."
 
-## Plate C: [[Fluxread]]
+## Plate C: [[Common Grimoire#Fluxread|Fluxread]]
 
 Purpose: Detect active signatures near route camps and ruin edges.
 
@@ -54,7 +54,7 @@ Operational guidance:
 Margin note:
 "When it goes noisy, assume the world changed before your map did."
 
-## Plate D: [[Marksense]]
+## Plate D: [[Uncommon Grimoire#Marksense|Marksense]]
 
 Purpose: Track tagged persons and tagged cache points.
 
@@ -66,7 +66,7 @@ Operational guidance:
 Margin note:
 "Lost one team because we trusted yesterday's mark."
 
-## Plate E: [[Soundlisten]]
+## Plate E: [[Uncommon Grimoire#Soundlisten|Soundlisten]]
 
 Purpose: Extend threat detection in low-visibility movement.
 

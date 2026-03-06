@@ -8,7 +8,7 @@ Scribes copy and reproduce existing [[Sigils]] and [[Grimoires]] for mass distri
 
 ## Formulists
 
-Formulist is the general term for anyone actively practicing [[Flux]] use in daily life. Most working casters fall here — the blacksmith with a [[Warmstone]] sigil on his forge, the courier carrying a [[Whisperlink]] token, the soldier with a [[Shove]] sigil on their shield. Being a Formulist implies nothing about power level, only that [[Flux]] use is part of how a person operates in the world.
+Formulist is the general term for anyone actively practicing [[Flux]] use in daily life. Most working casters fall here — the blacksmith with a [[Common Grimoire#Warmstone|Warmstone]] sigil on his forge, the courier carrying a [[Uncommon Grimoire#Whisperlink|Whisperlink]] token, the soldier with a [[Common Grimoire#Shove|Shove]] sigil on their shield. Being a Formulist implies nothing about power level, only that [[Flux]] use is part of how a person operates in the world.
 
 ## Channelers
 

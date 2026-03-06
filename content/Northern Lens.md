@@ -8,11 +8,11 @@ The Northern Lens provides an alternative: local copyists producing functional [
 
 Northern Lens copyists produce unauthorized grimoire copies primarily in [[Control Tier|T0-T2]] range — basic utility spells that constitute most rural practitioner needs. The typical catalog includes:
 
-**Agricultural spells** — [[Chembrand]] for crop marking, [[Chemfield]] for pest deterrent, [[Chargecheck]] for equipment diagnosis, various thermal-management and moisture-control effects that support farming operations.
+**Agricultural spells** — [[Uncommon Grimoire#Chembrand|Chembrand]] for crop marking, [[Rare Grimoire#Chemfield|Chemfield]] for pest deterrent, [[Common Grimoire#Chargecheck|Chargecheck]] for equipment diagnosis, various thermal-management and moisture-control effects that support farming operations.
 
-**Utility spells** — [[Breathsense]], [[Echolocate]], [[Dimmer]], [[Copymark]], [[Flashmark]] — the basic toolkit that practitioners use constantly for daily operations.
+**Utility spells** — [[Common Grimoire#Breathsense|Breathsense]], [[Common Grimoire#Echolocate|Echolocate]], [[Common Grimoire#Dimmer|Dimmer]], [[Common Grimoire#Copymark|Copymark]], [[Common Grimoire#Flashmark|Flashmark]] — the basic toolkit that practitioners use constantly for daily operations.
 
-**Maintenance spells** — [[Binding]], [[Dryseal]], [[Coldbox Seal]], [[Deepread]] — practical effects for equipment maintenance, structure preservation, and resource management.
+**Maintenance spells** — [[Binding]], [[Common Grimoire#Dryseal|Dryseal]], [[Common Grimoire#Coldbox Seal|Coldbox Seal]], [[Rare Grimoire#Deepread|Deepread]] — practical effects for equipment maintenance, structure preservation, and resource management.
 
 Most copies are straightforward transcriptions from source grimoires that copyists have acquired through purchase, borrowing, or inheritance. Occasionally, copyists produce higher-tier materials ([[Rare Grimoire]] effects in [[Control Tier|T3-T4]] range) when buyers specifically request them and provide source materials, but this is risky — high-tier copying is more likely to attract guild attention if copies circulate broadly.
 
@@ -50,13 +50,13 @@ Northern Lens operations generate modest income. Typical pricing for unauthorize
 
 The price difference reflects eliminated overhead: no guild fees, no authentication infrastructure, no institutional administrative costs. The copies still require skilled work and time investment, but copyists accept lower margins because their cost structure is minimal and alternative employment in rural [[Terravelle]] often pays worse than copying work.
 
-Buyers accept the lack of authentication because the alternative is traveling to cities for guild services (costing more in travel time and fees than the price differential), waiting weeks for guild processing, or going without grimoires entirely. For a rural practitioner needing [[Chemfield]] for pest control, an unauthorized copy from a trusted local copyist is functionally equivalent to a guild-authenticated version at half the cost.
+Buyers accept the lack of authentication because the alternative is traveling to cities for guild services (costing more in travel time and fees than the price differential), waiting weeks for guild processing, or going without grimoires entirely. For a rural practitioner needing [[Rare Grimoire#Chemfield|Chemfield]] for pest control, an unauthorized copy from a trusted local copyist is functionally equivalent to a guild-authenticated version at half the cost.
 
 ## The Risks
 
 Northern Lens copyists face multiple risks. The most significant is guild enforcement: producing unauthorized copies is illegal, and if detected, copyists face fines, confiscation of source materials and equipment, and potential prosecution depending on volume and grimoire types. [[Guild Scrivener Network]] has limited enforcement resources in rural [[Terravelle]], but they occasionally conduct compliance audits that target known black market operators.
 
-Quality risk affects both copyists and buyers. A copyist producing a transcription error in a grimoire creates a defective product that might cause [[Fluxburn]] or fail during critical operations. This damages the copyist's reputation and can result in injured buyers. Copyists mitigate this through careful work and conservative selection of grimoires within their capability range, but errors still occur.
+Quality risk affects both copyists and buyers. A copyist producing a transcription error in a grimoire creates a defective product that might cause [[Legendary Grimoire#Fluxburn|Fluxburn]] or fail during critical operations. This damages the copyist's reputation and can result in injured buyers. Copyists mitigate this through careful work and conservative selection of grimoires within their capability range, but errors still occur.
 
 The coordination structure also creates risk: copyists sharing source materials and buyer referrals create network connections that could expose multiple participants if one copyist faces investigation and cooperates with authorities. The Northern Lens manages this through selective trust — copyists only establish relationships with people they have worked with successfully over extended periods — but the risk remains.
 

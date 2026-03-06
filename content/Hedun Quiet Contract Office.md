@@ -24,4 +24,4 @@ The office is disliked by hardline moralists and by black-market brokers who los
 
 It trades in deniability, compliance, and usable proof if a contract fails.
 
-_See also: [[Hedun]], [[Auralis]], [[Watts]], [[Identitymask]], [[Mindveil]], [[Southern Signal Chain]], [[The Council of Auralis]]_
+_See also: [[Hedun]], [[Auralis]], [[Watts]], [[Rare Grimoire#Identitymask|Identitymask]], [[Rare Grimoire#Mindveil|Mindveil]], [[Southern Signal Chain]], [[The Council of Auralis]]_

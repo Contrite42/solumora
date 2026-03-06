@@ -4,7 +4,7 @@
 
 The exponential Flux cost structure means that high-tier spells have a naturally limited market. A T5 practitioner exists at a frequency in the population that makes the total number of potential buyers for a Rare grimoire small. This limits the commercial production incentive — volume economics do not apply — and shifts the market toward high-margin individual transactions rather than the mass distribution that defines the Common tier.
 
-The physical quality requirements are also different. A [[Hearthlight]] copied onto a household tile with minor imprecision is annoying but still mostly functional. A Rare-tier sigil with minor imprecision is a misfire risk with consequences proportional to the spell's power. The market enforces quality standards for high-tier copies not through regulation but through the fact that a buyer who can afford a Rare-tier text can also afford to verify its quality before purchasing, and will.
+The physical quality requirements are also different. A [[Common Grimoire#Hearthlight|Hearthlight]] copied onto a household tile with minor imprecision is annoying but still mostly functional. A Rare-tier sigil with minor imprecision is a misfire risk with consequences proportional to the spell's power. The market enforces quality standards for high-tier copies not through regulation but through the fact that a buyer who can afford a Rare-tier text can also afford to verify its quality before purchasing, and will.
 
 ## How Rare Texts Actually Move
 

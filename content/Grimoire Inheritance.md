@@ -10,7 +10,7 @@ A practitioner's personal working grimoire — the annotated, modified, personal
 
 If the practitioner held originator declarations on any spells — registered under the [[Trade Guilds|guild]] system in Terravelle — those rights pass to the estate. What the heirs do with them depends on whether anyone in the family has the institutional knowledge to maintain them and whether the volume of copies sold is worth the administration.
 
-Most small originator rights are abandoned within a generation. The practitioner who developed a useful variant of [[Lockward]] had a meaningful claim during their lifetime; their heirs, who are merchants or farmers with no guild affiliation, typically allow the declaration to lapse rather than maintain the certification relationship. The spells enter general circulation without attribution.
+Most small originator rights are abandoned within a generation. The practitioner who developed a useful variant of [[Common Grimoire#Lockward|Lockward]] had a meaningful claim during their lifetime; their heirs, who are merchants or farmers with no guild affiliation, typically allow the declaration to lapse rather than maintain the certification relationship. The spells enter general circulation without attribution.
 
 ## High-Tier Libraries
 

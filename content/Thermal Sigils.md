@@ -4,4 +4,4 @@ They are central to desert crossing, cold-route operations, and warehouse protec
 
 Most thermal kits prioritize reliability over peak output, since sustained moderation is more useful than brief extremes.
 
-_See also: [[Heat]], [[Sigils]], [[Heatshield]], [[Expedition Supplies]], [[Equatorial Desert]], [[Halveth]]_
+_See also: [[Heat]], [[Sigils]], [[Uncommon Grimoire#Heatshield|Heatshield]], [[Expedition Supplies]], [[Equatorial Desert]], [[Halveth]]_

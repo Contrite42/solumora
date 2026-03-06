@@ -23,7 +23,7 @@ Unauthorized replication is prosecutable under restricted-text statute.
 
 ---
 
-## Plate I: [[Soulread]]
+## Plate I: [[Rare Grimoire#Soulread|Soulread]]
 
 Purpose: Structured interpretation of active soul-layer signatures.
 
@@ -35,7 +35,7 @@ Research use:
 Archive annotation:
 "Interpretive drift remains high between readers."
 
-## Plate II: [[Soulchain]]
+## Plate II: [[Legendary Grimoire#Soulchain|Soulchain]]
 
 Purpose: Temporary linkage between prepared anchor points.
 
@@ -47,7 +47,7 @@ Research use:
 Archive annotation:
 "Do not exceed approved duration window. Prior failures were not survivable."
 
-## Plate III: [[Soulsever]]
+## Plate III: [[Legendary Grimoire#Soulsever|Soulsever]]
 
 Purpose: Emergency severance of unstable link structures.
 
@@ -59,7 +59,7 @@ Research use:
 Archive annotation:
 "Success case still carries permanent deficit risk."
 
-## Plate IV: [[Mindrewrite]]
+## Plate IV: [[Mythic Grimoire#Mindrewrite|Mindrewrite]]
 
 Purpose: Directed overwrite of targeted cognition pathways.
 
@@ -77,4 +77,4 @@ Archive annotation:
 
 You are reading an archive copy because someone before you accepted liability for what you might learn from it. Read carefully. Cast rarely. Report everything.
 
-_See also: [[Rare Grimoire]], [[Grimoires]], [[Auralis]], [[Emberfall]], [[The Council of Auralis]], [[Flux]], [[Discipline]], [[Soulread]], [[Mindrewrite]]_
+_See also: [[Rare Grimoire]], [[Grimoires]], [[Auralis]], [[Emberfall]], [[The Council of Auralis]], [[Flux]], [[Discipline]], [[Rare Grimoire#Soulread|Soulread]], [[Mythic Grimoire#Mindrewrite|Mindrewrite]]_

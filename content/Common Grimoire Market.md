@@ -8,9 +8,9 @@ The price structure rewards volume purchase. Scribes who sell individual spells 
 
 ## What Moves Through the Market
 
-The most commercially successful Common spells are the ones with the clearest, most repeatable utility in daily working life: lighting, heating, cold preservation, surface maintenance, basic security. [[Hearthlight]], [[Coldbox Seal]], [[Lockward]], [[Dustsweep]], [[Rustblock]] — these are not glamorous spells. They are the spells that save time, prevent spoilage, and reduce physical labor in ways that compound over a working life.
+The most commercially successful Common spells are the ones with the clearest, most repeatable utility in daily working life: lighting, heating, cold preservation, surface maintenance, basic security. [[Common Grimoire#Hearthlight|Hearthlight]], [[Common Grimoire#Coldbox Seal|Coldbox Seal]], [[Common Grimoire#Lockward|Lockward]], [[Common Grimoire#Dustsweep|Dustsweep]], [[Common Grimoire#Rustblock|Rustblock]] — these are not glamorous spells. They are the spells that save time, prevent spoilage, and reduce physical labor in ways that compound over a working life.
 
-The market for combat or protection spells at Common tier is smaller than people expect. [[Hardenskin]], [[Forcepulse]], [[Shockloop]] — these exist and sell, but they are niche purchases compared to utility applications. Most Common buyers are not thinking about threat response. They are thinking about whether their supply of [[Hearthlight]] cards will last through winter.
+The market for combat or protection spells at Common tier is smaller than people expect. [[Common Grimoire#Hardenskin|Hardenskin]], [[Common Grimoire#Forcepulse|Forcepulse]], [[Common Grimoire#Shockloop|Shockloop]] — these exist and sell, but they are niche purchases compared to utility applications. Most Common buyers are not thinking about threat response. They are thinking about whether their supply of [[Common Grimoire#Hearthlight|Hearthlight]] cards will last through winter.
 
 ## Distribution Channels
 

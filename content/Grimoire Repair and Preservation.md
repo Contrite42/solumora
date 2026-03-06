@@ -24,11 +24,11 @@ Binding repair doesn't require [[Flux]] capability — it's a bookbinding craft 
 
 ## Environmental Preservation
 
-Long-term preservation involves protecting grimoires from degradation before it occurs. Institutional libraries in [[Terravelle]] and [[Auralis]] use preservation spells like [[Permanentpreserve]] or [[Preserveseal]] to lock grimoire pages against environmental damage. These spells are expensive (T4-T5 sigils with ongoing [[Flux]] cost) but effective, and are typically reserved for [[Rare Grimoire|Rare]] or [[Legendary Grimoire|Legendary]] texts held in permanent collections.
+Long-term preservation involves protecting grimoires from degradation before it occurs. Institutional libraries in [[Terravelle]] and [[Auralis]] use preservation spells like [[Uncommon Grimoire#Permanentpreserve|Permanentpreserve]] or [[Uncommon Grimoire#Preserveseal|Preserveseal]] to lock grimoire pages against environmental damage. These spells are expensive (T4-T5 sigils with ongoing [[Flux]] cost) but effective, and are typically reserved for [[Rare Grimoire|Rare]] or [[Legendary Grimoire|Legendary]] texts held in permanent collections.
 
-Private owners use simpler methods: storing grimoires in sealed boxes away from light and moisture, using [[Dryseal]] or similar low-tier spells to protect pages during transport, and handling texts with clean hands to reduce ink contact. These methods slow degradation but don't prevent it entirely.
+Private owners use simpler methods: storing grimoires in sealed boxes away from light and moisture, using [[Common Grimoire#Dryseal|Dryseal]] or similar low-tier spells to protect pages during transport, and handling texts with clean hands to reduce ink contact. These methods slow degradation but don't prevent it entirely.
 
-Some preservation specialists offer enchanted storage solutions: boxes or cases with embedded [[Preserveseal]] sigils that maintain stable temperature and humidity. These are expensive (100-200W for a small case, more for larger storage) but extend grimoire lifespan significantly, especially in harsh climates like the [[Equatorial Desert]] border regions.
+Some preservation specialists offer enchanted storage solutions: boxes or cases with embedded [[Uncommon Grimoire#Preserveseal|Preserveseal]] sigils that maintain stable temperature and humidity. These are expensive (100-200W for a small case, more for larger storage) but extend grimoire lifespan significantly, especially in harsh climates like the [[Equatorial Desert]] border regions.
 
 ## Restoration Disputes
 
@@ -44,4 +44,4 @@ Fraud is rare but exists: a specialist might claim to fully restore a grimoire w
 
 High-tier grimoires also carry higher risk. A single error in restoration can render an expensive spell useless, and replacement may not be possible if the source text is restricted or lost. This makes high-tier owners cautious about when and how to pursue restoration, often delaying until absolutely necessary.
 
-_See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Lending]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Preserveseal]], [[Permanentpreserve]], [[Watts]], [[Control Tier]], [[Flux]]_
+_See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Lending]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Uncommon Grimoire#Preserveseal|Preserveseal]], [[Uncommon Grimoire#Permanentpreserve|Permanentpreserve]], [[Watts]], [[Control Tier]], [[Flux]]_

@@ -16,7 +16,7 @@ The economics of rental rely on the same text serving many clients serially. Ren
 
 In rural areas and small communities, private lending is often the primary mechanism of access to grimoire texts above what the local market carries. A practitioner who holds an Uncommon copy may lend it to a neighbor who needs access to a specific spell, relying on social obligation and community relationships rather than formal terms.
 
-Private lending creates an ambiguous situation around copying. Most private lenders understand that borrowers may copy from the text — a freehand or [[Copymark]]-assisted copy for personal use is generally tolerated. A borrower who copies and then sells or lends further is taking something the original owner did not intend to give, but there is no formal mechanism to prevent it and social consequences are the primary deterrent.
+Private lending creates an ambiguous situation around copying. Most private lenders understand that borrowers may copy from the text — a freehand or [[Common Grimoire#Copymark|Copymark]]-assisted copy for personal use is generally tolerated. A borrower who copies and then sells or lends further is taking something the original owner did not intend to give, but there is no formal mechanism to prevent it and social consequences are the primary deterrent.
 
 ## Cross-Kingdom Lending
 

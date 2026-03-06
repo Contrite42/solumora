@@ -4,4 +4,4 @@ Soul-adjacent work is rare, expensive, and heavily constrained by both technical
 
 In common discourse, "soul" terminology often marks uncertainty as much as knowledge.
 
-_See also: [[Flux]], [[Discipline]], [[Control Tier]], [[The Persecution Era]], [[High Demons]], [[Mindveil]]_
+_See also: [[Flux]], [[Discipline]], [[Control Tier]], [[The Persecution Era]], [[High Demons]], [[Rare Grimoire#Mindveil|Mindveil]]_

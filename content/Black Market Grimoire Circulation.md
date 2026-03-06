@@ -4,7 +4,7 @@ Black Market Grimoire Circulation refers to the trade in [[Grimoires]] that bypa
 
 The majority of black market grimoires are not exotic or dangerous. Most are unauthorized copies of [[Common Grimoire]] or [[Uncommon Grimoire]] texts sold at below-market prices by scriveners bypassing [[Guild Scrivener Network]] fees or inspection protocols. These grimoires function perfectly well — the only "crime" is avoiding institutional overhead.
 
-Higher-tier texts appear less frequently but carry much higher prices. A [[Rare Grimoire]] spell sold outside institutional channels might fetch hundreds of [[Watts]], especially if it offers a capability (like [[Mindread]] or [[Fluxsever]]) that buyers can't access legally. Authenticity is a major concern: black market higher-tier grimoires are more likely to contain transcription errors or be outright frauds.
+Higher-tier texts appear less frequently but carry much higher prices. A [[Rare Grimoire]] spell sold outside institutional channels might fetch hundreds of [[Watts]], especially if it offers a capability (like [[Uncommon Grimoire#Mindread|Mindread]] or [[Rare Grimoire#Fluxsever|Fluxsever]]) that buyers can't access legally. Authenticity is a major concern: black market higher-tier grimoires are more likely to contain transcription errors or be outright frauds.
 
 Restricted texts also circulate, though rarely. [[Auralis]] restricts certain mind-affecting sigils, and [[Terravelle]] limits access to some destructive or high-cost spells. A buyer seeking these texts has no legal option and must rely on underground networks.
 
