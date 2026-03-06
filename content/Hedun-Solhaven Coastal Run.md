@@ -13,7 +13,7 @@ The Run integrates with distributed coastal settlement network along the souther
 [[Torst Bay]] is the primary mid-route stopping point, positioned roughly halfway between [[Hedun]] and [[Solhaven]]. Packet ships stop here for:
 
 - Fresh provisions (preserved fish, water, supplies) from bay processing operations  
-- Maritime intelligence (fishing conditions, storm warnings, ocean condition reports from [[Lorn Markel]]'s coordination network)  
+- Maritime intelligence (fishing conditions, storm warnings, ocean condition reports from Lorn Markel's coordination network)  
 - Cargo transfer for inland distribution through [[Torst Bay]]'s connection to regional trade networks  
 - Message transport serving fishing fleet operators and settlement coordination
 
@@ -22,7 +22,7 @@ Ships typically spend 2-4 hours at [[Torst Bay]] during scheduled stops — enou
 [[Keln Harbor]] serves as a secondary stopping point for ships requiring maintenance, repair assessment, or specialized maritime equipment. Not all Run vessels stop here on every transit, but the settlement's shipbuilding and repair infrastructure makes it valuable for:
 
 - Emergency repair services when ships experience equipment failures mid-route  
-- Maintenance scheduling coordination with [[Trel Orvn]]'s yards for vessels approaching major overhaul cycles  
+- Maintenance scheduling coordination with Trel Orvn's yards for vessels approaching major overhaul cycles  
 - Material transport (timber, metal fittings, sailcloth) supporting [[Keln Harbor]]'s construction operations  
 - Builder-to-buyer communication for fishing fleet operators purchasing new vessels
 
@@ -30,4 +30,4 @@ The integration of these coastal stops into the Run's standard operations create
 
 Ship captains operating the Run maintain relationships with settlement coordinators, know which settlements provide which services, and adjust stopping patterns based on current operational needs and schedule constraints. This flexibility — formal port-to-port route with informal coastal settlement integration — characterizes the southern [[Auralis]] maritime economy.
 
-*See also: [[Hedun]], [[Solhaven]], [[Auralis]], [[Torst Bay]], [[Keln Harbor]], [[Coastal Settlement Network]], [[Maritime Storm Coordination]], [[Trade Guilds]], [[Watts]], [[Life in Hedun]], [[Life in Solhaven]], [[Outer Coast Packet Line]], [[Lorn Markel]], [[Trel Orvn]]*
+*See also: [[Hedun]], [[Solhaven]], [[Auralis]], [[Torst Bay]], [[Keln Harbor]], [[Coastal Settlement Network]], [[Maritime Storm Coordination]], [[Trade Guilds]], [[Watts]], [[Life in Hedun]], [[Life in Solhaven]], [[Outer Coast Packet Line]], Lorn Markel, Trel Orvn*

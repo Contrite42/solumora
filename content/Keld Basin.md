@@ -10,13 +10,13 @@ This year's harvest started three days late. The oak stands held green longer th
 
 Most farming work at Keld Basin is done without [[Flux]]. Plowing, planting, weeding, and harvesting are manual labor supported by draft animals and hand tools. The [[Control Tier|Tier 0]] and [[Control Tier|Tier 1]] practitioners who make up most of the population work the fields the way their families have worked them for generations.
 
-Flux use concentrates around two problems: pest control and weather management. [[Ora Brendt]], T2, handles both for the basin's southern holdings. She casts [[Pestward]] sequences in early summer to protect grain stands from locust swarms that come up from the southern grasslands. In dry years she coordinates with the other basin practitioners to cast [[Moisthold]] over critical fields during the grain-fill period — not enough to replace rain, but enough to prevent total loss.
+Flux use concentrates around two problems: pest control and weather management. Ora Brendt, T2, handles both for the basin's southern holdings. She casts Pestward sequences in early summer to protect grain stands from locust swarms that come up from the southern grasslands. In dry years she coordinates with the other basin practitioners to cast Moisthold over critical fields during the grain-fill period — not enough to replace rain, but enough to prevent total loss.
 
 The practitioners who work Keld Basin are not specialists. They farm the same fields everyone else farms. Flux work is part of their contribution to the community, not their primary occupation.
 
 ## The Supply Line
 
-Grain moves from Keld Basin to [[Valdenmoor]] in two-week cycles coordinated with the [[Maren Freight Chain]] barge schedule. Holding representatives bring grain to the basin's central storage site four days before the scheduled barge arrival. [[Morten Kels]], who has managed basin shipping coordination for twelve years, inspects volume and quality, records the contribution from each holding, and arranges payment from city buyers.
+Grain moves from Keld Basin to [[Valdenmoor]] in two-week cycles coordinated with the [[Maren Freight Chain]] barge schedule. Holding representatives bring grain to the basin's central storage site four days before the scheduled barge arrival. Morten Kels, who has managed basin shipping coordination for twelve years, inspects volume and quality, records the contribution from each holding, and arranges payment from city buyers.
 
 The system works because the cycle is predictable. Keld Basin plants, harvests, and delivers on a schedule that Valdenmoor's markets depend on. When a barge arrives late or a harvest runs short, the basin feels the gap immediately — not in catastrophe, but in the small adjustments every holding has to make to keep the next cycle aligned.
 
@@ -28,4 +28,4 @@ The buyer returned this season with the same proposal and a higher premium. Ren 
 
 The conversation has not resolved. The work continues.
 
-*See also: [[Terravelle]], [[Maren Valley]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], [[Ren Valdst]], [[Ora Brendt]], [[Morten Kels]]*
+*See also: [[Terravelle]], [[Maren Valley]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], [[Ren Valdst]], Ora Brendt, Morten Kels*

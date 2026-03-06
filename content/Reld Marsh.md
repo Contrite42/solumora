@@ -18,9 +18,9 @@ The work is seasonal, physically demanding, and requires knowledge of marsh ecol
 
 Salt harvesting at Reld Marsh is small-scale but profitable. During the dry season, tidal pools concentrate to brine strength naturally through evaporation. Settlement workers guide the brine into shallow collection pans, allow further evaporation, then harvest and process salt crystals for sale to inland communities that lack coastal access.
 
-The operation is not mechanized. Workers move brine by hand using buckets and channels, rake forming salt from pans, and pack the product for transport. [[Flux]] use concentrates around evaporation management — [[Heatward]] sequences to accelerate drying on overcast days, and [[Sealward]] protections to prevent spoilage during storage.
+The operation is not mechanized. Workers move brine by hand using buckets and channels, rake forming salt from pans, and pack the product for transport. [[Flux]] use concentrates around evaporation management — Heatward sequences to accelerate drying on overcast days, and Sealward protections to prevent spoilage during storage.
 
-[[Nev Kort]], T1, manages the settlement's salt operation. His casting is minimal — seasonal, situational, and always in service of predictable problems. The salt business at Reld does not depend on Flux. It benefits from it at the margins.
+Nev Kort, T1, manages the settlement's salt operation. His casting is minimal — seasonal, situational, and always in service of predictable problems. The salt business at Reld does not depend on Flux. It benefits from it at the margins.
 
 ## Daily Life
 
@@ -46,4 +46,4 @@ The buyers do not understand the constraint. From their perspective, Reld is cho
 
 The tension has not escalated to conflict. But it has created a gap — urban workshops want more volume now, and Reld wants to preserve the resource base that will sustain future generations. Neither position is wrong. Both reflect legitimate economic pressures operating on different timescales.
 
-*See also: [[Auralis]], [[Solhaven]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], [[Lorn Seld]], [[Nev Kort]]*
+*See also: [[Auralis]], [[Solhaven]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], [[Lorn Seld]], Nev Kort*

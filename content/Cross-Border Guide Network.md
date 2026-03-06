@@ -4,9 +4,7 @@ The Cross-Border Guide Network is an informal coordination system connecting act
 
 Desert guides work independently, hire themselves through settlement coordination services like [[Thel Reach]] and [[Seln Watch]], and build reputations through direct performance rather than certification. The network exists because guides discovered that sharing route intelligence, coordinating multi-stage crossings, and maintaining collective knowledge increases everyone's survival rates.
 
-When a guide at [[Thel Reach]] learns that a northern route section has become
-
- unstable due to unexpected rift activity, they pass that intelligence to guides operating from [[Halveth]], [[Seln Watch]], and [[Dren Outpost]]. When a guide completes a crossing using a new waypoint configuration, they document it and share the route variation with guides who might need alternatives.
+When a guide at [[Thel Reach]] learns that a northern route section has become unstable due to unexpected rift activity, they pass that intelligence to guides operating from [[Halveth]], [[Seln Watch]], and [[Dren Outpost]]. When a guide completes a crossing using a new waypoint configuration, they document it and share the route variation with guides who might need alternatives.
 
 This happens through direct communication: guides meeting at border settlements during preparation periods, message exchanges through settlement coordination centers, debriefings after crossings where intelligence is distributed to whoever is present.
 
@@ -26,7 +24,7 @@ The network has no formal structure. What it has is:
 
 The network consists of approximately 60-80 active guides operating across the entire desert boundary. Most are [[Control Tier|Tier 2]] or higher — desert guiding requires sustained [[Flux]] capacity for navigation, protection, and emergency response. Some specialize in northern routes, some in southern approaches, some in deep-desert penetration for research expeditions.
 
-[[Ren Cors]] at [[Thel Reach]], [[Kess Tarn]]'s coordination network, and the guide services operating from [[Seln Watch]] represent different nodes in the broader system. They know each other, coordinate when necessary, share intelligence freely, and maintain collective standards without anyone mandating what those standards should be.
+Ren Cors at [[Thel Reach]], Kess Tarn's coordination network, and the guide services operating from [[Seln Watch]] represent different nodes in the broader system. They know each other, coordinate when necessary, share intelligence freely, and maintain collective standards without anyone mandating what those standards should be.
 
 The network does not exclude or credential. A new guide becomes part of it by demonstrating competence and building relationships. An established guide who loses standing through poor performance becomes excluded not through formal action but through other guides declining to collaborate or share intelligence.
 
@@ -54,4 +52,4 @@ Border settlements like [[Halveth]], [[Thel Reach]], and [[Seln Watch]] recogniz
 
 The network is infrastructure — essential, distributed, and maintained through collective action by people who need it to work.
 
-*See also: [[Equatorial Desert]], [[Thel Reach]], [[Halveth]], [[Seln Watch]], [[Dren Outpost]], [[Korst Station]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Rift Incursions]], [[Control Tier]], [[Ren Cors]], [[Kess Tarn]]*
+*See also: [[Equatorial Desert]], [[Thel Reach]], [[Halveth]], [[Seln Watch]], [[Dren Outpost]], [[Korst Station]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Rift Incursions]], [[Control Tier]], Ren Cors, Kess Tarn*

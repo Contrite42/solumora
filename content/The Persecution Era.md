@@ -26,4 +26,33 @@ The Persecution Era is why [[High Demons|High Demons]] in [[Solumora]] learned t
 
 [[Selvane]], [[Mave]], [[Fennick]], [[Wren]], [[Sorath]]: none of them knew the Persecution Era personally. All of them exist in a world it shaped.
 
-*See also: [[History]], [[High Demons]], [[Flux]], [[Control Tier]], [[Rift Incursions]], [[The First Contact]], [[Terravelle]], [[Auralis]], [[Selvane]], [[Mave]], [[Fennick]], [[Wren]], [[Sorath]]*
+## Legacy and Memory
+
+Present-day memory of the era survives unevenly and mostly outside formal state ritual. It persists through family methods, hidden-site evidence, and selective archival work focused on preventing repetition rather than staging retrospective trials.
+
+Family-level continuity is visible in the [[Brendt Lineage]], [[Cors Lineage]], and [[Seln Lineage]], each preserving different operational lessons: document events before rumor hardens, verify claims across communities, and name uncertainty explicitly during high-stress incidents. These are not commemorative traditions in the ceremonial sense. They are practical behaviors embedded in routing, paperwork, and household instruction.
+
+Material evidence from sites like [[Narrowglass Cellar]] and [[Rimewell Loft]] confirms that some communities built short-stay concealment infrastructure for displacement movement. The surviving artifacts are logistical rather than symbolic: route marks, storage traces, low-tier utility folios, and identity-paper fragments. This supports the interpretation that persecution pressure was managed through mobility and documentation, not only through public confrontation.
+
+Institutional memory now exists in controlled form through the [[Quiet Index Repository]] under Terravelle Guild of Letters stewardship. Its access model preserves evidence while limiting misuse of sensitive local identifiers. The goal is methodological continuity: keep records available for present-day policy and incident-response systems where preventive suspicion can still reappear under stress.
+
+The legacy is therefore neither total silence nor total exposure. It is distributed memory maintained at different layers, each with different risk tolerances:
+
+- Family lines preserve behavior.  
+- Sites preserve material constraints.  
+- Archives preserve cross-case evidence.
+
+Together these layers make one practical claim: the era ended as active mass behavior, but its failure patterns remain relevant whenever fear outruns verification.
+
+*See also: [[History]], [[High Demons]], [[Flux]], [[Control Tier]], [[Rift Incursions]], [[The First Contact]], [[Terravelle]], [[Auralis]], [[Selvane]], [[Mave]], [[Fennick]], [[Wren]], [[Sorath]], [[Brendt Lineage]], [[Cors Lineage]], [[Seln Lineage]], [[Narrowglass Cellar]], [[Rimewell Loft]], [[Quiet Index Repository]]*
+
+## Legacy and Memory
+
+Present-day memory of the era survives through practical record systems rather than public ritual. Family and route archives preserve incident patterns that still shape modern verification habits and rumor control in border and rural communities.
+
+Representative threads:
+- [[Brendt Lineage]] (household ledger memory in western Terravelle farming settlements)
+- [[Cors Lineage]] (route-ledger comparisons across border corridors)
+- [[Seln Lineage]] (localized continuity practices in mixed-border communities)
+
+These records are used more as operating guidance than as commemorative history.

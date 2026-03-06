@@ -2,9 +2,7 @@ Korst Station is a border monitoring post on [[Auralis]]'s northeastern desert e
 
 ## The Monitoring Operation
 
-Ko
-
-rst Station exists because desert conditions change faster than crossing schedules adapt. What was safe yesterday might be lethal today. What appeared stable an hour ago might have shifted in ways that kill people who proceed on outdated information.
+Korst Station exists because desert conditions change faster than crossing schedules adapt. What was safe yesterday might be lethal today. What appeared stable an hour ago might have shifted in ways that kill people who proceed on outdated information.
 
 The station operates a continuous monitoring system tracking three critical variables:
 
@@ -14,7 +12,7 @@ The station operates a continuous monitoring system tracking three critical vari
 
 **Route accessibility status** — confirming whether established waypoints remain reachable, tracking reports from active crossings about route conditions, and maintaining current assessment of which southern routes are operational versus which should be considered closed.
 
-[[Ven Torsk]], T4, manages the rift monitoring operation. He casts continuous [[Riftsense]] sequences that detect demon emergence at distances far beyond what lower-tier practitioners can manage. His work is not single-event detection — it is pattern tracking across hours and days, building comprehensive assessment of whether activity is escalating, stable, or declining.
+Ven Torsk, T4, manages the rift monitoring operation. He casts continuous Riftsense sequences that detect demon emergence at distances far beyond what lower-tier practitioners can manage. His work is not single-event detection — it is pattern tracking across hours and days, building comprehensive assessment of whether activity is escalating, stable, or declining.
 
 ## The Warning System
 
@@ -22,13 +20,13 @@ When Korst Station detects conditions that make crossing dangerous, the warning 
 
 The warning system is not fail-safe. Desert communications are limited, transmission range is constrained by environmental interference, and some crossings proceed too deep for warnings to reach them. But for crossings in the accessible zones and for travelers preparing to depart, Korst's warnings are often the difference between aborting safely and proceeding into conditions that kill.
 
-[[Mara Seln]], who coordinates warning distribution, maintains direct communication links with every major border settlement and most active guide services. When a warning issues, she ensures it reaches everyone who needs it as fast as communication technology allows.
+Mara Seln, who coordinates warning distribution, maintains direct communication links with every major border settlement and most active guide services. When a warning issues, she ensures it reaches everyone who needs it as fast as communication technology allows.
 
 The station does not make crossing decisions — that remains with individual travelers, guides, and expedition leaders. What Korst provides is accurate, current information about conditions that travelers cannot assess from the boundary. Whether they proceed or abort is their choice. Whether they make that choice with complete information is the station's responsibility.
 
 ## The Intelligence Archive
 
-Korst Station maintains the most comprehensive rift-activity archive in the desert boundary region. Every monitoring session produces data: rift surge timing, intensity patterns, spatial distribution, and correlation with environmental factors. [[Ven Torsk]] has been compiling this archive for eleven years, and it represents the single largest dataset on desert rift behavior that currently exists.
+Korst Station maintains the most comprehensive rift-activity archive in the desert boundary region. Every monitoring session produces data: rift surge timing, intensity patterns, spatial distribution, and correlation with environmental factors. Ven Torsk has been compiling this archive for eleven years, and it represents the single largest dataset on desert rift behavior that currently exists.
 
 The archive is research-grade material that [[Emberfall]]'s expedition research programs reference regularly. Academic analysis of rift patterns, predictive modeling of surge cycles, and long-term trend assessment all depend on Korst's continuous data collection.
 
@@ -42,13 +40,13 @@ Living at Korst Station means accepting isolation, limited social infrastructure
 
 The permanent population is under eighty: monitoring specialists, communication technicians, support staff who maintain the station's physical infrastructure, and a handful of family members willing to live at the boundary.
 
-Most residents are former expedition members or ex-guides who transitioned to monitoring work after years of field experience taught them the value of good intelligence. [[Ven Torsk]] spent nine years guiding deep-desert crossings before settling at Korst to manage rift monitoring. He knows what failure looks like, what warnings actually mean in practice, and what travelers need to hear versus what they want to hear.
+Most residents are former expedition members or ex-guides who transitioned to monitoring work after years of field experience taught them the value of good intelligence. Ven Torsk spent nine years guiding deep-desert crossings before settling at Korst to manage rift monitoring. He knows what failure looks like, what warnings actually mean in practice, and what travelers need to hear versus what they want to hear.
 
 The work is not dramatic. Most days nothing happens. Monitoring proceeds, patterns remain stable, warnings do not issue. The value of Korst Station is measured in crossings that abort before entering dangerous conditions, expeditions that time their departures based on accurate rift forecasts, and the gradual accumulation of knowledge that makes the entire boundary safer.
 
 ## The Collaboration Network
 
-Korst Station operates as part of a distributed monitoring network that includes [[Halveth]]'s garrison sensors, [[Dren Outpost]]'s salvage intelligence, and monitoring posts at other border settlements. [[Mara Seln]] coordinates information exchange, ensuring that rift activity detected at one location propagates to other settlements where it might affect crossing decisions.
+Korst Station operates as part of a distributed monitoring network that includes [[Halveth]]'s garrison sensors, [[Dren Outpost]]'s salvage intelligence, and monitoring posts at other border settlements. Mara Seln coordinates information exchange, ensuring that rift activity detected at one location propagates to other settlements where it might affect crossing decisions.
 
 The network is informal — there is no central control, no standardized reporting format, no formal institutional coordination. What exists is mutual recognition that accurate boundary intelligence benefits everyone, and voluntary information sharing by settlements that understand cooperation increases survival rates.
 
@@ -60,7 +58,7 @@ Korst Station operates on institutional funding from [[The Council of Auralis]] 
 
 The station is not economically optimized. It exists because the desert boundary requires continuous monitoring, and the council has decided that funding Korst is cheaper than losing expeditions to avoidable rift encounters.
 
-[[Ven Torsk]] has submitted multiple proposals for expanded monitoring coverage, additional sensor installations at remote boundary points, and upgraded communication systems that would extend warning range. Most proposals remain unfunded. The council supports Korst's current operations but does not prioritize expansion.
+Ven Torsk has submitted multiple proposals for expanded monitoring coverage, additional sensor installations at remote boundary points, and upgraded communication systems that would extend warning range. Most proposals remain unfunded. The council supports Korst's current operations but does not prioritize expansion.
 
 This creates operational constraints: the station monitors what it can reach, warns who it can contact, and accumulates data that would be more valuable if paired with broader sensor coverage that the funding environment does not support.
 
@@ -76,4 +74,4 @@ The residents are not bothered by this. They know the work matters. They know th
 
 That is enough.
 
-*See also: [[Equatorial Desert]], [[Emberfall]], [[Halveth]], [[Seln Watch]], [[Auralis]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Standard Guided Crossing]], [[The Council of Auralis]], [[Ven Torsk]], [[Mara Seln]], [[Dren Outpost]]*
+*See also: [[Equatorial Desert]], [[Emberfall]], [[Halveth]], [[Seln Watch]], [[Auralis]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Standard Guided Crossing]], [[The Council of Auralis]], Ven Torsk, Mara Seln, [[Dren Outpost]]*

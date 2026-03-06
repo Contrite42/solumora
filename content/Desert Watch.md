@@ -30,14 +30,14 @@ The protocols were not mandated by either kingdom. They emerged through trial it
 
 The Desert Watch has no staff. What it has is people whose work depends on desert intelligence:
 
-[[Ven Torsk]] at [[Korst Station]] monitors rift activity and distributes warnings.  
-[[Veld Marr]] at [[Thel Reach]] coordinates route intelligence and preparation services.  
-[[Lorn Brennik]] at [[Seln Watch]] manages expedition supply logistics and performance reporting.  
-[[Tor Seln]] at [[Dren Outpost]] leads salvage operations and failure documentation.
+Ven Torsk at [[Korst Station]] monitors rift activity and distributes warnings.  
+Veld Marr at [[Thel Reach]] coordinates route intelligence and preparation services.  
+Lorn Brennik at [[Seln Watch]] manages expedition supply logistics and performance reporting.  
+Tor Seln at [[Dren Outpost]] leads salvage operations and failure documentation.
 
 These individuals and their equivalents at other settlements communicate regularly. They share data, compare observations, debate interpretations of ambiguous patterns, and coordinate warning distributions when necessary.
 
-The system also connects to higher-tier institutional intelligence when relevant. [[Halveth]] serves as a knowledge preservation center with deep historical archives. [[Emberfall]]'s [[Council of Auralis]] receives desert intelligence that might affect broader kingdom policy. [[Northern Terravelle Academy]] researchers access desert monitoring data for their work on rift mechanics.
+The system also connects to higher-tier institutional intelligence when relevant. [[Halveth]] serves as a knowledge preservation center with deep historical archives. [[Emberfall]]'s [[The Council of Auralis|Council of Auralis]] receives desert intelligence that might affect broader kingdom policy. Northern Terravelle Academy researchers access desert monitoring data for their work on rift mechanics.
 
 But the core network is settlement-to-settlement communication among people directly engaged in border operations.
 
@@ -67,4 +67,4 @@ Both kingdoms implicitly benefit from the Desert Watch — their border settleme
 
 The Desert Watch is maintained by the settlements that need it, operates outside institutional frameworks because that is how it works best, and continues functioning as long as people at the border recognize that cooperation serves everyone better than isolation.
 
-*See also: [[Equatorial Desert]], [[Korst Station]], [[Thel Reach]], [[Dren Outpost]], [[Seln Watch]], [[Halveth]], [[Rift Incursions]], [[Cross-Border Guide Network]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Emberfall]], [[Control Tier]], [[Ven Torsk]], [[Veld Marr]], [[Lorn Brennik]], [[Tor Seln]]*
+*See also: [[Equatorial Desert]], [[Korst Station]], [[Thel Reach]], [[Dren Outpost]], [[Seln Watch]], [[Halveth]], [[Rift Incursions]], [[Cross-Border Guide Network]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Emberfall]], [[Control Tier]], Ven Torsk, Veld Marr, Lorn Brennik, Tor Seln*

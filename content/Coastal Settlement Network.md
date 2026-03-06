@@ -18,7 +18,7 @@ This specialization means settlements are interdependent: fishing operations sta
 
 Settlements also use [[Flux]]-amplified coastal signal stations for time-sensitive communications — storm warnings, emergency assistance requests, operational coordination that cannot wait for next scheduled packet-ship arrival. This is limited-range infrastructure (typically 20-40 miles) but provides faster response than physical message transport when situations require immediate coordination.
 
-**Reputation** — The network operates through reputation rather than regulation. Settlements and individual operators become known through consistent performance. [[Trel Orvn]]'s shipyard at [[Keln Harbor]] builds boats that function reliably across years of operations — that reputation translates into steady contracts. [[Lorn Markel]]'s storm warnings at [[Torst Bay]] prove accurate often enough to maintain fleet trust — that trust means his warnings are heeded. [[Veln Tors]]' collective management at [[Brend Point]] keeps boats operational and catch allocations fair across decades — that track record sustains settlement cohesion.
+**Reputation** — The network operates through reputation rather than regulation. Settlements and individual operators become known through consistent performance. Trel Orvn's shipyard at [[Keln Harbor]] builds boats that function reliably across years of operations — that reputation translates into steady contracts. Lorn Markel's storm warnings at [[Torst Bay]] prove accurate often enough to maintain fleet trust — that trust means his warnings are heeded. Veln Tors' collective management at [[Brend Point]] keeps boats operational and catch allocations fair across decades — that track record sustains settlement cohesion.
 
 When settlements or operators fail to maintain standards — boats that fail prematurely, storm warnings that prove consistently inaccurate, preservation operations that deliver spoiled product — their standing within the network degrades. Business flows toward reliable operators. This is not formal enforcement — it is economic selection operating through distributed decision-making across hundreds of independent maritime operations.
 
@@ -48,18 +48,18 @@ A fishing boat operating from [[Torst Bay]] pays lower costs than one operating 
 
 Settlement revenues come from service fees: boat mooring, maintenance contracts, preservation processing, supply logistics, coordination services. Individual settlement margins are narrow — most operations break even or generate modest surplus. Collective network effects create sustainability: settlements cooperating reduce individual operational costs while improving service quality through specialization and intelligence sharing.
 
-[[Lorn Markel]] describes the economic logic as "distributed viability through coordination." No single coastal settlement could sustain complete maritime infrastructure independently. Together, coordinating through packet-line networks and voluntary intelligence sharing, they provide distributed infrastructure that works better than centralized alternatives for distributed maritime operations.
+Lorn Markel describes the economic logic as "distributed viability through coordination." No single coastal settlement could sustain complete maritime infrastructure independently. Together, coordinating through packet-line networks and voluntary intelligence sharing, they provide distributed infrastructure that works better than centralized alternatives for distributed maritime operations.
 
 ## The People
 
 The Coastal Settlement Network consists of practitioners, builders, coordinators, and operators whose work sustains maritime economies:
 
-[[Lorn Markel]] at [[Torst Bay]] — fleet coordination and storm monitoring for southern [[Auralis]] fishing operations.  
-[[Trel Orvn]] at [[Keln Harbor]] — shipbuilding operations producing boats for coastal fishing and trade.  
-[[Mara Keld]] at [[Keln Harbor]] — specialized repair operations for boats requiring deep maintenance.  
-[[Veln Tors]] at [[Brend Point]] — collective fishing fleet management and weather coordination for northern [[Terravelle]] western coast.  
-[[Mira Brendt]] at [[Brend Point]] — boat operations and environmental sensing for fishing fleet success.  
-[[Kess Torven]] at [[Torst Bay]] — independent fishing operations with expertise in seasonal pattern recognition.
+Lorn Markel at [[Torst Bay]] — fleet coordination and storm monitoring for southern [[Auralis]] fishing operations.  
+Trel Orvn at [[Keln Harbor]] — shipbuilding operations producing boats for coastal fishing and trade.  
+Mara Keld at [[Keln Harbor]] — specialized repair operations for boats requiring deep maintenance.  
+Veln Tors at [[Brend Point]] — collective fishing fleet management and weather coordination for northern [[Terravelle]] western coast.  
+Mira Brendt at [[Brend Point]] — boat operations and environmental sensing for fishing fleet success.  
+Kess Torven at [[Torst Bay]] — independent fishing operations with expertise in seasonal pattern recognition.
 
 These individuals and hundreds like them maintain the operational infrastructure that makes coastal settlement viability possible. They coordinate across settlement boundaries, share intelligence freely, maintain reputation through consistent performance, and collectively create maritime services that function without centralized institutional management.
 
@@ -75,4 +75,4 @@ The packet-ship networks serve as the formal infrastructure layer that makes inf
 
 The deeper pattern is infrastructure maintained through necessity rather than mandate. Coastal settlements exist because maritime operations require distributed services. They coordinate because cooperation improves outcomes for all participants. They sustain themselves through economic viability rather than institutional support. And they continue functioning as long as people need maritime services that port cities cannot provide efficiently.
 
-*See also: [[Torst Bay]], [[Keln Harbor]], [[Brend Point]], [[Maritime Storm Coordination]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Auralis]], [[Terravelle]], [[Control Tier]], [[Flux]], [[Lorn Markel]], [[Trel Orvn]], [[Mara Keld]], [[Veln Tors]], [[Mira Brendt]], [[Kess Torven]]*
+*See also: [[Torst Bay]], [[Keln Harbor]], [[Brend Point]], [[Maritime Storm Coordination]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Auralis]], [[Terravelle]], [[Control Tier]], [[Flux]], Lorn Markel, Trel Orvn, Mara Keld, Veln Tors, Mira Brendt, Kess Torven*

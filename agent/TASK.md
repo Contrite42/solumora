@@ -1,24 +1,25 @@
-# Task: Persecution Era Legacy Expansion
+# Task: Expedition Culture Expansion
 
 ## Goal
-Surface the **Persecution Era Legacy** in present-day Solumora. The hunting period 400 years ago is documented historically but has no present-day artifacts.
+Document the **Expedition Culture** around Auralis desert research. Council funding exists, but expedition companies, field specialists, and failure-culture infrastructure are under-documented.
 
 ## Constraints
-- Need survivor family lineages that remember, hidden community sites that were never found, institutional memory preserved in unexpected places (guild archives, rural oral tradition, religious texts)
-- Must show how this history still shapes behavior without making it the central drama
-- Must connect to existing [[The Persecution Era]] documentation
-- 5-6 notes total: 2-3 survivor lineages + 2 hidden/preserved sites + 1 institutional memory keeper
-- Update [[The Persecution Era]] with "Legacy and Memory" section
+- Need 3-4 expedition-adjacent institutions and the people who make crossings possible
+- Must show the gap between [[The Council of Auralis]] ambitions and ground-level expedition reality
+- Must connect to existing [[Emberfall]] and [[Ancient Ruins]] documentation
+- 6-7 notes total: 3 expedition companies/guide services + 3-4 expedition specialists
+- Update [[Emberfall]] and [[Ancient Ruins]] with expedition infrastructure detail
 
 ## Output Target
-5-6 notes showing how 400-year-old persecution still affects present-day Solumora behavior
+6-7 notes showing how desert expeditions are actually staffed, financed, and kept alive in practice
 
 ## Execution Plan
-1. Create 2-3 survivor family lineages that maintain memory of persecution
-2. Create 2 hidden sites that escaped discovery during hunting period
-3. Create 1 institutional memory keeper (archive, oral tradition keeper, religious text curator)
-4. Update The Persecution Era page with Legacy and Memory section
-5. Run canon/link integrity check
+1. Create 3 expedition institutions/services (field company, guide bureau, risk-assessment operation)
+2. Create 3-4 specialists (logistics lead, casualty analyst, route planner, gear certifier)
+3. Integrate with existing Emberfall and Halveth-facing desert systems
+4. Update Emberfall with expedition operations layer
+5. Update Ancient Ruins with expedition-support infrastructure layer
+6. Run canon/link integrity check
 
 ## Status
 ACTIVE - Copilot Auto executing

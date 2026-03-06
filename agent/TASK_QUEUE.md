@@ -127,10 +127,11 @@ These tasks expand the world's texture without adding new structural elements. T
   **Owner:** `Copilot Auto`
   **Status:** COMPLETE — 3 organizations (Midden Exchange, Solhaven Copymark, Northern Lens) + Black Market Grim oire Circulation hub integration with smuggling methods and 11 practitioners documented.
 
-- [ ] **Goal:** Surface the **Persecution Era Legacy** in present-day Solumora.
+- [x] **Goal:** Surface the **Persecution Era Legacy** in present-day Solumora.
   **Constraints:** The hunting period 400 years ago is documented historically but has no present-day artifacts. Need: survivor family lineages that remember, hidden community sites that were never found, institutional memory preserved in unexpected places (guild archives, rural oral tradition, religious texts). Must show how this history still shapes behavior without making it the central drama.
   **Output:** 5-6 notes (2-3 survivor lineages + 2 hidden/preserved sites + 1 institutional memory keeper) + update [[The Persecution Era]] with "Legacy and Memory" section.
   **Owner:** `Copilot Auto`
+  **Status:** COMPLETE — 6 notes (Brendt Lineage, Cors Lineage, Seln Lineage, Narrowglass Cellar, Rimewell Loft, Quiet Index Repository) + The Persecution Era "Legacy and Memory" integration.
 
 - [ ] **Goal:** Document the **Expedition Culture** around Auralis desert research.
   **Constraints:** Council funds expeditions but we have no expedition companies, professional guides, risk assessment specialists, or the culture around failed expeditions. Need 3-4 expedition-adjacent institutions and the people who make crossings possible. Must show the gap between council ambitions and ground-level expedition reality.

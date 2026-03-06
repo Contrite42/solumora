@@ -10,7 +10,7 @@ The system operates through interconnected observation points distributed along 
 
 ## How It Functions
 
-**Observation Network** — Coastal settlements that operate fishing fleets or boat-building operations typically maintain at least one [[Control Tier|T2+]] practitioner capable of sustained weather-sense operations. [[Lorn Markel]] at [[Torst Bay]] performs this function for southern [[Auralis]] coastal zones. [[Veln Tors]] at [[Brend Point]] provides coverage for northern [[Terravelle]] western coast operations. Similar practitioners exist at settlements all along Solumora's coastlines.
+**Observation Network** — Coastal settlements that operate fishing fleets or boat-building operations typically maintain at least one [[Control Tier|T2+]] practitioner capable of sustained weather-sense operations. Lorn Markel at [[Torst Bay]] performs this function for southern [[Auralis]] coastal zones. Veln Tors at [[Brend Point]] provides coverage for northern [[Terravelle]] western coast operations. Similar practitioners exist at settlements all along Solumora's coastlines.
 
 These are not dedicated storm-watch positions. They are people whose primary roles (fleet coordination, boat allocation, maritime logistics) require weather monitoring as operational infrastructure. Storm coordination is additional work layered onto existing responsibilities, not a standalone institutional function.
 
@@ -20,7 +20,7 @@ Packet ships are flagged during scheduled stops and carry warnings to other sett
 
 Coastal signal stations (simple Flux-amplified projection systems maintained at major settlements) can transmit directional warnings that reach other settlements within visual/Flux range. This is faster but has limited reach — usually 20-40 miles depending on terrain and practitioner capability.
 
-Direct Flux-amplified projection for time-critical warnings when storms are developing faster than physical transport allows. This requires [[Control Tier|T3-T4]] capacity and imposes personal cost on practitioners, so it is reserved for severe threats where hours matter. [[Lorn Markel]] has used this method three times in seventeen years — each time for storms that would have killed boats at sea if crews had not received immediate recall warnings.
+Direct Flux-amplified projection for time-critical warnings when storms are developing faster than physical transport allows. This requires [[Control Tier|T3-T4]] capacity and imposes personal cost on practitioners, so it is reserved for severe threats where hours matter. Lorn Markel has used this method three times in seventeen years — each time for storms that would have killed boats at sea if crews had not received immediate recall warnings.
 
 **Intelligence Aggregation** — The system becomes more effective as multiple observation points contribute data. A settlement detecting storm formation in their zone shares that intelligence. Settlements downstream in the storm path use that advance notice to prepare. If multiple settlements report consistent storm tracking, confidence in projections increases and preparation intensifies.
 
@@ -30,9 +30,9 @@ This aggregation happens through the packet-ship network, which serves as a cont
 
 Maritime Storm Coordination has no central authority, no administration, no budget. What it has is people whose work depends on accurate storm intelligence:
 
-[[Lorn Markel]] at [[Torst Bay]] provides storm tracking for southern [[Auralis]] fishing operations and distributes warnings through both packet-ship networks and direct coastal signal projection.
+Lorn Markel at [[Torst Bay]] provides storm tracking for southern [[Auralis]] fishing operations and distributes warnings through both packet-ship networks and direct coastal signal projection.
 
-[[Veln Tors]] at [[Brend Point]] monitors northern [[Terravelle]] western coast conditions and coordinates warnings for settlements along that zone.
+Veln Tors at [[Brend Point]] monitors northern [[Terravelle]] western coast conditions and coordinates warnings for settlements along that zone.
 
 Packet-ship captains transport warnings between settlements and sometimes provide independent storm observations based on their position between coastal nodes.
 
@@ -56,7 +56,7 @@ The system also has coverage gaps. Storms that form rapidly may not allow suffic
 
 Storm warnings sometimes prove unnecessary: storms dissipate before reaching operational zones, or track differently than projected, or arrive with less severity than anticipated. Boat operators who return to harbor based on warnings that prove inaccurate lose fishing time and revenue. This creates tension between caution (respond to warnings, accept lost operational time) and risk tolerance (operate despite warnings, potentially face storms at sea).
 
-[[Lorn Markel]] describes this tension as "managing the gap between accurate enough and perfect." Perfect storm prediction is impossible. Accurate-enough prediction — warnings that are right more often than wrong, false alarms that happen rarely enough to maintain trust — is achievable and saves lives. The system aims for accurate-enough, accepts that some warnings will be unnecessary, and maintains trust through consistent long-term performance rather than perfect short-term results.
+Lorn Markel describes this tension as "managing the gap between accurate enough and perfect." Perfect storm prediction is impossible. Accurate-enough prediction — warnings that are right more often than wrong, false alarms that happen rarely enough to maintain trust — is achievable and saves lives. The system aims for accurate-enough, accepts that some warnings will be unnecessary, and maintains trust through consistent long-term performance rather than perfect short-term results.
 
 ## The Institutional Relationship
 
@@ -70,4 +70,4 @@ The packet-ship networks ([[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet L
 
 The deeper infrastructure — the observation network, the practitioner coordination, the aggregated intelligence system — exists outside institutional frameworks because that is where it functions most effectively. Maritime Storm Coordination is maintained by the people who need it, operates through voluntary participation, and continues functioning as long as storms remain existential threats to maritime operations.
 
-*See also: [[Torst Bay]], [[Brend Point]], [[Keln Harbor]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Coastal Settlement Network]], [[Control Tier]], [[Flux]], [[Lorn Markel]], [[Veln Tors]], [[Maritime Operations]], [[Auralis]], [[Terravelle]]*
+*See also: [[Torst Bay]], [[Brend Point]], [[Keln Harbor]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Coastal Settlement Network]], [[Control Tier]], [[Flux]], Lorn Markel, Veln Tors, Maritime Operations, [[Auralis]], [[Terravelle]]*
