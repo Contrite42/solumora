@@ -143,6 +143,19 @@ DEFAULTS = {
     "target_spec": "Where Written",
 }
 
+TIER_OVERVIEW = [
+    {"tier": "T0", "range": "1-10W", "tagline": "A flicker"},
+    {"tier": "T1", "range": "11-40W", "tagline": "A candle"},
+    {"tier": "T2", "range": "41-130W", "tagline": "A tool"},
+    {"tier": "T3", "range": "131-400W", "tagline": "A weapon"},
+    {"tier": "T4", "range": "401-1300W", "tagline": "A violation"},
+    {"tier": "T5", "range": "1301-4000W", "tagline": "A marker"},
+    {"tier": "T6", "range": "4001-13000W", "tagline": "A power act"},
+    {"tier": "T7", "range": "13001-40000W", "tagline": "A rupture"},
+    {"tier": "T8", "range": "40001-130000W", "tagline": "A catastrophe"},
+    {"tier": "T9", "range": "130001W+", "tagline": "The architecture"},
+]
+
 NATURAL_OUTPUT_BY_DISCIPLINE = {
     "Raw": "Raw",
     "Force": "Kinetic",
@@ -828,11 +841,19 @@ def command_schema(_: argparse.Namespace) -> int:
         "persistence": "Sustained",
         "target_spec": "Self",
         "sustained_minutes": 30,
-        "hook_mode_multiplier": 1.0,
+        "hook_mode_multiplier": 2.0,
         "hook_mode_flat_w": 0,
         "notes": "Optional freeform notes for designers.",
     }
     print(json.dumps(schema, indent=2))
+    return 0
+
+
+def command_tiers(_: argparse.Namespace) -> int:
+    print("Solumora Control Tier Overview")
+    print("-----------------------------")
+    for row in TIER_OVERVIEW:
+        print(f"{row['tier']}: {row['range']} - {row['tagline']}")
     return 0
 
 
@@ -841,7 +862,14 @@ def build_parser() -> argparse.ArgumentParser:
         description=(
             "Create validated Solumora sigil spells. "
             "Run with no command to launch guided interactive mode."
-        )
+        ),
+        epilog=(
+            "Examples:\n"
+            "  python quartz/sigil_maker.py\n"
+            "  python quartz/sigil_maker.py create --spec spell.json\n"
+            "  python quartz/sigil_maker.py tiers"
+        ),
+        formatter_class=argparse.RawTextHelpFormatter,
     )
     subparsers = parser.add_subparsers(dest="command")
 
@@ -875,6 +903,9 @@ def build_parser() -> argparse.ArgumentParser:
 
     schema = subparsers.add_parser("schema", help="Print a spell spec JSON template.")
     schema.set_defaults(func=command_schema)
+
+    tiers = subparsers.add_parser("tiers", help="Print control tier ranges and labels.")
+    tiers.set_defaults(func=command_tiers)
 
     return parser
 
