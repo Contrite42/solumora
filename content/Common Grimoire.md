@@ -4,7 +4,7 @@ _Return to [[All Grimoire]]_
 
 
 **PierceLock**
-Constrains force across surfaces at touch targeting surface.
+Constrains force across a surface at touch range, targeting a surface.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -13,14 +13,14 @@ Constrains force across surfaces at touch targeting surface.
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 13 W |
 
 ---
 
 **ReleaseShadow**
-Releases raw in a cone at short (10 ft targeting object.
+Releases raw in a spreading cone within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -28,15 +28,15 @@ Releases raw in a cone at short (10 ft targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 30 W |
 
 ---
 
 **SolidCage**
-Filters force in a point at touch targeting object.
+Filters force at a single point at touch range, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -52,7 +52,7 @@ Filters force in a point at touch targeting object.
 ---
 
 **DriftTide**
-Releases light in a point at short (10 ft targeting surface.
+Releases light at a single point within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -60,15 +60,15 @@ Releases light in a point at short (10 ft targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 44 W |
 
 ---
 
 **SweepBond**
-Displaces chemical in a cone at touch targeting object.
+Displaces chemical in a spreading cone at touch range, targeting an object.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -77,14 +77,14 @@ Displaces chemical in a cone at touch targeting object.
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 29 W |
 
 ---
 
 **DarkVeil**
-Displaces chemical in a cone at _(default  self targeting object.
+Displaces chemical in a spreading cone from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -92,7 +92,7 @@ Displaces chemical in a cone at _(default  self targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 37 W |
@@ -100,7 +100,7 @@ Displaces chemical in a cone at _(default  self targeting object.
 ---
 
 **SweepStrike**
-Shields against force across surfaces at short (10 ft targeting _(default  where written.
+Shields against force across a surface within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -108,15 +108,15 @@ Shields against force across surfaces at short (10 ft targeting _(default  where
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 21 W |
 
 ---
 
 **WeaveLight**
-Constrains heat across surfaces at short (10 ft targeting object.
+Constrains heat across a surface within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -124,15 +124,15 @@ Constrains heat across surfaces at short (10 ft targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 48 W |
 
 ---
 
 **FreezAura**
-Filters force in a point at touch targeting object.
+Filters force at a single point at touch range, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -141,14 +141,14 @@ Filters force in a point at touch targeting object.
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 45 W |
 
 ---
 
 **FreezWard**
-Displaces binding across surfaces at short (10 ft targeting surface.
+Displaces binding across a surface within 10 feet, targeting a surface.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -156,31 +156,31 @@ Displaces binding across surfaces at short (10 ft targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 90 W |
 
 ---
 
 **LoudWeb**
-Alters force in a _(default  plane at touch targeting surface.
+Alters force across a surface at touch range, targeting a surface.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 13 W |
 
 ---
 
 **BurBoon**
-Constrains force in a point at _(default  self targeting surface.
+Constrains force at a single point from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -188,7 +188,7 @@ Constrains force in a point at _(default  self targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 21 W |
@@ -196,7 +196,7 @@ Constrains force in a point at _(default  self targeting surface.
 ---
 
 **BindSong**
-Filters raw in a cone at short (10 ft targeting object.
+Filters raw in a spreading cone within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -204,15 +204,15 @@ Filters raw in a cone at short (10 ft targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
 **LightHand**
-Releases light across surfaces at _(default  self targeting surface.
+Releases light across a surface from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -220,15 +220,15 @@ Releases light across surfaces at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 39 W |
 
 ---
 
 **TwistMark**
-Shields against heat in a point at touch targeting surface.
+Shields against heat at a single point at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -244,23 +244,23 @@ Shields against heat in a point at touch targeting surface.
 ---
 
 **HeavyCurse**
-Detects binding in a _(default  plane at short (10 ft targeting _(default  where written.
+Detects binding across a surface within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 45 W |
 
 ---
 
 **DriftScar**
-Displaces light in a point at touch targeting surface.
+Displaces light at a single point at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -269,14 +269,14 @@ Displaces light in a point at touch targeting surface.
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 56 W |
 
 ---
 
 **BindLight**
-Shields against electric across surfaces at short (10 ft targeting surface.
+Shields against electric across a surface within 10 feet, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -284,7 +284,7 @@ Shields against electric across surfaces at short (10 ft targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 60 W |
@@ -292,7 +292,7 @@ Shields against electric across surfaces at short (10 ft targeting surface.
 ---
 
 **PierceBreath**
-Constrains light across surfaces at _(default  self targeting object.
+Constrains light across a surface from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -300,23 +300,23 @@ Constrains light across surfaces at _(default  self targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 51 W |
 
 ---
 
 **BurShell**
-Shields against raw in a _(default  plane at short (10 ft targeting object.
+Shields against raw across a surface within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 20 W |
@@ -324,7 +324,7 @@ Shields against raw in a _(default  plane at short (10 ft targeting object.
 ---
 
 **HollowRing**
-Alters chemical across surfaces at short (10 ft targeting object.
+Alters chemical across a surface within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -332,7 +332,7 @@ Alters chemical across surfaces at short (10 ft targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
@@ -340,7 +340,7 @@ Alters chemical across surfaces at short (10 ft targeting object.
 ---
 
 **ReleasMirror**
-Detects electric in a point at short (10 ft targeting surface.
+Detects electric at a single point within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -348,15 +348,15 @@ Detects electric in a point at short (10 ft targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 55 W |
 
 ---
 
 **TransformFlame**
-Filters binding across surfaces at short (10 ft targeting _(default  where written.
+Filters binding across a surface within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -364,47 +364,47 @@ Filters binding across surfaces at short (10 ft targeting _(default  where writt
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 35 W |
 
 ---
 
 **FreezCurse**
-Filters light in a _(default  plane at touch targeting object.
+Filters light across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
 **PierceDream**
-Detects raw in a _(default  plane at short (10 ft targeting object.
+Detects raw across a surface within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **PureWeb**
-Constrains binding across surfaces at _(default  self targeting surface.
+Constrains binding across a surface from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -412,15 +412,15 @@ Constrains binding across surfaces at _(default  self targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 60 W |
 
 ---
 
 **SweepHalo**
-Releases chemical in a cone at _(default  self targeting object.
+Releases chemical in a spreading cone from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -428,15 +428,15 @@ Releases chemical in a cone at _(default  self targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 57 W |
 
 ---
 
 **TameVoice**
-Constrains electric across surfaces at _(default  self targeting surface.
+Constrains electric across a surface from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -444,15 +444,15 @@ Constrains electric across surfaces at _(default  self targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 70 W |
 
 ---
 
 **FreshMark**
-Filters light across surfaces at short (10 ft targeting object.
+Filters light across a surface within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -460,15 +460,15 @@ Filters light across surfaces at short (10 ft targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 31 W |
 
 ---
 
 **BrightCalm**
-Displaces heat across surfaces at short (10 ft targeting object.
+Displaces heat across a surface within 10 feet, targeting an object.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -476,15 +476,15 @@ Displaces heat across surfaces at short (10 ft targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 13 W |
 
 ---
 
 **RiseTouch**
-Alters electric across surfaces at short (10 ft targeting object.
+Alters electric across a surface within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -492,31 +492,31 @@ Alters electric across surfaces at short (10 ft targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
 **BurWeb**
-Constrains binding in a _(default  plane at touch targeting _(default  where written.
+Constrains binding across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 92 W |
 
 ---
 
 **FallAura**
-Detects force in a point at touch targeting object.
+Detects force at a single point at touch range, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -532,7 +532,7 @@ Detects force in a point at touch targeting object.
 ---
 
 **AnchoredPath**
-Shields against electric across surfaces at _(default  self targeting _(default  where written.
+Shields against electric across a surface from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -540,38 +540,38 @@ Shields against electric across surfaces at _(default  self targeting _(default 
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 20 W |
 
 ---
 
 **CalmBridge**
-Shields against electric in a _(default  plane at short (10 ft targeting object.
+Shields against electric across a surface within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
 **DriftBoon**
-Constrains chemical in a _(default  plane at touch targeting surface.
+Constrains chemical across a surface at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
@@ -580,7 +580,7 @@ Constrains chemical in a _(default  plane at touch targeting surface.
 ---
 
 **CalmBoon**
-Displaces binding in a point at short (10 ft targeting object.
+Displaces binding at a single point within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -588,31 +588,31 @@ Displaces binding in a point at short (10 ft targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 62 W |
 
 ---
 
 **FlowSilence**
-Detects heat in a _(default  plane at touch targeting _(default  where written.
+Detects heat across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 18 W |
 
 ---
 
 **ChillBond**
-Constrains raw in a point at touch targeting object.
+Constrains raw at a single point at touch range, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -621,14 +621,14 @@ Constrains raw in a point at touch targeting object.
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 37 W |
 
 ---
 
 **RisRune**
-Displaces raw across surfaces at touch targeting object.
+Displaces raw across a surface at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -637,14 +637,14 @@ Displaces raw across surfaces at touch targeting object.
 | Output | Raw |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
 **CalmBond**
-Releases light across surfaces at _(default  self targeting surface.
+Releases light across a surface from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -652,31 +652,31 @@ Releases light across surfaces at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 34 W |
 
 ---
 
 **DriftFlame**
-Filters binding in a _(default  plane at _(default  self targeting _(default  where written.
+Filters binding across a surface from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 55 W |
 
 ---
 
 **GrandCore**
-Releases raw across surfaces at _(default  self targeting surface.
+Releases raw across a surface from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -684,7 +684,7 @@ Releases raw across surfaces at _(default  self targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 18 W |
@@ -692,55 +692,55 @@ Releases raw across surfaces at _(default  self targeting surface.
 ---
 
 **ReleasChain**
-Filters heat in a _(default  plane at _(default  self targeting _(default  where written.
+Filters heat across a surface from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 16 W |
 
 ---
 
 **ChillBreath**
-Shields against force in a _(default  plane at short (10 ft targeting object.
+Shields against force across a surface within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 38 W |
 
 ---
 
 **ShatterShell**
-Filters chemical in a _(default  plane at touch targeting surface.
+Filters chemical across a surface at touch range, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 27 W |
 
 ---
 
 **ReleaseFlame**
-Shields against binding in a point at short (10 ft targeting surface.
+Shields against binding at a single point within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -748,15 +748,15 @@ Shields against binding in a point at short (10 ft targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 115 W |
 
 ---
 
 **SweepRing**
-Constrains binding across surfaces at touch targeting surface.
+Constrains binding across a surface at touch range, targeting a surface.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -765,14 +765,14 @@ Constrains binding across surfaces at touch targeting surface.
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 37 W |
 
 ---
 
 **SolidGlyph**
-Filters heat in a point at touch targeting object.
+Filters heat at a single point at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -781,30 +781,30 @@ Filters heat in a point at touch targeting object.
 | Output | Thermal |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
 **BurCharm**
-Displaces heat in a _(default  plane at _(default  self targeting object.
+Displaces heat across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 23 W |
 
 ---
 
 **SweepBlessing**
-Shields against force in a point at touch targeting object.
+Shields against force at a single point at touch range, targeting an object.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -813,14 +813,14 @@ Shields against force in a point at touch targeting object.
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 20 W |
 
 ---
 
 **DriftGate**
-Displaces light across surfaces at _(default  self targeting surface.
+Displaces light across a surface from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -828,15 +828,15 @@ Displaces light across surfaces at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 39 W |
 
 ---
 
 **TransformChain**
-Detects binding in a point at short (10 ft targeting surface.
+Detects binding at a single point within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -844,15 +844,15 @@ Detects binding in a point at short (10 ft targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 115 W |
 
 ---
 
 **WhirlingRoot**
-Detects light in a point at touch targeting _(default  where written.
+Detects light at a single point at touch range, centered on the inscribed location.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -861,14 +861,14 @@ Detects light in a point at touch targeting _(default  where written.
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **TwinBond**
-Constrains light in a point at _(default  self targeting object.
+Constrains light at a single point from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -876,7 +876,7 @@ Constrains light in a point at _(default  self targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 36 W |
@@ -884,7 +884,7 @@ Constrains light in a point at _(default  self targeting object.
 ---
 
 **CapturRune**
-Constrains heat in a point at short (10 ft targeting surface.
+Constrains heat at a single point within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -892,15 +892,15 @@ Constrains heat in a point at short (10 ft targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 21 W |
 
 ---
 
 **BurWall**
-Filters light in a point at touch targeting _(default  where written.
+Filters light at a single point at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -910,13 +910,13 @@ Filters light in a point at touch targeting _(default  where written.
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 36 W |
 
 ---
 
 **TaintedCharm**
-Alters electric across surfaces at _(default  self targeting object.
+Alters electric across a surface from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -924,7 +924,7 @@ Alters electric across surfaces at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 52 W |
@@ -932,7 +932,7 @@ Alters electric across surfaces at _(default  self targeting object.
 ---
 
 **KindlVoid**
-Constrains heat across surfaces at _(default  self targeting surface.
+Constrains heat across a surface from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -940,15 +940,15 @@ Constrains heat across surfaces at _(default  self targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 16 W |
 
 ---
 
 **WeavMark**
-Releases light in a cone at _(default  self targeting surface.
+Releases light in a spreading cone from the sigil, targeting a surface.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -956,15 +956,15 @@ Releases light in a cone at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 24 W |
 
 ---
 
 **WeaveThought**
-Detects electric in a point at _(default  self targeting _(default  where written.
+Detects electric at a single point from the sigil, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -972,15 +972,15 @@ Detects electric in a point at _(default  self targeting _(default  where writte
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 50 W |
 
 ---
 
 **SwiftTouch**
-Shields against electric in a point at _(default  self targeting surface.
+Shields against electric at a single point from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -988,31 +988,31 @@ Shields against electric in a point at _(default  self targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 25 W |
 
 ---
 
 **KindleFlame**
-Detects binding in a _(default  plane at _(default  self targeting object.
+Detects binding across a surface from the sigil, targeting an object.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
 **DissolvHeart**
-Displaces electric in a cone at _(default  self targeting surface.
+Displaces electric in a spreading cone from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -1020,7 +1020,7 @@ Displaces electric in a cone at _(default  self targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 65 W |
@@ -1028,23 +1028,23 @@ Displaces electric in a cone at _(default  self targeting surface.
 ---
 
 **ChillPulse**
-Alters chemical in a _(default  plane at short (10 ft targeting _(default  where written.
+Alters chemical across a surface within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 50 W |
 
 ---
 
 **ReleasCrown**
-Shields against force in a cone at touch targeting _(default  where written.
+Shields against force in a spreading cone at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -1054,13 +1054,13 @@ Shields against force in a cone at touch targeting _(default  where written.
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 38 W |
 
 ---
 
 **BreakNet**
-Alters binding in a cone at short (10 ft targeting object.
+Alters binding in a spreading cone within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1068,15 +1068,15 @@ Alters binding in a cone at short (10 ft targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 122 W |
 
 ---
 
 **SlowHalo**
-Detects light across surfaces at touch targeting _(default  where written.
+Detects light across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1086,13 +1086,13 @@ Detects light across surfaces at touch targeting _(default  where written.
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 21 W |
 
 ---
 
 **TwistGlyph**
-Filters force in a cone at touch targeting surface.
+Filters force in a spreading cone at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -1108,7 +1108,7 @@ Filters force in a cone at touch targeting surface.
 ---
 
 **PureWall**
-Filters chemical across surfaces at short (10 ft targeting surface.
+Filters chemical across a surface within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1116,15 +1116,15 @@ Filters chemical across surfaces at short (10 ft targeting surface.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 30 W |
 
 ---
 
 **PaleCore**
-Filters light across surfaces at _(default  self targeting object.
+Filters light across a surface from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -1132,7 +1132,7 @@ Filters light across surfaces at _(default  self targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 21 W |
@@ -1140,23 +1140,23 @@ Filters light across surfaces at _(default  self targeting object.
 ---
 
 **WeakCage**
-Constrains binding in a _(default  plane at short (10 ft targeting _(default  where written.
+Constrains binding across a surface within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 95 W |
 
 ---
 
 **ReleasTouch**
-Constrains force in a cone at short (10 ft targeting surface.
+Constrains force in a spreading cone within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -1164,23 +1164,23 @@ Constrains force in a cone at short (10 ft targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
 **FreshWisp**
-Alters binding in a _(default  plane at _(default  self targeting surface.
+Alters binding across a surface from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
+| Pattern | Plane |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 95 W |
@@ -1188,7 +1188,7 @@ Alters binding in a _(default  plane at _(default  self targeting surface.
 ---
 
 **GentleHand**
-Filters heat in a point at _(default  self targeting surface.
+Filters heat at a single point from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -1196,31 +1196,31 @@ Filters heat in a point at _(default  self targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
 **FallStrike**
-Alters heat in a _(default  plane at short (10 ft targeting surface.
+Alters heat across a surface within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 51 W |
 
 ---
 
 **BurnMark**
-Shields against binding in a cone at touch targeting object.
+Shields against binding in a spreading cone at touch range, targeting an object.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1229,14 +1229,14 @@ Shields against binding in a cone at touch targeting object.
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 94 W |
 
 ---
 
 **SweepHand**
-Displaces light across surfaces at touch targeting _(default  where written.
+Displaces light across a surface at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -1245,14 +1245,14 @@ Displaces light across surfaces at touch targeting _(default  where written.
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 31 W |
 
 ---
 
 **ShatterSeal**
-Displaces heat across surfaces at short (10 ft targeting surface.
+Displaces heat across a surface within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -1260,15 +1260,15 @@ Displaces heat across surfaces at short (10 ft targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 16 W |
 
 ---
 
 **BreakPulse**
-Constrains heat in a cone at short (10 ft targeting object.
+Constrains heat in a spreading cone within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -1276,7 +1276,7 @@ Constrains heat in a cone at short (10 ft targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 33 W |
@@ -1284,7 +1284,7 @@ Constrains heat in a cone at short (10 ft targeting object.
 ---
 
 **SurCurse**
-Constrains light across surfaces at _(default  self targeting surface.
+Constrains light across a surface from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -1292,15 +1292,15 @@ Constrains light across surfaces at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 54 W |
 
 ---
 
 **LoudCharm**
-Alters binding in a cone at short (10 ft targeting _(default  where written.
+Alters binding in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1308,15 +1308,15 @@ Alters binding in a cone at short (10 ft targeting _(default  where written.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 100 W |
 
 ---
 
 **GuardVeil**
-Shields against electric in a point at _(default  self targeting object.
+Shields against electric at a single point from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1324,7 +1324,7 @@ Shields against electric in a point at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 52 W |
@@ -1332,7 +1332,7 @@ Shields against electric in a point at _(default  self targeting object.
 ---
 
 **SurCore**
-Shields against force in a point at short (10 ft targeting _(default  where written.
+Shields against force at a single point within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -1340,31 +1340,31 @@ Shields against force in a point at short (10 ft targeting _(default  where writ
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 31 W |
 
 ---
 
 **CalmSight**
-Releases heat in a _(default  plane at touch targeting object.
+Releases heat across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
 **GuardGate**
-Constrains heat in a point at short (10 ft targeting surface.
+Constrains heat at a single point within 10 feet, targeting a surface.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1372,15 +1372,15 @@ Constrains heat in a point at short (10 ft targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
 **HiddenGlyph**
-Constrains electric in a cone at touch targeting _(default  where written.
+Constrains electric in a spreading cone at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1390,21 +1390,21 @@ Constrains electric in a cone at touch targeting _(default  where written.
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 62 W |
 
 ---
 
 **DriftingSigil**
-Releases electric in a _(default  plane at short (10 ft targeting object.
+Releases electric across a surface within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
@@ -1412,23 +1412,23 @@ Releases electric in a _(default  plane at short (10 ft targeting object.
 ---
 
 **SwiftWall**
-Shields against force in a _(default  plane at _(default  self targeting _(default  where written.
+Shields against force across a surface from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 41 W |
 
 ---
 
 **NakedMark**
-Shields against force in a point at touch targeting surface.
+Shields against force at a single point at touch range, targeting a surface.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -1437,14 +1437,14 @@ Shields against force in a point at touch targeting surface.
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 23 W |
 
 ---
 
 **ReleasCalm**
-Shields against light in a cone at short (10 ft targeting surface.
+Shields against light in a spreading cone within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1452,15 +1452,15 @@ Shields against light in a cone at short (10 ft targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 49 W |
 
 ---
 
 **ShatterSilence**
-Releases raw in a point at _(default  self targeting surface.
+Releases raw at a single point from the sigil, targeting a surface.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -1468,15 +1468,15 @@ Releases raw in a point at _(default  self targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 8 W |
 
 ---
 
 **ChillRing**
-Displaces chemical in a point at short (10 ft targeting object.
+Displaces chemical at a single point within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -1484,7 +1484,7 @@ Displaces chemical in a point at short (10 ft targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
@@ -1492,23 +1492,23 @@ Displaces chemical in a point at short (10 ft targeting object.
 ---
 
 **TwistWisp**
-Displaces light in a _(default  plane at touch targeting _(default  where written.
+Displaces light across a surface at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 51 W |
 
 ---
 
 **DriftMark**
-Shields against binding in a point at _(default  self targeting object.
+Shields against binding at a single point from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -1516,15 +1516,15 @@ Shields against binding in a point at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 37 W |
 
 ---
 
 **ClearGate**
-Constrains electric in a cone at short (10 ft targeting _(default  where written.
+Constrains electric in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -1532,15 +1532,15 @@ Constrains electric in a cone at short (10 ft targeting _(default  where written
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 80 W |
 
 ---
 
 **SweepBreath**
-Filters force in a point at touch targeting _(default  where written.
+Filters force at a single point at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -1550,13 +1550,13 @@ Filters force in a point at touch targeting _(default  where written.
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 28 W |
 
 ---
 
 **VastPath**
-Detects binding in a cone at touch targeting _(default  where written.
+Detects binding in a spreading cone at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1565,14 +1565,14 @@ Detects binding in a cone at touch targeting _(default  where written.
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 117 W |
 
 ---
 
 **FlowEye**
-Shields against force in a cone at touch targeting object.
+Shields against force in a spreading cone at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -1581,30 +1581,30 @@ Shields against force in a cone at touch targeting object.
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 45 W |
 
 ---
 
 **TwistLight**
-Detects light in a _(default  plane at short (10 ft targeting object.
+Detects light across a surface within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 41 W |
 
 ---
 
 **SwiftDoor**
-Constrains force across surfaces at _(default  self targeting object.
+Constrains force across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1612,15 +1612,15 @@ Constrains force across surfaces at _(default  self targeting object.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 23 W |
 
 ---
 
 **SlowDoor**
-Alters light across surfaces at _(default  self targeting surface.
+Alters light across a surface from the sigil, targeting a surface.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -1628,15 +1628,15 @@ Alters light across surfaces at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 29 W |
 
 ---
 
 **PierceWay**
-Detects electric in a cone at short (10 ft targeting surface.
+Detects electric in a spreading cone within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1644,15 +1644,15 @@ Detects electric in a cone at short (10 ft targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
 **GuardFrost**
-Filters binding in a point at touch targeting object.
+Filters binding at a single point at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -1661,14 +1661,14 @@ Filters binding in a point at touch targeting object.
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 59 W |
 
 ---
 
 **SurShell**
-Displaces electric in a cone at _(default  self targeting _(default  where written.
+Displaces electric in a spreading cone from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -1676,15 +1676,15 @@ Displaces electric in a cone at _(default  self targeting _(default  where writt
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 50 W |
 
 ---
 
 **LoudPulse**
-Filters force in a point at touch targeting _(default  where written.
+Filters force at a single point at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1694,13 +1694,13 @@ Filters force in a point at touch targeting _(default  where written.
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 18 W |
 
 ---
 
 **CaptureFrost**
-Shields against raw in a point at short (10 ft targeting surface.
+Shields against raw at a single point within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1708,15 +1708,15 @@ Shields against raw in a point at short (10 ft targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 43 W |
 
 ---
 
 **PierceTide**
-Detects binding in a point at touch targeting object.
+Detects binding at a single point at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -1725,14 +1725,14 @@ Detects binding in a point at touch targeting object.
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 39 W |
 
 ---
 
 **SlowBond**
-Constrains electric in a point at _(default  self targeting object.
+Constrains electric at a single point from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1740,7 +1740,7 @@ Constrains electric in a point at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 52 W |
@@ -1748,7 +1748,7 @@ Constrains electric in a point at _(default  self targeting object.
 ---
 
 **FreezGate**
-Detects heat in a point at _(default  self targeting surface.
+Detects heat at a single point from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1756,15 +1756,15 @@ Detects heat in a point at _(default  self targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
 **TaintedHalo**
-Constrains force in a cone at _(default  self targeting object.
+Constrains force in a spreading cone from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -1772,15 +1772,15 @@ Constrains force in a cone at _(default  self targeting object.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 53 W |
 
 ---
 
 **FallBoon**
-Detects electric in a point at short (10 ft targeting object.
+Detects electric at a single point within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -1788,31 +1788,31 @@ Detects electric in a point at short (10 ft targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 27 W |
 
 ---
 
 **SurMark**
-Alters heat in a _(default  plane at _(default  self targeting _(default  where written.
+Alters heat across a surface from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 16 W |
 
 ---
 
 **TaintedCurse**
-Detects electric across surfaces at _(default  self targeting object.
+Detects electric across a surface from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1820,7 +1820,7 @@ Detects electric across surfaces at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 52 W |
@@ -1828,7 +1828,7 @@ Detects electric across surfaces at _(default  self targeting object.
 ---
 
 **HeavyShell**
-Shields against raw in a cone at _(default  self targeting object.
+Shields against raw in a spreading cone from the sigil, targeting an object.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -1836,15 +1836,15 @@ Shields against raw in a cone at _(default  self targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **BreakSoul**
-Displaces heat in a cone at short (10 ft targeting object.
+Displaces heat in a spreading cone within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -1852,7 +1852,7 @@ Displaces heat in a cone at short (10 ft targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 43 W |
@@ -1860,7 +1860,7 @@ Displaces heat in a cone at short (10 ft targeting object.
 ---
 
 **ReleasBoon**
-Alters raw across surfaces at short (10 ft targeting object.
+Alters raw across a surface within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1868,15 +1868,15 @@ Alters raw across surfaces at short (10 ft targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 20 W |
 
 ---
 
 **HeavyWard**
-Detects raw in a cone at touch targeting object.
+Detects raw in a spreading cone at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1885,30 +1885,30 @@ Detects raw in a cone at touch targeting object.
 | Output | Raw |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
 **CaptureMark**
-Detects chemical in a _(default  plane at short (10 ft targeting surface.
+Detects chemical across a surface within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 75 W |
 
 ---
 
 **ChillDance**
-Detects binding in a cone at touch targeting object.
+Detects binding in a spreading cone at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -1917,14 +1917,14 @@ Detects binding in a cone at touch targeting object.
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 69 W |
 
 ---
 
 **FallVeil**
-Shields against raw in a point at short (10 ft targeting object.
+Shields against raw at a single point within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -1932,15 +1932,15 @@ Shields against raw in a point at short (10 ft targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **CalmVeil**
-Shields against heat in a point at touch targeting _(default  where written.
+Shields against heat at a single point at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -1950,13 +1950,13 @@ Shields against heat in a point at touch targeting _(default  where written.
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 18 W |
 
 ---
 
 **FlowLight**
-Releases raw in a cone at touch targeting object.
+Releases raw in a spreading cone at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -1965,14 +1965,14 @@ Releases raw in a cone at touch targeting object.
 | Output | Raw |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 42 W |
 
 ---
 
 **SurTouch**
-Alters chemical in a point at short (10 ft targeting _(default  where written.
+Alters chemical at a single point within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -1980,15 +1980,15 @@ Alters chemical in a point at short (10 ft targeting _(default  where written.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 20 W |
 
 ---
 
 **MurkyGlyph**
-Detects force across surfaces at _(default  self targeting object.
+Detects force across a surface from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1996,7 +1996,7 @@ Detects force across surfaces at _(default  self targeting object.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 28 W |
@@ -2004,7 +2004,7 @@ Detects force across surfaces at _(default  self targeting object.
 ---
 
 **NakedShroud**
-Alters force in a cone at _(default  self targeting surface.
+Alters force in a spreading cone from the sigil, targeting a surface.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -2012,15 +2012,15 @@ Alters force in a cone at _(default  self targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 21 W |
 
 ---
 
 **BindHalo**
-Displaces electric in a point at touch targeting surface.
+Displaces electric at a single point at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -2029,14 +2029,14 @@ Displaces electric in a point at touch targeting surface.
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 72 W |
 
 ---
 
 **VividFrost**
-Alters binding in a cone at short (10 ft targeting surface.
+Alters binding in a spreading cone within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -2044,22 +2044,22 @@ Alters binding in a cone at short (10 ft targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
 **GuardPulse**
-Detects heat in a _(default  plane at touch targeting object.
+Detects heat across a surface at touch range, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
@@ -2068,23 +2068,23 @@ Detects heat in a _(default  plane at touch targeting object.
 ---
 
 **TransformTide**
-Displaces light in a _(default  plane at _(default  self targeting _(default  where written.
+Displaces light across a surface from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 34 W |
 
 ---
 
 **PiercVeil**
-Detects force in a point at _(default  self targeting surface.
+Detects force at a single point from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2092,7 +2092,7 @@ Detects force in a point at _(default  self targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 31 W |
@@ -2100,23 +2100,23 @@ Detects force in a point at _(default  self targeting surface.
 ---
 
 **BurHand**
-Filters electric in a _(default  plane at short (10 ft targeting object.
+Filters electric across a surface within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
 **KindleMark**
-Constrains raw across surfaces at touch targeting object.
+Constrains raw across a surface at touch range, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -2132,23 +2132,23 @@ Constrains raw across surfaces at touch targeting object.
 ---
 
 **KindlHeart**
-Shields against electric in a _(default  plane at touch targeting object.
+Shields against electric across a surface at touch range, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 69 W |
 
 ---
 
 **PaleGate**
-Alters light in a point at touch targeting surface.
+Alters light at a single point at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -2164,23 +2164,23 @@ Alters light in a point at touch targeting surface.
 ---
 
 **TwistFlame**
-Displaces light in a _(default  plane at touch targeting surface.
+Displaces light across a surface at touch range, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 36 W |
 
 ---
 
 **CalmScar**
-Alters raw in a point at short (10 ft targeting surface.
+Alters raw at a single point within 10 feet, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -2188,7 +2188,7 @@ Alters raw in a point at short (10 ft targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 23 W |
@@ -2196,7 +2196,7 @@ Alters raw in a point at short (10 ft targeting surface.
 ---
 
 **CalmTouch**
-Releases chemical in a point at touch targeting object.
+Releases chemical at a single point at touch range, targeting an object.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -2205,14 +2205,14 @@ Releases chemical in a point at touch targeting object.
 | Output | Reactive |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 19 W |
 
 ---
 
 **TwistScar**
-Releases chemical across surfaces at _(default  self targeting object.
+Releases chemical across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -2220,15 +2220,15 @@ Releases chemical across surfaces at _(default  self targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
 **FlowVeil**
-Constrains light across surfaces at touch targeting object.
+Constrains light across a surface at touch range, targeting an object.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -2237,14 +2237,14 @@ Constrains light across surfaces at touch targeting object.
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 13 W |
 
 ---
 
 **WeakAura**
-Filters raw in a point at _(default  self targeting surface.
+Filters raw at a single point from the sigil, targeting a surface.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -2252,15 +2252,15 @@ Filters raw in a point at _(default  self targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 8 W |
 
 ---
 
 **SolidMirror**
-Detects light across surfaces at _(default  self targeting _(default  where written.
+Detects light across a surface from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -2268,31 +2268,31 @@ Detects light across surfaces at _(default  self targeting _(default  where writ
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 34 W |
 
 ---
 
 **FiercePulse**
-Detects light in a _(default  plane at short (10 ft targeting object.
+Detects light across a surface within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 36 W |
 
 ---
 
 **ReleasStorm**
-Releases light across surfaces at touch targeting _(default  where written.
+Releases light across a surface at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2301,46 +2301,46 @@ Releases light across surfaces at touch targeting _(default  where written.
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 51 W |
 
 ---
 
 **DullWall**
-Shields against light in a _(default  plane at touch targeting _(default  where written.
+Shields against light across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 21 W |
 
 ---
 
 **TwinKnot**
-Detects electric in a _(default  plane at _(default  self targeting surface.
+Detects electric across a surface from the sigil, targeting a surface.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 20 W |
 
 ---
 
 **KindlCrown**
-Alters force across surfaces at short (10 ft targeting surface.
+Alters force across a surface within 10 feet, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -2348,7 +2348,7 @@ Alters force across surfaces at short (10 ft targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 36 W |
@@ -2356,7 +2356,7 @@ Alters force across surfaces at short (10 ft targeting surface.
 ---
 
 **DeepCurse**
-Shields against heat across surfaces at short (10 ft targeting _(default  where written.
+Shields against heat across a surface within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -2364,31 +2364,31 @@ Shields against heat across surfaces at short (10 ft targeting _(default  where 
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **SolidBoon**
-Displaces raw in a _(default  plane at touch targeting surface.
+Displaces raw across a surface at touch range, targeting a surface.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T0 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 10 W |
 
 ---
 
 **CalmThought**
-Detects force in a cone at touch targeting _(default  where written.
+Detects force in a spreading cone at touch range, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -2397,14 +2397,14 @@ Detects force in a cone at touch targeting _(default  where written.
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 18 W |
 
 ---
 
 **SweepTide**
-Detects force in a point at touch targeting object.
+Detects force at a single point at touch range, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2413,14 +2413,14 @@ Detects force in a point at touch targeting object.
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
 **DeepBridge**
-Shields against electric in a cone at short (10 ft targeting surface.
+Shields against electric in a spreading cone within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -2428,31 +2428,31 @@ Shields against electric in a cone at short (10 ft targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
 **AnchorWay**
-Detects raw in a _(default  plane at short (10 ft targeting surface.
+Detects raw across a surface within 10 feet, targeting a surface.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
 **RiseWay**
-Displaces light in a cone at _(default  self targeting _(default  where written.
+Displaces light in a spreading cone from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -2460,15 +2460,15 @@ Displaces light in a cone at _(default  self targeting _(default  where written.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 24 W |
 
 ---
 
 **QuietKnot**
-Alters chemical across surfaces at touch targeting _(default  where written.
+Alters chemical across a surface at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -2477,46 +2477,46 @@ Alters chemical across surfaces at touch targeting _(default  where written.
 | Output | Reactive |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 42 W |
 
 ---
 
 **ReleasShroud**
-Alters heat in a _(default  plane at _(default  self targeting surface.
+Alters heat across a surface from the sigil, targeting a surface.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 11 W |
 
 ---
 
 **FreezHeart**
-Detects light in a _(default  plane at short (10 ft targeting surface.
+Detects light across a surface within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 19 W |
 
 ---
 
 **SurBreath**
-Detects chemical in a point at short (10 ft targeting _(default  where written.
+Detects chemical at a single point within 10 feet, centered on the inscribed location.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2524,15 +2524,15 @@ Detects chemical in a point at short (10 ft targeting _(default  where written.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 45 W |
 
 ---
 
 **WarmRing**
-Filters chemical in a point at short (10 ft targeting surface.
+Filters chemical at a single point within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -2540,15 +2540,15 @@ Filters chemical in a point at short (10 ft targeting surface.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 55 W |
 
 ---
 
 **TwistVoice**
-Constrains binding across surfaces at _(default  self targeting _(default  where written.
+Constrains binding across a surface from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -2556,15 +2556,15 @@ Constrains binding across surfaces at _(default  self targeting _(default  where
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 85 W |
 
 ---
 
 **SteadyEye**
-Filters force in a cone at touch targeting object.
+Filters force in a spreading cone at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -2573,14 +2573,14 @@ Filters force in a cone at touch targeting object.
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
 **SlowWeb**
-Filters force across surfaces at short (10 ft targeting surface.
+Filters force across a surface within 10 feet, targeting a surface.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -2588,31 +2588,31 @@ Filters force across surfaces at short (10 ft targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
 **TransformCharm**
-Displaces heat in a _(default  plane at touch targeting object.
+Displaces heat across a surface at touch range, targeting an object.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T0 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 10 W |
 
 ---
 
 **FlowBond**
-Alters binding in a cone at touch targeting object.
+Alters binding in a spreading cone at touch range, targeting an object.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -2621,14 +2621,14 @@ Alters binding in a cone at touch targeting object.
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 94 W |
 
 ---
 
 **PiercSilence**
-Detects heat across surfaces at touch targeting object.
+Detects heat across a surface at touch range, targeting an object.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -2637,14 +2637,14 @@ Detects heat across surfaces at touch targeting object.
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 10 W |
 
 ---
 
 **TwistBond**
-Alters heat in a point at _(default  self targeting _(default  where written.
+Alters heat at a single point from the sigil, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -2652,15 +2652,15 @@ Alters heat in a point at _(default  self targeting _(default  where written.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **FragileCurse**
-Alters force across surfaces at touch targeting object.
+Alters force across a surface at touch range, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -2669,14 +2669,14 @@ Alters force across surfaces at touch targeting object.
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 45 W |
 
 ---
 
 **TransformDance**
-Shields against raw in a cone at _(default  self targeting _(default  where written.
+Shields against raw in a spreading cone from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -2684,15 +2684,15 @@ Shields against raw in a cone at _(default  self targeting _(default  where writ
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 18 W |
 
 ---
 
 **ShatterLight**
-Displaces raw in a point at short (10 ft targeting _(default  where written.
+Displaces raw at a single point within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -2700,15 +2700,15 @@ Displaces raw in a point at short (10 ft targeting _(default  where written.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 8 W |
 
 ---
 
 **SolidFrost**
-Shields against heat in a point at _(default  self targeting _(default  where written.
+Shields against heat at a single point from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -2716,15 +2716,15 @@ Shields against heat in a point at _(default  self targeting _(default  where wr
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 41 W |
 
 ---
 
 **FierceThread**
-Filters raw in a point at touch targeting surface.
+Filters raw at a single point at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -2733,14 +2733,14 @@ Filters raw in a point at touch targeting surface.
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 40 W |
 
 ---
 
 **WeavEcho**
-Detects chemical across surfaces at _(default  self targeting surface.
+Detects chemical across a surface from the sigil, targeting a surface.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -2748,15 +2748,15 @@ Detects chemical across surfaces at _(default  self targeting surface.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 45 W |
 
 ---
 
 **WildKey**
-Filters force in a point at _(default  self targeting _(default  where written.
+Filters force at a single point from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -2764,15 +2764,15 @@ Filters force in a point at _(default  self targeting _(default  where written.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 16 W |
 
 ---
 
 **ShatterFlame**
-Displaces heat in a point at _(default  self targeting object.
+Displaces heat at a single point from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -2780,15 +2780,15 @@ Displaces heat in a point at _(default  self targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 43 W |
 
 ---
 
 **ReleaseBreath**
-Filters electric in a point at short (10 ft targeting surface.
+Filters electric at a single point within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -2796,31 +2796,31 @@ Filters electric in a point at short (10 ft targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
 **ShatterNet**
-Shields against force in a _(default  plane at touch targeting _(default  where written.
+Shields against force across a surface at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 23 W |
 
 ---
 
 **TaintedPulse**
-Alters raw across surfaces at _(default  self targeting object.
+Alters raw across a surface from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -2828,31 +2828,31 @@ Alters raw across surfaces at _(default  self targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
 **PiercBridge**
-Shields against heat in a _(default  plane at _(default  self targeting object.
+Shields against heat across a surface from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
 **CurvedWard**
-Alters light in a cone at _(default  self targeting _(default  where written.
+Alters light in a spreading cone from the sigil, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -2860,15 +2860,15 @@ Alters light in a cone at _(default  self targeting _(default  where written.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 19 W |
 
 ---
 
 **RisNet**
-Filters binding across surfaces at _(default  self targeting _(default  where written.
+Filters binding across a surface from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -2876,15 +2876,15 @@ Filters binding across surfaces at _(default  self targeting _(default  where wr
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 80 W |
 
 ---
 
 **TransformBreath**
-Shields against heat across surfaces at _(default  self targeting object.
+Shields against heat across a surface from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -2892,47 +2892,47 @@ Shields against heat across surfaces at _(default  self targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
 **CalmPath**
-Constrains electric in a _(default  plane at touch targeting _(default  where written.
+Constrains electric across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 27 W |
 
 ---
 
 **DissolveLight**
-Alters binding in a _(default  plane at _(default  self targeting surface.
+Alters binding across a surface from the sigil, targeting a surface.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 85 W |
 
 ---
 
 **HeavyCalm**
-Displaces raw in a cone at _(default  self targeting object.
+Displaces raw in a spreading cone from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -2940,15 +2940,15 @@ Displaces raw in a cone at _(default  self targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 40 W |
 
 ---
 
 **RestlessRoot**
-Releases heat across surfaces at short (10 ft targeting _(default  where written.
+Releases heat across a surface within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -2956,15 +2956,15 @@ Releases heat across surfaces at short (10 ft targeting _(default  where written
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 11 W |
 
 ---
 
 **RisCurse**
-Detects raw across surfaces at short (10 ft targeting object.
+Detects raw across a surface within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -2972,47 +2972,47 @@ Detects raw across surfaces at short (10 ft targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 40 W |
 
 ---
 
 **GuardStorm**
-Shields against binding in a _(default  plane at short (10 ft targeting surface.
+Shields against binding across a surface within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 65 W |
 
 ---
 
 **ColdEcho**
-Filters raw in a _(default  plane at _(default  self targeting object.
+Filters raw across a surface from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 30 W |
 
 ---
 
 **SurRoot**
-Detects light in a point at _(default  self targeting _(default  where written.
+Detects light at a single point from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3020,31 +3020,31 @@ Detects light in a point at _(default  self targeting _(default  where written.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 29 W |
 
 ---
 
 **SweepAura**
-Constrains heat in a _(default  plane at _(default  self targeting object.
+Constrains heat across a surface from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
 **DissolveMark**
-Detects chemical across surfaces at _(default  self targeting object.
+Detects chemical across a surface from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3052,15 +3052,15 @@ Detects chemical across surfaces at _(default  self targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 42 W |
 
 ---
 
 **FlowShadow**
-Alters chemical in a cone at touch targeting _(default  where written.
+Alters chemical in a spreading cone at touch range, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -3069,14 +3069,14 @@ Alters chemical in a cone at touch targeting _(default  where written.
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 27 W |
 
 ---
 
 **RisMirror**
-Displaces chemical in a cone at short (10 ft targeting object.
+Displaces chemical in a spreading cone within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -3084,15 +3084,15 @@ Displaces chemical in a cone at short (10 ft targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 57 W |
 
 ---
 
 **PiercCore**
-Filters force in a point at _(default  self targeting surface.
+Filters force at a single point from the sigil, targeting a surface.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -3100,31 +3100,31 @@ Filters force in a point at _(default  self targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 21 W |
 
 ---
 
 **LoudKnot**
-Filters force in a _(default  plane at touch targeting surface.
+Filters force across a surface at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 38 W |
 
 ---
 
 **FreezShroud**
-Shields against light in a point at short (10 ft targeting _(default  where written.
+Shields against light at a single point within 10 feet, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -3132,31 +3132,31 @@ Shields against light in a point at short (10 ft targeting _(default  where writ
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 54 W |
 
 ---
 
 **DissolvShell**
-Displaces raw in a _(default  plane at touch targeting object.
+Displaces raw across a surface at touch range, targeting an object.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 12 W |
 
 ---
 
 **FallBridge**
-Constrains light in a point at short (10 ft targeting object.
+Constrains light at a single point within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3164,15 +3164,15 @@ Constrains light in a point at short (10 ft targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 56 W |
 
 ---
 
 **SurgeScar**
-Detects force in a point at touch targeting surface.
+Detects force at a single point at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -3188,7 +3188,7 @@ Detects force in a point at touch targeting surface.
 ---
 
 **AnchoredVoid**
-Displaces chemical in a cone at _(default  self targeting _(default  where written.
+Displaces chemical in a spreading cone from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -3196,31 +3196,31 @@ Displaces chemical in a cone at _(default  self targeting _(default  where writt
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 30 W |
 
 ---
 
 **FreezChain**
-Releases light in a _(default  plane at short (10 ft targeting _(default  where written.
+Releases light across a surface within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 24 W |
 
 ---
 
 **SweepMirror**
-Alters chemical across surfaces at touch targeting surface.
+Alters chemical across a surface at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3229,14 +3229,14 @@ Alters chemical across surfaces at touch targeting surface.
 | Output | Reactive |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 72 W |
 
 ---
 
 **SurgeLight**
-Detects chemical in a cone at touch targeting object.
+Detects chemical in a spreading cone at touch range, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3245,14 +3245,14 @@ Detects chemical in a cone at touch targeting object.
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 79 W |
 
 ---
 
 **HardyBond**
-Shields against light in a point at _(default  self targeting object.
+Shields against light at a single point from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
@@ -3260,15 +3260,15 @@ Shields against light in a point at _(default  self targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 16 W |
 
 ---
 
 **RisPulse**
-Filters heat across surfaces at _(default  self targeting object.
+Filters heat across a surface from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -3276,7 +3276,7 @@ Filters heat across surfaces at _(default  self targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 28 W |
@@ -3284,55 +3284,55 @@ Filters heat across surfaces at _(default  self targeting object.
 ---
 
 **ShallowKnot**
-Displaces raw in a _(default  plane at _(default  self targeting object.
+Displaces raw across a surface from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
 **GuardBlessing**
-Filters force in a _(default  plane at touch targeting _(default  where written.
+Filters force across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 28 W |
 
 ---
 
 **RiseShadow**
-Displaces light in a _(default  plane at touch targeting object.
+Displaces light across a surface at touch range, targeting an object.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 28 W |
 
 ---
 
 **WhirlingTouch**
-Constrains chemical across surfaces at short (10 ft targeting object.
+Constrains chemical across a surface within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -3340,7 +3340,7 @@ Constrains chemical across surfaces at short (10 ft targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
@@ -3348,7 +3348,7 @@ Constrains chemical across surfaces at short (10 ft targeting object.
 ---
 
 **FallKnot**
-Releases heat across surfaces at _(default  self targeting object.
+Releases heat across a surface from the sigil, targeting an object.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -3356,15 +3356,15 @@ Releases heat across surfaces at _(default  self targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 8 W |
 
 ---
 
 **QuietTouch**
-Constrains chemical in a cone at short (10 ft targeting _(default  where written.
+Constrains chemical in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3372,15 +3372,15 @@ Constrains chemical in a cone at short (10 ft targeting _(default  where written
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 80 W |
 
 ---
 
 **SolidRing**
-Displaces light across surfaces at touch targeting surface.
+Displaces light across a surface at touch range, targeting a surface.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -3389,14 +3389,14 @@ Displaces light across surfaces at touch targeting surface.
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 16 W |
 
 ---
 
 **BindWeb**
-Shields against binding across surfaces at _(default  self targeting object.
+Shields against binding across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -3404,15 +3404,15 @@ Shields against binding across surfaces at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 87 W |
 
 ---
 
 **TransformGlyph**
-Alters binding in a point at short (10 ft targeting object.
+Alters binding at a single point within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3420,7 +3420,7 @@ Alters binding in a point at short (10 ft targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 97 W |
@@ -3428,7 +3428,7 @@ Alters binding in a point at short (10 ft targeting object.
 ---
 
 **SurgeSight**
-Alters heat in a point at short (10 ft targeting surface.
+Alters heat at a single point within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -3436,15 +3436,15 @@ Alters heat in a point at short (10 ft targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 31 W |
 
 ---
 
 **BindThread**
-Filters electric in a cone at touch targeting object.
+Filters electric in a spreading cone at touch range, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -3460,7 +3460,7 @@ Filters electric in a cone at touch targeting object.
 ---
 
 **SolidVeil**
-Alters force across surfaces at touch targeting object.
+Alters force across a surface at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -3469,30 +3469,30 @@ Alters force across surfaces at touch targeting object.
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
 **GuardMirror**
-Shields against chemical in a _(default  plane at touch targeting object.
+Shields against chemical across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 24 W |
 
 ---
 
 **BurCage**
-Shields against binding across surfaces at short (10 ft targeting object.
+Shields against binding across a surface within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -3500,15 +3500,15 @@ Shields against binding across surfaces at short (10 ft targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 92 W |
 
 ---
 
 **FierceHalo**
-Detects electric in a point at _(default  self targeting surface.
+Detects electric at a single point from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3516,7 +3516,7 @@ Detects electric in a point at _(default  self targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 55 W |
@@ -3524,23 +3524,23 @@ Detects electric in a point at _(default  self targeting surface.
 ---
 
 **KindleRoad**
-Shields against chemical in a _(default  plane at _(default  self targeting _(default  where written.
+Shields against chemical across a surface from the sigil, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 15 W |
 
 ---
 
 **KindleDream**
-Releases light across surfaces at touch targeting _(default  where written.
+Releases light across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -3550,13 +3550,13 @@ Releases light across surfaces at touch targeting _(default  where written.
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 36 W |
 
 ---
 
 **CaptureLight**
-Shields against heat across surfaces at _(default  self targeting _(default  where written.
+Shields against heat across a surface from the sigil, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -3564,23 +3564,23 @@ Shields against heat across surfaces at _(default  self targeting _(default  whe
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **BreakMark**
-Releases chemical in a _(default  plane at _(default  self targeting surface.
+Releases chemical across a surface from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
+| Pattern | Plane |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 30 W |
@@ -3588,7 +3588,7 @@ Releases chemical in a _(default  plane at _(default  self targeting surface.
 ---
 
 **RiseDream**
-Alters electric across surfaces at _(default  self targeting surface.
+Alters electric across a surface from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -3596,15 +3596,15 @@ Alters electric across surfaces at _(default  self targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 45 W |
 
 ---
 
 **PureCore**
-Alters binding across surfaces at _(default  self targeting surface.
+Alters binding across a surface from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -3612,23 +3612,23 @@ Alters binding across surfaces at _(default  self targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 40 W |
 
 ---
 
 **SwiftBreath**
-Detects raw in a _(default  plane at _(default  self targeting surface.
+Detects raw across a surface from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
+| Pattern | Plane |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 18 W |
@@ -3636,7 +3636,7 @@ Detects raw in a _(default  plane at _(default  self targeting surface.
 ---
 
 **BreakHand**
-Constrains electric in a cone at touch targeting _(default  where written.
+Constrains electric in a spreading cone at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -3645,14 +3645,14 @@ Constrains electric in a cone at touch targeting _(default  where written.
 | Output | Shock |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 57 W |
 
 ---
 
 **VastBoon**
-Displaces raw in a point at touch targeting _(default  where written.
+Displaces raw at a single point at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -3661,14 +3661,14 @@ Displaces raw in a point at touch targeting _(default  where written.
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 10 W |
 
 ---
 
 **ShatterVoid**
-Displaces electric across surfaces at touch targeting _(default  where written.
+Displaces electric across a surface at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -3677,14 +3677,14 @@ Displaces electric across surfaces at touch targeting _(default  where written.
 | Output | Shock |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 42 W |
 
 ---
 
 **BindBreath**
-Releases light in a cone at short (10 ft targeting object.
+Releases light in a spreading cone within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -3692,7 +3692,7 @@ Releases light in a cone at short (10 ft targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 36 W |
@@ -3700,23 +3700,23 @@ Releases light in a cone at short (10 ft targeting object.
 ---
 
 **BindStorm**
-Constrains chemical in a _(default  plane at _(default  self targeting surface.
+Constrains chemical across a surface from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 70 W |
 
 ---
 
 **DriftRune**
-Detects electric in a point at _(default  self targeting object.
+Detects electric at a single point from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -3724,47 +3724,47 @@ Detects electric in a point at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 42 W |
 
 ---
 
 **BreakShadow**
-Releases raw in a _(default  plane at _(default  self targeting object.
+Releases raw across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **FreezePulse**
-Displaces force in a _(default  plane at touch targeting surface.
+Displaces force across a surface at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 48 W |
 
 ---
 
 **FlowRoad**
-Alters light in a point at touch targeting object.
+Alters light at a single point at touch range, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -3780,23 +3780,23 @@ Alters light in a point at touch targeting object.
 ---
 
 **SweepSight**
-Releases force in a _(default  plane at touch targeting object.
+Releases force across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **ShatterFrost**
-Displaces electric in a point at touch targeting _(default  where written.
+Displaces electric at a single point at touch range, centered on the inscribed location.
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -3805,62 +3805,62 @@ Displaces electric in a point at touch targeting _(default  where written.
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 42 W |
 
 ---
 
 **BindHand**
-Alters binding in a _(default  plane at short (10 ft targeting _(default  where written.
+Alters binding across a surface within 10 feet, centered on the inscribed location.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 85 W |
 
 ---
 
 **DriftingBond**
-Shields against raw in a _(default  plane at short (10 ft targeting _(default  where written.
+Shields against raw across a surface within 10 feet, centered on the inscribed location.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 13 W |
 
 ---
 
 **StraightBond**
-Filters binding in a _(default  plane at _(default  self targeting _(default  where written.
+Filters binding across a surface from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 85 W |
 
 ---
 
 **BurnDream**
-Detects binding in a point at _(default  self targeting object.
+Detects binding at a single point from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -3868,7 +3868,7 @@ Detects binding in a point at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 42 W |
@@ -3876,7 +3876,7 @@ Detects binding in a point at _(default  self targeting object.
 ---
 
 **CurvedRing**
-Shields against binding across surfaces at _(default  self targeting object.
+Shields against binding across a surface from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -3884,7 +3884,7 @@ Shields against binding across surfaces at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 92 W |
@@ -3892,23 +3892,23 @@ Shields against binding across surfaces at _(default  self targeting object.
 ---
 
 **ReleaseSight**
-Displaces force in a _(default  plane at touch targeting _(default  where written.
+Displaces force across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 28 W |
 
 ---
 
 **HeavyVeil**
-Constrains chemical across surfaces at _(default  self targeting surface.
+Constrains chemical across a surface from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -3916,7 +3916,7 @@ Constrains chemical across surfaces at _(default  self targeting surface.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 55 W |
@@ -3924,7 +3924,7 @@ Constrains chemical across surfaces at _(default  self targeting surface.
 ---
 
 **TwinThread**
-Alters force in a point at touch targeting surface.
+Alters force at a single point at touch range, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -3933,14 +3933,14 @@ Alters force in a point at touch targeting surface.
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
 **CalmStorm**
-Constrains heat across surfaces at _(default  self targeting surface.
+Constrains heat across a surface from the sigil, targeting a surface.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -3948,15 +3948,15 @@ Constrains heat across surfaces at _(default  self targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 21 W |
 
 ---
 
 **WildFrost**
-Displaces chemical in a cone at _(default  self targeting object.
+Displaces chemical in a spreading cone from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -3964,15 +3964,15 @@ Displaces chemical in a cone at _(default  self targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 77 W |
 
 ---
 
 **TransformBrand**
-Shields against electric in a point at touch targeting _(default  where written.
+Shields against electric at a single point at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -3982,29 +3982,29 @@ Shields against electric in a point at touch targeting _(default  where written.
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 27 W |
 
 ---
 
 **DullPulse**
-Detects chemical in a _(default  plane at short (10 ft targeting _(default  where written.
+Detects chemical across a surface within 10 feet, centered on the inscribed location.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 45 W |
 
 ---
 
 **PiercHand**
-Filters raw in a point at _(default  self targeting _(default  where written.
+Filters raw at a single point from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -4012,15 +4012,15 @@ Filters raw in a point at _(default  self targeting _(default  where written.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 33 W |
 
 ---
 
 **AnchorBreath**
-Detects chemical in a cone at touch targeting object.
+Detects chemical in a spreading cone at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -4029,14 +4029,14 @@ Detects chemical in a cone at touch targeting object.
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 34 W |
 
 ---
 
 **CapturPath**
-Filters binding in a cone at _(default  self targeting _(default  where written.
+Filters binding in a spreading cone from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4044,15 +4044,15 @@ Filters binding in a cone at _(default  self targeting _(default  where written.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 90 W |
 
 ---
 
 **VastWeb**
-Filters chemical in a point at short (10 ft targeting _(default  where written.
+Filters chemical at a single point within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4060,23 +4060,23 @@ Filters chemical in a point at short (10 ft targeting _(default  where written.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 55 W |
 
 ---
 
 **BrightRing**
-Releases force in a _(default  plane at _(default  self targeting object.
+Releases force across a surface from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
+| Pattern | Plane |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 28 W |
@@ -4084,7 +4084,7 @@ Releases force in a _(default  plane at _(default  self targeting object.
 ---
 
 **LightNet**
-Releases binding in a cone at touch targeting object.
+Releases binding in a spreading cone at touch range, targeting an object.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4093,30 +4093,30 @@ Releases binding in a cone at touch targeting object.
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 44 W |
 
 ---
 
 **FreezeFlame**
-Shields against raw in a _(default  plane at touch targeting surface.
+Shields against raw across a surface at touch range, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 15 W |
 
 ---
 
 **TwistWay**
-Shields against light in a point at touch targeting _(default  where written.
+Shields against light at a single point at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -4125,14 +4125,14 @@ Shields against light in a point at touch targeting _(default  where written.
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 51 W |
 
 ---
 
 **TameThread**
-Releases raw across surfaces at _(default  self targeting object.
+Releases raw across a surface from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -4140,15 +4140,15 @@ Releases raw across surfaces at _(default  self targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 10 W |
 
 ---
 
 **FallCore**
-Releases chemical across surfaces at short (10 ft targeting surface.
+Releases chemical across a surface within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4156,15 +4156,15 @@ Releases chemical across surfaces at short (10 ft targeting surface.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
 **VastBond**
-Constrains raw across surfaces at touch targeting surface.
+Constrains raw across a surface at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -4173,14 +4173,14 @@ Constrains raw across surfaces at touch targeting surface.
 | Output | Raw |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
 **HeavySeal**
-Displaces heat in a cone at short (10 ft targeting _(default  where written.
+Displaces heat in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -4188,15 +4188,15 @@ Displaces heat in a cone at short (10 ft targeting _(default  where written.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **RiseTide**
-Displaces chemical in a cone at short (10 ft targeting object.
+Displaces chemical in a spreading cone within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -4204,15 +4204,15 @@ Displaces chemical in a cone at short (10 ft targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 57 W |
 
 ---
 
 **TwistBreath**
-Detects light in a point at touch targeting _(default  where written.
+Detects light at a single point at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -4221,14 +4221,14 @@ Detects light in a point at touch targeting _(default  where written.
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 51 W |
 
 ---
 
 **RisEcho**
-Releases light in a cone at touch targeting _(default  where written.
+Releases light in a spreading cone at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -4238,29 +4238,29 @@ Releases light in a cone at touch targeting _(default  where written.
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 31 W |
 
 ---
 
 **NakedEcho**
-Shields against binding in a _(default  plane at touch targeting _(default  where written.
+Shields against binding across a surface at touch range, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 32 W |
 
 ---
 
 **BurBreath**
-Shields against raw in a point at touch targeting object.
+Shields against raw at a single point at touch range, targeting an object.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -4269,14 +4269,14 @@ Shields against raw in a point at touch targeting object.
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 12 W |
 
 ---
 
 **ReleaseStrike**
-Releases binding in a point at touch targeting _(default  where written.
+Releases binding at a single point at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -4285,14 +4285,14 @@ Releases binding in a point at touch targeting _(default  where written.
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 87 W |
 
 ---
 
 **PalePulse**
-Filters raw across surfaces at _(default  self targeting surface.
+Filters raw across a surface from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -4300,31 +4300,31 @@ Filters raw across surfaces at _(default  self targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 13 W |
 
 ---
 
 **ReleasRing**
-Releases heat in a _(default  plane at _(default  self targeting object.
+Releases heat across a surface from the sigil, targeting an object.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
 | Control Tier | T0 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 8 W |
 
 ---
 
 **ReleaseSong**
-Releases raw in a point at short (10 ft targeting surface.
+Releases raw at a single point within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -4332,15 +4332,15 @@ Releases raw in a point at short (10 ft targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
 **PiercRing**
-Filters binding in a cone at touch targeting object.
+Filters binding in a spreading cone at touch range, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -4356,7 +4356,7 @@ Filters binding in a cone at touch targeting object.
 ---
 
 **WarmNet**
-Constrains electric in a point at _(default  self targeting object.
+Constrains electric at a single point from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -4364,7 +4364,7 @@ Constrains electric in a point at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 52 W |
@@ -4372,7 +4372,7 @@ Constrains electric in a point at _(default  self targeting object.
 ---
 
 **SweepSoul**
-Filters electric in a point at touch targeting object.
+Filters electric at a single point at touch range, targeting an object.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4381,46 +4381,46 @@ Filters electric in a point at touch targeting object.
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 44 W |
 
 ---
 
 **QuietAura**
-Shields against heat in a _(default  plane at short (10 ft targeting _(default  where written.
+Shields against heat across a surface within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **HiddenCharm**
-Constrains light in a _(default  plane at short (10 ft targeting object.
+Constrains light across a surface within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 21 W |
 
 ---
 
 **ColdShell**
-Filters light in a cone at touch targeting surface.
+Filters light in a spreading cone at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -4429,14 +4429,14 @@ Filters light in a cone at touch targeting surface.
 | Output | Photonic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 66 W |
 
 ---
 
 **TaintedAura**
-Alters raw across surfaces at _(default  self targeting object.
+Alters raw across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -4444,15 +4444,15 @@ Alters raw across surfaces at _(default  self targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 10 W |
 
 ---
 
 **CurvedCrown**
-Detects light across surfaces at short (10 ft targeting _(default  where written.
+Detects light across a surface within 10 feet, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -4460,15 +4460,15 @@ Detects light across surfaces at short (10 ft targeting _(default  where written
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 54 W |
 
 ---
 
 **MurkyMark**
-Releases electric in a point at touch targeting _(default  where written.
+Releases electric at a single point at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -4477,30 +4477,30 @@ Releases electric in a point at touch targeting _(default  where written.
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 22 W |
 
 ---
 
 **PureSpirit**
-Alters light in a _(default  plane at touch targeting _(default  where written.
+Alters light across a surface at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 31 W |
 
 ---
 
 **KindleWay**
-Shields against electric in a cone at touch targeting object.
+Shields against electric in a spreading cone at touch range, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -4509,14 +4509,14 @@ Shields against electric in a cone at touch targeting object.
 | Output | Shock |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 79 W |
 
 ---
 
 **FallRing**
-Shields against binding in a point at _(default  self targeting _(default  where written.
+Shields against binding at a single point from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -4524,15 +4524,15 @@ Shields against binding in a point at _(default  self targeting _(default  where
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 80 W |
 
 ---
 
 **ReleaseLight**
-Releases heat in a point at _(default  self targeting _(default  where written.
+Releases heat at a single point from the sigil, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -4540,15 +4540,15 @@ Releases heat in a point at _(default  self targeting _(default  where written.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 16 W |
 
 ---
 
 **FragileShroud**
-Detects heat in a point at _(default  self targeting surface.
+Detects heat at a single point from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -4556,7 +4556,7 @@ Detects heat in a point at _(default  self targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 21 W |
@@ -4564,7 +4564,7 @@ Detects heat in a point at _(default  self targeting surface.
 ---
 
 **DriftVeil**
-Constrains chemical in a cone at short (10 ft targeting _(default  where written.
+Constrains chemical in a spreading cone within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -4572,15 +4572,15 @@ Constrains chemical in a cone at short (10 ft targeting _(default  where written
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 40 W |
 
 ---
 
 **SharpFlame**
-Releases raw in a point at _(default  self targeting object.
+Releases raw at a single point from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -4588,15 +4588,15 @@ Releases raw in a point at _(default  self targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 10 W |
 
 ---
 
 **TransformBoon**
-Filters binding in a point at touch targeting object.
+Filters binding at a single point at touch range, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4612,7 +4612,7 @@ Filters binding in a point at touch targeting object.
 ---
 
 **TwistChain**
-Constrains heat in a point at short (10 ft targeting _(default  where written.
+Constrains heat at a single point within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -4620,15 +4620,15 @@ Constrains heat in a point at short (10 ft targeting _(default  where written.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **PiercRoot**
-Filters force in a cone at _(default  self targeting object.
+Filters force in a spreading cone from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4636,15 +4636,15 @@ Filters force in a cone at _(default  self targeting object.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 53 W |
 
 ---
 
 **DriftingTouch**
-Filters light in a cone at touch targeting _(default  where written.
+Filters light in a spreading cone at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -4653,14 +4653,14 @@ Filters light in a cone at touch targeting _(default  where written.
 | Output | Photonic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 61 W |
 
 ---
 
 **StraightPath**
-Detects raw across surfaces at _(default  self targeting _(default  where written.
+Detects raw across a surface from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
@@ -4668,15 +4668,15 @@ Detects raw across surfaces at _(default  self targeting _(default  where writte
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 28 W |
 
 ---
 
 **FallCharm**
-Alters chemical in a cone at touch targeting surface.
+Alters chemical in a spreading cone at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -4685,14 +4685,14 @@ Alters chemical in a cone at touch targeting surface.
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 82 W |
 
 ---
 
 **StillCurse**
-Releases force in a point at _(default  self targeting surface.
+Releases force at a single point from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -4700,15 +4700,15 @@ Releases force in a point at _(default  self targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 46 W |
 
 ---
 
 **KindleTide**
-Constrains heat across surfaces at touch targeting _(default  where written.
+Constrains heat across a surface at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -4717,14 +4717,14 @@ Constrains heat across surfaces at touch targeting _(default  where written.
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 43 W |
 
 ---
 
 **ShatterMirror**
-Releases chemical across surfaces at short (10 ft targeting surface.
+Releases chemical across a surface within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -4732,23 +4732,23 @@ Releases chemical across surfaces at short (10 ft targeting surface.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
 **RisCalm**
-Alters raw in a _(default  plane at short (10 ft targeting object.
+Alters raw across a surface within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 25 W |
@@ -4756,55 +4756,55 @@ Alters raw in a _(default  plane at short (10 ft targeting object.
 ---
 
 **BurnFrost**
-Constrains binding in a _(default  plane at touch targeting surface.
+Constrains binding across a surface at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 112 W |
 
 ---
 
 **SweepWeb**
-Filters force in a _(default  plane at short (10 ft targeting _(default  where written.
+Filters force across a surface within 10 feet, centered on the inscribed location.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 21 W |
 
 ---
 
 **FrozenMark**
-Constrains heat in a _(default  plane at touch targeting _(default  where written.
+Constrains heat across a surface at touch range, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T0 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 8 W |
 
 ---
 
 **BurShroud**
-Alters light in a cone at _(default  self targeting object.
+Alters light in a spreading cone from the sigil, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -4812,15 +4812,15 @@ Alters light in a cone at _(default  self targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 46 W |
 
 ---
 
 **ShallowCage**
-Shields against binding in a point at short (10 ft targeting surface.
+Shields against binding at a single point within 10 feet, targeting a surface.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -4828,15 +4828,15 @@ Shields against binding in a point at short (10 ft targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 90 W |
 
 ---
 
 **TransformRune**
-Constrains raw across surfaces at touch targeting _(default  where written.
+Constrains raw across a surface at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -4845,14 +4845,14 @@ Constrains raw across surfaces at touch targeting _(default  where written.
 | Output | Raw |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 15 W |
 
 ---
 
 **WarmCore**
-Constrains chemical in a point at _(default  self targeting _(default  where written.
+Constrains chemical at a single point from the sigil, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -4860,15 +4860,15 @@ Constrains chemical in a point at _(default  self targeting _(default  where wri
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 25 W |
 
 ---
 
 **TransformSong**
-Shields against electric across surfaces at short (10 ft targeting object.
+Shields against electric across a surface within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -4876,15 +4876,15 @@ Shields against electric across surfaces at short (10 ft targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
 **FiercePath**
-Alters binding across surfaces at short (10 ft targeting surface.
+Alters binding across a surface within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -4892,15 +4892,15 @@ Alters binding across surfaces at short (10 ft targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 65 W |
 
 ---
 
 **DarkCore**
-Releases electric in a point at _(default  self targeting _(default  where written.
+Releases electric at a single point from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -4908,15 +4908,15 @@ Releases electric in a point at _(default  self targeting _(default  where writt
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 65 W |
 
 ---
 
 **FragileNet**
-Releases binding across surfaces at touch targeting _(default  where written.
+Releases binding across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -4926,77 +4926,77 @@ Releases binding across surfaces at touch targeting _(default  where written.
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 92 W |
 
 ---
 
 **CaptureFlame**
-Alters light in a _(default  plane at _(default  self targeting object.
+Alters light across a surface from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 26 W |
 
 ---
 
 **CalmFlame**
-Constrains chemical in a _(default  plane at _(default  self targeting surface.
+Constrains chemical across a surface from the sigil, targeting a surface.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 20 W |
 
 ---
 
 **AnchorBrand**
-Alters raw in a _(default  plane at short (10 ft targeting _(default  where written.
+Alters raw across a surface within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 13 W |
 
 ---
 
 **WeavVoid**
-Constrains raw in a _(default  plane at short (10 ft targeting surface.
+Constrains raw across a surface within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
 **CalmLock**
-Filters binding in a point at touch targeting surface.
+Filters binding at a single point at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5005,14 +5005,14 @@ Filters binding in a point at touch targeting surface.
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 112 W |
 
 ---
 
 **KindlPath**
-Shields against raw in a point at _(default  self targeting surface.
+Shields against raw at a single point from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -5020,15 +5020,15 @@ Shields against raw in a point at _(default  self targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 13 W |
 
 ---
 
 **TwinSigil**
-Alters force in a cone at _(default  self targeting surface.
+Alters force in a spreading cone from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -5036,47 +5036,47 @@ Alters force in a cone at _(default  self targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 36 W |
 
 ---
 
 **BindKnot**
-Filters force in a _(default  plane at touch targeting _(default  where written.
+Filters force across a surface at touch range, centered on the inscribed location.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 18 W |
 
 ---
 
 **DullFrost**
-Detects chemical in a _(default  plane at touch targeting surface.
+Detects chemical across a surface at touch range, targeting a surface.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 22 W |
 
 ---
 
 **StillGlyph**
-Shields against light in a cone at _(default  self targeting object.
+Shields against light in a spreading cone from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -5084,7 +5084,7 @@ Shields against light in a cone at _(default  self targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 46 W |
@@ -5092,15 +5092,15 @@ Shields against light in a cone at _(default  self targeting object.
 ---
 
 **BurThread**
-Detects raw in a _(default  plane at short (10 ft targeting surface.
+Detects raw across a surface within 10 feet, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 28 W |
@@ -5108,7 +5108,7 @@ Detects raw in a _(default  plane at short (10 ft targeting surface.
 ---
 
 **FrozenMirror**
-Filters electric across surfaces at short (10 ft targeting surface.
+Filters electric across a surface within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -5116,15 +5116,15 @@ Filters electric across surfaces at short (10 ft targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 55 W |
 
 ---
 
 **DriftBrand**
-Detects heat in a point at touch targeting object.
+Detects heat at a single point at touch range, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -5140,15 +5140,15 @@ Detects heat in a point at touch targeting object.
 ---
 
 **BurRune**
-Constrains electric in a _(default  plane at _(default  self targeting surface.
+Constrains electric across a surface from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
+| Pattern | Plane |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 55 W |
@@ -5156,7 +5156,7 @@ Constrains electric in a _(default  plane at _(default  self targeting surface.
 ---
 
 **TransformMark**
-Alters electric in a point at _(default  self targeting surface.
+Alters electric at a single point from the sigil, targeting a surface.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -5164,15 +5164,15 @@ Alters electric in a point at _(default  self targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 45 W |
 
 ---
 
 **ShatterWay**
-Filters raw across surfaces at short (10 ft targeting _(default  where written.
+Filters raw across a surface within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Affect |
@@ -5180,15 +5180,15 @@ Filters raw across surfaces at short (10 ft targeting _(default  where written.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 8 W |
 
 ---
 
 **FierceWall**
-Constrains chemical in a cone at short (10 ft targeting object.
+Constrains chemical in a spreading cone within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -5196,7 +5196,7 @@ Constrains chemical in a cone at short (10 ft targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 42 W |
@@ -5204,7 +5204,7 @@ Constrains chemical in a cone at short (10 ft targeting object.
 ---
 
 **QuietVoice**
-Alters electric in a cone at short (10 ft targeting surface.
+Alters electric in a spreading cone within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -5212,15 +5212,15 @@ Alters electric in a cone at short (10 ft targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
 **WeaveFlame**
-Constrains binding in a point at _(default  self targeting surface.
+Constrains binding at a single point from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -5228,15 +5228,15 @@ Constrains binding in a point at _(default  self targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 90 W |
 
 ---
 
 **FlowRune**
-Releases heat in a cone at short (10 ft targeting object.
+Releases heat in a spreading cone within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -5244,7 +5244,7 @@ Releases heat in a cone at short (10 ft targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 43 W |
@@ -5252,7 +5252,7 @@ Releases heat in a cone at short (10 ft targeting object.
 ---
 
 **BurTouch**
-Filters heat in a point at touch targeting _(default  where written.
+Filters heat at a single point at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -5261,21 +5261,21 @@ Filters heat in a point at touch targeting _(default  where written.
 | Output | Thermal |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 23 W |
 
 ---
 
 **LoneAura**
-Releases electric in a _(default  plane at touch targeting surface.
+Releases electric across a surface at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
@@ -5284,23 +5284,23 @@ Releases electric in a _(default  plane at touch targeting surface.
 ---
 
 **PiercKnot**
-Constrains chemical in a _(default  plane at short (10 ft targeting surface.
+Constrains chemical across a surface within 10 feet, targeting a surface.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
 **ClearShroud**
-Constrains heat across surfaces at _(default  self targeting object.
+Constrains heat across a surface from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -5308,15 +5308,15 @@ Constrains heat across surfaces at _(default  self targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 18 W |
 
 ---
 
 **CapturEcho**
-Filters binding in a point at short (10 ft targeting _(default  where written.
+Filters binding at a single point within 10 feet, centered on the inscribed location.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -5324,55 +5324,55 @@ Filters binding in a point at short (10 ft targeting _(default  where written.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 85 W |
 
 ---
 
 **TransformGate**
-Displaces chemical in a _(default  plane at short (10 ft targeting object.
+Displaces chemical across a surface within 10 feet, targeting an object.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
 **HumbleGlyph**
-Detects raw in a _(default  plane at short (10 ft targeting _(default  where written.
+Detects raw across a surface within 10 feet, centered on the inscribed location.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 13 W |
 
 ---
 
 **FrozenNet**
-Displaces chemical in a _(default  plane at short (10 ft targeting object.
+Displaces chemical across a surface within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
@@ -5380,7 +5380,7 @@ Displaces chemical in a _(default  plane at short (10 ft targeting object.
 ---
 
 **BindVeil**
-Filters light in a cone at short (10 ft targeting surface.
+Filters light in a spreading cone within 10 feet, targeting a surface. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -5388,7 +5388,7 @@ Filters light in a cone at short (10 ft targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 54 W |
@@ -5396,7 +5396,7 @@ Filters light in a cone at short (10 ft targeting surface.
 ---
 
 **SwiftCage**
-Releases chemical in a cone at touch targeting _(default  where written.
+Releases chemical in a spreading cone at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -5406,13 +5406,13 @@ Releases chemical in a cone at touch targeting _(default  where written.
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 37 W |
 
 ---
 
 **KindleSong**
-Shields against light in a cone at short (10 ft targeting _(default  where written.
+Shields against light in a spreading cone within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Affect |
@@ -5420,47 +5420,47 @@ Shields against light in a cone at short (10 ft targeting _(default  where writt
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 24 W |
 
 ---
 
 **SurgeBreath**
-Alters force in a _(default  plane at short (10 ft targeting object.
+Alters force across a surface within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 28 W |
 
 ---
 
 **ReleaseBlessing**
-Releases force in a _(default  plane at touch targeting object.
+Releases force across a surface at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
 **PureStorm**
-Displaces chemical across surfaces at touch targeting surface.
+Displaces chemical across a surface at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -5476,7 +5476,7 @@ Displaces chemical across surfaces at touch targeting surface.
 ---
 
 **ShatterDance**
-Filters chemical in a point at short (10 ft targeting _(default  where written.
+Filters chemical at a single point within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -5484,15 +5484,15 @@ Filters chemical in a point at short (10 ft targeting _(default  where written.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 25 W |
 
 ---
 
 **SlowGate**
-Releases binding across surfaces at _(default  self targeting object.
+Releases binding across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -5500,15 +5500,15 @@ Releases binding across surfaces at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 87 W |
 
 ---
 
 **AnchorVeil**
-Constrains heat in a cone at short (10 ft targeting object.
+Constrains heat in a spreading cone within 10 feet, targeting an object.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -5516,31 +5516,31 @@ Constrains heat in a cone at short (10 ft targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 23 W |
 
 ---
 
 **ShatterKey**
-Releases raw in a _(default  plane at short (10 ft targeting _(default  where written.
+Releases raw across a surface within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
 | Control Tier | T0 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 8 W |
 
 ---
 
 **LoneSilence**
-Alters force across surfaces at touch targeting object.
+Alters force across a surface at touch range, targeting an object.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -5549,14 +5549,14 @@ Alters force across surfaces at touch targeting object.
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 20 W |
 
 ---
 
 **VastRoot**
-Filters heat across surfaces at short (10 ft targeting _(default  where written.
+Filters heat across a surface within 10 feet, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -5564,31 +5564,31 @@ Filters heat across surfaces at short (10 ft targeting _(default  where written.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 46 W |
 
 ---
 
 **KindlChain**
-Alters force in a _(default  plane at touch targeting object.
+Alters force across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **HumbleHeart**
-Detects binding across surfaces at _(default  self targeting object.
+Detects binding across a surface from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -5596,15 +5596,15 @@ Detects binding across surfaces at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 82 W |
 
 ---
 
 **BrightAura**
-Detects heat across surfaces at touch targeting _(default  where written.
+Detects heat across a surface at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -5613,14 +5613,14 @@ Detects heat across surfaces at touch targeting _(default  where written.
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 33 W |
 
 ---
 
 **ChillScar**
-Alters light in a cone at _(default  self targeting surface.
+Alters light in a spreading cone from the sigil, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -5628,15 +5628,15 @@ Alters light in a cone at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
+| Reach | Self |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 49 W |
 
 ---
 
 **SolidBond**
-Alters light in a point at touch targeting object.
+Alters light at a single point at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Affect |
@@ -5645,14 +5645,14 @@ Alters light in a point at touch targeting object.
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 18 W |
 
 ---
 
 **BreakBrand**
-Alters force in a cone at short (10 ft targeting _(default  where written.
+Alters force in a spreading cone within 10 feet, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -5660,79 +5660,79 @@ Alters force in a cone at short (10 ft targeting _(default  where written.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 21 W |
 
 ---
 
 **FreezCharm**
-Displaces electric in a _(default  plane at touch targeting surface.
+Displaces electric across a surface at touch range, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 52 W |
 
 ---
 
 **BreakEcho**
-Shields against raw in a _(default  plane at touch targeting object.
+Shields against raw across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 12 W |
 
 ---
 
 **BurnShadow**
-Alters heat in a _(default  plane at _(default  self targeting _(default  where written.
+Alters heat across a surface from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 41 W |
 
 ---
 
 **SurgeDance**
-Filters force in a _(default  plane at _(default  self targeting _(default  where written.
+Filters force across a surface from the sigil, centered on the inscribed location.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
 | Control Tier | T0 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 6 W |
 
 ---
 
 **ChillWard**
-Shields against force across surfaces at _(default  self targeting _(default  where written.
+Shields against force across a surface from the sigil, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -5740,15 +5740,15 @@ Shields against force across surfaces at _(default  self targeting _(default  wh
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 26 W |
 
 ---
 
 **PiercFrost**
-Releases raw in a point at short (10 ft targeting _(default  where written.
+Releases raw at a single point within 10 feet, centered on the inscribed location. It persists while actively sustained.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -5756,39 +5756,39 @@ Releases raw in a point at short (10 ft targeting _(default  where written.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 23 W |
 
 ---
 
 **AncientVoice**
-Shields against chemical in a _(default  plane at touch targeting surface.
+Shields against chemical across a surface at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T2 |
 | Discipline | Chemical |
 | Output | Reactive |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 47 W |
 
 ---
 
 **WeaveWay**
-Displaces binding in a _(default  plane at short (10 ft targeting surface.
+Displaces binding across a surface within 10 feet, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Binding |
 | Output | Constraint |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 50 W |
@@ -5796,7 +5796,7 @@ Displaces binding in a _(default  plane at short (10 ft targeting surface.
 ---
 
 **SurSoul**
-Shields against chemical in a point at touch targeting object.
+Shields against chemical at a single point at touch range, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -5805,30 +5805,30 @@ Shields against chemical in a point at touch targeting object.
 | Output | Reactive |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 69 W |
 
 ---
 
 **DriftRoot**
-Displaces light in a _(default  plane at _(default  self targeting _(default  where written.
+Displaces light across a surface from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 24 W |
 
 ---
 
 **BreakBreath**
-Shields against binding in a point at short (10 ft targeting surface.
+Shields against binding at a single point within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -5836,15 +5836,15 @@ Shields against binding in a point at short (10 ft targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 95 W |
 
 ---
 
 **PiercVoice**
-Detects binding in a cone at touch targeting surface.
+Detects binding in a spreading cone at touch range, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Create |
@@ -5853,14 +5853,14 @@ Detects binding in a cone at touch targeting surface.
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 52 W |
 
 ---
 
 **BindKey**
-Detects binding in a point at _(default  self targeting object.
+Detects binding at a single point from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -5868,15 +5868,15 @@ Detects binding in a point at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 82 W |
 
 ---
 
 **BindFrost**
-Alters force in a cone at short (10 ft targeting surface.
+Alters force in a spreading cone within 10 feet, targeting a surface.
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -5884,63 +5884,63 @@ Alters force in a cone at short (10 ft targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 36 W |
 
 ---
 
 **SweepPulse**
-Shields against force in a _(default  plane at touch targeting object.
+Shields against force across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **FallDance**
-Shields against heat in a _(default  plane at touch targeting object.
+Shields against heat across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
 **SurgeStorm**
-Displaces light in a _(default  plane at short (10 ft targeting surface.
+Displaces light across a surface within 10 feet, targeting a surface.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Light |
 | Output | Photonic |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 19 W |
 
 ---
 
 **AnchorVoid**
-Releases chemical across surfaces at _(default  self targeting surface.
+Releases chemical across a surface from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -5948,15 +5948,15 @@ Releases chemical across surfaces at _(default  self targeting surface.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 25 W |
 
 ---
 
 **CurvedWisp**
-Displaces electric in a point at _(default  self targeting _(default  where written.
+Displaces electric at a single point from the sigil, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Create |
@@ -5964,15 +5964,15 @@ Displaces electric in a point at _(default  self targeting _(default  where writ
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 40 W |
 
 ---
 
 **BindFlame**
-Releases heat across surfaces at touch targeting object.
+Releases heat across a surface at touch range, targeting an object. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Affect |
@@ -5981,14 +5981,14 @@ Releases heat across surfaces at touch targeting object.
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
 **TameCore**
-Displaces heat in a cone at touch targeting _(default  where written.
+Displaces heat in a spreading cone at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -5997,14 +5997,14 @@ Displaces heat in a cone at touch targeting _(default  where written.
 | Output | Thermal |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 33 W |
 
 ---
 
 **FragileCalm**
-Constrains binding across surfaces at touch targeting _(default  where written.
+Constrains binding across a surface at touch range, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -6013,14 +6013,14 @@ Constrains binding across surfaces at touch targeting _(default  where written.
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 87 W |
 
 ---
 
 **PiercSpirit**
-Releases electric across surfaces at _(default  self targeting object.
+Releases electric across a surface from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -6028,15 +6028,15 @@ Releases electric across surfaces at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
 **ShatterBridge**
-Alters binding in a point at _(default  self targeting object.
+Alters binding at a single point from the sigil, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -6044,15 +6044,15 @@ Alters binding in a point at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 37 W |
 
 ---
 
 **ShatterCrown**
-Constrains electric in a point at touch targeting _(default  where written.
+Constrains electric at a single point at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -6061,62 +6061,62 @@ Constrains electric in a point at touch targeting _(default  where written.
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 42 W |
 
 ---
 
 **HumbleWall**
-Filters raw in a _(default  plane at touch targeting surface.
+Filters raw across a surface at touch range, targeting a surface.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
 | Control Tier | T0 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 10 W |
 
 ---
 
 **ShatterCalm**
-Constrains heat in a _(default  plane at touch targeting surface.
+Constrains heat across a surface at touch range, targeting a surface. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Heat |
 | Output | Thermal |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
 **LightVoid**
-Detects force in a _(default  plane at touch targeting object.
+Detects force across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Sense |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
 **FallShadow**
-Shields against heat across surfaces at _(default  self targeting _(default  where written.
+Shields against heat across a surface from the sigil, centered on the inscribed location.
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -6124,31 +6124,31 @@ Shields against heat across surfaces at _(default  self targeting _(default  whe
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Immediate |
+| Target | Where Written |
 | Wattage | 16 W |
 
 ---
 
 **GentleWisp**
-Constrains raw in a _(default  plane at short (10 ft targeting object.
+Constrains raw across a surface within 10 feet, targeting an object. It lasts up to one hour.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 40 W |
 
 ---
 
 **FreezeStorm**
-Constrains binding in a point at touch targeting surface.
+Constrains binding at a single point at touch range, targeting a surface.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -6157,14 +6157,14 @@ Constrains binding in a point at touch targeting surface.
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Surface |
 | Wattage | 87 W |
 
 ---
 
 **SweepFlame**
-Constrains electric across surfaces at touch targeting surface.
+Constrains electric across a surface at touch range, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Create |
@@ -6180,7 +6180,7 @@ Constrains electric across surfaces at touch targeting surface.
 ---
 
 **BreakTouch**
-Filters raw in a point at touch targeting object.
+Filters raw at a single point at touch range, targeting an object.
 | Shape | Triangle |
 | Hook | Filter |
 | Mode | Create |
@@ -6189,30 +6189,30 @@ Filters raw in a point at touch targeting object.
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | _(default  Immediate |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 7 W |
 
 ---
 
 **VastHeart**
-Shields against raw in a _(default  plane at touch targeting object.
+Shields against raw across a surface at touch range, targeting an object. It lasts up to one minute.
 | Shape | Triangle |
 | Hook | Ward |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
+| Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 12 W |
 
 ---
 
 **HumbleChain**
-Releases binding in a cone at _(default  self targeting object.
+Releases binding in a spreading cone from the sigil, targeting an object.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -6220,31 +6220,31 @@ Releases binding in a cone at _(default  self targeting object.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | _(default  Self |
-| Persistence | _(default  Immediate |
+| Reach | Self |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 92 W |
 
 ---
 
 **FallCurse**
-Constrains raw in a _(default  plane at _(default  self targeting surface.
+Constrains raw across a surface from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Raw |
 | Output | Raw |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Pattern | Plane |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
 **TwinRoot**
-Detects heat in a cone at short (10 ft targeting _(default  where written.
+Detects heat in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -6252,15 +6252,15 @@ Detects heat in a cone at short (10 ft targeting _(default  where written.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 36 W |
 
 ---
 
 **WeavSigil**
-Alters force across surfaces at touch targeting _(default  where written.
+Alters force across a surface at touch range, centered on the inscribed location. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Transform |
 | Mode | Create |
@@ -6270,29 +6270,29 @@ Alters force across surfaces at touch targeting _(default  where written.
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | _(default  Where Written |
+| Target | Where Written |
 | Wattage | 18 W |
 
 ---
 
 **FreezEye**
-Constrains electric in a _(default  plane at short (10 ft targeting object.
+Constrains electric across a surface within 10 feet, targeting an object.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
 | Control Tier | T2 |
 | Discipline | Electric |
 | Output | Shock |
-| Pattern | _(default  Plane |
-| Reach | Short (10 ft |
-| Persistence | _(default  Immediate |
+| Pattern | Plane |
+| Reach | Short (10 ft) |
+| Persistence | Immediate |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
 **RiseScar**
-Displaces force across surfaces at touch targeting surface.
+Displaces force across a surface at touch range, targeting a surface. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -6301,14 +6301,14 @@ Displaces force across surfaces at touch targeting surface.
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 38 W |
 
 ---
 
 **DriftPulse**
-Displaces raw in a cone at touch targeting _(default  where written.
+Displaces raw in a spreading cone at touch range, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Move |
 | Mode | Affect |
@@ -6317,14 +6317,14 @@ Displaces raw in a cone at touch targeting _(default  where written.
 | Output | Raw |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 40 W |
 
 ---
 
 **ChillBrand**
-Filters electric in a cone at _(default  self targeting object.
+Filters electric in a spreading cone from the sigil, targeting an object. It persists while actively sustained.
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -6332,7 +6332,7 @@ Filters electric in a cone at _(default  self targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | _(default  Self |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 62 W |
@@ -6340,7 +6340,7 @@ Filters electric in a cone at _(default  self targeting object.
 ---
 
 **BindPulse**
-Releases light in a point at _(default  self targeting _(default  where written.
+Releases light at a single point from the sigil, centered on the inscribed location. It lasts up to one minute.
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -6348,15 +6348,15 @@ Releases light in a point at _(default  self targeting _(default  where written.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
-| Target | _(default  Where Written |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Where Written |
 | Wattage | 29 W |
 
 ---
 
 **DeepPath**
-Releases raw in a point at short (10 ft targeting _(default  where written.
+Releases raw at a single point within 10 feet, centered on the inscribed location. It lasts up to one hour.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
@@ -6364,15 +6364,15 @@ Releases raw in a point at short (10 ft targeting _(default  where written.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
-| Target | _(default  Where Written |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
+| Target | Where Written |
 | Wattage | 33 W |
 
 ---
 
 **AnchorFlame**
-Constrains light in a point at _(default  self targeting surface.
+Constrains light at a single point from the sigil, targeting a surface. It lasts up to one minute.
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -6380,23 +6380,23 @@ Constrains light in a point at _(default  self targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | _(default  Self |
-| Persistence | Timed (Short |
+| Reach | Self |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 34 W |
 
 ---
 
 **DriftingVoid**
-Releases force in a _(default  plane at _(default  self targeting surface.
+Releases force across a surface from the sigil, targeting a surface. It persists while actively sustained.
 | Shape | Triangle |
 | Hook | Emit |
 | Mode | Create |
 | Control Tier | T1 |
 | Discipline | Force |
 | Output | Kinetic |
-| Pattern | _(default  Plane |
-| Reach | _(default  Self |
+| Pattern | Plane |
+| Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 21 W |

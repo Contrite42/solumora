@@ -2,7 +2,7 @@ Mythic spells require [[Control Tier]] T9 and represent the upper bound of [[Flu
 
 _Return to [[All Grimoire]]_
 **CapturThread**
-Releases soul in a sphere at line-of-sight targeting group.
+Releases soul in a sphere at line of sight, targeting a group. It is permanent once established.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -18,7 +18,7 @@ Releases soul in a sphere at line-of-sight targeting group.
 ---
 
 **PaleNet**
-Displaces mind in a field at linked targeting group.
+Displaces mind across a field through a linked anchor, targeting a group. It is permanent once established.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -34,7 +34,7 @@ Displaces mind in a field at linked targeting group.
 ---
 
 **ColdPath**
-Opposes soul in a sphere at line-of-sight targeting individual.
+Counters soul in a sphere at line of sight, targeting an individual. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -50,7 +50,7 @@ Opposes soul in a sphere at line-of-sight targeting individual.
 ---
 
 **AncientPath**
-Manipulates soul in a field at line-of-sight targeting group.
+Manipulates soul across a field at line of sight, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -66,7 +66,7 @@ Manipulates soul in a field at line-of-sight targeting group.
 ---
 
 **GentleTouch**
-Opposes mind in a sphere at line-of-sight targeting filter.
+Counters mind in a sphere at line of sight, targeting a filtered set. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -82,7 +82,7 @@ Opposes mind in a sphere at line-of-sight targeting filter.
 ---
 
 **PiercTouch**
-Alters mind in a sphere at linked targeting individual.
+Alters mind in a sphere through a linked anchor, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -98,7 +98,7 @@ Alters mind in a sphere at linked targeting individual.
 ---
 
 **FallMirror**
-Alters mind in a field at line-of-sight targeting individual.
+Alters mind across a field at line of sight, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -114,7 +114,7 @@ Alters mind in a field at line-of-sight targeting individual.
 ---
 
 **SolidPath**
-Shields against soul in a sphere at linked targeting individual.
+Shields against soul in a sphere through a linked anchor, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -130,7 +130,7 @@ Shields against soul in a sphere at linked targeting individual.
 ---
 
 **FreshHeart**
-Shields against soul in a sphere at line-of-sight targeting filter.
+Shields against soul in a sphere at line of sight, targeting a filtered set. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -146,7 +146,7 @@ Shields against soul in a sphere at line-of-sight targeting filter.
 ---
 
 **ShatterBrand**
-Releases soul in a sphere at linked targeting individual.
+Releases soul in a sphere through a linked anchor, targeting an individual. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -162,7 +162,7 @@ Releases soul in a sphere at linked targeting individual.
 ---
 
 **FierceWard**
-Constrains soul in a sphere at line-of-sight targeting individual.
+Constrains soul in a sphere at line of sight, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -178,7 +178,7 @@ Constrains soul in a sphere at line-of-sight targeting individual.
 ---
 
 **RisCalm**
-Releases soul in a field at linked targeting group.
+Releases soul across a field through a linked anchor, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -194,7 +194,7 @@ Releases soul in a field at linked targeting group.
 ---
 
 **PaleDoor**
-Alters soul in a sphere at line-of-sight targeting group.
+Alters soul in a sphere at line of sight, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -210,7 +210,7 @@ Alters soul in a sphere at line-of-sight targeting group.
 ---
 
 **ReleaseBond**
-Detects soul in a field at linked targeting filter.
+Detects soul across a field through a linked anchor, targeting a filtered set. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -226,7 +226,7 @@ Detects soul in a field at linked targeting filter.
 ---
 
 **WeaveBlessing**
-Constrains mind in a field at linked targeting individual.
+Constrains mind across a field through a linked anchor, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -242,7 +242,7 @@ Constrains mind in a field at linked targeting individual.
 ---
 
 **ReleasBridge**
-Alters mind in a field at linked targeting filter.
+Alters mind across a field through a linked anchor, targeting a filtered set. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -258,7 +258,7 @@ Alters mind in a field at linked targeting filter.
 ---
 
 **BurSpirit**
-Filters mind in a sphere at linked targeting group.
+Filters mind in a sphere through a linked anchor, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -274,7 +274,7 @@ Filters mind in a sphere at linked targeting group.
 ---
 
 **StraightHand**
-Releases soul in a sphere at line-of-sight targeting individual.
+Releases soul in a sphere at line of sight, targeting an individual. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
@@ -290,7 +290,7 @@ Releases soul in a sphere at line-of-sight targeting individual.
 ---
 
 **CalmDream**
-Releases soul in a field at linked targeting filter.
+Releases soul across a field through a linked anchor, targeting a filtered set. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -306,7 +306,7 @@ Releases soul in a field at linked targeting filter.
 ---
 
 **AnchorFrost**
-Releases mind in a sphere at line-of-sight targeting group.
+Releases mind in a sphere at line of sight, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -322,7 +322,7 @@ Releases mind in a sphere at line-of-sight targeting group.
 ---
 
 **TransformBreath**
-Opposes soul in a field at linked targeting group.
+Counters soul across a field through a linked anchor, targeting a group. It is permanent once established.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -338,7 +338,7 @@ Opposes soul in a field at linked targeting group.
 ---
 
 **HardyCore**
-Filters soul in a field at line-of-sight targeting individual.
+Filters soul across a field at line of sight, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Create |
@@ -354,7 +354,7 @@ Filters soul in a field at line-of-sight targeting individual.
 ---
 
 **NakedRoot**
-Shields against mind in a field at linked targeting group.
+Shields against mind across a field through a linked anchor, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -370,7 +370,7 @@ Shields against mind in a field at linked targeting group.
 ---
 
 **RiseMark**
-Displaces soul in a field at linked targeting group.
+Displaces soul across a field through a linked anchor, targeting a group. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -386,7 +386,7 @@ Displaces soul in a field at linked targeting group.
 ---
 
 **DriftFrost**
-Manipulates soul in a sphere at line-of-sight targeting group.
+Manipulates soul in a sphere at line of sight, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |

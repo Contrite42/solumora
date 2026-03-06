@@ -2,7 +2,7 @@ Legendary spells require [[Control Tier]] T7–T8 and exist at a tier of power w
 
 _Return to [[All Grimoire]]_
 **ReleaseVeil**
-Filters binding in a field at long (200 ft targeting individual.
+Filters binding across a field within 200 feet, targeting an individual. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -10,15 +10,15 @@ Filters binding in a field at long (200 ft targeting individual.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Field |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
 **VastGate**
-Alters light in a ring at line-of-sight targeting marked.
+Alters light in a ring at line of sight, targeting a marked subject. It is permanent once established.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -34,7 +34,7 @@ Alters light in a ring at line-of-sight targeting marked.
 ---
 
 **DissolvBridge**
-Releases heat in a cylinder at line-of-sight targeting individual.
+Releases heat in a cylinder at line of sight, targeting an individual. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -50,7 +50,7 @@ Releases heat in a cylinder at line-of-sight targeting individual.
 ---
 
 **SurgePulse**
-Alters soul in a cone at long (200 ft targeting group.
+Alters soul in a spreading cone within 200 feet, targeting a group. It is permanent once established.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -58,7 +58,7 @@ Alters soul in a cone at long (200 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 13001 W |
@@ -66,7 +66,7 @@ Alters soul in a cone at long (200 ft targeting group.
 ---
 
 **GentleCalm**
-Manipulates mind in a sphere at long (200 ft targeting individual.
+Manipulates mind in a sphere within 200 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -74,7 +74,7 @@ Manipulates mind in a sphere at long (200 ft targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
@@ -82,7 +82,7 @@ Manipulates mind in a sphere at long (200 ft targeting individual.
 ---
 
 **KindleFlame**
-Alters force in a cylinder at long (200 ft targeting individual.
+Alters force in a cylinder within 200 feet, targeting an individual. It is permanent once established.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -90,7 +90,7 @@ Alters force in a cylinder at long (200 ft targeting individual.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cylinder |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 13001 W |
@@ -98,7 +98,7 @@ Alters force in a cylinder at long (200 ft targeting individual.
 ---
 
 **SteadyCharm**
-Manipulates light in a ring at line-of-sight targeting individual.
+Manipulates light in a ring at line of sight, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -114,7 +114,7 @@ Manipulates light in a ring at line-of-sight targeting individual.
 ---
 
 **PierceScar**
-Alters force in a field at medium (50 ft targeting individual.
+Alters force across a field within 50 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -122,7 +122,7 @@ Alters force in a field at medium (50 ft targeting individual.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Field |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
@@ -130,7 +130,7 @@ Alters force in a field at medium (50 ft targeting individual.
 ---
 
 **VastGlyph**
-Shields against chemical in a ring at line-of-sight targeting individual.
+Shields against chemical in a ring at line of sight, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -146,7 +146,7 @@ Shields against chemical in a ring at line-of-sight targeting individual.
 ---
 
 **GuardThread**
-Constrains force in a ring at medium (50 ft targeting individual.
+Constrains force in a ring within 50 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -154,7 +154,7 @@ Constrains force in a ring at medium (50 ft targeting individual.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Ring |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
@@ -162,7 +162,7 @@ Constrains force in a ring at medium (50 ft targeting individual.
 ---
 
 **BrightSeal**
-Detects heat in a cylinder at line-of-sight targeting group.
+Detects heat in a cylinder at line of sight, targeting a group. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -178,7 +178,7 @@ Detects heat in a cylinder at line-of-sight targeting group.
 ---
 
 **SteadyRoot**
-Alters heat in a cone at line-of-sight targeting marked.
+Alters heat in a spreading cone at line of sight, targeting a marked subject. It is permanent once established.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -194,7 +194,7 @@ Alters heat in a cone at line-of-sight targeting marked.
 ---
 
 **FreezeBond**
-Detects chemical in a field at long (200 ft targeting filter.
+Detects chemical across a field within 200 feet, targeting a filtered set. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -202,7 +202,7 @@ Detects chemical in a field at long (200 ft targeting filter.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Field |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 13001 W |
@@ -210,7 +210,7 @@ Detects chemical in a field at long (200 ft targeting filter.
 ---
 
 **SweepBond**
-Detects mind in a ring at medium (50 ft targeting marked.
+Detects mind in a ring within 50 feet, targeting a marked subject. It is permanent once established.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -218,7 +218,7 @@ Detects mind in a ring at medium (50 ft targeting marked.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Marked |
 | Wattage | 13001 W |
@@ -226,7 +226,7 @@ Detects mind in a ring at medium (50 ft targeting marked.
 ---
 
 **SurPulse**
-Constrains binding in a cone at long (200 ft targeting filter.
+Constrains binding in a spreading cone within 200 feet, targeting a filtered set. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -234,15 +234,15 @@ Constrains binding in a cone at long (200 ft targeting filter.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
 **WeavPath**
-Manipulates binding in a cylinder at line-of-sight targeting individual.
+Manipulates binding in a cylinder at line of sight, targeting an individual. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -258,7 +258,7 @@ Manipulates binding in a cylinder at line-of-sight targeting individual.
 ---
 
 **DriftBond**
-Constrains electric in a cone at line-of-sight targeting marked.
+Constrains electric in a spreading cone at line of sight, targeting a marked subject. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -274,7 +274,7 @@ Constrains electric in a cone at line-of-sight targeting marked.
 ---
 
 **BurnWay**
-Alters force in a cone at line-of-sight targeting group.
+Alters force in a spreading cone at line of sight, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -290,7 +290,7 @@ Alters force in a cone at line-of-sight targeting group.
 ---
 
 **BurnFrost**
-Opposes electric in a sphere at long (200 ft targeting filter.
+Counters electric in a sphere within 200 feet, targeting a filtered set. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -298,7 +298,7 @@ Opposes electric in a sphere at long (200 ft targeting filter.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 13001 W |
@@ -306,7 +306,7 @@ Opposes electric in a sphere at long (200 ft targeting filter.
 ---
 
 **WeavWard**
-Shields against light in a cone at long (200 ft targeting filter.
+Shields against light in a spreading cone within 200 feet, targeting a filtered set. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -314,7 +314,7 @@ Shields against light in a cone at long (200 ft targeting filter.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 13001 W |
@@ -322,7 +322,7 @@ Shields against light in a cone at long (200 ft targeting filter.
 ---
 
 **FreezHalo**
-Opposes chemical in a cylinder at line-of-sight targeting group.
+Counters chemical in a cylinder at line of sight, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -338,7 +338,7 @@ Opposes chemical in a cylinder at line-of-sight targeting group.
 ---
 
 **ReleasFrost**
-Manipulates binding in a cone at line-of-sight targeting individual.
+Manipulates binding in a spreading cone at line of sight, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -354,7 +354,7 @@ Manipulates binding in a cone at line-of-sight targeting individual.
 ---
 
 **BreakStorm**
-Alters binding in a cylinder at line-of-sight targeting group.
+Alters binding in a cylinder at line of sight, targeting a group. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -363,14 +363,14 @@ Alters binding in a cylinder at line-of-sight targeting group.
 | Output | Constraint |
 | Pattern | Cylinder |
 | Reach | Line-of-Sight |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
 **StraightWeb**
-Releases force in a cylinder at medium (50 ft targeting individual.
+Releases force in a cylinder within 50 feet, targeting an individual. It is permanent once established.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
@@ -378,7 +378,7 @@ Releases force in a cylinder at medium (50 ft targeting individual.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 13001 W |
@@ -386,7 +386,7 @@ Releases force in a cylinder at medium (50 ft targeting individual.
 ---
 
 **CalmFrost**
-Displaces chemical in a sphere at medium (50 ft targeting marked.
+Displaces chemical in a sphere within 50 feet, targeting a marked subject. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -394,7 +394,7 @@ Displaces chemical in a sphere at medium (50 ft targeting marked.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Marked |
 | Wattage | 13001 W |
@@ -402,7 +402,7 @@ Displaces chemical in a sphere at medium (50 ft targeting marked.
 ---
 
 **FierceHalo**
-Manipulates force in a field at long (200 ft targeting marked.
+Manipulates force across a field within 200 feet, targeting a marked subject. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -410,15 +410,15 @@ Manipulates force in a field at long (200 ft targeting marked.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Field |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
 **StillGate**
-Manipulates chemical in a cone at line-of-sight targeting filter.
+Manipulates chemical in a spreading cone at line of sight, targeting a filtered set. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -434,7 +434,7 @@ Manipulates chemical in a cone at line-of-sight targeting filter.
 ---
 
 **HardyNet**
-Manipulates heat in a cone at long (200 ft targeting individual.
+Manipulates heat in a spreading cone within 200 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -442,7 +442,7 @@ Manipulates heat in a cone at long (200 ft targeting individual.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
@@ -450,7 +450,7 @@ Manipulates heat in a cone at long (200 ft targeting individual.
 ---
 
 **FreezGate**
-Constrains binding in a sphere at long (200 ft targeting filter.
+Constrains binding in a sphere within 200 feet, targeting a filtered set. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -458,15 +458,15 @@ Constrains binding in a sphere at long (200 ft targeting filter.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
 **BreakRoad**
-Filters heat in a cylinder at line-of-sight targeting individual.
+Filters heat in a cylinder at line of sight, targeting an individual. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -482,7 +482,7 @@ Filters heat in a cylinder at line-of-sight targeting individual.
 ---
 
 **LoudNet**
-Opposes binding in a cylinder at line-of-sight targeting filter.
+Counters binding in a cylinder at line of sight, targeting a filtered set. It is permanent once established.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -498,7 +498,7 @@ Opposes binding in a cylinder at line-of-sight targeting filter.
 ---
 
 **FierceSigil**
-Alters mind in a cone at long (200 ft targeting group.
+Alters mind in a spreading cone within 200 feet, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -506,7 +506,7 @@ Alters mind in a cone at long (200 ft targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 13001 W |
@@ -514,7 +514,7 @@ Alters mind in a cone at long (200 ft targeting group.
 ---
 
 **WeavBond**
-Manipulates electric in a sphere at line-of-sight targeting filter.
+Manipulates electric in a sphere at line of sight, targeting a filtered set. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -530,7 +530,7 @@ Manipulates electric in a sphere at line-of-sight targeting filter.
 ---
 
 **CapturStorm**
-Filters force in a cone at line-of-sight targeting marked.
+Filters force in a spreading cone at line of sight, targeting a marked subject. It is permanent once established.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -546,7 +546,7 @@ Filters force in a cone at line-of-sight targeting marked.
 ---
 
 **FlowSpirit**
-Opposes chemical in a field at medium (50 ft targeting marked.
+Counters chemical across a field within 50 feet, targeting a marked subject. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -554,15 +554,15 @@ Opposes chemical in a field at medium (50 ft targeting marked.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Field |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Long |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
 | Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
 **AncientKnot**
-Displaces chemical in a cylinder at medium (50 ft targeting individual.
+Displaces chemical in a cylinder within 50 feet, targeting an individual. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -570,15 +570,15 @@ Displaces chemical in a cylinder at medium (50 ft targeting individual.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Long |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
 **StillSilence**
-Alters soul in a cylinder at line-of-sight targeting group.
+Alters soul in a cylinder at line of sight, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -594,7 +594,7 @@ Alters soul in a cylinder at line-of-sight targeting group.
 ---
 
 **ClearVeil**
-Opposes mind in a sphere at line-of-sight targeting marked.
+Counters mind in a sphere at line of sight, targeting a marked subject. It is permanent once established.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -610,7 +610,7 @@ Opposes mind in a sphere at line-of-sight targeting marked.
 ---
 
 **SweepStorm**
-Filters electric in a sphere at medium (50 ft targeting marked.
+Filters electric in a sphere within 50 feet, targeting a marked subject. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -618,7 +618,7 @@ Filters electric in a sphere at medium (50 ft targeting marked.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Marked |
 | Wattage | 13001 W |
@@ -626,7 +626,7 @@ Filters electric in a sphere at medium (50 ft targeting marked.
 ---
 
 **SlowSeal**
-Displaces light in a field at line-of-sight targeting filter.
+Displaces light across a field at line of sight, targeting a filtered set. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -642,7 +642,7 @@ Displaces light in a field at line-of-sight targeting filter.
 ---
 
 **AnchorCrown**
-Shields against heat in a sphere at medium (50 ft targeting group.
+Shields against heat in a sphere within 50 feet, targeting a group. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -650,15 +650,15 @@ Shields against heat in a sphere at medium (50 ft targeting group.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Long |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
 **BurBond**
-Opposes chemical in a ring at long (200 ft targeting filter.
+Counters chemical in a ring within 200 feet, targeting a filtered set. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -666,7 +666,7 @@ Opposes chemical in a ring at long (200 ft targeting filter.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Ring |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 13001 W |
@@ -674,7 +674,7 @@ Opposes chemical in a ring at long (200 ft targeting filter.
 ---
 
 **RisGate**
-Displaces heat in a field at line-of-sight targeting individual.
+Displaces heat across a field at line of sight, targeting an individual. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -683,14 +683,14 @@ Displaces heat in a field at line-of-sight targeting individual.
 | Output | Thermal |
 | Pattern | Field |
 | Reach | Line-of-Sight |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
 **TransformShadow**
-Manipulates electric in a field at long (200 ft targeting group.
+Manipulates electric across a field within 200 feet, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -698,7 +698,7 @@ Manipulates electric in a field at long (200 ft targeting group.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Field |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 13001 W |
@@ -706,7 +706,7 @@ Manipulates electric in a field at long (200 ft targeting group.
 ---
 
 **SolidSoul**
-Manipulates force in a ring at long (200 ft targeting individual.
+Manipulates force in a ring within 200 feet, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -714,7 +714,7 @@ Manipulates force in a ring at long (200 ft targeting individual.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Ring |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Individual |
 | Wattage | 13001 W |
@@ -722,7 +722,7 @@ Manipulates force in a ring at long (200 ft targeting individual.
 ---
 
 **FallVoid**
-Shields against mind in a sphere at line-of-sight targeting filter.
+Shields against mind in a sphere at line of sight, targeting a filtered set. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -738,7 +738,7 @@ Shields against mind in a sphere at line-of-sight targeting filter.
 ---
 
 **ShatterBrand**
-Manipulates light in a field at medium (50 ft targeting group.
+Manipulates light across a field within 50 feet, targeting a group. It is permanent once established.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -746,7 +746,7 @@ Manipulates light in a field at medium (50 ft targeting group.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Field |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 13001 W |
@@ -754,7 +754,7 @@ Manipulates light in a field at medium (50 ft targeting group.
 ---
 
 **FlowKnot**
-Releases heat in a sphere at long (200 ft targeting group.
+Releases heat in a sphere within 200 feet, targeting a group. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -762,15 +762,15 @@ Releases heat in a sphere at long (200 ft targeting group.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
 **BreakCurse**
-Constrains force in a field at line-of-sight targeting marked.
+Constrains force across a field at line of sight, targeting a marked subject. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -786,7 +786,7 @@ Constrains force in a field at line-of-sight targeting marked.
 ---
 
 **CaptureThought**
-Displaces force in a cylinder at line-of-sight targeting individual.
+Displaces force in a cylinder at line of sight, targeting an individual. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -795,7 +795,7 @@ Displaces force in a cylinder at line-of-sight targeting individual.
 | Output | Kinetic |
 | Pattern | Cylinder |
 | Reach | Line-of-Sight |
-| Persistence | Timed (Long |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 13001 W |
 

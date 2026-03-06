@@ -2,7 +2,7 @@ Rare spells require [[Control Tier]] T5–T6 and are the exclusive territory of 
 
 _Return to [[All Grimoire]]_
 **FallTouch**
-Filters soul across surfaces at medium (50 ft targeting filter.
+Filters soul across a surface within 50 feet, targeting a filtered set. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -10,15 +10,15 @@ Filters soul across surfaces at medium (50 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Long |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
 | Target | Filter |
 | Wattage | 1600 W |
 
 ---
 
 **AnchorShadow**
-Constrains soul in a cone at long (200 ft targeting group.
+Constrains soul in a spreading cone within 200 feet, targeting a group. It persists until the set condition is met.
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -26,7 +26,7 @@ Constrains soul in a cone at long (200 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 1605 W |
@@ -34,7 +34,7 @@ Constrains soul in a cone at long (200 ft targeting group.
 ---
 
 **GuardSeal**
-Releases mind in a beam at short (10 ft targeting object.
+Releases mind in a focused beam within 10 feet, targeting an object. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -42,7 +42,7 @@ Releases mind in a beam at short (10 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
 | Wattage | 1407 W |
@@ -50,7 +50,7 @@ Releases mind in a beam at short (10 ft targeting object.
 ---
 
 **SurgeFrost**
-Constrains soul in a cylinder at long (200 ft targeting object.
+Constrains soul in a cylinder within 200 feet, targeting an object. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -58,15 +58,15 @@ Constrains soul in a cylinder at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 4212 W |
 
 ---
 
 **CalmSigil**
-Opposes soul in a sphere at long (200 ft targeting individual.
+Counters soul in a sphere within 200 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -74,7 +74,7 @@ Opposes soul in a sphere at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 4213 W |
@@ -82,7 +82,7 @@ Opposes soul in a sphere at long (200 ft targeting individual.
 ---
 
 **ChillFrost**
-Filters soul across surfaces at short (10 ft targeting surface.
+Filters soul across a surface within 10 feet, targeting a surface. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -90,7 +90,7 @@ Filters soul across surfaces at short (10 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 4175 W |
@@ -98,7 +98,7 @@ Filters soul across surfaces at short (10 ft targeting surface.
 ---
 
 **SurgeDream**
-Alters soul in a cone at long (200 ft targeting object.
+Alters soul in a spreading cone within 200 feet, targeting an object. It lasts up to one minute.
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -106,15 +106,15 @@ Alters soul in a cone at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 1557 W |
 
 ---
 
 **LoneFlame**
-Opposes mind across surfaces at medium (50 ft targeting group.
+Counters mind across a surface within 50 feet, targeting a group. It is permanent once established.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -122,7 +122,7 @@ Opposes mind across surfaces at medium (50 ft targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 1825 W |
@@ -130,7 +130,7 @@ Opposes mind across surfaces at medium (50 ft targeting group.
 ---
 
 **BreakScar**
-Manipulates soul in a sphere at short (10 ft targeting object.
+Manipulates soul in a sphere within 10 feet, targeting an object. It persists until the set condition is met.
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Create |
@@ -138,7 +138,7 @@ Manipulates soul in a sphere at short (10 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
 | Wattage | 1557 W |
@@ -146,7 +146,7 @@ Manipulates soul in a sphere at short (10 ft targeting object.
 ---
 
 **PiercBreath**
-Shields against mind in a beam at short (10 ft targeting individual.
+Shields against mind in a focused beam within 10 feet, targeting an individual. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -154,7 +154,7 @@ Shields against mind in a beam at short (10 ft targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Individual |
 | Wattage | 1433 W |
@@ -162,7 +162,7 @@ Shields against mind in a beam at short (10 ft targeting individual.
 ---
 
 **PierceBrand**
-Manipulates soul in a cylinder at medium (50 ft targeting filter.
+Manipulates soul in a cylinder within 50 feet, targeting a filtered set. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Affect |
@@ -170,7 +170,7 @@ Manipulates soul in a cylinder at medium (50 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
 | Wattage | 1995 W |
@@ -178,7 +178,7 @@ Manipulates soul in a cylinder at medium (50 ft targeting filter.
 ---
 
 **WildGate**
-Filters mind across surfaces at medium (50 ft targeting surface.
+Filters mind across a surface within 50 feet, targeting a surface. It is permanent once established.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -186,7 +186,7 @@ Filters mind across surfaces at medium (50 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1795 W |
@@ -194,7 +194,7 @@ Filters mind across surfaces at medium (50 ft targeting surface.
 ---
 
 **FlowThought**
-Shields against soul in a beam at long (200 ft targeting object.
+Shields against soul in a focused beam within 200 feet, targeting an object. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -202,7 +202,7 @@ Shields against soul in a beam at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 1947 W |
@@ -210,7 +210,7 @@ Shields against soul in a beam at long (200 ft targeting object.
 ---
 
 **LoudVoid**
-Displaces soul across surfaces at short (10 ft targeting filter.
+Displaces soul across a surface within 10 feet, targeting a filtered set. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -218,7 +218,7 @@ Displaces soul across surfaces at short (10 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 1605 W |
@@ -226,7 +226,7 @@ Displaces soul across surfaces at short (10 ft targeting filter.
 ---
 
 **AnchorPulse**
-Alters soul in a beam at short (10 ft targeting filter.
+Alters soul in a focused beam within 10 feet, targeting a filtered set. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -234,15 +234,15 @@ Alters soul in a beam at short (10 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Filter |
 | Wattage | 4200 W |
 
 ---
 
 **DissolvPath**
-Constrains soul in a cylinder at short (10 ft targeting group.
+Constrains soul in a cylinder within 10 feet, targeting a group. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -250,15 +250,15 @@ Constrains soul in a cylinder at short (10 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Group |
 | Wattage | 1585 W |
 
 ---
 
 **ShatterBrand**
-Constrains mind in a ring at medium (50 ft targeting surface.
+Constrains mind in a ring within 50 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -266,15 +266,15 @@ Constrains mind in a ring at medium (50 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Short |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 1415 W |
 
 ---
 
 **LightGlyph**
-Displaces mind in a sphere at short (10 ft targeting object.
+Displaces mind in a sphere within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -282,15 +282,15 @@ Displaces mind in a sphere at short (10 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 1417 W |
 
 ---
 
 **AnchorFlame**
-Filters soul in a cone at short (10 ft targeting individual.
+Filters soul in a spreading cone within 10 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -298,7 +298,7 @@ Filters soul in a cone at short (10 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 4158 W |
@@ -306,7 +306,7 @@ Filters soul in a cone at short (10 ft targeting individual.
 ---
 
 **SurgeMark**
-Alters soul in a cone at long (200 ft targeting individual.
+Alters soul in a spreading cone within 200 feet, targeting an individual. It lasts up to one minute.
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -314,15 +314,15 @@ Alters soul in a cone at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Individual |
 | Wattage | 1563 W |
 
 ---
 
 **TransformPulse**
-Detects soul in a cone at long (200 ft targeting surface.
+Detects soul in a spreading cone within 200 feet, targeting a surface. It persists while actively sustained.
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -330,7 +330,7 @@ Detects soul in a cone at long (200 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 1565 W |
@@ -338,7 +338,7 @@ Detects soul in a cone at long (200 ft targeting surface.
 ---
 
 **CaptureLight**
-Opposes soul across surfaces at short (10 ft targeting group.
+Counters soul across a surface within 10 feet, targeting a group. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -346,15 +346,15 @@ Opposes soul across surfaces at short (10 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Group |
 | Wattage | 1565 W |
 
 ---
 
 **CurvedKey**
-Opposes mind in a cone at long (200 ft targeting filter.
+Counters mind in a spreading cone within 200 feet, targeting a filtered set. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -362,7 +362,7 @@ Opposes mind in a cone at long (200 ft targeting filter.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 1495 W |
@@ -370,7 +370,7 @@ Opposes mind in a cone at long (200 ft targeting filter.
 ---
 
 **FreezeFlame**
-Releases soul in a beam at medium (50 ft targeting group.
+Releases soul in a focused beam within 50 feet, targeting a group. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -378,7 +378,7 @@ Releases soul in a beam at medium (50 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1595 W |
@@ -386,7 +386,7 @@ Releases soul in a beam at medium (50 ft targeting group.
 ---
 
 **TransformDance**
-Detects soul in a sphere at long (200 ft targeting group.
+Detects soul in a sphere within 200 feet, targeting a group. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -394,7 +394,7 @@ Detects soul in a sphere at long (200 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 4270 W |
@@ -402,7 +402,7 @@ Detects soul in a sphere at long (200 ft targeting group.
 ---
 
 **SurSeal**
-Opposes mind in a beam at long (200 ft targeting group.
+Counters mind in a focused beam within 200 feet, targeting a group. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -410,7 +410,7 @@ Opposes mind in a beam at long (200 ft targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1495 W |
@@ -418,7 +418,7 @@ Opposes mind in a beam at long (200 ft targeting group.
 ---
 
 **HeavyRoot**
-Detects mind in a beam at short (10 ft targeting object.
+Detects mind in a focused beam within 10 feet, targeting an object. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -426,15 +426,15 @@ Detects mind in a beam at short (10 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 1392 W |
 
 ---
 
 **DriftBridge**
-Displaces mind in a cylinder at long (200 ft targeting group.
+Displaces mind in a cylinder within 200 feet, targeting a group. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -442,15 +442,15 @@ Displaces mind in a cylinder at long (200 ft targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cylinder |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Group |
 | Wattage | 1495 W |
 
 ---
 
 **PierceShadow**
-Constrains soul in a ring at short (10 ft targeting object.
+Constrains soul in a ring within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -458,7 +458,7 @@ Constrains soul in a ring at short (10 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1532 W |
@@ -466,7 +466,7 @@ Constrains soul in a ring at short (10 ft targeting object.
 ---
 
 **ReleasMark**
-Displaces soul in a cone at medium (50 ft targeting individual.
+Displaces soul in a spreading cone within 50 feet, targeting an individual. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -474,15 +474,15 @@ Displaces soul in a cone at medium (50 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Long |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 4183 W |
 
 ---
 
 **AncientFrost**
-Constrains mind in a beam at short (10 ft targeting individual.
+Constrains mind in a focused beam within 10 feet, targeting an individual. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -490,15 +490,15 @@ Constrains mind in a beam at short (10 ft targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 1418 W |
 
 ---
 
 **FreezeDance**
-Manipulates soul in a sphere at short (10 ft targeting filter.
+Manipulates soul in a sphere within 10 feet, targeting a filtered set. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -506,7 +506,7 @@ Manipulates soul in a sphere at short (10 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Filter |
 | Wattage | 1995 W |
@@ -514,7 +514,7 @@ Manipulates soul in a sphere at short (10 ft targeting filter.
 ---
 
 **CalmScar**
-Manipulates soul in a sphere at medium (50 ft targeting surface.
+Manipulates soul in a sphere within 50 feet, targeting a surface. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -522,7 +522,7 @@ Manipulates soul in a sphere at medium (50 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1950 W |
@@ -530,7 +530,7 @@ Manipulates soul in a sphere at medium (50 ft targeting surface.
 ---
 
 **HiddenLock**
-Manipulates mind in a sphere at short (10 ft targeting group.
+Manipulates mind in a sphere within 10 feet, targeting a group. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -538,7 +538,7 @@ Manipulates mind in a sphere at short (10 ft targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1485 W |
@@ -546,7 +546,7 @@ Manipulates mind in a sphere at short (10 ft targeting group.
 ---
 
 **PierceBreath**
-Opposes soul across surfaces at long (200 ft targeting individual.
+Counters soul across a surface within 200 feet, targeting an individual. It is permanent once established.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -554,7 +554,7 @@ Opposes soul across surfaces at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 4573 W |
@@ -562,7 +562,7 @@ Opposes soul across surfaces at long (200 ft targeting individual.
 ---
 
 **SweepFlame**
-Manipulates mind in a cylinder at short (10 ft targeting surface.
+Manipulates mind in a cylinder within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -570,15 +570,15 @@ Manipulates mind in a cylinder at short (10 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cylinder |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 1410 W |
 
 ---
 
 **BurWisp**
-Shields against soul across surfaces at short (10 ft targeting object.
+Shields against soul across a surface within 10 feet, targeting an object. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -586,7 +586,7 @@ Shields against soul across surfaces at short (10 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 4142 W |
@@ -594,7 +594,7 @@ Shields against soul across surfaces at short (10 ft targeting object.
 ---
 
 **AncientSilence**
-Constrains mind in a ring at short (10 ft targeting surface.
+Constrains mind in a ring within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -602,15 +602,15 @@ Constrains mind in a ring at short (10 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 1425 W |
 
 ---
 
 **SteadyGate**
-Opposes soul in a cone at medium (50 ft targeting surface.
+Counters soul in a spreading cone within 50 feet, targeting a surface. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -618,7 +618,7 @@ Opposes soul in a cone at medium (50 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 1570 W |
@@ -626,7 +626,7 @@ Opposes soul in a cone at medium (50 ft targeting surface.
 ---
 
 **BindSight**
-Alters soul in a sphere at medium (50 ft targeting group.
+Alters soul in a sphere within 50 feet, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -634,7 +634,7 @@ Alters soul in a sphere at medium (50 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 4215 W |
@@ -642,7 +642,7 @@ Alters soul in a sphere at medium (50 ft targeting group.
 ---
 
 **PureMirror**
-Constrains soul in a beam at short (10 ft targeting surface.
+Constrains soul in a focused beam within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -650,15 +650,15 @@ Constrains soul in a beam at short (10 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 4145 W |
 
 ---
 
 **FreezeLight**
-Constrains soul in a beam at medium (50 ft targeting individual.
+Constrains soul in a focused beam within 50 feet, targeting an individual. It persists while actively sustained.
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -666,7 +666,7 @@ Constrains soul in a beam at medium (50 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 1538 W |
@@ -674,7 +674,7 @@ Constrains soul in a beam at medium (50 ft targeting individual.
 ---
 
 **DullLock**
-Displaces soul in a beam at short (10 ft targeting individual.
+Displaces soul in a focused beam within 10 feet, targeting an individual. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -682,15 +682,15 @@ Displaces soul in a beam at short (10 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Individual |
 | Wattage | 4148 W |
 
 ---
 
 **ShatterBlessing**
-Displaces soul across surfaces at long (200 ft targeting individual.
+Displaces soul across a surface within 200 feet, targeting an individual. It lasts up to one minute.
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -698,15 +698,15 @@ Displaces soul across surfaces at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Individual |
 | Wattage | 1553 W |
 
 ---
 
 **SweepDoor**
-Releases mind in a sphere at long (200 ft targeting object.
+Releases mind in a sphere within 200 feet, targeting an object. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -714,7 +714,7 @@ Releases mind in a sphere at long (200 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1457 W |
@@ -722,7 +722,7 @@ Releases mind in a sphere at long (200 ft targeting object.
 ---
 
 **ShatterEcho**
-Detects soul in a ring at long (200 ft targeting object.
+Detects soul in a ring within 200 feet, targeting an object. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -730,15 +730,15 @@ Detects soul in a ring at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 1582 W |
 
 ---
 
 **SweepMark**
-Opposes soul in a ring at long (200 ft targeting object.
+Counters soul in a ring within 200 feet, targeting an object. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -746,15 +746,15 @@ Opposes soul in a ring at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 1582 W |
 
 ---
 
 **ColdBreath**
-Displaces soul in a cylinder at long (200 ft targeting filter.
+Displaces soul in a cylinder within 200 feet, targeting a filtered set. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -762,7 +762,7 @@ Displaces soul in a cylinder at long (200 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 1660 W |
@@ -770,7 +770,7 @@ Displaces soul in a cylinder at long (200 ft targeting filter.
 ---
 
 **PiercMirror**
-Constrains mind across surfaces at medium (50 ft targeting object.
+Constrains mind across a surface within 50 feet, targeting an object. It is permanent once established.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -778,7 +778,7 @@ Constrains mind across surfaces at medium (50 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 1792 W |
@@ -786,7 +786,7 @@ Constrains mind across surfaces at medium (50 ft targeting object.
 ---
 
 **FallStrike**
-Detects soul in a beam at long (200 ft targeting surface.
+Detects soul in a focused beam within 200 feet, targeting a surface. It persists while actively sustained.
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -794,7 +794,7 @@ Detects soul in a beam at long (200 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 1560 W |
@@ -802,7 +802,7 @@ Detects soul in a beam at long (200 ft targeting surface.
 ---
 
 **StrongSigil**
-Alters mind in a beam at short (10 ft targeting surface.
+Alters mind in a focused beam within 10 feet, targeting a surface. It is permanent once established.
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -810,7 +810,7 @@ Alters mind in a beam at short (10 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1790 W |
@@ -818,7 +818,7 @@ Alters mind in a beam at short (10 ft targeting surface.
 ---
 
 **LightVeil**
-Opposes mind across surfaces at medium (50 ft targeting filter.
+Counters mind across a surface within 50 feet, targeting a filtered set. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -826,7 +826,7 @@ Opposes mind across surfaces at medium (50 ft targeting filter.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 1460 W |
@@ -834,7 +834,7 @@ Opposes mind across surfaces at medium (50 ft targeting filter.
 ---
 
 **TwistDream**
-Filters mind across surfaces at medium (50 ft targeting filter.
+Filters mind across a surface within 50 feet, targeting a filtered set. It is permanent once established.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Create |
@@ -842,7 +842,7 @@ Filters mind across surfaces at medium (50 ft targeting filter.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
 | Wattage | 1850 W |
@@ -850,7 +850,7 @@ Filters mind across surfaces at medium (50 ft targeting filter.
 ---
 
 **DissolvFrost**
-Filters mind in a sphere at medium (50 ft targeting individual.
+Filters mind in a sphere within 50 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -858,7 +858,7 @@ Filters mind in a sphere at medium (50 ft targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 1438 W |
@@ -866,7 +866,7 @@ Filters mind in a sphere at medium (50 ft targeting individual.
 ---
 
 **WeakVeil**
-Detects soul in a sphere at medium (50 ft targeting object.
+Detects soul in a sphere within 50 feet, targeting an object. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -874,7 +874,7 @@ Detects soul in a sphere at medium (50 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
 | Wattage | 1587 W |
@@ -882,7 +882,7 @@ Detects soul in a sphere at medium (50 ft targeting object.
 ---
 
 **BurnRoad**
-Shields against mind across surfaces at long (200 ft targeting surface.
+Shields against mind across a surface within 200 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -890,15 +890,15 @@ Shields against mind across surfaces at long (200 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 1425 W |
 
 ---
 
 **TransformRing**
-Filters soul in a cylinder at short (10 ft targeting individual.
+Filters soul in a cylinder within 10 feet, targeting an individual. It is permanent once established.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -906,7 +906,7 @@ Filters soul in a cylinder at short (10 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 4558 W |
@@ -914,7 +914,7 @@ Filters soul in a cylinder at short (10 ft targeting individual.
 ---
 
 **FallThought**
-Detects soul in a cone at long (200 ft targeting object.
+Detects soul in a spreading cone within 200 feet, targeting an object. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -922,15 +922,15 @@ Detects soul in a cone at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 1577 W |
 
 ---
 
 **StillVoid**
-Releases soul in a sphere at long (200 ft targeting individual.
+Releases soul in a sphere within 200 feet, targeting an individual. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -938,7 +938,7 @@ Releases soul in a sphere at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 4213 W |
@@ -946,7 +946,7 @@ Releases soul in a sphere at long (200 ft targeting individual.
 ---
 
 **ChillRoad**
-Constrains mind in a cylinder at short (10 ft targeting surface.
+Constrains mind in a cylinder within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -954,15 +954,15 @@ Constrains mind in a cylinder at short (10 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cylinder |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 1410 W |
 
 ---
 
 **StillBreath**
-Releases soul in a beam at long (200 ft targeting group.
+Releases soul in a focused beam within 200 feet, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -970,7 +970,7 @@ Releases soul in a beam at long (200 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 4225 W |
@@ -978,7 +978,7 @@ Releases soul in a beam at long (200 ft targeting group.
 ---
 
 **BreakFlame**
-Filters mind in a beam at long (200 ft targeting individual.
+Filters mind in a focused beam within 200 feet, targeting an individual. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -986,15 +986,15 @@ Filters mind in a beam at long (200 ft targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 1453 W |
 
 ---
 
 **DissolvGlyph**
-Opposes soul in a beam at short (10 ft targeting filter.
+Counters soul in a focused beam within 10 feet, targeting a filtered set. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -1002,7 +1002,7 @@ Opposes soul in a beam at short (10 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 4235 W |
@@ -1010,7 +1010,7 @@ Opposes soul in a beam at short (10 ft targeting filter.
 ---
 
 **VastGlyph**
-Manipulates soul in a beam at medium (50 ft targeting filter.
+Manipulates soul in a focused beam within 50 feet, targeting a filtered set. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -1018,7 +1018,7 @@ Manipulates soul in a beam at medium (50 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Filter |
 | Wattage | 4225 W |
@@ -1026,7 +1026,7 @@ Manipulates soul in a beam at medium (50 ft targeting filter.
 ---
 
 **DarkBond**
-Alters soul in a cone at medium (50 ft targeting object.
+Alters soul in a spreading cone within 50 feet, targeting an object. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -1034,7 +1034,7 @@ Alters soul in a cone at medium (50 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
 | Wattage | 1567 W |
@@ -1042,7 +1042,7 @@ Alters soul in a cone at medium (50 ft targeting object.
 ---
 
 **WildSpirit**
-Displaces soul in a beam at medium (50 ft targeting group.
+Displaces soul in a focused beam within 50 feet, targeting a group. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1050,7 +1050,7 @@ Displaces soul in a beam at medium (50 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1595 W |
@@ -1058,7 +1058,7 @@ Displaces soul in a beam at medium (50 ft targeting group.
 ---
 
 **BreakWay**
-Filters soul in a beam at short (10 ft targeting group.
+Filters soul in a focused beam within 10 feet, targeting a group. It lasts up to one minute.
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1066,15 +1066,15 @@ Filters soul in a beam at short (10 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Group |
 | Wattage | 1550 W |
 
 ---
 
 **TwistTouch**
-Displaces soul across surfaces at medium (50 ft targeting filter.
+Displaces soul across a surface within 50 feet, targeting a filtered set. It persists while actively sustained.
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1082,7 +1082,7 @@ Displaces soul across surfaces at medium (50 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 1585 W |
@@ -1090,7 +1090,7 @@ Displaces soul across surfaces at medium (50 ft targeting filter.
 ---
 
 **WhirlingSigil**
-Opposes soul across surfaces at medium (50 ft targeting group.
+Counters soul across a surface within 50 feet, targeting a group. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -1098,7 +1098,7 @@ Opposes soul across surfaces at medium (50 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 1950 W |
@@ -1106,7 +1106,7 @@ Opposes soul across surfaces at medium (50 ft targeting group.
 ---
 
 **AncientGlyph**
-Constrains soul in a cone at long (200 ft targeting individual.
+Constrains soul in a spreading cone within 200 feet, targeting an individual. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -1114,7 +1114,7 @@ Constrains soul in a cone at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Individual |
 | Wattage | 1598 W |
@@ -1122,7 +1122,7 @@ Constrains soul in a cone at long (200 ft targeting individual.
 ---
 
 **StillSpirit**
-Filters soul in a beam at long (200 ft targeting surface.
+Filters soul in a focused beam within 200 feet, targeting a surface. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -1130,7 +1130,7 @@ Filters soul in a beam at long (200 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 1590 W |
@@ -1138,7 +1138,7 @@ Filters soul in a beam at long (200 ft targeting surface.
 ---
 
 **BindMark**
-Manipulates soul across surfaces at short (10 ft targeting surface.
+Manipulates soul across a surface within 10 feet, targeting a surface. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -1146,7 +1146,7 @@ Manipulates soul across surfaces at short (10 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
 | Wattage | 4155 W |
@@ -1154,7 +1154,7 @@ Manipulates soul across surfaces at short (10 ft targeting surface.
 ---
 
 **ColdVoid**
-Detects soul across surfaces at short (10 ft targeting group.
+Detects soul across a surface within 10 feet, targeting a group. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -1162,7 +1162,7 @@ Detects soul across surfaces at short (10 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 4175 W |
@@ -1170,7 +1170,7 @@ Detects soul across surfaces at short (10 ft targeting group.
 ---
 
 **SweepCore**
-Constrains mind in a cone at short (10 ft targeting group.
+Constrains mind in a spreading cone within 10 feet, targeting a group. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -1178,15 +1178,15 @@ Constrains mind in a cone at short (10 ft targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Group |
 | Wattage | 1430 W |
 
 ---
 
 **ShatterBreath**
-Detects soul in a sphere at medium (50 ft targeting surface.
+Detects soul in a sphere within 50 feet, targeting a surface. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1194,7 +1194,7 @@ Detects soul in a sphere at medium (50 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1950 W |
@@ -1202,7 +1202,7 @@ Detects soul in a sphere at medium (50 ft targeting surface.
 ---
 
 **DriftLock**
-Alters soul in a ring at long (200 ft targeting individual.
+Alters soul in a ring within 200 feet, targeting an individual. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1210,15 +1210,15 @@ Alters soul in a ring at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Individual |
 | Wattage | 1588 W |
 
 ---
 
 **ColdSoul**
-Manipulates mind in a cone at long (200 ft targeting surface.
+Manipulates mind in a spreading cone within 200 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -1226,15 +1226,15 @@ Manipulates mind in a cone at long (200 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 1435 W |
 
 ---
 
 **BindWard**
-Shields against mind in a ring at long (200 ft targeting object.
+Shields against mind in a ring within 200 feet, targeting an object. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -1242,7 +1242,7 @@ Shields against mind in a ring at long (200 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1442 W |
@@ -1250,7 +1250,7 @@ Shields against mind in a ring at long (200 ft targeting object.
 ---
 
 **FreezeTide**
-Filters soul in a cylinder at long (200 ft targeting object.
+Filters soul in a cylinder within 200 feet, targeting an object. It remains latched until dismissed.
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -1258,7 +1258,7 @@ Filters soul in a cylinder at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Object |
 | Wattage | 1602 W |
@@ -1266,7 +1266,7 @@ Filters soul in a cylinder at long (200 ft targeting object.
 ---
 
 **SlowCrown**
-Shields against soul in a ring at long (200 ft targeting object.
+Shields against soul in a ring within 200 feet, targeting an object. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -1274,7 +1274,7 @@ Shields against soul in a ring at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 1957 W |
@@ -1282,7 +1282,7 @@ Shields against soul in a ring at long (200 ft targeting object.
 ---
 
 **PierceFrost**
-Filters mind in a ring at short (10 ft targeting individual.
+Filters mind in a ring within 10 feet, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1290,7 +1290,7 @@ Filters mind in a ring at short (10 ft targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
 | Wattage | 1423 W |
@@ -1298,7 +1298,7 @@ Filters mind in a ring at short (10 ft targeting individual.
 ---
 
 **DissolvCurse**
-Filters soul in a ring at medium (50 ft targeting object.
+Filters soul in a ring within 50 feet, targeting an object. It is permanent once established.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -1306,7 +1306,7 @@ Filters soul in a ring at medium (50 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 4557 W |
@@ -1314,7 +1314,7 @@ Filters soul in a ring at medium (50 ft targeting object.
 ---
 
 **LoudBond**
-Opposes soul in a ring at medium (50 ft targeting surface.
+Counters soul in a ring within 50 feet, targeting a surface. It persists while actively sustained.
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -1322,7 +1322,7 @@ Opposes soul in a ring at medium (50 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 1545 W |
@@ -1330,7 +1330,7 @@ Opposes soul in a ring at medium (50 ft targeting surface.
 ---
 
 **GuardRoot**
-Detects mind in a ring at long (200 ft targeting surface.
+Detects mind in a ring within 200 feet, targeting a surface. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1338,7 +1338,7 @@ Detects mind in a ring at long (200 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 1475 W |
@@ -1346,7 +1346,7 @@ Detects mind in a ring at long (200 ft targeting surface.
 ---
 
 **WeavHand**
-Releases mind in a beam at short (10 ft targeting individual.
+Releases mind in a focused beam within 10 feet, targeting an individual. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -1354,7 +1354,7 @@ Releases mind in a beam at short (10 ft targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft |
+| Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
 | Wattage | 1413 W |
@@ -1362,7 +1362,7 @@ Releases mind in a beam at short (10 ft targeting individual.
 ---
 
 **SolidStorm**
-Filters soul in a cylinder at long (200 ft targeting object.
+Filters soul in a cylinder within 200 feet, targeting an object. It lasts up to one minute.
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -1370,15 +1370,15 @@ Filters soul in a cylinder at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Object |
 | Wattage | 1567 W |
 
 ---
 
 **ShallowHalo**
-Displaces soul in a sphere at long (200 ft targeting individual.
+Displaces soul in a sphere within 200 feet, targeting an individual. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -1386,15 +1386,15 @@ Displaces soul in a sphere at long (200 ft targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Individual |
 | Wattage | 4208 W |
 
 ---
 
 **TwinFrost**
-Constrains soul in a cone at long (200 ft targeting filter.
+Constrains soul in a spreading cone within 200 feet, targeting a filtered set. It remains latched until dismissed.
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -1402,7 +1402,7 @@ Constrains soul in a cone at long (200 ft targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 4275 W |
@@ -1410,7 +1410,7 @@ Constrains soul in a cone at long (200 ft targeting filter.
 ---
 
 **ClearCurse**
-Filters mind in a cone at long (200 ft targeting object.
+Filters mind in a spreading cone within 200 feet, targeting an object. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1418,7 +1418,7 @@ Filters mind in a cone at long (200 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Object |
 | Wattage | 1447 W |
@@ -1426,7 +1426,7 @@ Filters mind in a cone at long (200 ft targeting object.
 ---
 
 **BindFlame**
-Opposes mind in a beam at medium (50 ft targeting group.
+Counters mind in a focused beam within 50 feet, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -1434,7 +1434,7 @@ Opposes mind in a beam at medium (50 ft targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 1450 W |
@@ -1442,7 +1442,7 @@ Opposes mind in a beam at medium (50 ft targeting group.
 ---
 
 **AnchoredGate**
-Detects soul in a sphere at long (200 ft targeting surface.
+Detects soul in a sphere within 200 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -1450,15 +1450,15 @@ Detects soul in a sphere at long (200 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft |
-| Persistence | Timed (Short |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 4205 W |
 
 ---
 
 **TwistNet**
-Shields against soul in a cylinder at long (200 ft targeting surface.
+Shields against soul in a cylinder within 200 feet, targeting a surface. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -1466,15 +1466,15 @@ Shields against soul in a cylinder at long (200 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 1590 W |
 
 ---
 
 **AnchorCalm**
-Manipulates mind in a beam at short (10 ft targeting surface.
+Manipulates mind in a focused beam within 10 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -1482,15 +1482,15 @@ Manipulates mind in a beam at short (10 ft targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft |
-| Persistence | Timed (Short |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 1395 W |
 
 ---
 
 **SweepPulse**
-Constrains soul across surfaces at medium (50 ft targeting group.
+Constrains soul across a surface within 50 feet, targeting a group. It lasts up to one minute.
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -1498,15 +1498,15 @@ Constrains soul across surfaces at medium (50 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Short |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Short) |
 | Target | Group |
 | Wattage | 1555 W |
 
 ---
 
 **CaptureCurse**
-Filters soul across surfaces at long (200 ft targeting object.
+Filters soul across a surface within 200 feet, targeting an object. It lasts up to one hour.
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1514,15 +1514,15 @@ Filters soul across surfaces at long (200 ft targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Long (200 ft |
-| Persistence | Timed (Long |
+| Reach | Long (200 ft) |
+| Persistence | Timed (Long) |
 | Target | Object |
 | Wattage | 1567 W |
 
 ---
 
 **AnchorSeal**
-Detects soul in a cone at medium (50 ft targeting group.
+Detects soul in a spreading cone within 50 feet, targeting a group. It persists until the set condition is met.
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -1530,7 +1530,7 @@ Detects soul in a cone at medium (50 ft targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 4205 W |
@@ -1538,7 +1538,7 @@ Detects soul in a cone at medium (50 ft targeting group.
 ---
 
 **FreezChain**
-Opposes soul in a cylinder at medium (50 ft targeting surface.
+Counters soul in a cylinder within 50 feet, targeting a surface. It lasts up to one minute.
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -1546,15 +1546,15 @@ Opposes soul in a cylinder at medium (50 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft |
-| Persistence | Timed (Short |
+| Reach | Medium (50 ft) |
+| Persistence | Timed (Short) |
 | Target | Surface |
 | Wattage | 4170 W |
 
 ---
 
 **FallCurse**
-Displaces mind in a cone at long (200 ft targeting object.
+Displaces mind in a spreading cone within 200 feet, targeting an object. It persists while actively sustained.
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -1562,7 +1562,7 @@ Displaces mind in a cone at long (200 ft targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft |
+| Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1437 W |
@@ -1570,7 +1570,7 @@ Displaces mind in a cone at long (200 ft targeting object.
 ---
 
 **GentleKnot**
-Manipulates soul in a sphere at medium (50 ft targeting surface.
+Manipulates soul in a sphere within 50 feet, targeting a surface. It is permanent once established.
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -1578,7 +1578,7 @@ Manipulates soul in a sphere at medium (50 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft |
+| Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1950 W |
@@ -1586,7 +1586,7 @@ Manipulates soul in a sphere at medium (50 ft targeting surface.
 ---
 
 **SweepPath**
-Shields against soul in a cone at short (10 ft targeting surface.
+Shields against soul in a spreading cone within 10 feet, targeting a surface. It lasts up to one hour.
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -1594,8 +1594,8 @@ Shields against soul in a cone at short (10 ft targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Short (10 ft |
-| Persistence | Timed (Long |
+| Reach | Short (10 ft) |
+| Persistence | Timed (Long) |
 | Target | Surface |
 | Wattage | 4170 W |
 
