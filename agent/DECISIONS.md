@@ -10,12 +10,20 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 
 <!-- REVIEW_DECISION_START -->
 ## Active Review Decision
-- Batch: 3R1
-- Scope: `content/Solumora.md`, `content/World Primer.md`
+- Batch: 1
+- Scope: `content/Doss Varn.md`, `content/Orre Cavlt.md`
 - Source: `agent/staging/PENDING_REVIEW.md`
 - Decision Owner: OPERATOR
-- Status: APPROVED
-- Notes: Applied by Claude on resume. Verified factual, canon-consistent, correct wikilinks to existing route pages. No new lore invented.
+- Status: REJECTED
+- Notes: Operator auto-rejected due missing link targets: content/Doss Varn.md: Border Guards, Cross-Border Trade; content/Orre Cavlt.md: Cross-Border Trade
+
+### Auto Flags
+- content/Doss Varn.md: missing link targets -> Border Guards, Cross-Border Trade
+- content/Orre Cavlt.md: missing link targets -> Cross-Border Trade
+
+### Operator Action
+- Routine batches are operator-owned and should not be escalated to creator.
+- Set `- Status:` only when manual intervention is needed.
 <!-- REVIEW_DECISION_END -->
 
 ---
