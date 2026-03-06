@@ -83,3 +83,9 @@ Large structures in Solumora are held together by recurring people who move betw
 These are not principal rulers, but they are often the first to notice that conditions have shifted. Their observations shape route choice, expedition behavior, procurement priorities, and who receives warning early enough to act.
 
 _See also: [[People]], [[Orre Cavlt]], [[Selt Orvn]], [[Vorn Teld]], [[Dess Tannor]], [[Keln Varost]], [[Ashford]], [[Halveth]], [[Wolfpoint]], [[Solhaven]]_
+
+## Narratives and Accounts
+
+Understanding Solumora requires more than institutional structure and geography. [[Stories]] provide lived perspective on how systems operate at ground level — how decisions cascade into consequences, how individuals navigate constraints, and how plans succeed or fail in contact with world conditions. These accounts document specific moments and their repercussions: crossings that fail and why, expeditions that succeed in revealing hidden complexity, and the personal and economic costs embedded in ordinary survival.
+
+_See also: [[Stories]], [[Ordinary Life]], [[People]]_
