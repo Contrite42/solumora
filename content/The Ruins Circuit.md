@@ -28,6 +28,6 @@ The Circuit has no mechanism to demand credit. This is accepted as the cost of o
 
 Most Circuit members want the ruins to be studied honestly — without the institutional filtering that shapes what the Corps reports and what gets buried in coordination-office language. They do not have a unified theory of what the ruins mean. They are a research community in the early stages of a problem, not a faction with a conclusion to defend.
 
-The [[Culmination Faction]]'s academic arm, [[Aldric Mourne]], attempts to cultivate Circuit contacts as sources of raw data that can be interpreted through the Culmination framework. Some Circuit researchers find this arrangement useful. Others find it irritating. The Circuit's lack of formal structure means there is no authority to regulate these relationships.
+The [[The Culmination Faction|Culmination Faction]]'s academic arm, [[Aldric Mourne]], attempts to cultivate Circuit contacts as sources of raw data that can be interpreted through the Culmination framework. Some Circuit researchers find this arrangement useful. Others find it irritating. The Circuit's lack of formal structure means there is no authority to regulate these relationships.
 
 *See also: [[Ancient Ruins]], [[The Advancement Corps]], [[The Culmination Faction]], [[Factions]], [[Tessel Dran]], [[Cossa Vrend]], [[Aldric Mourne]], [[Equatorial Desert]], [[Rift Incursions]]*

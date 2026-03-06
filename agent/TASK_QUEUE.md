@@ -1,5 +1,7 @@
 ﻿# Task Queue
 Permanant Task: The World Always Needs More. There is Always something to add a new adventure to play out in this world, a new friend, a new town, a new spell, a new description. There will always be more.
+
+Whenever human interaction  
 ## CONCURRENT AGENT OWNERSHIP (ACTIVE)
 
 Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` currently offline).
@@ -109,7 +111,7 @@ Blocked tasks are marked with their dependency.
   **Output:** Three populated glossary pages + inbound mentions from at least one anchor page (prefer [[Spell Variables]] or [[Spells]]).
   **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Stabilize legacy alias links introduced by older batches.
+- [x] **Goal:** Stabilize legacy alias links introduced by older batches.
   **Constraints:** Run targeted alias cleanup for `Culmination Faction`/`The Culmination Faction`, `Persecution Era`/`The Persecution Era`, and similar known drift without changing narrative meaning.
   **Output:** Low-impact link fixes across touched files + report entry in `agent/reports/inconsistencies.md`.
   **Owner:** `Copilot Auto`
@@ -243,3 +245,4 @@ Blocked tasks are marked with their dependency.
 | 2026-03-06 | Bone Sea expansion | Complete | Expanded `The Bone Sea.md` into travel/canon note; appended inbound logistics reference from `Equatorial Desert.md`; touched-file links validated. |
 | 2026-03-06 | DECISIONS normalization | Complete | Repaired duplicate Active Review blocks and restored a single valid `REVIEW_DECISION` marker pair to keep orchestrator parsing stable. |
 | 2026-03-06 | CLAIMED sync | Complete | Added 21 existing content paths missing from `agent/staging/CLAIMED.md` (stories, written works, Terravelle/Wolfpoint/history package files). |
+| 2026-03-05 | Alias stabilization pass | Complete | Normalized legacy links (`Culmination Faction`, `Persecution Era`, `Isolation Period`, `Advancement Corps`) to canonical targets and mapped unresolved references (`Crestward Research Nexus`, `Ashford Blockade`) to existing canon pages. |

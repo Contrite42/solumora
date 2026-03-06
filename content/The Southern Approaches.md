@@ -4,7 +4,7 @@ The Southern Approaches is the collective name used by desert guides for the sui
 
 The Approaches fan out from Halveth's southern edge across a roughly 40-kilometer front. The western branch follows terrain that sits slightly lower than the central approach, which offers marginal temperature benefit during the day at the cost of increased wind exposure from the coastal side. The central approach is the most documented — the most crossed, the most observed, the most recorded in official expedition literature — which means its risks are known and its seasonal variations are well-calibrated. The eastern branch runs closer to the first ruins cluster, which provides better reference navigation points but exposes crossing parties to higher rift-incidence zones from the first days of the crossing.
 
-Most [[Advancement Corps]] expeditions use the central approach. Most independent operators use whichever approach the guide recommends for current conditions, which varies.
+Most [[The Advancement Corps|Advancement Corps]] expeditions use the central approach. Most independent operators use whichever approach the guide recommends for current conditions, which varies.
 
 ## Halveth as Staging Infrastructure
 

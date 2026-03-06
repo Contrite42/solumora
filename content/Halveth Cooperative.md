@@ -20,7 +20,7 @@ Specific services:
 
 Crossing guide fees are not cheap and are not expected to be. A full-expedition lead guide charges rates that reflect both the risk and the years of investment required to be competent. [[Auralis]]-funded expeditions pay without negotiating, because their budget lines assume the cost. Independent merchants and academic researchers negotiate harder and accept worse odds when they succeed.
 
-The [[Advancement Corps]] has a standing arrangement with three Cooperative guides for annual expedition seasons. The arrangement is financially stable and quietly resented — Corps expeditions are managed affairs that do not reflect well in the post-season after-action reports, and guides who return from Corps work tend to have specific, careful things to say about what the official record claims happened versus what they observed.
+The [[The Advancement Corps|Advancement Corps]] has a standing arrangement with three Cooperative guides for annual expedition seasons. The arrangement is financially stable and quietly resented — Corps expeditions are managed affairs that do not reflect well in the post-season after-action reports, and guides who return from Corps work tend to have specific, careful things to say about what the official record claims happened versus what they observed.
 
 ## Relationship with Terravelle
 

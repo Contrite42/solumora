@@ -22,7 +22,7 @@ The [[Standard Guided Crossing]] takes fourteen to twenty-one days through the f
 
 Why the Equatorial Desert has the Flux properties it does is the question that neither current scholarship nor the ruins survey record has definitively answered.
 
-The leading hypothesis — advanced by the [[Culmination Faction]] and resisted by mainstream scholarship primarily because the faction advances it — is that the desert's Flux properties are a consequence of the ancient civilization's activity at the anomalous sites. Something was done at those sites, something that involved Flux at a scale and depth that altered the ambient field of the surrounding region, and the desert's current state is the lasting effect of that alteration.
+The leading hypothesis — advanced by the [[The Culmination Faction|Culmination Faction]] and resisted by mainstream scholarship primarily because the faction advances it — is that the desert's Flux properties are a consequence of the ancient civilization's activity at the anomalous sites. Something was done at those sites, something that involved Flux at a scale and depth that altered the ambient field of the surrounding region, and the desert's current state is the lasting effect of that alteration.
 
 If this is correct, the desert is not a natural phenomenon. It is an artifact.
 
@@ -36,4 +36,4 @@ The practical effect of the desert's Flux properties is what governs crossing st
 
 The [[Relay Compact]]'s cache network at ruins sites exists partly because the ruins sites, despite being in high-distortion zones, have consistent Flux anchoring that makes them reliable staging points — a property of the sites that is noted in crossing documentation without being explained. The ruins hold stable Flux in an otherwise unstable field. Whatever the ancient civilization did to build them, they remain, in that specific sense, working.
 
-*See also: [[History]], [[Equatorial Desert]], [[Ancient Ruins]], [[Rift Incursions]], [[The Ancient Civilization]], [[Flux]], [[Control Tier]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Halveth Cooperative]], [[Relay Compact]], [[The Advancement Corps]], [[Culmination Faction]]*
+*See also: [[History]], [[Equatorial Desert]], [[Ancient Ruins]], [[Rift Incursions]], [[The Ancient Civilization]], [[Flux]], [[Control Tier]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Halveth Cooperative]], [[Relay Compact]], [[The Advancement Corps]], [[The Culmination Faction|Culmination Faction]]*

@@ -18,7 +18,7 @@ Each kingdom's Isolation Period contains its own significant events, most of whi
 
 ## The Persecution Era
 
-The Isolation Period also contains the [[Persecution Era]] — approximately two centuries of community-level violence against people suspected of extremely high-tier Flux capacity. The persecution was not an event; it was a pattern that propagated across both kingdoms' territories over generations, motivated by fears about uncontrolled high-tier capacity that were never systematically addressed because neither kingdom's institutions were robust enough at that point to address them.
+The Isolation Period also contains the [[The Persecution Era|Persecution Era]] — approximately two centuries of community-level violence against people suspected of extremely high-tier Flux capacity. The persecution was not an event; it was a pattern that propagated across both kingdoms' territories over generations, motivated by fears about uncontrolled high-tier capacity that were never systematically addressed because neither kingdom's institutions were robust enough at that point to address them.
 
 The end of the Persecution Era roughly coincides with the maturation of both kingdoms' institutional structures — the guild systems and Path hierarchy that provided legitimate frameworks for integrating high-tier practitioners. This timing was probably not coincidental. Institutions that can make high-tier capacity legible reduce the kind of free-floating fear that the persecution fed on.
 

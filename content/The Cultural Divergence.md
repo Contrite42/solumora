@@ -14,7 +14,7 @@ Both kingdoms' cultural character was also shaped by the decisions of early lead
 
 ## The Grimoire Tradition
 
-Both kingdoms developed the [[Grimoires|grimoire tradition]] during the [[Isolation Period]], and the tradition developed somewhat differently in each.
+Both kingdoms developed the [[Grimoires|grimoire tradition]] during the [[The Isolation Period|Isolation Period]], and the tradition developed somewhat differently in each.
 
 In Terravelle, the grimoire market developed alongside the guild system, and guild certification standards became the primary quality assurance mechanism. The result is a grimoire culture where practical competency — can you use this text to do this job reliably? — is the primary value, and institutional control is distributed across multiple competing guild bodies rather than concentrated in any single institution.
 

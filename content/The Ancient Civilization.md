@@ -12,7 +12,7 @@ One possibility — not yet formally advanced in published scholarship but discu
 
 The [[Ancient Ruins|three anomalous Flux sites]] in the desert are different from the other ruins. They are not decayed. They are active. The Flux behavior in and around these sites does not match what should be present in an abandoned structure — it matches an ongoing process, something that is still running after the people who built it are gone.
 
-What the process is doing is the central question. The [[Culmination Faction]]'s position — that the ancient civilization "culminated" rather than died, that the anomalous sites represent the success of some final achievement rather than the cause of collapse — is a minority view in formal scholarship but a coherent one given the evidence. Something happened at these sites. The civilization is gone. The sites are still operating.
+What the process is doing is the central question. The [[The Culmination Faction|Culmination Faction]]'s position — that the ancient civilization "culminated" rather than died, that the anomalous sites represent the success of some final achievement rather than the cause of collapse — is a minority view in formal scholarship but a coherent one given the evidence. Something happened at these sites. The civilization is gone. The sites are still operating.
 
 The ruins near the anomalous sites also produce [[Rift Incursions|Flux rifts]] at elevated rates. Whether this is a consequence of the ongoing process at the anomalous sites, a separate phenomenon, or the mechanism by which the ancient population was affected is not established.
 
@@ -34,4 +34,4 @@ The absence of catastrophe markers in the ruins makes invasion or conquest impla
 
 The Culmination Faction's theory — that the anomalous sites represent a successful achievement, that the civilization chose to leave or transform rather than dying — is impossible to rule out on current evidence. It is also impossible to confirm.
 
-*See also: [[History]], [[History of Solumora]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Hypertext]], [[Rift Incursions]], [[Flux]], [[Culmination Faction]], [[Sera Voss]], [[Orva Dresk]], [[The Advancement Corps]], [[The Desert Barrier]]*
+*See also: [[History]], [[History of Solumora]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Hypertext]], [[Rift Incursions]], [[Flux]], [[The Culmination Faction|Culmination Faction]], [[Sera Voss]], [[Orva Dresk]], [[The Advancement Corps]], [[The Desert Barrier]]*

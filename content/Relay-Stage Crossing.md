@@ -32,6 +32,6 @@ The relay-stage crossing attracts practitioners and parties for whom the standar
 - Information couriers for whom documentation is an active liability
 - Practitioners who need to cross at T2 or T3 without the overhead of a full guided expedition
 
-The [[Advancement Corps]] has used relay-stage crossings for specific operations, though this is not documented in any official Corps record. The Compact's operators know the Corps by the way their arrangements are structured: specific ruins site targeting, exact supply requirements with no negotiation, and post-settlement accounts that are paid precisely on schedule from accounts that do not have obvious institutional attribution.
+The [[The Advancement Corps|Advancement Corps]] has used relay-stage crossings for specific operations, though this is not documented in any official Corps record. The Compact's operators know the Corps by the way their arrangements are structured: specific ruins site targeting, exact supply requirements with no negotiation, and post-settlement accounts that are paid precisely on schedule from accounts that do not have obvious institutional attribution.
 
 *See also: [[Relay Compact]], [[Equatorial Desert]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Ancient Ruins]], [[The Advancement Corps]], [[Halveth]]*

@@ -22,4 +22,4 @@ Orva is driven and precise in ways that make her difficult to work alongside on 
 
 She is not affiliated with any council faction in the sense of having made explicit commitments. The Culmination Faction funds her project and she has attended their informational events. She would accept resources from the Expansion Faction if they offered them with fewer strings than the Culmination arrangement currently carries. She is primarily interested in answering the Hypertext question, and faction affiliation is instrumental to that rather than primary.
 
-*See also: [[Solhaven]], [[Crestward District]], [[The Crestward]], [[Hypertext]], [[The Wolfpoint Scholarium]], [[The Wolfpoint Question]], [[Mira Solv]], [[Pellam Vores]], [[Crel Aldst]], [[The Advancement Corps]], [[Culmination Faction]], [[Auralis]]*
+*See also: [[Solhaven]], [[Crestward District]], [[The Crestward]], [[Hypertext]], [[The Wolfpoint Scholarium]], [[The Wolfpoint Question]], [[Mira Solv]], [[Pellam Vores]], [[Crel Aldst]], [[The Advancement Corps]], [[The Culmination Faction|Culmination Faction]], [[Auralis]]*

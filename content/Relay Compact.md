@@ -20,7 +20,7 @@ The Compact does not ask what is in the cargo. They ask whether the weight and v
 
 ## Canon Uncertainty
 
-Neither [[Terravelle]] nor [[Auralis]] officially acknowledges the Compact's existence. Both kingdoms have used its services. The [[Advancement Corps]] has used it twice that Compact operators are aware of, both times for extracting ruins samples that were not in the official expedition manifest. The Corps paid and did not follow up, which the Compact interpreted as institutional approval of the arrangement continuing.
+Neither [[Terravelle]] nor [[Auralis]] officially acknowledges the Compact's existence. Both kingdoms have used its services. The [[The Advancement Corps|Advancement Corps]] has used it twice that Compact operators are aware of, both times for extracting ruins samples that were not in the official expedition manifest. The Corps paid and did not follow up, which the Compact interpreted as institutional approval of the arrangement continuing.
 
 The Compact's founding is unclear even to its current operators. The oldest surviving cache was in place before the oldest current member joined. Someone built it. No one currently knows who, and the question is treated as less interesting than whether the seals hold.
 

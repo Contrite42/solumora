@@ -1,4 +1,4 @@
-**Pellam Vores** is twenty-nine years old and works in the [[Crestward Research Nexus]] conducting Flux-related research under informal supervision by the [[Culmination Faction]]. [[Control Tier|T5]]. She assessed T6 at age twelve, which is rare enough to be noticed by institutional talent scouts. Her family is minor merchant (Bluff District origins) rather than elite, so the pathway upward required demonstrating sufficient research competence that the Crestward institutions were willing to invest in training her.
+**Pellam Vores** is twenty-nine years old and works in the [[The Crestward|Crestward Research Nexus]] conducting Flux-related research under informal supervision by the [[The Culmination Faction|Culmination Faction]]. [[Control Tier|T5]]. She assessed T6 at age twelve, which is rare enough to be noticed by institutional talent scouts. Her family is minor merchant (Bluff District origins) rather than elite, so the pathway upward required demonstrating sufficient research competence that the Crestward institutions were willing to invest in training her.
 
 She completed formal apprenticeships in theory and practice, published a paper on control mechanisms in Pentagon sigils that was well-regarded, and was offered a position at the Nexus five years ago. She works on projects that are officially "open" research (publishable, defensible) but that have strategic value to the Council's agenda.
 
@@ -10,4 +10,4 @@ She lives in the Crestward in a small estate that the Nexus maintains for promis
 
 She has recently been asked to consult on a project investigating the mechanism of Flux incursions near anomalous ruins sites. The project has both scientific interest and obvious strategic importance. She has accepted. She does not know whether this is advancement or whether accepting has compromised her future independence.
 
-*See also: [[Solhaven]], [[The Crestward]], [[Auralis]], [[Crestward Research Nexus]], [[Culmination Faction]], [[Control Tier]], [[Flux]], [[Ordinary Life in Auralis]]*
+*See also: [[Solhaven]], [[The Crestward]], [[Auralis]], [[The Crestward|Crestward Research Nexus]], [[The Culmination Faction|Culmination Faction]], [[Control Tier]], [[Flux]], [[Ordinary Life in Auralis]]*
