@@ -123,8 +123,7 @@ const MOUNTAIN_RIDGES = [
   "M430 148 L474 122 L518 148 L564 116 L610 148",
 ]
 
-const MAREN_RIVER_PATH =
-  "M404 250 C430 356 452 438 486 504 C554 566 642 588 740 588"
+const MAREN_RIVER_PATH = "M404 250 C430 356 452 438 486 504 C554 566 642 588 740 588"
 
 const EAST_ESTUARY_PATH = "M740 588 C780 600 814 618 844 646"
 
@@ -258,12 +257,22 @@ export default (() => {
 
             <line class="solumora-lat-line" x1="150" x2="850" y1="620" y2="620" />
             <line class="solumora-lat-line" x1="150" x2="850" y1="920" y2="920" />
-            <line class="solumora-lat-line solumora-lat-line--soft" x1="150" x2="850" y1="992" y2="992" />
+            <line
+              class="solumora-lat-line solumora-lat-line--soft"
+              x1="150"
+              x2="850"
+              y1="992"
+              y2="992"
+            />
           </g>
 
           <g class="solumora-terrain-layer" clip-path="url(#solumora-continent-clip)">
             {MOUNTAIN_RIDGES.map((ridge, idx) => (
-              <path key={`ridge-${idx}`} class="solumora-terrain solumora-terrain--ridge" d={ridge} />
+              <path
+                key={`ridge-${idx}`}
+                class="solumora-terrain solumora-terrain--ridge"
+                d={ridge}
+              />
             ))}
             <path class="solumora-terrain solumora-terrain--river" d={MAREN_RIVER_PATH} />
             <path class="solumora-terrain solumora-terrain--estuary" d={EAST_ESTUARY_PATH} />
@@ -345,8 +354,8 @@ export default (() => {
           })}
         </svg>
         <p class="solumora-map-note">
-          Positions follow current canon: full-width Zakros barrier, corridor-style approach systems,
-          disputed Halveth edge, and coast-facing plus valley-linked hubs.
+          Positions follow current canon: full-width Zakros barrier, corridor-style approach
+          systems, disputed Halveth edge, and coast-facing plus valley-linked hubs.
         </p>
       </section>
     )

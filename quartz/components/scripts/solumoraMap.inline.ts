@@ -2,7 +2,7 @@ import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { FullSlug, resolveRelative } from "../../util/path"
 
 type ContentIndex = Record<string, ContentDetails>
-type MarkerElement = SVGAElement & {
+type MapLinkElement = SVGAElement & {
   dataset: {
     mapKeys?: string
     mapTitles?: string
@@ -84,35 +84,35 @@ async function refreshMap(mapRoot: HTMLElement, currentSlug: FullSlug) {
   }
 
   const index = await fetchLatestIndex(currentSlug)
-  const markers = Array.from(
-    mapRoot.querySelectorAll(".solumora-map-marker"),
-  ) as unknown as MarkerElement[]
+  const mapLinks = Array.from(
+    mapRoot.querySelectorAll(".solumora-map-link"),
+  ) as unknown as MapLinkElement[]
   let linkedCount = 0
 
-  for (const marker of markers) {
-    const keys = splitList(marker.dataset.mapKeys)
-    const titles = splitList(marker.dataset.mapTitles)
+  for (const mapLink of mapLinks) {
+    const keys = splitList(mapLink.dataset.mapKeys)
+    const titles = splitList(mapLink.dataset.mapTitles)
     const match = findEntry(index, keys, titles)
-    const defaultLabel = marker.dataset.mapLabel ?? "Mapped location"
+    const defaultLabel = mapLink.dataset.mapLabel ?? "Mapped location"
 
     if (!match) {
-      marker.classList.add("is-missing")
-      marker.classList.remove("is-active")
-      marker.setAttribute("aria-label", `${defaultLabel} (unresolved link target)`)
-      marker.removeAttribute("href")
+      mapLink.classList.add("is-missing")
+      mapLink.classList.remove("is-active")
+      mapLink.setAttribute("aria-label", `${defaultLabel} (unresolved link target)`)
+      mapLink.removeAttribute("href")
       continue
     }
 
     const [targetSlug, details] = match
-    marker.classList.add("is-active")
-    marker.classList.remove("is-missing")
-    marker.setAttribute("href", resolveRelative(currentSlug, targetSlug as FullSlug))
-    marker.setAttribute("aria-label", `Open ${details.title}`)
+    mapLink.classList.add("is-active")
+    mapLink.classList.remove("is-missing")
+    mapLink.setAttribute("href", resolveRelative(currentSlug, targetSlug as FullSlug))
+    mapLink.setAttribute("aria-label", `Open ${details.title}`)
     linkedCount += 1
   }
 
   if (status) {
-    status.textContent = `Synced ${stampNow()} - ${linkedCount}/${markers.length} map points resolved`
+    status.textContent = `Synced ${stampNow()} - ${linkedCount}/${mapLinks.length} map anchors resolved`
   }
 }
 

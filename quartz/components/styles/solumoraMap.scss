@@ -72,6 +72,10 @@
   fill: color-mix(in srgb, #c78d3a 58%, transparent);
 }
 
+.solumora-zone--frontier {
+  fill: color-mix(in srgb, #8d8a84 42%, transparent);
+}
+
 .solumora-zone--south {
   fill: color-mix(in srgb, var(--tertiary) 62%, transparent);
 }
@@ -81,6 +85,11 @@
   stroke-width: 2;
   stroke-dasharray: 8 8;
   opacity: 0.65;
+}
+
+.solumora-lat-line--soft {
+  opacity: 0.45;
+  stroke-dasharray: 4 10;
 }
 
 .solumora-zone-tag {
@@ -97,6 +106,10 @@
     fill: color-mix(in srgb, #c78d3a 62%, var(--light) 38%);
   }
 
+  &--frontier rect {
+    fill: color-mix(in srgb, #89847d 56%, var(--light) 44%);
+  }
+
   &--south rect {
     fill: color-mix(in srgb, var(--tertiary) 62%, var(--light) 38%);
   }
@@ -111,17 +124,99 @@
   pointer-events: none;
 }
 
-.solumora-route {
-  fill: none;
-  stroke-linecap: round;
-  stroke-width: 2.2;
+.solumora-terrain-layer {
   pointer-events: none;
 }
 
-.solumora-route--zakros {
-  stroke: color-mix(in srgb, #7f5a23 60%, var(--darkgray) 40%);
-  stroke-dasharray: 7 7;
-  opacity: 0.78;
+.solumora-terrain {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.solumora-terrain--ridge {
+  stroke: color-mix(in srgb, #3b434d 62%, var(--darkgray) 38%);
+  stroke-width: 2.1;
+  opacity: 0.8;
+}
+
+.solumora-terrain--river {
+  stroke: color-mix(in srgb, #2f7294 72%, var(--light) 28%);
+  stroke-width: 2.4;
+  opacity: 0.82;
+}
+
+.solumora-terrain--estuary {
+  stroke: color-mix(in srgb, #3b7d9f 62%, var(--light) 38%);
+  stroke-width: 1.9;
+  stroke-dasharray: 5 6;
+  opacity: 0.76;
+}
+
+.solumora-terrain--terrace {
+  stroke: color-mix(in srgb, #4e6e6a 64%, var(--light) 36%);
+  stroke-width: 1.5;
+  opacity: 0.72;
+}
+
+.solumora-map-region-link {
+  text-decoration: none;
+  cursor: pointer;
+
+  path {
+    fill-opacity: 0.18;
+    stroke-width: 1.8;
+    transition:
+      fill-opacity 0.2s ease,
+      stroke 0.2s ease;
+  }
+
+  .solumora-region-label {
+    fill: var(--light);
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    paint-order: stroke;
+    stroke: color-mix(in srgb, var(--darkgray) 84%, transparent);
+    stroke-width: 3;
+    pointer-events: none;
+  }
+
+  &--zakros-region path {
+    fill: transparent;
+    stroke: color-mix(in srgb, #8b5e23 55%, var(--darkgray) 45%);
+    stroke-dasharray: 10 8;
+    opacity: 0.62;
+  }
+
+  &--northern-narrows-region path {
+    fill: color-mix(in srgb, #9a6b2c 52%, transparent);
+    stroke: color-mix(in srgb, #7b4f1f 64%, var(--darkgray) 36%);
+  }
+
+  &--southern-approaches-region path {
+    fill: color-mix(in srgb, #786a52 52%, transparent);
+    stroke: color-mix(in srgb, #5f5442 65%, var(--darkgray) 35%);
+  }
+
+  &:hover path {
+    fill-opacity: 0.3;
+  }
+
+  &.is-active path {
+    stroke: color-mix(in srgb, #1f8f5c 72%, var(--darkgray) 28%);
+  }
+
+  &.is-missing path {
+    stroke: color-mix(in srgb, var(--gray) 68%, var(--lightgray) 32%);
+    fill: color-mix(in srgb, var(--gray) 40%, transparent);
+    fill-opacity: 0.18;
+    opacity: 0.65;
+  }
+
+  &.is-missing .solumora-region-label {
+    fill: color-mix(in srgb, var(--gray) 76%, var(--darkgray) 24%);
+  }
 }
 
 .solumora-map-marker {
@@ -191,6 +286,10 @@
 
   .solumora-zone-label {
     font-size: 15px;
+  }
+
+  .solumora-map-region-link .solumora-region-label {
+    font-size: 13px;
   }
 
   .solumora-map-marker text {
