@@ -18,7 +18,6 @@ Channels a sustained beam of raw high-tier Flux at a target, structurally degrad
 | Reach | Line-of-Sight |
 | Persistence | Sustained |
 | Target | Individual |
-| Spell Page | [[Spells/Ruinstrike|Ruinstrike]] |
 
 ---
 
@@ -36,7 +35,6 @@ Simultaneously severs the Flux connection of every individual within a defined f
 | Reach | Medium |
 | Persistence | Timed (Short) |
 | Target | Group |
-| Spell Page | [[Spells/Massfluxsever|Massfluxsever]] |
 
 ---
 
@@ -54,7 +52,6 @@ Binds two individuals together at the Soul level with a permanent tether — wha
 | Reach | Touch |
 | Persistence | Permanent |
 | Target | Group |
-| Spell Page | [[Spells/Soulchain|Soulchain]] |
 
 ---
 
@@ -72,7 +69,6 @@ Permanently severs a targeted individual's Soul signature from a specific bound 
 | Reach | Touch |
 | Persistence | Permanent |
 | Target | Individual |
-| Spell Page | [[Spells/Soulsever|Soulsever]] |
 
 ---
 
@@ -91,7 +87,6 @@ Triggers a cascading reactive chemical breakdown in all organic material within 
 | Reach        | Medium        |
 | Persistence  | Timed (Short) |
 | Target       | Group         |
-| Spell Page | [[Spells/Chemcollapse|Chemcollapse]] |
 
 ---
 
@@ -110,9 +105,7 @@ Channels raw apex-adjacent Flux directly into a single individual's channels, ca
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
-| Spell Page | [[Spells/Fluxburn|Fluxburn]] |
 
-| Spell Page | [[Spells/Fluxstorm|Fluxstorm]] |
 ---
 
 **Fluxstorm**
@@ -130,9 +123,7 @@ Generates a sustained wide-area Flux disruption field that destabilizes all acti
 | Reach        | Long      |
 | Persistence  | Sustained |
 | Target       | Filter    |
-| Spell Page | [[Spells/Fluxstorm|Fluxstorm]] |
 
-| Spell Page | [[Spells/Forcequake|Forcequake]] |
 ---
 
 **Forcequake**
@@ -150,7 +141,6 @@ Sends a massive kinetic shockwave through a wide area, cracking surfaces, collap
 | Reach        | Long                    |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
-| Spell Page | [[Spells/Forcesunder|Forcesunder]] |
 
 ---
 
@@ -169,7 +159,6 @@ Applies a catastrophic kinetic force to a single structural target — wall, gat
 | Reach        | Long                    |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Object                  |
-| Spell Page | [[Spells/Massmindveil|Massmindveil]] |
 
 ---
 
@@ -188,7 +177,6 @@ Wraps a sustained neuro-disrupting concealment field over an entire area, causin
 | Reach        | Long      |
 | Persistence  | Sustained |
 | Target       | Group     |
-| Spell Page | [[Spells/Mindcollapse|Mindcollapse]] |
 
 ---
 
@@ -207,7 +195,6 @@ Permanently destroys the higher cognitive function of a single targeted individu
 | Reach        | Medium     |
 | Persistence  | Permanent  |
 | Target       | Individual |
-| Spell Page | [[Spells/Mindwipe|Mindwipe]] |
 
 ---
 
@@ -226,7 +213,6 @@ Permanently erases a targeted individual's memory of a defined period, replacing
 | Reach        | Touch      |
 | Persistence  | Permanent  |
 | Target       | Individual |
-| Spell Page | [[Spells/Soulfracture|Soulfracture]] |
 
 ---
 
@@ -245,7 +231,6 @@ Cracks the Soul signature of a targeted individual, causing ongoing identity des
 | Reach        | Touch      |
 | Persistence  | Permanent  |
 | Target       | Individual |
-| Spell Page | [[Spells/Soulrend|Soulrend]] |
 
 ---
 
@@ -264,7 +249,6 @@ Tears a targeted individual's Soul signature partially free from their physical 
 | Reach        | Touch       |
 | Persistence  | Conditional |
 | Target       | Individual  |
-| Spell Page | [[Spells/Thunderwall|Thunderwall]] |
 
 ---
 
@@ -283,4 +267,3 @@ Erects a sustained barrier of combined sonic and kinetic force that is physicall
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Filter    |
-| Spell Page | [[Spells/Thunderwall|Thunderwall]] |

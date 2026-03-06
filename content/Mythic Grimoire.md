@@ -23,7 +23,6 @@ Permanently rewrites a single individual's Flux ceiling, either elevating or col
 | Reach        | Touch      |
 | Persistence  | Permanent  |
 | Target       | Individual |
-| Spell Page | [[Spells/Fluxcrown|Fluxcrown]] |
 
 ---
 
@@ -42,7 +41,6 @@ Permanently restructures the conscious identity of a single individual, replacin
 | Reach        | Touch      |
 | Persistence  | Permanent  |
 | Target       | Individual |
-| Spell Page | [[Spells/Mindrewrite|Mindrewrite]] |
 
 ---
 
@@ -61,4 +59,3 @@ Releases a catastrophic Soul-frequency eruption across a wide field, fracturing 
 | Reach        | Long                    |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Group                   |
-| Spell Page | [[Spells/Soulstorm|Soulstorm]] |
