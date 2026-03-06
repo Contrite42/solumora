@@ -25,3 +25,11 @@ The Maren River runs through the center of the city and has been the reason for 
 The trade gala where [[Cael]] first saw [[Cassia]] was held in Valdenmoor's formal reception district, in the hall that handles diplomatic functions when the palace itself is considered too pointed a venue.
 
 *See also: [[Terravelle]], [[Eddan Voss]], [[Cael]], [[Solumora]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Fen Orel]], [[Life in Valdenmoor]], [[Ordinary Life]]*
+
+## River Logistics Role
+
+Valdenmoor's market and warehouse districts serve as the administrative center of the [[Maren Freight Chain]]. Dispatch schedules, bonded storage windows, and transfer pricing for river-borne bulk cargo are coordinated here before volume is pushed east toward [[Ashford]] for export.
+
+This work is not glamorous, but it is one of the systems that allows Terravelle to keep trade moving when political conditions at the border are unstable.
+
+*See also: [[Maren Freight Chain]], [[Ashford]], [[Trade Guilds]], [[Life in Valdenmoor]]*

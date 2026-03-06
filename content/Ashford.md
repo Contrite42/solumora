@@ -21,3 +21,11 @@ Eddan considers Ashford one of the three non-negotiables of Terravellian securit
 The eastern situation has been developing in ways that Ashford's administrative reports do not fully capture, and Eddan knows this. He does not know the precise mechanism. He knows the shape of a problem that is being managed from a distance by someone patient, and he has not yet identified who.
 
 *See also: [[Terravelle]], [[Eddan Voss]], [[Valdenmoor]], [[Geography]], [[Watts]], [[Birth Runes]], [[Davan Rhyce]], [[Life in Ashford]]*
+
+## Movement Infrastructure
+
+Ashford's trade volume depends on three movement systems that overlap without merging cleanly. Bulk cargo arrives through the [[Maren Freight Chain]] and is redistributed through dock districts that can absorb schedule slippage without collapsing contract commitments. High-priority administrative traffic and compact, high-value loads move over the [[Ashford-Halveth Courier Road]], which stays active even when ordinary overland commerce contracts.
+
+Long-distance information and mixed cargo movement to northern settlements is handled through the [[Outer Coast Packet Line]]. The packet circuit is slower than local river movement but more resilient when inland routes are politically noisy.
+
+*See also: [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Outer Coast Packet Line]], [[Trade Guilds]], [[Life in Ashford]]*

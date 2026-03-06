@@ -33,3 +33,11 @@ What Wolfpoint has built over seven generations is not a finished system. [[Hype
 The current head of the Voss line, [[The Voss Line|Sera Voss]], is the first to formally document Hypertext sequences in transmissible form — a [[Grimoires|grimoire]] equivalent that can be copied and taught rather than passed down through direct instruction. Whether this document ever reaches [[Auralis]] is a question the current Voss head has not yet answered.
 
 *See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Solen Carr]], [[Mell Rask]], [[Cossa Vrend]]*
+
+## Trade Connectivity
+
+Wolfpoint's material link to the broader economy is intermittent but dependable: the [[Outer Coast Packet Line]]. Packet captains handle mixed cargo and correspondence runs that connect Wolfpoint to [[Ashford]] and onward commercial networks.
+
+The settlement's leadership treats this line as utility, not dependence. Packet arrivals are scheduled into storage and workshop cycles so delays do not force emergency procurement.
+
+*See also: [[Outer Coast Packet Line]], [[Ashford]], [[Terravelle]], [[Auralis]], [[Life in Wolfpoint]]*

@@ -1,11 +1,11 @@
-# Task: Ashford Political Atmosphere + Cassia People in Motion
+# Task: Trade & Travel Spine - Phase 1
 
 ## Current Operator Step
-1. Completed: appended `content/Doss Varn.md`, `content/Orre Cavlt.md`, `content/Cavel Dorst.md`.
-2. Completed: creator approved Cassia batch in `agent/DECISIONS.md`.
-3. Completed: appended `## What She Knows` to `content/Cassia.md`.
-4. Completed: updated coordination and reports for this cycle.
-5. Next: move to next queued world-building task.
+1. Completed: created `content/Maren Freight Chain.md` (river logistics backbone).
+2. Completed: created `content/Ashford-Halveth Courier Road.md` (overland courier channel).
+3. Completed: created `content/Outer Coast Packet Line.md` (coastal mixed-cargo circuit).
+4. Completed: added inbound route links in `content/Ashford.md`, `content/Valdenmoor.md`, `content/Halveth.md`, `content/Wolfpoint.md`.
+5. Next: Trade & Travel Phase 2 (add 3-4 more route/hub notes, then update `content/Solumora.md` and `content/World Primer.md`).
 
 Three appends. No new characters. No new lore invented.
 All pages are APPENDs to existing files — do not rewrite or replace existing content.

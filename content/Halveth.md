@@ -33,3 +33,11 @@ Wren's Binding range extends far enough south to give the village some warning. 
 [[Auralis]] expedition researchers who pass through Halveth and speak to Wren about rift conditions consistently report that she knows more than they do. None of them have successfully determined how.
 
 *See also: [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Flux]], [[Watts]], [[Birth Runes]], [[Rett Soln]], [[Equatorial Fauna]], [[Life in Halveth]], [[Cor Meln]], [[Ossen Drel]], [[Selt Orvn]], [[Vorn Teld]]*
+
+## Logistics Position
+
+Halveth's practical role in cross-border movement is narrower than its reputation. The settlement is a handoff point on the [[Ashford-Halveth Courier Road]] for high-priority traffic and compact expedition-critical cargo, not a bulk trade center.
+
+The road's reliability near Halveth depends as much on local knowledge and timing discipline as on formal contracts. In crossing season, this turns the village into a bottleneck people plan around months in advance.
+
+*See also: [[Ashford-Halveth Courier Road]], [[Ashford]], [[Auralis]], [[Terravelle]], [[Life in Halveth]]*

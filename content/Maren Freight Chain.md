@@ -1,0 +1,9 @@
+The Maren Freight Chain is Terravelle's primary river logistics system, moving bulk goods between inland producers and the eastern export machinery centered on [[Ashford]]. It is less a single route than a scheduled set of river runs, transfer yards, and contract warehouses aligned to water level calendars.
+
+The chain begins upstream from [[Valdenmoor]] in the farming and ore districts that can load grain, timber, and processed metal onto shallow-draft barges. Barges run in staggered convoys to reduce loss risk and to keep unloading crews in steady employment instead of burst-cycle hiring. Most operators carry mixed manifests so a delay in one commodity does not zero the value of a full run.
+
+What makes the system work is timing discipline. River movement is cheaper than road movement at volume, but it is less forgiving when levels turn against you. Guild dispatchers in Valdenmoor and Ashford publish rolling schedules that include expected choke points, lock maintenance windows, and weather-risk bands. Independent crews complain about the paperwork and follow it anyway because the paperwork predicts who gets paid.
+
+The chain is also Terravelle's main way to absorb shocks from cross-border friction. When overland traffic near [[Halveth]] tightens, more volume is pulled into river storage and released later through Ashford's coastal lanes. The opposite happens when storms slow coastal traffic. River logistics does not solve political pressure. It buys time against it.
+
+*See also: [[Terravelle]], [[Valdenmoor]], [[Ashford]], [[Trade Guilds]], [[Watts]], [[Life in Valdenmoor]], [[Life in Ashford]], [[Halveth]]*

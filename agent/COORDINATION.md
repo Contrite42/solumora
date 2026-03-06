@@ -1,12 +1,14 @@
 ﻿# Coordination Log
 
 ## Active Task
-- Completed TASK-09/TASK-10 cycle; continuing queued world-building.
+- Trade & Travel spine buildout (phase-based execution).
 
 ## Current Status
 - Operator-owned appends are applied to `content/Doss Varn.md`, `content/Orre Cavlt.md`, and `content/Cavel Dorst.md`.
 - Creator-approved Cassia rewrite (`2R1`) has been applied to `content/Cassia.md`.
 - Added Bren Ossve expansion in `content/Bren Ossve.md` (`## The Requests`) and marked TASK-11 complete in `agent/TASK_QUEUE.md`.
+- Added three Trade & Travel notes: `content/Maren Freight Chain.md`, `content/Ashford-Halveth Courier Road.md`, `content/Outer Coast Packet Line.md`.
+- Added inbound route-link sections to `content/Ashford.md`, `content/Valdenmoor.md`, `content/Halveth.md`, and `content/Wolfpoint.md`.
 
 ## Operator Role Assignment
 - Current operator (Codex): reviewer + repair agent.
@@ -26,11 +28,12 @@
 - Recorded `REJECTED` guidance in `agent/DECISIONS.md` for the current pending draft (broken link + batch scope issues).
 
 ## Open Items
-- Pick next scoped build item from `agent/TASK_QUEUE.md` (Trade & Travel spine recommended next major chunk).
+- Continue Trade & Travel phase 2 with 3-4 additional route/hub notes (river/coastal/relay coverage).
+- Append "How people move" summaries to `content/Solumora.md` and `content/World Primer.md` after phase 2 baseline exists.
 - `agent/staging/orchestrator.lock` may still reference stale PID; avoid destructive process commands.
 
 ## Next Operator Checklist
-1. Draft the first 2-3 notes for the Trade & Travel spine to establish route and logistics foundations.
+1. Draft 3-4 additional Trade & Travel notes to complete initial network coverage.
 2. Update nearest hubs with append-only linkage blocks.
-3. Run canon/link coherence check and update reports.
-4. Escalate only if world-structure decisions are required.
+3. Append "How people move" sections to `content/Solumora.md` and `content/World Primer.md`.
+4. Run canon/link coherence check and update reports.
