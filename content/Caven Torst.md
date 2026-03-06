@@ -16,4 +16,4 @@ He has a son who assessed at T3 last year at age thirteen. The assessment drew s
 
 He lives in the northern Outer Wards with his son, in a building he owns outright. The ferry income is consistent rather than large, and his ownership of both boat and building means his fixed costs are low relative to income. He is not wealthy but has the particular financial stability that comes from having reduced variable exposure through ownership — a Valdenmoor aspiration that his specific position has allowed him to achieve.
 
-*See also: [[The Dock Wards]], [[Valdenmoor]], [[Maren River]], [[Trade Guilds]], [[Control Tier]], [[The Outer Wards]], [[Life in Valdenmoor]]*
+_See also: [[The Dock Wards]], [[Valdenmoor]], [[Maren River]], [[Trade Guilds]], [[Control Tier]], [[The Outer Wards]], [[Life in Valdenmoor]]_

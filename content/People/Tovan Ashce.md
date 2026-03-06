@@ -52,4 +52,4 @@ He is playing a longer game than anyone else on the council, with a more flexibl
 
 This makes him both more and less dangerous than the other council members. Less dangerous because he has no grand agenda that requires destroying existing institutions. More dangerous because his agenda is compatible with any outcome, which means he has no incentive to prevent any particular catastrophe if it serves his long-term positioning.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Castor Helme]], [[Cassia]], [[Drest]], [[Auralis]], [[Solhaven]], [[Ancient Ruins]], [[Emberfall]], [[Maren Sollis]], [[Yara Venn]], [[Davan Rhyce]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Castor Helme]], [[Cassia]], [[Drest]], [[Auralis]], [[Solhaven]], [[Ancient Ruins]], [[Emberfall]], [[Maren Sollis]], [[Yara Venn]], [[Davan Rhyce]]_

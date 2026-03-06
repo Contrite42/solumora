@@ -20,4 +20,4 @@ Rella is precise in her speech and careful in her professional relationships. Sh
 
 Her own T3 assessment sits at the upper edge of what guild certification for her kind of work requires. She has not pursued Path advancement tracks — the Path's educational hierarchy is not where she wants to be, and the independence of private practice is something she values more than the institutional credential would provide.
 
-*See also: [[The Middling Steps]], [[Solhaven]], [[Control Tier]], [[Ascendant Path]], [[Tier Assessment]], [[Life in Solhaven]], [[Auralis]]*
+_See also: [[The Middling Steps]], [[Solhaven]], [[Control Tier]], [[Ascendant Path]], [[Tier Assessment]], [[Life in Solhaven]], [[Auralis]]_

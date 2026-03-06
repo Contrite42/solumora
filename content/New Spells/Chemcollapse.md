@@ -1,17 +1,17 @@
 Triggers a cascading reactive chemical breakdown in all organic material within a defined field, causing rapid structural degradation.
 
-| Variable | Value |
-|---|---|
-| Shape | Circle |
-| Hook | Transform |
-| Mode | Affect |
-| Control Tier | T7 |
-| Discipline | Chemical |
-| Output | Reactive |
-| Pattern | Field |
-| Reach | Medium |
-| Persistence | Timed (Short) |
-| Target | Group |
+| Variable     | Value         |
+| ------------ | ------------- |
+| Shape        | Circle        |
+| Hook         | Transform     |
+| Mode         | Affect        |
+| Control Tier | T7            |
+| Discipline   | Chemical      |
+| Output       | Reactive      |
+| Pattern      | Field         |
+| Reach        | Medium        |
+| Persistence  | Timed (Short) |
+| Target       | Group         |
 
 **Rarity:** Legendary
 **Grimoire:** [[Legendary Grimoire]]

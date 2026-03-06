@@ -9,6 +9,7 @@ Minimum practical capability is T2 with appropriate grimoire kit, provided the c
 ## Advance Arrangement
 
 Using relay-stage crossing requires prior contact with the [[Relay Compact]]. The arrangement process covers:
+
 - Route corridor selection and cache site confirmation
 - Contracted supply quantities at each site (affecting cache consumption fees)
 - Authentication codes for depot seals — the seals are designed to resist casual opening; they require the correct code or a T4+ forced opening that would be noisy enough to attract attention
@@ -27,6 +28,7 @@ Outside of cache failure, the relay-stage method shares the standard failure mod
 ## Who Uses It
 
 The relay-stage crossing attracts practitioners and parties for whom the standard guided crossing is either too slow or too public:
+
 - Commercial cargo operators moving goods that do not appear on official manifests
 - Academic researchers crossing outside formal expedition seasons
 - Information couriers for whom documentation is an active liability
@@ -34,4 +36,4 @@ The relay-stage crossing attracts practitioners and parties for whom the standar
 
 The [[The Advancement Corps|Advancement Corps]] has used relay-stage crossings for specific operations, though this is not documented in any official Corps record. The Compact's operators know the Corps by the way their arrangements are structured: specific ruins site targeting, exact supply requirements with no negotiation, and post-settlement accounts that are paid precisely on schedule from accounts that do not have obvious institutional attribution.
 
-*See also: [[Relay Compact]], [[Equatorial Desert]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Ancient Ruins]], [[The Advancement Corps]], [[Halveth]]*
+_See also: [[Relay Compact]], [[Equatorial Desert]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Ancient Ruins]], [[The Advancement Corps]], [[Halveth]]_

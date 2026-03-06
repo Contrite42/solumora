@@ -10,7 +10,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Shell
 
-**Configuration:** Dominant hand flat, fingers pressed together, thumb tucked tightly against the palm. The hand is held rigid — no bend at any joint. The back of the hand faces outward away from the body. 
+**Configuration:** Dominant hand flat, fingers pressed together, thumb tucked tightly against the palm. The hand is held rigid — no bend at any joint. The back of the hand faces outward away from the body.
 
 **Effect:** A hardened force layer forms across the skin, distributing impact force across the body's surface rather than concentrating it at the point of contact. Blunt trauma is significantly reduced. Cuts and punctures are partially but not fully resisted — the shell does not stop a blade, but it slows it.
 
@@ -20,7 +20,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Step
 
-**Configuration:** Chosen hand open, fingers spread wide apart, palm facing downward toward the ground. The wrist is bent so the fingers point forward rather than down. Held low at roughly hip height. 
+**Configuration:** Chosen hand open, fingers spread wide apart, palm facing downward toward the ground. The wrist is bent so the fingers point forward rather than down. Held low at roughly hip height.
 
 **Effect:** The caster's movement speed, reaction time, and physical agility increase sharply. Footwork becomes faster, directional changes require less effort, and the gap between perceiving something and physically responding to it narrows. The effect is not dramatic at rest — it does not feel like much standing still — but under movement it is immediately apparent.
 
@@ -30,7 +30,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Numb
 
-**Configuration:** Dominant hand in a loose fist, but with the middle and ring fingers extended straight forward. The two extended fingers are pressed together. The fist faces inward toward the body, knuckles facing out. 
+**Configuration:** Dominant hand in a loose fist, but with the middle and ring fingers extended straight forward. The two extended fingers are pressed together. The fist faces inward toward the body, knuckles facing out.
 
 **Effect:** Pain signaling across the caster's body is suppressed. Injuries still occur and still affect physical function — a broken arm is still broken — but the caster does not feel them as pain. Awareness of injury comes from mechanical limitation rather than sensation.
 
@@ -40,7 +40,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Eye
 
-**Configuration:** Dominant hand with index and middle fingers extended and spread in a V. The other fingers are curled into the palm. The V is held up at eye level, tips of the two fingers pointing upward. 
+**Configuration:** Dominant hand with index and middle fingers extended and spread in a V. The other fingers are curled into the palm. The V is held up at eye level, tips of the two fingers pointing upward.
 
 **Effect:** The caster's perception of nearby [[Flux]] activity sharpens dramatically — active casting, charged [[Sigils]], and individuals in the process of channeling register as a faint pressure sense in a radius of roughly thirty feet. Not directionally precise, but sufficient to know that someone nearby is casting or about to.
 
@@ -50,7 +50,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Weight
 
-**Configuration:** Dominant hand in a full fist, thumb wrapped over the outside of the fingers rather than tucked inside. The fist is held with the thumb facing upward. Arm is held close to the body, elbow bent. 
+**Configuration:** Dominant hand in a full fist, thumb wrapped over the outside of the fingers rather than tucked inside. The fist is held with the thumb facing upward. Arm is held close to the body, elbow bent.
 
 **Effect:** The caster's physical mass, for purposes of being moved, increases dramatically. Pushes, throws, sweeps, and kinetic force effects that would normally displace a person of the caster's size fail or produce far less movement than expected.
 
@@ -60,7 +60,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Mend
 
-**Configuration:** Both hands required. Non-dominant hand open and flat, palm facing up. Dominant hand placed on top, palm facing down, fingers of both hands aligned in the same direction. The hands are held still, stacked, at mid-torso height. 
+**Configuration:** Both hands required. Non-dominant hand open and flat, palm facing up. Dominant hand placed on top, palm facing down, fingers of both hands aligned in the same direction. The hands are held still, stacked, at mid-torso height.
 
 **Effect:** The caster's body accelerates its natural repair processes — bleeding slows and surface wounds begin closing. Does not heal instantly and does not repair structural damage like broken bones. It is the difference between a cut that would bleed for an hour and one that stops in minutes.
 
@@ -70,7 +70,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Still
 
-**Configuration:** Dominant hand with all five fingers extended and pressed together, thumb included, forming a flat blade shape. The hand is held vertically, fingers pointing straight up, palm facing inward toward the caster's own chest. 
+**Configuration:** Dominant hand with all five fingers extended and pressed together, thumb included, forming a flat blade shape. The hand is held vertically, fingers pointing straight up, palm facing inward toward the caster's own chest.
 
 **Effect:** The caster's hands and fine motor control become preternaturally steady. Tremor, adrenaline response, fatigue shake, and pain-induced movement are suppressed entirely at the extremities. The rest of the body is unaffected.
 
@@ -80,7 +80,7 @@ They have no formal names. What follows are the names soldiers use.
 
 ### The Quiet
 
-**Configuration:** Dominant hand with all fingers curled inward at the second knuckle — not a fist, but a half-curl, as though loosely holding something cylindrical. The thumb rests against the side of the index finger rather than over it. Held at chest height. 
+**Configuration:** Dominant hand with all fingers curled inward at the second knuckle — not a fist, but a half-curl, as though loosely holding something cylindrical. The thumb rests against the side of the index finger rather than over it. Held at chest height.
 
 **Effect:** The caster's body produces no sound. Footsteps, breathing, the rustle of movement, the sound of equipment — all of it stops. The caster is not invisible and produces a visible presence, but generates no audio.
 
@@ -92,4 +92,4 @@ All eight signs are taught by demonstration and practice only. No written record
 
 This is considered, by those who teach them, to be appropriate. Some things should require a person.
 
-*See also: [[Flux]], [[Control Tier]], [[Sigils]], [[Hypertext]], [[Flux Users]], [[The Voss Line]], [[Wolfpoint]]*
+_See also: [[Flux]], [[Control Tier]], [[Sigils]], [[Hypertext]], [[Flux Users]], [[The Voss Line]], [[Wolfpoint]]_

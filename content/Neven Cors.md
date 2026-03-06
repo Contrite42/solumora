@@ -8,4 +8,4 @@ He finds the Flux work itself uninteresting in a way that is not exactly dissati
 
 The Path is aware of this interest in the way that the Path tends to be aware of things. Neven is aware that it is aware. He has not decided whether this is a reason to pursue the interest or a reason not to.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Watts]], [[Ordinary Life in Auralis]], [[Tier Assessment]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Watts]], [[Ordinary Life in Auralis]], [[Tier Assessment]]_

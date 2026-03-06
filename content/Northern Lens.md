@@ -44,8 +44,8 @@ Cor Venn, [[Control Tier|Tier 4]], 48 years old, operates near [[Stenn Ridge]] a
 
 Northern Lens operations generate modest income. Typical pricing for unauthorized copies:
 
-- [[Common Grimoire]] utility spell: 12-18 [[Watts]] (guild authentication would be 20-30 Watts)  
-- [[Uncommon Grimoire]] specialized effect: 25-35 Watts (guild rate: 50-70 Watts)  
+- [[Common Grimoire]] utility spell: 12-18 [[Watts]] (guild authentication would be 20-30 Watts)
+- [[Uncommon Grimoire]] specialized effect: 25-35 Watts (guild rate: 50-70 Watts)
 - [[Rare Grimoire]] higher-tier copy: 80-150 Watts depending on complexity (guild rate: 200-400 Watts, if available)
 
 The price difference reflects eliminated overhead: no guild fees, no authentication infrastructure, no institutional administrative costs. The copies still require skilled work and time investment, but copyists accept lower margins because their cost structure is minimal and alternative employment in rural [[Terravelle]] often pays worse than copying work.
@@ -80,4 +80,4 @@ Some guild administrators privately acknowledge that informal rural copying netw
 
 The Northern Lens represents one model of black market grimoire production: distributed, low-volume, quality-focused operations serving underserved markets that legitimate institutions cannot reach cost-effectively. Similar networks exist in rural [[Auralis]], though they are smaller (Auralis has higher urban concentration and better guild infrastructure coverage). The networks persist because they provide real value to practitioners with no better alternatives, operate below enforcement thresholds where systematic action becomes cost-effective, and maintain quality discipline that prevents the catastrophic failures which would force intensive institutional response.
 
-*See also: [[Black Market Grimoire Circulation]], [[Terravelle]], [[Maren Valley]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Control Tier]], Voss Neln, Mira Seln, Cor Venn, Lorn Kess, [[Keld Basin]], [[Drest]], [[Stenn Ridge]]*
+_See also: [[Black Market Grimoire Circulation]], [[Terravelle]], [[Maren Valley]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Control Tier]], Voss Neln, Mira Seln, Cor Venn, Lorn Kess, [[Keld Basin]], [[Drest]], [[Stenn Ridge]]_

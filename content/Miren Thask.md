@@ -6,4 +6,4 @@ What she has learned over eleven years: most discrepancies are accidents. Scribe
 
 She has flagged four deliberate discrepancies in eleven years. In two cases, the credit house's senior management agreed with her assessment and acted on it. In two cases, they thanked her and did not act. She has continued to do the work. The ledger records what happens regardless.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Watts]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Watts]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_

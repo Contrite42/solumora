@@ -22,4 +22,4 @@ Private lending creates an ambiguous situation around copying. Most private lend
 
 Cross-kingdom lending — an [[Auralis]] Scholar lending a text to a [[Terravelle]] practitioner or vice versa — is rare and operates entirely through personal relationship rather than any institutional framework. The text crosses [[Equatorial Desert|Desert Zakros]] via courier or carried personally, the terms are whatever the parties agree, and there is no enforcement mechanism if the arrangement goes wrong. Most practitioners who engage in cross-kingdom lending have established trust relationships built over years of correspondence or direct contact.
 
-*See also: [[Grimoires]], [[Grimoire Copyists]], [[Common Grimoire Market]], [[High-Tier Grimoire Access]], [[Grimoire Regulation]], [[Trade Guilds]], [[Grimoire Repair and Preservation]]*
+_See also: [[Grimoires]], [[Grimoire Copyists]], [[Common Grimoire Market]], [[High-Tier Grimoire Access]], [[Grimoire Regulation]], [[Trade Guilds]], [[Grimoire Repair and Preservation]]_

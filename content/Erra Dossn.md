@@ -6,4 +6,4 @@ The [[Flux]] research environment creates specific market conditions she has ada
 
 [[Tessel Dran]] buys from her stall before extended research trips. She has noticed, over several years, that the items Tessel requests before trips have gotten more specific and that the quantities suggest longer durations. She has not mentioned this observation. It is not her business. She adjusts her stock in advance accordingly.
 
-*See also: [[Emberfall]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]], [[Tessel Dran]]*
+_See also: [[Emberfall]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]], [[Tessel Dran]]_

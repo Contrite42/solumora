@@ -1,4 +1,5 @@
 # Solumora Style Guide
+
 Writing conventions for all vault notes. Violating these breaks the reader experience.
 
 ---
@@ -12,9 +13,11 @@ Writing conventions for all vault notes. Violating these breaks the reader exper
 - **People are in motion**. Characters have jobs, routines, specific problems. They are not archetypes.
 
 **GOOD voice:**
+
 > Osvin Brack keeps a running ledger of every Flux assessment in Valdenmoor's merchant quarter going back eleven years. He knows who upgraded, who tested out, who was reassessed after an accident. He does not share this information freely.
 
 **BAD voice:**
+
 > In the mystical land of Solumora, brave heroes wield ancient powers to protect their realm from darkness...
 
 ---
@@ -43,6 +46,7 @@ Every note follows this pattern:
 ## NAMING RULES
 
 ### Character names
+
 Short, terse, grounded. Germanic/Nordic feel. No melodrama.
 
 **CORRECT patterns:**
@@ -59,6 +63,7 @@ Short, terse, grounded. Germanic/Nordic feel. No melodrama.
 | Brenne | Kalt |
 
 **FORBIDDEN patterns — reject any name matching these:**
+
 - Compound poetic surnames: Darkhaven, Earthsong, Moonwhisper, Blackwood, Stonefist, Greenhaven, Ironhand, Silvermist
 - Epithets in names: "the Bold", "the Wise", "the Swift"
 - Irish/Celtic: Niamh, Caoimhe, Aoife, Ciarán, Siobhán
@@ -66,16 +71,19 @@ Short, terse, grounded. Germanic/Nordic feel. No melodrama.
 - Apostrophe-containing names unless clearly from a specific existing culture reference
 
 When creating new characters, follow this formula:
+
 - 1–2 syllable first name (e.g. Coss, Veld, Orre, Teva, Ressa)
 - 1–2 syllable surname (e.g. Dolt, Norn, Aldst, Cors, Vend)
 - Check WORLD_STATE.md name conflict rules before finalizing
 
 ### Place names
+
 Existing established places only unless the task explicitly calls for new ones. New place names must follow the same Germanic/grounded convention: Valdenmoor, Ashford, Greyveil, Wolfpoint, Halveth, Hedun, Emberfall, Solhaven.
 
 FORBIDDEN new place names: Zha'thik, Aridos, Valtania, Khyronia, Nefaria, Luminara, Shadowmere, etc.
 
 ### Faction/Institution names
+
 Functional and descriptive. FORBIDDEN: The Shadowhand Brotherhood, The Luminari Enclave, The Ironfist Legion. These are D&D names, not Solumora names.
 CORRECT: Trade Guilds, Advancement Corps, Culmination Faction, Expansion Faction, Covenant of Measure.
 
@@ -94,12 +102,14 @@ CORRECT: Trade Guilds, Advancement Corps, Culmination Faction, Expansion Faction
 ## WHAT EVERY NOTE MUST INCLUDE
 
 **Location notes:**
+
 - What is the place and what makes it distinct
 - Who lives/works there (name specific individuals, including at least one ground-level person from WORLD_STATE.md if applicable)
 - What tensions or ongoing situations exist there
 - How it connects to the wider world
 
 **Character notes:**
+
 - What they do (job, role, daily life)
 - Their Control Tier and what that means practically for them
 - One specific thing they know or are doing that is NOT common knowledge
@@ -107,6 +117,7 @@ CORRECT: Trade Guilds, Advancement Corps, Culmination Faction, Expansion Faction
 - See Also linking to relevant location and lore pages
 
 **Lore/concept notes:**
+
 - What it is, how it works
 - Who uses it and why
 - Specific examples grounded in named people/places

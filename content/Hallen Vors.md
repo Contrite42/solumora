@@ -6,4 +6,4 @@ His T3 casting is used for soil conditioning and weather assessment — agricult
 
 The decision to stay was not a rejection of what Solhaven or Path service might have offered. It was a recognition that the question of what he wanted had a clear answer and that the answer was here. He has found, over twenty-two years, that this clarity is rarer than it looks from outside.
 
-*See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Solhaven]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]*
+_See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Solhaven]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_

@@ -28,4 +28,4 @@ The accommodation that has developed is not a partnership. He has not told her w
 
 He is also, though he would not frame it this way, slightly concerned that she is getting better faster than he expected.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Mave]], [[Sorath]], [[Fennick]], [[Wren]], [[Auralis]], [[The Council of Auralis]], [[Ancient Ruins]], [[Essa Rolt]]*
+_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Mave]], [[Sorath]], [[Fennick]], [[Wren]], [[Auralis]], [[The Council of Auralis]], [[Ancient Ruins]], [[Essa Rolt]]_

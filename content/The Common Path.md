@@ -20,4 +20,4 @@ Less than they want and more than their opponents are comfortable acknowledging.
 
 The [[Expansion Faction]] regards the Common Path as a distraction from serious governance — and also, privately, as a threat to the social stability that keeps low-tier Auralis practitioners too occupied with local disputes to focus on Council-level politics. The Ascendant Path establishment regards them as a theological problem. [[Cassia]] has read their arguments and found them largely correct, which she has not said to anyone in the Council.
 
-*See also: [[Auralis]], [[Control Tier]], [[Ascendant Path]], [[The Council of Auralis]], [[Expansion Faction]], [[Cassia]], [[Factions]], [[Ordinary Life in Auralis]], [[Solhaven]]*
+_See also: [[Auralis]], [[Control Tier]], [[Ascendant Path]], [[The Council of Auralis]], [[Expansion Faction]], [[Cassia]], [[Factions]], [[Ordinary Life in Auralis]], [[Solhaven]]_

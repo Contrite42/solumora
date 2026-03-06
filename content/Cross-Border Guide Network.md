@@ -52,4 +52,4 @@ Border settlements like [[Halveth]], [[Thel Reach]], and [[Seln Watch]] recogniz
 
 The network is infrastructure — essential, distributed, and maintained through collective action by people who need it to work.
 
-*See also: [[Equatorial Desert]], [[Thel Reach]], [[Halveth]], [[Seln Watch]], [[Dren Outpost]], [[Korst Station]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Rift Incursions]], [[Control Tier]], Ren Cors, Kess Tarn*
+_See also: [[Equatorial Desert]], [[Thel Reach]], [[Halveth]], [[Seln Watch]], [[Dren Outpost]], [[Korst Station]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Rift Incursions]], [[Control Tier]], Ren Cors, Kess Tarn_

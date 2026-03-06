@@ -38,4 +38,4 @@ In the context of rural [[Life in Rural Terravelle]], Bren represents the succes
 
 His approach to hunting — systematic, sustainable, informed by deep knowledge of local conditions — reflects the [[Covenant of Measure]]'s principles in practice. He takes what is needed, preserves it efficiently, and ensures that his work contributes to the community's long-term stability rather than short-term abundance at the cost of future scarcity.
 
-*See also: [[Life in Rural Terravelle]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Covenant of Measure]], [[Preservation Sigils]], [[Equatorial Desert]], [[Flux Demons]], [[Valdenmoor]], [[Watts]], [[Reth Caln]], [[Solen Carr]], [[Teva Orrn]]*
+_See also: [[Life in Rural Terravelle]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Covenant of Measure]], [[Preservation Sigils]], [[Equatorial Desert]], [[Flux Demons]], [[Valdenmoor]], [[Watts]], [[Reth Caln]], [[Solen Carr]], [[Teva Orrn]]_

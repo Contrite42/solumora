@@ -32,4 +32,4 @@ The same persistence operates in the other direction. Auralis has been aware for
 
 Two genuinely different answers to the same world, each embedded in institutions that have been reinforcing them for six hundred years, maintained separate by the desert that kept them apart long enough to become themselves.
 
-*See also: [[History]], [[Terravelle]], [[Auralis]], [[Flux]], [[Ascendant Path]], [[Covenant of Measure]], [[The Grimoire Tradition]], [[Grimoire Regulation]], [[Control Tier]], [[The Isolation Period]], [[The First Contact]]*
+_See also: [[History]], [[Terravelle]], [[Auralis]], [[Flux]], [[Ascendant Path]], [[Covenant of Measure]], [[The Grimoire Tradition]], [[Grimoire Regulation]], [[Control Tier]], [[The Isolation Period]], [[The First Contact]]_

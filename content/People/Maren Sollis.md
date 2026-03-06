@@ -60,4 +60,4 @@ This makes her both the most principled member of the council and the most frust
 
 The tragedy of Maren's position is that she represents exactly what [[Auralis]] claims to value — competence, integrity, and the use of [[Flux]] mastery in service of the kingdom's genuine interests — while being systematically excluded from the decisions that determine how those values are actually implemented.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Cassia]], [[Castor Helme]], [[Drest]], [[Tovan Ashce]], [[Auralis]], [[Solhaven]], [[Emberfall]], [[Control Tier]], [[Flux]], [[Reform Faction]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Cassia]], [[Castor Helme]], [[Drest]], [[Tovan Ashce]], [[Auralis]], [[Solhaven]], [[Emberfall]], [[Control Tier]], [[Flux]], [[Reform Faction]]_

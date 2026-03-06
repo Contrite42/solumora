@@ -46,4 +46,4 @@ The buyers do not understand the constraint. From their perspective, Reld is cho
 
 The tension has not escalated to conflict. But it has created a gap — urban workshops want more volume now, and Reld wants to preserve the resource base that will sustain future generations. Neither position is wrong. Both reflect legitimate economic pressures operating on different timescales.
 
-*See also: [[Auralis]], [[Solhaven]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], [[Lorn Seld]], Nev Kort*
+_See also: [[Auralis]], [[Solhaven]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], [[Lorn Seld]], Nev Kort_

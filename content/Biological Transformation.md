@@ -4,4 +4,4 @@ In mainstream practice across [[Terravelle]] and [[Auralis]], this work is tight
 
 Field references to biological transformation usually indicate theory work, failed prototypes, or restricted archives rather than available public techniques.
 
-*See also: [[Flux]], [[Control Tier]], [[Soul]], [[The Council of Auralis]], [[The Advancement Corps]], [[Grimoires]]*
+_See also: [[Flux]], [[Control Tier]], [[Soul]], [[The Council of Auralis]], [[The Advancement Corps]], [[Grimoires]]_

@@ -28,4 +28,4 @@ The Common market is the primary mechanism by which grimoires spread power witho
 
 What the Common market cannot do is provide access above its tier. A T1 practitioner can buy every Common grimoire available and will still not be able to use an Uncommon spell, because the [[Control Tier]] ceiling is biological. The market distributes what is accessible; it does not change what is accessible.
 
-*See also: [[Grimoires]], [[Common Grimoire]], [[Grimoire Copyists]], [[Grimoire Licensing]], [[High-Tier Grimoire Access]], [[Watts]], [[Trade Guilds]], [[Sable Morn]], [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]]*
+_See also: [[Grimoires]], [[Common Grimoire]], [[Grimoire Copyists]], [[Grimoire Licensing]], [[High-Tier Grimoire Access]], [[Watts]], [[Trade Guilds]], [[Sable Morn]], [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]]_

@@ -21,10 +21,11 @@ What later became doctrine began as practical common sense shared across trades.
 ## Institutional Legacy
 
 Three founding-era legacies still define Terravelle:
+
 - Distributed governance through competing institutions rather than singular ideological authority.
 - Economic primacy of transport/logistics systems tied to the [[Maren River]] and downstream ports.
 - Social legitimacy grounded in demonstrated competence, codified later through guild certification.
 
 By the close of the founding period, Terravelle had become coherent enough to survive bad years without systemic collapse. That coherence, more than military conquest or dynastic continuity, is the core achievement of the Northern Founding.
 
-*See also: [[History]], [[Terravelle]], [[Covenant of Measure]], [[Maren River]], [[Trade Guilds]], [[The Cultural Divergence]], [[The Isolation Period]], [[Valdenmoor]]*
+_See also: [[History]], [[Terravelle]], [[Covenant of Measure]], [[Maren River]], [[Trade Guilds]], [[The Cultural Divergence]], [[The Isolation Period]], [[Valdenmoor]]_

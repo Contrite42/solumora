@@ -22,4 +22,4 @@ Members of the Consortium have, on specific occasions, provided information to b
 
 The [[Expansion Faction]]'s pressure campaign on Ashford-adjacent commerce is driving up friction costs faster than the Consortium can absorb through routing adjustments. The documentation delays that [[Orre Cavlt]] has been tracking, the changed inspection tone that [[Doss Varn]] has noticed — these are, from the Consortium's operational perspective, a deterioration of the environment that makes their business model work. The Consortium does not have a mechanism to resolve this politically, but it is tracking the deterioration carefully and is adjusting its routing assumptions.
 
-*See also: [[Terravelle]], [[Auralis]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Halveth Cooperative]], [[Expansion Faction]], [[Orre Cavlt]], [[Doss Varn]], [[Factions]]*
+_See also: [[Terravelle]], [[Auralis]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Halveth Cooperative]], [[Expansion Faction]], [[Orre Cavlt]], [[Doss Varn]], [[Factions]]_

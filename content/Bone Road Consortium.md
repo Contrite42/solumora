@@ -4,4 +4,4 @@ Its operators specialize in convoy timing, load balancing, and contingency rerou
 
 In policy terms, it functions as a contracting intermediary between local route owners, merchant houses, and expedition buyers.
 
-*See also: [[Terravelle]], [[Ashford]], [[The Bone Sea]], [[Zakros Rim Caravan Loop]], [[Trade Guilds]], [[Watts]]*
+_See also: [[Terravelle]], [[Ashford]], [[The Bone Sea]], [[Zakros Rim Caravan Loop]], [[Trade Guilds]], [[Watts]]_

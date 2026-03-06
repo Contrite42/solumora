@@ -6,4 +6,4 @@ His T1 casting is used for weather reading — a standard maritime application, 
 
 He is aware that the northern runs have become more complicated in the past year — more documentation required at the ports near [[Greyveil]], more inspection of cargo manifests, more questions about origin and destination that the cargo has always had clear answers to. He does not know why this has changed. He notes it as a change and adjusts accordingly.
 
-*See also: [[Terravelle]], [[Greyveil]], [[Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]*
+_See also: [[Terravelle]], [[Greyveil]], [[Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]_

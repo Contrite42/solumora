@@ -6,4 +6,4 @@ These dynamics are visible in voting patterns, resource allocation decisions, in
 
 Understanding political dynamics requires attention to what changes over time: which factions gain influence, which alliances hold or fracture, and which policy shifts reflect coordinated strategy rather than independent decisions.
 
-*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Terravelle Administration]], [[Factions]]*
+_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Terravelle Administration]], [[Factions]]_

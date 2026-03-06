@@ -24,4 +24,4 @@ Corda knew [[Drest]] before any of this. Not well — they were not close — bu
 
 She has watched that change. She has not said anything about it. [[Maren Sollis]] thinks about what Drest became and grieves it. Corda thinks about it and catalogs it, and the distinction matters in ways neither of them could easily explain.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Cassia]], [[Ancient Ruins]], [[Maren Sollis]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Cassia]], [[Ancient Ruins]], [[Maren Sollis]]_

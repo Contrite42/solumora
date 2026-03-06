@@ -24,4 +24,4 @@ Above the formal institutional channel, a significant portion of high-tier grimo
 
 [[Mythic Grimoire|Mythic]] and [[Pale Grimoire|Pale]] tier materials are documentation only, not functional copies. The Watt costs for T9 spells are in ranges that no practitioner in either kingdom's history has sustainably accessed. The texts exist as records of what was possible, held in the most restricted sections of institutional archives, and are reviewed by researchers with specific scholarly purposes rather than practitioners expecting to cast from them.
 
-*See also: [[Grimoires]], [[Rare Grimoire]], [[Legendary Grimoire]], [[Grimoire Regulation]], [[Common Grimoire Market]], [[The Advancement Corps]], [[Trade Guilds]], [[Drest]], [[The Culmination Faction]], [[Control Tier]], [[Flux Cost Reference]]*
+_See also: [[Grimoires]], [[Rare Grimoire]], [[Legendary Grimoire]], [[Grimoire Regulation]], [[Common Grimoire Market]], [[The Advancement Corps]], [[Trade Guilds]], [[Drest]], [[The Culmination Faction]], [[Control Tier]], [[Flux Cost Reference]]_

@@ -4,4 +4,4 @@ They are a logistics multiplier: extending viability windows so routes can run l
 
 Most preservation work is routine and repetitive, which is why it is often overlooked in strategic summaries despite high practical value.
 
-*See also: [[Sigils]], [[Expedition Supplies]], [[Food Creation]], [[Selt Orvn]], [[Flux]], [[Trade Guilds]]*
+_See also: [[Sigils]], [[Expedition Supplies]], [[Food Creation]], [[Selt Orvn]], [[Flux]], [[Trade Guilds]]_

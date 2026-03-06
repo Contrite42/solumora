@@ -28,4 +28,4 @@ Flux Demon incursions are concentrated at the southern edge of the [[Equatorial 
 
 [[Terravelle]] is aware of the situation and considers it a border crisis. Formal escalation requires Auralis cooperation that has not been forthcoming.
 
-*See also: [[Rift Incursions]], [[Control Tier]], [[Flux]], [[Equatorial Desert]], [[Sorath]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[The Flux Dimension]], [[High Demons]]*
+_See also: [[Rift Incursions]], [[Control Tier]], [[Flux]], [[Equatorial Desert]], [[Sorath]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[The Flux Dimension]], [[High Demons]]_

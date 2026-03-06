@@ -1,5 +1,3 @@
-
-
 ## The First Test
 
 Sera designs a minimal [[Flux]] signal structured to match the pattern she identified in the [[Watts]] ledger infrastructure. The signal is deliberately simple — a basic query formatted according to the notation fragments she has documented, channeled through a standard transaction node in [[Wolfpoint]]. She is not attempting to access anything, alter anything, or extract information. She is testing whether the pattern recognition she has developed through months of ledger analysis corresponds to something that can respond.
@@ -12,7 +10,7 @@ She is designing a second test. The second test will be larger, more complex, st
 
 [[Ysel Voss]] does not know about the test or its results. [[Cael]] does not know. Sera has not discussed this development with anyone at Wolfpoint, including the senior practitioners who have been following her research with interest. The response raises questions about the nature of the ancient civilization's infrastructure that extend beyond academic curiosity into practical implications for both kingdoms' economic systems. Until she understands what she has found, she is keeping it contained.
 
-*See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]]*
+_See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]]_
 
 ## The First Test
 
@@ -26,7 +24,7 @@ She is designing a second test. The second test will be larger, more specific, d
 
 The test was conducted three days ago. She has reviewed the response notation daily since then, looking for additional meaning or context she might have missed. The symbols remain partially opaque, but the structure becomes clearer with repeated examination. It appears to be confirmation of receipt followed by a status indicator she cannot interpret, followed by what might be a request for additional information. If her reading is correct, the network is waiting for her to send something more specific.
 
-*See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]], [[Flux]], [[Sigils]], [[Hypertext]]*
+_See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]], [[Flux]], [[Sigils]], [[Hypertext]]_
 
 ## The First Test
 
@@ -40,4 +38,4 @@ She is designing a second test. The second test will be larger — not dramatica
 
 The work proceeds carefully. Sera has spent her adult life studying the intersection between current [[Flux]] practice and the remnants of what came before. She knows the difference between a discovery that can be shared immediately and one that requires preparation before it becomes public knowledge. This is the latter.
 
-*See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]], [[Hypertext]], [[Flux]], [[Control Tier]]*
+_See also: [[Wolfpoint]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Cael]], [[Mira Solv]], [[History of Solumora]], [[Hypertext]], [[Flux]], [[Control Tier]]_

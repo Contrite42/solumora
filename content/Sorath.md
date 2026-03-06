@@ -32,7 +32,7 @@ He is aware that [[Fennick]] exists and finds him exhausting. He is aware that [
 
 The one thing that has come close to interesting him in recent decades is the increased rift activity near the [[Equatorial Desert|desert]] sites. Not the demons coming through — he has seen that before, across multiple periods of elevated activity — but the quality of the Flux anomalies at the [[Ancient Ruins|ruin sites]] themselves. Something about them has changed. He has not investigated. He has noted it, filed it in the long mental record he keeps of things that might eventually matter, and kept walking.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]]*
+_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]]_
 
 ## Current Movement
 
@@ -46,4 +46,4 @@ Sorath's presence in the harbor district has the quality of someone passing thro
 
 [[Tolla Rend]], the harbor supervisor, has seen Sorath twice — once near the counting house, once walking the main dock approach. She noted something was wrong but cannot name what. The wrongness was not dramatic enough to act on, not specific enough to report. Simply the feeling that the person she observed did not quite fit the context they were moving through. She has filed this in the category of things that are probably nothing but that she will remember if they become relevant later.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]], [[Hedun]], [[Tolla Rend]]*
+_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]], [[Hedun]], [[Tolla Rend]]_

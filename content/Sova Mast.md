@@ -8,4 +8,4 @@ The frustrating part is not the gap itself but the quality of the gap: she can s
 
 She has not thought much about what T2 means for the shape of her adult life. She thinks mostly about the work in front of her, and which of the day's corrections was closer.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Trade Guilds]], [[Flux Users]], [[Control Tier]], [[Tier Assessment]]*
+_See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Trade Guilds]], [[Flux Users]], [[Control Tier]], [[Tier Assessment]]_

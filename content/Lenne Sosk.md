@@ -8,4 +8,4 @@ She participates in the [[Ascendant Path]]'s ceremonies when they occur among pe
 
 She has three people she is close to, all in her building, all of whom understand the harbor district in roughly the way she does. They eat together on rest days. On rest days the harbor district is quieter and the light is different and it is possible to believe, for a few hours, that the week ahead will be slightly less than the week behind.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Ordinary Life in Auralis]]_

@@ -60,4 +60,4 @@ For the younger generation of High Demons, the period exists as cautionary histo
 
 The period also demonstrates the effectiveness of decentralized response to threats that institutional authorities might not recognize or be able to address. The communities that participated in the hunt succeeded in suppressing High Demon activity for two centuries without any formal coordination or official support. This suggests that similar community-level responses could emerge again under the right conditions.
 
-*See also: [[High Demons]], [[History of Solumora]], [[Sorath]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Flux Demons]], [[Control Tier]], [[Terravelle]], [[Auralis]]*
+_See also: [[High Demons]], [[History of Solumora]], [[Sorath]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Flux Demons]], [[Control Tier]], [[Terravelle]], [[Auralis]]_

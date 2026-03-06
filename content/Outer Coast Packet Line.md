@@ -14,9 +14,9 @@ The Line integrates with [[Terravelle]]'s western coastal settlement network, ma
 
 [[Brend Point]] is a mid-route stopping point along the northern section, positioned where packet ships operating between [[Wolfpoint]] and southern [[Terravelle]] ports can access northern coastal resources. Ships stop here for:
 
-- Preserved fish for provisions (cold-water species that provide sustained nutrition during extended transits)  
-- Storm intelligence from Veln Tors' weather coordination network (critical for planning northern fog-zone operations)  
-- Fresh water and supply replenishment before entering remote northern sections with limited settlement infrastructure  
+- Preserved fish for provisions (cold-water species that provide sustained nutrition during extended transits)
+- Storm intelligence from Veln Tors' weather coordination network (critical for planning northern fog-zone operations)
+- Fresh water and supply replenishment before entering remote northern sections with limited settlement infrastructure
 - Message transport serving [[Brend Point]]'s collective operations and connecting them to broader [[Terravelle]] economic networks
 
 Stops at [[Brend Point]] typically occur during northbound or southbound transits when weather windows allow and supply needs justify the time cost. Unlike the high-frequency [[Hedun-Solhaven Coastal Run]], the Outer Coast Line operates on longer cycles with greater schedule flexibility, which means coastal stops are integrated opportunistically rather than through fixed timetables.
@@ -29,4 +29,4 @@ The relationship is economically reciprocal: packet ships provide coastal settle
 
 Together, the formal packet-line infrastructure and informal [[Coastal Settlement Network]] create a maritime system that functions across Solumora's western coastlines despite limited institutional coordination and the absence of comprehensive port city infrastructure in remote northern zones.
 
-*See also: [[Wolfpoint]], [[Ashford]], [[Terravelle]], [[Auralis]], [[Brend Point]], [[Coastal Settlement Network]], [[Maritime Storm Coordination]], [[Trade Guilds]], [[Watts]], [[Life in Wolfpoint]], [[Life in Ashford]], Veln Tors, [[Hedun-Solhaven Coastal Run]]*
+_See also: [[Wolfpoint]], [[Ashford]], [[Terravelle]], [[Auralis]], [[Brend Point]], [[Coastal Settlement Network]], [[Maritime Storm Coordination]], [[Trade Guilds]], [[Watts]], [[Life in Wolfpoint]], [[Life in Ashford]], Veln Tors, [[Hedun-Solhaven Coastal Run]]_

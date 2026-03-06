@@ -6,8 +6,8 @@ Her existence is politically inconvenient. The state needs her capability for ex
 
 Sera's legal work is narrow and heavily constrained:
 
-- forensic memory partition review after confirmed rift-exposure events  
-- restoration attempts for severe cast-backlash cognitive fragmentation  
+- forensic memory partition review after confirmed rift-exposure events
+- restoration attempts for severe cast-backlash cognitive fragmentation
 - containment procedures when unstable high-tier residues threaten broader teams
 
 She does not perform interrogation casting. She does not run open criminal-review work. Her orders require explicit jurisdiction and layered sign-off through council channels.
@@ -26,9 +26,9 @@ Publicly, Sera is described as a specialist consultant. Privately, many official
 
 Her adaptation is contractual opacity and personal routine:
 
-- she works only from pre-cleared facilities  
-- she keeps no private client practice  
-- she maintains strict witness requirements for all active sessions  
+- she works only from pre-cleared facilities
+- she keeps no private client practice
+- she maintains strict witness requirements for all active sessions
 - she publishes redacted methodological notes so oversight exists beyond personality trust
 
 ## Relationship to Council Ambition
@@ -43,4 +43,4 @@ Sera shows that high-tier prestige is mostly an external story. The internal rea
 
 At T8, self-limitation is not humility. It is survival and public safety.
 
-*See also: [[Control Tier]], [[Auralis]], [[Emberfall]], [[The Council of Auralis]], [[Flux Users]], [[Discipline]], [[Flux Expenditure]], [[Rift Incursions]], [[Tier Assessment]]*
+_See also: [[Control Tier]], [[Auralis]], [[Emberfall]], [[The Council of Auralis]], [[Flux Users]], [[Discipline]], [[Flux Expenditure]], [[Rift Incursions]], [[Tier Assessment]]_

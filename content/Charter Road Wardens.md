@@ -24,4 +24,4 @@ Wardens absorb pressure from raider crews, panic-routing during [[Rift Incursion
 
 It trades in controlled movement, survival odds, and route discipline under hostile conditions.
 
-*See also: [[Ashford-Halveth Courier Road]], [[Halveth]], [[Terravelle]], [[Rift Incursions]], [[Zakros Rim Caravan Loop]], [[The Advancement Corps]], [[Ashford Dock Compact]]*
+_See also: [[Ashford-Halveth Courier Road]], [[Halveth]], [[Terravelle]], [[Rift Incursions]], [[Zakros Rim Caravan Loop]], [[The Advancement Corps]], [[Ashford Dock Compact]]_

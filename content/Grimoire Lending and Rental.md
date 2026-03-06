@@ -36,4 +36,4 @@ Lending and rental markets depend on reputation infrastructure. A borrower with 
 
 For lenders, the risk is loss or damage to an expensive asset. A [[Rare Grimoire]] worth hundreds of [[Watts]] represents significant capital, and lending it to an unknown party is risky. This is why higher-tier lending is rare outside institutional contexts, and why commercial rental focuses on lower-tier texts with manageable replacement costs.
 
-*See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Rights and Restrictions]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Watts]], [[Terravelle]], [[Auralis]], [[Valdenmoor]], [[Ashford]]*
+_See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Rights and Restrictions]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Watts]], [[Terravelle]], [[Auralis]], [[Valdenmoor]], [[Ashford]]_

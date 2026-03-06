@@ -24,4 +24,4 @@ Large speculators pressure allocation policy during unstable seasons, and some e
 
 It trades in predictability: households can plan, bakeries can stay open, and council panic stays lower.
 
-*See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Life in Rural Auralis]], [[Watts]], [[Maren Freight Chain]], [[Southern Signal Chain]]*
+_See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Life in Rural Auralis]], [[Watts]], [[Maren Freight Chain]], [[Southern Signal Chain]]_

@@ -32,4 +32,4 @@ These wants are not obviously compatible, and the [[The Three Near-Wars|three ne
 
 The mechanisms that have prevented actual war — the desert's logistical difficulty, the economic interdependence, the personal pragmatism of leaders who have concluded that conflict costs more than the alternatives — have held, so far.
 
-*See also: [[History]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Watts]], [[The Three Near-Wars]], [[The Cultural Divergence]], [[Flux]], [[Sigils]], [[Ascendant Path]], [[Covenant of Measure]], [[Maren Freight Chain]], [[Hedun-Solhaven Coastal Run]]*
+_See also: [[History]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Watts]], [[The Three Near-Wars]], [[The Cultural Divergence]], [[Flux]], [[Sigils]], [[Ascendant Path]], [[Covenant of Measure]], [[Maren Freight Chain]], [[Hedun-Solhaven Coastal Run]]_

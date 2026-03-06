@@ -6,4 +6,4 @@ Filter targeting is difficult because the spell must evaluate candidates in real
 
 In daily practice, filter logic is used for checkpoints, controlled access, expedition safety controls, and mixed-crowd operations where indiscriminate effects would be unacceptable.
 
-*See also: [[Target Spec]], [[Spell Variables]], [[Pattern]], [[Persistence]], [[Binding]], [[Sigils]], [[Flux Expenditure]]*
+_See also: [[Target Spec]], [[Spell Variables]], [[Pattern]], [[Persistence]], [[Binding]], [[Sigils]], [[Flux Expenditure]]_

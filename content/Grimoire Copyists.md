@@ -26,4 +26,4 @@ Honest Scribes track their error rates, because a reputation for clean copies is
 
 The industry standard distinction is between a transcription error (geometric inaccuracy in the copy — Scribe fault) and an activation error (caster did not meet tier requirement, insufficient Flux, poor surface conditions — not Scribe fault). Disputes over which category applies are common, particularly for buyers who are near the tier threshold for a given spell.
 
-*See also: [[Grimoires]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Copymark]], [[Trade Guilds]], [[Grimoire Fraud]], [[Grimoire Licensing]], [[Flux Users]]*
+_See also: [[Grimoires]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Copymark]], [[Trade Guilds]], [[Grimoire Fraud]], [[Grimoire Licensing]], [[Flux Users]]_

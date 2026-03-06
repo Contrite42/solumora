@@ -6,4 +6,4 @@ She has known [[Toven Ral]] by sight and occasional conversation for years — h
 
 Her T1 casting is used for cargo seal verification — the minimum Flux application required for certain documentation in Hedun's commercial framework. She uses it accurately and without interest. It is a credential the work requires.
 
-*See also: [[Hedun]], [[Life in Hedun]], [[Auralis]], [[Control Tier]], [[Flux Users]], [[Toven Ral]], [[Ordinary Life in Auralis]]*
+_See also: [[Hedun]], [[Life in Hedun]], [[Auralis]], [[Control Tier]], [[Flux Users]], [[Toven Ral]], [[Ordinary Life in Auralis]]_

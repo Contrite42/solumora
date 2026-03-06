@@ -28,4 +28,4 @@ The tradition's most uncomfortable implication involves very high-tier practitio
 
 [[Wren]]'s presence in [[Halveth]] for thirty years has done something to the border road that experienced practitioners notice. Nobody frames it in Ancestral Current terms — Wren is not dead — but the folk intuition that long Flux work accumulates in a place is, in Halveth's case, accurate in ways that the Current's framework almost describes.
 
-*See also: [[Religions]], [[Covenant of Measure]], [[Ascendant Path]], [[Flux]], [[Birth Runes]], [[Wren]], [[Halveth]], [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]]*
+_See also: [[Religions]], [[Covenant of Measure]], [[Ascendant Path]], [[Flux]], [[Birth Runes]], [[Wren]], [[Halveth]], [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]]_

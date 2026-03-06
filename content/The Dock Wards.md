@@ -30,4 +30,4 @@ The **North Dock Market** operates from early morning as the day labor pool for 
 
 The **River Wall Maintenance Posts** are the station points for the guild-certified T2-T3 casters who maintain the flood-control sigil system. The original sigil work on the Valdenmoor river walls is centuries old; each generation's maintenance has added overlapping layers that senior practitioners describe as the most complex accumulated preservation structure in [[Terravelle]]. The work requires understanding what the original casters were doing well enough to maintain it without disrupting the underlying logic, which is a form of historical scholarship practiced by people who consider themselves maintenance workers.
 
-*See also: [[Valdenmoor]], [[Terravelle]], [[Maren River]], [[Maren Freight Chain]], [[Guild Quarter]], [[Life in Valdenmoor]], [[Caven Torst]], [[Trade Guilds]], [[Control Tier]]*
+_See also: [[Valdenmoor]], [[Terravelle]], [[Maren River]], [[Maren Freight Chain]], [[Guild Quarter]], [[Life in Valdenmoor]], [[Caven Torst]], [[Trade Guilds]], [[Control Tier]]_

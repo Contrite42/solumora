@@ -1,6 +1,7 @@
 ---
 title: Welcome
 ---
+
 A practical introduction to [[Solumora]] for anyone coming to the vault for the first time.
 
 ## The World in Brief
@@ -73,10 +74,10 @@ The hunting period four hundred years ago came close to ending all of this. It d
 
 **The thing nobody knows:** [[High Demons]] → [[Selvane]] → [[Wren]] → [[Fennick]] → [[Sorath]]
 
-*This page is an overview. Every topic links to its full page.*
+_This page is an overview. Every topic links to its full page._
 
 ## Institutions in Motion
 
 For system-level power outside crowns and councils, start at [[Factions]].
 
-*See also: [[Factions]], [[Trade Guilds]], [[The Council of Auralis]], [[Terravelle Administration]], [[Grimoires]], [[Watts]]*
+_See also: [[Factions]], [[Trade Guilds]], [[The Council of Auralis]], [[Terravelle Administration]], [[Grimoires]], [[Watts]]_

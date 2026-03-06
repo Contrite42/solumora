@@ -11,6 +11,7 @@ Party size is one to three. Above three, the coordination overhead of moving fas
 ## Why People Use It
 
 The speed advantage is real and the reasons for needing it are various:
+
 - Couriers carrying time-sensitive information between kingdoms that cannot wait for expedition season
 - Practitioners who need to cross without their crossing being documented through the [[Halveth Cooperative]] or the [[Terravelle Desert Trade Office]]
 - High-tier individuals who find the logistics overhead of a guided crossing personally objectionable
@@ -40,4 +41,4 @@ The express route has a hard floor at T4 for a reason that is specific to what t
 
 The express route is not a faster version of the standard crossing with lower preparation requirements. It is a different method designed around high Flux capacity as the primary survival mechanism — not grimoire depth, not party coordination, not guide knowledge, but raw sustained Flux output. Below T4, that mechanism does not function.
 
-*See also: [[Equatorial Desert]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]], [[Halveth Cooperative]], [[Avel Coss]], [[Rift Incursions]], [[Control Tier]]*
+_See also: [[Equatorial Desert]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]], [[Halveth Cooperative]], [[Avel Coss]], [[Rift Incursions]], [[Control Tier]]_

@@ -26,4 +26,4 @@ Fraud in the Common grimoire market is addressed through guild enforcement in Te
 
 In Auralis, consequences for fraud are reputational rather than institutional, which means they are enforced unevenly. A Scholar-network member who defrauds a peer will face social and professional consequences. A market seller with no network affiliation faces no such check.
 
-*See also: [[Grimoires]], [[Grimoire Copyists]], [[Common Grimoire Market]], [[Black Market Grimoires]], [[Grimoire Regulation]], [[Trade Guilds]], [[Control Tier]]*
+_See also: [[Grimoires]], [[Grimoire Copyists]], [[Common Grimoire Market]], [[Black Market Grimoires]], [[Grimoire Regulation]], [[Trade Guilds]], [[Control Tier]]_

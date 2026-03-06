@@ -6,4 +6,4 @@ She does not think about Mave between encounters. Mave is one of approximately a
 
 The specific thing she could not explain if asked: when she delivered the third commission and Mave reviewed the work, she had the brief and completely inexplicable sense that the person across the table from her was extremely old. Not in any visible way. Just as a quality of the room. She mentioned this to no one. It does not come back to her unless something triggers the memory. She has not been able to identify what triggers it.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Mave]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Mave]], [[Control Tier]], [[Ordinary Life in Auralis]]_

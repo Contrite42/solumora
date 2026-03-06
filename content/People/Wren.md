@@ -1,5 +1,3 @@
-
-
 ## Daily Existence
 
 Wren's visible role at Halveth is as a supply depot coordinator — the person who manages the flow of materials between the village's warehouses and the expedition groups staging for desert crossings. It is work that requires consistent presence without a clear career ceiling, and no one questions why someone would stay in such a position for decades. The job suits the settlement's needs and Wren's apparent temperament.

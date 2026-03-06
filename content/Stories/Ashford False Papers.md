@@ -158,4 +158,4 @@ It was leverage.
 
 ---
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Birth Runes]], [[Watts]], [[Trade Guilds]], [[Maren Freight Chain]], [[Doss Varn]], [[Cavel Dorst]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Birth Runes]], [[Watts]], [[Trade Guilds]], [[Maren Freight Chain]], [[Doss Varn]], [[Cavel Dorst]]_

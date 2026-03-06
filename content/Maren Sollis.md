@@ -24,4 +24,4 @@ Maren's open support for [[Cassia]] draws more social cost than political cost â
 
 Her relationship with [[Drest]] is warmer and more complicated. She knew him before any of this. She remembers who he was when [[Cassia]]'s mother was alive, which means she also remembers the distance between that person and who he became. She has never said this to him. She thinks about it.
 
-*See also: [[Cassia]], [[The Council of Auralis]], [[Drest]], [[Tovan Ashce]], [[Auralis]], [[Solhaven]]*
+_See also: [[Cassia]], [[The Council of Auralis]], [[Drest]], [[Tovan Ashce]], [[Auralis]], [[Solhaven]]_

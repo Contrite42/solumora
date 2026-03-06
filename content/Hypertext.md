@@ -4,13 +4,13 @@ Both systems use the same symbols. The difference is what those symbols are doin
 
 In a standard [[Sigils|sigil]], a symbol occupies a position in a shape and defines a variable: this spell uses Heat, this spell reaches [[Reach|Medium]], this spell targets [[Target Spec|Individual]]. The shape is the structure. The symbols fill it.
 
-In Hypertext, the symbols are operators. They define *what happens*, *when it happens*, *under what conditions*, and *what triggers what next*. A line of Hypertext reads less like a recipe and more like a conditional statement — IF this, THEN that, WITH this output, WHILE this condition holds, UNLESS this threshold is crossed.
+In Hypertext, the symbols are operators. They define _what happens_, _when it happens_, _under what conditions_, and _what triggers what next_. A line of Hypertext reads less like a recipe and more like a conditional statement — IF this, THEN that, WITH this output, WHILE this condition holds, UNLESS this threshold is crossed.
 
 ## Why It Matters
 
 The [[Sigils|sigil]] system, for all its power, is bounded by what a shape can express. A Circle has six outer points. That means six variables, defined once, firing in one configuration. It cannot natively represent branching behavior, sequential effects, nested conditions, or spells that change their own behavior mid-cast based on what they encounter.
 
-Hypertext can represent all of these things. Its ceiling — measured in [[Control Tier]] — is the same as the sigil system. A Tier 4 Hypertext line does not exceed what a Tier 4 Circle can hold. What changes is the *expressiveness*. Hypertext can describe effects that no current sigil shape has the geometry to capture.
+Hypertext can represent all of these things. Its ceiling — measured in [[Control Tier]] — is the same as the sigil system. A Tier 4 Hypertext line does not exceed what a Tier 4 Circle can hold. What changes is the _expressiveness_. Hypertext can describe effects that no current sigil shape has the geometry to capture.
 
 A sigil is a powerful tool. Hypertext is the language the tool is written in.
 
@@ -50,4 +50,4 @@ Both [[Terravelle]] and [[Auralis]] are aware of Hypertext's existence. Neither 
 
 From Auralis's side, [[Orva Dresk]] has been attempting to reconstruct Hypertext from secondhand sources and ruins-artifact analysis — significant progress by some measures, but missing the foundational structure that Scholarium access would provide. From Terravelle's side, the Crown's strategy has been relationship management rather than independent development, maintained through [[Keln Varost]]'s standing envoy relationship.
 
-*See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]], [[Mell Rask's Letters]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Orva Dresk]], [[Keln Varost]]*
+_See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]], [[Mell Rask's Letters]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Orva Dresk]], [[Keln Varost]]_

@@ -6,4 +6,4 @@ She has a set of observations she has never organized into a coherent account be
 
 She does not discuss this with the other staff. The household runs well. She has been treated fairly. She has no desire to leave.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Selvane]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Selvane]], [[Control Tier]], [[Ordinary Life in Auralis]]_

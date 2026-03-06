@@ -6,9 +6,9 @@ It is not a guild and does not command guides directly. Its authority comes from
 
 The Bureau handles four operational layers:
 
-- Guide matching by route profile and team composition  
-- Capability vetting against [[Control Tier]] and role coverage requirements  
-- Dispute mediation when sponsors push unsafe departure timelines  
+- Guide matching by route profile and team composition
+- Capability vetting against [[Control Tier]] and role coverage requirements
+- Dispute mediation when sponsors push unsafe departure timelines
 - Post-run quality tracking that informs future assignment priority
 
 Most expeditions do not fail because they lacked courage. They fail because staffing mismatched route demands or because sponsors overruled guide judgment. The Bureau's workflow is designed to reduce those avoidable failures before departure.
@@ -19,9 +19,9 @@ Assignments are based on route and role compatibility, not sponsor preference. A
 
 The Bureau maintains an internal reliability index built from:
 
-- Completed-route success rates  
-- Incident log quality  
-- Threshold-discipline under deteriorating conditions  
+- Completed-route success rates
+- Incident log quality
+- Threshold-discipline under deteriorating conditions
 - Peer reports from cross-settlement partners like [[Thel Reach]] and [[Seln Watch]]
 
 Low-scoring guides are not publicly blacklisted, but they receive fewer assignments through Bureau channels.
@@ -40,8 +40,8 @@ The Bureau is a consistent friction point between field realism and council opti
 
 Common conflict patterns:
 
-- Sponsor deadlines misaligned with viable route windows  
-- Prestige teams requesting guide substitutions for political reasons  
+- Sponsor deadlines misaligned with viable route windows
+- Prestige teams requesting guide substitutions for political reasons
 - Understaffed parties seeking exceptions based on project importance
 
 The Bureau grants very few exceptions. Its staff has learned that exceptional missions often become exceptional losses.
@@ -58,4 +58,4 @@ Expedition culture celebrates discovery outcomes. The Bureau's contribution is q
 
 It is bureaucracy in the useful sense: friction placed where momentum would otherwise kill people.
 
-*See also: [[Halveth]], [[Equatorial Desert]], [[Emberfall Expedition Registry]], [[Cross-Border Guide Network]], [[Desert Watch]], [[Thel Reach]], [[Seln Watch]], [[Rett Soln]], [[Control Tier]], [[The Council of Auralis]]*
+_See also: [[Halveth]], [[Equatorial Desert]], [[Emberfall Expedition Registry]], [[Cross-Border Guide Network]], [[Desert Watch]], [[Thel Reach]], [[Seln Watch]], [[Rett Soln]], [[Control Tier]], [[The Council of Auralis]]_

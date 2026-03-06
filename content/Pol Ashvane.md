@@ -18,4 +18,4 @@ What is clear: he is positioning himself. For what, specifically, he has not sai
 
 [[Tovan Ashce]] has noticed him. [[Pol Ashvane|Pol]] has noticed that [[Tovan Ashce|Tovan]] has noticed him. They have had one conversation about something unrelated, conducted with the particular precision of two people who are aware they are not talking about the thing they are talking about.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Tovan Ashce]], [[Cassia]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Tovan Ashce]], [[Cassia]]_

@@ -6,8 +6,8 @@ His tier is not treated as a status symbol in the places he works. It is treated
 
 Varn handles situations where collapse probability is measured in hours:
 
-- riverbank reinforcement ahead of seasonal flood surges  
-- emergency bracing for freight depots after load-bearing failures  
+- riverbank reinforcement ahead of seasonal flood surges
+- emergency bracing for freight depots after load-bearing failures
 - controlled stress release when old masonry locks bind under thermal shift
 
 The spells are viable at T5-T6 in theory, but the margin in live failure conditions is often too thin for repeated casts. Varn's T7 ceiling lets him hold wider stabilization envelopes for longer, reducing total cast count during crisis windows.
@@ -24,8 +24,8 @@ The trust problem is slower. Communities that need him urgently often become une
 
 Varn's operating model depends on administrative scaffolding:
 
-- dual-signature activation for major casts (local authority plus engineering lead)  
-- mandatory third-party observer for every high-load operation  
+- dual-signature activation for major casts (local authority plus engineering lead)
+- mandatory third-party observer for every high-load operation
 - post-work structural audit filed to [[Trade Guilds]] records
 
 These measures are not imposed because he is untrusted personally. They exist to keep high-tier interventions legible and contestable, which lowers post-crisis political backlash.
@@ -42,4 +42,4 @@ Varn demonstrates a common T7 reality: society values extreme capability most wh
 
 His adaptation is to treat that distance as part of the job.
 
-*See also: [[Control Tier]], [[Terravelle]], [[Valdenmoor]], [[Trade Guilds]], [[Flux Users]], [[Flux Expenditure]], [[Maren Freight Chain]], [[Ordinary Life in Terravelle]]*
+_See also: [[Control Tier]], [[Terravelle]], [[Valdenmoor]], [[Trade Guilds]], [[Flux Users]], [[Flux Expenditure]], [[Maren Freight Chain]], [[Ordinary Life in Terravelle]]_

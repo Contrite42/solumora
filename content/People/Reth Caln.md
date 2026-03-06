@@ -46,4 +46,4 @@ In the context of [[Life in Rural Terravelle]], Reth represents the specialized 
 
 Her approach to trapping — systematic, sustainable, informed by decades of local observation — demonstrates how the [[Covenant of Measure]]'s principles operate in practice. She takes what is needed, wastes nothing, and ensures that her work contributes to long-term community stability rather than short-term abundance that cannot be maintained.
 
-*See also: [[Life in Rural Terravelle]], [[Terravelle]], [[Control Tier]], [[Covenant of Measure]], [[Flux Users]], [[Preservation Sigils]], [[Watts]], [[Bren Ossve]], [[Solen Carr]], [[Teva Orrn]]*
+_See also: [[Life in Rural Terravelle]], [[Terravelle]], [[Control Tier]], [[Covenant of Measure]], [[Flux Users]], [[Preservation Sigils]], [[Watts]], [[Bren Ossve]], [[Solen Carr]], [[Teva Orrn]]_

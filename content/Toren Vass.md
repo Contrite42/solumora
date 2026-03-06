@@ -6,9 +6,9 @@ He is [[Control Tier|Tier 3]], 37 years old. His specialty is preventing mission
 
 Toren handles the unglamorous failure layer of expedition culture:
 
-- water and thermal-management reserve calculations  
-- grimoire durability allocation under wind-particulate stress  
-- replacement tool staging by route phase  
+- water and thermal-management reserve calculations
+- grimoire durability allocation under wind-particulate stress
+- replacement tool staging by route phase
 - rejection of sponsor substitutions that reduce component reliability
 
 He tracks depletion curves aggressively. If a team consumes reserve stock faster than modeled, he triggers objective reduction before personnel become the reserve.
@@ -31,4 +31,4 @@ Expedition stories center on discoveries and losses. Toren's contribution is mos
 
 That ordering keeps people alive.
 
-*See also: [[Crestward Field Company]], [[Expedition Supplies]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[Emberfall Expedition Registry]], [[Ancient Ruins]], [[Equatorial Desert]], [[Control Tier]]*
+_See also: [[Crestward Field Company]], [[Expedition Supplies]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[Emberfall Expedition Registry]], [[Ancient Ruins]], [[Equatorial Desert]], [[Control Tier]]_

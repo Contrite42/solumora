@@ -8,4 +8,4 @@ She had two children. The younger tested [[Control Tier|T3]] at assessment and l
 
 The older child tested T0 and stayed and manages the holding's records with a precision that Maret, who is not naturally organized, finds quietly impressive. She does not say this aloud because the older child would find it embarrassing.
 
-*See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Ordinary Life in Auralis]]*
+_See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Ordinary Life in Auralis]]_

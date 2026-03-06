@@ -4,9 +4,9 @@ The compendium emerged from Coss's frustration with expedition deaths caused by 
 
 ## Author's Introduction
 
-*I have guided forty-seven crossings through [[Equatorial Desert|Desert Zakros]]. Thirty-one reached their destination. The sixteen that did not failed because their [[Flux]] preparation was built on assumptions that do not survive contact with the desert. This compendium documents what works, what fails, and when to prioritize your reserves when everything is going wrong simultaneously.*
+_I have guided forty-seven crossings through [[Equatorial Desert|Desert Zakros]]. Thirty-one reached their destination. The sixteen that did not failed because their [[Flux]] preparation was built on assumptions that do not survive contact with the desert. This compendium documents what works, what fails, and when to prioritize your reserves when everything is going wrong simultaneously._
 
-*The spells listed here are not the most powerful available. They are the ones that continue functioning when the temperature hits fifty degrees, when the wind has been stripping your sigil surfaces for six hours straight, and when you discover that your theoretical knowledge means nothing because the desert operates by different rules. Use them accordingly.*
+_The spells listed here are not the most powerful available. They are the ones that continue functioning when the temperature hits fifty degrees, when the wind has been stripping your sigil surfaces for six hours straight, and when you discover that your theoretical knowledge means nothing because the desert operates by different rules. Use them accordingly._
 
 ## Spell Entries
 
@@ -40,4 +40,4 @@ Highly effective in desert conditions where humidity is naturally low. The spell
 **Heatshield** — Provides personal thermal buffering against extreme temperatures.
 Sustained persistence makes it expensive to maintain, but the protection degrades above fifty degrees ambient temperature as the spell's buffering capacity is overwhelmed. At that point you are paying full maintenance cost for partial protection. Better to seek physical shelter and conserve reserves than to rely on the spell during peak heat periods.
 
-*See also: [[Avel Coss]], [[Equatorial Desert]], [[Grimoires]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Flux]], [[Halveth]], [[Rift Incursions]]*
+_See also: [[Avel Coss]], [[Equatorial Desert]], [[Grimoires]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Flux]], [[Halveth]], [[Rift Incursions]]_

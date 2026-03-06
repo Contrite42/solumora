@@ -6,8 +6,8 @@ Brendt family memory does not preserve a heroic story. It preserves practical wa
 
 The lineage record, maintained as a rotating household ledger, repeats three instructions in different language across generations:
 
-- Never display unfamiliar capability in front of a frightened crowd.  
-- Never let one person's mistake become a story about "people like them."  
+- Never display unfamiliar capability in front of a frightened crowd.
+- Never let one person's mistake become a story about "people like them."
 - Put names and dates in writing before rumor can replace them.
 
 These are not abstract ethics statements. They are behavioral rules derived from what happened to two Brendt relatives during the late middle period of the Persecution years: one excluded from cooperative land use after a casting accident she did not cause, the other killed in a retaliatory panic by a neighboring settlement that believed a "high-capacity cluster" had formed nearby.
@@ -20,10 +20,10 @@ The Brendt memory ledger is written as household accounting with historical anno
 
 The historical entries are concise:
 
-- Date and season marker  
-- Location  
-- Incident summary in one paragraph  
-- Named witnesses if available  
+- Date and season marker
+- Location
+- Incident summary in one paragraph
+- Named witnesses if available
 - Practical lessons for household behavior
 
 Because the format looks administrative, the record has survived migrations, confiscations, and inheritance splits that would have destroyed a plainly titled persecution chronicle. This is one reason the Brendt material is useful to later readers in Terravelle Guild of Letters circles and [[History of Solumora]] scholarship: the text is dry, specific, and difficult to romanticize.
@@ -48,4 +48,4 @@ The Brendt Lineage illustrates one way the Persecution era persisted: not throug
 
 That is not dramatic. It is effective.
 
-*See also: [[The Persecution Era]], [[Terravelle]], [[Keld Basin]], [[Breck Tor]], [[Maren Valley]], [[Flux]], [[History of Solumora]]*
+_See also: [[The Persecution Era]], [[Terravelle]], [[Keld Basin]], [[Breck Tor]], [[Maren Valley]], [[Flux]], [[History of Solumora]]_

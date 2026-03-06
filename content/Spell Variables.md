@@ -4,17 +4,17 @@
 
 Shape determines the spell's base [[Flux]] cost and constrains how many other variables can be specified. Each outer point of the shape represents one variable slot. [[Discipline]] always occupies one slot, leaving the remainder available for other outer variables.
 
-| Shape | Outer Slots | Discipline | Remaining Variable Slots |
-|-------|-------------|------------|--------------------------|
-| Triangle | 3 | 1 | 2 |
-| Square | 4 | 1 | 3 |
-| Pentagon | 5 | 1 | 4 |
-| Circle | 6 | 1 | 5 (all) |
+| Shape    | Outer Slots | Discipline | Remaining Variable Slots |
+| -------- | ----------- | ---------- | ------------------------ |
+| Triangle | 3           | 1          | 2                        |
+| Square   | 4           | 1          | 3                        |
+| Pentagon | 5           | 1          | 4                        |
+| Circle   | 6           | 1          | 5 (all)                  |
 
 A Triangle sigil cannot specify more than 2 outer variables beyond Discipline — this is a geometric constraint, not a tier limit.
 
 - **Triangle**: Simplest construction, lowest base cost (3W), limited to two additional variables
-- **Square**: Moderate complexity, higher base cost (8W), allows three additional variables  
+- **Square**: Moderate complexity, higher base cost (8W), allows three additional variables
 - **Pentagon**: Complex construction, significant base cost (20W), allows four additional variables
 - **Circle**: Most complex geometry, highest base cost (55W), allows all five additional variables simultaneously
 
@@ -122,4 +122,4 @@ Some variable combinations are more efficient than others. Touch reach with Indi
 
 Understanding these interactions is essential for efficient spell design. A practitioner who can achieve the desired effect with simpler variable combinations will always have an advantage over one who requires complex interactions to produce the same result.
 
-*See also: [[Sigils]], [[Flux]], [[Control Tier]], [[Flux Cost Reference]], [[Shape]], [[Discipline]], [[Hook]], [[Mode]], [[Flux Expenditure]], [[Reach]], [[Persistence]], [[Target Spec]], [[Output Mode]], [[Binding]], [[Pattern]], [[Filter]]*
+_See also: [[Sigils]], [[Flux]], [[Control Tier]], [[Flux Cost Reference]], [[Shape]], [[Discipline]], [[Hook]], [[Mode]], [[Flux Expenditure]], [[Reach]], [[Persistence]], [[Target Spec]], [[Output Mode]], [[Binding]], [[Pattern]], [[Filter]]_

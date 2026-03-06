@@ -44,4 +44,4 @@ Fraud is rare but exists: a specialist might claim to fully restore a grimoire w
 
 High-tier grimoires also carry higher risk. A single error in restoration can render an expensive spell useless, and replacement may not be possible if the source text is restricted or lost. This makes high-tier owners cautious about when and how to pursue restoration, often delaying until absolutely necessary.
 
-*See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Lending]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Preserveseal]], [[Permanentpreserve]], [[Watts]], [[Control Tier]], [[Flux]]*
+_See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Lending]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Preserveseal]], [[Permanentpreserve]], [[Watts]], [[Control Tier]], [[Flux]]_

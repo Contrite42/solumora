@@ -36,4 +36,4 @@ Auralis threatened naval enforcement of the inspection requirements. This would 
 
 The Ashford Blockade's failure shaped the Expansion Faction for the following generation. [[Drest]], who was a junior Faction member during the blockade and rose to leadership in its aftermath, drew explicit lessons from it: economic pressure without military credibility is not leverage, and military credibility requires genuine deployment capability across the desert, not the threat of it. The two decades of quiet strategic erosion that followed — the border friction, the desert research, the accumulation of crossing capability — are the Expansion Faction operating with the patience the blockade failed to maintain.
 
-*See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]]*
+_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]]_

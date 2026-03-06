@@ -8,4 +8,4 @@ He keeps a trade notebook. The bulk of it is logistics: what things cost in [[So
 
 He does not have a permanent residence in either kingdom. He has a standing room arrangement in [[Ashford]] and another in [[Halveth]] that serves the desert crossing logistics. He has owned these arrangements for fourteen years and considers them adequate.
 
-*See also: [[Auralis]], [[Terravelle]], [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Avel Coss]], [[Ossen Drel's Trade Notebook]]*
+_See also: [[Auralis]], [[Terravelle]], [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Avel Coss]], [[Ossen Drel's Trade Notebook]]_

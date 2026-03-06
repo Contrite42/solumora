@@ -22,4 +22,4 @@ His family is in [[Hedun]]. He returned to Solhaven after an early career in coa
 
 He is aware that his business occupies a position that requires him to maintain good relationships across a social divide most Steps residents cross only by moving up. He has not romanticized this. It is useful positioning and it requires constant maintenance, and both of those things are simply true.
 
-*See also: [[The Middling Steps]], [[Harbor District]], [[Solhaven]], [[Control Tier]], [[Life in Solhaven]], [[Hedun]], [[Trade Guilds]], [[Watts]]*
+_See also: [[The Middling Steps]], [[Harbor District]], [[Solhaven]], [[Control Tier]], [[Life in Solhaven]], [[Hedun]], [[Trade Guilds]], [[Watts]]_

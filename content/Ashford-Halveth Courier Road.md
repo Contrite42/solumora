@@ -8,4 +8,4 @@ Season controls everything. During crossing season, traffic expands and convoy r
 
 No one mistakes this road for neutral space. Terravelle administrators, Auralis intermediaries, and private operators all use it, and all assume they are being watched by someone. The system persists because all sides need messages to arrive more than they need the road to feel clean.
 
-*See also: [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Trade Guilds]], [[Life in Ashford]], [[Life in Halveth]]*
+_See also: [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Trade Guilds]], [[Life in Ashford]], [[Life in Halveth]]_

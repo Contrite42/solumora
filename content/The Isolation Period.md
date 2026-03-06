@@ -28,4 +28,4 @@ The Isolation Period also marks the period when the oral traditions and fragment
 
 What oral tradition may have survived from the period immediately after the ancient civilization's end — stories, practices, partial accounts — was largely lost during the Isolation Period's four centuries of internal development and the disruptions of the Persecution Era. By the time the kingdoms made contact with each other, both had essentially no living memory of the world before their founding. The ruins were old in the way that geography is old: a fact of the world, not a recent event.
 
-*See also: [[History]], [[History of Solumora]], [[Terravelle]], [[Auralis]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Persecution Era]], [[The First Contact]], [[Covenant of Measure]], [[Ascendant Path]], [[Trade Guilds]], [[Control Tier]], [[Equatorial Desert]]*
+_See also: [[History]], [[History of Solumora]], [[Terravelle]], [[Auralis]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Persecution Era]], [[The First Contact]], [[Covenant of Measure]], [[Ascendant Path]], [[Trade Guilds]], [[Control Tier]], [[Equatorial Desert]]_

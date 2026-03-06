@@ -74,4 +74,4 @@ The residents are not bothered by this. They know the work matters. They know th
 
 That is enough.
 
-*See also: [[Equatorial Desert]], [[Emberfall]], [[Halveth]], [[Seln Watch]], [[Auralis]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Standard Guided Crossing]], [[The Council of Auralis]], Ven Torsk, Mara Seln, [[Dren Outpost]]*
+_See also: [[Equatorial Desert]], [[Emberfall]], [[Halveth]], [[Seln Watch]], [[Auralis]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Standard Guided Crossing]], [[The Council of Auralis]], Ven Torsk, Mara Seln, [[Dren Outpost]]_

@@ -4,4 +4,4 @@ In most Terravellian contexts, "guilds" points to the specific systems documente
 
 When pages use the generic term, treat this note as a bridge to the detailed institutional page.
 
-*See also: [[Trade Guilds]], [[Guild Scrivener Network]], [[Terravelle Administration]], [[Auralis]], [[Watts]], [[People]]*
+_See also: [[Trade Guilds]], [[Guild Scrivener Network]], [[Terravelle Administration]], [[Auralis]], [[Watts]], [[People]]_

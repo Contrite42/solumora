@@ -40,4 +40,4 @@ She has no intention of intervening in it. Wolfpoint's survival across seven gen
 
 The document, when it is finished, may change this calculation. She is aware of that. She is finishing it anyway.
 
-*See also: [[Wolfpoint]], [[The Voss Line]], [[Hypertext]], [[Flux Users]], [[Terravelle]], [[Auralis]], [[Drest]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Doran Voss]], [[Mira Solv]]*
+_See also: [[Wolfpoint]], [[The Voss Line]], [[Hypertext]], [[Flux Users]], [[Terravelle]], [[Auralis]], [[Drest]], [[Watts]], [[Ancient Ruins]], [[Ysel Voss]], [[Doran Voss]], [[Mira Solv]]_

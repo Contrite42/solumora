@@ -1,9 +1,11 @@
 # Task: Council Mechanisms Expansion
 
 ## Goal
+
 Detail the **Council's Mechanisms** — how Auralis governance actually works beneath top-level council declarations.
 
 ## Constraints
+
 - Need 2-3 enforcement/implementation institutions and 3-4 bureaucratic operators
 - Must show how orders flow from council chambers to street-level execution
 - Must show divergence between council intent and implementation outcomes
@@ -11,9 +13,11 @@ Detail the **Council's Mechanisms** — how Auralis governance actually works be
 - Update [[The Council of Auralis]] with operational mechanism detail
 
 ## Output Target
+
 5-7 notes showing practical governance infrastructure under the Council
 
 ## Execution Plan
+
 1. Create 2-3 implementation institutions (orders, enforcement, audit/appeal flow)
 2. Create 3-4 mid-level operators who translate policy into execution
 3. Connect to existing city and faction documentation in [[Auralis]]
@@ -21,11 +25,13 @@ Detail the **Council's Mechanisms** — how Auralis governance actually works be
 5. Run canon/link integrity check
 
 ## Status
+
 ACTIVE - Copilot Auto executing
 
 ---
 
 ## Archived Batch Notes (Do Not Execute)
+
 Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]
 
 **Cavel Dorst** — merchant house manager, Ashford. T3, 44 years old.
@@ -53,6 +59,7 @@ Outbound links: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[
 ---
 
 ## RULES
+
 - APPENDS ONLY. Do not alter or rewrite existing content on any page.
 - No new characters invented. Use only names that already exist in the vault.
 - No new kingdoms, factions, or lore invented. Expansion Faction already exists.

@@ -6,4 +6,4 @@ He is consulted by other practitioners when they encounter work they cannot reso
 
 He keeps detailed records of every consultation case he has worked. The records are not for the guild — guild documentation requirements are separate and he meets them separately. The records are for himself, organized by the category of problem rather than by client or date. He has, over thirty years, developed a taxonomy of structural sigil failures that does not exist anywhere in the guild's formal literature. He has not published it because the guild's publication process is not designed for this kind of practical synthesis, and he has not found another venue.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Trade Guilds]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]], [[Ostal Mrev's Consultation Notes]]*
+_See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Trade Guilds]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Terravelle]], [[Ostal Mrev's Consultation Notes]]_

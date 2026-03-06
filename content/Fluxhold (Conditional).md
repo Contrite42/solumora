@@ -1,17 +1,17 @@
 A conditional [[Flux]] reservoir inscribed onto a physical object — slowly charges from ambient [[Flux]] over time, releases its stored charge only when a defined trigger condition is met, and burns out entirely on release.
 
-| Variable | Value |
-|---|---|
-| Shape | Square |
-| Hook | Bind |
-| Mode | Create |
-| Control Tier | T2 |
-| Discipline | Binding |
-| Output | Constraint |
-| Pattern | *(default — Plane)* |
-| Reach | *(default — Self)* |
-| Persistence | Conditional |
-| Target | *(default — Where Written)* |
+| Variable     | Value                       |
+| ------------ | --------------------------- |
+| Shape        | Square                      |
+| Hook         | Bind                        |
+| Mode         | Create                      |
+| Control Tier | T2                          |
+| Discipline   | Binding                     |
+| Output       | Constraint                  |
+| Pattern      | _(default — Plane)_         |
+| Reach        | _(default — Self)_          |
+| Persistence  | Conditional                 |
+| Target       | _(default — Where Written)_ |
 
 **Rarity:** Common
 **Grimoire:** [[Common Grimoire]]

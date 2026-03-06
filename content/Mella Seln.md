@@ -6,4 +6,4 @@ The practical consequence for Mella's work: she cannot subcontract easily. A Sig
 
 What she finds: people assume Sigil-users are more precise and Hand Sign-users are more instinctive, and people are wrong about this in exactly the way they would be if they confused the tool for the practitioner. She is precise. The precision lives in her hands rather than in a geometric diagram, and this has not made it less reliable across twenty-two years.
 
-*See also: [[Terravelle]], [[Sigils]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]*
+_See also: [[Terravelle]], [[Sigils]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]_

@@ -75,4 +75,4 @@ The packet-ship networks serve as the formal infrastructure layer that makes inf
 
 The deeper pattern is infrastructure maintained through necessity rather than mandate. Coastal settlements exist because maritime operations require distributed services. They coordinate because cooperation improves outcomes for all participants. They sustain themselves through economic viability rather than institutional support. And they continue functioning as long as people need maritime services that port cities cannot provide efficiently.
 
-*See also: [[Torst Bay]], [[Keln Harbor]], [[Brend Point]], [[Maritime Storm Coordination]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Auralis]], [[Terravelle]], [[Control Tier]], [[Flux]], Lorn Markel, Trel Orvn, Mara Keld, Veln Tors, Mira Brendt, Kess Torven*
+_See also: [[Torst Bay]], [[Keln Harbor]], [[Brend Point]], [[Maritime Storm Coordination]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Auralis]], [[Terravelle]], [[Control Tier]], [[Flux]], Lorn Markel, Trel Orvn, Mara Keld, Veln Tors, Mira Brendt, Kess Torven_

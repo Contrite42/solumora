@@ -16,4 +16,4 @@ Brennan has a specific concern about the rift situation on [[Auralis|Auralis's]]
 
 He has not connected this to the Expansion Faction's goals. He has not connected it to the [[Rift Incursions|incursion problem's]] political dimensions. It sits in a separate compartment that he has not opened recently.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Terravelle]], [[Castor Helme]], [[Davan Rhyce]], [[Rift Incursions]], [[Equatorial Desert]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Terravelle]], [[Castor Helme]], [[Davan Rhyce]], [[Rift Incursions]], [[Equatorial Desert]]_

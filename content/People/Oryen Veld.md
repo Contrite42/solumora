@@ -42,4 +42,4 @@ Oryen Veld embodies the middle terrace's particular relationship to [[Solhaven]]
 
 He is ambitious without being ruthless, strategic without being cynical, practical without being resigned. He represents what the [[Ascendant Path]]'s theology promises is possible — advancement through merit, tier development through dedication, social mobility through the proper application of capability. Whether this promise is actually reliable is a question he cannot afford to examine too closely, because his family's entire future is built on the assumption that it is.
 
-*See also: [[Life in Solhaven]], [[Solhaven]], [[Ascendant Path]], [[Control Tier]], [[Auralis]], [[Flux Users]], [[Sigils]], [[Ordinary Life in Auralis]], [[Guilds]], [[Neven Cors]], [[Tev Ols]], [[Miren Thask]]*
+_See also: [[Life in Solhaven]], [[Solhaven]], [[Ascendant Path]], [[Control Tier]], [[Auralis]], [[Flux Users]], [[Sigils]], [[Ordinary Life in Auralis]], [[Guilds]], [[Neven Cors]], [[Tev Ols]], [[Miren Thask]]_

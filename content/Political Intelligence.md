@@ -6,4 +6,4 @@ This intelligence is distinct from rumors or casual observation. It requires del
 
 Those with access to political intelligence face constraints on how they can use it, particularly when their position limits their ability to act openly on what they know. Documentation becomes valuable even when immediate action is not possible.
 
-*See also: [[Political Dynamics]], [[The Council of Auralis]], [[Expansion Faction]], [[Factions]]*
+_See also: [[Political Dynamics]], [[The Council of Auralis]], [[Expansion Faction]], [[Factions]]_

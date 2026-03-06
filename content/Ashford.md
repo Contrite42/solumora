@@ -20,7 +20,7 @@ Eddan considers Ashford one of the three non-negotiables of Terravellian securit
 
 The eastern situation has been developing in ways that Ashford's administrative reports do not fully capture, and Eddan knows this. He does not know the precise mechanism. He knows the shape of a problem that is being managed from a distance by someone patient, and he has not yet identified who.
 
-*See also: [[Terravelle]], [[Eddan Voss]], [[Valdenmoor]], [[Geography]], [[Watts]], [[Birth Runes]], [[Davan Rhyce]], [[Life in Ashford]]*
+_See also: [[Terravelle]], [[Eddan Voss]], [[Valdenmoor]], [[Geography]], [[Watts]], [[Birth Runes]], [[Davan Rhyce]], [[Life in Ashford]]_
 
 ## Movement Infrastructure
 
@@ -30,4 +30,4 @@ Long-distance information and mixed cargo movement to northern settlements is ha
 
 Seasonal expedition supply and recovery traffic around the desert edge runs through the [[Zakros Rim Caravan Loop]], which ties Ashford dispatch to [[Halveth]] staging windows.
 
-*See also: [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Outer Coast Packet Line]], [[Zakros Rim Caravan Loop]], [[Trade Guilds]], [[Life in Ashford]]*
+_See also: [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Outer Coast Packet Line]], [[Zakros Rim Caravan Loop]], [[Trade Guilds]], [[Life in Ashford]]_

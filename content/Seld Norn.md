@@ -6,4 +6,4 @@ What she knows from Corps work: how institutional documentation creates distance
 
 She does not have ongoing contact with the Corps. She does not have contact with [[Renne Osl]], who was a junior assessor when Seld was in her last field year and who she suspects has developed into exactly the kind of competent senior assessor the Corps needs. She does not think about this often.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[The Advancement Corps]], [[Control Tier]], [[Flux Users]], [[Renne Osl]], [[Ordinary Life in Terravelle]]*
+_See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[The Advancement Corps]], [[Control Tier]], [[Flux Users]], [[Renne Osl]], [[Ordinary Life in Terravelle]]_

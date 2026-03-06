@@ -6,4 +6,4 @@ What she observes: more Terravelle commercial documentation moving through the t
 
 She has not raised any of this with her command. Her command has not asked. She keeps accurate records of what her unit does and where and when. The records are part of her professional practice. They are also, she understands, the only protection she has if something goes wrong.
 
-*See also: [[Ashford]], [[Auralis]], [[Life in Ashford]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Ashford]], [[Auralis]], [[Life in Ashford]], [[Control Tier]], [[Ordinary Life in Auralis]]_

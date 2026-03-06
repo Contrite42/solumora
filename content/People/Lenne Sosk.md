@@ -44,4 +44,4 @@ Lenne wants security more than advancement. She wants to know that she will have
 
 She does not expect these things to change. She has structured her life around the assumption that they will not. But the wanting remains, and it shapes how she responds to the city's politics, its celebrations, its promises about opportunity and advancement. She listens to the speeches from the middle terraces with the particular skepticism of someone who knows exactly where she stands in the system being described.
 
-*See also: [[Life in Solhaven]], [[Solhaven]], [[Auralis]], [[Control Tier]], [[Ordinary Life in Auralis]], [[Expansion Faction]], [[Ascendant Path]], [[Flux Users]], [[Harbor District]], [[Watts]], [[Oryen Veld]], [[Neven Cors]], [[Tev Ols]]*
+_See also: [[Life in Solhaven]], [[Solhaven]], [[Auralis]], [[Control Tier]], [[Ordinary Life in Auralis]], [[Expansion Faction]], [[Ascendant Path]], [[Flux Users]], [[Harbor District]], [[Watts]], [[Oryen Veld]], [[Neven Cors]], [[Tev Ols]]_

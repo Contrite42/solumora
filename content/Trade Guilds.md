@@ -17,6 +17,7 @@ The certification assessment is conducted by a guild-appointed assessor, usually
 Most trades have multiple certification grades tied to [[Control Tier]] capability. The grades are trade-specific rather than universal: a T3 certification in structural sigil application means something different from a T3 certification in transport flux, and neither certification transfers to the other trade.
 
 Common tier grade structure for Flux-integrated trades:
+
 - **T1 certification**: Entry-level, basic applications, limited scope. Most residential and consumer-facing work falls here. High-volume, lower-complexity operations.
 - **T2 certification**: Standard working grade. Where most commercial practice operates. Broad scope with documented conditions.
 - **T3 certification**: Skilled practitioner grade. Indicates capability that goes beyond the standard workflow. Sought after for complex projects, specialist work, supervision roles.
@@ -30,7 +31,7 @@ Guild documentation requirements are not optional conditions on certification �
 
 This standard exists for reasons that the guild system documents openly: in trades where errors cause structural failures, cargo losses, or health consequences, the field record is frequently the only way to reconstruct what went wrong. A bridge that fails three years after construction, with no documentation of what was applied where and in what sequence, cannot be investigated, learned from, or corrected. The guild's interest in documentation is not administrative. It is institutional memory about what happens when it is absent.
 
-Several certification grades, particularly in civil works, require that documentation be maintained *concurrent* with casting — meaning the record is created in real time during the work, not reconstructed afterward. Many candidates who are technically capable of the casting fail this standard because maintaining both simultaneously is its own skill, and one that requires specific practice. The guild review committees that set these standards have heard the argument that the requirement is excessive. They are familiar with the documented bridge failures that preceded the standard.
+Several certification grades, particularly in civil works, require that documentation be maintained _concurrent_ with casting — meaning the record is created in real time during the work, not reconstructed afterward. Many candidates who are technically capable of the casting fail this standard because maintaining both simultaneously is its own skill, and one that requires specific practice. The guild review committees that set these standards have heard the argument that the requirement is excessive. They are familiar with the documented bridge failures that preceded the standard.
 
 ## Social Function
 
@@ -46,4 +47,4 @@ The assessors who conduct certification examinations are senior certified member
 
 Assessors have discretionary authority in how they conduct examinations but not in what standards they apply — the standards are set by guild review committees and revised periodically. An assessor who believes a standard is inadequate or outdated can raise the concern with the review committee, who will note it. Whether the committee acts is a separate question.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Covenant of Measure]], [[Ordinary Life in Terravelle]], [[Osvin Brack]], [[Osvin Brack's Assessment Ledger]], [[Sable Morn]], [[Keld Dast]], [[Rell Hadv]], [[Ostal Mrev]], [[Massen Olvr]]*
+_See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Covenant of Measure]], [[Ordinary Life in Terravelle]], [[Osvin Brack]], [[Osvin Brack's Assessment Ledger]], [[Sable Morn]], [[Keld Dast]], [[Rell Hadv]], [[Ostal Mrev]], [[Massen Olvr]]_

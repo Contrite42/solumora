@@ -4,7 +4,7 @@ Selected letters from [[Ilke Vann]], trader, coastal circuit [[Ashford]]–[[Hal
 
 **On the midpoint cape, spring**
 
-The cape looks different in spring than any other time. I know you've seen it from the land side and I know you think the land view is the better one. The land view is wrong. From the water, when the spring current is running south and you're working against it through the cape passage, the cliff face is close enough that you can see the individual ledges where the birds nest. The birds are nesting now. There are thousands of them. The noise they make is not something I can describe in a way that will be useful to you. It is simply a wall of sound that the *Reasonable Margin* passes through over about four minutes, and then the cape is behind you and the sound drops off and the coast opens up again to the south.
+The cape looks different in spring than any other time. I know you've seen it from the land side and I know you think the land view is the better one. The land view is wrong. From the water, when the spring current is running south and you're working against it through the cape passage, the cliff face is close enough that you can see the individual ledges where the birds nest. The birds are nesting now. There are thousands of them. The noise they make is not something I can describe in a way that will be useful to you. It is simply a wall of sound that the _Reasonable Margin_ passes through over about four minutes, and then the cape is behind you and the sound drops off and the coast opens up again to the south.
 
 I think about this every spring and then I am there and it is always more than I thought.
 
@@ -36,8 +36,8 @@ I am telling you this because the second operator who came in wrong was using a 
 
 **On winter, on the water**
 
-Winter on this coast is not dramatic the way people who have not sailed it imagine. The storms come and I wait them out in coves I have mapped over fifteen years, and the *Reasonable Margin* holds, and I read or sleep or watch the water change color as the weather moves through. The dramatic part is in the decision-making before the storm, not in the storm itself.
+Winter on this coast is not dramatic the way people who have not sailed it imagine. The storms come and I wait them out in coves I have mapped over fifteen years, and the _Reasonable Margin_ holds, and I read or sleep or watch the water change color as the weather moves through. The dramatic part is in the decision-making before the storm, not in the storm itself.
 
 The coast in winter light is something I have tried to describe to you before and not quite managed. It is low and grey and very specific. The color the water turns in winter is not a color that has a name I'm aware of. It is the color the water turns. I will try again when I am back.
 
-*See also: [[Ilke Vann]], [[Ashford]], [[Halveth]], [[Life in Halveth]], [[Terravelle]]*
+_See also: [[Ilke Vann]], [[Ashford]], [[Halveth]], [[Life in Halveth]], [[Terravelle]]_

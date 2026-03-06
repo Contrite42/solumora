@@ -30,4 +30,4 @@ Tovan's support for [[Cassia]] is the quietest of her three allies and the most 
 
 Cassia knows what he is doing. She has never thanked him directly, which he considers correct. Gratitude acknowledged is gratitude that can be used against both of them.
 
-*See also: [[Cassia]], [[The Council of Auralis]], [[Maren Sollis]], [[Drest]], [[Auralis]]*
+_See also: [[Cassia]], [[The Council of Auralis]], [[Maren Sollis]], [[Drest]], [[Auralis]]_

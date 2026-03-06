@@ -24,4 +24,4 @@ The Compact regularly clashes with smuggling intermediaries, especially groups a
 
 It trades in protection, handling speed, and predictability under pressure.
 
-*See also: [[Ashford]], [[Terravelle]], [[Outer Coast Packet Line]], [[Maren Freight Chain]], [[Trade Guilds]], [[Grimoire Authentication]], [[Charter Road Wardens]]*
+_See also: [[Ashford]], [[Terravelle]], [[Outer Coast Packet Line]], [[Maren Freight Chain]], [[Trade Guilds]], [[Grimoire Authentication]], [[Charter Road Wardens]]_

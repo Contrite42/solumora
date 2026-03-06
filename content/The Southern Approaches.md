@@ -28,4 +28,4 @@ The Approaches have usable and non-usable windows:
 
 [[Control Tier|Tier 0]] and [[Control Tier|Tier 1]] travelers are never counted toward crossing-critical coverage in these lanes. Coverage assumptions are inherited from Narrows departure manifests and revalidated at each interior lane shift.
 
-*See also: [[Equatorial Desert]], [[The Northern Narrows]], [[Standard Guided Crossing]], [[Halveth Cooperative]], [[Rift Incursions]], [[Ancient Ruins]], [[Control Tier]]*
+_See also: [[Equatorial Desert]], [[The Northern Narrows]], [[Standard Guided Crossing]], [[Halveth Cooperative]], [[Rift Incursions]], [[Ancient Ruins]], [[Control Tier]]_

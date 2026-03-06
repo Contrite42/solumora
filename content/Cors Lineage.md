@@ -8,10 +8,10 @@ Cors memory is maintained in what the family calls route ledgers: practical logs
 
 A red entry includes:
 
-- Settlement name and date  
-- Trigger incident (if known)  
-- Number of people excluded, displaced, or killed (if verifiable)  
-- Whether accusations targeted demonstrated harm or presumed capacity  
+- Settlement name and date
+- Trigger incident (if known)
+- Number of people excluded, displaced, or killed (if verifiable)
+- Whether accusations targeted demonstrated harm or presumed capacity
 - Whether neighboring settlements repeated the pattern
 
 These entries were originally operational notes. During persecution periods, routes through active panic zones were high-risk for travelers carrying grimoires or known high-tier affiliations. Recording conditions helped couriers avoid losses. Over time, the entries became a comparative historical dataset.
@@ -52,4 +52,4 @@ The Cors Lineage preserves an operational memory of persecution: how panic looke
 
 Their legacy is not moral authority. It is method.
 
-*See also: [[The Persecution Era]], [[Halveth]], [[Ashford]], [[Auralis]], [[Terravelle]], [[History]], [[Ashford-Halveth Courier Road]], [[Cross-Border Guide Network]]*
+_See also: [[The Persecution Era]], [[Halveth]], [[Ashford]], [[Auralis]], [[Terravelle]], [[History]], [[Ashford-Halveth Courier Road]], [[Cross-Border Guide Network]]_

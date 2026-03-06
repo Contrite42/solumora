@@ -16,4 +16,4 @@ Orla's position on specific votes is consistently predictable from her commercia
 
 She is aware she has been outmaneuvered on both occasions. She has not adjusted her approach because her approach produces what she needs across the full range of her activity, and two lost votes in nine years on the council is an acceptable cost. She is not on the council to win every vote.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Castor Helme]], [[Davan Rhyce]], [[Tovan Ashce]], [[Solhaven]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Castor Helme]], [[Davan Rhyce]], [[Tovan Ashce]], [[Solhaven]]_

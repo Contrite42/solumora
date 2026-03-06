@@ -1,5 +1,3 @@
-
-
 ## Daily Existence
 
 Mave's visible social position is not professional but social. She appears in [[Selvane]]'s circle — loosely described as an associate or friend of long standing, though no one can say how they met or when the attachment formed. She orbits Selvane socially, like a younger sibling to an eldest. This is the central fact of how others perceive her presence in [[Solhaven]]. Neither Mave nor Selvane knows the other is a demon. The social relationship is genuine.
@@ -14,7 +12,7 @@ The quality that makes Mave hard to remember is not a [[Flux]] effect. It is a q
 
 [[Essa Rolt]] has noticed that Mave visits Selvane's household with a frequency that matches no professional relationship Essa can identify. No business is conducted that she can see. Mave arrives, spends time with Selvane, leaves. The visits follow no schedule Essa can determine. They serve no function she can account for. Essa cannot hold the details afterward — not the duration of the visits, not the substance of any conversations, not the specific arrangements that bring Mave to the household. She has noted this pattern without acting on it. The noting itself is something she has to work to maintain.
 
-*See also: [[Selvane]], [[Solhaven]], [[Essa Rolt]], [[Avel Tors]], [[High Demons]], [[Flux]], [[The Council of Auralis]]*
+_See also: [[Selvane]], [[Solhaven]], [[Essa Rolt]], [[Avel Tors]], [[High Demons]], [[Flux]], [[The Council of Auralis]]_
 
 ## Daily Existence
 
@@ -28,7 +26,7 @@ This quality of presence that fades is not a [[Flux]] effect. It is something in
 
 [[Essa Rolt]] has noticed that Mave visits Selvane's household with a frequency that matches no professional relationship she can identify. No business is conducted that she can see. Mave arrives, spends time with Selvane, leaves. The visits follow no pattern she can discern — not weekly, not monthly, not tied to any calendar of events or obligations. Essa cannot hold the details of these visits afterward. She has noted this without acting on it, filing the observation in the category of things about Selvane's affairs that she manages without fully understanding.
 
-*See also: [[Selvane]], [[Solhaven]], [[Essa Rolt]], [[Avel Tors]], [[High Demons]], [[Flux]], [[The Council of Auralis]]*
+_See also: [[Selvane]], [[Solhaven]], [[Essa Rolt]], [[Avel Tors]], [[High Demons]], [[Flux]], [[The Council of Auralis]]_
 
 ## Daily Existence
 
@@ -44,4 +42,4 @@ The quality that makes Mave hard to remember is not a [[Flux]] effect. It is a q
 
 [[Essa Rolt]] has noticed that Mave visits Selvane's household with a frequency that matches no professional relationship Essa can identify. No business is conducted that she can see. Mave arrives, spends time with Selvane, leaves. The visits follow no schedule Essa can determine. They serve no function she can account for. Essa cannot hold the details afterward — not the duration of the visits, not the substance of any conversations, not the specific arrangements that bring Mave to the household. She has noted this pattern without acting on it. The noting itself is something she has to work to maintain.
 
-*See also: [[Selvane]], [[Solhaven]], [[Essa Rolt]], [[Avel Tors]], [[High Demons]], [[Flux]], [[The Council of Auralis]]*
+_See also: [[Selvane]], [[Solhaven]], [[Essa Rolt]], [[Avel Tors]], [[High Demons]], [[Flux]], [[The Council of Auralis]]_

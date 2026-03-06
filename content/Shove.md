@@ -8,10 +8,10 @@ Releases a single raw kinetic burst from the written sigil, pushing anything in 
 | Control Tier | T1                          |
 | Discipline   | Force                       |
 | Output       | Kinetic                     |
-| Pattern      | *(default — Plane)*         |
-| Reach        | *(default — Self)*          |
-| Persistence  | *(default — Immediate)*     |
-| Target       | *(default — Where Written)* |
+| Pattern      | _(default — Plane)_         |
+| Reach        | _(default — Self)_          |
+| Persistence  | _(default — Immediate)_     |
+| Target       | _(default — Where Written)_ |
 
 **Rarity:** Common
 **Grimoire:** [[Common Grimoire]]

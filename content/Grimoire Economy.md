@@ -31,4 +31,4 @@ Fraud — misrepresentation of tier, quality, or origin — is addressed through
 
 Access inequality is structural: the Common market is accessible, the Uncommon market requires real saving, and Rare access requires institutional affiliation or significant wealth. This gradient is not hidden — it is visible to anyone who shops for spells — and it maps onto the broader tier structure of society. The grimoire economy smooths the gradient but does not eliminate it.
 
-*See also: [[Grimoires]], [[Common Grimoire Market]], [[Grimoire Copyists]], [[Grimoire Licensing]], [[Grimoire Fraud]], [[Black Market Grimoires]], [[Grimoire Regulation]], [[Grimoire Inheritance]], [[Grimoire Distribution]], [[Personal Working Grimoire]], [[High-Tier Grimoire Access]], [[Trade Guilds]], [[Control Tier]], [[Flux Cost Reference]]*
+_See also: [[Grimoires]], [[Common Grimoire Market]], [[Grimoire Copyists]], [[Grimoire Licensing]], [[Grimoire Fraud]], [[Black Market Grimoires]], [[Grimoire Regulation]], [[Grimoire Inheritance]], [[Grimoire Distribution]], [[Personal Working Grimoire]], [[High-Tier Grimoire Access]], [[Trade Guilds]], [[Control Tier]], [[Flux Cost Reference]]_

@@ -16,4 +16,4 @@ The merchant intermediaries through whom Oren funds expedition equipment are not
 
 He has mentioned this concern to [[Drest]] once, in passing, without detail. Drest noted it without apparent interest. Oren has not raised it again.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]]_

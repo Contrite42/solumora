@@ -24,4 +24,4 @@ The Ashford Blockade, approximately forty-five years ago, was the Expansion Fact
 
 The faction drew the lesson rather than repeating the mistake. The two decades of incremental strategic pressure that followed — the trade disruptions, the border friction, the patient accumulation of military capability — are the Expansion Faction operating with a patience it did not initially have. The current period, in which the desert crossing is better understood than it has ever been and Auralis's military capacity has measurably grown, is what forty-five years of that patience has produced.
 
-*See also: [[The Council of Auralis]], [[The Culmination Faction]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[The Three Near-Wars]], [[Drest]], [[Cassia]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Equatorial Desert]]*
+_See also: [[The Council of Auralis]], [[The Culmination Faction]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[The Three Near-Wars]], [[Drest]], [[Cassia]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Equatorial Desert]]_

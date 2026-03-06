@@ -70,4 +70,4 @@ The packet-ship networks ([[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet L
 
 The deeper infrastructure — the observation network, the practitioner coordination, the aggregated intelligence system — exists outside institutional frameworks because that is where it functions most effectively. Maritime Storm Coordination is maintained by the people who need it, operates through voluntary participation, and continues functioning as long as storms remain existential threats to maritime operations.
 
-*See also: [[Torst Bay]], [[Brend Point]], [[Keln Harbor]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Coastal Settlement Network]], [[Control Tier]], [[Flux]], Lorn Markel, Veln Tors, Maritime Operations, [[Auralis]], [[Terravelle]]*
+_See also: [[Torst Bay]], [[Brend Point]], [[Keln Harbor]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Coastal Settlement Network]], [[Control Tier]], [[Flux]], Lorn Markel, Veln Tors, Maritime Operations, [[Auralis]], [[Terravelle]]_

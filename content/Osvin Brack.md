@@ -8,4 +8,4 @@ He keeps the ledgers because the guild requires records. He re-reads old entries
 
 He lives alone in a moderate apartment near the guild offices. At quarterly review meetings he raises concerns about certification standards with more frequency than his colleagues prefer.
 
-*See also: [[Valdenmoor]], [[Terravelle]], [[Flux Users]], [[Ordinary Life in Terravelle]], [[Osvin Brack's Assessment Ledger]]*
+_See also: [[Valdenmoor]], [[Terravelle]], [[Flux Users]], [[Ordinary Life in Terravelle]], [[Osvin Brack's Assessment Ledger]]_

@@ -1,17 +1,17 @@
 An open [[Flux]] reservoir inscribed onto a physical object — slowly charges from ambient [[Flux]] over time, can be drawn from by anyone, and burns out entirely when depleted.
 
-| Variable | Value |
-|---|---|
-| Shape | Square |
-| Hook | Bind |
-| Mode | Create |
-| Control Tier | T2 |
-| Discipline | Binding |
-| Output | Constraint |
-| Pattern | *(default — Plane)* |
-| Reach | *(default — Self)* |
-| Persistence | Latched |
-| Target | *(default — Where Written)* |
+| Variable     | Value                       |
+| ------------ | --------------------------- |
+| Shape        | Square                      |
+| Hook         | Bind                        |
+| Mode         | Create                      |
+| Control Tier | T2                          |
+| Discipline   | Binding                     |
+| Output       | Constraint                  |
+| Pattern      | _(default — Plane)_         |
+| Reach        | _(default — Self)_          |
+| Persistence  | Latched                     |
+| Target       | _(default — Where Written)_ |
 
 **Rarity:** Common
 **Grimoire:** [[Common Grimoire]]

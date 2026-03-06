@@ -6,4 +6,4 @@ She has not written to ask directly what is happening. She does not know how to 
 
 The grain processing work continues. The harvest was adequate. The community's flux practitioner — a traveling assessor on circuit — came through in the fall. She mentions these things in her letters too.
 
-*See also: [[Terravelle]], [[Cadell Mors]], [[Control Tier]], [[Ordinary Life in Terravelle]]*
+_See also: [[Terravelle]], [[Cadell Mors]], [[Control Tier]], [[Ordinary Life in Terravelle]]_

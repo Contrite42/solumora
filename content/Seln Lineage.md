@@ -18,8 +18,8 @@ Over the last three generations, some Seln branches have begun pairing the recit
 
 Typical entries include:
 
-- Which names are currently recited in that household branch  
-- The source of each name (oral transfer, copied note, older relative testimony)  
+- Which names are currently recited in that household branch
+- The source of each name (oral transfer, copied note, older relative testimony)
 - Any correction when conflicting versions emerge
 
 This has produced a fragmented but durable memory mesh. No single Seln document is complete, but across branches the combined record preserves continuity.
@@ -30,9 +30,9 @@ The Seln legacy appears mostly as communication discipline during stress inciden
 
 If someone reports an uncontrolled casting event, Seln operators typically ask for:
 
-- Exact location and time  
-- Named witnesses  
-- Whether harm occurred or only potential harm was inferred  
+- Exact location and time
+- Named witnesses
+- Whether harm occurred or only potential harm was inferred
 - Whether the claim has been independently confirmed
 
 This mirrors old lineage warnings about preventive persecution logic. The practice is framed as operational clarity, not historical ideology.
@@ -57,4 +57,4 @@ The Seln Lineage demonstrates how persecution memory can survive without monumen
 
 In a world where panic still spreads faster than documentation, that habit remains useful.
 
-*See also: [[The Persecution Era]], [[Auralis]], [[Seln Watch]], [[Korst Station]], [[Emberfall]], [[Religions]], [[History]], [[Desert Watch]]*
+_See also: [[The Persecution Era]], [[Auralis]], [[Seln Watch]], [[Korst Station]], [[Emberfall]], [[Religions]], [[History]], [[Desert Watch]]_

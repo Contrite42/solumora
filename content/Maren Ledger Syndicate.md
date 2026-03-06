@@ -24,4 +24,4 @@ The Syndicate's main enemies are unofficial brokers who profit from ambiguity an
 
 It trades in timing confidence, route credit, and document trust.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Ashford]], [[Maren Freight Chain]], [[Trade Guilds]], [[Watts]], [[Guild Arbitration Bench]]*
+_See also: [[Terravelle]], [[Valdenmoor]], [[Ashford]], [[Maren Freight Chain]], [[Trade Guilds]], [[Watts]], [[Guild Arbitration Bench]]_

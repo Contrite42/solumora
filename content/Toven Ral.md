@@ -6,4 +6,4 @@ He retired because he stopped sleeping in the way he had previously slept. Not c
 
 He lives in a quiet district of [[Hedun]] in a two-room apartment with adequate light. He has begun writing in the mornings, before the city becomes loud, in a journal that he started telling himself serves no particular purpose. That is not exactly accurate. The journal is honest in ways the mission reports were not. In the mornings he works through what some of those reports were actually describing, and what the distance between the two languages has cost, and whether the accounting is something a person can complete or just something they can continue.
 
-*See also: [[Hedun]], [[Life in Hedun]], [[Auralis]], [[The Advancement Corps]], [[Adventurers]], [[The Council of Auralis]], [[Toven Ral's Journal]], [[Tolla Rend]]*
+_See also: [[Hedun]], [[Life in Hedun]], [[Auralis]], [[The Advancement Corps]], [[Adventurers]], [[The Council of Auralis]], [[Toven Ral's Journal]], [[Tolla Rend]]_

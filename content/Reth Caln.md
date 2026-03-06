@@ -6,4 +6,4 @@ He has taken five parties to Wolfpoint over his career. Each time the arrangemen
 
 He winters in a settlement two days north of Greyveil. In spring he moves with the trapping season. He maintains no permanent address in any city, which is less unusual in the northern reaches than it would be further south.
 
-*See also: [[Greyveil]], [[Life in Greyveil]], [[Wolfpoint]], [[Terravelle]], [[Life in Rural Terravelle]]*
+_See also: [[Greyveil]], [[Life in Greyveil]], [[Wolfpoint]], [[Terravelle]], [[Life in Rural Terravelle]]_

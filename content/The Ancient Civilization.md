@@ -34,4 +34,4 @@ The absence of catastrophe markers in the ruins makes invasion or conquest impla
 
 The Culmination Faction's theory — that the anomalous sites represent a successful achievement, that the civilization chose to leave or transform rather than dying — is impossible to rule out on current evidence. It is also impossible to confirm.
 
-*See also: [[History]], [[History of Solumora]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Hypertext]], [[Rift Incursions]], [[Flux]], [[The Culmination Faction|Culmination Faction]], [[Sera Voss]], [[Orva Dresk]], [[The Advancement Corps]], [[The Desert Barrier]]*
+_See also: [[History]], [[History of Solumora]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Hypertext]], [[Rift Incursions]], [[Flux]], [[The Culmination Faction|Culmination Faction]], [[Sera Voss]], [[Orva Dresk]], [[The Advancement Corps]], [[The Desert Barrier]]_

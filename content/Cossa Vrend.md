@@ -6,4 +6,4 @@ She has learned a working amount about [[Hypertext]] over five years — not how
 
 What she finds: the archive is the most interesting place she has worked, and it does not require her to understand what makes it interesting. The preservation problems here are problems that standard training does not address, which means she has spent five years developing solutions that do not exist in the professional literature. She keeps notes on these solutions. She has considered publishing them. She has not determined where she would publish them, since the professional guild literature does not have a category for archive work of this type.
 
-*See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[Terravelle]], [[Hypertext]], [[Control Tier]], [[Flux Users]], [[Mell Rask]], [[Vel Sorvn]]*
+_See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[Terravelle]], [[Hypertext]], [[Control Tier]], [[Flux Users]], [[Mell Rask]], [[Vel Sorvn]]_

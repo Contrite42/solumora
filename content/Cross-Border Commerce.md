@@ -6,4 +6,4 @@ Its practical operation depends on established networks connecting merchants, gu
 
 The volume and character of cross-border commerce reflects broader diplomatic and economic conditions between the kingdoms, making trade patterns useful indicators of political climate even when policy changes have not been formally announced.
 
-*See also: [[Cross-Border Trade]], [[Border Trade]], [[Trade Guilds]], [[Ashford]], [[Valdenmoor]], [[Auralis]], [[Terravelle]]*
+_See also: [[Cross-Border Trade]], [[Border Trade]], [[Trade Guilds]], [[Ashford]], [[Valdenmoor]], [[Auralis]], [[Terravelle]]_

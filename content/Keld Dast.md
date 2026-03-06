@@ -6,4 +6,4 @@ He has been to [[Valdenmoor]] once, for a guild licensing dispute that was resol
 
 The travelers passing through Greyveil on the northern road are part of the city the way the wind off the rock formations is part of the city — present, not particularly interesting, not worth organizing around. He has given directions to [[Wolfpoint]] more times than he has counted. He could not tell you anything about it.
 
-*See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Flux Users]], [[Control Tier]]*
+_See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Flux Users]], [[Control Tier]]_

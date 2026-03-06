@@ -40,4 +40,4 @@ The desert crossing is better understood than it has ever been. [[Auralis]]'s mi
 
 What happens next is not yet written.
 
-*See also: [[History]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Wolfpoint]], [[High Demons]], [[The Three Near-Wars]], [[Expansion Faction]], [[The Council of Auralis]], [[The Ancient Civilization]], [[The Desert Barrier]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Isolation Period]], [[The Persecution Era]], [[The First Contact]], [[The Fraying Peace]]*
+_See also: [[History]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Wolfpoint]], [[High Demons]], [[The Three Near-Wars]], [[Expansion Faction]], [[The Council of Auralis]], [[The Ancient Civilization]], [[The Desert Barrier]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Isolation Period]], [[The Persecution Era]], [[The First Contact]], [[The Fraying Peace]]_

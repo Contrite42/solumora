@@ -11,6 +11,7 @@ Day-to-day coordination happens through [[Selt Orvn]]'s supply depot, which serv
 The Cooperative's primary product is survival probability. A guided crossing through the network has documented survival rates. A crossing without a Cooperative-vetted guide does not, and the record of those attempts is not encouraging.
 
 Specific services:
+
 - **Guide placement**: matching expedition parties to guides whose route specialization fits the specific crossing season and destination. [[Avel Coss]] handles a significant share of desert-edge and ruin-approach work.
 - **Gear certification**: review and sign-off on expedition grimoire sets against current desert conditions. The Cooperative maintains an updated record of which thermal sigil configurations have worked in field conditions, distinct from what official expedition literature recommends. Selt's inventory tracks the gap.
 - **Route intelligence**: current conditions on the major southern crossing approaches, updated from guide returns. Weather windows, rift activity near ruins sites, fauna movement patterns.
@@ -28,4 +29,4 @@ The [[The Advancement Corps|Advancement Corps]] has a standing arrangement with 
 
 This is a cordial but arm's-length relationship. Cooperative guides have no fixed loyalty to either kingdom. They work for whoever is paying to cross and whoever has not previously gotten someone killed through preventable decisions.
 
-*See also: [[Halveth]], [[Equatorial Desert]], [[Avel Coss]], [[Selt Orvn]], [[The Advancement Corps]], [[Terravelle Desert Trade Office]], [[Life in Halveth]], [[Standard Guided Crossing]]*
+_See also: [[Halveth]], [[Equatorial Desert]], [[Avel Coss]], [[Selt Orvn]], [[The Advancement Corps]], [[Terravelle Desert Trade Office]], [[Life in Halveth]], [[Standard Guided Crossing]]_

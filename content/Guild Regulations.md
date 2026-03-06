@@ -6,4 +6,4 @@ These regulations are not static. They evolve in response to economic conditions
 
 Changes to guild regulations often signal broader policy shifts before formal announcements, making them useful indicators for merchants who need to anticipate rather than merely react to new requirements.
 
-*See also: [[Trade Guilds]], [[Cross-Border Trade]], [[Ashford]], [[Valdenmoor]], [[Auralis]], [[Terravelle]]*
+_See also: [[Trade Guilds]], [[Cross-Border Trade]], [[Ashford]], [[Valdenmoor]], [[Auralis]], [[Terravelle]]_

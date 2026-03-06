@@ -10,14 +10,14 @@ Each [[Sigils|sigil]] in a grimoire is drawn with full precision. A caster who m
 
 Grimoires are categorized by the rarity of the [[Spells|spells]] they contain, reflecting the [[Control Tier]] required to use them:
 
-| Tier | Control Tier | Typical Holder |
-|---|---|---|
-| [[Common Grimoire]] | T1–T2 | Most households |
-| [[Uncommon Grimoire]] | T3–T4 | Skilled [[Flux Users|Formulists]] |
-| [[Rare Grimoire]] | T5–T6 | [[Flux Users|Channelers]], restricted |
-| [[Legendary Grimoire]] | T7–T8 | Institutional holdings only |
-| [[Mythic Grimoire]] | T9 | [[Flux Users|Conduits]], documentation only |
-| [[Pale Grimoire]] | T9 | Restricted scholarly record |
+| Tier                   | Control Tier | Typical Holder              |
+| ---------------------- | ------------ | --------------------------- | ------------------------------ |
+| [[Common Grimoire]]    | T1–T2        | Most households             |
+| [[Uncommon Grimoire]]  | T3–T4        | Skilled [[Flux Users        | Formulists]]                   |
+| [[Rare Grimoire]]      | T5–T6        | [[Flux Users                | Channelers]], restricted       |
+| [[Legendary Grimoire]] | T7–T8        | Institutional holdings only |
+| [[Mythic Grimoire]]    | T9           | [[Flux Users                | Conduits]], documentation only |
+| [[Pale Grimoire]]      | T9           | Restricted scholarly record |
 
 The full catalogue of documented spells across all tiers is maintained in the [[All Grimoire]].
 
@@ -48,13 +48,16 @@ Grimoires are the mechanism by which [[Flux]] capability is distributed broadly 
 The entries below are full in-world books that circulate as artifacts rather than abstract catalog references.
 
 **Common-tier purchasable:**
+
 - [[WrittenWorks/Household Sigils for Working Families (7th Dock Edition)|Household Sigils for Working Families (7th Dock Edition)]]
 - [[WrittenWorks/Roadside Repair Sigils - Courier Pocket Edition|Roadside Repair Sigils - Courier Pocket Edition]]
 
 **Uncommon-tier limited market:**
+
 - [[WrittenWorks/Crossing Ledger of Heat and Dust (Annotated Copy)|Crossing Ledger of Heat and Dust (Annotated Copy)]]
 
 **Rare-tier institutional-only:**
+
 - [[WrittenWorks/Restricted Soul Lattice Practicum (Archive Copy)|Restricted Soul Lattice Practicum (Archive Copy)]]
 
-*See also: [[Sigils]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]], [[Grimoire Economy]], [[Trade Guilds]], [[Flux Cost Reference]], [[Terravelle]], [[Auralis]]*
+_See also: [[Sigils]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]], [[Grimoire Economy]], [[Trade Guilds]], [[Flux Cost Reference]], [[Terravelle]], [[Auralis]]_

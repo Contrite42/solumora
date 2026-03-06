@@ -24,4 +24,4 @@ Trel is steady and private in the way that people who have built an uncomplicate
 
 He has been married, divorced ten years ago, and is on reasonable terms with his former wife who lives elsewhere in the Outer Wards and does her own work. Their settlement was practical and handled through guild arbitration, which is what the system exists for. He sees no particular need to characterize it further than that.
 
-*See also: [[The Outer Wards]], [[Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Covenant of Measure]], [[Life in Valdenmoor]], [[Terravelle]]*
+_See also: [[The Outer Wards]], [[Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Covenant of Measure]], [[Life in Valdenmoor]], [[Terravelle]]_

@@ -18,4 +18,4 @@ Celd votes reliably with the Expansion Faction. He is not, in the council's curr
 
 [[Davan Rhyce]] finds him a useful vote and an unreliable thinker. [[Castor Helme]] finds him useful in public presentations — there is something convincing about a man of old money and long grievance speaking plainly about what Auralis deserves — and irrelevant in actual strategy sessions. Celd is aware of the latter and considers it a reasonable division of labor.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Terravelle]], [[Castor Helme]], [[Davan Rhyce]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Terravelle]], [[Castor Helme]], [[Davan Rhyce]]_

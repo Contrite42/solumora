@@ -68,4 +68,4 @@ This creates a reputation: Dren Outpost is where the difficult work happens. The
 
 That suits the population fine. They are not doing the work for recognition. They are doing it because someone has to, and they are the ones who decided it would be them.
 
-*See also: [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Thel Reach]], [[Terravelle]], [[Control Tier]], [[Rift Incursions]], [[Standard Guided Crossing]], Tor Seln, Mira Keld, Cors Venn*
+_See also: [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Thel Reach]], [[Terravelle]], [[Control Tier]], [[Rift Incursions]], [[Standard Guided Crossing]], Tor Seln, Mira Keld, Cors Venn_

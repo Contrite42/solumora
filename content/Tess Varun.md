@@ -16,4 +16,4 @@ Her [[Flux]] ability is T5, Force discipline, which makes her one of the council
 
 She does not yet know she is being read this way. When she finds out — and she will find out; she is not unobservant — it will produce an interesting recalibration.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Cassia]], [[Corda Lenn]], [[Ilse Dorn]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Cassia]], [[Corda Lenn]], [[Ilse Dorn]]_

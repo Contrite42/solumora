@@ -36,4 +36,4 @@ Cross-border enforcement is harder. A grimoire with protected rights in [[Terrav
 
 Rights and restrictions drive much of the [[Black Market Grimoire Circulation]]. Buyers who can't obtain a grimoire legally — either because no certified scrivener will copy it, or because the cost is prohibitive, or because the text is entirely restricted — turn to underground networks. Violations are common but rarely prosecuted unless the grimoire is used in a crime.
 
-*See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Black Market Grimoire Circulation]], [[Rare Grimoire]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Trade Guilds]], [[The Council of Auralis|Council of Auralis]], [[Terravelle]], [[Auralis]]*
+_See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Black Market Grimoire Circulation]], [[Rare Grimoire]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Trade Guilds]], [[The Council of Auralis|Council of Auralis]], [[Terravelle]], [[Auralis]]_

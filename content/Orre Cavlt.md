@@ -6,7 +6,7 @@ This year has been different from previous years in ways he has not yet been abl
 
 He has been trying to determine whether what he is seeing is a temporary fluctuation or the beginning of a structural change. He does not have enough information to decide. He has been in business for twenty-two years, which means he knows that not deciding is also a decision.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Terravelle]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Terravelle]]_
 
 ## What He Cannot Model
 
@@ -18,7 +18,7 @@ One shipment he expected to clear in one day sat for four without any formal hol
 
 He has been in this business long enough to know the difference between friction and signal. He is not yet sure which this is. But it is not random.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -32,7 +32,7 @@ The pattern extends beyond individual transactions. The rhythm of the border its
 
 He has been in this business long enough to know the difference between friction and signal. Friction is random, temporary, explicable when you find the right person to ask. Signal is systematic, persistent, and the people who could explain it either do not know or will not say. He is not yet sure which this is, but it is not random.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -46,7 +46,7 @@ He has been in this business long enough to know the difference between friction
 
 He is not yet sure which this is. But he has started building contingency plans for supply chain disruption, and he has started diversifying his client relationships to reduce his dependence on cross-border trade. The informal indicators that built his business are telling him to prepare for the possibility that the business model is changing.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -60,7 +60,7 @@ He has been in this business long enough to know the difference between friction
 
 The changes have a direction. More scrutiny on [[Terravelle]]-origin goods. More questions about final destination for items that used to pass through without comment. More requests for documentation that establishes chain of custody rather than just ownership. The direction has not been stated, but it is consistent enough that he has adjusted his preparation accordingly. He now carries backup documentation for transactions that never required it before. He has not been told this is necessary. He has learned that it is useful.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -76,7 +76,7 @@ He has been in this business long enough to know the difference between friction
 
 This is signal. He is not yet sure what it is signaling, but it is not random. The informal network he relies on — the relationships that make cross-border commerce practical rather than theoretical — is responding to pressure he cannot see. The pressure has a direction. The direction has not been stated.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -90,7 +90,7 @@ He has been in this business long enough to know the difference between friction
 
 The direction has not been stated. The policy has not been announced. But the pattern is consistent enough that he has started building additional time into his crossing schedules and carrying backup documentation for shipments that should not require it. He is not yet sure which this is — friction or signal — but he is preparing for it to be signal, because the cost of being wrong about that is higher than the cost of extra preparation.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -104,7 +104,7 @@ He has been in this business long enough to know the difference between friction
 
 This is not random. The pattern is too consistent, too directional. But it is not yet clear enough for him to know what he should be preparing for, or how.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -118,7 +118,7 @@ He has been in this business long enough to know the difference between friction
 
 He is not yet sure which this is. But it is not random. Someone is managing these changes in a coordinated way, and the coordination extends beyond what any single administrative unit would implement on its own initiative. He has started keeping more detailed records of his crossing times, his contact interactions, and the informal intelligence he normally relies on to predict trade conditions. If this is signal rather than friction, the records will show it. If it is friction, the records will show that too.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -132,7 +132,7 @@ He has been in this business long enough to know the difference between friction
 
 What he is seeing is signal. He is not yet sure what it means, but it is not random. The changes have a consistency that suggests coordination, and coordination suggests intent. He is documenting what he observes because he suspects that understanding the intent will become important, and he wants to have the data when it does.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_
 
 ## What He Cannot Model
 
@@ -146,4 +146,4 @@ He has been in this business long enough to know the difference between friction
 
 His response has been to adjust his operational assumptions without changing his business model. He now builds additional buffer time into his crossing schedules. He has diversified his contact network to reduce dependence on any single relationship. He has begun maintaining more detailed records of inspection procedures and wait times, not for any immediate purpose, but because patterns that are invisible in individual transactions sometimes become clear when documented systematically over time.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_

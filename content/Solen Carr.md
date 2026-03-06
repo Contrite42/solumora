@@ -10,4 +10,4 @@ He has not responded to any of them. He has been helping his family with the har
 
 The T5 means he is capable of things he has not learned to do. He has been living with this fact for six months. It is large in a way he does not yet have language for and has not tried to explain to anyone who was not in that assessment room.
 
-*See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Greyveil]], [[Wolfpoint]], [[Valdenmoor]], [[Control Tier]], [[Flux Users]]*
+_See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Greyveil]], [[Wolfpoint]], [[Valdenmoor]], [[Control Tier]], [[Flux Users]]_

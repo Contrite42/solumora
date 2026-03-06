@@ -68,4 +68,4 @@ Social cohesion comes from shared professional standards and mutual recognition 
 
 The settlement is not sentimental about the desert. It is a business environment optimized around preparing people to survive something deadly. That focus shapes everything about how Seln Watch operates.
 
-*See also: [[Equatorial Desert]], [[Auralis]], [[Solhaven]], [[Emberfall]], [[The Council of Auralis]], [[Rift Incursions]], [[Control Tier]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[The Northern Narrows]], [[The Southern Approaches]], Lorn Brennik, Kess Rold, Tren Marsk, Nessa Tald*
+_See also: [[Equatorial Desert]], [[Auralis]], [[Solhaven]], [[Emberfall]], [[The Council of Auralis]], [[Rift Incursions]], [[Control Tier]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[The Northern Narrows]], [[The Southern Approaches]], Lorn Brennik, Kess Rold, Tren Marsk, Nessa Tald_

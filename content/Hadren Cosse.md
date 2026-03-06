@@ -20,4 +20,4 @@ Hadren maintains relationships with three senior Luminants in [[Solhaven]] who h
 
 Hadren is one of the council members who is genuinely fond of [[Cassia]]. He attended her Ascension ceremony when she was four and found the occasion moving in a way he still remembers. He would describe his attitude toward her as protective. What it actually is, is more complicated — he supports the council's management of her authority because he believes the Culmination goal is worth the constraints it requires, and Cassia's independence would complicate that goal. He has not examined this closely.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Cassia]], [[Religion and Belief]], [[Solhaven]], [[Ancient Ruins]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Cassia]], [[Religion and Belief]], [[Solhaven]], [[Ancient Ruins]]_

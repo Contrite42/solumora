@@ -8,4 +8,4 @@ He has started a documentation file for the specific procedural questions the ca
 
 He intends to retire in approximately ten years, which means the apprentice will be certified well before he steps down. He finds it likely that the former apprentice will be running the practice within twenty years of his retirement. He does not find this unsettling. That is, he thinks, what training is for.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Trade Guilds]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]], [[Tier Assessment]], [[Rell Hadv's Certification Notes]]*
+_See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Trade Guilds]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]], [[Tier Assessment]], [[Rell Hadv's Certification Notes]]_

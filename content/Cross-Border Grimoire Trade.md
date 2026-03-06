@@ -37,6 +37,7 @@ Smuggled grimoires carry higher authentication risk. A black market grimoire sou
 ## Cost Structure
 
 Cross-border grimoire acquisition is significantly more expensive than domestic commissioning. A [[Common Grimoire]] costing 200W domestically might cost 250-300W when commissioned cross-border due to:
+
 - Foreign scrivener premium (10-20%)
 - Courier transport and insurance (15-30W)
 - Customs fees and inspection delays (5-10W)
@@ -44,4 +45,4 @@ Cross-border grimoire acquisition is significantly more expensive than domestic 
 
 [[Rare Grimoire|Higher-tier]] grimoires can cost double or more compared to domestic equivalents. This limits cross-border trade mostly to texts that aren't available domestically or where quality differences justify the premium.
 
-*See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Grimoire Rights and Restrictions]], [[Black Market Grimoire Circulation]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Terravelle]], [[Auralis]], [[Outer Coast Packet Line]], [[Ashford-Halveth Courier Road]], [[Watts]]*
+_See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Grimoire Rights and Restrictions]], [[Black Market Grimoire Circulation]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Terravelle]], [[Auralis]], [[Outer Coast Packet Line]], [[Ashford-Halveth Courier Road]], [[Watts]]_

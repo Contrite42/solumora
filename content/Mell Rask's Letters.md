@@ -1,4 +1,4 @@
-*Letters from [[Mell Rask]] to a former colleague in [[Valdenmoor]], responding to questions about [[Wolfpoint]]. Selected extracts.*
+_Letters from [[Mell Rask]] to a former colleague in [[Valdenmoor]], responding to questions about [[Wolfpoint]]. Selected extracts._
 
 ---
 
@@ -38,4 +38,4 @@ Come if the work is urgent enough that not doing it is worse than what doing it 
 
 The people who stay are not the ones who were most certain when they arrived. They are the ones for whom the question turned out to be unavoidable. You will know which one you are when you know. I cannot tell you before you know.
 
-*See also: [[Mell Rask]], [[Wolfpoint]], [[Life in Wolfpoint]], [[Hypertext]], [[Vel Sorvn]]*
+_See also: [[Mell Rask]], [[Wolfpoint]], [[Life in Wolfpoint]], [[Hypertext]], [[Vel Sorvn]]_

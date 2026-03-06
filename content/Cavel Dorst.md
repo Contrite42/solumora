@@ -8,7 +8,7 @@ The management work is less interesting to him than the routing problems. When a
 
 His T3 casting is used for documentation verification and occasional cargo authentication — standard commercial applications. He has not pushed beyond this range in eight years. He is not sure what happens if he does, and he is not particularly curious.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]_
 
 ## The Audit That Hasn't Come
 
@@ -20,7 +20,7 @@ He has updated office compliance protocols ahead of each change because he learn
 
 The changes have a direction. The direction has not been stated. He has documented what he observes.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]_
 
 ## The Audit That Hasn't Come
 
@@ -42,7 +42,7 @@ He has not discussed these observations with his contacts at other merchant hous
 
 The audit that hasn't come will eventually come. When it does, he will be ready for it. More importantly, he will have documentation that shows exactly when the regulatory environment began changing, how it changed, and what that change pattern suggests about the intentions behind it. This information may prove valuable in ways he cannot currently predict.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]_
 
 ## The Audit That Hasn't Come
 
@@ -58,7 +58,7 @@ Cavel maintains two sets of records now. The official compliance documentation t
 
 He does not know what the [[Expansion Faction]] is planning. He knows that something is being prepared, and that the preparation includes creating detailed records of exactly what moves between the kingdoms, when, and through whose hands. When the audit comes — and he believes it will come — he will be ready for it. More importantly, he will have records of what the normal pattern looked like before it changed.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]_
 
 ## The Audit That Hasn't Come
 
@@ -76,7 +76,7 @@ He maintains three sets of records now: the official compliance documentation re
 
 The audit that hasn't come will arrive when someone decides it should arrive. When it does, his house will be ready. The question he cannot answer is what the audit will be looking for, and whether being ready for an audit is the same as being ready for whatever the audit is designed to accomplish.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]_
 
 ## The Audit That Hasn't Come
 
@@ -92,7 +92,7 @@ Cavel has been managing cross-border commerce for eleven years. He knows the dif
 
 His counterparts in [[Valdenmoor]] report similar shifts in their guild requirements. The changes are not unique to [[Ashford]]. They are not unique to his merchant house. They are systematic, coordinated, and building toward something that has not been announced.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]_
 
 ## The Audit That Hasn't Come
 
@@ -112,4 +112,4 @@ The pattern suggests preparation for something that has not yet been announced. 
 
 He has not shared his analysis with anyone. There is no one in [[Ashford]]'s merchant community who would benefit from speculation about Auralis regulatory intentions, and there is no one in his Auralis network who would appreciate questions about why the documentation requirements keep changing. He maintains his records, meets the requirements as they evolve, and waits to see what the preparation is for.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]_

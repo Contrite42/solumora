@@ -6,4 +6,4 @@ What Celn tells, when he tells it: the fire burned lower than it should have giv
 
 He has not encountered [[Sorath]] again. He has not stopped thinking about whether he will.
 
-*See also: [[Auralis]], [[Equatorial Desert]], [[Sorath]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Auralis]], [[Equatorial Desert]], [[Sorath]], [[Control Tier]], [[Ordinary Life in Auralis]]_

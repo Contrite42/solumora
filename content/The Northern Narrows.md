@@ -7,6 +7,7 @@ The Narrows enter the desert from cooler and more elevated northern terrain arou
 The name "Narrows" comes from a geographic compression zone on the most-used route where workable ground tightens between two shelf formations. The name has generalized to the whole corridor system.
 
 Two primary corridor families exist:
+
 - **West Narrows**: better documented, closer to coast-adjacent terrain, longer but more predictable.
 - **East Narrows**: faster access to interior objectives, higher early exposure to heat-band stress and rift-active zones.
 
@@ -29,4 +30,4 @@ Halveth now functions as the primary settlement interface for Narrows departures
 
 Return crossings fail when parties treat Narrows lanes as fixed paths. Corridor viability shifts with wind and rift activity, so return legs require pre-committed resupply and lane reassessment through Halveth dispatch and Trade Office depots.
 
-*See also: [[Equatorial Desert]], [[Terravelle Desert Trade Office]], [[Halveth Cooperative]], [[Standard Guided Crossing]], [[Terravelle]], [[Halveth]], [[Avel Coss]], [[Ancient Ruins]]*
+_See also: [[Equatorial Desert]], [[Terravelle Desert Trade Office]], [[Halveth Cooperative]], [[Standard Guided Crossing]], [[Terravelle]], [[Halveth]], [[Avel Coss]], [[Ancient Ruins]]_

@@ -26,4 +26,4 @@ In practice, authentication relies heavily on reputation. A scrivener with decad
 
 Reputation also protects against fraud claims. A scrivener with a strong track record can weather an accusation more easily than someone with thin documentation or recent disputes. This creates pressure to work conservatively — copying only well-known spells from well-documented sources — which slows the spread of new or experimental sigil designs.
 
-*See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Sigils]], [[Copymark]], [[Fluxread]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Terravelle]], [[Auralis]]*
+_See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Sigils]], [[Copymark]], [[Fluxread]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Terravelle]], [[Auralis]]_

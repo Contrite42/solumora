@@ -6,4 +6,4 @@ He has met [[Fennick]] four times that he can identify — Fennick is a regular,
 
 He is not curious about Fennick in any particular way. He is not incurious either. He has a working model of regulars built up over six years of the same shift, and Fennick fits the model without straining it, which is the primary criterion by which Lorn categorizes the people he sees every week.
 
-*See also: [[Hedun]], [[Life in Hedun]], [[Fennick]], [[Flux Users]], [[Ordinary Life in Auralis]]*
+_See also: [[Hedun]], [[Life in Hedun]], [[Fennick]], [[Flux Users]], [[Ordinary Life in Auralis]]_

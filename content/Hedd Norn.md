@@ -6,8 +6,8 @@ He is 46 years old and has worked inside Emberfall operations for twenty-two yea
 
 Hedd does not cast. His value is temporal coordination under volatile research schedules:
 
-- staging materials before channel windows open  
-- sequencing chamber use so high-risk teams do not overlap support bottlenecks  
+- staging materials before channel windows open
+- sequencing chamber use so high-risk teams do not overlap support bottlenecks
 - routing urgent requests through compliance pathways without breaking chain-of-custody
 
 In a site where many people can manipulate Flux, the limiting resource is often not power but timing. Hedd manages that constraint better than most mid-tier technicians.
@@ -32,4 +32,4 @@ Hedd shows how T0 practitioners survive and lead in Flux-dense institutions: by 
 
 Casting can open a channel. It cannot make a broken schedule coherent.
 
-*See also: [[Control Tier]], [[Emberfall]], [[Flux Users]], [[Grimoires]], [[Expedition Supplies]], [[Emberfall Expedition Registry]], [[Ordinary Life in Auralis]]*
+_See also: [[Control Tier]], [[Emberfall]], [[Flux Users]], [[Grimoires]], [[Expedition Supplies]], [[Emberfall Expedition Registry]], [[Ordinary Life in Auralis]]_

@@ -1,6 +1,7 @@
 The **Circle** is the highest Shape level in the [[Flux Users|Scholar]] sigil system, providing full explicit control over all six outer [[Spell Variables]].
 
 A Circle [[Sigils|sigil]] has **6 outer points + center**, encoding:
+
 - [[Discipline]]
 - [[Output Mode]]
 - [[Geometry Pattern]]
@@ -24,4 +25,4 @@ The oldest documented versions of any given spell are almost always recorded as 
 
 A Circle has 6 outer points. This is the maximum the current Scholar system formally defines. Ruins found in [[Equatorial Desert|Desert Zakros]] have returned fragments of sigil geometry with more points than a Circle — geometry that does not conform to any Shape the system recognizes. What a 7-point, 8-point, or infinite-sided sigil would control is a question that remains formally unanswered, and that certain [[Flux Users|Scholars]] in [[Auralis]] are spending considerable resources trying to answer.
 
-*See also: Shape, [[Spell Variables]], [[Equatorial Desert]], [[Grimoires]]*
+_See also: Shape, [[Spell Variables]], [[Equatorial Desert]], [[Grimoires]]_

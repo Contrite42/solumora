@@ -6,9 +6,9 @@ The site remained undocumented in formal records until salvage crews connected t
 
 Narrowglass Cellar sits beneath fractured rock and collapsed storage foundations that appear, from surface level, to be ordinary weathered ruins. The refuge consists of:
 
-- Two low-ceiling chambers connected by a narrow crawl passage  
-- Vent shafts hidden inside natural rock fissures  
-- Three sealed alcoves for dry storage  
+- Two low-ceiling chambers connected by a narrow crawl passage
+- Vent shafts hidden inside natural rock fissures
+- Three sealed alcoves for dry storage
 - A recessed heat-management pit likely used to diffuse thermal signatures from camp fire or low-tier casting
 
 Capacity was limited: approximately 8-12 people for short periods. The layout suggests temporary shelter between movements rather than long-term habitation.
@@ -17,9 +17,9 @@ Capacity was limited: approximately 8-12 people for short periods. The layout su
 
 Recovered items were practical and mostly non-symbolic:
 
-- Fragmented water-storage ceramic with repeated ownership marks  
-- Worn transit cloth strips used for binding and load distribution  
-- Two damaged grimoire folios in low-tier utility range ([[Dimmer]], [[Breathclean]])  
+- Fragmented water-storage ceramic with repeated ownership marks
+- Worn transit cloth strips used for binding and load distribution
+- Two damaged grimoire folios in low-tier utility range ([[Dimmer]], [[Breathclean]])
 - A list of first names and route abbreviations scratched into interior stone
 
 The name list is the strongest evidence for persecution-era use. The sequence includes annotations interpreted as movement timing and caution states ("wait," "north clear," "no fire"). No surname clusters suggest this was multi-family shelter, not single-lineage holdout.
@@ -50,4 +50,4 @@ Narrowglass cannot tell the full story of the era. It preserves no explicit narr
 
 For historians, that is enough to challenge sanitized accounts that describe the period as mostly rhetorical suspicion. Someone built this. Someone used it. Someone expected not to be safe above ground.
 
-*See also: [[The Persecution Era]], [[Halveth]], [[Dren Outpost]], [[Desert Watch]], [[Cross-Border Guide Network]], [[History of Solumora]], [[Dimmer]], [[Breathclean]], [[Auralis]], [[Terravelle]]*
+_See also: [[The Persecution Era]], [[Halveth]], [[Dren Outpost]], [[Desert Watch]], [[Cross-Border Guide Network]], [[History of Solumora]], [[Dimmer]], [[Breathclean]], [[Auralis]], [[Terravelle]]_

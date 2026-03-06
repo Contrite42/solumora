@@ -420,8 +420,8 @@ export default (() => {
         </svg>
 
         <p class="solumora-map-note">
-          Canonical map showing trade networks, climate zones, and major settlements.
-          Click regions or cities to explore connected wiki articles.
+          Canonical map showing trade networks, climate zones, and major settlements. Click regions
+          or cities to explore connected wiki articles.
         </p>
       </section>
     )

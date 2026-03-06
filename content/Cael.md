@@ -36,4 +36,4 @@ He has never told anyone this. It is not a political position. It is not actiona
 
 He is nineteen. He is aware it is not a serious thing. He is also aware that awareness has not done much to resolve it.
 
-*See also: [[Eddan Voss]], [[Terravelle]], [[Auralis]], [[Cassia]], [[Flux]], [[Flux Users]], [[Hypertext]], [[Valdenmoor]], [[Fen Orel]]*
+_See also: [[Eddan Voss]], [[Terravelle]], [[Auralis]], [[Cassia]], [[Flux]], [[Flux Users]], [[Hypertext]], [[Valdenmoor]], [[Fen Orel]]_

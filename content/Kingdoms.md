@@ -4,4 +4,4 @@
 
 The two kingdoms share a language, a currency ([[Watts]]), and the same [[Flux Users|hierarchy of Flux users]], but little else. Their philosophies are fundamentally opposed, their rulers are patient adversaries, and the conditions for open conflict are slowly being met.
 
-*See also: [[Solumora]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[History of Solumora]], [[Geography]]*
+_See also: [[Solumora]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[History of Solumora]], [[Geography]]_

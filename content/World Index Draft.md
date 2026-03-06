@@ -43,4 +43,3 @@
 - Run full categorization of all `.md` files into CSV (Places, People, Spells, Grimoires, Mechanics, Factions, Other).
 - Create an `Index` note that auto-embeds the top-level hubs and the NPC shortlist.
 - Standardize and apply the `Location` and `Person/NPC` templates across major stubs.
-

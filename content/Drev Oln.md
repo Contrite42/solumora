@@ -6,4 +6,4 @@ He has not repeated anything he has heard in his common room to anyone official 
 
 What he has noticed in the past year: the ratio of travelers coming south from northern Terravelle has increased. The documentation they carry is standard but their questions about Ashford's Auralis border crossing are more specific than casual travelers' questions usually are. He has answered them accurately and continued making their tea.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Control Tier]], [[Ordinary Life in Terravelle]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Control Tier]], [[Ordinary Life in Terravelle]]_

@@ -23,6 +23,7 @@ If you bought this, someone told you confidence is enough to cross. Confidence i
 Purpose: Sustained personal buffering against thermal load.
 
 Operational guidance:
+
 - Rotate cast burden in teams every ninety minutes.
 - Do not run full output through noon peak unless fatal exposure is imminent.
 
@@ -34,6 +35,7 @@ Margin note:
 Purpose: Keep sleeping fabric, page surfaces, and map wraps dry.
 
 Operational guidance:
+
 - Cast at dusk and dawn, not midday.
 - Pair with physical wraps for best retention.
 
@@ -45,6 +47,7 @@ Margin note:
 Purpose: Detect active signatures near route camps and ruin edges.
 
 Operational guidance:
+
 - Treat readings near rift zones as suggestive, not definitive.
 - Confirm by position, timing, and visual signs.
 
@@ -56,6 +59,7 @@ Margin note:
 Purpose: Track tagged persons and tagged cache points.
 
 Operational guidance:
+
 - Reapply marks at every stage handoff.
 - Never rely on old marks after sandwall events.
 
@@ -67,6 +71,7 @@ Margin note:
 Purpose: Extend threat detection in low-visibility movement.
 
 Operational guidance:
+
 - Wind can drown useful returns.
 - Assign one reader to call only confirmed alerts.
 
@@ -81,4 +86,4 @@ Date | Route Stage | Team Count | Heatshield Cycles | Water Loss | Incident Note
 
 Use every line. If you do not write your failures, the desert writes them for you.
 
-*See also: [[Uncommon Grimoire]], [[Grimoires]], [[Halveth]], [[Solhaven]], [[Flux]], [[Rift Incursions]], [[Watts]]*
+_See also: [[Uncommon Grimoire]], [[Grimoires]], [[Halveth]], [[Solhaven]], [[Flux]], [[Rift Incursions]], [[Watts]]_

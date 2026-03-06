@@ -8,4 +8,4 @@ He knows the rift zone proximity the way a person who has spent their life near 
 
 [[Wren]] governs the settlement's significant decisions. Cor Meln follows Wren's guidance with the same unsentimental acceptance he brings to weather patterns and equipment schedules. The guidance is generally sound. He has not needed to develop a theory about why.
 
-*See also: [[Halveth]], [[Life in Halveth]], [[Equatorial Desert]], [[Rift Incursions]], [[Wren]]*
+_See also: [[Halveth]], [[Life in Halveth]], [[Equatorial Desert]], [[Rift Incursions]], [[Wren]]_

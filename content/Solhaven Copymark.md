@@ -36,9 +36,9 @@ Ven Kort, [[Control Tier|Tier 2]], 51 years old, writes provenance documentation
 
 The Copymark charges substantial fees for authentication services because the work is technically sophisticated, carries significant risk, and creates value for sellers. Typical pricing:
 
-- Basic guild seal forgery: 80-120 [[Watts]] per grimoire  
-- Institutional library stamps: 40-60 Watts per set  
-- Complete provenance package: 200-400 Watts depending on complexity  
+- Basic guild seal forgery: 80-120 [[Watts]] per grimoire
+- Institutional library stamps: 40-60 Watts per set
+- Complete provenance package: 200-400 Watts depending on complexity
 - Rush services (authentication needed within days rather than weeks): 50% premium
 
 These fees represent significant markup relative to legitimate authentication costs (guild authentication for legal grimoires is typically 10-20 Watts), but black market sellers accept the premium because authentication increases grimoire sale prices by 40-80%. A [[Rare Grimoire]] that might sell for 300 Watts without authentication can command 450-500 Watts with convincing marks and documentation.
@@ -75,4 +75,4 @@ The [[Trade Guilds]] occasionally detect forged authentication during routine cu
 
 The Copymark persists because it operates beneath systematic enforcement thresholds, provides services buyers need (grimoire authentication without institutional gatekeeping), generates revenue that sustains the risk, and maintains operational discipline that prevents the catastrophic failures which would trigger intensive investigation. As long as black market grimoire circulation exists, authentication forgery operations will emerge to solve the credibility problems that make black market purchases risky for buyers.
 
-*See also: [[Black Market Grimoire Circulation]], [[Solhaven]], [[Guild Scrivener Network]], [[Grimoires]], [[Midden Exchange]], [[Grimoire Authentication]], [[Rare Grimoire]], [[Control Tier]], [[Fluxburn]], [[Fluxcollapse]], Marn Ols, Trel Brendt, Ven Kort, [[Auralis]], [[Terravelle]]*
+_See also: [[Black Market Grimoire Circulation]], [[Solhaven]], [[Guild Scrivener Network]], [[Grimoires]], [[Midden Exchange]], [[Grimoire Authentication]], [[Rare Grimoire]], [[Control Tier]], [[Fluxburn]], [[Fluxcollapse]], Marn Ols, Trel Brendt, Ven Kort, [[Auralis]], [[Terravelle]]_

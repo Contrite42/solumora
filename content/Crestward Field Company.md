@@ -6,9 +6,9 @@ It sits between scholarship and logistics. The company does not produce original
 
 Crestward accepts projects with defined output targets:
 
-- Ruins-site mapping and material retrieval  
-- Flux-anomaly measurement runs with instrument deployment  
-- Follow-up verification on prior expedition claims  
+- Ruins-site mapping and material retrieval
+- Flux-anomaly measurement runs with instrument deployment
+- Follow-up verification on prior expedition claims
 - Controlled salvage where route collapse did not become total team loss
 
 Every project begins as a council or sponsor objective and is translated into field tasks with specific timing windows, staffing requirements, and failure contingencies. This translation layer is the company's actual value. Most sponsored research proposals underestimate heat load, route volatility, or rift disruption probabilities. Crestward rebuilds proposals into plans that are still difficult but not self-destructive by default.
@@ -19,9 +19,9 @@ Crestward runs six standing teams, each with a stable core of guide, logistics, 
 
 The company uses a staged-go/no-go framework:
 
-- Pre-staging review in [[Emberfall Expedition Registry]]  
-- Equipment and cache verification with northern coordination through [[Halveth]] channels  
-- Mid-route threshold checks where mission objectives can be reduced without automatic mission cancellation  
+- Pre-staging review in [[Emberfall Expedition Registry]]
+- Equipment and cache verification with northern coordination through [[Halveth]] channels
+- Mid-route threshold checks where mission objectives can be reduced without automatic mission cancellation
 - Mandatory withdrawal triggers based on cumulative risk scoring, not only immediate casualty count
 
 This model frustrates sponsors who want binary outcomes (success/failure) tied to fixed deliverables. Crestward insists on adjustable objective ladders because rigid missions produce unrecoverable losses when conditions shift.
@@ -46,4 +46,4 @@ Crestward Field Company institutionalizes a hard lesson the expedition culture l
 
 The company does not make the desert safe. It makes sponsored work less self-deceptive.
 
-*See also: [[Emberfall]], [[Ancient Ruins]], [[Equatorial Desert]], [[Emberfall Expedition Registry]], [[Expedition Supplies]], [[Halveth]], [[The Council of Auralis]], [[The Culmination Faction]], [[Nessa Keld]]*
+_See also: [[Emberfall]], [[Ancient Ruins]], [[Equatorial Desert]], [[Emberfall Expedition Registry]], [[Expedition Supplies]], [[Halveth]], [[The Council of Auralis]], [[The Culmination Faction]], [[Nessa Keld]]_

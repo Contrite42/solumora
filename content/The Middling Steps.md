@@ -1,4 +1,4 @@
-*For the commercial and craft heart of Solhaven's middle terraces, see [[The Bluff District]]. The Middling Steps refers specifically to the upper portion of the middle terrace zone — the residential and professional district that sits between the Bluff's merchant quarter and the Crestward proper.*
+_For the commercial and craft heart of Solhaven's middle terraces, see [[The Bluff District]]. The Middling Steps refers specifically to the upper portion of the middle terrace zone — the residential and professional district that sits between the Bluff's merchant quarter and the Crestward proper._
 
 The Middling Steps are the upper middle terraces of [[Solhaven]] — the residential and professional levels directly below the [[Crestward District]], above [[The Bluff District]]'s commercial core. They are where most of Solhaven's working professional population lives: guild-certified craftspeople, Path-trained instructors, mid-tier merchants, scriveners, healers, and the various support functions that a city of a million requires at its functional core.
 
@@ -38,4 +38,4 @@ The transition between the Steps and the Crestward is sharper. The upper Steps' 
 
 A T3 or T4 caster from the Steps can get into the Crestward for professional reasons — attending a council function as a certified specialist, meeting with a Luminant about a Path advancement track, consulting on a Flux infrastructure project. This is different from being of the Crestward. The distinction is subtle and communicated entirely through social signals that are immediately legible to anyone who grew up in the city.
 
-*See also: [[Solhaven]], [[Harbor District]], [[Crestward District]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Vessa Oln]], [[Miren Thask]], [[Vend Aln]], [[Trade Guilds]], [[Watts]]*
+_See also: [[Solhaven]], [[Harbor District]], [[Crestward District]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Vessa Oln]], [[Miren Thask]], [[Vend Aln]], [[Trade Guilds]], [[Watts]]_

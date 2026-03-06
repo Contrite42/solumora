@@ -1,6 +1,7 @@
 ﻿# Coordination Log
 
 ## Active Task
+
 - Grimoire Economy complete. Next: Factions hub or Religion hub.
 - Factions hub complete. Next: Religion hub.
 - Religion hub complete. Next: Auralis capital city + 3 districts + people.
@@ -13,6 +14,7 @@
 - Solumora live map component complete: canonical-position continental map now renders on `Solumora` page and refreshes links from content index.
 
 ## Current Status
+
 - **Trade & Travel spine**: COMPLETE. Routes, hub notes, inbound links, and "How People Move" appends to Solumora.md + World Primer.md all applied.
 - **Equatorial Crossing Economy**: COMPLETE. 8 new pages created: `Halveth Cooperative`, `Relay Compact`, `Terravelle Desert Trade Office`, `Standard Guided Crossing`, `Express Route Crossing`, `Relay-Stage Crossing`, `The Southern Approaches`, `The Northern Narrows`. Equatorial Desert.md updated with Crossing Economy section.
 - **Grimoire Economy**: COMPLETE. 10 new pages: `Guild Scrivener Network`, `Independent Scrivener`, `Grimoire Authentication`, `Black Market Grimoire Circulation`, `Grimoire Rights and Restrictions`, `Grimoire Lending and Rental`, `Grimoire Commissioning`, `Cross-Border Grimoire Trade`, `Scrivener Regulation`, `Grimoire Repair and Preservation`. Grimoires.md updated with comprehensive economy section.
@@ -36,21 +38,25 @@
 - **Codex integrity cycle (recent vault files)**: COMPLETE. Audited latest content clusters for dead wikilinks and canon drift, normalized alias links in scope, removed unresolved-link leakage to non-existent pages, and re-checked Halveth/Narrows/Approaches consistency. Typecheck + Quartz build both passed.
 
 ## Operator Role Assignment
+
 - Current control-plane operator (Codex): pipeline executor + queue/decision owner.
 - Current content operator (Copilot Auto): active writer while Claude is offline.
 - Claude Code: temporarily offline; no active assignments until back online.
 - Creator escalation reserved for major canon/story decisions only.
 
 ## Workflow Constraints
+
 - **Map edits**: ALL changes to `quartz/components/SolumoraMap.tsx` must go through the Copilot pipeline (add task to `TASK_QUEUE.md`, do not edit directly). Direct edits are for emergency fixes only.
 
 ## Open Items
+
 - `agent/staging/orchestrator.lock` may reference stale PID — avoid destructive process commands.
 - `agent/staging/PENDING_REVIEW.md` contains resolved Batch 2 record; can be pruned/rotated on next cleanup pass.
 - `content/The Bone Sea.md` is a near-empty stub — needs content if it is to remain linked anywhere.
 - Legacy unresolved-link artifacts remain in long-tail pages (alias/path/image-token forms); tracked in `agent/reports/inconsistencies.md` for routine cleanup.
 
 ## Next Operator Checklist
+
 1. Creator: choose `DECISION C` story bundle and `DECISION D` Terravelle scope (`A/B/C` each).
 2. Copilot Auto: execute People Web Phase 1 (`People` hub + first 10 interconnected notes + "People in Motion" appends).
 3. Copilot Auto: resolve remaining stubs (`The Bone Sea`, `Binding`, `Pattern`, `Filter`) with inbound-link integrity.

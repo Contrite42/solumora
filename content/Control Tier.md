@@ -112,18 +112,18 @@ _Apex tier. [[Flux Users|Conduit]] territory. The kingdom classification system 
 
 A person's maximum safe Control Tier is effectively **random**. It does not reliably follow bloodlines, wealth, or nationality. Training improves efficiency and stability, but rarely changes a person's ceiling.
 
-|Max Safe Tier|Approximate Population|Share|
-|---|---|---|
-|Tier 0|~25,000,000|10.0%|
-|Tier 1|~100,000,000|40.0%|
-|Tier 2|~85,000,000|34.0%|
-|Tier 3|~30,000,000|12.0%|
-|Tier 4|~8,000,000|3.2%|
-|Tier 5|~1,500,000|0.6%|
-|Tier 6|~400,000|0.16%|
-|Tier 7|~70,000|0.028%|
-|Tier 8|~9,000|0.0036%|
-|Tier 9|~500|0.0002%|
+| Max Safe Tier | Approximate Population | Share   |
+| ------------- | ---------------------- | ------- |
+| Tier 0        | ~25,000,000            | 10.0%   |
+| Tier 1        | ~100,000,000           | 40.0%   |
+| Tier 2        | ~85,000,000            | 34.0%   |
+| Tier 3        | ~30,000,000            | 12.0%   |
+| Tier 4        | ~8,000,000             | 3.2%    |
+| Tier 5        | ~1,500,000             | 0.6%    |
+| Tier 6        | ~400,000               | 0.16%   |
+| Tier 7        | ~70,000                | 0.028%  |
+| Tier 8        | ~9,000                 | 0.0036% |
+| Tier 9        | ~500                   | 0.0002% |
 
 This keeps low-tier casting widespread while high-tier ability remains scattered and socially isolating rather than forming a stable ruling class. Those at Tier 5 and above are known as [[Flux Users|Channelers]]. Those at Tier 9 are [[Flux Users|Conduits]] — beyond what the kingdom system formally rates.
 
@@ -157,9 +157,9 @@ Practitioners like [[Varn Kest]] (T7) are often called only during infrastructur
 
 Common adaptation patterns:
 
-- strict contract scope and third-party oversight  
-- explicit abort criteria before channeling  
-- low-volume practice with long recovery blocks  
+- strict contract scope and third-party oversight
+- explicit abort criteria before channeling
+- low-volume practice with long recovery blocks
 - advisory/prevention roles replacing direct demonstration
 
 ### Zero-Tier (T0)
@@ -170,30 +170,30 @@ Profiles like [[Hedd Norn]], [[Rell Vorn]], and [[Niva Korr]] show recurring wor
 
 Common adaptation patterns:
 
-- specialization in systems where precision beats power  
-- paired workflows with low-tier casters for narrow technical checks  
-- duplicate recordkeeping to withstand magical/system drift  
+- specialization in systems where precision beats power
+- paired workflows with low-tier casters for narrow technical checks
+- duplicate recordkeeping to withstand magical/system drift
 - role authority built on recurrence accuracy, not tier status
 
 The practical lesson at both ends is similar: extreme tier values amplify trade-offs. They do not remove them.
 
-*See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]], [[Varn Kest]], [[Sera Vond]], [[Keld Orun]], [[Hedd Norn]], [[Rell Vorn]], [[Niva Korr]]*
+_See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]], [[Varn Kest]], [[Sera Vond]], [[Keld Orun]], [[Hedd Norn]], [[Rell Vorn]], [[Niva Korr]]_
 
 ## Watt Cost Ranges
 
 Every tier corresponds to a Flux cost range measured in [[Watts]]. The ranges below reflect outer-variable costs from the [[Flux Cost Reference]] — the structural cost of the sigil geometry before Hook/Mode action complexity is applied.
 
-| Tier | W Range           | Canonical example                                        |
-|------|-------------------|----------------------------------------------------------|
-| T0   | 1–10 W            | Triangle Raw, single default                             |
-| T1   | 11–40 W           | Triangle Light + Timed Long (34W)                        |
-| T2   | 41–130 W          | Triangle Binding + Touch + Latched + Object (74W)        |
-| T3   | 131–400 W         | Circle Heat + Medium + Sustained + Individual (133W)     |
-| T4   | 401–1,300 W       | Circle Binding + Touch + Sustained + Individual (560W)   |
-| T5   | 1,301–4,000 W     | Circle Mind + Field + LoS + Group (1,555W)               |
-| T6   | 4,001–13,000 W    | Circle Soul + Touch + Permanent + Individual (4,535W)    |
-| T7   | 13,001–40,000 W   | Hook/Mode Extreme (×10) applied to T5–T6 outer structure |
-| T8   | 40,001–130,000 W  | Hook/Mode Transcendent (×30) on T6 outer structure       |
-| T9   | 130,001+ W        | Hook/Mode Absolute (×100), or Transcendent on max structure|
+| Tier | W Range          | Canonical example                                           |
+| ---- | ---------------- | ----------------------------------------------------------- |
+| T0   | 1–10 W           | Triangle Raw, single default                                |
+| T1   | 11–40 W          | Triangle Light + Timed Long (34W)                           |
+| T2   | 41–130 W         | Triangle Binding + Touch + Latched + Object (74W)           |
+| T3   | 131–400 W        | Circle Heat + Medium + Sustained + Individual (133W)        |
+| T4   | 401–1,300 W      | Circle Binding + Touch + Sustained + Individual (560W)      |
+| T5   | 1,301–4,000 W    | Circle Mind + Field + LoS + Group (1,555W)                  |
+| T6   | 4,001–13,000 W   | Circle Soul + Touch + Permanent + Individual (4,535W)       |
+| T7   | 13,001–40,000 W  | Hook/Mode Extreme (×10) applied to T5–T6 outer structure    |
+| T8   | 40,001–130,000 W | Hook/Mode Transcendent (×30) on T6 outer structure          |
+| T9   | 130,001+ W       | Hook/Mode Absolute (×100), or Transcendent on max structure |
 
 T0–T6 are reachable through outer sigil variables alone. T7–T9 require elevated Hook/Mode complexity — the outer variables alone cannot produce costs above approximately 5,000W regardless of configuration. A practitioner may have the tier ceiling to execute a T7 effect. Whether they can construct the action its Hook requires is a separate question.

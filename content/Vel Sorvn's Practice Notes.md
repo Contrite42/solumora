@@ -40,4 +40,4 @@ This is a meaningful thing to know. It is not a thing the formal logs have a cat
 
 I don't know what to do with this observation except write it down here, where it will not be reviewed.
 
-*See also: [[Vel Sorvn]], [[Wolfpoint]], [[Hypertext]], [[Flux Users]], [[Control Tier]]*
+_See also: [[Vel Sorvn]], [[Wolfpoint]], [[Hypertext]], [[Flux Users]], [[Control Tier]]_

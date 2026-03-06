@@ -10,12 +10,12 @@ All defaulted variables contribute 0W. Every variable specified beyond the defau
 
 Shape determines two things simultaneously: the base Flux cost (multiplied by Discipline), and how many outer variables the caster can specify. Each outer point is one variable slot. One slot is always occupied by Discipline — the remaining slots are available for other outer variables (Pattern, Reach, Persistence, Target Spec, Output Mode). Unoccupied slots default.
 
-| Shape | Outer Slots | Discipline | Remaining Variable Slots | Base W |
-|-------|-------------|------------|--------------------------|--------|
-| Triangle | 3 | 1 | 2 | 3 W |
-| Square | 4 | 1 | 3 | 8 W |
-| Pentagon | 5 | 1 | 4 | 20 W |
-| Circle | 6 | 1 | 5 (all) | 55 W |
+| Shape    | Outer Slots | Discipline | Remaining Variable Slots | Base W |
+| -------- | ----------- | ---------- | ------------------------ | ------ |
+| Triangle | 3           | 1          | 2                        | 3 W    |
+| Square   | 4           | 1          | 3                        | 8 W    |
+| Pentagon | 5           | 1          | 4                        | 20 W   |
+| Circle   | 6           | 1          | 5 (all)                  | 55 W   |
 
 A Triangle sigil can only specify two outer variables beyond Discipline — the rest default. A Circle sigil can specify all five remaining outer variables simultaneously. This is why complex multi-variable effects require higher shapes: Triangle geometry cannot hold more than two specified outer variables regardless of the caster's tier.
 
@@ -26,46 +26,46 @@ A Triangle sigil can only specify two outer variables beyond Discipline — the 
 Applied to the shape base. A Triangle Force sigil starts at 3 × 2 = **6 W**. A Circle Soul sigil starts at 55 × 75 = **4,125 W**.
 
 | Discipline | Multiplier | Shape × Mult (Triangle / Square / Pentagon / Circle) |
-|-----------|-----------|------------------------------------------------------|
-| Raw | ×1 | 3 / 8 / 20 / 55 W |
-| Force | ×2 | 6 / 16 / 40 / 110 W |
-| Heat | ×2 | 6 / 16 / 40 / 110 W |
-| Light | ×3 | 9 / 24 / 60 / 165 W |
-| Sound | ×4 | 12 / 32 / 80 / 220 W |
-| Electric | ×5 | 15 / 40 / 100 / 275 W |
-| Chemical | ×5 | 15 / 40 / 100 / 275 W |
-| Binding | ×10 | 30 / 80 / 200 / 550 W |
-| Mind | ×25 | 75 / 200 / 500 / 1,375 W |
-| Soul | ×75 | 225 / 600 / 1,500 / 4,125 W |
+| ---------- | ---------- | ---------------------------------------------------- |
+| Raw        | ×1         | 3 / 8 / 20 / 55 W                                    |
+| Force      | ×2         | 6 / 16 / 40 / 110 W                                  |
+| Heat       | ×2         | 6 / 16 / 40 / 110 W                                  |
+| Light      | ×3         | 9 / 24 / 60 / 165 W                                  |
+| Sound      | ×4         | 12 / 32 / 80 / 220 W                                 |
+| Electric   | ×5         | 15 / 40 / 100 / 275 W                                |
+| Chemical   | ×5         | 15 / 40 / 100 / 275 W                                |
+| Binding    | ×10        | 30 / 80 / 200 / 550 W                                |
+| Mind       | ×25        | 75 / 200 / 500 / 1,375 W                             |
+| Soul       | ×75        | 225 / 600 / 1,500 / 4,125 W                          |
 
 ---
 
 ## Geometry Pattern (flat addition)
 
-| Pattern | W |
-|---------|---|
-| Point | 0 |
-| Plane *(default)* | 0 |
-| Beam | +5 |
-| Cone | +10 |
-| Ring | +15 |
-| Cylinder | +20 |
-| Sphere | +30 |
-| Field | +60 |
+| Pattern           | W   |
+| ----------------- | --- |
+| Point             | 0   |
+| Plane _(default)_ | 0   |
+| Beam              | +5  |
+| Cone              | +10 |
+| Ring              | +15 |
+| Cylinder          | +20 |
+| Sphere            | +30 |
+| Field             | +60 |
 
 ---
 
 ## Reach (flat addition)
 
-| Reach | W |
-|-------|---|
-| Self *(default)* | 0 |
-| Touch | +2 |
-| Short (10 ft) | +5 |
-| Medium (50 ft) | +15 |
-| Long (200 ft) | +40 |
-| Line-of-Sight | +80 |
-| Linked | +150 |
+| Reach            | W    |
+| ---------------- | ---- |
+| Self _(default)_ | 0    |
+| Touch            | +2   |
+| Short (10 ft)    | +5   |
+| Medium (50 ft)   | +15  |
+| Long (200 ft)    | +40  |
+| Line-of-Sight    | +80  |
+| Linked           | +150 |
 
 ---
 
@@ -73,30 +73,30 @@ Applied to the shape base. A Triangle Force sigil starts at 3 × 2 = **6 W**. A 
 
 Sustained spells accrue cost continuously while active. All other values are paid once at casting.
 
-| Persistence | W |
-|-------------|---|
-| Immediate *(default)* | 0 |
-| Timed Short (≤ 1 min) | +5 |
-| Timed Long (≤ 1 hr) | +25 |
-| Sustained | +10 per 10 min active |
-| Conditional | +20 |
-| Latched | +40 |
-| Permanent | +400 |
+| Persistence           | W                     |
+| --------------------- | --------------------- |
+| Immediate _(default)_ | 0                     |
+| Timed Short (≤ 1 min) | +5                    |
+| Timed Long (≤ 1 hr)   | +25                   |
+| Sustained             | +10 per 10 min active |
+| Conditional           | +20                   |
+| Latched               | +40                   |
+| Permanent             | +400                  |
 
 ---
 
 ## Target Spec (flat addition)
 
-| Target | W |
-|--------|---|
-| Where Written *(default)* | 0 |
-| Self | 0 |
-| Object | +2 |
-| Surface | +5 |
-| Individual | +8 |
-| Marked | +15 |
-| Group | +35 |
-| Filter | +60 |
+| Target                    | W   |
+| ------------------------- | --- |
+| Where Written _(default)_ | 0   |
+| Self                      | 0   |
+| Object                    | +2  |
+| Surface                   | +5  |
+| Individual                | +8  |
+| Marked                    | +15 |
+| Group                     | +35 |
+| Filter                    | +60 |
 
 ---
 
@@ -104,28 +104,28 @@ Sustained spells accrue cost continuously while active. All other values are pai
 
 Natural pairings (Thermal←Heat, Kinetic←Force, Photonic←Light, Sonic←Sound, Shock←Electric, Reactive←Chemical, Constraint←Binding, Neuro←Mind, Soul←Soul) carry no additional cost. Crossing disciplines adds:
 
-| Mismatch | Additional W |
-|----------|-------------|
-| Adjacent discipline (e.g. Kinetic from Heat) | +10 |
-| Cross-type (e.g. Neuro from Force) | +30 |
-| Extreme cross (e.g. Soul output from a physical discipline) | +60 |
+| Mismatch                                                    | Additional W |
+| ----------------------------------------------------------- | ------------ |
+| Adjacent discipline (e.g. Kinetic from Heat)                | +10          |
+| Cross-type (e.g. Neuro from Force)                          | +30          |
+| Extreme cross (e.g. Soul output from a physical discipline) | +60          |
 
 ---
 
 ## Total Cost → Control Tier Requirement
 
-| Tier | Total W Range |
-|------|--------------|
-| T0 | 1 – 10 W |
-| T1 | 11 – 40 W |
-| T2 | 41 – 130 W |
-| T3 | 131 – 400 W |
-| T4 | 401 – 1,300 W |
-| T5 | 1,301 – 4,000 W |
-| T6 | 4,001 – 13,000 W |
-| T7 | 13,001 – 40,000 W |
-| T8 | 40,001 – 130,000 W |
-| T9 | > 130,000 W |
+| Tier | Total W Range      |
+| ---- | ------------------ |
+| T0   | 1 – 10 W           |
+| T1   | 11 – 40 W          |
+| T2   | 41 – 130 W         |
+| T3   | 131 – 400 W        |
+| T4   | 401 – 1,300 W      |
+| T5   | 1,301 – 4,000 W    |
+| T6   | 4,001 – 13,000 W   |
+| T7   | 13,001 – 40,000 W  |
+| T8   | 40,001 – 130,000 W |
+| T9   | > 130,000 W        |
 
 ---
 
@@ -133,18 +133,18 @@ Natural pairings (Thermal←Heat, Kinetic←Force, Photonic←Light, Sonic←Sou
 
 Comfortable working range per day — the amount a practitioner can channel without significant fatigue. Pushing past these values is possible but carries increasing toll.
 
-| Tier | Approx. W/day |
-|------|--------------|
-| T0 | ~20 W |
-| T1 | ~80 W |
-| T2 | ~300 W |
-| T3 | ~1,000 W |
-| T4 | ~3,000 W |
-| T5 | ~10,000 W |
-| T6 | ~30,000 W |
-| T7 | ~100,000 W |
-| T8 | ~300,000 W |
-| T9 | not established |
+| Tier | Approx. W/day   |
+| ---- | --------------- |
+| T0   | ~20 W           |
+| T1   | ~80 W           |
+| T2   | ~300 W          |
+| T3   | ~1,000 W        |
+| T4   | ~3,000 W        |
+| T5   | ~10,000 W       |
+| T6   | ~30,000 W       |
+| T7   | ~100,000 W      |
+| T8   | ~300,000 W      |
+| T9   | not established |
 
 A T2 practitioner can cast several T2-level spells in a working day. Single T1-level casts are negligible. Approaching the daily ceiling brings fatigue; exceeding it risks channel damage.
 
@@ -172,7 +172,7 @@ Sigils inscribed into objects during manufacture distribute their Flux cost acro
 
 **Force sphere barrier** — Pentagon Force, Sphere, Self, Timed Long, Self
 `40 + 30 + 0 + 25 + 0 = 95 W` → **T2**
-*(Adding Group target to stop multiple people: +35 W → 130 W → T2/T3 boundary)*
+_(Adding Group target to stop multiple people: +35 W → 130 W → T2/T3 boundary)_
 
 **Heat signature tracking through walls** — Circle Heat, Plane, Medium, Sustained, Individual
 `110 + 0 + 15 + (10/10 min) + 8 = 133 W base + ongoing` → **T3**
@@ -216,4 +216,4 @@ A T2 Formulist's comfortable working day (300 W) covers about four container sea
 
 The ledger does not lie about this. Neither does the math.
 
-*See also: [[Spell Variables]], [[Flux Expenditure]], [[Control Tier]], [[Sigils]], [[Discipline]], [[Grimoires]], [[Watts]]*
+_See also: [[Spell Variables]], [[Flux Expenditure]], [[Control Tier]], [[Sigils]], [[Discipline]], [[Grimoires]], [[Watts]]_

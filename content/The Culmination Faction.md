@@ -36,4 +36,4 @@ The Faction's practical achievements: the anomalous site expeditions are funded 
 
 The goal is not imminent. The Faction has been working toward it for decades and expects to continue working toward it for decades more. What has changed in the recent period is that the ruins research has produced partial translations, the anomalous sites have been more extensively mapped, and [[Drest]] has moved from patient accumulation to something that looks more like preparation.
 
-*See also: [[The Council of Auralis]], [[Drest]], [[Ancient Ruins]], [[Ascendant Path]], [[Expansion Faction]], [[Auralis]], [[Aldric Mourne]], [[Emberfall]], [[Rift Incursions]], [[Rett Soln]], [[Tessel Dran]]*
+_See also: [[The Council of Auralis]], [[Drest]], [[Ancient Ruins]], [[Ascendant Path]], [[Expansion Faction]], [[Auralis]], [[Aldric Mourne]], [[Emberfall]], [[Rift Incursions]], [[Rett Soln]], [[Tessel Dran]]_

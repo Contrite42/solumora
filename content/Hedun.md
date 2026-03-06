@@ -22,7 +22,7 @@ None of this is illegal by Auralis law in any precise sense. The legal framework
 
 His current cover involves the role of a well-traveled, independently wealthy man of obscure previous occupation who has apparently always been in Hedun whenever anyone checks. He has been this person for eleven years. He expects to be this person for another decade before the edges begin to show.
 
-*See also: [[Auralis]], [[Fennick]], [[Solhaven]], [[Flux Users]], [[Watts]], [[Life in Hedun]], [[Ordinary Life]], [[Sorren Kael]], [[Toven Ral]]*
+_See also: [[Auralis]], [[Fennick]], [[Solhaven]], [[Flux Users]], [[Watts]], [[Life in Hedun]], [[Ordinary Life]], [[Sorren Kael]], [[Toven Ral]]_
 
 ## Route Function
 
@@ -30,4 +30,4 @@ Hedun's working link to the capital is the [[Hedun-Solhaven Coastal Run]], a hig
 
 The corridor's reliability is one reason Hedun can sustain a service-heavy economy without maintaining deep inland storage buffers.
 
-*See also: [[Hedun-Solhaven Coastal Run]], [[Solhaven]], [[Auralis]], [[Life in Hedun]]*
+_See also: [[Hedun-Solhaven Coastal Run]], [[Solhaven]], [[Auralis]], [[Life in Hedun]]_

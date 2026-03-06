@@ -33,7 +33,7 @@ The multiplier gap reflects the precision the Flux field must maintain to execut
 This precision demand means that higher-multiplier disciplines floor their total cost above tiers that common practitioners can access. A Triangle Soul spell costs 225W minimum — already T3 — before any variable additions. A [[Circle]] Soul spell costs 4,125W minimum — T6 floor — before variables. Mass [[Grimoires]] favor Force, Heat, and Binding (×2, ×2, ×10) because their multipliers produce effects at tiers common practitioners can reach. Mind (×25) and Soul (×75) floor their total cost above T3–T4 even in the simplest Triangle configurations.
 
 | Discipline | Multiplier | Triangle core W | Circle core W |
-|------------|------------|-----------------|---------------|
+| ---------- | ---------- | --------------- | ------------- |
 | Raw        | ×1         | 3 W             | 55 W          |
 | Force      | ×2         | 6 W             | 110 W         |
 | Heat       | ×2         | 6 W             | 110 W         |
@@ -53,4 +53,4 @@ Cross-discipline output modes carry additional cost beyond the base discipline m
 
 The discipline multiplier applies to the Shape base cost. Output Mode costs are flat additions applied after the core calculation. A Triangle Force spell with thermal output costs (3×2) + 10 = 16W total.
 
-*See also: [[Flux]], [[Shape]], [[Watts]], [[Control Tier]], [[Sigils]], [[Output Mode]], [[Spell Variables]], [[Flux Cost Reference]]*
+_See also: [[Flux]], [[Shape]], [[Watts]], [[Control Tier]], [[Sigils]], [[Output Mode]], [[Spell Variables]], [[Flux Cost Reference]]_

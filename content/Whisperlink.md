@@ -10,7 +10,7 @@ Sends a short spoken message through a linked sigil mark to a specific individua
 | Output       | Sonic                   |
 | Pattern      | Point                   |
 | Reach        | Linked                  |
-| Persistence  | *(default — Immediate)* |
+| Persistence  | _(default — Immediate)_ |
 | Target       | Marked                  |
 
 **Rarity:** Uncommon

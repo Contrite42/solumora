@@ -5,8 +5,9 @@ In practical use, Binding appears less as spectacle and more as infrastructure. 
 In [[Spell Variables]], Binding is a high-cost discipline multiplier. Its effects become especially demanding when combined with long [[Persistence]] states (such as latched or permanent) or wide [[Pattern]] geometries.
 
 Typical Binding uses include:
+
 - Sealing seams, vents, and joints against heat or particulate intrusion.
 - Locking temporary route markers and hazard boundaries into place.
 - Reinforcing structures under motion, load, or weather stress.
 
-*See also: [[Discipline]], [[Spell Variables]], [[Persistence]], [[Pattern]], [[Filter]], [[Sigils]], [[Flux Cost Reference]]*
+_See also: [[Discipline]], [[Spell Variables]], [[Persistence]], [[Pattern]], [[Filter]], [[Sigils]], [[Flux Cost Reference]]_

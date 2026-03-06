@@ -48,4 +48,4 @@ She has no apprentice. No one in the current generation of rural children has be
 
 This reality weighs on her in ways that the families she serves do not fully understand. She is not just providing a service — she is the single point of failure for a way of life that has sustained multiple generations of rural [[Terravelle]] families. The responsibility is both a source of pride and a form of isolation that she has never found a way to resolve.
 
-*See also: [[Life in Rural Terravelle]], [[Flux Users]], [[Sigils]], [[Terravelle]], [[Control Tier]], [[Valdenmoor]], [[Solen Carr]], [[Bren Ossve]], [[Reth Caln]], [[Covenant of Measure]], [[Food Creation]], [[Biological Transformation]]*
+_See also: [[Life in Rural Terravelle]], [[Flux Users]], [[Sigils]], [[Terravelle]], [[Control Tier]], [[Valdenmoor]], [[Solen Carr]], [[Bren Ossve]], [[Reth Caln]], [[Covenant of Measure]], [[Food Creation]], [[Biological Transformation]]_

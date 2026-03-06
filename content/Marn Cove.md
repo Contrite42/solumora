@@ -36,4 +36,4 @@ Voss Maren has been comparing his Weathersense readings to historical records. T
 
 The village is not concerned yet, but the pattern is being watched. Marn Cove's economic stability does not depend on coastal run stopover traffic, but the village's integration into broader maritime systems does. If the traffic pattern continues for multiple seasons, the village will need to adjust its relationship to the coastal trade network.
 
-*See also: [[Auralis]], [[Hedun]], [[Solhaven]], [[Hedun-Solhaven Coastal Run]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], Voss Maren, Kess Brolen*
+_See also: [[Auralis]], [[Hedun]], [[Solhaven]], [[Hedun-Solhaven Coastal Run]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], Voss Maren, Kess Brolen_

@@ -70,4 +70,4 @@ The [[Trade Guilds]] are more aware. Some guild officials understand that black 
 
 The Midden Exchange persists because it functions below the threshold where systematic enforcement becomes cost-effective, provides services that legitimate institutions refuse to provide, and maintains operational discipline that prevents the catastrophic failures that would trigger intensive investigation. It operates in the gap between what is forbidden and what is enforced — and as long as that gap exists, circulation networks will emerge to exploit it.
 
-*See also: [[Black Market Grimoire Circulation]], [[Ashford]], [[Halveth]], [[Solhaven]], [[Ashford-Halveth Courier Road]], [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Trade Guilds]], [[Control Tier]], Cor Mals, Mira Veld, Ren Cors, Kess Lorn, [[Terravelle]], [[Auralis]]*
+_See also: [[Black Market Grimoire Circulation]], [[Ashford]], [[Halveth]], [[Solhaven]], [[Ashford-Halveth Courier Road]], [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Trade Guilds]], [[Control Tier]], Cor Mals, Mira Veld, Ren Cors, Kess Lorn, [[Terravelle]], [[Auralis]]_

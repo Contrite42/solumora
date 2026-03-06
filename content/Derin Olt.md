@@ -8,4 +8,4 @@ This is accurate and complete information. He knows it is accurate and complete.
 
 He has not said any of this to his parents. They are clearly relieved. He doesn't want to complicate the relief.
 
-*See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Control Tier]], [[Tier Assessment]], [[Ordinary Life in Terravelle]]*
+_See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Control Tier]], [[Tier Assessment]], [[Ordinary Life in Terravelle]]_

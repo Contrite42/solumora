@@ -1,5 +1,3 @@
-
-
 ## Daily Existence
 
 Selvane operates as a senior Flux infrastructure consultant in [[Solhaven]], specializing in the complex sigil networks that maintain the city's tiered architecture and water management systems. The role provides both the prominence necessary for [[The Council of Auralis|Council]]-adjacent social positioning and the technical legitimacy that explains their presence at high-level planning discussions. Their consultation work focuses on long-term infrastructure stability—projects that span decades and require the kind of institutional memory that Selvane appears to possess naturally.
@@ -12,7 +10,7 @@ Most unsettling to Essa is Selvane's tendency to reference events from thirty ye
 
 The one moment that came closest to direct confrontation occurred during a Council reception when Councilor [[Maren Sollis]] began asking Selvane about their family connections to early Solhaven development projects. The questions were becoming specific enough to require answers that Selvane could not provide when [[Drest]] intervened, redirecting the conversation toward current infrastructure needs with the smooth authority of someone accustomed to managing social situations. Whether this intervention was coincidental or deliberate, Essa could not determine, but she noticed that Selvane avoided Maren Sollis for the remainder of the evening.
 
-*See also: [[Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Essa Rolt]], [[High Demons]], [[Flux]], [[Drest]], [[Maren Sollis]], [[Sigils]], [[Infrastructure]], [[Mave]]*
+_See also: [[Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Essa Rolt]], [[High Demons]], [[Flux]], [[Drest]], [[Maren Sollis]], [[Sigils]], [[Infrastructure]], [[Mave]]_
 
 Essa has observed a recurring visitor whose presence she cannot account for professionally and whose details she consistently fails to hold in memory. Essa has noted the visits but has not connected them to anything specific. The pattern exists at the edge of her attention — regular enough to register, unclear enough that acting on it feels premature.
 

@@ -26,14 +26,14 @@ Hook and Mode together form the center-core cost multiplier that applies to the 
 
 The outer variables describe what the sigil is shaped to do — its reach, duration, targeting parameters, and output characteristics. Hook and Mode describe how deeply the [[Flux]] must reach to execute the core action. Simple physical interactions like heating, moving, or sealing carry minimal Hook/Mode cost (×1 multiplier). Effects that must read or alter identity, manipulate soul-signature, or override fundamental natural processes carry multipliers from ×10 to ×100.
 
-| Hook/Mode Level | Multiplier | Examples |
-|-----------------|------------|----------|
-| Basic | ×1 | Push, heat, light, seal, detect, surface thought read |
-| Moderate | ×2 | Sustained suppression, deep binding, complex physical altering |
-| Significant | ×4 | Deep mind read, emotional alteration, precise state detection |
-| Extreme | ×10 | Forced identity changes, soul severance, partial memory erasure |
-| Transcendent | ×30 | Revival from death, rewriting local physical laws |
-| Absolute | ×100 | Interacts with the Flux system architecture itself |
+| Hook/Mode Level | Multiplier | Examples                                                        |
+| --------------- | ---------- | --------------------------------------------------------------- |
+| Basic           | ×1         | Push, heat, light, seal, detect, surface thought read           |
+| Moderate        | ×2         | Sustained suppression, deep binding, complex physical altering  |
+| Significant     | ×4         | Deep mind read, emotional alteration, precise state detection   |
+| Extreme         | ×10        | Forced identity changes, soul severance, partial memory erasure |
+| Transcendent    | ×30        | Revival from death, rewriting local physical laws               |
+| Absolute        | ×100       | Interacts with the Flux system architecture itself              |
 
 The distinction matters because the [[Flux]] field itself resists certain kinds of work more than others. Soul discipline already requires the [[Flux]] to find and interact with soul-signature specifically — a complex discrimination task. A Hook that demands "permanently rewrite what this person fundamentally is" requires the [[Flux]] to hold a different kind of distinction entirely, one the field resists exponentially more than simple soul detection or marking.
 
@@ -53,4 +53,4 @@ Most working practitioners operate well below their theoretical tier ceiling on 
 
 The gap between theoretical capability and practical application becomes more pronounced at higher tiers. A T6 practitioner can theoretically cast 4,000W effects, but doing so represents their entire comfortable daily capacity. Most T6 work involves multiple moderate-cost applications rather than single maximum-effort casts.
 
-*See also: [[Flux]], [[Control Tier]], [[Spell Variables]], [[Flux Cost Reference]], [[Sigils]], [[Discipline]], [[Shape]], [[Hook]], [[Mode]], [[Watts]], [[Persistence]]*
+_See also: [[Flux]], [[Control Tier]], [[Spell Variables]], [[Flux Cost Reference]], [[Sigils]], [[Discipline]], [[Shape]], [[Hook]], [[Mode]], [[Watts]], [[Persistence]]_

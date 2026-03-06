@@ -38,4 +38,4 @@ The network was not wrong about everything. The [[Ancient Ruins|ruins]] work pro
 
 I believe this. I also believe the other things. Both continue to be true in the mornings.
 
-*See also: [[Toven Ral]], [[Hedun]], [[Auralis]], [[The Advancement Corps]], [[Adventurers]], [[The Council of Auralis]], [[Ancient Ruins]]*
+_See also: [[Toven Ral]], [[Hedun]], [[Auralis]], [[The Advancement Corps]], [[Adventurers]], [[The Council of Auralis]], [[Ancient Ruins]]_

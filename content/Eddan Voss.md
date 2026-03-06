@@ -38,4 +38,4 @@ Eddan is aware of the [[Rift Incursions|incursion situation]] on Terravelle's so
 
 He has not found a solution to this. He has found ways to manage it. He is not certain those are the same thing, and the gap between them bothers him more than he shows.
 
-*See also: [[Terravelle]], [[Auralis]], [[Kingdoms]], [[Solumora]], [[Cael]], [[Cassia]], [[Valdenmoor]], [[Rift Incursions]], [[Flux Demons]]*
+_See also: [[Terravelle]], [[Auralis]], [[Kingdoms]], [[Solumora]], [[Cael]], [[Cassia]], [[Valdenmoor]], [[Rift Incursions]], [[Flux Demons]]_

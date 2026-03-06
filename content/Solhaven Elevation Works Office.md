@@ -24,4 +24,4 @@ The office is regularly pressured by private patrons seeking priority access and
 
 It trades in permits, maintenance priority, and confidence that the city does not fail under its own weight.
 
-*See also: [[Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Flux]], [[Forcewall]], [[Fluxward]], [[Crestward Intake Bureau]]*
+_See also: [[Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Flux]], [[Forcewall]], [[Fluxward]], [[Crestward Intake Bureau]]_

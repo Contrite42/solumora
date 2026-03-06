@@ -38,4 +38,4 @@ The result is a crisis that Terravelle cannot name as a crisis, managed with res
 
 Neither kingdom has any documentation of [[High Demons]]. The incursion problem, as both kingdoms understand it, refers entirely to lower-order creatures. The possibility that something categorically more capable has been present in Solumora for centuries, operating at a scale that makes the lower-order incursions look like noise, has not occurred to anyone in a position to act on it.
 
-*See also: [[Flux Demons]], [[High Demons]], [[Equatorial Desert]], [[Ancient Ruins]], [[The Council of Auralis]], [[Terravelle]], [[Eddan Voss]], [[Drest]], [[The Flux Dimension]], [[Brennan Solce]], [[Rett Soln]], [[Wren]], [[Vorn Teld]]*
+_See also: [[Flux Demons]], [[High Demons]], [[Equatorial Desert]], [[Ancient Ruins]], [[The Council of Auralis]], [[Terravelle]], [[Eddan Voss]], [[Drest]], [[The Flux Dimension]], [[Brennan Solce]], [[Rett Soln]], [[Wren]], [[Vorn Teld]]_

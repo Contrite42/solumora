@@ -6,4 +6,4 @@ He uses his T2 for standard military applications: barrier reinforcement work, t
 
 The thing he knows that the briefings do not cover is what the increased patrol frequency feels like from inside it. It feels like the border has gotten louder without getting noisier — the same sounds, the same sightlines, but with a quality underneath them that was not there two years ago. He has mentioned this to one other person in the garrison, who said he knew what Cadell meant, which was the full extent of the conversation.
 
-*See also: [[Terravelle]], [[Ashford]], [[Auralis]], [[Flux Users]], [[Control Tier]], [[Teva Orrn]]*
+_See also: [[Terravelle]], [[Ashford]], [[Auralis]], [[Flux Users]], [[Control Tier]], [[Teva Orrn]]_

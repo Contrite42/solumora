@@ -30,4 +30,4 @@ The Guild Quarter is, in a way that is not symbolic but structural, what [[Terra
 
 The Dock Wards move goods. The Outer Wards house the people who do this work. The Guild Quarter is where Valdenmoor's working population goes to be acknowledged as professionals rather than laborers — the institution that converts years of skilled work into a credential that travels.
 
-*See also: [[Valdenmoor]], [[Terravelle]], [[The Dock Wards]], [[The Outer Wards]], [[Trade Guilds]], [[Life in Valdenmoor]], [[Rell Hadv]], [[Noll Drenk]], [[Control Tier]], [[Covenant of Measure]], [[Maren Valley]]*
+_See also: [[Valdenmoor]], [[Terravelle]], [[The Dock Wards]], [[The Outer Wards]], [[Trade Guilds]], [[Life in Valdenmoor]], [[Rell Hadv]], [[Noll Drenk]], [[Control Tier]], [[Covenant of Measure]], [[Maren Valley]]_

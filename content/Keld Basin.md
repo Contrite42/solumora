@@ -28,4 +28,4 @@ The buyer returned this season with the same proposal and a higher premium. Ren 
 
 The conversation has not resolved. The work continues.
 
-*See also: [[Terravelle]], [[Maren Valley]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], [[Ren Valdst]], Ora Brendt, Morten Kels*
+_See also: [[Terravelle]], [[Maren Valley]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], [[Ren Valdst]], Ora Brendt, Morten Kels_

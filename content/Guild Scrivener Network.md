@@ -20,4 +20,4 @@ The guild network doesn't have a legal monopoly, but it controls access to authe
 
 Cross-border text flow is filtered through guild agreements. A scrivener in [[Terravelle]] working from an [[Auralis]]-sourced grimoire must verify authenticity or risk copying a fraudulent version. The network maintains a shared authentication registry, though it's updated slowly and disputes take months to resolve.
 
-*See also: [[Grimoires]], [[Trade Guilds]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Valdenmoor]], [[Terravelle]], [[Auralis]]*
+_See also: [[Grimoires]], [[Trade Guilds]], [[Sigils]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Valdenmoor]], [[Terravelle]], [[Auralis]]_

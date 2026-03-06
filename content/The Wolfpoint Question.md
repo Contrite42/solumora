@@ -30,4 +30,4 @@ What Wolfpoint fears is not military conquest — the logistics of projecting fo
 
 [[Sera Voss]]'s unfinished documentation project — the systematic Hypertext text that could theoretically be distributed broadly — is, from one angle, a hedge against irrelevance. If Wolfpoint publishes the foundation, it loses its gatekeeping position but gains credit for the system's spread and potentially gains a different kind of centrality: as the acknowledged origin and advanced development center of a method that has become generally available. She has not decided whether this trade is worthwhile, and has not decided at all.
 
-*See also: [[Wolfpoint]], [[Hypertext]], [[The Wolfpoint Scholarium]], [[Sera Voss]], [[Mira Solv]], [[Drest]], [[Keln Varost]], [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[The Voss Line]]*
+_See also: [[Wolfpoint]], [[Hypertext]], [[The Wolfpoint Scholarium]], [[Sera Voss]], [[Mira Solv]], [[Drest]], [[Keln Varost]], [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[The Voss Line]]_

@@ -6,9 +6,9 @@ She is [[Control Tier|Tier 1]], 45 years old. She is not a field guide and does 
 
 Sera's team converts debrief narratives into comparable evidence:
 
-- classify failure by mechanism, not story tone  
-- separate observed conditions from inferred causes  
-- track recurrence across routes, sponsors, and staffing models  
+- classify failure by mechanism, not story tone
+- separate observed conditions from inferred causes
+- track recurrence across routes, sponsors, and staffing models
 - publish confidence levels with every recommendation
 
 Her work is procedural memory for a system that repeatedly drifts toward urgency-driven optimism.
@@ -17,8 +17,8 @@ Her work is procedural memory for a system that repeatedly drifts toward urgency
 
 She requires three elements before filing high-confidence recommendations:
 
-- decision timeline with named thresholds  
-- documented sponsor overrides where field safety calls were bypassed  
+- decision timeline with named thresholds
+- documented sponsor overrides where field safety calls were bypassed
 - uncertainty tags where evidence remains partial
 
 Without this, she marks reports as low-actionability and refuses forced precision.
@@ -35,4 +35,4 @@ Sera represents the memory discipline behind expedition culture. She does not pr
 
 That is often the difference between one bad season and a systemic collapse of trust.
 
-*See also: [[Zakros Loss Table]], [[Emberfall Expedition Registry]], [[Emberfall]], [[Ancient Ruins]], [[Equatorial Desert]], [[Nessa Keld]], [[Toren Vass]], [[Crestward Field Company]], [[Halveth Guide Bureau]], [[Control Tier]], [[The Council of Auralis]]*
+_See also: [[Zakros Loss Table]], [[Emberfall Expedition Registry]], [[Emberfall]], [[Ancient Ruins]], [[Equatorial Desert]], [[Nessa Keld]], [[Toren Vass]], [[Crestward Field Company]], [[Halveth Guide Bureau]], [[Control Tier]], [[The Council of Auralis]]_

@@ -35,4 +35,4 @@ The practical exchanges are consistent across both kingdoms:
 
 The names and justifications differ by kingdom. The mechanics are similar.
 
-*See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[Terravelle Administration]], [[Trade Guilds]], [[Grimoires]], [[Watts]]*
+_See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[Terravelle Administration]], [[Trade Guilds]], [[Grimoires]], [[Watts]]_

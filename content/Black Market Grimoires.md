@@ -24,4 +24,4 @@ Both kingdoms are aware the informal market exists. Neither has invested heavily
 
 [[Osten Reld]], the Expansion Faction's low-level operative in Solhaven, has used informal grimoire channels as a supplementary coordination tool — moving restricted texts as cover cargo for information transfer. He is not the only person doing this. He is one of the more careful ones.
 
-*See also: [[Grimoires]], [[Rare Grimoire]], [[Uncommon Grimoire]], [[Grimoire Fraud]], [[Grimoire Regulation]], [[Relay Compact]], [[Osten Reld]], [[Expansion Faction]], [[Control Tier]]*
+_See also: [[Grimoires]], [[Rare Grimoire]], [[Uncommon Grimoire]], [[Grimoire Fraud]], [[Grimoire Regulation]], [[Relay Compact]], [[Osten Reld]], [[Expansion Faction]], [[Control Tier]]_

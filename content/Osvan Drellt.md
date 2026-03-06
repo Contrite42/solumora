@@ -8,4 +8,4 @@ The settlement has four hundred residents. They know his tier. They also know he
 
 What he has found: declining external attention is easy when you know what you are staying for.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]*
+_See also: [[Terravelle]], [[Valdenmoor]], [[Control Tier]], [[Flux Users]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]_

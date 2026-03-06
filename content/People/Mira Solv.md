@@ -1,5 +1,3 @@
-
-
 ## The Notification Problem
 
 Mira received word through an academic contact in [[Valdenmoor]] — a passing mention in correspondence about research resources that someone in [[Wolfpoint]] has been making inquiries about the [[Watts]] ledger infrastructure. Specifically, whether the network has historical documentation predating the current guilds. The contact thought it might interest her, given her work on ancient systems.
@@ -12,7 +10,7 @@ What she does is nothing, for now. She notes the contact, files the information 
 
 She does not know the person asking is [[Sera Voss]]. She does not know that the inquiry represents the first external probe of discoveries that could reshape both kingdoms' understanding of their own infrastructure. She knows only that someone is asking questions adjacent to work she has kept private, and that privacy may not be sustainable much longer.
 
-*See also: [[Wolfpoint]], [[Watts]], [[Hypertext]], [[Drest]], [[Sera Voss]], [[Ancient Ruins]], [[The Culmination Faction]]*
+_See also: [[Wolfpoint]], [[Watts]], [[Hypertext]], [[Drest]], [[Sera Voss]], [[Ancient Ruins]], [[The Culmination Faction]]_
 
 ## The Notification Problem
 
@@ -26,4 +24,4 @@ What she does is nothing immediately. She notes the contact. She files the infor
 
 Mira does not know the person asking is Sera Voss. She does not know that the inquiry represents the first external test of conclusions she has been developing in isolation. She does not know that someone else has found the same trail she has been following, or that they may be further along it than she is.
 
-*See also: [[Wolfpoint]], [[Watts]], [[Hypertext]], [[Drest]], [[Sera Voss]], [[Ancient Ruins]], [[The Culmination Faction]]*
+_See also: [[Wolfpoint]], [[Watts]], [[Hypertext]], [[Drest]], [[Sera Voss]], [[Ancient Ruins]], [[The Culmination Faction]]_

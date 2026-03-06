@@ -48,4 +48,4 @@ Vertical movement between districts is possible but requires either: significant
 
 The Harbor District is where Solhaven actually makes contact with the rest of [[Solumora]]. Merchants from [[Valdenmoor]] arrive here. Crew from [[Ashford]] and [[Hedun]] move through here. News travels through the harbor before it reaches the Crestward. For most of Solhaven's importance as a trading hub, the Harbor District is the actual mechanism.
 
-*See also: [[Solhaven]], [[Auralis]], [[Life in Solhaven]], [[Ascendant Path]], [[Control Tier]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Cassia]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Auralis]], [[Life in Solhaven]], [[Ascendant Path]], [[Control Tier]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Cassia]], [[Ordinary Life in Auralis]]_

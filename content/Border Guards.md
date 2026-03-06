@@ -6,4 +6,4 @@ Their role combines regulatory enforcement with intelligence gathering. Guard po
 
 Individual guards work under local command structures but answer to crown authority for protocol compliance and reporting requirements. Their effectiveness depends on procedural consistency, accurate documentation, and the ability to distinguish routine traffic from patterns that warrant escalation.
 
-*See also: [[Ashford]], [[Border Trade]], [[Cross-Border Trade]], [[Auralis]], [[Terravelle]]*
+_See also: [[Ashford]], [[Border Trade]], [[Cross-Border Trade]], [[Auralis]], [[Terravelle]]_

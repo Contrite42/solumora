@@ -11,6 +11,7 @@ Custom grimoires are the most expensive commissions. A buyer might request a gri
 ## Pricing Structure
 
 Pricing is per-page for [[Common Grimoire]] and [[Uncommon Grimoire]] texts, with multipliers for higher tiers. Typical guild rates in [[Terravelle]] are:
+
 - Common tier (T1-T2): 5-8 [[Watts]] per page
 - Uncommon tier (T3-T4): 15-25W per page
 - Rare tier (T5-T6): 50-100W per page, restricted availability
@@ -43,4 +44,4 @@ The primary risk for buyers is receiving a defective grimoire after paying full 
 
 For scriveners, the risk is non-payment or late payment. Guild contracts usually require deposit (30-50% upfront) to mitigate this, with full payment on delivery. Independent scriveners have less formal protection and rely on reputation pressure. Some independents require full payment upfront, which shifts risk entirely to the buyer.
 
-*See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Grimoire Lending and Rental]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Control Tier]], [[Watts]], [[Terravelle]], [[Auralis]], [[Valdenmoor]]*
+_See also: [[Grimoires]], [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoire Authentication]], [[Grimoire Lending and Rental]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Control Tier]], [[Watts]], [[Terravelle]], [[Auralis]], [[Valdenmoor]]_

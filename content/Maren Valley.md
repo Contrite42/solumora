@@ -30,4 +30,4 @@ Characters like [[Reth Caln]] and [[Solen Carr]] — rural Terravelle residents 
 
 The flow of information through the valley to the capital is slower than commercial goods but more selective. News from [[Greyveil]] or the border regions reaches Valdenmoor first through travelers and then through institutional channels; the valley communities often know about events in the western farmlands before the capital's administrators do, simply because the communities are adjacent to the news while the capital is receiving reports.
 
-*See also: [[Valdenmoor]], [[Terravelle]], [[Maren River]], [[Maren Freight Chain]], [[The Dock Wards]], [[Ashford]], [[Greyveil]], [[Noll Drenk]], [[Reth Caln]], [[Solen Carr]], [[Life in Rural Terravelle]], [[Trade Guilds]], [[Covenant of Measure]]*
+_See also: [[Valdenmoor]], [[Terravelle]], [[Maren River]], [[Maren Freight Chain]], [[The Dock Wards]], [[Ashford]], [[Greyveil]], [[Noll Drenk]], [[Reth Caln]], [[Solen Carr]], [[Life in Rural Terravelle]], [[Trade Guilds]], [[Covenant of Measure]]_

@@ -28,7 +28,7 @@ The district does not exclude [[Control Tier|Tier 0]] or [[Control Tier|Tier 1]]
 
 This creates a
 
- different social structure than Terravelle's rural communities. Solden Fields is not a collective-coordination economy like [[Keld Basin]]. It is a network of specialist households that coordinate through market relationships rather than community agreements. The bonds that hold the district together are economic first, social second.
+different social structure than Terravelle's rural communities. Solden Fields is not a collective-coordination economy like [[Keld Basin]]. It is a network of specialist households that coordinate through market relationships rather than community agreements. The bonds that hold the district together are economic first, social second.
 
 ## The Pressure
 
@@ -38,4 +38,4 @@ Lira Torven has noted the shift with concern. Exclusive contracts concentrate ri
 
 The district has not reached consensus on whether exclusive contracts represent smart adaptation or dangerous dependence. The conversation continues while the crops grow.
 
-*See also: [[Auralis]], [[Solhaven]], [[Life in Rural Auralis]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], Lira Torven, Nessa Rold*
+_See also: [[Auralis]], [[Solhaven]], [[Life in Rural Auralis]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], Lira Torven, Nessa Rold_

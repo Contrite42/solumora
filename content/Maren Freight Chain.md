@@ -6,4 +6,4 @@ What makes the system work is timing discipline. River movement is cheaper than 
 
 The chain is also Terravelle's main way to absorb shocks from cross-border friction. When overland traffic near [[Halveth]] tightens, more volume is pulled into river storage and released later through Ashford's coastal lanes. The opposite happens when storms slow coastal traffic. River logistics does not solve political pressure. It buys time against it.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Ashford]], [[Trade Guilds]], [[Watts]], [[Life in Valdenmoor]], [[Life in Ashford]], [[Halveth]]*
+_See also: [[Terravelle]], [[Valdenmoor]], [[Ashford]], [[Trade Guilds]], [[Watts]], [[Life in Valdenmoor]], [[Life in Ashford]], [[Halveth]]_

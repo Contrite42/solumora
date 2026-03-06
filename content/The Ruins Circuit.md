@@ -30,4 +30,4 @@ Most Circuit members want the ruins to be studied honestly — without the insti
 
 The [[The Culmination Faction|Culmination Faction]]'s academic arm, [[Aldric Mourne]], attempts to cultivate Circuit contacts as sources of raw data that can be interpreted through the Culmination framework. Some Circuit researchers find this arrangement useful. Others find it irritating. The Circuit's lack of formal structure means there is no authority to regulate these relationships.
 
-*See also: [[Ancient Ruins]], [[The Advancement Corps]], [[The Culmination Faction]], [[Factions]], [[Tessel Dran]], [[Cossa Vrend]], [[Aldric Mourne]], [[Equatorial Desert]], [[Rift Incursions]]*
+_See also: [[Ancient Ruins]], [[The Advancement Corps]], [[The Culmination Faction]], [[Factions]], [[Tessel Dran]], [[Cossa Vrend]], [[Aldric Mourne]], [[Equatorial Desert]], [[Rift Incursions]]_

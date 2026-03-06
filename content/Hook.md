@@ -1,4 +1,4 @@
-A **Hook** is the core action kernel of a spell — the verb that tells [[Flux]] what kind of work it is doing. While [[Discipline]] and [[Output Mode]] describe *how* Flux is shaped and *what* it manifests as, the Hook determines **what the spell is trying to accomplish**.
+A **Hook** is the core action kernel of a spell — the verb that tells [[Flux]] what kind of work it is doing. While [[Discipline]] and [[Output Mode]] describe _how_ Flux is shaped and _what_ it manifests as, the Hook determines **what the spell is trying to accomplish**.
 
 Hooks are written at the **center** of a sigil and are treated as the spell's primary identity. Most "spell names" in common speech are shorthand for a particular Hook + a typical set of variables.
 
@@ -80,7 +80,7 @@ Intercepts and neutralizes an incoming [[Flux]] effect before it resolves. Used 
 
 ## Relationship to [[Mode]]
 
-A Hook describes *what kind* of action is happening, while [[Mode]] describes *how* that action operates:
+A Hook describes _what kind_ of action is happening, while [[Mode]] describes _how_ that action operates:
 
 - **Create** — generates the effect from Flux
 - **Affect** — alters something that already exists
@@ -88,4 +88,4 @@ A Hook describes *what kind* of action is happening, while [[Mode]] describes *h
 
 **Example:** Move + Control is sustained levitation/telekinesis, while Move + Create is a generated push impulse.
 
-*See also: [[Mode]], [[Discipline]], [[Spell Variables]], [[Sigils]]*
+_See also: [[Mode]], [[Discipline]], [[Spell Variables]], [[Sigils]]_

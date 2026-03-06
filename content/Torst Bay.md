@@ -42,4 +42,4 @@ Lorn describes it as "infrastructure without institutional recognition." The gui
 
 This invisibility is functional. If Torst Bay were subject to formal guild regulation, port authority oversight, and kingdom administrative requirements, the operational costs would exceed what fishing fleet margins can support. As an informal coordination hub, it imposes minimal overhead while providing maximum operational value — which is why it continues to function across multiple generations.
 
-*See also: [[Auralis]], [[Hedun]], [[Solhaven]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Control Tier]], [[Flux]], Lorn Markel, Mira Kels, Kess Torven, Ven Orl, [[Maritime Storm Coordination]], [[Coastal Settlement Network]]*
+_See also: [[Auralis]], [[Hedun]], [[Solhaven]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Control Tier]], [[Flux]], Lorn Markel, Mira Kels, Kess Torven, Ven Orl, [[Maritime Storm Coordination]], [[Coastal Settlement Network]]_

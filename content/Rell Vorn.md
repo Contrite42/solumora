@@ -6,9 +6,9 @@ He is 33 years old and works the line between guide claims, sponsor pressure, an
 
 Rell's authority comes from arithmetic and field memory:
 
-- verify declared load against actual weight  
-- flag thermal kit shortfalls before departure  
-- force removal of non-critical cargo when survival margins are thin  
+- verify declared load against actual weight
+- flag thermal kit shortfalls before departure
+- force removal of non-critical cargo when survival margins are thin
 - document sponsor overrides to protect downstream accountability
 
 He cannot cast any protective layer for crossing teams. He can prevent them from leaving with mathematically unsound manifests.
@@ -33,4 +33,4 @@ Rell demonstrates one T0 survival model in a high-Flux environment: become the p
 
 At the desert edge, that role saves lives.
 
-*See also: [[Control Tier]], [[Halveth]], [[Equatorial Desert]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Expedition Supplies]], [[Halveth Guide Bureau]], [[Thel Reach]], [[Seln Watch]]*
+_See also: [[Control Tier]], [[Halveth]], [[Equatorial Desert]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Expedition Supplies]], [[Halveth Guide Bureau]], [[Thel Reach]], [[Seln Watch]]_

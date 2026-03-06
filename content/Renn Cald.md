@@ -24,4 +24,4 @@ He does not know that [[Watts]] and the ancient civilization's construction are 
 
 This is the Quiet Work ethic applied to information: it is not his, it is not his role to obtain it, and his job is to make sure the people whose role it is have functional equipment when they go to find it.
 
-*See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[The Wolfpoint Scholarium]], [[Sera Voss]], [[Mell Rask]], [[The Quiet Work]], [[Control Tier]], [[Wolfpoint Exports]]*
+_See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[The Wolfpoint Scholarium]], [[Sera Voss]], [[Mell Rask]], [[The Quiet Work]], [[Control Tier]], [[Wolfpoint Exports]]_

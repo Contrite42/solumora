@@ -22,4 +22,4 @@ Performance: Clean light output, consistent thermal regulation. No cross-interfe
 Scaling documentation for larger applications. Pentagon configuration: Pentagon Light (20W × 1 = 20W) + Pentagon Heat (20W × 2 = 40W) = 60W total embedded cost. Both sigils T2 individually. Requires T2 practitioner for embedding process.
 Cost comparison: T1 dual-sigil (9W total) suitable for small objects. T2 dual-sigil (60W total) required for larger applications. Spacing requirements scale proportionally with sigil complexity.
 
-*See also: [[Flux]], [[Sigils]], [[Flux Cost Reference]], [[Valdenmoor]], [[Common Grimoire]], [[Control Tier]]*
+_See also: [[Flux]], [[Sigils]], [[Flux Cost Reference]], [[Valdenmoor]], [[Common Grimoire]], [[Control Tier]]_

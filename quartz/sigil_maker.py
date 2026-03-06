@@ -10,10 +10,16 @@ grimoire pages.
 from __future__ import annotations
 
 import argparse
+import contextlib
+import io
 import json
 import math
 import re
+import shutil
+import subprocess
+import threading
 from dataclasses import asdict, dataclass
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -216,6 +222,169 @@ REACH_ALIASES = {
     "line of sight": "Line-of-Sight",
     "line-of-sight": "Line-of-Sight",
 }
+
+TIER_SEQUENCE = tuple(row["tier"] for row in TIER_OVERVIEW)
+
+AUTO_DISCIPLINES = (
+    "Raw",
+    "Force",
+    "Heat",
+    "Light",
+    "Sound",
+    "Electric",
+    "Chemical",
+    "Binding",
+    "Mind",
+)
+
+AUTO_INTERNAL_DIR_NAMES = {"_processed", "_failed", "_generated"}
+
+AUTO_DISCIPLINE_FLAVOR = {
+    "Raw": "neutral flux",
+    "Force": "kinetic force",
+    "Heat": "thermal transfer",
+    "Light": "structured light",
+    "Sound": "resonant pressure",
+    "Electric": "charge flow",
+    "Chemical": "reactive flux",
+    "Binding": "constraint lattices",
+    "Mind": "neural signatures",
+    "Soul": "identity threads",
+}
+
+# Templates are intentionally practical and reusable by guild/field work.
+AUTO_TEMPLATE_LIBRARY = (
+    {
+        "suffix": "Lantern Mark",
+        "hook": "Emit",
+        "mode": "Create",
+        "shape": "Triangle",
+        "pattern": "Point",
+        "summary": "Creates a short-lived {flavor} marker for close work.",
+        "effect": "Projects a compact {flavor} marker that remains stable long enough for routine tasks.",
+    },
+    {
+        "suffix": "Workline Brace",
+        "hook": "Ward",
+        "mode": "Affect",
+        "shape": "Triangle",
+        "pattern": "Plane",
+        "summary": "Stiffens a small work area with controlled {flavor}.",
+        "effect": "Forms a flat control plane that limits drift and keeps nearby tooling behavior predictable.",
+    },
+    {
+        "suffix": "Cargo Stitch",
+        "hook": "Bind",
+        "mode": "Affect",
+        "shape": "Square",
+        "pattern": "Point",
+        "target_spec": "Object",
+        "summary": "Secures a single object against routine jolts using {flavor}.",
+        "effect": "Writes a compact lock-state into one marked object so handling stress does not break its tuned balance.",
+    },
+    {
+        "suffix": "Route Ping",
+        "hook": "Sense",
+        "mode": "Affect",
+        "shape": "Pentagon",
+        "pattern": "Beam",
+        "target_spec": "Marked",
+        "reach": "Medium",
+        "summary": "Scans for tagged signatures across a mid-range lane.",
+        "effect": "Sweeps a directed line through the local route and returns any mark-coded signatures tied to prior registry ink.",
+    },
+    {
+        "suffix": "Dust Filter",
+        "hook": "Filter",
+        "mode": "Control",
+        "shape": "Circle",
+        "pattern": "Field",
+        "target_spec": "Filter",
+        "reach": "Touch",
+        "persistence": "Timed Short",
+        "summary": "Builds a temporary screening zone that favors selected traffic.",
+        "effect": "Maintains a localized field that passes allowed signatures while damping unapproved particulate and residue.",
+    },
+    {
+        "suffix": "Span Latch",
+        "hook": "Bind",
+        "mode": "Control",
+        "shape": "Circle",
+        "pattern": "Ring",
+        "target_spec": "Surface",
+        "reach": "Touch",
+        "persistence": "Timed Long",
+        "summary": "Keeps a ringed anchor active across a long maintenance window.",
+        "effect": "Pins a ring constraint to a prepared surface and holds state under normal interference until the timer expires.",
+    },
+    {
+        "suffix": "Drift Breaker",
+        "hook": "Counter",
+        "mode": "Affect",
+        "shape": "Pentagon",
+        "pattern": "Cone",
+        "target_spec": "Group",
+        "reach": "Short",
+        "summary": "Interrupts unstable local signatures before they cascade.",
+        "effect": "Pushes a short counter-cone through nearby interference and collapses weakly coupled spell drift in the affected area.",
+    },
+    {
+        "suffix": "Watchline Trigger",
+        "hook": "Trigger",
+        "mode": "Control",
+        "shape": "Square",
+        "pattern": "Beam",
+        "target_spec": "Surface",
+        "summary": "Arms a narrow watchline that trips on threshold events.",
+        "effect": "Binds a beam-thin trigger state to a prepared surface and emits a clear signal when crossed by qualifying motion.",
+    },
+    {
+        "suffix": "Pack Stabilizer",
+        "hook": "Shape",
+        "mode": "Control",
+        "shape": "Circle",
+        "pattern": "Field",
+        "target_spec": "Object",
+        "reach": "Touch",
+        "persistence": "Sustained",
+        "sustained_minutes": 20,
+        "summary": "Maintains a load-balancing field on a single packed object.",
+        "effect": "Continuously reshapes microforces around the object to reduce swing, shear, and stress accumulation while moving.",
+    },
+    {
+        "suffix": "Transit Ramp",
+        "hook": "Move",
+        "mode": "Affect",
+        "shape": "Pentagon",
+        "pattern": "Plane",
+        "target_spec": "Group",
+        "reach": "Short",
+        "summary": "Applies directional assist across a short corridor segment.",
+        "effect": "Lays a controlled vector plane under nearby travelers to smooth starts, stops, and grade transitions.",
+    },
+    {
+        "suffix": "Heat Sink Ring",
+        "hook": "Dampen",
+        "mode": "Control",
+        "shape": "Circle",
+        "pattern": "Ring",
+        "target_spec": "Surface",
+        "reach": "Touch",
+        "persistence": "Timed Long",
+        "summary": "Bleeds excess local activity into a controlled perimeter.",
+        "effect": "Circulates excess intensity into a ring boundary to keep work surfaces inside rated tolerances.",
+    },
+    {
+        "suffix": "Repair Shift",
+        "hook": "Transform",
+        "mode": "Affect",
+        "shape": "Square",
+        "pattern": "Point",
+        "target_spec": "Object",
+        "summary": "Performs constrained state correction on damaged fittings.",
+        "effect": "Adjusts one damaged component toward a stable operating state without broad collateral changes.",
+    },
+)
 
 
 @dataclass
@@ -432,6 +601,13 @@ def rarity_for_tier(tier: str) -> str:
     return "Unknown"
 
 
+def tier_index(tier: str) -> int:
+    try:
+        return TIER_SEQUENCE.index(tier)
+    except ValueError:
+        return len(TIER_SEQUENCE)
+
+
 def calculate_cost(spec: SpellSpec) -> SpellCostBreakdown:
     validate_shape_slots(spec)
 
@@ -481,7 +657,11 @@ def grimoire_row(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
     )
 
 
-def markdown_page(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
+def markdown_page(
+    spec: SpellSpec,
+    breakdown: SpellCostBreakdown,
+    ollama_interpretation: str | None = None,
+) -> str:
     sustained_note = ""
     if spec.persistence == "Sustained":
         sustained_note = f" ({spec.sustained_minutes} min planned active window)"
@@ -512,6 +692,16 @@ def markdown_page(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
             "Use name + summary + effect_description to explain what the spell does in plain language."
         ),
     }
+    if ollama_interpretation:
+        ai_payload["ollama_interpretation"] = ollama_interpretation
+
+    interpretation_block = ""
+    if ollama_interpretation:
+        interpretation_block = f"""
+## Ollama Interpretation
+
+{ollama_interpretation}
+"""
 
     return f"""# {spec.name}
 
@@ -558,6 +748,7 @@ def markdown_page(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
 ```json
 {json.dumps(ai_payload, indent=2)}
 ```
+{interpretation_block}
 
 ## See Also
 
@@ -702,6 +893,489 @@ def sync_spell_indexes(
     if spells_hub_path is not None:
         append_spells_hub(spells_hub_path, spec, breakdown)
     return all_grimoire_path, rarity_page, spells_hub_path
+
+
+def relative_subpath(path: Path, root: Path) -> Path:
+    try:
+        return path.relative_to(root)
+    except ValueError:
+        return Path(path.name)
+
+
+def extract_json_object(text: str) -> dict[str, Any] | None:
+    start = text.find("{")
+    end = text.rfind("}")
+    if start == -1 or end == -1 or end <= start:
+        return None
+    candidate = text[start : end + 1]
+    try:
+        parsed = json.loads(candidate)
+    except json.JSONDecodeError:
+        return None
+    if not isinstance(parsed, dict):
+        return None
+    return parsed
+
+
+def enrich_generated_spec_with_ollama(
+    spec_data: dict[str, Any], *, model: str, timeout_seconds: int
+) -> dict[str, Any]:
+    prompt = (
+        "You are naming a practical Solumora spell. Return JSON only with keys "
+        '"name", "summary", "effect_description". '
+        "Keep the output grounded and functional, no lore backstory. "
+        f"Use these sigil variables: {json.dumps(spec_data, ensure_ascii=True)}"
+    )
+    process = subprocess.run(
+        ["ollama", "run", model, prompt],
+        capture_output=True,
+        text=True,
+        timeout=timeout_seconds,
+        check=False,
+    )
+    if process.returncode != 0:
+        raise ValueError(process.stderr.strip() or process.stdout.strip() or "ollama run failed")
+    payload = extract_json_object(process.stdout.strip())
+    if payload is None:
+        raise ValueError("Ollama response did not include a valid JSON object.")
+
+    updated = dict(spec_data)
+    for key in ("name", "summary", "effect_description"):
+        value = str(payload.get(key, "")).strip()
+        if value:
+            updated[key] = value
+    return updated
+
+
+def interpret_spell_with_ollama(
+    spec: SpellSpec,
+    breakdown: SpellCostBreakdown,
+    *,
+    model: str,
+    timeout_seconds: int,
+) -> str:
+    spell_packet = {"spec": asdict(spec), "cost": asdict(breakdown)}
+    prompt = (
+        "Interpret this Solumora sigil as a practical spell note. "
+        "State what it does, likely use, and one operational constraint. "
+        "Keep it concise (max 120 words), plain text only.\n"
+        f"{json.dumps(spell_packet, ensure_ascii=True)}"
+    )
+    process = subprocess.run(
+        ["ollama", "run", model, prompt],
+        capture_output=True,
+        text=True,
+        timeout=timeout_seconds,
+        check=False,
+    )
+    if process.returncode != 0:
+        raise ValueError(process.stderr.strip() or process.stdout.strip() or "ollama run failed")
+    content = process.stdout.strip().replace("```", "").strip()
+    if not content:
+        raise ValueError("Ollama returned an empty interpretation.")
+    return content
+
+
+def collect_existing_spell_names(markdown_dir: Path, all_grimoire_path: Path) -> set[str]:
+    names: set[str] = set()
+
+    if markdown_dir.exists():
+        for page in markdown_dir.rglob("*.md"):
+            if page.is_file():
+                names.add(page.stem.strip())
+
+    if all_grimoire_path.exists():
+        for line in all_grimoire_path.read_text(encoding="utf-8").splitlines():
+            match = re.search(r"\|\s*\*\*(.+?)\*\*\s*\|", line)
+            if match:
+                names.add(match.group(1).strip())
+
+    return {name for name in names if name}
+
+
+def build_auto_spec_data(discipline: str, template: dict[str, Any]) -> dict[str, Any]:
+    flavor = AUTO_DISCIPLINE_FLAVOR.get(discipline, discipline.lower())
+    hook = str(template["hook"])
+    mode = str(template["mode"])
+    return {
+        "name": f"{discipline} {template['suffix']}",
+        "summary": str(template["summary"]).format(
+            discipline=discipline,
+            flavor=flavor,
+        ),
+        "effect_description": str(template["effect"]).format(
+            discipline=discipline,
+            flavor=flavor,
+        ),
+        "hook": hook,
+        "mode": mode,
+        "shape": str(template["shape"]),
+        "discipline": discipline,
+        "output_mode": str(template.get("output_mode", NATURAL_OUTPUT_BY_DISCIPLINE[discipline])),
+        "pattern": str(template.get("pattern", DEFAULTS["pattern"])),
+        "reach": str(template.get("reach", DEFAULTS["reach"])),
+        "persistence": str(template.get("persistence", DEFAULTS["persistence"])),
+        "target_spec": str(template.get("target_spec", DEFAULTS["target_spec"])),
+        "sustained_minutes": int(template.get("sustained_minutes", 0)),
+        "hook_mode_multiplier": float(
+            template.get("hook_mode_multiplier", default_hook_mode_multiplier(hook, mode))
+        ),
+        "hook_mode_flat_w": int(template.get("hook_mode_flat_w", 0)),
+        "notes": "Generated automatically by Sigil Maker auto mode.",
+    }
+
+
+def generate_auto_specs(
+    *,
+    count: int,
+    existing_names: set[str],
+    min_tier: str,
+    max_tier: str,
+    ollama_model: str | None = None,
+    ollama_timeout_seconds: int = 90,
+) -> list[SpellSpec]:
+    if count <= 0:
+        return []
+
+    min_idx = tier_index(min_tier)
+    max_idx = tier_index(max_tier)
+    if min_idx > max_idx:
+        raise ValueError(f"min_tier ({min_tier}) must be <= max_tier ({max_tier}).")
+
+    generated: list[SpellSpec] = []
+    reserved_names = set(existing_names)
+
+    for template in AUTO_TEMPLATE_LIBRARY:
+        for discipline in AUTO_DISCIPLINES:
+            spec_data = build_auto_spec_data(discipline, template)
+            base_name = str(spec_data["name"]).strip()
+            if base_name in reserved_names:
+                continue
+
+            if ollama_model:
+                try:
+                    spec_data = enrich_generated_spec_with_ollama(
+                        spec_data,
+                        model=ollama_model,
+                        timeout_seconds=ollama_timeout_seconds,
+                    )
+                except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
+                    print(f"[OLLAMA] Using fallback naming for '{base_name}': {exc}")
+
+            if str(spec_data.get("name", "")).strip() in reserved_names:
+                spec_data["name"] = base_name
+
+            try:
+                spec = parse_spec(spec_data)
+                breakdown = calculate_cost(spec)
+            except ValueError:
+                continue
+
+            idx = tier_index(breakdown.required_tier)
+            if idx < min_idx or idx > max_idx:
+                continue
+
+            if spec.name in reserved_names:
+                continue
+            reserved_names.add(spec.name)
+            generated.append(spec)
+            if len(generated) >= count:
+                return generated
+
+    return generated
+
+
+def discover_spec_files(spec_dir: Path, pattern: str, recursive: bool) -> list[Path]:
+    iterator = spec_dir.rglob(pattern) if recursive else spec_dir.glob(pattern)
+    files: list[Path] = []
+    for path in iterator:
+        if not path.is_file():
+            continue
+        relative = relative_subpath(path, spec_dir)
+        if any(part in AUTO_INTERNAL_DIR_NAMES for part in relative.parts):
+            continue
+        files.append(path)
+    return sorted(files)
+
+
+def archive_spec_file(spec_path: Path, *, spec_root: Path, archive_root: Path, run_stamp: str) -> Path:
+    relative = relative_subpath(spec_path, spec_root)
+    destination = archive_root / run_stamp / relative
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    if destination.exists():
+        destination = destination.with_name(
+            f"{destination.stem}.{datetime.now().strftime('%H%M%S%f')}{destination.suffix}"
+        )
+    shutil.move(str(spec_path), str(destination))
+    return destination
+
+
+def save_generated_spec(spec: SpellSpec, output_dir: Path, run_stamp: str) -> Path:
+    path = output_dir / run_stamp / f"{slugify(spec.name)}.json"
+    write_json(path, asdict(spec))
+    return path
+
+
+def command_auto(args: argparse.Namespace) -> int:
+    run_stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    spec_dir = Path(args.spec_dir)
+    spec_dir.mkdir(parents=True, exist_ok=True)
+
+    print("Auto pipeline started.")
+    print(f"- Queue directory: {spec_dir}")
+    print(f"- Recursive queue scan: {not args.no_recursive}")
+    print(f"- Auto generation target: {args.generate_count} spells")
+    print(f"- Tier window: {args.min_tier} to {args.max_tier}")
+
+    queue_files = discover_spec_files(spec_dir, args.spec_glob, recursive=not args.no_recursive)
+    print(f"- Queue files discovered: {len(queue_files)}")
+
+    queue_success = 0
+    queue_fail = 0
+    generated_success = 0
+    generated_fail = 0
+    fail_fast_triggered = False
+
+    for spec_path in queue_files:
+        print(f"\n[QUEUE] {spec_path}")
+        try:
+            spec = load_spec(spec_path)
+            emit_artifacts(spec, args)
+            queue_success += 1
+            if args.archive_queue:
+                archived = archive_spec_file(
+                    spec_path,
+                    spec_root=spec_dir,
+                    archive_root=Path(args.processed_dir),
+                    run_stamp=run_stamp,
+                )
+                print(f"Archived queue spec: {archived}")
+        except (FileNotFoundError, json.JSONDecodeError, ValueError) as exc:
+            queue_fail += 1
+            print(f"[FAIL] {spec_path}: {exc}")
+            if args.archive_queue:
+                archived = archive_spec_file(
+                    spec_path,
+                    spec_root=spec_dir,
+                    archive_root=Path(args.failed_dir),
+                    run_stamp=run_stamp,
+                )
+                error_note = archived.with_suffix(archived.suffix + ".error.txt")
+                write_text(error_note, str(exc).strip() + "\n")
+                print(f"Archived failed spec: {archived}")
+            if args.fail_fast:
+                fail_fast_triggered = True
+                break
+
+    if not args.skip_generation and args.generate_count > 0 and not fail_fast_triggered:
+        existing = collect_existing_spell_names(
+            Path(getattr(args, "markdown_dir", "content/Spells")),
+            Path(getattr(args, "all_grimoire_path", "content/All Grimoire.md")),
+        )
+        try:
+            generated_specs = generate_auto_specs(
+                count=int(args.generate_count),
+                existing_names=existing,
+                min_tier=args.min_tier,
+                max_tier=args.max_tier,
+                ollama_model=(args.ollama_model or "").strip() or None,
+                ollama_timeout_seconds=int(args.ollama_timeout_seconds),
+            )
+        except ValueError as exc:
+            print(f"[AUTO FAIL] {exc}")
+            return 1
+
+        if not generated_specs:
+            print("\n[AUTO] No eligible new generated spells found for current tier window.")
+        else:
+            print(f"\n[AUTO] Generating {len(generated_specs)} spell(s).")
+            for spec in generated_specs:
+                try:
+                    emit_artifacts(spec, args)
+                    generated_success += 1
+                    saved = save_generated_spec(
+                        spec, Path(args.generated_spec_dir), run_stamp=run_stamp
+                    )
+                    print(f"Saved generated spec: {saved}")
+                except ValueError as exc:
+                    generated_fail += 1
+                    print(f"[AUTO FAIL] {spec.name}: {exc}")
+                    if args.fail_fast:
+                        break
+
+    total_success = queue_success + generated_success
+    total_fail = queue_fail + generated_fail
+
+    print("\nAuto pipeline summary")
+    print(f"- Queue success: {queue_success}")
+    print(f"- Queue fail: {queue_fail}")
+    print(f"- Generated success: {generated_success}")
+    print(f"- Generated fail: {generated_fail}")
+    print(f"- Total success: {total_success}")
+    print(f"- Total fail: {total_fail}")
+
+    if total_success == 0:
+        print("No spells were produced. Add queue specs or increase generation settings.")
+        return 1
+    if total_fail > 0:
+        return 1
+    return 0
+
+
+def command_gui(args: argparse.Namespace) -> int:
+    try:
+        import tkinter as tk
+        from tkinter import ttk
+    except ImportError:
+        print("Tkinter is not available in this Python environment.")
+        return 1
+
+    root = tk.Tk()
+    root.title("Sigil Maker Auto Pipeline")
+    root.geometry("980x720")
+
+    queue_dir_var = tk.StringVar(value=str(getattr(args, "spec_dir", "quartz/spell_queue")))
+    generate_count_var = tk.IntVar(value=int(getattr(args, "generate_count", 10)))
+    min_tier_var = tk.StringVar(value=str(getattr(args, "min_tier", "T0")))
+    max_tier_var = tk.StringVar(value=str(getattr(args, "max_tier", "T6")))
+    recursive_var = tk.BooleanVar(value=True)
+    archive_queue_var = tk.BooleanVar(value=True)
+    sync_indexes_var = tk.BooleanVar(value=True)
+    sync_spells_hub_var = tk.BooleanVar(value=True)
+    ollama_model_var = tk.StringVar(value=str(getattr(args, "ollama_model", "")))
+    ollama_timeout_var = tk.IntVar(value=int(getattr(args, "ollama_timeout_seconds", 90)))
+    status_var = tk.StringVar(value="Idle")
+
+    root.columnconfigure(0, weight=1)
+    root.rowconfigure(1, weight=1)
+
+    controls = ttk.LabelFrame(root, text="Auto Pipeline Settings", padding=12)
+    controls.grid(row=0, column=0, sticky="ew", padx=10, pady=10)
+    controls.columnconfigure(1, weight=1)
+    controls.columnconfigure(3, weight=1)
+
+    ttk.Label(controls, text="Queue Directory").grid(row=0, column=0, sticky="w", padx=4, pady=4)
+    ttk.Entry(controls, textvariable=queue_dir_var).grid(row=0, column=1, sticky="ew", padx=4, pady=4)
+
+    ttk.Label(controls, text="Generate Count").grid(row=0, column=2, sticky="w", padx=4, pady=4)
+    ttk.Spinbox(controls, from_=0, to=200, textvariable=generate_count_var, width=8).grid(
+        row=0, column=3, sticky="w", padx=4, pady=4
+    )
+
+    ttk.Label(controls, text="Min Tier").grid(row=1, column=0, sticky="w", padx=4, pady=4)
+    ttk.Combobox(
+        controls, textvariable=min_tier_var, values=TIER_SEQUENCE, state="readonly", width=10
+    ).grid(row=1, column=1, sticky="w", padx=4, pady=4)
+
+    ttk.Label(controls, text="Max Tier").grid(row=1, column=2, sticky="w", padx=4, pady=4)
+    ttk.Combobox(
+        controls, textvariable=max_tier_var, values=TIER_SEQUENCE, state="readonly", width=10
+    ).grid(row=1, column=3, sticky="w", padx=4, pady=4)
+
+    ttk.Label(controls, text="Ollama Model (optional)").grid(
+        row=2, column=0, sticky="w", padx=4, pady=4
+    )
+    ttk.Entry(controls, textvariable=ollama_model_var).grid(
+        row=2, column=1, sticky="ew", padx=4, pady=4
+    )
+
+    ttk.Label(controls, text="Ollama Timeout (s)").grid(row=2, column=2, sticky="w", padx=4, pady=4)
+    ttk.Spinbox(controls, from_=5, to=600, textvariable=ollama_timeout_var, width=8).grid(
+        row=2, column=3, sticky="w", padx=4, pady=4
+    )
+
+    toggle_row = ttk.Frame(controls)
+    toggle_row.grid(row=3, column=0, columnspan=4, sticky="w", padx=4, pady=(4, 2))
+    ttk.Checkbutton(toggle_row, text="Recursive queue scan", variable=recursive_var).pack(
+        side="left", padx=(0, 10)
+    )
+    ttk.Checkbutton(toggle_row, text="Archive queue files", variable=archive_queue_var).pack(
+        side="left", padx=(0, 10)
+    )
+    ttk.Checkbutton(toggle_row, text="Sync grimoire indexes", variable=sync_indexes_var).pack(
+        side="left", padx=(0, 10)
+    )
+    ttk.Checkbutton(toggle_row, text="Sync Spells hub", variable=sync_spells_hub_var).pack(
+        side="left"
+    )
+
+    actions = ttk.Frame(root, padding=(10, 0, 10, 8))
+    actions.grid(row=2, column=0, sticky="ew")
+    actions.columnconfigure(0, weight=1)
+    actions.columnconfigure(1, weight=1)
+    actions.columnconfigure(2, weight=6)
+
+    log_box = tk.Text(root, wrap="word", font=("Consolas", 10))
+    log_box.grid(row=1, column=0, sticky="nsew", padx=10, pady=(0, 8))
+    log_box.insert("end", "Ready. Click 'Run Auto Pipeline' to generate and sync spells.\n")
+    log_box.see("end")
+
+    def append_log(text: str) -> None:
+        if not text:
+            return
+        log_box.insert("end", text if text.endswith("\n") else text + "\n")
+        log_box.see("end")
+
+    def run_pipeline() -> None:
+        run_button.configure(state="disabled")
+        status_var.set("Running...")
+
+        def worker() -> None:
+            namespace = argparse.Namespace(
+                spec_dir=queue_dir_var.get().strip() or "quartz/spell_queue",
+                spec_glob="*.json",
+                no_recursive=not recursive_var.get(),
+                fail_fast=False,
+                archive_queue=archive_queue_var.get(),
+                processed_dir="quartz/spell_queue/_processed",
+                failed_dir="quartz/spell_queue/_failed",
+                generated_spec_dir="quartz/spell_queue/_generated",
+                generate_count=max(0, int(generate_count_var.get())),
+                skip_generation=False,
+                min_tier=min_tier_var.get(),
+                max_tier=max_tier_var.get(),
+                markdown_dir="content/Spells",
+                json_dir="quartz/static/spell_exports",
+                row_dir="quartz/static/spell_exports",
+                markdown_out=None,
+                json_out=None,
+                grimoire_row_out=None,
+                append_all_grimoire=None,
+                save_spec_out=None,
+                sync_grimoire_indexes=sync_indexes_var.get(),
+                all_grimoire_path="content/All Grimoire.md",
+                rarity_pages_dir="content",
+                sync_spells_hub=sync_spells_hub_var.get(),
+                spells_hub_path="content/Spells.md",
+                ollama_model=ollama_model_var.get().strip(),
+                ollama_timeout_seconds=max(5, int(ollama_timeout_var.get())),
+            )
+
+            stream = io.StringIO()
+            with contextlib.redirect_stdout(stream), contextlib.redirect_stderr(stream):
+                exit_code = command_auto(namespace)
+            output = stream.getvalue()
+
+            def finalize() -> None:
+                append_log(output)
+                append_log(f"[GUI] Pipeline exit code: {exit_code}")
+                status_var.set("Idle")
+                run_button.configure(state="normal")
+
+            root.after(0, finalize)
+
+        threading.Thread(target=worker, daemon=True).start()
+
+    run_button = ttk.Button(actions, text="Run Auto Pipeline", command=run_pipeline)
+    run_button.grid(row=0, column=0, sticky="w", padx=(0, 8))
+
+    ttk.Button(actions, text="Clear Log", command=lambda: log_box.delete("1.0", "end")).grid(
+        row=0, column=1, sticky="w"
+    )
+    ttk.Label(actions, textvariable=status_var).grid(row=0, column=2, sticky="e")
+
+    root.mainloop()
+    return 0
 
 
 def comma_list(values: list[str]) -> str:
@@ -894,9 +1568,24 @@ def emit_artifacts(spec: SpellSpec, args: argparse.Namespace) -> SpellCostBreakd
     breakdown = calculate_cost(spec)
     markdown_out, json_out, row_out = resolve_output_paths(args, spec)
 
-    md = markdown_page(spec, breakdown)
+    ollama_interpretation: str | None = None
+    ollama_model = (getattr(args, "ollama_model", "") or "").strip()
+    if ollama_model:
+        try:
+            ollama_interpretation = interpret_spell_with_ollama(
+                spec,
+                breakdown,
+                model=ollama_model,
+                timeout_seconds=int(getattr(args, "ollama_timeout_seconds", 90)),
+            )
+        except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
+            print(f"[OLLAMA] Interpretation skipped for '{spec.name}': {exc}")
+
+    md = markdown_page(spec, breakdown, ollama_interpretation=ollama_interpretation)
     row = grimoire_row(spec, breakdown)
     payload = {"spec": asdict(spec), "cost": asdict(breakdown), "all_grimoire_row": row}
+    if ollama_interpretation:
+        payload["ollama_interpretation"] = ollama_interpretation
 
     write_text(markdown_out, md)
     write_json(json_out, payload)
@@ -1054,11 +1743,12 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=(
             "Create validated Solumora sigil spells. "
-            "Run with no command to launch guided interactive mode."
+            "Run with no command to execute the autonomous queue+generation pipeline."
         ),
         epilog=(
             "Examples:\n"
             "  python quartz/sigil_maker.py\n"
+            "  python quartz/sigil_maker.py auto --generate-count 12\n"
             "  python quartz/sigil_maker.py create --spec spell.json\n"
             "  python quartz/sigil_maker.py tiers"
         ),
@@ -1097,6 +1787,23 @@ def build_parser() -> argparse.ArgumentParser:
             help="Optional path to save the final normalized input spec JSON.",
         )
 
+    def add_ollama_args(command_parser: argparse.ArgumentParser) -> None:
+        command_parser.add_argument(
+            "--ollama-model",
+            default="",
+            help=(
+                "Optional Ollama model name. If provided, Sigil Maker requests an "
+                "LLM interpretation for each emitted spell. Auto mode also uses it "
+                "for generated spell naming/description polish."
+            ),
+        )
+        command_parser.add_argument(
+            "--ollama-timeout-seconds",
+            type=int,
+            default=90,
+            help="Timeout in seconds for each Ollama request.",
+        )
+
     def add_sync_args(command_parser: argparse.ArgumentParser) -> None:
         command_parser.add_argument(
             "--sync-grimoire-indexes",
@@ -1133,6 +1840,7 @@ def build_parser() -> argparse.ArgumentParser:
     create.add_argument("--spec", required=True, help="Path to spell spec JSON.")
     add_output_args(create)
     add_sync_args(create)
+    add_ollama_args(create)
     create.set_defaults(func=command_create)
 
     interactive = subparsers.add_parser(
@@ -1141,6 +1849,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     add_output_args(interactive)
     add_sync_args(interactive)
+    add_ollama_args(interactive)
     interactive.set_defaults(func=command_interactive)
 
     recursive = subparsers.add_parser(
@@ -1165,11 +1874,130 @@ def build_parser() -> argparse.ArgumentParser:
     )
     add_output_args(recursive)
     add_sync_args(recursive)
+    add_ollama_args(recursive)
     recursive.set_defaults(
         func=command_recursive,
         sync_grimoire_indexes=True,
         sync_spells_hub=True,
     )
+
+    auto = subparsers.add_parser(
+        "auto",
+        help="Run autonomous queue ingest + spell generation + vault index sync.",
+    )
+    auto.add_argument(
+        "--spec-dir",
+        default="quartz/spell_queue",
+        help="Queue directory containing spell spec JSON files to ingest.",
+    )
+    auto.add_argument(
+        "--spec-glob",
+        default="*.json",
+        help="Glob pattern for queued spec files inside --spec-dir.",
+    )
+    auto.add_argument(
+        "--no-recursive",
+        action="store_true",
+        help="Only scan top-level --spec-dir for queue specs.",
+    )
+    auto.add_argument(
+        "--fail-fast",
+        action="store_true",
+        help="Stop immediately on the first queue or generation failure.",
+    )
+    auto.add_argument(
+        "--archive-queue",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Move processed queue specs into archive folders.",
+    )
+    auto.add_argument(
+        "--processed-dir",
+        default="quartz/spell_queue/_processed",
+        help="Archive location for successfully processed queue specs.",
+    )
+    auto.add_argument(
+        "--failed-dir",
+        default="quartz/spell_queue/_failed",
+        help="Archive location for failed queue specs.",
+    )
+    auto.add_argument(
+        "--generated-spec-dir",
+        default="quartz/spell_queue/_generated",
+        help="Directory to store generated spell spec JSON snapshots per run.",
+    )
+    auto.add_argument(
+        "--generate-count",
+        type=int,
+        default=10,
+        help="How many new spells to generate per run in addition to queue ingestion.",
+    )
+    auto.add_argument(
+        "--skip-generation",
+        action=argparse.BooleanOptionalAction,
+        default=False,
+        help="Disable procedural spell generation and only process queued specs.",
+    )
+    auto.add_argument(
+        "--min-tier",
+        choices=TIER_SEQUENCE,
+        default="T0",
+        help="Lower tier bound for auto-generated spells.",
+    )
+    auto.add_argument(
+        "--max-tier",
+        choices=TIER_SEQUENCE,
+        default="T6",
+        help="Upper tier bound for auto-generated spells.",
+    )
+    add_output_args(auto)
+    add_sync_args(auto)
+    add_ollama_args(auto)
+    auto.set_defaults(
+        func=command_auto,
+        sync_grimoire_indexes=True,
+        sync_spells_hub=True,
+    )
+
+    gui = subparsers.add_parser(
+        "gui",
+        help="Launch a desktop UI for one-click autonomous generation and sync.",
+    )
+    gui.add_argument(
+        "--spec-dir",
+        default="quartz/spell_queue",
+        help="Initial queue directory shown in the UI.",
+    )
+    gui.add_argument(
+        "--generate-count",
+        type=int,
+        default=10,
+        help="Initial auto-generation count shown in the UI.",
+    )
+    gui.add_argument(
+        "--min-tier",
+        choices=TIER_SEQUENCE,
+        default="T0",
+        help="Initial minimum tier shown in the UI.",
+    )
+    gui.add_argument(
+        "--max-tier",
+        choices=TIER_SEQUENCE,
+        default="T6",
+        help="Initial maximum tier shown in the UI.",
+    )
+    gui.add_argument(
+        "--ollama-model",
+        default="",
+        help="Initial Ollama model shown in the UI.",
+    )
+    gui.add_argument(
+        "--ollama-timeout-seconds",
+        type=int,
+        default=90,
+        help="Initial Ollama timeout shown in the UI.",
+    )
+    gui.set_defaults(func=command_gui)
 
     schema = subparsers.add_parser("schema", help="Print a spell spec JSON template.")
     schema.set_defaults(func=command_schema)
@@ -1184,15 +2012,8 @@ def main() -> int:
     parser = build_parser()
     args = parser.parse_args()
     if not hasattr(args, "func"):
-        print("No command provided. Starting guided interactive mode.\n")
-        interactive_args = argparse.Namespace(
-            markdown_out=None,
-            json_out=None,
-            grimoire_row_out=None,
-            append_all_grimoire=None,
-            save_spec_out=None,
-        )
-        return command_interactive(interactive_args)
+        print("No command provided. Running autonomous pipeline.\n")
+        args = parser.parse_args(["auto"])
     return int(args.func(args))
 
 

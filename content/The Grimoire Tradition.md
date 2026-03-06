@@ -28,4 +28,4 @@ The distribution infrastructure is detailed in [[Grimoire Distribution]], [[Grim
 
 What is worth noting at the historical level is that the grimoire tradition is the primary reason Flux use is genuinely widespread rather than confined to a hereditary elite. The ability to copy and sell Flux knowledge created a market that, whatever its inequalities, distributed that knowledge further than person-to-person transmission ever could have.
 
-*See also: [[History]], [[Grimoires]], [[Grimoire Economy]], [[Grimoire Distribution]], [[Grimoire Copyists]], [[Sigils]], [[Spell Variables]], [[Control Tier]], [[Flux]], [[Terravelle]], [[Auralis]], [[Ascendant Path]], [[Trade Guilds]]*
+_See also: [[History]], [[Grimoires]], [[Grimoire Economy]], [[Grimoire Distribution]], [[Grimoire Copyists]], [[Sigils]], [[Spell Variables]], [[Control Tier]], [[Flux]], [[Terravelle]], [[Auralis]], [[Ascendant Path]], [[Trade Guilds]]_

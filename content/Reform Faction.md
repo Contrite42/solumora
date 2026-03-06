@@ -4,4 +4,4 @@ It is less structurally coherent than the [[Expansion Faction]] and often operat
 
 Its influence rises when administrative risk is high and falls when security narratives dominate.
 
-*See also: [[Auralis]], [[The Council of Auralis]], [[Expansion Faction]], [[Cassia]], [[Drest]], [[The Fraying Peace]]*
+_See also: [[Auralis]], [[The Council of Auralis]], [[Expansion Faction]], [[Cassia]], [[Drest]], [[The Fraying Peace]]_

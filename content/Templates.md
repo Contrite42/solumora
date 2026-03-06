@@ -2,18 +2,18 @@
 
 ## Location Template
 
-- Name: 
+- Name:
 - Summary: (one-line)
-- Region / Map coordinates: 
+- Region / Map coordinates:
 - Type: (city, ruin, wild, dungeon, temple, island)
-- Faction / Ownership: 
-- Key NPCs present: 
-- Notable features & landmarks: 
-- Magic/Flux properties (if any): 
+- Faction / Ownership:
+- Key NPCs present:
+- Notable features & landmarks:
+- Magic/Flux properties (if any):
 - Hook / Story seeds (3):
-  1. 
-  2. 
-  3. 
+  1.
+  2.
+  3.
 - Related files / links:
 
 ---
@@ -34,6 +34,5 @@
   1.
   2.
 - Related files / links:
-
 
 Notes: Use these templates when expanding any place or person. I will only ask you clarifying questions when we select a specific place or person to expand.

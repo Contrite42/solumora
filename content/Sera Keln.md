@@ -24,4 +24,4 @@ Sera Keln does not dismiss the Culmination goal. The evidence for a sophisticate
 
 What she will not do is state a conclusion she does not have evidence for, including in council sessions. This is what makes her more dangerous to the faction than its true believers: a believer will rationalize findings that don't fit. Sera Keln publishes them.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Emberfall]], [[Ancient Ruins]], [[Drest]], [[Auralis]], [[Flux Users]], [[Equatorial Desert]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Emberfall]], [[Ancient Ruins]], [[Drest]], [[Auralis]], [[Flux Users]], [[Equatorial Desert]]_

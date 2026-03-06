@@ -9,6 +9,7 @@ Most Free Scribes are one of these: rural practitioners serving markets the guil
 ## What They Copy
 
 The distribution of Free Scribe work follows the distribution of demand that certified channels do not serve:
+
 - **Rural Common and Uncommon copies**: lower prices than guild-certified equivalents, sometimes lower quality, reliably available in communities that a guild-certified bookseller does not service
 - **Cross-kingdom commissions**: copies of texts from one kingdom that are not officially distributed in the other; the guild network does not coordinate cross-kingdom, so this work falls entirely to independent operators
 - **Contested or restricted texts**: spell categories that guild certification declines to cover — not necessarily illegal, but outside the certification system's scope
@@ -23,4 +24,4 @@ The reputation network partially addresses this. Independent Scribes who produce
 
 The [[Trade Guilds]] treat Free Scribes as an ongoing enforcement problem. Uncertified copies undercut certified pricing, and there is no way to prevent buyers from choosing them if price is the primary consideration. The guild's response has been to make certification more valuable rather than to successfully suppress uncertified competition — guild libraries, authentication registries, and institutional distribution channels all create value that an independent Scribe cannot replicate, which is the primary reason certified copies still command a premium in markets where both are available.
 
-*See also: [[Grimoire Copyists]], [[Trade Guilds]], [[Grimoire Fraud]], [[Grimoire Licensing]], [[Grimoire Distribution]], [[Black Market Grimoires]], [[Factions]]*
+_See also: [[Grimoire Copyists]], [[Trade Guilds]], [[Grimoire Fraud]], [[Grimoire Licensing]], [[Grimoire Distribution]], [[Black Market Grimoires]], [[Factions]]_

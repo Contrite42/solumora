@@ -1,5 +1,3 @@
-
-
 **Entry 847 — Mira Keld, age 14, Dock Quarter**
 Evaluated at comfortable 28-34W range during standard assessment protocol. Typical Flicker tier performance. Sustained Triangle sigil work for full assessment period without fatigue indicators. Grimoire eligible. Parents informed of T1 certification. Recommended for Merchant Guild apprentice track.
 

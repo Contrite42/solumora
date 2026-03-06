@@ -4,4 +4,4 @@ It handles bonded cargo staging, customs-hold inventory, and timed release to di
 
 The site is known for strict record discipline and high dependence on practical low-tier workflow competence.
 
-*See also: [[Solhaven]], [[Harbor District]], [[Korvin Selt]], [[Torven Alsk]], [[Hedun-Solhaven Coastal Run]], [[Trade Guilds]]*
+_See also: [[Solhaven]], [[Harbor District]], [[Korvin Selt]], [[Torven Alsk]], [[Hedun-Solhaven Coastal Run]], [[Trade Guilds]]_

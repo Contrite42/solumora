@@ -26,4 +26,4 @@ Drest regards her as reliable. He is not entirely wrong. She reports to him accu
 
 Her seven years of correspondence with [[Sera Voss]] have produced a degree of mutual understanding she has not described to anyone on the council. Sera's letters are careful and noncommittal on the subject of the document. They are considerably less guarded on other subjects.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Wolfpoint]], [[Sera Voss]], [[Auralis]], [[Hypertext]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Wolfpoint]], [[Sera Voss]], [[Auralis]], [[Hypertext]]_

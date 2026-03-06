@@ -8,4 +8,4 @@ She learned the work from a man named Arvan who ran the same practice for thirty
 
 She keeps no records of decisions beyond what the parties require for their own documentation. Anything that becomes reference material for future disputes gives the parties information about how she reasons, which would change how they present cases, which would change the information available to her when she reasons. She explained this to Arvan once. He said he had worked this out around year eight and she had saved herself some time.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Flux Users]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Flux Users]]_

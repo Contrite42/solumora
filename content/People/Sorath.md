@@ -1,5 +1,3 @@
-
-
 ## Current Movement
 
 Sorath has come north from the desert interior and entered [[Hedun]]. This is unusual for Sorath — his patterns over the past several decades have favored the open road, small settlements, and the spaces between kingdoms rather than established port cities. His presence in Hedun represents a deviation from established behavior that he has not explained to anyone, because there is no one to explain it to.
@@ -12,7 +10,7 @@ Sorath's presence in Hedun carries the same quality of careful unremarkability t
 
 [[Tolla Rend]], the harbor supervisor, has seen Sorath twice during routine oversight of dock operations. Both encounters were brief and professional — Sorath asking a practical question about cargo scheduling, Tolla providing the requested information. Tolla has noted something was wrong about both interactions but cannot name what. The wrongness is not behavioral — Sorath's questions were appropriate, his manner was unremarkable. It is something else, a quality that registers below conscious analysis. Tolla has not acted on this observation because there is nothing specific to act on.
 
-*See also: [[Hedun]], [[Fennick]], [[Equatorial Desert]], [[High Demons]], [[Tolla Rend]], [[Celn Vard]]*
+_See also: [[Hedun]], [[Fennick]], [[Equatorial Desert]], [[High Demons]], [[Tolla Rend]], [[Celn Vard]]_
 
 ## Current Movement
 
@@ -26,4 +24,4 @@ Sorath's presence in Hedun has the quality of someone who has been in worse plac
 
 [[Tolla Rend]], the harbor supervisor, has seen Sorath twice in the past week and noted something was wrong without being able to name what. Not wrong in the sense of criminal activity or immediate threat, but wrong in the sense of a detail that doesn't fit the pattern she expects from travelers passing through her section of the port. She has not acted on this observation — there is nothing specific to act on, and her responsibilities do not extend to investigating feelings about people who have committed no offense. She has noted it, filed it in the mental category of things to remember if they become relevant later, and continued her work.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]], [[Hedun]], [[Tolla Rend]]*
+_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]], [[Hedun]], [[Tolla Rend]]_

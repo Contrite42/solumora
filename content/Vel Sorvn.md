@@ -6,4 +6,4 @@ His work is primarily applied: developing Hypertext sequences for practical fiel
 
 He keeps practice notes. Not the formal research logs that the Voss-led archive requires — those he maintains separately, in the appropriate format. The practice notes are his: observations about what sequences did that he did not expect, notes on failure modes, thinking on paper about why a particular conditional behaved as it did. He has seven years of practice notes. He has occasionally considered whether they contain something worth formalizing, and has not yet done so.
 
-*See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[Hypertext]], [[Flux Users]], [[Control Tier]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]]*
+_See also: [[Wolfpoint]], [[Life in Wolfpoint]], [[Hypertext]], [[Flux Users]], [[Control Tier]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]]_

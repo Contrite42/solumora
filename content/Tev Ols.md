@@ -8,4 +8,4 @@ The specific things Tev thinks about: a friend two streets over who assesses nex
 
 What Tev does not think about much: what tier they will actually get, or what it will mean for the future. That part feels too large and too far away. The ceremony itself feels close. The six weeks feel manageable, each one on its own.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Tier Assessment]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Tier Assessment]], [[Ordinary Life in Auralis]]_

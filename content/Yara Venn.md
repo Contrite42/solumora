@@ -18,4 +18,4 @@ She has twice advocated for positions in full council that turned out to be base
 
 Tovan has not said anything to her. He is waiting to see if she gets there herself.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Castor Helme]], [[Tovan Ashce]], [[Davan Rhyce]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Castor Helme]], [[Tovan Ashce]], [[Davan Rhyce]]_

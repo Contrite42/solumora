@@ -22,4 +22,4 @@ Rett has a functional relationship with [[Wren]], built on the recognition that 
 
 He does not know what she is. He has noticed that she has not aged in ten years of their acquaintance in the way that a person his mother's age should age, and has filed this in the section of his mind where he puts things he cannot act on and does not need to understand to work with.
 
-*See also: [[Equatorial Desert]], [[Ancient Ruins]], [[Halveth]], [[Wren]], [[Emberfall]], [[Drest]], [[Rift Incursions]], [[Flux Users]], [[Control Tier]]*
+_See also: [[Equatorial Desert]], [[Ancient Ruins]], [[Halveth]], [[Wren]], [[Emberfall]], [[Drest]], [[Rift Incursions]], [[Flux Users]], [[Control Tier]]_

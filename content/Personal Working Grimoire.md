@@ -30,4 +30,4 @@ Most practitioners maintain both: a personal working grimoire for active develop
 
 [[Vel Sorvn]]'s practice notes represent the working grimoire of a T3 practitioner who is actively testing hand sign variants against equivalent sigil configurations — the kind of personal research that no commercial publisher would produce and that the practitioner is doing primarily because they find it interesting.
 
-*See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Inheritance]], [[Ostal Mrev's Consultation Notes]], [[Vel Sorvn's Practice Notes]], [[Ossal Meln]], [[The Advancement Corps]], [[Sigils]], [[Flux]]*
+_See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Inheritance]], [[Ostal Mrev's Consultation Notes]], [[Vel Sorvn's Practice Notes]], [[Ossal Meln]], [[The Advancement Corps]], [[Sigils]], [[Flux]]_

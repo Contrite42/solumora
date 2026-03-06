@@ -32,4 +32,4 @@ A high-tier practitioner incident — rift incursion in a populated area, a [[Hi
 
 None of these risks are certain. They are the reasons the current period is the one that people paying attention are most concerned about.
 
-*See also: [[History]], [[Terravelle]], [[Auralis]], [[Eddan Voss]], [[Cassia]], [[Expansion Faction]], [[The Culmination Faction|Culmination Faction]], [[Drest]], [[The Three Near-Wars]], [[The Advancement Corps|Advancement Corps]], [[Equatorial Desert]], [[Ancient Ruins]], [[Rift Incursions]], [[High Demons]]*
+_See also: [[History]], [[Terravelle]], [[Auralis]], [[Eddan Voss]], [[Cassia]], [[Expansion Faction]], [[The Culmination Faction|Culmination Faction]], [[Drest]], [[The Three Near-Wars]], [[The Advancement Corps|Advancement Corps]], [[Equatorial Desert]], [[Ancient Ruins]], [[Rift Incursions]], [[High Demons]]_

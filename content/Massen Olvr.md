@@ -8,4 +8,4 @@ What he notices, in the way of someone who has spent nineteen years at the margi
 
 He lives with his partner — [[Control Tier|T2]], guild-certified in textile work — in a two-room apartment above a repair shop. They have been together twelve years. She does not treat his tier as a deficit in the way that the guilds implicitly do, and he has learned that this is rarer than it sounds.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]*
+_See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]_

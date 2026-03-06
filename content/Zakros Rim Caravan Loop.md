@@ -6,4 +6,4 @@ The loop is governed by risk bands, not fixed dates. Sand movement, rift-adjacen
 
 Administrative oversight is partial by design. Too much formalization slows dispatches; too little increases loss disputes. The current equilibrium is contract-heavy at departure and trust-heavy at handoff, with arbitration usually happening back in city offices after the season closes.
 
-*See also: [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Life in Ashford]], [[Life in Halveth]]*
+_See also: [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Life in Ashford]], [[Life in Halveth]]_

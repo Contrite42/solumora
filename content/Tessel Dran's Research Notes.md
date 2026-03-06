@@ -32,4 +32,4 @@ What is missing is not data. The measurement tables are thorough. What is missin
 
 I have met three Corps field assessors at Academy conferences. All three were considerably more observant and analytically capable than the reports they submitted. This is not a coincidence I have found an adequate explanation for that I am prepared to put in writing.
 
-*See also: [[Tessel Dran]], [[Emberfall]], [[Ancient Ruins]], [[The Advancement Corps]], [[Hypertext]], [[Wolfpoint]], [[Equatorial Desert]]*
+_See also: [[Tessel Dran]], [[Emberfall]], [[Ancient Ruins]], [[The Advancement Corps]], [[Hypertext]], [[Wolfpoint]], [[Equatorial Desert]]_

@@ -28,4 +28,4 @@ Grimoires range from single-spell cards — a tile or small piece of treated pap
 
 Bound collections are sold as curated sets: household utility packs, workshop specialty sets, expedition survival sets. [[WrittenWorks/The Zakros Crossing Compendium|Avel Coss's crossing compendium]] represents the expedition end of this market — a curated selection of desert-specific spells packaged for a specific use case. The value is in the curation, which substitutes for the buyer's knowledge of what they will actually need.
 
-*See also: [[Grimoires]], [[Common Grimoire Market]], [[Grimoire Copyists]], [[Trade Guilds]], [[Sable Morn]], [[Relay Compact]], [[Ashford-Halveth Courier Road]], [[Black Market Grimoires]], [[Terravelle]], [[Auralis]]*
+_See also: [[Grimoires]], [[Common Grimoire Market]], [[Grimoire Copyists]], [[Trade Guilds]], [[Sable Morn]], [[Relay Compact]], [[Ashford-Halveth Courier Road]], [[Black Market Grimoires]], [[Terravelle]], [[Auralis]]_

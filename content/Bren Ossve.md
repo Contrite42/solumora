@@ -8,7 +8,7 @@ In forty years of practice she has had one case that required her full range. Th
 
 The guild offered her a teaching position in Greyveil when she was thirty-two. She declined. They have not asked again.
 
-*See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Covenant of Measure]], [[Greyveil]], [[Flux Users]], [[Control Tier]]*
+_See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Covenant of Measure]], [[Greyveil]], [[Flux Users]], [[Control Tier]]_
 
 ## The Requests
 
@@ -22,4 +22,4 @@ The pressure does not stop because she is right or wrong. It stops when the seas
 
 Her neighbors understand the practical side of this better than the officials do. If Bren leaves, the nearest practitioner with her range is days away in good weather, farther in rain. People who live in those hills measure policy in travel time. Bren does too.
 
-*See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Covenant of Measure]], [[Greyveil]], [[Flux Users]], [[Control Tier]], [[Auralis]], [[Ascendant Path]]*
+_See also: [[Terravelle]], [[Life in Rural Terravelle]], [[Covenant of Measure]], [[Greyveil]], [[Flux Users]], [[Control Tier]], [[Auralis]], [[Ascendant Path]]_

@@ -26,4 +26,4 @@ The most complicated grimoire inheritances involve practitioners who held origin
 
 [[Rell Hadv]]'s certification notes represent the kind of record that creates this problem: a working practitioner's documentation of a lifetime of guild work, held in informal form. The institutional interest in acquiring such records is real. So is the difficulty in valuing them fairly without deep expertise.
 
-*See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Licensing]], [[Rare Grimoire]], [[Trade Guilds]], [[Rell Hadv]], [[Control Tier]], [[Watts]]*
+_See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Licensing]], [[Rare Grimoire]], [[Trade Guilds]], [[Rell Hadv]], [[Control Tier]], [[Watts]]_

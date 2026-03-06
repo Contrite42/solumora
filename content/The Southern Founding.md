@@ -27,10 +27,11 @@ Where Terravelle's founding memory prizes system reliability, Auralis's founding
 ## Long-Term Legacy
 
 The Southern Founding left Auralis with:
+
 - A centralized governance culture deeply interlocked with Path institutions.
 - A durable narrative that advancement through Flux is both practical and moral.
 - Strong incentives for high-tier talent capture and controlled knowledge circulation.
 
 Those founding choices explain much of the later divergence between kingdoms during the [[The Isolation Period]] and the friction that followed [[The First Contact]].
 
-*See also: [[History]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[The Cultural Divergence]], [[The Isolation Period]], [[The First Contact]], [[Equatorial Desert]]*
+_See also: [[History]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[The Cultural Divergence]], [[The Isolation Period]], [[The First Contact]], [[Equatorial Desert]]_

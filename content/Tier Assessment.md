@@ -36,4 +36,4 @@ A T0 result has its own characteristic texture, quieter and more lasting: the fe
 
 Most people — the T1s and T2s who make up the bulk of any community — experience the assessment as a transition into a defined track, a confirmation of what was probably expected, a fact that settles into the background of a life. For most people, this is exactly what it is.
 
-*See also: [[Control Tier]], [[Flux Users]], [[Ascendant Path]], [[Covenant of Measure]], [[Birth Runes]], [[Trade Guilds]], [[Wolfpoint]], [[Solen Carr]], [[Bren Ossve]], [[Prenn Aldv]], [[Osvin Brack]], [[Tev Ols]], [[Rell Hadv]], [[Derin Olt]], [[Vend Aln]], [[Lenna Cors]]*
+_See also: [[Control Tier]], [[Flux Users]], [[Ascendant Path]], [[Covenant of Measure]], [[Birth Runes]], [[Trade Guilds]], [[Wolfpoint]], [[Solen Carr]], [[Bren Ossve]], [[Prenn Aldv]], [[Osvin Brack]], [[Tev Ols]], [[Rell Hadv]], [[Derin Olt]], [[Vend Aln]], [[Lenna Cors]]_

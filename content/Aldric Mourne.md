@@ -18,4 +18,4 @@ Both recommendations were declined. Aldric has filed this outcome, adjusted his 
 
 He does not find this troubling in the way that people outside his profession find it troubling. He has seen what happens when good soldiers die in bad operations, and he has made his peace with the gap between what a logistics officer can control and what falls outside it. What he does find difficult — not troubling, difficult — is the documentation discrepancy: the expeditions that are not acknowledged as lost officially. He maintains a private record. He has not decided what to do with it.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Halveth]], [[Emberfall]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Halveth]], [[Emberfall]]_

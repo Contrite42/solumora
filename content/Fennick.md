@@ -28,4 +28,4 @@ Fennick follows interesting things. Currently the most interesting things are in
 
 He has not noticed that [[Selvane]] and [[Mave]] are both embedded there, or rather he has noticed the Flux signatures and has not yet placed them. When he does it will complicate his next visit considerably.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Sorath]], [[Selvane]], [[Mave]], [[Wren]], [[Auralis]], [[Hedun]], [[Solhaven]], [[Equatorial Fauna]], [[Lorn Seld]]*
+_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Sorath]], [[Selvane]], [[Mave]], [[Wren]], [[Auralis]], [[Hedun]], [[Solhaven]], [[Equatorial Fauna]], [[Lorn Seld]]_

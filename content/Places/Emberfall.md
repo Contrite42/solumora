@@ -42,4 +42,4 @@ Emberfall is closer to a breakthrough than it has ever been. The latest round of
 
 The immortality sigil is no longer a theoretical possibility. It is an engineering problem with a visible solution. Whether that solution arrives in time is the question that structures every decision Castor makes.
 
-*See also: [[Castor Helme]], [[Drest]], [[The Council of Auralis]], [[Ancient Ruins]], [[Yara Venn]], [[Soul]], [[Sigils]], [[Auralis]], [[Solhaven]], [[Equatorial Desert]], [[Control Tier]], [[Flux Users]]*
+_See also: [[Castor Helme]], [[Drest]], [[The Council of Auralis]], [[Ancient Ruins]], [[Yara Venn]], [[Soul]], [[Sigils]], [[Auralis]], [[Solhaven]], [[Equatorial Desert]], [[Control Tier]], [[Flux Users]]_

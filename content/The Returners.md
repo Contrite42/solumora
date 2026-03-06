@@ -24,4 +24,4 @@ The Returners regard the Corps's presence at ruins sites with something between 
 
 For most people who identify with the Returners in any loose sense, the practice is much lighter than the committed communities near ruins sites. It is an interpretive frame for the ruins — a way of thinking about them that makes them feel less like evidence of catastrophic failure and more like evidence of something else. In communities that live near ruins and have for generations, the Returner tradition is the way people have made peace with what surrounds them.
 
-*See also: [[Ancient Ruins]], [[Equatorial Desert]], [[Religions]], [[The Culmination Faction]], [[The Advancement Corps]], [[Halveth]], [[Emberfall]], [[Flux]], [[Aldric Mourne]]*
+_See also: [[Ancient Ruins]], [[Equatorial Desert]], [[Religions]], [[The Culmination Faction]], [[The Advancement Corps]], [[Halveth]], [[Emberfall]], [[Flux]], [[Aldric Mourne]]_

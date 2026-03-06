@@ -9,6 +9,7 @@ Cutting happens in winter when the ground is frozen and timber can be sledded to
 ## The Products
 
 Breck Tor produces three categories of output:
+
 - **Structural timber**: milled planks and beams for construction, shipped to Valdenmoor and northern port towns
 - **Resin products**: pine resin collected year-round, processed into waterproofing compounds and adhesives
 - **Specialty wood**: tight-grain pine for furniture and instrument-making, sold to niche buyers at premium prices
@@ -41,4 +42,4 @@ Social cohesion in Breck Tor is not enforced — it is structural. The forest ma
 
 Karn Ossel understands this better than anyone. He has managed forest operations for nineteen years, following his mother who managed them for thirty-two before him. The maps he maintains do not just show current timber stands — they show the decisions his family made fifty years ago that are producing revenue today, and the decisions he makes now that will produce revenue for his children.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Maren River]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], Karn Ossel, Dren Moss*
+_See also: [[Terravelle]], [[Valdenmoor]], [[Maren River]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], Karn Ossel, Dren Moss_

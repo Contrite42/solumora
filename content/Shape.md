@@ -1,4 +1,4 @@
-A spell’s **[[Shape]]** is the outer geometry of its sigil. Shape does *not* describe the spell’s effect directly—Shape describes **how many variables the sigil explicitly controls**. The more sides, the more control points exist for encoding variables. Fewer sides means faster, safer, and easier-to-copy spellwriting, but with more attributes falling back to defaults.
+A spell’s **[[Shape]]** is the outer geometry of its sigil. Shape does _not_ describe the spell’s effect directly—Shape describes **how many variables the sigil explicitly controls**. The more sides, the more control points exist for encoding variables. Fewer sides means faster, safer, and easier-to-copy spellwriting, but with more attributes falling back to defaults.
 
 Shape is paired with the center core: [[Hook]], [[Mode]], and [[Control Tier]].
 
@@ -21,11 +21,11 @@ Shape is paired with the center core: [[Hook]], [[Mode]], and [[Control Tier]].
 
 When a shape does not include a variable, it resolves to the standard defaults:
 
-- [[Discipline]] → Raw  
-- [[Output Mode]] → Raw  
-- [[Geometry Pattern]] → Plane  
-- [[Reach]] → Self  
-- [[Persistence]] → Immediate  
+- [[Discipline]] → Raw
+- [[Output Mode]] → Raw
+- [[Geometry Pattern]] → Plane
+- [[Reach]] → Self
+- [[Persistence]] → Immediate
 - [[Target Spec]] → Where Written
 
 ## Why cultures refine shapes over time
@@ -34,7 +34,7 @@ The oldest versions of a spell are often recorded as a **[[Circle]]** because it
 
 ## Practical notes
 
-- Larger shapes are more flexible and configurable.  
-- Smaller shapes are easier to reproduce and harder to misuse.  
-- A spell can be high [[Control Tier]] at any shape; Shape controls *how many knobs exist*, Tier controls *how hard the spell is to hold safely*.
-*See also: [[Circle]], [[Spell Variables]], [[Control Tier]], [[Sigils]], [[Grimoires]]*
+- Larger shapes are more flexible and configurable.
+- Smaller shapes are easier to reproduce and harder to misuse.
+- A spell can be high [[Control Tier]] at any shape; Shape controls _how many knobs exist_, Tier controls _how hard the spell is to hold safely_.
+  _See also: [[Circle]], [[Spell Variables]], [[Control Tier]], [[Sigils]], [[Grimoires]]_

@@ -80,4 +80,4 @@ The pattern described above manifests differently across Terravelle's rural sett
 
 Each settlement shows Terravellian pragmatism adapted to specific constraints. Each has developed its own balance between self-sufficiency and market integration. Each contains people who know exactly what their land can produce and what it cannot, and who have built lives within those limits.
 
-*See also: [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Covenant of Measure]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Valdenmoor]], [[Geography]], [[Bren Ossve]], [[Reth Caln]], [[Solen Carr]], [[Teva Orrn]], [[Keld Basin]], [[Stenn Ridge]], [[Veln Hold]], [[Breck Tor]], [[Maren Valley]]*
+_See also: [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Covenant of Measure]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Valdenmoor]], [[Geography]], [[Bren Ossve]], [[Reth Caln]], [[Solen Carr]], [[Teva Orrn]], [[Keld Basin]], [[Stenn Ridge]], [[Veln Hold]], [[Breck Tor]], [[Maren Valley]]_

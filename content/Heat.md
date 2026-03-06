@@ -4,4 +4,4 @@ Most common-tier heat work is defensive or logistical rather than offensive, inc
 
 Heat applications are among the most common route-support tools in desert and maritime operations.
 
-*See also: [[Discipline]], [[Flux]], [[Thermal Sigils]], [[Heatshield]], [[Equatorial Desert]], [[Spell Variables]]*
+_See also: [[Discipline]], [[Flux]], [[Thermal Sigils]], [[Heatshield]], [[Equatorial Desert]], [[Spell Variables]]_

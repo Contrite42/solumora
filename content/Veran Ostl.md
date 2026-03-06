@@ -16,4 +16,4 @@ The mechanism by which [[Drest]] keeps the math favorable for Veran is not a sin
 
 Veran has thought about this arrangement from multiple angles and has not identified a clean exit that improves his position. He has therefore not looked for one with much urgency.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Watts]], [[Birth Runes]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Watts]], [[Birth Runes]]_

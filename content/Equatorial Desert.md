@@ -51,6 +51,7 @@ During expedition season, Halveth transforms into a logistics operation. [[Aural
 The specific weight of leaving Halveth is something that expedition leaders learn to manage but never fully get used to. The statistics are not encouraging â€” roughly one crossing in three does not return, and the ones that do return often come back changed in ways that are not improvements. This is not superstition. This is arithmetic. Expedition leaders do pre-departure inventory checks not because the ritual provides comfort, but because discovering that you are missing critical supplies after you have left the last place to acquire them is a mistake that kills people. People settle accounts, update their wills, and have conversations they have been putting off. These rituals are not about fear. They are about the practical reality that crossing the desert is the kind of thing you prepare for as if you might not come back, because you might not come back.
 
 The edge has a particular quality that experienced guides learn to recognize. The heat becomes something you can measure on your skin rather than read about. The wind starts before Halveth fully disappears behind you â€” not the gentle air movement of settled areas, but the constant, abrasive flow that will be with you for the entire crossing. The horizon changes. The familiar landmarks of the settlement's surroundings give way to the featureless distances that make navigation a technical skill rather than a matter of following roads. Experienced guides say the desert announces itself. What they mean is that there is a point, usually within the first few hours south of Halveth, where the environment stops feeling like an extension of the settled world and starts feeling like something that operates by different rules entirely.
+
 ## Border Settlement Network
 
 Beyond [[Halveth]], a network of smaller specialized settlements operates along the desert boundary, each serving distinct functions in the crossing economy and broader desert intelligence infrastructure.
@@ -68,6 +69,7 @@ This distributed structure — specialized settlements connected through volunta
 The system works because each settlement focuses on what it does well, shares intelligence freely with other settlements performing complementary functions, and maintains collective standards through reputation rather than regulation. A guide expelled from [[Thel Reach]]'s coordination network through poor performance cannot easily find work at [[Seln Watch]] — not because of formal blacklisting, but because the settlements communicate and reputation propagates.
 
 The network's effectiveness creates an interesting asymmetry: individual travelers preparing for crossings often believe they are working with independent settlement services, while the settlements themselves operate as nodes in a broader coordination infrastructure. This invisibility is partly intentional. Formalized institutional recognition would subject the network to kingdom oversight, jurisdictional disputes, and administrative overhead that would reduce rather than enhance operational effectiveness.
+
 ## Rift Encounters
 
 When something comes through a rift near a crossing party, the experience is not dramatic in the way that official literature suggests. It is disorienting in ways that are harder to prepare for. A rift forming has a quality to the air â€” not visible, not audible, but present in a way that the desert's fauna register before humans do. The insects pull back. The arachnids go still. Experienced crossers learn to read this, not because they can prevent what comes next, but because thirty seconds of warning is better than no warning at all.
@@ -88,7 +90,7 @@ The desert sustains a significant economic layer built around those who want to 
 
 **Entry Points:** The [[The Northern Narrows|Northern Narrows]] are the primary departure corridors from northern staging points, with route selection maintained by current Cooperative intelligence. The [[The Southern Approaches|Southern Approaches]] now refers to downstream interior lanes used after Narrows departure, not a standalone departure interface.
 
-*See also: [[Ancient Ruins]], [[Equatorial Fauna]], [[Flux Demons]], [[Rift Incursions]], [[Halveth]], [[Thel Reach]], [[Dren Outpost]], [[Seln Watch]], [[Korst Station]], [[Cross-Border Guide Network]], [[Desert Watch]], [[Rett Soln]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[Avel Coss]], [[Ossen Drel]], [[Celn Vard]], [[High Demons]], [[Ascendant Path]], [[Halveth Cooperative]], [[Relay Compact]], [[Terravelle Desert Trade Office]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[The Northern Narrows]]*
+_See also: [[Ancient Ruins]], [[Equatorial Fauna]], [[Flux Demons]], [[Rift Incursions]], [[Halveth]], [[Thel Reach]], [[Dren Outpost]], [[Seln Watch]], [[Korst Station]], [[Cross-Border Guide Network]], [[Desert Watch]], [[Rett Soln]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[Avel Coss]], [[Ossen Drel]], [[Celn Vard]], [[High Demons]], [[Ascendant Path]], [[Halveth Cooperative]], [[Relay Compact]], [[Terravelle Desert Trade Office]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[The Northern Narrows]]_
 
 ## Flux Access Floor (Addendum)
 
@@ -96,7 +98,7 @@ Crossing plans assume at least one caster can open and hold a working channel in
 
 This is why crossing methods are staffed by capability coverage, not headcount. T0 and T1 travelers can still contribute to transport and camp routines, but crossing-critical response roles are assigned to higher-tier casters in every sanctioned method.
 
-*See also: [[Control Tier]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]], [[Express Route Crossing]], [[The Northern Narrows]], [[Halveth]]*
+_See also: [[Control Tier]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]], [[Express Route Crossing]], [[The Northern Narrows]], [[Halveth]]_
 
 ## Peripheral Logistics Zone: The Bone Sea
 
@@ -104,7 +106,7 @@ Near the Halveth-side frontier, crews use [[The Bone Sea]] as a controlled stagi
 
 Its fractured salt surface behaves differently from dune lanes and can fail under load shifts, so parties treat it as specialized logistics terrain. Work there is usually tied to [[Relay-Stage Crossing]] support, depot coordination in [[Halveth]], and salvage/survey near exposed debris fields.
 
-*See also: [[The Bone Sea]], [[Halveth]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Zakros Rim Caravan Loop]]*
+_See also: [[The Bone Sea]], [[Halveth]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Zakros Rim Caravan Loop]]_
 
 ## People in Motion
 
@@ -112,5 +114,4 @@ Desert crossing is less about heroic capability than about role coverage across 
 
 These links form the human infrastructure of Zakros movement: guide, supplier, survivor, local observer, and gatekeeper. When one role fails, crossing risk rises faster than equipment quality can compensate.
 
-*See also: [[People]], [[Avel Coss]], [[Selt Orvn]], [[Vorn Teld]], [[Celn Vard]], [[Wren]], [[Halveth]], [[The Northern Narrows]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]]*
-
+_See also: [[People]], [[Avel Coss]], [[Selt Orvn]], [[Vorn Teld]], [[Celn Vard]], [[Wren]], [[Halveth]], [[The Northern Narrows]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]]_

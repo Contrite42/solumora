@@ -8,4 +8,4 @@ The warehouse has accommodated her reduced capacity within the work's requiremen
 
 What she has lost is not the ability to do her job. It is the clean relationship between intention and result. She had never noticed having it until it was disrupted.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Flux Medicine]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]*
+_See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Terravelle]], [[Flux Medicine]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]_

@@ -22,4 +22,4 @@ Wolfpoint does not export the foundational documentation that [[Sera Voss]] is c
 
 Wolfpoint also does not export the results of its ruins-site research — the findings from expeditions that the Voss family and associated researchers have made into ruin sites north of the settled belt, findings that have led Sera Voss to conclusions about the relationship between [[Watts]], [[Hypertext]], and the ancient civilization that are not yet known outside a very small group. This information has not been offered to either kingdom, and neither kingdom knows how much of it exists.
 
-*See also: [[Wolfpoint]], [[Hypertext]], [[The Wolfpoint Scholarium]], [[Sera Voss]], [[Mira Solv]], [[Outer Coast Packet Line]], [[Watts]], [[Terravelle]], [[Auralis]]*
+_See also: [[Wolfpoint]], [[Hypertext]], [[The Wolfpoint Scholarium]], [[Sera Voss]], [[Mira Solv]], [[Outer Coast Packet Line]], [[Watts]], [[Terravelle]], [[Auralis]]_

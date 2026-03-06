@@ -6,4 +6,4 @@ He thinks about this answer more than he thought he would when he agreed to the 
 
 He is good at finding information without appearing to look for it. He has always been good at this. He is less clear on whether this is a skill he developed or something that was developed by the situation he is in.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Auralis]]_

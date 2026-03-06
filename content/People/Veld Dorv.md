@@ -32,4 +32,4 @@ Her relationships with the researchers she monitors are necessarily complex. [[T
 
 Veld has developed genuine respect for the quality of work being done in Emberfall, which makes her growing awareness of information suppression more troubling rather than less. The researchers she monitors are competent, dedicated, and producing findings that advance understanding of the ancient civilization. That some of their most significant discoveries are being quietly removed from the official record suggests purposes she was not told about when she accepted her posting.
 
-*See also: [[The Advancement Corps]], [[Emberfall]], [[Ancient Ruins]], [[Auralis]], [[Control Tier]], [[The Council of Auralis]], [[Tessel Dran]], [[Aldric Mourne]], [[The Culmination Faction]], [[Flux]], [[Equatorial Desert]]*
+_See also: [[The Advancement Corps]], [[Emberfall]], [[Ancient Ruins]], [[Auralis]], [[Control Tier]], [[The Council of Auralis]], [[Tessel Dran]], [[Aldric Mourne]], [[The Culmination Faction]], [[Flux]], [[Equatorial Desert]]_

@@ -6,4 +6,4 @@ Understanding these dynamics requires attention to what changes over time rather
 
 Council dynamics are shaped by individual relationships, factional objectives, and external pressures that members experience but may not discuss openly during formal proceedings.
 
-*See also: [[The Council of Auralis]], [[Political Dynamics]], [[Expansion Faction]], [[Auralis]]*
+_See also: [[The Council of Auralis]], [[Political Dynamics]], [[Expansion Faction]], [[Auralis]]_

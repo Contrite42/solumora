@@ -50,4 +50,4 @@ He wants to live forever. Everything else — the Expansion Faction, the strateg
 
 This makes him a specific kind of dangerous: not malicious from cruelty, but ruthless from absolute clarity of priority. The immortality sigil is not one goal among many. It is the only goal. Everything else is merely the path to walking along.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Cassia]], [[Auralis]], [[Terravelle]], [[Drest]], [[Davan Rhyce]], [[Yara Venn]], [[Maren Sollis]], [[Tovan Ashce]], [[Emberfall]], [[Ancient Ruins]], [[Equatorial Desert]], [[Watts]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Cassia]], [[Auralis]], [[Terravelle]], [[Drest]], [[Davan Rhyce]], [[Yara Venn]], [[Maren Sollis]], [[Tovan Ashce]], [[Emberfall]], [[Ancient Ruins]], [[Equatorial Desert]], [[Watts]]_

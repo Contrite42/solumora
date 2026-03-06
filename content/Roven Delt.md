@@ -8,4 +8,4 @@ The tension between [[Terravelle]] and [[Auralis]] that he hears about in tradin
 
 He does not think his settlement is about to be absorbed or contested. He thinks his settlement is about to become relevant to people who have not previously found it relevant, which in his experience is the version of this situation that requires the most careful attention.
 
-*See also: [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[The Advancement Corps]], [[Halveth]], [[Ordinary Life]]*
+_See also: [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[The Advancement Corps]], [[Halveth]], [[Ordinary Life]]_

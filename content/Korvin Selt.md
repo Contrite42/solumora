@@ -8,4 +8,4 @@ He is aware that the [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Lin
 
 Korvin expects to do dock work for another fifteen to twenty years, retire with modest savings, and spend his later years in the quieter quarters further up the terrace, possibly in a partnership with someone else also aging out of working life. This is a realistic plan and not dependent on luck or advancement.
 
-*See also: [[Solhaven]], [[Harbor District]], [[Auralis]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Hedun-Solhaven Coastal Run]]*
+_See also: [[Solhaven]], [[Harbor District]], [[Auralis]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Hedun-Solhaven Coastal Run]]_

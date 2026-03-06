@@ -38,4 +38,4 @@ There is a section of the inland road between Greyveil and the first river cross
 
 I have driven this section in every season for fifteen years. The section will be the same after I have stopped running this route, which I will at some point, and I find this satisfying rather than otherwise.
 
-*See also: [[Sable Morn]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Terravelle]]*
+_See also: [[Sable Morn]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Terravelle]]_

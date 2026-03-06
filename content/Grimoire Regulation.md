@@ -30,4 +30,4 @@ Both kingdoms maintain informal restrictions on certain spell disciplines — pr
 
 The restrictions are not absolute. They make production and sale of restricted-discipline texts commercially unavailable through official channels, which redirects that demand to the informal market rather than eliminating it.
 
-*See also: [[Grimoires]], [[Trade Guilds]], [[The Council of Auralis]], [[Common Grimoire Market]], [[Black Market Grimoires]], [[Grimoire Licensing]], [[Rare Grimoire]], [[Terravelle]], [[Auralis]]*
+_See also: [[Grimoires]], [[Trade Guilds]], [[The Council of Auralis]], [[Common Grimoire Market]], [[Black Market Grimoires]], [[Grimoire Licensing]], [[Rare Grimoire]], [[Terravelle]], [[Auralis]]_

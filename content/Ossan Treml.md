@@ -22,4 +22,4 @@ Ossan is a careful listener and a slow speaker. He has the particular social qua
 
 He has no strong theological relationship with the Path, despite his Path certification. The Path's medical track is a competence credential in Solhaven; it certifies his ability rather than his beliefs, and the beliefs were never particularly strong. He attends the ceremonies that his Crestward patient relationships require and has nothing specific against Path theology. It simply does not touch him.
 
-*See also: [[Crestward District]], [[Solhaven]], [[Flux Medicine]], [[Ascendant Path]], [[Control Tier]], [[Life in Solhaven]], [[Cassia]], [[The Council of Auralis]]*
+_See also: [[Crestward District]], [[Solhaven]], [[Flux Medicine]], [[Ascendant Path]], [[Control Tier]], [[Life in Solhaven]], [[Cassia]], [[The Council of Auralis]]_

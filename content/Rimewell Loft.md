@@ -6,10 +6,10 @@ Unlike underground sites such as [[Narrowglass Cellar]], Rimewell relied on conc
 
 The loft includes:
 
-- A narrow crawl entrance hidden behind removable slat wall panels  
-- One primary chamber with sleeping space for 6-8 people  
-- Two small cache niches for papers, tools, and low-weight food stores  
-- A venting shaft disguised as broken mill ductwork  
+- A narrow crawl entrance hidden behind removable slat wall panels
+- One primary chamber with sleeping space for 6-8 people
+- Two small cache niches for papers, tools, and low-weight food stores
+- A venting shaft disguised as broken mill ductwork
 - A rope-ladder drop system allowing immediate exit through a rear eave
 
 The site was designed for fast turnover. Occupants likely stayed 2-5 nights before moving. Material traces suggest repeated use over years rather than continuous occupancy.
@@ -18,9 +18,9 @@ The site was designed for fast turnover. Occupants likely stayed 2-5 nights befo
 
 Rimewell was identified when structural repair crews documented unusual load patterns in upper framing and found sealed cache remnants during stabilization work. Recovered materials included:
 
-- Folded transit maps with alternate path marks avoiding known checkpoint settlements  
-- Household debt notes with names crossed and rewritten, likely to obscure identity trails  
-- A damaged children’s primer with margin instructions on silent movement and night departure timing  
+- Folded transit maps with alternate path marks avoiding known checkpoint settlements
+- Household debt notes with names crossed and rewritten, likely to obscure identity trails
+- A damaged children’s primer with margin instructions on silent movement and night departure timing
 - Two compact ritual cards linked to everyday protective practice, now cataloged in local religious records
 
 The documents do not explicitly say "persecution," but date ranges, route choices, and caution annotations align with known late-period panic zones in [[Terravelle]] interior communities.
@@ -29,8 +29,8 @@ The documents do not explicitly say "persecution," but date ranges, route choice
 
 Rimewell appears to have served three overlapping functions:
 
-- Temporary shelter for families displaced by accusations tied to presumed capacity  
-- Transfer point for identity and debt papers needed to re-establish household standing elsewhere  
+- Temporary shelter for families displaced by accusations tied to presumed capacity
+- Transfer point for identity and debt papers needed to re-establish household standing elsewhere
 - Quiet handoff location where local contacts could pass route updates without public assembly
 
 This makes the loft a bridge site between domestic life and mobility infrastructure. It was not only a place to hide; it was a place to reassemble paperwork and practical options before moving again.
@@ -53,4 +53,4 @@ Rimewell Loft cannot identify all who passed through it. Names are partial, some
 
 Still, it confirms that displaced households managed movement through ordinary-looking structures embedded in working economies. They did not disappear into wilderness myths. They moved through mills, roads, ledgers, and quiet rooms between one fearful crowd and the next.
 
-*See also: [[The Persecution Era]], [[Narrowglass Cellar]], [[Drest]], [[Terravelle]], [[History]], [[Religions]], [[Maren Valley]]*
+_See also: [[The Persecution Era]], [[Narrowglass Cellar]], [[Drest]], [[Terravelle]], [[History]], [[Religions]], [[Maren Valley]]_

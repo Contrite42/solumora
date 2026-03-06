@@ -6,4 +6,4 @@ Flux is abundant. Its use is defined entirely by the person wielding it.
 
 Those who work with Flux are organized into a broad hierarchy detailed on the [[Flux Users]] page, ranging from [[Flux Users|Scribes]] who copy and distribute [[Grimoires]] to [[Flux Users|Conduits]] who operate beyond what the kingdom classification systems can meaningfully measure.
 
-*See also: [[Control Tier]], [[Sigils]], [[Spell Variables]], [[Flux Users]], [[Spells]]*
+_See also: [[Control Tier]], [[Sigils]], [[Spell Variables]], [[Flux Users]], [[Spells]]_

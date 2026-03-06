@@ -8,4 +8,4 @@ The watching has shaped his professional style more than he would prefer. He pre
 
 His T2 casting is used entirely for transaction verification and ledger work — the standard commercial application. He is good at it in the specific way of someone who has done it daily for fifteen years, and finds it neither interesting nor unpleasant.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Auralis]]_

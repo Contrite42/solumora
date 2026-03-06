@@ -8,4 +8,4 @@ He is good at farming. The holding produces reliably. His neighbors ask his advi
 
 His daughter assessed T4 at eleven and left for Solhaven at sixteen. They write twice a year. He is proud of her and finds this uncomplicated.
 
-*See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Ordinary Life in Auralis]], [[Control Tier]]*
+_See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Ordinary Life in Auralis]], [[Control Tier]]_

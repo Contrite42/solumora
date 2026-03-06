@@ -18,4 +18,4 @@ What he has found: several significant port towns whose primary trade relationsh
 
 He has discussed none of this with Castor. He has discussed the general direction with [[Brennan Solce]], who knows the border geography better than anyone, and has noted that Brennan's reaction was careful rather than dismissive.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Terravelle]], [[Castor Helme]], [[Brennan Solce]], [[Orla Fest]], [[Ashford]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Terravelle]], [[Castor Helme]], [[Brennan Solce]], [[Orla Fest]], [[Ashford]]_

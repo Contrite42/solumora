@@ -30,4 +30,4 @@ The exception is the core crew: equipment specialists, transport coordinators, a
 
 Toren Marsk is one of them. He has spent eleven winters at Stenn Ridge. He knows which sections of the work face are stable, which are marginal, and which should not be cut without additional support. When miners return each spring, they rely on his judgment to resume work safely.
 
-*See also: [[Terravelle]], [[Greyveil]], [[Life in Rural Terravelle]], [[Control Tier]], [[Flux]], Toren Marsk, Kess Aldren*
+_See also: [[Terravelle]], [[Greyveil]], [[Life in Rural Terravelle]], [[Control Tier]], [[Flux]], Toren Marsk, Kess Aldren_

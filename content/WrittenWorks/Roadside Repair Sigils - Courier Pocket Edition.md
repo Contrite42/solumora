@@ -22,6 +22,7 @@ Keep wrapped. Dust eats corners first.
 Use: Stop container leaks long enough to finish route segment.
 
 Field rule:
+
 - Seal only after wiping surface grit.
 - Recheck every two hours in heat.
 
@@ -33,6 +34,7 @@ Margin note:
 Use: Camp perimeter warning during short rest halts.
 
 Field rule:
+
 - Keep line low and visible to your own crew.
 - Pair with watch rotation, not as substitute.
 
@@ -44,6 +46,7 @@ Margin note:
 Use: Detect movement or impact on locked cargo compartments.
 
 Field rule:
+
 - Tune to wagon frame, not crate lid.
 - Avoid over-sensitivity in heavy wind.
 
@@ -55,6 +58,7 @@ Margin note:
 Use: Controlled push to reset stuck wheel hubs and jammed gate bars.
 
 Field rule:
+
 - Never use toward people.
 - Brace footing before activation.
 
@@ -66,6 +70,7 @@ Margin note:
 Use: Brief barrier against thrown debris during route emergencies.
 
 Field rule:
+
 - Duration is short; use for movement, not standstill defense.
 - Coordinate before cast.
 
@@ -78,4 +83,4 @@ Margin note:
 
 A repaired axle reaches town. A perfect plan that never moves does not. Cast clean, move fast, file your incidents.
 
-*See also: [[Common Grimoire]], [[Grimoires]], [[Ashford]], [[Ashford-Halveth Courier Road]], [[Guild Scrivener Network]], [[Watts]]*
+_See also: [[Common Grimoire]], [[Grimoires]], [[Ashford]], [[Ashford-Halveth Courier Road]], [[Guild Scrivener Network]], [[Watts]]_

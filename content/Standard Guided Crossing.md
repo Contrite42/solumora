@@ -5,6 +5,7 @@ The standard guided crossing is the dominant method for traversing [[Equatorial 
 A standard guided crossing runs 14 to 21 days depending on route, season, and party composition. The variance is real: a lean party with an experienced guide in optimal weather is different from a larger group with mixed Flux capability navigating an early rift season. Expedition leaders who plan for 14 days and do not build in buffer are statistically over-represented in the incident record.
 
 Minimum viable party composition:
+
 - One [[Halveth Cooperative]]-vetted guide (T3 minimum; T4 preferred for any crossing involving ruins proximity)
 - Two casters with thermal discipline coverage (the guide typically provides one coverage set; parties should not assume the guide absorbs all thermal load)
 - One caster with navigation capability — not map-reading, but the ability to dead-reckon in featureless terrain under wind conditions and maintain a corrected heading when landmarks disappear
@@ -14,6 +15,7 @@ Party size above six introduces coordination costs that reduce speed without imp
 ## Grimoire Requirements
 
 The standard grimoire kit for a guided crossing covers:
+
 - **Thermal regulation**: heat band survival during day transit; cold protection for the temperature collapse at night. Both are required. Neither can be deprioritized in favor of the other.
 - **Air filtration**: particulate protection for lungs and sigil surfaces in constant wind. Without this, grimoire pages degrade within hours of open exposure.
 - **Navigation aids**: heading-hold and landmark-substitute sigils for low-visibility traversal.
@@ -31,6 +33,7 @@ Guide-led parties that follow the guide's instructions closely have substantiall
 ## Seasonal Timing
 
 Optimal crossing windows:
+
 - **Mid-autumn**: after the peak heat season, before the worst winter winds. Preferred by most Auralis expeditions.
 - **Early spring**: temperature margins are adequate; rift activity near ruins sites tends to be lower than late-season.
 
@@ -42,7 +45,7 @@ Crossings during midsummer are not recommended. They happen anyway, for cargo th
 
 The practical implication: party composition reviews by [[Halveth Cooperative]] guides assess total Flux coverage capacity against total party size. A five-person party with two T0 or T1 members and three T3 casters needs the three casters to cover five people's protection load, not three. Guides who conduct accurate assessments before departure account for this explicitly. Expedition leaders who assume low-tier members can handle some portion of their own desert protection needs are reliably wrong.
 
-*See also: [[Equatorial Desert]], [[Halveth Cooperative]], [[Halveth]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[Grimoires]], [[Avel Coss]], [[Selt Orvn]], [[The Northern Narrows]], [[Control Tier]]*
+_See also: [[Equatorial Desert]], [[Halveth Cooperative]], [[Halveth]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[Grimoires]], [[Avel Coss]], [[Selt Orvn]], [[The Northern Narrows]], [[Control Tier]]_
 
 ## Access Floor Constraint (Addendum)
 
@@ -50,4 +53,4 @@ At the Zakros entry zone, [[Control Tier|Tier 0]] and [[Control Tier|Tier 1]] ca
 
 The practical planning rule is unchanged but now explicit: crossing-critical casts are assigned to T2+ practitioners, with T3+ guide coverage preferred for route control under stress.
 
-*See also: [[Control Tier]], [[Equatorial Desert]], [[Halveth Cooperative]], [[The Northern Narrows]]*
+_See also: [[Control Tier]], [[Equatorial Desert]], [[Halveth Cooperative]], [[The Northern Narrows]]_

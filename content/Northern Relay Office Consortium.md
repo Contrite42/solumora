@@ -24,4 +24,4 @@ The Consortium competes with private brokers selling unlogged speed and treats s
 
 It trades in information custody, continuity, and proof that a message was actually sent.
 
-*See also: [[Greyveil]], [[Wolfpoint]], [[Greyveil-Wolfpoint Relay Track]], [[Outer Coast Packet Line]], [[Hypertext]], [[Terravelle]], [[Ashford]]*
+_See also: [[Greyveil]], [[Wolfpoint]], [[Greyveil-Wolfpoint Relay Track]], [[Outer Coast Packet Line]], [[Hypertext]], [[Terravelle]], [[Ashford]]_

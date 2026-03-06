@@ -22,4 +22,4 @@ Keln is comfortable with ambiguity and patient with timelines that most administ
 
 He likes Wolfpoint. He respects what the Voss family has built — the functional settlement, the genuine knowledge, the careful management of an independence that most larger powers would not have left undisturbed this long. This affection does not interfere with his work, because his work is to keep the relationship in balance rather than to advance any particular outcome. But it means he is not entirely neutral, and he knows it.
 
-*See also: [[Wolfpoint]], [[Terravelle]], [[The Wolfpoint Question]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Greyveil]], [[Outer Coast Packet Line]], [[Eddan Voss]], [[Hypertext]]*
+_See also: [[Wolfpoint]], [[Terravelle]], [[The Wolfpoint Question]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Greyveil]], [[Outer Coast Packet Line]], [[Eddan Voss]], [[Hypertext]]_

@@ -62,4 +62,4 @@ The party walked back toward [[Halveth]] in silence, and the fort settled again 
 
 ---
 
-*See also: [[Flux]], [[Binding]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Watts]], [[Halveth]]*
+_See also: [[Flux]], [[Binding]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Watts]], [[Halveth]]_

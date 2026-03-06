@@ -1,17 +1,17 @@
 A keyed [[Flux]] reservoir inscribed onto a physical object — slowly charges from ambient [[Flux]] over time, can only be drawn from by the paired [[Target Spec|Marked]] caster, and burns out entirely when depleted.
 
-| Variable | Value |
-|---|---|
-| Shape | Square |
-| Hook | Bind |
-| Mode | Create |
-| Control Tier | T2 |
-| Discipline | Binding |
-| Output | Constraint |
-| Pattern | *(default — Plane)* |
-| Reach | *(default — Self)* |
-| Persistence | Latched |
-| Target | Marked |
+| Variable     | Value               |
+| ------------ | ------------------- |
+| Shape        | Square              |
+| Hook         | Bind                |
+| Mode         | Create              |
+| Control Tier | T2                  |
+| Discipline   | Binding             |
+| Output       | Constraint          |
+| Pattern      | _(default — Plane)_ |
+| Reach        | _(default — Self)_  |
+| Persistence  | Latched             |
+| Target       | Marked              |
 
 **Rarity:** Common
 **Grimoire:** [[Common Grimoire]]

@@ -40,4 +40,4 @@ The greatest challenge is not environmental or economic — it is social. The ru
 
 Solen is aware that he may be the last generation of Carrs to work this forest. His sons have options he never had — [[Terravelle]]'s economy has grown enough to support urban careers that did not exist when he was their age. The choice they face is not just between forest and city, but between a way of life that has sustained their family for three generations and a future that offers different possibilities at the cost of everything their family has built.
 
-*See also: [[Life in Rural Terravelle]], [[Terravelle]], [[Birth Runes]], [[Covenant of Measure]], [[Valdenmoor]], [[Flux Users]], [[Sigils]], [[Bren Ossve]], [[Reth Caln]], [[Teva Orrn]]*
+_See also: [[Life in Rural Terravelle]], [[Terravelle]], [[Birth Runes]], [[Covenant of Measure]], [[Valdenmoor]], [[Flux Users]], [[Sigils]], [[Bren Ossve]], [[Reth Caln]], [[Teva Orrn]]_

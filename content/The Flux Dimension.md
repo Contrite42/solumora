@@ -32,4 +32,4 @@ The [[Ancient Ruins|anomalous ruin sites]] in the desert represent the thinnest 
 
 The boundary can apparently be made thinner by sustained high-Flux activity, which is the most likely explanation for the increasing rift frequency near sites of active expedition work. Whether it can be made permanently thinner — or opened deliberately — is not known. It is the kind of question that [[Drest]]'s faction would find very interesting if anyone thought to ask it.
 
-*See also: [[Flux Demons]], [[High Demons]], [[Rift Incursions]], [[Equatorial Desert]], [[Ancient Ruins]], [[Flux]], [[Drest]]*
+_See also: [[Flux Demons]], [[High Demons]], [[Rift Incursions]], [[Equatorial Desert]], [[Ancient Ruins]], [[Flux]], [[Drest]]_

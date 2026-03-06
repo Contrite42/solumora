@@ -1,4 +1,4 @@
-*Extracts from case documentation maintained by [[Rell Hadv]], guild master, Valdenmoor certification practice. The following concern apprentice assessment procedures for high-tier candidates.*
+_Extracts from case documentation maintained by [[Rell Hadv]], guild master, Valdenmoor certification practice. The following concern apprentice assessment procedures for high-tier candidates._
 
 ---
 
@@ -30,4 +30,4 @@ Consulted with regional guild chair. Her reading of "competent to evaluate" alig
 
 The apprentice has not asked about any of this. Either they have not thought about it yet, or they have thought about it and decided that asking is not the right move at this stage. Given what I have observed over seven months, it is probably the second.
 
-*See also: [[Rell Hadv]], [[Trade Guilds]], [[Tier Assessment]], [[Control Tier]], [[Flux Users]]*
+_See also: [[Rell Hadv]], [[Trade Guilds]], [[Tier Assessment]], [[Control Tier]], [[Flux Users]]_

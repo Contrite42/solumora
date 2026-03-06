@@ -46,4 +46,4 @@ Regulation is hardest to enforce for lower-tier work produced in high volume. A 
 
 [[Black Market Grimoire Circulation]] operates entirely outside regulation, and enforcement is reactive: authorities pursue black market scriveners only when their work causes visible harm or a buyer reports fraud. This makes black market scrivening persistently viable despite legal and guild prohibitions.
 
-*See also: [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoires]], [[Grimoire Authentication]], [[Grimoire Rights and Restrictions]], [[Black Market Grimoire Circulation]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Trade Guilds]], [[The Council of Auralis|Council of Auralis]], [[Terravelle]], [[Auralis]]*
+_See also: [[Guild Scrivener Network]], [[Independent Scrivener]], [[Grimoires]], [[Grimoire Authentication]], [[Grimoire Rights and Restrictions]], [[Black Market Grimoire Circulation]], [[Common Grimoire]], [[Uncommon Grimoire]], [[Control Tier]], [[Trade Guilds]], [[The Council of Auralis|Council of Auralis]], [[Terravelle]], [[Auralis]]_

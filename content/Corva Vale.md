@@ -48,4 +48,4 @@ The district has not reached consensus. Cold storage creates market opportunitie
 
 The experiments continue. The crop continues. The conversation continues.
 
-*See also: [[Auralis]], [[Solhaven]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], Trel Orvn, Dren Saln, Mira Brendt, Nora Teld*
+_See also: [[Auralis]], [[Solhaven]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Flux]], Trel Orvn, Dren Saln, Mira Brendt, Nora Teld_

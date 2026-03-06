@@ -30,4 +30,4 @@ Wren is aware of all four of the other [[High Demons]] in [[Solumora]] at a gene
 
 [[Selvane]] and [[Mave]] she knows are in [[Solhaven]] and considers their proximity to each other someone else's problem. She has enough to watch here.
 
-*See also: [[High Demons]], [[Flux Demons]], [[Rift Incursions]], [[Equatorial Desert]], [[Flux]], [[Halveth]], [[Selvane]], [[Mave]], [[Fennick]], [[Sorath]], [[Rett Soln]], [[Selt Orvn]]*
+_See also: [[High Demons]], [[Flux Demons]], [[Rift Incursions]], [[Equatorial Desert]], [[Flux]], [[Halveth]], [[Selvane]], [[Mave]], [[Fennick]], [[Sorath]], [[Rett Soln]], [[Selt Orvn]]_

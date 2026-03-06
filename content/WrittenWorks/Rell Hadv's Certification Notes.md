@@ -1,5 +1,3 @@
-
-
 ## Recent Certifications - Watt Threshold Documentation
 
 **Sova Mast, Journeyman Assessment - Third Attempt**

@@ -38,19 +38,20 @@ Institutional memory now exists in controlled form through the [[Quiet Index Rep
 
 The legacy is therefore neither total silence nor total exposure. It is distributed memory maintained at different layers, each with different risk tolerances:
 
-- Family lines preserve behavior.  
-- Sites preserve material constraints.  
+- Family lines preserve behavior.
+- Sites preserve material constraints.
 - Archives preserve cross-case evidence.
 
 Together these layers make one practical claim: the era ended as active mass behavior, but its failure patterns remain relevant whenever fear outruns verification.
 
-*See also: [[History]], [[High Demons]], [[Flux]], [[Control Tier]], [[Rift Incursions]], [[The First Contact]], [[Terravelle]], [[Auralis]], [[Selvane]], [[Mave]], [[Fennick]], [[Wren]], [[Sorath]], [[Brendt Lineage]], [[Cors Lineage]], [[Seln Lineage]], [[Narrowglass Cellar]], [[Rimewell Loft]], [[Quiet Index Repository]]*
+_See also: [[History]], [[High Demons]], [[Flux]], [[Control Tier]], [[Rift Incursions]], [[The First Contact]], [[Terravelle]], [[Auralis]], [[Selvane]], [[Mave]], [[Fennick]], [[Wren]], [[Sorath]], [[Brendt Lineage]], [[Cors Lineage]], [[Seln Lineage]], [[Narrowglass Cellar]], [[Rimewell Loft]], [[Quiet Index Repository]]_
 
 ## Legacy and Memory
 
 Present-day memory of the era survives through practical record systems rather than public ritual. Family and route archives preserve incident patterns that still shape modern verification habits and rumor control in border and rural communities.
 
 Representative threads:
+
 - [[Brendt Lineage]] (household ledger memory in western Terravelle farming settlements)
 - [[Cors Lineage]] (route-ledger comparisons across border corridors)
 - [[Seln Lineage]] (localized continuity practices in mixed-border communities)

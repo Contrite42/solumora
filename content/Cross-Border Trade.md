@@ -6,4 +6,4 @@ Its practical mechanics are shaped by inspection protocols at designated crossin
 
 The system is not static. Documentation standards shift in response to diplomatic pressure, economic conditions, and the strategic priorities of both kingdoms. What clears smoothly in one season may face additional scrutiny in the next, and merchants who rely on cross-border commerce learn to read these shifts as operational signals rather than administrative noise.
 
-*See also: [[Border Trade]], [[Ashford]], [[Trade Guilds]], [[Auralis]], [[Terravelle]], [[Cross-Border Grimoire Trade]]*
+_See also: [[Border Trade]], [[Ashford]], [[Trade Guilds]], [[Auralis]], [[Terravelle]], [[Cross-Border Grimoire Trade]]_

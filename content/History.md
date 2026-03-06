@@ -31,4 +31,4 @@ For a broad narrative overview, see [[History of Solumora]].
 
 **The Ruins Problem** — The ancient civilization's ruins are still active in ways that current scholarship cannot fully explain. The [[The Culmination Faction|Culmination Faction]]'s entire agenda is organized around what those ruins might mean.
 
-*See also: [[History of Solumora]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Flux]], [[Grimoires]], [[The Three Near-Wars]], [[The Culmination Faction|Culmination Faction]], [[Wolfpoint]]*
+_See also: [[History of Solumora]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Watts]], [[Flux]], [[Grimoires]], [[The Three Near-Wars]], [[The Culmination Faction|Culmination Faction]], [[Wolfpoint]]_

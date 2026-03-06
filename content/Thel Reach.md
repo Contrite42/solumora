@@ -66,4 +66,4 @@ Social cohesion comes from shared purpose and mutual respect for expertise. A tr
 
 Thel Reach is not in the business of preventing bad decisions. It is in the business of ensuring that people understand the decisions they are making.
 
-*See also: [[Equatorial Desert]], [[The Northern Narrows]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Rift Incursions]], [[Control Tier]], [[Standard Guided Crossing]], Veld Marr, Ren Cors, Kess Tarn*
+_See also: [[Equatorial Desert]], [[The Northern Narrows]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Rift Incursions]], [[Control Tier]], [[Standard Guided Crossing]], Veld Marr, Ren Cors, Kess Tarn_

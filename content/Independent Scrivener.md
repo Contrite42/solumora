@@ -24,4 +24,4 @@ Independent scriveners are most common in rural [[Terravelle]], where guild pres
 
 Some independents specialize: one might focus exclusively on agricultural spells for vineyard use, another on courier-specific thermal management texts. Specialization builds trust within a narrow market and reduces direct competition with the broader guild network.
 
-*See also: [[Guild Scrivener Network]], [[Grimoires]], [[Flux Users]], [[Common Grimoire]], [[Control Tier]], [[Grimoire Authentication]], [[Terravelle]], [[Auralis]], [[Valdenmoor]], [[Halveth]]*
+_See also: [[Guild Scrivener Network]], [[Grimoires]], [[Flux Users]], [[Common Grimoire]], [[Control Tier]], [[Grimoire Authentication]], [[Terravelle]], [[Auralis]], [[Valdenmoor]], [[Halveth]]_

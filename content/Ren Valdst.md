@@ -24,4 +24,4 @@ She has called a basin-wide meeting for next month. She will present the case fo
 
 That is her job.
 
-*See also: [[Keld Basin]], [[Maren Valley]], [[Terravelle]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]]*
+_See also: [[Keld Basin]], [[Maren Valley]], [[Terravelle]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]]_

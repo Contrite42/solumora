@@ -16,4 +16,4 @@ Fen's working assessment of [[Cael|Cael's]] theory about channeling cost is that
 
 What Fen contributes from his own experience: at T3 in the preservation trade, he hits his ceiling on long jobs — sustained cold-seals for large cargo volumes push against his limit over a full work day, and he has spent more time than most people thinking carefully about what that feels like from the inside and what it costs in the hours after. He does not have a theory. He has a body of practical observation about the cost curve that nobody has asked him to formalize, and that [[Cael]] is the only person who has ever treated as worth careful attention.
 
-*See also: [[Cael]], [[Valdenmoor]], [[Flux Users]], [[Flux]], [[Control Tier]], [[Terravelle]]*
+_See also: [[Cael]], [[Valdenmoor]], [[Flux Users]], [[Flux]], [[Control Tier]], [[Terravelle]]_

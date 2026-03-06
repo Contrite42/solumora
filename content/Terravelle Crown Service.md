@@ -24,4 +24,4 @@ The Service has a careful arm's-length relationship with the [[Halveth Cooperati
 
 The Service is aware of [[Cassia]]'s position but has no reliable contact with her. Getting accurate information out of the Auralis Council complex is the hardest part of the job.
 
-*See also: [[Terravelle]], [[Eddan Voss]], [[Expansion Faction]], [[Factions]], [[Doss Varn]], [[Cassia]], [[Halveth Cooperative]], [[The Bone Road Consortium]], [[Trade Guilds]]*
+_See also: [[Terravelle]], [[Eddan Voss]], [[Expansion Faction]], [[Factions]], [[Doss Varn]], [[Cassia]], [[Halveth Cooperative]], [[The Bone Road Consortium]], [[Trade Guilds]]_

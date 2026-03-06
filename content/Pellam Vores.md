@@ -10,4 +10,4 @@ She lives in the Crestward in a small estate that the Nexus maintains for promis
 
 She has recently been asked to consult on a project investigating the mechanism of Flux incursions near anomalous ruins sites. The project has both scientific interest and obvious strategic importance. She has accepted. She does not know whether this is advancement or whether accepting has compromised her future independence.
 
-*See also: [[Solhaven]], [[The Crestward]], [[Auralis]], [[The Crestward|Crestward Research Nexus]], [[The Culmination Faction|Culmination Faction]], [[Control Tier]], [[Flux]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[The Crestward]], [[Auralis]], [[The Crestward|Crestward Research Nexus]], [[The Culmination Faction|Culmination Faction]], [[Control Tier]], [[Flux]], [[Ordinary Life in Auralis]]_

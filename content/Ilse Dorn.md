@@ -22,4 +22,4 @@ Ilse believes the ancient civilization in [[Equatorial Desert|Desert Zakros]] ac
 
 What she believes is that the question is worth pursuing. The distinction matters to her. It does not materially affect her voting record.
 
-*See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Emberfall]], [[Ancient Ruins]], [[Flux Users]], [[Control Tier]]*
+_See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Drest]], [[Emberfall]], [[Ancient Ruins]], [[Flux Users]], [[Control Tier]]_

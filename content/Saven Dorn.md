@@ -6,4 +6,4 @@ The extraction work is physically demanding and has a straightforward relationsh
 
 His T3 casting is used for structural assessment — reading stress patterns in the rock to determine shaft stability and identify where reinforcement is needed. Standard extraction application. He is good at it without finding it especially interesting. The interesting part is the logistics. The casting is a tool.
 
-*See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Brenne Kalt]], [[Control Tier]], [[Flux Users]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]*
+_See also: [[Greyveil]], [[Life in Greyveil]], [[Terravelle]], [[Brenne Kalt]], [[Control Tier]], [[Flux Users]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]_

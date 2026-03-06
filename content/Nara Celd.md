@@ -8,4 +8,4 @@ She is not particularly interested in the social life of the docks, which is ext
 
 She attends no ceremonies. She observes nothing formally. She has spent her life using exactly what she needs and not reaching for anything she cannot hold.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Birth Runes]], [[Flux Users]], [[Ordinary Life in Terravelle]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Birth Runes]], [[Flux Users]], [[Ordinary Life in Terravelle]]_

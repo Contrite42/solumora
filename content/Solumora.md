@@ -32,7 +32,7 @@ The moment goods or services cross into quality-of-life territory the price clim
 
 [[Flux Users|Channeler]]-tier [[Sigils|sigil]] work — anything at [[Rare Grimoire|Rare]] and above — is not really priced like a service. It is priced like access to something that most of the world will never be able to replicate, because that is exactly what it is.
 
-*See also: [[World Primer]], [[Kingdoms]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Flux]], [[Flux Users]], [[History of Solumora]], [[Geography]], [[Ordinary Life]]*
+_See also: [[World Primer]], [[Kingdoms]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Flux]], [[Flux Users]], [[History of Solumora]], [[Geography]], [[Ordinary Life]]_
 
 ## How People Move
 
@@ -44,7 +44,7 @@ Maritime movement ties the coasts together on two different scales. The [[Hedun-
 
 Information usually arrives before volume, and systems are designed around that fact. When a route destabilizes, dispatchers reroute messages first, then cargo. Most institutions in both kingdoms survive disruption not by preventing breaks, but by preserving movement continuity across at least one channel.
 
-*See also: [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Wolfpoint]], [[Equatorial Desert]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]]*
+_See also: [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Wolfpoint]], [[Equatorial Desert]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]]_
 
 ## Religion and Belief
 
@@ -60,7 +60,7 @@ Most people practice some blend of their region's dominant tradition and element
 
 The exception is the Ascendant Path, which is explicit enough in its theology that orthodox Luminants do distinguish between Path-consistent and Path-inconsistent beliefs. This creates an undercurrent of tension — the Path's institutional power in Auralis contrasts with the Covenant's institutional invisibility in Terravelle, a difference that reflects deeper divergence in how the two kingdoms understand authority, truth, and what Flux is for.
 
-*See also: [[Religions]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]]*
+_See also: [[Religions]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]]_
 
 ## History
 
@@ -74,7 +74,7 @@ The **founding period** produced two kingdoms that developed independently acros
 
 For the full historical hub, see [[History]].
 
-*See also: [[History]], [[History of Solumora]], [[The Ancient Civilization]], [[The Desert Barrier]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Isolation Period]], [[The Persecution Era]], [[The First Contact]], [[The Three Near-Wars]], [[The Fraying Peace]]*
+_See also: [[History]], [[History of Solumora]], [[The Ancient Civilization]], [[The Desert Barrier]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Isolation Period]], [[The Persecution Era]], [[The First Contact]], [[The Three Near-Wars]], [[The Fraying Peace]]_
 
 ## People in Motion
 
@@ -82,5 +82,4 @@ Large structures in Solumora are held together by recurring people who move betw
 
 These are not principal rulers, but they are often the first to notice that conditions have shifted. Their observations shape route choice, expedition behavior, procurement priorities, and who receives warning early enough to act.
 
-*See also: [[People]], [[Orre Cavlt]], [[Selt Orvn]], [[Vorn Teld]], [[Dess Tannor]], [[Keln Varost]], [[Ashford]], [[Halveth]], [[Wolfpoint]], [[Solhaven]]*
-
+_See also: [[People]], [[Orre Cavlt]], [[Selt Orvn]], [[Vorn Teld]], [[Dess Tannor]], [[Keln Varost]], [[Ashford]], [[Halveth]], [[Wolfpoint]], [[Solhaven]]_

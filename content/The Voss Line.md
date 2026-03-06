@@ -26,4 +26,4 @@ The Voss family does not discuss [[Flux]] in spiritual terms. They discuss it in
 
 This is not coldness. The Voss family is, by all accounts of people who have spent time in [[Wolfpoint]], warm and hospitable within the bounds of their particular culture. It is simply a different orientation — one that treats mysticism about Flux the way a skilled craftsperson treats mysticism about their tools. Respectful of what they do not know. Uninterested in romanticizing the not-knowing.
 
-*See also: [[Wolfpoint]], [[Hypertext]], [[Flux Users]], [[Terravelle]], [[Auralis]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]]*
+_See also: [[Wolfpoint]], [[Hypertext]], [[Flux Users]], [[Terravelle]], [[Auralis]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]]_

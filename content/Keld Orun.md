@@ -8,7 +8,7 @@ Keld's raw capacity is not socially usable in ordinary settings. At T9, minor pr
 
 He accepts only two classes of tasks:
 
-- containment review when existing anomalies threaten to propagate  
+- containment review when existing anomalies threaten to propagate
 - advisory modeling for high-tier failure prevention in controlled research proposals
 
 He does not execute offensive work, political demonstration casts, or private patron commissions regardless of compensation.
@@ -17,9 +17,9 @@ He does not execute offensive work, political demonstration casts, or private pa
 
 Keld's life is organized around non-use and auditability.
 
-- All active casting requires pre-registered intention notes.  
-- Sessions are observed by independent technical witnesses.  
-- Abort conditions are declared before any channeling begins.  
+- All active casting requires pre-registered intention notes.
+- Sessions are observed by independent technical witnesses.
+- Abort conditions are declared before any channeling begins.
 - Post-session environmental checks run for days, not hours.
 
 Most weeks, he casts nothing above routine personal maintenance. He spends the majority of time writing failure models and reviewing other teams' plans for structural impossibilities that mid-tier planners may miss.
@@ -44,4 +44,4 @@ Keld embodies the least romantic truth about the top of the tier scale: at T9, r
 
 His contribution is not what he casts. It is what does not break because he refuses to cast casually.
 
-*See also: [[Control Tier]], [[Flux Users]], [[Wolfpoint]], [[Hypertext]], [[Flux Expenditure]], [[Ancient Ruins]], [[Equatorial Desert]], [[Tier Assessment]], [[The Council of Auralis]], [[Terravelle]]*
+_See also: [[Control Tier]], [[Flux Users]], [[Wolfpoint]], [[Hypertext]], [[Flux Expenditure]], [[Ancient Ruins]], [[Equatorial Desert]], [[Tier Assessment]], [[The Council of Auralis]], [[Terravelle]]_

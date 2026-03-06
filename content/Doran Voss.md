@@ -22,4 +22,4 @@ Doran is aware that he and [[Ysel Voss|Ysel]] are both being assessed for leader
 
 He is, occasionally, curious about what Ysel is working on in her personal notes, which she does not share with him. He has not asked directly. He will, eventually. He is not in a hurry.
 
-*See also: [[Wolfpoint]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Hypertext]], [[Flux]], [[Terravelle]]*
+_See also: [[Wolfpoint]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Hypertext]], [[Flux]], [[Terravelle]]_

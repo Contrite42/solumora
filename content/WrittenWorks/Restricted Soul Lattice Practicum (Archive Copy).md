@@ -14,6 +14,7 @@ Seal: "Licensed Channeler supervision required"
 This copy is logged to room and supervisor. Removal is prohibited.
 
 Any cast attempt from these plates requires:
+
 - Two-reader verification.
 - Incident recorder present.
 - Medical and containment response on standby.
@@ -27,6 +28,7 @@ Unauthorized replication is prosecutable under restricted-text statute.
 Purpose: Structured interpretation of active soul-layer signatures.
 
 Research use:
+
 - Confirm continuity markers in post-incursion subjects.
 - Compare signatures before and after major trauma events.
 
@@ -38,6 +40,7 @@ Archive annotation:
 Purpose: Temporary linkage between prepared anchor points.
 
 Research use:
+
 - Controlled transfer experiments in bounded chambers.
 - Test latency and resistance under varying load.
 
@@ -49,6 +52,7 @@ Archive annotation:
 Purpose: Emergency severance of unstable link structures.
 
 Research use:
+
 - Last-resort interruption of cascading failure.
 - Contains spread, not damage already present.
 
@@ -60,6 +64,7 @@ Archive annotation:
 Purpose: Directed overwrite of targeted cognition pathways.
 
 Research use:
+
 - Included for cross-domain interaction studies only.
 - Not approved for routine field deployment from this text.
 
@@ -72,4 +77,4 @@ Archive annotation:
 
 You are reading an archive copy because someone before you accepted liability for what you might learn from it. Read carefully. Cast rarely. Report everything.
 
-*See also: [[Rare Grimoire]], [[Grimoires]], [[Auralis]], [[Emberfall]], [[The Council of Auralis]], [[Flux]], [[Discipline]], [[Soulread]], [[Mindrewrite]]*
+_See also: [[Rare Grimoire]], [[Grimoires]], [[Auralis]], [[Emberfall]], [[The Council of Auralis]], [[Flux]], [[Discipline]], [[Soulread]], [[Mindrewrite]]_

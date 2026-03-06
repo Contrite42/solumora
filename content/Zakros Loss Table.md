@@ -8,8 +8,8 @@ For decades, expedition failures were documented as isolated stories. Teams disa
 
 The Loss Table was created after a five-year period of clustered failures in routes that had previously been considered stable. Review found repeated process errors:
 
-- Thermal-load underestimation by sponsors without field experience  
-- Late route pivots without corresponding cache adjustment  
+- Thermal-load underestimation by sponsors without field experience
+- Late route pivots without corresponding cache adjustment
 - Incident logs written as narrative defense rather than operational evidence
 
 The office's purpose is to prevent this cycle by treating expedition loss as analyzable infrastructure failure, not fate.
@@ -18,10 +18,10 @@ The office's purpose is to prevent this cycle by treating expedition loss as ana
 
 The Loss Table classifies incidents into standardized categories:
 
-- Environmental overload (heat/cold/wind exceeding model assumptions)  
-- Route intelligence drift (outdated or misapplied guide data)  
-- Capability mismatch (team tiers and roles insufficient for mission profile)  
-- Documentation failure (missing logs preventing adaptation on next run)  
+- Environmental overload (heat/cold/wind exceeding model assumptions)
+- Route intelligence drift (outdated or misapplied guide data)
+- Capability mismatch (team tiers and roles insufficient for mission profile)
+- Documentation failure (missing logs preventing adaptation on next run)
 - Sponsor pressure override (safety thresholds bypassed for schedule/political reasons)
 
 Each expedition receives a cumulative risk score updated at pre-departure, mid-route checkpoints, and return debrief. Recommendations are then issued to [[Emberfall Expedition Registry]], [[Halveth Guide Bureau]], and sponsor offices.
@@ -32,7 +32,7 @@ Each expedition receives a cumulative risk score updated at pre-departure, mid-r
 
 Sera is known for two practices:
 
-- Refusing to accept emotionally persuasive debriefs without traceable evidence  
+- Refusing to accept emotionally persuasive debriefs without traceable evidence
 - Publishing confidence levels alongside every recommendation so uncertainty is explicit
 
 His reports are sometimes described as cold. Field teams that survived poor planning describe them as useful.
@@ -43,9 +43,9 @@ The Loss Table sits at a structural fault line. [[The Council of Auralis]] wants
 
 When council pressure rises, the office's recommendations are most likely to be treated as optional. This creates a recurring cycle:
 
-- Political urgency increases  
-- Safeguards are framed as excessive caution  
-- Loss rates rise in subsequent quarter  
+- Political urgency increases
+- Safeguards are framed as excessive caution
+- Loss rates rise in subsequent quarter
 - Loss Table recommendations regain temporary authority
 
 The office has no enforcement power. Its leverage is predictive accuracy over time.
@@ -54,8 +54,8 @@ The office has no enforcement power. Its leverage is predictive accuracy over ti
 
 Despite limited formal authority, the Loss Table has reshaped expedition culture in several concrete ways:
 
-- Mandatory uncertainty fields in debrief templates  
-- Standardized trigger points for objective down-scope mid-route  
+- Mandatory uncertainty fields in debrief templates
+- Standardized trigger points for objective down-scope mid-route
 - Requirement that sponsor directives be logged when they override field-safety recommendations
 
 These changes do not eliminate loss. They make responsibility legible.
@@ -66,4 +66,4 @@ The Zakros Loss Table is the part of expedition culture that remembers failure a
 
 It cannot stop the desert from killing people. It can reduce how often institutions choose avoidable ways for that to happen.
 
-*See also: [[Emberfall Expedition Registry]], [[Equatorial Desert]], [[Ancient Ruins]], [[Halveth Guide Bureau]], [[Crestward Field Company]], [[The Council of Auralis]], [[Control Tier]], [[Sera Nolt]], [[Expedition Supplies]]*
+_See also: [[Emberfall Expedition Registry]], [[Equatorial Desert]], [[Ancient Ruins]], [[Halveth Guide Bureau]], [[Crestward Field Company]], [[The Council of Auralis]], [[Control Tier]], [[Sera Nolt]], [[Expedition Supplies]]_

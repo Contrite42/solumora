@@ -60,4 +60,4 @@ _Three members. No shared ideology beyond genuine loyalty to [[Cassia]] as a per
 
 **[[Drest]]** — Listed here as well as Culmination because his support for Cassia is structurally real, however complicated its origins. The only member who appears in both columns. Neither faction fully trusts him for it.
 
-*See also: [[The Council of Auralis]], [[Auralis]], [[Cassia]], [[Drest]], [[Maren Sollis]], [[Tovan Ashce]], [[Castor Helme]], [[Sera Voss]], [[Emberfall]], [[Wolfpoint]], [[Mira Solv]], [[Corda Lenn]], [[Ilse Dorn]], [[Pol Ashvane]], [[Hadren Cosse]], [[Sera Keln]], [[Aldric Mourne]], [[Oren Vael]], [[Tess Varun]], [[Davan Rhyce]], [[Orla Fest]], [[Brennan Solce]], [[Yara Venn]], [[Celd Arren]], [[Veran Ostl]]*
+_See also: [[The Council of Auralis]], [[Auralis]], [[Cassia]], [[Drest]], [[Maren Sollis]], [[Tovan Ashce]], [[Castor Helme]], [[Sera Voss]], [[Emberfall]], [[Wolfpoint]], [[Mira Solv]], [[Corda Lenn]], [[Ilse Dorn]], [[Pol Ashvane]], [[Hadren Cosse]], [[Sera Keln]], [[Aldric Mourne]], [[Oren Vael]], [[Tess Varun]], [[Davan Rhyce]], [[Orla Fest]], [[Brennan Solce]], [[Yara Venn]], [[Celd Arren]], [[Veran Ostl]]_

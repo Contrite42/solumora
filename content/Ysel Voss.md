@@ -18,4 +18,4 @@ What she found in the later sections — the structural analysis of the [[Watts|
 
 She has written this question down in her personal notes and not shared it with anyone.
 
-*See also: [[Wolfpoint]], [[The Voss Line]], [[Sera Voss]], [[Doran Voss]], [[Hypertext]], [[Watts]], [[Flux]]*
+_See also: [[Wolfpoint]], [[The Voss Line]], [[Sera Voss]], [[Doran Voss]], [[Hypertext]], [[Watts]], [[Flux]]_

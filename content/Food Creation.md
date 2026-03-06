@@ -4,4 +4,4 @@ In practice, most legal methods are augmentation and preservation workflows, not
 
 Because sustained food logistics are cheaper through agriculture and trade, food-creation spellwork is treated as contingency infrastructure.
 
-*See also: [[Flux]], [[Watts]], [[Maren Valley]], [[Expedition Supplies]], [[Preservation Sigils]], [[Terravelle]]*
+_See also: [[Flux]], [[Watts]], [[Maren Valley]], [[Expedition Supplies]], [[Preservation Sigils]], [[Terravelle]]_

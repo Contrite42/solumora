@@ -38,4 +38,4 @@ The upcoming expedition season is shaping up to be one of the busiest Selt has m
 
 She is particularly interested in one of the independent groups — well-equipped, well-funded, and led by someone who has stayed at the Crosswind before and left a good impression. Their stated objective is ruins investigation, but their equipment list suggests they are prepared for more than archaeological work. Selt has mentioned this discrepancy to [[Wren]] but has not pressed for details. In her experience, groups that are secretive about their plans usually have reasons that are none of her business as long as they pay their bills and follow inn policies.
 
-*See also: [[Halveth]], [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Ancient Ruins]], [[Ossen Drel]], [[Flux]], [[Control Tier]], [[Vorn Teld]], [[Cor Meln]]*
+_See also: [[Halveth]], [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Ancient Ruins]], [[Ossen Drel]], [[Flux]], [[Control Tier]], [[Vorn Teld]], [[Cor Meln]]_

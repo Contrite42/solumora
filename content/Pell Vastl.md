@@ -6,4 +6,4 @@ He has worked for three different merchant houses over twenty-two years. All thr
 
 He finds the [[Watts]] system remarkable and says so to anyone who asks. The ledger that underlies all of it — distributed, impossible to forge, no institution in control — is the most elegant piece of infrastructure he works with daily, and nothing about his twenty-two years has diminished this. The people using it are exactly as clever and dishonest as people have always been. The ledger records all of it perfectly. He finds this, somehow, reassuring.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Watts]], [[Birth Runes]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Watts]], [[Birth Runes]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]]_

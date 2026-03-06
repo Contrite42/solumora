@@ -5,6 +5,7 @@ The name is practical, not ceremonial. Old crossing crews used it to describe wh
 ## Why It Matters For Travel
 
 The Bone Sea is used for three things:
+
 - Route staging and load testing before parties commit to full crossing profiles.
 - Cache transfer and recovery work for teams running [[Relay-Stage Crossing]] logistics.
 - Controlled salvage and survey around exposed debris fields tied to [[Ancient Ruins]] activity.
@@ -19,4 +20,4 @@ Rift-linked hazards are less frequent than in deep-desert approach zones but sti
 
 Because the basin is a logistics zone rather than a conquest objective, no kingdom treats it as a formal jurisdiction priority. In practice, standards are enforced by contract reputation and by who can still move goods through it safely next season.
 
-*See also: [[Equatorial Desert]], [[Halveth]], [[Selt Orvn]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Rift Incursions]], [[The Northern Narrows]], [[Zakros Rim Caravan Loop]]*
+_See also: [[Equatorial Desert]], [[Halveth]], [[Selt Orvn]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Rift Incursions]], [[The Northern Narrows]], [[Zakros Rim Caravan Loop]]_

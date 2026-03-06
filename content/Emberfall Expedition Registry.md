@@ -24,4 +24,4 @@ Independent operators who profit from unlogged crossings bypass the Registry whe
 
 It trades in permission, insurance eligibility, and institutional memory about what actually fails in the [[Equatorial Desert]].
 
-*See also: [[Emberfall]], [[Equatorial Desert]], [[Rift Incursions]], [[The Culmination Faction]], [[Relay Compact]], [[WrittenWorks/The Zakros Crossing Compendium|The Zakros Crossing Compendium]], [[Halveth]]*
+_See also: [[Emberfall]], [[Equatorial Desert]], [[Rift Incursions]], [[The Culmination Faction]], [[Relay Compact]], [[WrittenWorks/The Zakros Crossing Compendium|The Zakros Crossing Compendium]], [[Halveth]]_

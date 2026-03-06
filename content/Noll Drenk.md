@@ -22,4 +22,4 @@ Noll is organized and cautious in the way that factoring selects for. People who
 
 He has three children, all now adults with their own guild tracks. He expected the oldest, assessed at T0, to have a more restricted path through the system. The T0 guild tracks are functional and provide reasonable outcomes, and his son has done well through the Cordwainers' Guild's non-magical certification. He is proud of this without drama; his son found a track that worked and has built something in it, which is what Valdenmoor asks of people.
 
-*See also: [[Guild Quarter]], [[Valdenmoor]], [[Maren Valley]], [[Trade Guilds]], [[Maren Freight Chain]], [[Osvin Brack]], [[Life in Valdenmoor]], [[Terravelle]], [[Control Tier]]*
+_See also: [[Guild Quarter]], [[Valdenmoor]], [[Maren Valley]], [[Trade Guilds]], [[Maren Freight Chain]], [[Osvin Brack]], [[Life in Valdenmoor]], [[Terravelle]], [[Control Tier]]_

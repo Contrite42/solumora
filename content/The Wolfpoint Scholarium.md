@@ -22,4 +22,4 @@ The Scholarium exploits this balance carefully. It maintains research relationsh
 
 [[Mira Solv]], the Scholarium's theory specialist, is aware that she holds information the Council of Auralis would pay significantly for. She has not provided it. Her relationship with [[Drest]] is managed with care: she shares enough to maintain the access arrangements that benefit the Scholarium, and not enough to shift the strategic balance she believes Wolfpoint currently holds.
 
-*See also: [[Wolfpoint]], [[Hypertext]], [[Sera Voss]], [[Mira Solv]], [[The Voss Line]], [[Factions]], [[Terravelle]], [[Auralis]], [[Drest]], [[The Advancement Corps]]*
+_See also: [[Wolfpoint]], [[Hypertext]], [[Sera Voss]], [[Mira Solv]], [[The Voss Line]], [[Factions]], [[Terravelle]], [[Auralis]], [[Drest]], [[The Advancement Corps]]_

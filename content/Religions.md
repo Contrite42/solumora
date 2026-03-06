@@ -20,4 +20,4 @@ The traditions are not mutually exclusive in practice. A farming family in rural
 
 The exception is the Ascendant Path, which is explicit enough in its theology that orthodox Luminants do distinguish between Path-consistent and Path-inconsistent beliefs. The Ancestral Current's persistence in southern Auralis is something senior Luminants address diplomatically — the folk tradition does not contradict Path theology exactly, but its theological implications are not developed within the Path framework, and Luminants prefer to manage what it means rather than suppress what it is.
 
-*See also: [[Religion and Belief]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]], [[Solumora]]*
+_See also: [[Religion and Belief]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]], [[Solumora]]_

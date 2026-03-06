@@ -74,4 +74,4 @@ The settlement does not build its own boats. Vessels are purchased from speciali
 
 Brend Point represents one model of coastal settlement viability: collective ownership, sustained-yield operations, preservation-based market access, and integration with packet-line distribution networks. Other models exist along both [[Auralis]] and [[Terravelle]] coasts, shaped by local conditions, resource availability, and historical settlement patterns. Together, these distributed coastal communities create maritime economic infrastructure that functions without centralized institutional management and sustains fishing operations across thousands of miles of Solumora coastline.
 
-*See also: [[Terravelle]], [[Outer Coast Packet Line]], [[Control Tier]], [[Flux]], [[Torst Bay]], [[Keln Harbor]], Veln Tors, Mira Brendt, Kess Reln, Tor Mals, [[Coastal Settlement Network]], [[Maritime Storm Coordination]]*
+_See also: [[Terravelle]], [[Outer Coast Packet Line]], [[Control Tier]], [[Flux]], [[Torst Bay]], [[Keln Harbor]], Veln Tors, Mira Brendt, Kess Reln, Tor Mals, [[Coastal Settlement Network]], [[Maritime Storm Coordination]]_

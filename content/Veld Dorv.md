@@ -4,4 +4,4 @@ Veld's practical value is pattern memory. He notices when expected reports do no
 
 He is not trying to expose anyone. He is trying to keep records coherent enough that he can still trust his own job outputs. In a system where selective omission is normal, that alone makes him important.
 
-*See also: [[Emberfall]], [[The Advancement Corps]], [[Drest]], [[People]], [[The Culmination Faction]], [[Renne Osl]], [[Aldric Mourne]]*
+_See also: [[Emberfall]], [[The Advancement Corps]], [[Drest]], [[People]], [[The Culmination Faction]], [[Renne Osl]], [[Aldric Mourne]]_

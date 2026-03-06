@@ -28,4 +28,4 @@ In practical terms, licensing rights are only enforceable up to the point where 
 
 This asymmetry shapes what gets officially published versus what circulates informally. A practitioner with a genuinely useful original spell faces a choice between entering the formal licensing channel (lower revenue per copy, higher volume, institutional credibility) and selling directly (higher margin per transaction, lower reach, no institutional protection).
 
-*See also: [[Grimoires]], [[Grimoire Copyists]], [[Common Grimoire Market]], [[Trade Guilds]], [[Grimoire Regulation]], [[Black Market Grimoires]], [[Flux Users]]*
+_See also: [[Grimoires]], [[Grimoire Copyists]], [[Common Grimoire Market]], [[Trade Guilds]], [[Grimoire Regulation]], [[Black Market Grimoires]], [[Flux Users]]_

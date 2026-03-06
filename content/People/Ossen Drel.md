@@ -34,4 +34,4 @@ Ossen is currently contracted to guide an [[Auralis]] research expedition schedu
 
 He has also been approached by two independent groups seeking guides for the same season. One he has declined — their thermal preparation is inadequate and their leader responded poorly to his feedback. The other he is still evaluating. Their equipment is excellent and their [[Control Tier|tier]] distribution is strong, but they have been evasive about their specific objectives in the desert, which makes him cautious about the kind of attention their expedition might attract.
 
-*See also: [[Halveth]], [[Equatorial Desert]], [[Auralis]], [[Wren]], [[Rift Incursions]], [[Control Tier]], [[Heat]], [[Grimoires]], [[Ancient Ruins]], [[Solhaven]], [[Terravelle]], [[Flux]], [[Sigils]]*
+_See also: [[Halveth]], [[Equatorial Desert]], [[Auralis]], [[Wren]], [[Rift Incursions]], [[Control Tier]], [[Heat]], [[Grimoires]], [[Ancient Ruins]], [[Solhaven]], [[Terravelle]], [[Flux]], [[Sigils]]_

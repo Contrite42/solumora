@@ -6,7 +6,7 @@ The situations that require judgment are infrequent but recurring: documentation
 
 The political briefings from the [[Ashford]] command post have changed in tone over the past year. The changes are not stated directly — the briefings do not say that the border situation is different. But the language around documentation requirements has tightened, and the frequency of reports required from his post has increased, and there are more travelers with Terravelle documentation coming through than there were two years ago. He cannot tell if this is trend or noise. He records what he sees.
 
-*See also: [[Ashford]], [[Life in Ashford]], [[Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Ashford]], [[Life in Ashford]], [[Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Auralis]]_
 
 ## The Shift
 
@@ -18,7 +18,7 @@ He is also seeing more travelers with [[Terravelle]] papers than he has seen in 
 
 He is recording what he sees. He does not know what it means.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -32,7 +32,7 @@ One of his contacts at the Ashford command post told him to log everything caref
 
 The shift is not dramatic enough to be alarming. It is systematic enough to be noticeable. He is a border guard. He knows the difference between random variation and pattern. This is pattern.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -44,7 +44,7 @@ He is recording what he sees. Traveler volumes, paper types, the frequency of in
 
 The documentation protocols require him to note details that were previously considered routine: the specific routes travelers report taking to reach Ashford, their stated business in [[Auralis]], the duration of their planned stay. Information that was always collected but is now being collected with a precision that suggests someone intends to analyze it systematically. He does not know what it means. He knows it represents a change in how the crossing is being managed, and changes at border crossings do not happen without reasons.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -58,7 +58,7 @@ One of his contacts at the Ashford command post told him to log everything caref
 
 He is recording what he sees. The shift in briefing tone, the new forms, the instruction to log carefully, the subtle changes in traveler patterns — all of it goes into his daily reports. He does not know what it means, but he knows it means something. The alternative is that his superiors have simultaneously decided to change multiple procedures for no reason, and that does not match his experience of how the border service operates.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -72,7 +72,7 @@ One of his contacts at the command post — Sergeant Mira Keld, who has been sta
 
 He is recording what he sees. The patterns, the changes, the small inconsistencies that accumulate over weeks of observation. He does not know what it means. He knows his job is to document, not to interpret. But the shift is real, and he is the one positioned to see it.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -86,7 +86,7 @@ The travelers themselves seem normal. Same mix of merchants, expedition parties,
 
 He keeps the logs. He does his job. He watches for whatever it is that someone expects him to notice, even though no one has told him what that might be.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -100,7 +100,7 @@ He is recording what he sees because that is what the new protocols require. Wai
 
 He does not know what it means. He knows that in his experience, when documentation requirements change without explanation, it is because someone expects to need the documentation later. For what purpose, he has not been told.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -114,7 +114,7 @@ One of his contacts at the [[Ashford]] command post — someone who has worked t
 
 He is recording what he sees. Traveler volumes, documentation patterns, the frequency of verification delays, the reasons given when delays occur. He does not know what it means, but he knows that something is in motion that he is not being told about directly. The patterns are there. Someone is managing them. He is documenting them because that is what he was advised to do, and because six years of border work has taught him that when experienced people tell you to keep careful records, you keep careful records.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -128,7 +128,7 @@ One of his contacts at the [[Ashford]] command post told him to log everything c
 
 He is recording what he sees. He does not know what it means. But he has learned that when experienced people start being careful about things they were not previously careful about, there is usually a reason that becomes clear later. He would prefer to understand the reason before it becomes clear.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_
 
 ## The Shift
 
@@ -142,4 +142,4 @@ One of his contacts at the Ashford command post — someone he has worked with f
 
 Doss is recording what he sees because that is what he has been trained to do. The patterns he observes — the documentation changes, the increased attention to his reports, the uptick in cross-border movement — may mean something or may mean nothing. He does not have enough context to distinguish between the two. But he has learned that border guards who fail to document what they notice do not remain border guards for long.
 
-*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+_See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]_

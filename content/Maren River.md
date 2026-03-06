@@ -16,4 +16,4 @@ Rural communities in [[Maren Valley]] depend on river continuity for both income
 
 Terravellian attitudes toward proportionality and reliability are reinforced by river life. Overcasting to solve one immediate river problem can create a downstream failure with higher total cost; founding-era institutions learned this repeatedly, and modern guild norms still reflect that memory.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Maren Valley]], [[Maren Freight Chain]], [[Ashford]], [[Trade Guilds]], [[The Northern Founding]]*
+_See also: [[Terravelle]], [[Valdenmoor]], [[Maren Valley]], [[Maren Freight Chain]], [[Ashford]], [[Trade Guilds]], [[The Northern Founding]]_

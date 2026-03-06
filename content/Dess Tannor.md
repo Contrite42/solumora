@@ -10,4 +10,4 @@ She lives with her long-term partner Kerim in shared quarters in the residential
 
 She has recently noticed an increase in complaint documentation related to seasonal work disruption — unusual patterns in the [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] trading schedules. Other merchants have mentioned similar concern. She has recorded the data but has not escalated it beyond the guild level. It is the kind of thing that guild people track and worry about without necessarily involving authorities. If disruption becomes severe, she will have documentation ready.
 
-*See also: [[Solhaven]], [[Harbor District]], [[Auralis]], [[Control Tier]], [[Hedun-Solhaven Coastal Run]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Harbor District]], [[Auralis]], [[Control Tier]], [[Hedun-Solhaven Coastal Run]], [[Ordinary Life in Auralis]]_

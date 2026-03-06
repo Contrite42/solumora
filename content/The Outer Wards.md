@@ -30,4 +30,4 @@ Outer Ward residents span the full range of settlement permanence. Some families
 
 The long-resident families give the Outer Wards their neighborhood texture: the naming of intersections after people who died two generations ago, the persistent social hierarchies of who has been here longest and who is still finding their footing, the informal mutual aid that operates through relationships rather than institutions. The short-term residents thin this texture at the edges, bringing the seasonal variation in population that a city with Valdenmoor's labor-pulling power inevitably produces.
 
-*See also: [[Valdenmoor]], [[Terravelle]], [[The Dock Wards]], [[Guild Quarter]], [[Life in Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Covenant of Measure]], [[Trel Alvn]], [[Maren Valley]]*
+_See also: [[Valdenmoor]], [[Terravelle]], [[The Dock Wards]], [[Guild Quarter]], [[Life in Valdenmoor]], [[Trade Guilds]], [[Control Tier]], [[Covenant of Measure]], [[Trel Alvn]], [[Maren Valley]]_

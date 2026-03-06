@@ -34,4 +34,4 @@ Mira Cols has been tracking stopover frequency for five years. This season's dro
 
 The village continues. The work continues. But margin is narrower than it was.
 
-*See also: [[Terravelle]], [[Maren River]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], Sald Orvn, Mira Cols*
+_See also: [[Terravelle]], [[Maren River]], [[Valdenmoor]], [[Maren Freight Chain]], [[Life in Rural Terravelle]], [[Control Tier]], Sald Orvn, Mira Cols_

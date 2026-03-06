@@ -24,4 +24,4 @@ The Caravan is opposed by predatory lenders and market actors who gain leverage 
 
 It trades in continuity: one more week of food, one more month of transport access, one less forced migration to city edges.
 
-*See also: [[Covenant of Measure]], [[Life in Rural Terravelle]], [[Terravelle]], [[Valdenmoor]], [[Flux Medicine]], [[Mending Seal]], [[Watts]]*
+_See also: [[Covenant of Measure]], [[Life in Rural Terravelle]], [[Terravelle]], [[Valdenmoor]], [[Flux Medicine]], [[Mending Seal]], [[Watts]]_

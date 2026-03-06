@@ -42,4 +42,4 @@ His business is successful because expedition leaders have learned that the diff
 
 The permanent residents of Halveth consider Cor essential to the village's continued existence. He provides practical security expertise, economic stability through his supply business, and the kind of institutional memory that keeps communities functional in dangerous environments. He has no formal authority in the village, but his opinions carry weight in any decision that affects the settlement's relationship to the desert or to the people who cross it.
 
-*See also: [[Halveth]], [[Equatorial Desert]], [[Wren]], [[Ancient Ruins]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Sigils]], [[Thermal Sigils]], [[Expedition Supplies]], [[Ossen Drel]], [[Selt Orvn]], [[Vorn Teld]]*
+_See also: [[Halveth]], [[Equatorial Desert]], [[Wren]], [[Ancient Ruins]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Sigils]], [[Thermal Sigils]], [[Expedition Supplies]], [[Ossen Drel]], [[Selt Orvn]], [[Vorn Teld]]_

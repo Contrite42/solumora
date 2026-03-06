@@ -34,7 +34,7 @@ Terravelle's administrative structure is resilient and slow. It is resilient bec
 
 This is in direct contrast with [[Auralis]], where [[The Council of Auralis|the Council]] can make rapid decisions that apply across the southern kingdom's administrative structure. Terravelle's diffused governance means it cannot move quickly, but it also means that no single faction can redirect the kingdom's institutions with a council vote. This has frustrated Auralis strategists for as long as both kingdoms have been paying attention to each other.
 
-*See also: [[Terravelle]], [[Trade Guilds]], [[Covenant of Measure]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Wolfpoint]], [[The Council of Auralis]], [[Ordinary Life in Terravelle]]*
+_See also: [[Terravelle]], [[Trade Guilds]], [[Covenant of Measure]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Wolfpoint]], [[The Council of Auralis]], [[Ordinary Life in Terravelle]]_
 
 ## Active Faction Interfaces
 
@@ -49,4 +49,4 @@ Terravelle city and guild councils regularly negotiate with six high-frequency o
 
 None of these groups govern the kingdom directly. All of them can stall or stabilize a sector in under a week.
 
-*See also: [[Terravelle]], [[Trade Guilds]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Factions]], [[Maren Freight Chain]]*
+_See also: [[Terravelle]], [[Trade Guilds]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Factions]], [[Maren Freight Chain]]_

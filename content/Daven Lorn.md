@@ -6,4 +6,4 @@ The lower trade district is a specific kind of medical environment. The presenti
 
 He keeps case notes. Minimal entries: date, presenting problem, what he did, what happened. He keeps them because he has found, over seventeen years, that patterns appear in the notes that he would not have noticed otherwise. The notes are not available to the guild review system. He has been asked about this once and explained that the certification does not require external documentation for uncertified clients. This is accurate. He has not been asked again.
 
-*See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Flux Users]], [[Daven Lorn's Case Notes]]*
+_See also: [[Valdenmoor]], [[Life in Valdenmoor]], [[Flux Users]], [[Daven Lorn's Case Notes]]_

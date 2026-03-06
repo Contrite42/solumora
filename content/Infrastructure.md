@@ -4,4 +4,4 @@ This includes roads, ports, distribution depots, registry processes, and the low
 
 Infrastructure is usually politically invisible until it breaks.
 
-*See also: [[Terravelle]], [[Auralis]], [[Solhaven]], [[Valdenmoor]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]]*
+_See also: [[Terravelle]], [[Auralis]], [[Solhaven]], [[Valdenmoor]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]]_

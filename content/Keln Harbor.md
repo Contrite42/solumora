@@ -75,4 +75,4 @@ Keln Harbor benefits from this network through steady demand for new boats, regu
 
 The relationship is not managed centrally, does not operate under guild regulation, and functions through direct economic relationships among people whose livelihoods depend on boats that work. This informal coordination structure is what makes coastal settlement viability possible outside major port infrastructure — and why maritime operations continue to expand despite limited institutional investment in distributed harbor development.
 
-*See also: [[Auralis]], [[Hedun]], [[Solhaven]], [[Torst Bay]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Control Tier]], [[Flux]], Trel Orvn, Mara Keld, Kess Norn, [[Coastal Settlement Network]], [[Maritime Storm Coordination]]*
+_See also: [[Auralis]], [[Hedun]], [[Solhaven]], [[Torst Bay]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Control Tier]], [[Flux]], Trel Orvn, Mara Keld, Kess Norn, [[Coastal Settlement Network]], [[Maritime Storm Coordination]]_

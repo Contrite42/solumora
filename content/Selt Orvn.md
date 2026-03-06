@@ -8,4 +8,4 @@ He has met most of the people who pass through Halveth regularly. [[Wren]] comes
 
 His T2 casting is used for preservation work — keeping stocks viable over long storage periods, maintaining the integrity of Flux-sensitive equipment. Routine application, exactly matched to the work.
 
-*See also: [[Halveth]], [[Life in Halveth]], [[Terravelle]], [[The Bone Sea]], [[Wren]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]*
+_See also: [[Halveth]], [[Life in Halveth]], [[Terravelle]], [[The Bone Sea]], [[Wren]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]_

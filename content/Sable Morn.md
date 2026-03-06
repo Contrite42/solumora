@@ -8,4 +8,4 @@ Her [[Control Tier|T2]] casting is used for cargo work — minor stabilizing app
 
 She owns a small property at the Valdenmoor end of the circuit that she uses between runs. She has not spent more than six consecutive weeks there in the past decade.
 
-*See also: [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Terravelle]], [[Sable Morn's Route Journal]]*
+_See also: [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Terravelle]], [[Sable Morn's Route Journal]]_

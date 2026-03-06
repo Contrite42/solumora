@@ -6,4 +6,4 @@ Her administrative work is technically sound and politically competent. She unde
 
 The question she has not answered is whether she is building something or becoming something she did not decide to become. The city's architecture does not make this question easy to hold. In Solhaven, the difference between agency and accommodation looks, from outside, identical.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_

@@ -10,4 +10,4 @@ She maintains knowledge of which upper-terrace merchants prefer her work and occ
 
 Renna has no ambition to move to the Crestward. She has assets, stability, and the genuine autonomy that merchant ownership provides. Her children may move up; if they demonstrate sufficient tier capacity they may find opportunities in elite institutions. She would be proud of them for achieving that, and also content if they chose to continue the family trade.
 
-*See also: [[Solhaven]], [[The Bluff District]], [[Auralis]], [[Control Tier]], [[Ascendant Path]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[The Bluff District]], [[Auralis]], [[Control Tier]], [[Ascendant Path]], [[Ordinary Life in Auralis]]_

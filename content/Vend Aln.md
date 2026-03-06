@@ -8,4 +8,4 @@ He has not raised this observation with any of the senior Luminants. The junior 
 
 He has started supplementing the standard pastoral visits with follow-up contact — informal, not officially recorded — that maintains ongoing connection rather than concluding at the ceremony. He has not been told not to do this.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]], [[Tier Assessment]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]], [[Tier Assessment]]_

@@ -6,4 +6,4 @@ He now does pre-expedition consultation for teams heading east. This is not an o
 
 What he tells expedition members: the risk is real, local information is your first protection, and your Flux capacity is your last line, not your first. He has never had a team return to tell him this advice was wrong. He has had two teams that did not return.
 
-*See also: [[Halveth]], [[Life in Halveth]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Flux Users]]*
+_See also: [[Halveth]], [[Life in Halveth]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Flux Users]]_

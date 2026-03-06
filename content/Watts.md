@@ -46,4 +46,4 @@ The two economies interact at their edges. A village that produces something a c
 
 What a Watt buys varies significantly by location and context. A day's unskilled labor in [[Valdenmoor]] runs in the low single digits. A skilled [[Flux Users|Formulist]]'s daily rate in [[Solhaven]] runs in the hundreds. A desert crossing expedition outfit from [[Halveth]] runs in the thousands. The kingdoms do not fix prices and do not regulate wages beyond minimum standards in guild-registered trades. The ledger records what people agree to. It does not have opinions about whether the agreement was fair.
 
-*See also: [[Birth Runes]], [[Flux]], [[Flux Cost Reference]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Halveth]], [[Ancient Ruins]], [[Sera Voss]], [[Hypertext]], [[Ordinary Life]], [[Pell Vastl]], [[Miren Thask]], [[Doss Varn]]*
+_See also: [[Birth Runes]], [[Flux]], [[Flux Cost Reference]], [[Solumora]], [[Terravelle]], [[Auralis]], [[Halveth]], [[Ancient Ruins]], [[Sera Voss]], [[Hypertext]], [[Ordinary Life]], [[Pell Vastl]], [[Miren Thask]], [[Doss Varn]]_

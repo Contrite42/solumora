@@ -67,4 +67,4 @@ Both kingdoms implicitly benefit from the Desert Watch — their border settleme
 
 The Desert Watch is maintained by the settlements that need it, operates outside institutional frameworks because that is how it works best, and continues functioning as long as people at the border recognize that cooperation serves everyone better than isolation.
 
-*See also: [[Equatorial Desert]], [[Korst Station]], [[Thel Reach]], [[Dren Outpost]], [[Seln Watch]], [[Halveth]], [[Rift Incursions]], [[Cross-Border Guide Network]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Emberfall]], [[Control Tier]], Ven Torsk, Veld Marr, Lorn Brennik, Tor Seln*
+_See also: [[Equatorial Desert]], [[Korst Station]], [[Thel Reach]], [[Dren Outpost]], [[Seln Watch]], [[Halveth]], [[Rift Incursions]], [[Cross-Border Guide Network]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Emberfall]], [[Control Tier]], Ven Torsk, Veld Marr, Lorn Brennik, Tor Seln_

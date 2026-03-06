@@ -32,4 +32,4 @@ The two partial crossings I count separately. The first, I turned us back. The d
 
 I cross Zakros because I am better at it than almost anyone currently working, and because the alternative is to let people who are worse at it continue to guide people across. That is the complete explanation. I have tested it for other components and have not found any.
 
-*See also: [[Avel Coss]], [[Equatorial Desert]], [[Auralis]], [[Ancient Ruins]], [[Rift Incursions]]*
+_See also: [[Avel Coss]], [[Equatorial Desert]], [[Auralis]], [[Ancient Ruins]], [[Rift Incursions]]_

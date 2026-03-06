@@ -30,4 +30,4 @@ The Covenant of Measure is Terravelle's closest thing to organized religion and 
 
 Most Terravelle residents participate in Covenant ceremonies the way people participate in cultural habit: regularly, meaningfully at the significant moments, and without extensive examination in between. This is considered appropriate participation. More than that is considered a little much.
 
-*See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Life in Rural Terravelle]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]]*
+_See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Life in Rural Terravelle]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]]_

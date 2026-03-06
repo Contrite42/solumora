@@ -11,6 +11,7 @@ Crossing parties who have advance arrangement with the Compact receive sealed ro
 The Relay-Stage Crossing method is the Compact's primary client draw. It is suitable for parties who cannot sustain the full Flux load of an unassisted crossing but need to move cargo or information that cannot wait for a formal expedition season.
 
 Typical clients:
+
 - High-value commercial cargo that does not officially exist on any manifest (neither kingdom asks too many questions about goods that arrive from the other side)
 - Academic researchers traveling independently of Corps or guild sponsorship, who cannot book a Cooperative guide during peak expedition season
 - Information couriers carrying material that would be inspected on any official route
@@ -28,4 +29,4 @@ The Compact's founding is unclear even to its current operators. The oldest surv
 
 The Compact's single significant failure mode is cache compromise. A destroyed or looted cache along a planned relay route turns a survivable crossing into an emergency. The Compact's track record is good but not perfect — two cache compromises in the past decade, one from rift activity near the cache site and one from a crossing party that consumed beyond their contracted allocation and did not report it. The second party did not cross the desert again under Compact arrangement.
 
-*See also: [[Equatorial Desert]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Halveth Cooperative]], [[The Advancement Corps]], [[Halveth]], [[Rift Incursions]]*
+_See also: [[Equatorial Desert]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Halveth Cooperative]], [[The Advancement Corps]], [[Halveth]], [[Rift Incursions]]_

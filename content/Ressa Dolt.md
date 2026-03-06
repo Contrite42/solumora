@@ -6,4 +6,4 @@ She does not think often about the metaphysical claims the [[Ascendant Path]] ma
 
 What she thinks about: the quality of the inscription work. A rune inscribed incorrectly can create documentation problems for the individual for decades. She has never inscribed one incorrectly. She expects to maintain this.
 
-*See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]*
+_See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_

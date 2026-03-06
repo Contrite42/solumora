@@ -24,4 +24,4 @@ Families who distrust state placement resist intake offers, and rival offices co
 
 It trades in access: better teachers, better grimoires, faster promotion lanes, and political protection while a candidate is useful.
 
-*See also: [[Solhaven]], [[The Council of Auralis]], [[Ascendant Path]], [[Tier Assessment]], [[Control Tier]], [[Grimoire Commissioning]], [[Cassia]]*
+_See also: [[Solhaven]], [[The Council of Auralis]], [[Ascendant Path]], [[Tier Assessment]], [[Control Tier]], [[Grimoire Commissioning]], [[Cassia]]_

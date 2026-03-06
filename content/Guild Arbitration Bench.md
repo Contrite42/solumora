@@ -24,4 +24,4 @@ Parties that profit from ambiguous contracts try to route work around the Bench,
 
 It trades in enforceability, precedent, and lower-cost conflict resolution.
 
-*See also: [[Terravelle Administration]], [[Trade Guilds]], [[Valdenmoor]], [[Watts]], [[Cross-Border Grimoire Trade]], [[Grimoire Rights and Restrictions]], [[Maren Ledger Syndicate]]*
+_See also: [[Terravelle Administration]], [[Trade Guilds]], [[Valdenmoor]], [[Watts]], [[Cross-Border Grimoire Trade]], [[Grimoire Rights and Restrictions]], [[Maren Ledger Syndicate]]_

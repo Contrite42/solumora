@@ -34,4 +34,4 @@ Valdenmoor's supply base is [[Maren Valley]] — the agricultural and river-tran
 
 Dispatch schedules, bonded storage windows, and transfer pricing for river-borne bulk cargo are coordinated in Valdenmoor's administrative offices before volume is pushed east toward [[Ashford]] for export. This is not glamorous work, but it is one of the systems that allows Terravelle to keep trade moving when political conditions at the border are unstable.
 
-*See also: [[Terravelle]], [[Eddan Voss]], [[Cael]], [[Solumora]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Fen Orel]], [[Life in Valdenmoor]], [[Ordinary Life]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Maren Freight Chain]], [[Trade Guilds]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]]*
+_See also: [[Terravelle]], [[Eddan Voss]], [[Cael]], [[Solumora]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Fen Orel]], [[Life in Valdenmoor]], [[Ordinary Life]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Maren Freight Chain]], [[Trade Guilds]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]]_

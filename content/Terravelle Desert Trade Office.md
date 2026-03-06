@@ -5,6 +5,7 @@
 Terravelle treats the desert as a problem to manage, not a resource to exploit. The Trade Office reflects this: it exists not to enable crossings but to ensure that the crossings that happen anyway are documented, survive at a rate high enough to not become a political embarrassment, and return goods or information that justify the cost.
 
 An authorized crossing permit from the Trade Office requires:
+
 - Statement of purpose and declared cargo (both ways)
 - Proof of minimum Flux capability (T2 for any crossing party member; T3 recommended for lead caster)
 - Bonding deposit against Terravelle emergency extraction costs if applicable
@@ -24,5 +25,4 @@ The Trade Office's actual significance is less in the crossings it enables and m
 
 Whether it does anything useful is a question the staff are not encouraged to examine closely.
 
-*See also: [[Terravelle]], [[Equatorial Desert]], [[The Northern Narrows]], [[Halveth Cooperative]], [[Halveth]], [[Expansion Faction]], [[Trade Guilds]]*
-
+_See also: [[Terravelle]], [[Equatorial Desert]], [[The Northern Narrows]], [[Halveth Cooperative]], [[Halveth]], [[Expansion Faction]], [[Trade Guilds]]_

@@ -30,4 +30,4 @@ In Wolfpoint and the far north, the Quiet Work is background — present the way
 
 The [[The Wolfpoint Scholarium|Scholarium's]] access restrictions exist partly within a Quiet Work framework: knowledge should be shared with those who can use it precisely, and distributed to those who cannot is a form of waste that produces imprecision at scale.
 
-*See also: [[Wolfpoint]], [[Hypertext]], [[The Voss Line]], [[Sera Voss]], [[Religions]], [[Covenant of Measure]], [[Sigils]], [[Flux]], [[The Wolfpoint Scholarium]]*
+_See also: [[Wolfpoint]], [[Hypertext]], [[The Voss Line]], [[Sera Voss]], [[Religions]], [[Covenant of Measure]], [[Sigils]], [[Flux]], [[The Wolfpoint Scholarium]]_

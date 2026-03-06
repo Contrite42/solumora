@@ -46,7 +46,7 @@ The slow fraying of the peace between the two kingdoms is something she watches 
 
 She hopes, in the quiet way of people who have learned not to hope loudly, that it does not come to war in her lifetime. She does not have a good reason to believe it won't.
 
-*See also: [[Auralis]], [[Eddan Voss]], [[Cael]], [[Drest]], [[The Council of Auralis]], [[Council Members]], [[Maren Sollis]], [[Tovan Ashce]], [[Hadren Cosse]], [[Kingdoms]], [[Flux]], [[Control Tier]], [[Solhaven]]*
+_See also: [[Auralis]], [[Eddan Voss]], [[Cael]], [[Drest]], [[The Council of Auralis]], [[Council Members]], [[Maren Sollis]], [[Tovan Ashce]], [[Hadren Cosse]], [[Kingdoms]], [[Flux]], [[Control Tier]], [[Solhaven]]_
 
 ## What She Knows
 
@@ -58,7 +58,7 @@ What she is doing with it: she is writing private notes in a cipher she built at
 
 She has not told anyone. [[Ysel Voss]] is the nearest person she might trust, but Ysel is at [[Wolfpoint]], and Cassia has no unreviewed channel to Wolfpoint.
 
-*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
 
 ## What She Knows
 
@@ -84,7 +84,7 @@ She can also continue writing. The cipher she uses is not complex enough to resi
 
 The constraint she operates under is that she cannot prevent what she sees coming. She can only document it, prepare for it, and position herself to respond appropriately when it arrives. This is not the role she would have chosen, but it is the role her circumstances permit, and she has learned to work within it effectively.
 
-*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
 
 ## What She Knows
 
@@ -96,7 +96,7 @@ What she is doing with it: She is writing. Not correspondence — private notes,
 
 She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
 
-*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
 
 ## What She Knows
 
@@ -116,7 +116,7 @@ Her cipher is simple enough to use quickly and complex enough that casual inspec
 
 The pattern says that the Expansion Faction believes something is going to happen soon enough that they need to be ready for it. Whether they are preparing to cause it or to respond to it is not clear from her observations. Either way, they are preparing.
 
-*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
 
 ## What She Knows
 
@@ -132,7 +132,7 @@ The cipher is simple enough that she can write in it quickly during Council sess
 
 She knows that Drest has been building something for longer than three years. She knows that the Expansion Faction's current composition is not its final form. She knows that [[The Council of Auralis]] is moving toward decisions that will not be presented as decisions until they have already been implemented. She writes this down because someone should have a record of what actually happened, even if that someone is only herself.
 
-*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
 
 ## What She Knows
 
@@ -152,4 +152,4 @@ Her cipher is not sophisticated by the standards of professional cryptography. I
 
 She does not know what she will do with this record. She does not know if she will ever do anything with it. But she knows that if the moment comes when someone needs to understand what happened and how, the information will exist. Someone will have been paying attention.
 
-*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_

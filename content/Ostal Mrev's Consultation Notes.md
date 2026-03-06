@@ -1,4 +1,4 @@
-*Working extracts from the personal consultation records of [[Ostal Mrev]]. Cases organized by problem category. The following are from the section on environmental parameter drift — sigil arrays installed to specification that subsequently fail as conditions change.*
+_Working extracts from the personal consultation records of [[Ostal Mrev]]. Cases organized by problem category. The following are from the section on environmental parameter drift — sigil arrays installed to specification that subsequently fail as conditions change._
 
 ---
 
@@ -26,4 +26,4 @@ Diagnostic process revealed the spec ambiguity within the first site visit. The 
 
 Note: Specification language clarity is a documentation problem as much as a casting problem. Ambiguous specifications produce this case. Clear specifications produce Case 7. Neither can be fully prevented. Both can be made more or less frequent depending on whether the [[Trade Guilds|guild]] network takes documentation seriously at the specification-writing stage, not just the installation stage.
 
-*See also: [[Ostal Mrev]], [[Trade Guilds]], [[Flux Users]], [[Valdenmoor]]*
+_See also: [[Ostal Mrev]], [[Trade Guilds]], [[Flux Users]], [[Valdenmoor]]_

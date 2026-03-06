@@ -8,4 +8,4 @@ The letters sit in a box in her room. She has read each of them twice. She is no
 
 She would like someone to explain to her what she has actually become without also explaining what she is supposed to do about it. This is not, as far as she can tell, a thing anyone will do.
 
-*See also: [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Tier Assessment]], [[Ordinary Life in Auralis]]*
+_See also: [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Tier Assessment]], [[Ordinary Life in Auralis]]_

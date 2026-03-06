@@ -1,4 +1,5 @@
 # Solumora World State
+
 Canon reference for all agents. DO NOT invent content outside this document.
 
 ---
@@ -8,17 +9,20 @@ Canon reference for all agents. DO NOT invent content outside this document.
 Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fantasy tropes.
 
 **Correct name patterns:**
+
 - First: Sera, Eddan, Drest, Cassia, Ysel, Cael, Wren, Mave, Mira, Aldric, Rett, Toven, Renne
 - Surname: Voss, Soln, Solv, Rhyce, Mourne, Osl, Ral
 - Ground-level (first only or first+short surname): Nara Celd, Osvin Brack, Keld Dast, Sable Morn, Cor Meln, Vel Sorvn
 
 **FORBIDDEN name patterns (instant canon violation):**
+
 - Compound poetic names: Darkhaven, Earthsong, Moonwhisper, Stonefist, Blackwood, Greenhaven, Windsong
 - Fantasy titles in names: "the Bold", "the Swift"
 - Irish/Celtic: Niamh, Caoimhe, Aoife
 - High fantasy: Kaelin, Lila, Aria, Zara, Thrain
 
 **Place name patterns:**
+
 - Existing: Valdenmoor, Ashford, Greyveil, Wolfpoint, Halveth, Solhaven, Hedun, Emberfall
 - New places should feel like real-world geography: short, grounded, Germanic/Northern European
 - FORBIDDEN: Zha'thik, Khyronia, Nefaria, Valtania, Aridos, Luminara, etc.
@@ -37,17 +41,20 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 ## GEOGRAPHY
 
 **Terravelle (north)**
+
 - Capital: Valdenmoor (major port city)
 - Other cities: Ashford (border city near desert), Greyveil (mining/ore district), Wolfpoint (coastal fortress, secretive)
 - Rural interior: scattered farming communities, Covenant mediation
 - Governance: Crown (external/military/judicial) + Guild Councils (trade/economic) + City Councils (civic) + Covenant of Measure (rural informal)
 
 **Auralis (south)**
+
 - Capital: Solhaven (tiered coastal city, Crestward = elite district)
 - Other cities: Hedun (port), Halveth (desert-edge garrison), Emberfall (ruins-adjacent research town)
 - Governance: The Council of Auralis (centralized, 30+ members). Ascendant Path = Flux-tier advancement system
 
 **Equatorial Desert**
+
 - Lethal. Rift Incursions occur (Flux Demons emerge). Halveth guards the crossing.
 - Disputed territory north of Auralis: wayhouses, difficult passage
 - Ancient ruins scattered throughout
@@ -59,6 +66,7 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 **Flux**: Ambient energy permeating the world. Cannot be stored — only channeled in the moment. Unlimited supply; cost is precision.
 
 **Control Tier (T0–T9)**: Randomly distributed at birth (assessed ~age 12–14). Cannot be trained up.
+
 - T0: ~40% of population. Can feel Flux, cannot cast independently
 - T1–T2: Common working practitioners
 - T3–T4: Skilled, valuable
@@ -66,11 +74,13 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 - T7–T9: Extremely rare, effectively theoretical at T8–T9
 
 **Casting methods**:
+
 - Sigils: Geometric inscriptions (Triangle/Square/Pentagon/Circle = 3/4/5/6 variable slots). Academic system.
 - Hand Signs: Gestural, fast, imprecise. Street and field use.
 - Hypertext: Ancient method only Mira Solv has theorized. Possibly what the ancient civilization used.
 
 **Flux cost (Watts)**:
+
 - Formula: (Shape base × Discipline multiplier) + variable additions × Hook/Mode multiplier
 - Disciplines: Raw×1, Force×2, Heat×2, Light×3, Sound×4, Electric×5, Chemical×5, Binding×10, Mind×25, Soul×75
 - T0:1–10W, T1:11–40W, T2:41–130W, T3:131–400W, T4:401–1300W, T5:1301–4000W, T6:4001–13000W, T7:13001–40000W, T8:40001–130000W, T9:>130000W
@@ -82,11 +92,13 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 ## INSTITUTIONS
 
 **Terravelle**
+
 - Trade Guilds: Three-stage certification (apprentice→journeyman→certified), tier-graded, documentation standard
 - Covenant of Measure: Informal religious/philosophical organization. Mediation in rural areas. NOT bureaucratic.
 - Terravelle Administration: Crown + Guild Councils + City Councils. Diffuse, resilient, slow.
 
 **Auralis**
+
 - The Council of Auralis: Centralized 30+ member governance body
 - Ascendant Path: Formal advancement track for high-tier practitioners. Career system.
 - The Advancement Corps: Field research institution. Stated: ruins documentation. Actual: population experiments, selective reporting, euphemistic language.
@@ -98,6 +110,7 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 ## PRINCIPAL CHARACTERS
 
 **Terravelle:**
+
 - **Eddan Voss** (T7): King of Terravelle. Moderate, constrained by Guild system and advisors.
 - **Sera Voss** (T6): Eddan's daughter. Scholar. Discovered Watts = ancient civilization currency system. Has NOT told anyone.
 - **Ysel Voss** (T5): Eddan's son. Read Sera's draft notes. Reached different conclusions.
@@ -105,6 +118,7 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 - **Mira Solv** (T5): Scholar. Has theorized Hypertext. Deliberately withholding from Drest.
 
 **Auralis:**
+
 - **Drest** (T6): Most powerful Council member. Leads Culmination Faction. Leads Expansion Faction in practice. Drew lesson from Ashford Blockade: need real military capability. Strategic, patient.
 - **Cassia** (T4): Council member. Moderate. Constrained — cannot openly oppose Drest.
 - **Aldric Mourne** (T4): Academic. Culmination Faction's scholarly arm. Works Emberfall ruins.
@@ -119,6 +133,7 @@ Solumora names are SHORT, TERSE, CONSONANT-HEAVY, Germanic/Nordic feel. NO fanta
 - **Renne Osl** (T3): Active Advancement Corps Senior Field Assessor.
 
 **High Demons (embedded in society, true identities secret):**
+
 - **Selvane** (Solhaven): Prominent Council-adjacent figure. Does not know Mave is also a demon. Mave is Selvane's only "sweet spot" — the one relationship where Selvane's controlled behavior genuinely relaxes. Essa Rolt has noticed.
 - **Mave** (Solhaven): No independent professional identity. Orbits Selvane socially like a younger sibling — appears at Selvane's functions, gravitates to Selvane without explaining why. Neither knows the other is a demon.
 - **Fennick** (Hedun): Port-adjacent. Multiple ground-level characters orbit his sphere without knowing what he is.

@@ -6,4 +6,4 @@ Most traffic is informational: legal packets, technical correspondence, procurem
 
 Risk management on the track is practical and conservative. Dispatch houses maintain dual-copy protocols for critical packets, and receiving offices in Greyveil log expected arrival bands rather than single timestamps so delays can be triaged without immediate escalation.
 
-*See also: [[Greyveil]], [[Wolfpoint]], [[Terravelle]], [[Hypertext]], [[Trade Guilds]], [[Life in Greyveil]], [[Life in Wolfpoint]], [[Outer Coast Packet Line]]*
+_See also: [[Greyveil]], [[Wolfpoint]], [[Terravelle]], [[Hypertext]], [[Trade Guilds]], [[Life in Greyveil]], [[Life in Wolfpoint]], [[Outer Coast Packet Line]]_

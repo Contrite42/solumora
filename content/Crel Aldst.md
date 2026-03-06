@@ -6,4 +6,4 @@ What he brought back: not knowledge of Hypertext or the archive, but a revised u
 
 This understanding has no direct application to his route documentation work. He is not sure it has changed anything practical about how he operates. It has changed how he reads competence when he sees it, and what he notices when competence is being performed rather than exercised.
 
-*See also: [[Auralis]], [[Wolfpoint]], [[Hypertext]], [[Control Tier]], [[Ordinary Life in Auralis]]*
+_See also: [[Auralis]], [[Wolfpoint]], [[Hypertext]], [[Control Tier]], [[Ordinary Life in Auralis]]_

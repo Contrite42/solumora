@@ -18,4 +18,4 @@ Torven is the kind of person who gets treated as a fixed point in other people's
 
 His relationship with the Path is practical. He attends ceremonies when they are socially expected, maintains his tier documentation, and has no strong theological views about what tier signifies spiritually. The harbor district's working relationship with the Path — present but not primary — is his natural relationship with it as well.
 
-*See also: [[Harbor District]], [[Solhaven]], [[Korvin Selt]], [[Ascendant Path]], [[Control Tier]], [[Trade Guilds]], [[Life in Solhaven]]*
+_See also: [[Harbor District]], [[Solhaven]], [[Korvin Selt]], [[Ascendant Path]], [[Control Tier]], [[Trade Guilds]], [[Life in Solhaven]]_

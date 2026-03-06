@@ -6,9 +6,9 @@ She is [[Control Tier|Tier 4]], 42 years old, and is known for reducing mission 
 
 Nessa's work starts where ambition becomes logistics. She receives expedition briefs from council-backed research programs and reconstructs them into executable architecture:
 
-- objective ladders (primary/secondary/minimum viable outputs)  
-- staffing profiles matched to route conditions  
-- cache, withdrawal, and communication thresholds  
+- objective ladders (primary/secondary/minimum viable outputs)
+- staffing profiles matched to route conditions
+- cache, withdrawal, and communication thresholds
 - conditions under which mission continuation becomes irresponsible
 
 Her planning model assumes that desert work is dynamic and that fixed plans fail unless they include pre-authorized down-scope paths.
@@ -31,4 +31,4 @@ Nessa represents a recurring pattern in Auralis expedition culture: mid-level ex
 
 Without planners like her, council goals remain declarations.
 
-*See also: [[Crestward Field Company]], [[Emberfall]], [[Equatorial Desert]], [[Emberfall Expedition Registry]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[The Council of Auralis]], [[Control Tier]]*
+_See also: [[Crestward Field Company]], [[Emberfall]], [[Equatorial Desert]], [[Emberfall Expedition Registry]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[The Council of Auralis]], [[Control Tier]]_

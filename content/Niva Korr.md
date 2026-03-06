@@ -6,9 +6,9 @@ She is 41 years old and works primarily with merchant houses that cannot afford 
 
 Niva's work sits in a Flux-dependent economy but does not require Flux use:
 
-- reconcile conflicting ledger entries before customs review  
-- identify forged sequence patterns in copied certifications  
-- map document chains to actual custody paths  
+- reconcile conflicting ledger entries before customs review
+- identify forged sequence patterns in copied certifications
+- map document chains to actual custody paths
 - prepare dispute packets when enforcement actions rely on weak evidence
 
 She cannot authenticate sigils directly. She can detect when the paperwork around a claimed sigil history is incoherent.
@@ -33,4 +33,4 @@ Niva shows a third T0 pattern: in systems that prize magical capability, non-cas
 
 When everyone argues from power, she argues from records that hold up in the morning.
 
-*See also: [[Control Tier]], [[Ashford]], [[Trade Guilds]], [[Black Market Grimoire Circulation]], [[Midden Exchange]], [[Grimoire Authentication]], [[Watts]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+_See also: [[Control Tier]], [[Ashford]], [[Trade Guilds]], [[Black Market Grimoire Circulation]], [[Midden Exchange]], [[Grimoire Authentication]], [[Watts]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]_

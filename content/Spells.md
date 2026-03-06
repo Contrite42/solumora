@@ -15,4 +15,10 @@ All three methods rely on the same principle: shaping [[Flux]] into a controlled
 
 All documented spells are catalogued in the [[All Grimoire]], organized by rarity from [[Common Grimoire|Common]] through [[Pale Grimoire|Pale]].
 
-*See also: [[Sigils]], [[Flux]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]]*
+_See also: [[Sigils]], [[Flux]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]]_
+
+## Sigil Maker Generated Spells
+
+- [[Spells/Raw Lantern Mark|Raw Lantern Mark]] - 3 W - T0 (Common)
+- [[Spells/Force Lantern Mark|Force Lantern Mark]] - 7 W - T0 (Common)
+- [[Spells/Heat Lantern Mark|Heat Lantern Mark]] - 7 W - T0 (Common)

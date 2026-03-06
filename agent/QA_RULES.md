@@ -1,4 +1,5 @@
 # QA Rules for Solumora Vault
+
 Rules for the GPT QA + Linking agent. Conservative by design. When in doubt, do nothing.
 
 ---
@@ -23,6 +24,7 @@ Rules for the GPT QA + Linking agent. Conservative by design. When in doubt, do 
 ## FORBIDDEN LINK TARGETS
 
 These pages do not exist and must never be linked:
+
 - Any page not in the KNOWN TITLES list
 - "Admin" pages: tags, templates, utility pages, navigation aids
 - Pages that look like meta-structure (e.g. "Home", "Dashboard", "MOC", "Index" links unless index.md)
@@ -36,12 +38,14 @@ If you see existing text linking to a non-existent page, flag it as an inconsist
 When reviewing changed files, flag any of the following as inconsistencies:
 
 **Naming violations:**
+
 - Character with compound poetic surname (Darkhaven, Earthsong, Moonwhisper, etc.)
 - Character named "X the Bold/Wise/Swift" etc.
 - Place name that sounds like generic fantasy (Zha'thik, Khyronia, Nefaria, Aridos, etc.)
 - Faction name that sounds like D&D (Shadowhand Brotherhood, Ironfist Legion, Luminari Enclave)
 
 **Lore violations:**
+
 - A sixth High Demon mentioned (only 5 exist: Selvane, Mave, Fennick, Wren, Sorath)
 - A T9 practitioner described as active and known
 - Someone knowing the Watts=ancient civilization secret (only Sera Voss knows this)
@@ -50,12 +54,14 @@ When reviewing changed files, flag any of the following as inconsistencies:
 - New magic types beyond Sigils, Hand Signs, Hypertext
 
 **Structural violations:**
+
 - A note with no See Also section
 - A new page that doesn't link to at least 3 existing pages
 - A character with a Control Tier above T7 who is not one of the established principal characters
 - A note that resolves a narrative thread (Watts secret, High Demon reveals, political resolution)
 
 **Geographic violations:**
+
 - A location not in Terravelle, Auralis, or the Equatorial Desert region
 - A reference to a second continent or ocean crossing
 - A new city in Terravelle that is not: Valdenmoor, Ashford, Greyveil, Wolfpoint (or a hamlet/village clearly subordinate to these)
@@ -66,16 +72,19 @@ When reviewing changed files, flag any of the following as inconsistencies:
 ## HUB PAGE UPDATES
 
 When Claude creates new notes that belong to an existing hub or index page, you may suggest append-only additions:
+
 - Add the new page to "See Also" of the nearest parent location/concept page
 - Do NOT rewrite existing hub content — only append
 
 Safe hub pages to append to:
+
 - `content/index.md` — only if a major new reading path is warranted
 - `content/Terravelle.md`, `content/Auralis.md` — location child pages
 - `content/The Council of Auralis.md` — new Council-related pages
 - `content/History of Solumora.md` — new historical events
 
 NEVER append to:
+
 - Individual character pages (they are self-contained)
 - Lore pages (Flux, Control Tier, etc.) unless directly extending those systems
 
@@ -84,6 +93,7 @@ NEVER append to:
 ## REPORT FORMAT
 
 ### inconsistencies.md
+
 ```
 # Inconsistencies
 
@@ -93,6 +103,7 @@ NEVER append to:
 ```
 
 ### links_applied.md
+
 ```
 # Links Applied
 

@@ -1,5 +1,3 @@
-
-
 ## Current Operation
 
 The [[The Culmination Faction]]'s expedition program operates under academic cover, with sites selected on stated research priority and coordinated through [[The Advancement Corps]]. The reality is more complex. Site selection follows criteria that extend beyond scholarly interest — proximity to terrain features relevant to longer-term strategic positioning, line-of-sight access to northern desert passes, locations that would provide tactical advantage in any future campaign directed toward [[Terravelle]].
@@ -14,4 +12,4 @@ The arrangement serves both purposes effectively. Mourne's academic work provide
 
 The operation reflects Drest's approach to long-term planning: patient, strategic, built into existing institutional structures in ways that are difficult to detect and harder to contest. He believes this preparation is necessary. The council's territorial ambitions will eventually require military capability that extends beyond the current kingdom boundaries. When that time comes, having detailed intelligence about terrain access and strategic positioning will be essential. The academic research is valuable. The strategic preparation is the actual purpose.
 
-*See also: [[Aldric Mourne]], [[Emberfall]], [[The Culmination Faction]], [[The Advancement Corps]], [[Cassia]], [[Ancient Ruins]], [[Equatorial Desert]]*
+_See also: [[Aldric Mourne]], [[Emberfall]], [[The Culmination Faction]], [[The Advancement Corps]], [[Cassia]], [[Ancient Ruins]], [[Equatorial Desert]]_
