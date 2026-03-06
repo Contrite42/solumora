@@ -1154,8 +1154,8 @@ A spell that shapes effects using raw magic.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Ring |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Self |
 
 
@@ -1172,9 +1172,9 @@ A spell that detects effects using heat magic.
 | Discipline | Heat |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 
 
 ---
@@ -1190,9 +1190,9 @@ A spell that dampens effects using binding magic.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cylinder |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 
 
 ---
@@ -1208,9 +1208,9 @@ A spell that dampens effects using force magic.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 
 
 ---
@@ -1226,9 +1226,9 @@ A spell that detects effects using force magic.
 | Discipline | Force |
 | Output | Constraint |
 | Pattern | Cylinder |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 
 
 ---
@@ -1244,8 +1244,8 @@ A spell that counters effects using force magic.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Beam |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Surface |
 
 
@@ -1262,9 +1262,9 @@ A spell that moves effects using heat magic.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Ring |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 
 
 ---
@@ -1280,8 +1280,8 @@ The spell creates a localized sonic disturbance that affects a surface area with
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Cone |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Surface |
 
 
@@ -1298,8 +1298,8 @@ The spell creates a focused sonic blast emanating from the caster's body that af
 | Discipline | Sound |
 | Output | Sonic |
 | Pattern | Cone |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Surface |
 
 
@@ -1316,8 +1316,8 @@ Unleashes a blinding beam of light that momentarily disorients anyone who looks 
 | Discipline | Light |
 | Output | Sonic |
 | Pattern | Beam |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Self |
 
 
@@ -1334,9 +1334,9 @@ Instantly generates a protective barrier around the caster that deflects incomin
 | Discipline | Binding |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 
 
 ---
@@ -1352,8 +1352,8 @@ Creates a brief, localized cushion of force that gently slows the impact of an o
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Object |
 
 
@@ -1370,7 +1370,7 @@ Releases a concentrated beam of raw energy that instantly etches a glowing sigil
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Beam |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 

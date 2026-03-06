@@ -457,8 +457,8 @@ A spell that amplifies effects using soul magic.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Self |
 
 
@@ -494,7 +494,7 @@ Releases a shimmering barrier of ethereal energy that momentarily repels any neg
 | Output | Soul |
 | Pattern | Ring |
 | Reach | Anchored |
-| Persistence | _(default - Immediate)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Object |
 
 

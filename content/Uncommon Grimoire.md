@@ -1002,8 +1002,8 @@ A spell that counters effects using electric magic.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Field |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Object |
 
 
@@ -1020,9 +1020,9 @@ The spell creates a triangular field of Mind energy at the location where it is 
 | Discipline | Mind |
 | Output | Raw |
 | Pattern | Field |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
-| Target | _(default - Where Written)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
+| Target | _(default — Where Written)_ |
 
 
 ---
@@ -1038,8 +1038,8 @@ Releases a reactive chemical mist that instantly filters and purifies the air wi
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Filter |
 
 
@@ -1075,7 +1075,7 @@ Creates a powerful shockwave of chemical energy that intensifies and radiates ou
 | Output | Shock |
 | Pattern | Field |
 | Reach | Long |
-| Persistence | _(default - Immediate)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Marked |
 
 
@@ -1092,7 +1092,7 @@ Creates a temporary, soft cushion of energy that absorbs impact when landing on 
 | Discipline | Binding |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | _(default - Self)_ |
-| Persistence | _(default - Immediate)_ |
+| Reach | _(default — Self)_ |
+| Persistence | _(default — Immediate)_ |
 | Target | Surface |
 
