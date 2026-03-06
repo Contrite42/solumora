@@ -61,3 +61,19 @@ He has been in this business long enough to know the difference between friction
 The changes have a direction. More scrutiny on [[Terravelle]]-origin goods. More questions about final destination for items that used to pass through without comment. More requests for documentation that establishes chain of custody rather than just ownership. The direction has not been stated, but it is consistent enough that he has adjusted his preparation accordingly. He now carries backup documentation for transactions that never required it before. He has not been told this is necessary. He has learned that it is useful.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+The informal indicators have shifted. Orre has been working cross-border trade for eleven years, and he has learned to read the signs that matter more than the official procedures: how long his usual contacts take to return messages, the tone of conversations with inspection staff, the small delays that appear or disappear without formal explanation.
+
+Two of his longer relationships on the [[Auralis]] side have become careful. Mira Soln, who handles cargo verification at the southern checkpoint, now speaks in the precise language she uses with strangers rather than the shorthand they developed over three years of regular business. Keld Vass, his primary contact for expedited processing, has stopped offering the informal scheduling flexibility that used to smooth timing problems.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. When he inquired, the response was that additional verification was required. When he asked what kind of verification, the answer was that the requirements had been updated. When he asked to see the updated requirements, he was told they were under review.
+
+The wait times are longer. Not dramatically — the difference between two hours and four hours, between same-day processing and next-day completion. But the pattern is consistent across different types of cargo and different processing staff. Something has changed in the approval chain, and the change is creating friction at every level.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random — delays that vary by individual, by day of the week, by the mood of whoever is handling the paperwork. Signal is systematic — delays that follow a pattern, that serve a purpose, that indicate someone upstream is looking for something specific.
+
+This is signal. He is not yet sure what it is signaling, but it is not random. The informal network he relies on — the relationships that make cross-border commerce practical rather than theoretical — is responding to pressure he cannot see. The pressure has a direction. The direction has not been stated.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*

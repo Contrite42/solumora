@@ -59,3 +59,17 @@ One of his contacts at the Ashford command post told him to log everything caref
 He is recording what he sees. The shift in briefing tone, the new forms, the instruction to log carefully, the subtle changes in traveler patterns — all of it goes into his daily reports. He does not know what it means, but he knows it means something. The alternative is that his superiors have simultaneously decided to change multiple procedures for no reason, and that does not match his experience of how the border service operates.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+The briefings have changed. Doss cannot point to a specific moment when it happened, but the tone in the weekly sessions at the Ashford command post has shifted over the past year. The questions his supervisors ask are more detailed. The documentation protocols they require are more thorough. Where he once logged basic crossing data — names, declared cargo, destination — he now records travel patterns, companion associations, and duration of stay in [[Ashford]] before departure.
+
+New forms arrived six months ago without explanation. Pre-printed sheets asking for information he has never been required to track: previous border crossings by the same individual, frequency of return trips, changes in declared profession between visits. The forms came with instructions to complete them for all [[Terravelle]] nationals crossing south, but no context for why the information matters.
+
+More travelers with Terravelle papers than he has seen before. Not dramatically more — the increase is noticeable only because he has been working this post for four years and knows the normal patterns. What strikes him is not the volume but the variety. Merchants he recognizes, but also people claiming research purposes, people with vague business in [[Halveth]], people whose stated reasons for crossing do not quite align with their equipment or their answers to follow-up questions.
+
+One of his contacts at the command post — Sergeant Mira Keld, who has been stationed in Ashford longer than anyone — told him three weeks ago to log everything carefully. She has never said this before. When he asked why, she said the information might be important later, and that was the end of the conversation.
+
+He is recording what he sees. The patterns, the changes, the small inconsistencies that accumulate over weeks of observation. He does not know what it means. He knows his job is to document, not to interpret. But the shift is real, and he is the one positioned to see it.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*

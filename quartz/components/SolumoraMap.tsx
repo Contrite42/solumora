@@ -31,8 +31,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "greyveil",
     label: "Greyveil",
-    x: 468,
-    y: 258,
+    x: 454,
+    y: 272,
     keys: ["Greyveil"],
     titles: ["Greyveil"],
     align: "right",
@@ -40,8 +40,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "valdenmoor",
     label: "Valdenmoor",
-    x: 500,
-    y: 382,
+    x: 512,
+    y: 402,
     keys: ["Valdenmoor"],
     titles: ["Valdenmoor"],
     align: "right",
@@ -58,8 +58,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "northern-narrows",
     label: "Northern Narrows",
-    x: 650,
-    y: 646,
+    x: 640,
+    y: 672,
     keys: ["The-Northern-Narrows", "Northern-Narrows"],
     titles: ["The Northern Narrows", "Northern Narrows"],
     align: "left",
@@ -77,8 +77,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "southern-approaches",
     label: "Southern Approaches",
-    x: 660,
-    y: 902,
+    x: 642,
+    y: 920,
     keys: ["The-Southern-Approaches", "Southern-Approaches"],
     titles: ["The Southern Approaches", "Southern Approaches"],
     align: "left",
@@ -86,8 +86,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "halveth",
     label: "Halveth",
-    x: 648,
-    y: 958,
+    x: 632,
+    y: 982,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
@@ -168,10 +168,10 @@ export default (() => {
             rx="26"
           />
 
-          <text class="solumora-zone-label" x="500" y="186">
+          <text class="solumora-zone-label" x="500" y="176">
             Terravelle Uplands
           </text>
-          <text class="solumora-zone-label" x="500" y="776">
+          <text class="solumora-zone-label" x="500" y="760">
             Equatorial Desert Zakros
           </text>
           <text class="solumora-zone-label" x="500" y="1024">

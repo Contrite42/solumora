@@ -31,6 +31,7 @@
 - **Wolfpoint integration package**: COMPLETE. Added/updated `The Wolfpoint Question`, `Wolfpoint Exports`, `Keln Varost`, `Orva Dresk`, `Renn Cald`, plus updates in `Wolfpoint.md` and `Hypertext.md`.
 - **History backbone package**: COMPLETE. Added/updated `History.md`, `The Ancient Civilization`, `The Desert Barrier`, `The Grimoire Tradition`, `The Cultural Divergence`, `The Persecution Era`, `The Northern Founding`, `The Southern Founding`, and `Solumora.md` timeline section. Added support page `Maren River.md` and fixed history aliases.
 - **Live map integration**: COMPLETE. Added `quartz/components/SolumoraMap.tsx` with supporting script/style files and layout injection in `quartz.layout.ts` so `Solumora` now shows a canonical-position continent map with periodic link-refresh sync.
+- **Canonical integrity cycle**: COMPLETE (Codex fallback). Reports updated; map marker resolution verified (10/10) and representative route/hub inbound-outbound counts remain healthy.
 
 ## Operator Role Assignment
 - Current control-plane operator (Codex): pipeline executor + queue/decision owner.
@@ -42,6 +43,7 @@
 - `agent/staging/orchestrator.lock` may reference stale PID — avoid destructive process commands.
 - `agent/staging/PENDING_REVIEW.md` contains resolved Batch 2 record; can be pruned/rotated on next cleanup pass.
 - `content/The Bone Sea.md` is a near-empty stub — needs content if it is to remain linked anywhere.
+- Legacy unresolved-link artifacts remain in long-tail pages (alias/path/image-token forms); tracked in `agent/reports/inconsistencies.md` for routine cleanup.
 
 ## Next Operator Checklist
 1. Creator: choose `DECISION C` story bundle and `DECISION D` Terravelle scope (`A/B/C` each).
