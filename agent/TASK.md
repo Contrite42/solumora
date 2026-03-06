@@ -1,23 +1,23 @@
-# Task: Tier Extremes Expansion
+# Task: Council Mechanisms Expansion
 
 ## Goal
-Explore the **Tier Extremes** — what life is like at T7+ and T0 in a society that is mostly built around mid-tier practical Flux use.
+Detail the **Council's Mechanisms** — how Auralis governance actually works beneath top-level council declarations.
 
 ## Constraints
-- Need 4-6 characters across the extremes with adaptation strategies
-- Cover both high-tier practitioners (T7-T9) and zero-tier individuals (T0)
-- Must avoid power-fantasy framing; focus on social, logistical, and institutional constraints
-- 6 notes total: 3 high-tier practitioners + 3 zero-tier individuals
-- Update [[Control Tier]] with a "Living at the Extremes" section
+- Need 2-3 enforcement/implementation institutions and 3-4 bureaucratic operators
+- Must show how orders flow from council chambers to street-level execution
+- Must show divergence between council intent and implementation outcomes
+- 5-7 notes total: implementation bodies + mid-level administrators
+- Update [[The Council of Auralis]] with operational mechanism detail
 
 ## Output Target
-6 notes showing concrete daily adaptation at both ends of the tier distribution
+5-7 notes showing practical governance infrastructure under the Council
 
 ## Execution Plan
-1. Create 3 high-tier practitioner pages (T7+), each with specific constraint profile
-2. Create 3 zero-tier pages (T0), each with concrete workarounds in Flux-dependent systems
-3. Cross-link each to existing institutions and economies they rely on
-4. Update Control Tier with "Living at the Extremes" section
+1. Create 2-3 implementation institutions (orders, enforcement, audit/appeal flow)
+2. Create 3-4 mid-level operators who translate policy into execution
+3. Connect to existing city and faction documentation in [[Auralis]]
+4. Update The Council of Auralis with mechanisms layer
 5. Run canon/link integrity check
 
 ## Status

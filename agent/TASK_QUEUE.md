@@ -140,10 +140,11 @@ These tasks expand the world's texture without adding new structural elements. T
   **Owner:** `Copilot Auto`
   **Status:** COMPLETE — 3 institutions (Crestward Field Company, Halveth Guide Bureau, Zakros Loss Table) + 3 specialists (Nessa Keld, Toren Vass, Sera Nolt) + expedition infrastructure integration in Emberfall and Ancient Ruins.
 
-- [ ] **Goal:** Explore the **Tier Extremes** — what life is like at T7+ and T0.
+- [x] **Goal:** Explore the **Tier Extremes** — what life is like at T7+ and T0.
   **Constraints:** Control Tier system is documented but we have few examples of how exceptional practitioners (T7-T9) navigate a society not built for them, or how T0 individuals (zero Flux capacity) survive in a Flux-dependent world. Need 4-6 characters across the extremes with their adaptation strategies.
   **Output:** 6 notes (3 high-tier practitioners T7+ with their constraints + 3 zero-tier individuals with their workarounds) + update [[Control Tier]] with "Living at the Extremes" section.
   **Owner:** `Copilot Auto`
+  **Status:** COMPLETE — 6 profiles (Varn Kest T7, Sera Vond T8, Keld Orun T9, Hedd Norn T0, Rell Vorn T0, Niva Korr T0) + Control Tier "Living at the Extremes" section.
 
 - [ ] **Goal:** Detail the **Council's Mechanisms** — how Auralis governance actually works.
   **Constraints:** The Council of Auralis is documented but the bureaucracy beneath it is thin. Need: how orders flow from council to implementation, who enforces council decisions, what the internal factions actually are, and the people who translate council policy into street-level reality. Must show the gap between council intentions and executed outcomes.

@@ -145,7 +145,39 @@ Control Tier measures Flux capacity and handling ceiling. It does not measure co
 
 Tier is a useful shorthand for what a caster can safely attempt. It is a poor shorthand for what a caster can actually do.
 
-*See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]]*
+## Living at the Extremes
+
+Most social and institutional systems in [[Solumora]] are designed around T1-T4 practical range. People at the distribution edges adapt by building lives around constraint management rather than around the abstract meaning of their number.
+
+### High-Tier (T7+)
+
+At T7 and above, the core challenge is not access to opportunity. It is safe and legitimate use.
+
+Practitioners like [[Varn Kest]] (T7) are often called only during infrastructure failure windows and then held at procedural distance once normal operations resume. Specialists like [[Sera Vond]] (T8) face narrow legal scopes, mandatory witness structures, and persistent social distrust even when their compliance record is clean. Conduits such as [[Keld Orun]] (T9) frequently self-isolate and adopt non-use discipline because casual casting at their ceiling is structurally unsafe in dense civil environments.
+
+Common adaptation patterns:
+
+- strict contract scope and third-party oversight  
+- explicit abort criteria before channeling  
+- low-volume practice with long recovery blocks  
+- advisory/prevention roles replacing direct demonstration
+
+### Zero-Tier (T0)
+
+At T0, the challenge is opposite: operating inside Flux-dependent economies without personal casting capacity.
+
+Profiles like [[Hedd Norn]], [[Rell Vorn]], and [[Niva Korr]] show recurring workarounds: own timing systems, manifest logic, and evidentiary infrastructure that casters still depend on. T0 exclusion from certain contracts is real, but many high-impact roles are won through non-caster strengths that do not degrade under channel strain: procedural memory, load arithmetic, contradiction analysis, and handoff reliability.
+
+Common adaptation patterns:
+
+- specialization in systems where precision beats power  
+- paired workflows with low-tier casters for narrow technical checks  
+- duplicate recordkeeping to withstand magical/system drift  
+- role authority built on recurrence accuracy, not tier status
+
+The practical lesson at both ends is similar: extreme tier values amplify trade-offs. They do not remove them.
+
+*See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]], [[Varn Kest]], [[Sera Vond]], [[Keld Orun]], [[Hedd Norn]], [[Rell Vorn]], [[Niva Korr]]*
 
 ## Watt Cost Ranges
 
