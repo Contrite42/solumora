@@ -1,53 +1,32 @@
-# Task: Active Concurrent Split (Top Section Overrides Older Notes Below)
+# Task: Rural Backbone Expansion
 
-## Agent Ownership (active now)
+## Goal
+Build the **Rural Backbone** that feeds the cities. Terravelle and Auralis both have urban centers but rural life is conceptual. Need farming communities with names, resource extraction settlements, supply chains that actually connect to documented trade routes.
 
-- `Codex` owns control-plane files only: `agent/TASK_QUEUE.md`, `agent/TASK.md`, `agent/COORDINATION.md`, `agent/DECISIONS.md`, and `agent/staging/CLAIMED.md`.
-- `Claude Code` is currently offline (no active assignments).
-- `Copilot Auto` owns active worldbuilding content/story tasks plus canon/link integrity reports in `agent/reports/` while Claude is offline.
+## Constraints
+- Must show how T0-T2 practitioners make rural life work with minimal Flux resources
+- Everyone is mid-harvest, mid-journey, mid-negotiation
+- Connect to existing trade routes (Maren Freight Chain, documented supply systems)
+- 4-5 Terravelle rural communities + 4-5 Auralis rural communities
+- Each needs distinct economy, recurring problems, and named people
+- Update [[Maren Valley]], [[Life in Rural Terravelle]], [[Ordinary Life in Auralis]] with concrete examples
 
-## Current Assignments
+## Output Target
+8-10 notes (rural communities + supporting institutions) with ground-level detail
 
-- `Codex`: queue management, review-gate decisions, task completion checkmarks, and worklog/claimed updates.
-- `Codex` active task: keep queue/decisions synchronized, execute Codex-owned tasks, and manage delegation while Claude is offline.
-- `Claude Code`: offline; do not route active work here.
-- `Copilot Auto`: execute unchecked content/story tasks from `agent/TASK_QUEUE.md` plus FOREVER TASK link/canon checks/report updates.
+## Execution Plan
+1. Create 4-5 Terravelle rural settlements (farming, mining, forest products)
+2. Create 4-5 Auralis rural settlements (basin agriculture, specialized crops)
+3. Add 2-3 named people per settlement showing daily life
+4. Update hub pages with rural examples
+5. Run canon/link integrity check
 
-## File Collision Rules
-
-1. Never have two agents edit the same file in the same cycle.
-2. `agent/` control files are Codex-only, except append-only handoff notes in `agent/staging/PENDING_REVIEW.md`.
-3. Every handoff note must include `[Agent][YYYY-MM-DD HH:MM][files touched]`.
-4. On conflict, stop writing and hand off instead of force-overwriting.
+## Status
+ACTIVE - Copilot Auto executing
 
 ---
 
 ## Archived Batch Notes (Do Not Execute)
-
-# Task: Trade & Travel Spine - Phase 1
-
-## Current Operator Step
-1. Completed: created `content/Maren Freight Chain.md` (river logistics backbone).
-2. Completed: created `content/Ashford-Halveth Courier Road.md` (overland courier channel).
-3. Completed: created `content/Outer Coast Packet Line.md` (coastal mixed-cargo circuit).
-4. Completed: added inbound route links in `content/Ashford.md`, `content/Valdenmoor.md`, `content/Halveth.md`, `content/Wolfpoint.md`.
-5. Next: Trade & Travel Phase 2 (add 3-4 more route/hub notes, then update `content/Solumora.md` and `content/World Primer.md`).
-
-Three appends. No new characters. No new lore invented.
-All pages are APPENDs to existing files — do not rewrite or replace existing content.
-
----
-
-## TASK-09: APPEND to content/Doss Varn.md, content/Orre Cavlt.md, content/Cavel Dorst.md
-
-Each needs a new section showing the Expansion Faction political pressure as a lived reality at ground level. They do not know it is the Expansion Faction — they see symptoms, not causes.
-
-**Doss Varn** — border guard, Auralis side near Ashford. T1, 28 years old.
-Append section titled `## The Shift`. His briefings have changed in tone over the past year. New documentation protocols arrived without explanation. More travelers with Terravelle papers than he has seen before. One of his contacts at the Ashford command post told him to log everything carefully, which she has never said before. He is recording what he sees. He does not know what it means.
-Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]
-
-**Orre Cavlt** — cross-border merchant, Ashford. T2, 49 years old.
-Append section titled `## What He Cannot Model`. The informal indicators he reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. Two of his longer relationships on the Auralis side have become careful. A shipment he expected to clear in one day sat for four without any formal hold applied. He has been in this business long enough to know the difference between friction and signal. He is not yet sure which this is. But it is not random.
 Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]
 
 **Cavel Dorst** — merchant house manager, Ashford. T3, 44 years old.

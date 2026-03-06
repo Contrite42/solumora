@@ -66,4 +66,18 @@ Rural communities produce people who are competent at survival, who are loyal to
 
 A person leaving a rural settlement for a city experiences a specific kind of vertigo — the sudden feeling that very little is required of them directly, that systems exist to handle what they thought they had to manage themselves. A person from the city arriving in a rural settlement experiences the inverse: the sudden visibility of how much work goes into maintaining the basic structure of existence, and how directly one's labor is connected to one's survival.
 
-*See also: [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Covenant of Measure]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Valdenmoor]], [[Geography]], [[Bren Ossve]], [[Reth Caln]], [[Solen Carr]], [[Teva Orrn]]*
+## Specific Communities
+
+The pattern described above manifests differently across Terravelle's rural settlements based on local geography and economic focus:
+
+**[[Keld Basin]]** represents the agricultural core: grain-farming communities along the [[Maren Valley]] that feed [[Valdenmoor]] through coordinated collective harvest systems. Here the challenge is not survival but coordination — keeping 800 people aligned to narrow weather windows while managing market pressures that push toward individual gain over collective agreements.
+
+**[[Stenn Ridge]]** shows the extraction economy: seasonal iron mining in the northern uplands where work concentrates during passable months and winter shuts operations entirely. The population is transient except for the core crew that maintains institutional memory across seasonal breaks.
+
+**[[Veln Hold]]** demonstrates river-integrated life: a fishing and ferry village that balances subsistence work (net fishing) with service provision ([[Maren Freight Chain]] stopover logistics) to remain relevant to the broader economic network.
+
+**[[Breck Tor]]** represents long-cycle resource management: forest products communities operating on hundred-year timber rotations where decisions made today determine yield for future generations. Here survival is not immediate — it is multigenerational.
+
+Each settlement shows Terravellian pragmatism adapted to specific constraints. Each has developed its own balance between self-sufficiency and market integration. Each contains people who know exactly what their land can produce and what it cannot, and who have built lives within those limits.
+
+*See also: [[Terravelle]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Covenant of Measure]], [[Flux Users]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Valdenmoor]], [[Geography]], [[Bren Ossve]], [[Reth Caln]], [[Solen Carr]], [[Teva Orrn]], [[Keld Basin]], [[Stenn Ridge]], [[Veln Hold]], [[Breck Tor]], [[Maren Valley]]*

@@ -30,4 +30,18 @@ The Path's temples are the ceremonial sites for every significant life event. Bi
 
 A dockworker in [[Solhaven]]'s harbor district who attends the tier certification ceremonies and believes, in some general way, that Flux mastery is spiritually significant is not living a spiritually examined life. She is participating in a culture. The culture happens to have strong opinions about where she ranks within it.
 
-*See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]], [[Ascendant Path]]*
+## Rural Auralis
+
+Away from the urban centers, Auralis's tier-stratified social structure manifests differently. Rural communities still feel the Path's influence and still integrate [[Flux]] into their work more heavily than [[Terravelle]]'s rural settlements, but the daily pressures are economic rather than social.
+
+**[[Solden Fields]]** demonstrates intensive cultivation: specialty crops for urban markets requiring continuous Flux-supported water management, soil temperature control, and pest protection. Here tier matters for operational viability — families need at least one T2-T3 practitioner to maintain the casting schedule that specialty farming demands. The social bonds are economic first: specialist households coordinating through market relationships rather than community agreements.
+
+**[[Marn Cove]]** and the coastal fishing villages maintain traditional economies with minimal Flux dependency, but they feel urban market pressure differently than Terravelle's communities. The preserved fish economy connects them to basin settlements through trade relationships that urban buyers mediate, which means their economic stability depends on maintaining those urban connections.
+
+**[[Reld Marsh]]** exemplifies niche resource extraction: reed and salt harvesting that supplies urban workshops with materials the basin cannot produce. Here the tension is between sustainable harvest practices (which preserve long-term viability) and urban demand for increased volume (which offers immediate premiums). The settlements that survive are the ones that can explain resource constraints to buyers who think in quarterly contracts, not generational cycles.
+
+**[[Corva Vale]]** shows seasonal-intensive agriculture: orchard districts where spring flowering requires district-wide practitioner coordination, and the rest of the year operates with minimal Flux use. Here the Path's theology translates pragmatically — practitioners are valued for what they produce during critical windows, not for their tier status year-round.
+
+Rural Auralis shares the kingdom's Flux-integration culture but escapes some of its tier-hierarchy pressure. A T1 fisher at Marn Cove is not socially diminished the way a T1 harbor worker in Solhaven might be — the work is the work, and competence matters more than certified capacity. But the Path's ceremonies still structure life events, urban markets still shape economic opportunities, and the kingdom's assumptions about Flux mastery being central to advancement still filter down through institutional channels.
+
+*See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]], [[Ascendant Path]], [[Solden Fields]], [[Marn Cove]], [[Reld Marsh]], [[Corva Vale]]*
