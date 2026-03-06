@@ -133,3 +133,23 @@ The cipher is simple enough that she can write in it quickly during Council sess
 She knows that Drest has been building something for longer than three years. She knows that the Expansion Faction's current composition is not its final form. She knows that [[The Council of Auralis]] is moving toward decisions that will not be presented as decisions until they have already been implemented. She writes this down because someone should have a record of what actually happened, even if that someone is only herself.
 
 *See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+
+## What She Knows
+
+Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
+
+What she knows: The [[Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
+
+What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
+
+She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
+
+The acceleration she has observed is not dramatic. It is methodical. Drest's faction has been building capability for years — not military capability in the obvious sense, but institutional capability. The kind that allows rapid policy implementation when the moment arrives. She has watched budget allocations shift in ways that create flexibility for undefined future projects. She has watched personnel assignments that place Expansion-aligned administrators in positions where they can execute decisions quickly once those decisions are made.
+
+She knows that [[The Council of Auralis]] is not a deliberative body in the way it presents itself. It is an implementation body for decisions that are made in smaller groups, in private, by people who have the authority to make them stick. She knows this because she has been present when the implementation happens and absent when the decisions are made. The gap between those two experiences tells her everything she needs to know about where actual authority sits.
+
+Her cipher is not sophisticated by the standards of professional cryptography. It is sophisticated enough to prevent casual reading by anyone who might have access to her personal materials. She writes in it daily — not a diary, but a record. Voting patterns, resource allocations, personnel changes, the timing of when information arrives and how it is presented. The kind of data that would be valuable to someone trying to understand how the Council actually functions, as opposed to how it claims to function.
+
+She does not know what she will do with this record. She does not know if she will ever do anything with it. But she knows that if the moment comes when someone needs to understand what happened and how, the information will exist. Someone will have been paying attention.
+
+*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*

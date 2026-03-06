@@ -93,3 +93,23 @@ Cavel has been managing cross-border commerce for eleven years. He knows the dif
 His counterparts in [[Valdenmoor]] report similar shifts in their guild requirements. The changes are not unique to [[Ashford]]. They are not unique to his merchant house. They are systematic, coordinated, and building toward something that has not been announced.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+
+## The Audit That Hasn't Come
+
+Guild documentation requirements have shifted three times in eight months, each time in the direction of more granular reporting on cross-border shipments. His contacts at the guild say the changes come from Auralis-side regulatory pressure, though they use careful language about this. He has updated his compliance protocols ahead of each change because he learned years ago that being prepared for an audit that never comes costs less than being unprepared for one that does.
+
+The changes have a direction. The direction has not been stated. He has documented what he observes.
+
+The first shift required manifest itemization at the component level rather than the shipment level. Where his house previously reported "textile goods, 400W value" they now report "wool cloth, 12 bolts, 280W; linen thread, 8 spools, 45W; dyed fabric samples, 3 parcels, 75W." The second shift added origin tracking — not just what was shipped, but where each component was sourced, by whom, under what terms. The third shift, implemented last month, requires cross-reference documentation between his house's records and the records maintained by his Auralis-side contacts.
+
+None of these changes were presented as temporary measures. All were framed as improvements to existing systems. The guild representatives who delivered them spoke as though the changes were routine administrative updates rather than fundamental alterations to how cross-border commerce operates. But Cavel has been managing merchant house operations for eleven years, and he knows the difference between routine updates and systematic restructuring.
+
+His compliance files now occupy three times the storage space they required at the beginning of the year. The time his staff spends on documentation has increased proportionally. The cost of this documentation is not reimbursed by anyone — not the guild, not [[Auralis]], not the buyers who ultimately receive the goods. It is absorbed by his house as a cost of doing business, which means it is absorbed by [[Ashford]]'s merchant community as a cost of participating in cross-border trade.
+
+He has also noticed that his Auralis-side contacts have become more careful about what they discuss and when. Conversations that were previously straightforward — delivery schedules, quality specifications, payment terms — now include pauses and careful language that was not present before. Two of his longer-standing relationships have shifted from informal coordination to formal correspondence only. A third contact has begun requesting meetings in locations other than his usual office, without explaining why.
+
+The pattern suggests preparation for something that has not yet been announced. Cavel has been in this business long enough to recognize when institutional behavior is shifting ahead of institutional policy. He has updated his procedures accordingly, documented what he has observed, and prepared his house for whatever audit or inspection or policy change is driving the current requirements.
+
+He has not shared his analysis with anyone. There is no one in [[Ashford]]'s merchant community who would benefit from speculation about Auralis regulatory intentions, and there is no one in his Auralis network who would appreciate questions about why the documentation requirements keep changing. He maintains his records, meets the requirements as they evolve, and waits to see what the preparation is for.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*

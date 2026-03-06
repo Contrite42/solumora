@@ -133,3 +133,17 @@ He has been in this business long enough to know the difference between friction
 What he is seeing is signal. He is not yet sure what it means, but it is not random. The changes have a consistency that suggests coordination, and coordination suggests intent. He is documenting what he observes because he suspects that understanding the intent will become important, and he wants to have the data when it does.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+Orre Cavlt has been moving goods across the [[Ashford]] border for eleven years. His business depends on reading the informal indicators that determine how smoothly a shipment will clear — the tone of inspections, the wait times that are not officially logged, the candor level of his contacts on both sides of the crossing. These indicators have been shifting for months in ways that do not fit any pattern he recognizes.
+
+Two of his longer relationships on the [[Auralis]] side have become careful. Conversations that were previously straightforward now include pauses, qualifications, and references to "current procedures" that were not part of the vocabulary six months ago. One contact who used to provide advance notice about inspection scheduling now speaks only in general terms about timing. Another has started asking questions about his [[Terravelle]] suppliers that go beyond the routine verification he has come to expect.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. The delay was not explained. His inquiries received responses that were polite, procedurally correct, and uninformative. When the shipment was finally released, no reason was given for either the delay or the clearance. The paperwork showed no irregularities. The goods were undamaged. But four days of his schedule and his clients' expectations had been disrupted without explanation.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random — delays that result from staffing shortages, equipment problems, or seasonal volume fluctuations. Signal is systematic — changes that reflect new priorities, altered procedures, or policy pressure that has not been formally announced. What he is observing has the characteristics of signal, but he cannot identify what it is signaling.
+
+His response has been to adjust his operational assumptions without changing his business model. He now builds additional buffer time into his crossing schedules. He has diversified his contact network to reduce dependence on any single relationship. He has begun maintaining more detailed records of inspection procedures and wait times, not for any immediate purpose, but because patterns that are invisible in individual transactions sometimes become clear when documented systematically over time.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*

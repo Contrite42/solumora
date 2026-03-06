@@ -129,3 +129,17 @@ One of his contacts at the [[Ashford]] command post told him to log everything c
 He is recording what he sees. He does not know what it means. But he has learned that when experienced people start being careful about things they were not previously careful about, there is usually a reason that becomes clear later. He would prefer to understand the reason before it becomes clear.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+Doss Varn has been a border guard for six years. He knows the rhythm of briefings, the tone of his supervisors, the standard language used in crossing documentation. Over the past year, all of this has changed in ways that no one has explained to him.
+
+The briefings have acquired a new quality — not urgency exactly, but a careful attention to detail that was not there before. His sergeant now reviews documentation procedures that were previously routine, emphasizing accuracy in ways that suggest the reports are being read more closely than they used to be. New forms have appeared without announcement, requiring additional information about travelers' stated destinations, duration of stay, and business contacts. When Doss asked about the purpose of the new requirements, he was told they came from "updated coordination protocols" and that his job was to implement them correctly.
+
+More travelers with [[Terravelle]] papers have been crossing in the past eight months than he has seen in his entire previous service. Not dramatically more — the numbers are not alarming — but the pattern is consistent enough that he has started noting it in his personal log. Most claim business in [[Ashford]] or passage to other destinations. Their documentation is in order. Their stated purposes are routine. But the volume represents a change, and changes at border posts get noticed by people whose job is to notice them.
+
+One of his contacts at the Ashford command post — someone he has worked with for three years — told him last month to log everything carefully and to make sure his handwriting was legible for the permanent record. She has never said anything like this before. When he asked what had prompted the instruction, she said it was general guidance that had come down from her supervisors. She did not elaborate, and her tone suggested the conversation was finished.
+
+Doss is recording what he sees because that is what he has been trained to do. The patterns he observes — the documentation changes, the increased attention to his reports, the uptick in cross-border movement — may mean something or may mean nothing. He does not have enough context to distinguish between the two. But he has learned that border guards who fail to document what they notice do not remain border guards for long.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
