@@ -4,6 +4,20 @@ import { classNames } from "../util/lang"
 import script from "./scripts/solumoraMap.inline"
 import style from "./styles/solumoraMap.scss"
 
+/**
+ * SolumoraMap Component
+ *
+ * Interactive SVG map rendering the Solumora continental geography.
+ * Features canonical city positions, climate zones, terrain features,
+ * and clickable region/location links that connect to wiki pages.
+ *
+ * Coordinate System: 1000x1500px viewport
+ * - North: ~y40 (tundra peaks)
+ * - South: ~y1450 (southern basin)
+ * - West: ~x140 (western coast)
+ * - East: ~x860 (eastern plateau)
+ */
+
 type MarkerAlignment = "left" | "right"
 
 interface MapMarker {
@@ -40,9 +54,20 @@ interface RegionLink {
   showLabel?: boolean
 }
 
+/**
+ * CONTINENT_PATH: South America-inspired continental outline
+ * - Northernmost point: ~y40 (Wolfpoint peaks)
+ * - Southernmost point: ~y1458 (Auralis southern coast)
+ * - Widest point: ~x706 (eastern plateau around y700)
+ * - Narrowest point: ~x370 (southern tip, Hedun region)
+ */
 const CONTINENT_PATH =
   "M420 40 L575 40 L675 115 L760 250 L826 430 L853 630 L841 856 L804 1044 L756 1220 L672 1368 L572 1458 L432 1458 L322 1365 L250 1216 L196 1024 L157 854 L147 640 L174 444 L250 260 L335 120 Z"
 
+/**
+ * Climate/Political zones displayed as colored bands across the continent
+ * Each zone represents distinct ecological and political regions
+ */
 const ZONE_BANDS: ZoneBand[] = [
   {
     id: "north",
@@ -82,6 +107,10 @@ const ZONE_BANDS: ZoneBand[] = [
   },
 ]
 
+/**
+ * Named regions representing trade corridors, strategic areas, and political zones
+ * Each region is defined as an interactive SVG polygon path
+ */
 const REGION_LINKS: RegionLink[] = [
   {
     id: "zakros-region",
@@ -97,6 +126,8 @@ const REGION_LINKS: RegionLink[] = [
   {
     id: "northern-narrows-region",
     label: "Northern Narrows Corridors",
+    // Positioned to contain Ashford (798,640) and Halveth (720,680)
+    // Right wall at x780, left/bottom corridor-shaped
     path: "M700 600 L780 600 L740 740 L680 740 Z",
     keys: ["The-Northern-Narrows", "Northern-Narrows"],
     titles: ["The Northern Narrows", "Northern Narrows"],
@@ -108,6 +139,8 @@ const REGION_LINKS: RegionLink[] = [
   {
     id: "southern-approaches-region",
     label: "Southern Approaches Network",
+    // Positioned to contain Solhaven (460,1000) and Hedun (280,1140)
+    // Forms triangular/trapezoidal approach zone in southwest
     path: "M550 740 L720 740 L540 1060 L380 1060 Z",
     keys: ["The-Southern-Approaches", "Southern-Approaches"],
     titles: ["The Southern Approaches", "Southern Approaches"],
@@ -118,6 +151,9 @@ const REGION_LINKS: RegionLink[] = [
   },
 ]
 
+/**
+ * Terrain Features: Mountains, rivers, trade routes, terraces
+ */
 const MOUNTAIN_RIDGES = [
   "M404 112 L448 82 L494 112 L538 76 L584 112",
   "M430 148 L474 122 L518 148 L564 116 L610 148",
@@ -127,6 +163,8 @@ const MAREN_RIVER_PATH =
   "M404 250 C430 356 452 438 486 504 C554 566 660 598 744 626 C776 638 800 644 820 646"
 
 const EAST_ESTUARY_PATH = "M820 646 C832 648 842 646 852 642"
+
+// West Coast Route: connects Solhaven (460,1000) to Hedun (280,1140) via coastal valley
 const WEST_COAST_ROUTE_PATH = "M460 1000 C406 1050 350 1090 280 1140"
 
 const WEST_TERRACE_PATHS = [
@@ -135,6 +173,17 @@ const WEST_TERRACE_PATHS = [
   "M184 1182 C274 1158 344 1174 426 1212",
 ]
 
+/**
+ * City Markers: All settlements positioned canonically on the map
+ *
+ * Key adjustment notes from design iteration:
+ * - Ashford & Halveth: Positioned on Northern Narrows right edge (x~700-800)
+ *   to reflect their role as border fortifications and trade access points
+ * - Solhaven & Hedun: Positioned in southwest approaches zone
+ *   Solhaven on central west coast route, Hedun as western valley terminus
+ * - Label alignment: right-aligned labels extend from eastern cities,
+ *   left-aligned labels extend from western cities
+ */
 const MAP_MARKERS: MapMarker[] = [
   {
     id: "wolfpoint",
@@ -175,8 +224,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "halveth",
     label: "Halveth",
-    y: 680,
     x: 720,
+    y: 680,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
@@ -225,6 +274,8 @@ export default (() => {
         <p class="solumora-map-status" aria-live="polite">
           Syncing map links...
         </p>
+
+        {/* Main SVG Canvas */}
         <svg
           class="solumora-map-svg"
           viewBox="0 0 1000 1500"
@@ -240,12 +291,14 @@ export default (() => {
             </clipPath>
           </defs>
 
+          {/* Continent Outline */}
           <path
             class="solumora-map-continent"
             d={CONTINENT_PATH}
             filter="url(#solumora-map-shadow)"
           />
 
+          {/* Climate/Political Zone Bands */}
           <g class="solumora-zone-bands" clip-path="url(#solumora-continent-clip)">
             {ZONE_BANDS.map((zone) => (
               <rect
@@ -259,12 +312,15 @@ export default (() => {
               />
             ))}
 
+            {/* Zone Latitude Dividers */}
             <line class="solumora-lat-line" x1="150" x2="850" y1="580" y2="580" />
             <line class="solumora-lat-line" x1="150" x2="850" y1="646" y2="646" />
             <line class="solumora-lat-line" x1="150" x2="850" y1="932" y2="932" />
           </g>
 
+          {/* Terrain Features Layer */}
           <g class="solumora-terrain-layer" clip-path="url(#solumora-continent-clip)">
+            {/* Mountain Ridges */}
             {MOUNTAIN_RIDGES.map((ridge, idx) => (
               <path
                 key={`ridge-${idx}`}
@@ -272,8 +328,12 @@ export default (() => {
                 d={ridge}
               />
             ))}
+
+            {/* River Systems */}
             <path class="solumora-terrain solumora-terrain--river" d={MAREN_RIVER_PATH} />
             <path class="solumora-terrain solumora-terrain--estuary" d={EAST_ESTUARY_PATH} />
+
+            {/* Trade Routes */}
             <path
               class="solumora-terrain solumora-terrain--coast-route"
               d={WEST_COAST_ROUTE_PATH}
@@ -287,6 +347,7 @@ export default (() => {
             ))}
           </g>
 
+          {/* Clickable Region Polygons */}
           <g class="solumora-region-links">
             {REGION_LINKS.map((region) => (
               <a
@@ -313,6 +374,7 @@ export default (() => {
             ))}
           </g>
 
+          {/* Zone Band Labels */}
           <g class="solumora-zone-labels">
             {ZONE_BANDS.map((zone) => (
               <g
@@ -328,6 +390,7 @@ export default (() => {
             ))}
           </g>
 
+          {/* City Markers with Labels */}
           {MAP_MARKERS.map((marker) => {
             const alignment = marker.align ?? "right"
             const textAnchor = alignment === "left" ? "end" : "start"
@@ -355,9 +418,10 @@ export default (() => {
             )
           })}
         </svg>
+
         <p class="solumora-map-note">
-          Positions follow current canon: full-width Zakros barrier, corridor-style approach
-          systems, Halveth on the north desert edge, and coast-facing plus valley-linked hubs.
+          Canonical map showing trade networks, climate zones, and major settlements.
+          Click regions or cities to explore connected wiki articles.
         </p>
       </section>
     )
