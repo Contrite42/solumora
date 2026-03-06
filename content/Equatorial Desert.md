@@ -70,7 +70,7 @@ The desert sustains a significant economic layer built around those who want to 
 
 **Methods:** The [[Standard Guided Crossing]] covers most sanctioned expeditions â€” guide-led, full grimoire kit, 14â€“21 days. The [[Express Route Crossing]] is the solo or small-group fast method for T4+ practitioners, 8â€“12 days, with correspondingly worse survival odds. The [[Relay-Stage Crossing]] uses Relay Compact cache infrastructure for resupply at ruins waypoints, reducing Flux burden at the cost of route constraints imposed by cache placement.
 
-**Entry Points:** The [[The Northern Narrows|Northern Narrows]] are the primary departure corridors from Halveth's north edge, with route selection maintained by current Cooperative intelligence. The [[The Southern Approaches|Southern Approaches]] now refers to downstream interior lanes used after Narrows departure, not the Halveth staging interface.
+**Entry Points:** The [[The Northern Narrows|Northern Narrows]] are the primary departure corridors from northern staging points, with route selection maintained by current Cooperative intelligence. The [[The Southern Approaches|Southern Approaches]] now refers to downstream interior lanes used after Narrows departure, not a standalone departure interface.
 
 *See also: [[Ancient Ruins]], [[Equatorial Fauna]], [[Flux Demons]], [[Rift Incursions]], [[Halveth]], [[Rett Soln]], [[Auralis]], [[Terravelle]], [[History of Solumora]], [[Avel Coss]], [[Ossen Drel]], [[Celn Vard]], [[High Demons]], [[Ascendant Path]], [[Halveth Cooperative]], [[Relay Compact]], [[Terravelle Desert Trade Office]], [[Standard Guided Crossing]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[The Northern Narrows]]*
 
