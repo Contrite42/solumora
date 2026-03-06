@@ -2,7 +2,7 @@ Mythic spells require [[Control Tier]] T9 and represent the upper bound of [[Flu
 
 _Return to [[All Grimoire]]_
 **CapturThread**
-Releases soul flux in a spherical radius at line of sight, affecting a group, to actively regulate the effect. It establishes a permanent effect.
+This sigil unleashes soul-current as a wrapped radius wherever the caster can see, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -18,7 +18,7 @@ Releases soul flux in a spherical radius at line of sight, affecting a group, to
 ---
 
 **PaleNet**
-Displaces mental flux across a defined field through a linked anchor, affecting a group, to create a new effect. It establishes a permanent effect.
+This sigil drives thought-current across a held field through a linked anchor, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -34,7 +34,7 @@ Displaces mental flux across a defined field through a linked anchor, affecting 
 ---
 
 **ColdPath**
-Counters soul flux in a spherical radius at line of sight, affecting an individual, to create a new effect. It remains latched until dismissed.
+This sigil breaks the momentum of soul-current as a wrapped radius wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -50,7 +50,7 @@ Counters soul flux in a spherical radius at line of sight, affecting an individu
 ---
 
 **AncientPath**
-Manipulates soul flux across a defined field at line of sight, affecting a group, to create a new effect. It persists while actively sustained.
+This sigil threads and steers soul-current across a held field wherever the caster can see, spread across a group. It stays active while the caster keeps feeding it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -66,7 +66,7 @@ Manipulates soul flux across a defined field at line of sight, affecting a group
 ---
 
 **GentleTouch**
-Counters mental flux in a spherical radius at line of sight, affecting a filtered set, to alter an existing state. It remains latched until dismissed.
+This sigil breaks the momentum of thought-current as a wrapped radius wherever the caster can see, applied to the chosen filter set. It stays latched until someone dismisses it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -82,7 +82,7 @@ Counters mental flux in a spherical radius at line of sight, affecting a filtere
 ---
 
 **PiercTouch**
-Alters mental flux in a spherical radius through a linked anchor, affecting an individual, to create a new effect. It persists until its condition is met.
+This sigil reworks thought-current as a wrapped radius through a linked anchor, focused on one person. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -98,7 +98,7 @@ Alters mental flux in a spherical radius through a linked anchor, affecting an i
 ---
 
 **FallMirror**
-Alters mental flux across a defined field at line of sight, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil reworks thought-current across a held field wherever the caster can see, focused on one person. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -114,7 +114,7 @@ Alters mental flux across a defined field at line of sight, affecting an individ
 ---
 
 **SolidPath**
-Shields against soul flux in a spherical radius through a linked anchor, affecting an individual, to alter an existing state. It persists while actively sustained.
+This sigil raises cover against soul-current as a wrapped radius through a linked anchor, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -130,7 +130,7 @@ Shields against soul flux in a spherical radius through a linked anchor, affecti
 ---
 
 **FreshHeart**
-Shields against soul flux in a spherical radius at line of sight, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+This sigil raises cover against soul-current as a wrapped radius wherever the caster can see, applied to the chosen filter set. It stays latched until someone dismisses it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -146,7 +146,7 @@ Shields against soul flux in a spherical radius at line of sight, affecting a fi
 ---
 
 **ShatterBrand**
-Releases soul flux in a spherical radius through a linked anchor, affecting an individual, to create a new effect. It remains latched until dismissed.
+This sigil unleashes soul-current as a wrapped radius through a linked anchor, focused on one person. It stays latched until someone dismisses it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -162,7 +162,7 @@ Releases soul flux in a spherical radius through a linked anchor, affecting an i
 ---
 
 **FierceWard**
-Constrains soul flux in a spherical radius at line of sight, affecting an individual, to create a new effect. It persists until its condition is met.
+This sigil locks down soul-current as a wrapped radius wherever the caster can see, focused on one person. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -178,7 +178,7 @@ Constrains soul flux in a spherical radius at line of sight, affecting an indivi
 ---
 
 **RisCalm**
-Releases soul flux across a defined field through a linked anchor, affecting a group, to actively regulate the effect. It persists while actively sustained.
+This sigil unleashes soul-current across a held field through a linked anchor, spread across a group. It stays active while the caster keeps feeding it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -194,7 +194,7 @@ Releases soul flux across a defined field through a linked anchor, affecting a g
 ---
 
 **PaleDoor**
-Alters soul flux in a spherical radius at line of sight, affecting a group, to alter an existing state. It persists until its condition is met.
+This sigil reworks soul-current as a wrapped radius wherever the caster can see, spread across a group. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -210,7 +210,7 @@ Alters soul flux in a spherical radius at line of sight, affecting a group, to a
 ---
 
 **ReleaseBond**
-Detects soul flux across a defined field through a linked anchor, affecting a filtered set, to create a new effect. It persists while actively sustained.
+This sigil reads soul-current across a held field through a linked anchor, applied to the chosen filter set. It stays active while the caster keeps feeding it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -226,7 +226,7 @@ Detects soul flux across a defined field through a linked anchor, affecting a fi
 ---
 
 **WeaveBlessing**
-Constrains mental flux across a defined field through a linked anchor, affecting an individual, to create a new effect. It persists until its condition is met.
+This sigil locks down thought-current across a held field through a linked anchor, focused on one person. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -242,7 +242,7 @@ Constrains mental flux across a defined field through a linked anchor, affecting
 ---
 
 **ReleasBridge**
-Alters mental flux across a defined field through a linked anchor, affecting a filtered set, to alter an existing state. It persists until its condition is met.
+This sigil reworks thought-current across a held field through a linked anchor, applied to the chosen filter set. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -258,7 +258,7 @@ Alters mental flux across a defined field through a linked anchor, affecting a f
 ---
 
 **BurSpirit**
-Filters mental flux in a spherical radius through a linked anchor, affecting a group, to actively regulate the effect. It persists until its condition is met.
+This sigil sifts thought-current as a wrapped radius through a linked anchor, spread across a group. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -274,7 +274,7 @@ Filters mental flux in a spherical radius through a linked anchor, affecting a g
 ---
 
 **StraightHand**
-Releases soul flux in a spherical radius at line of sight, affecting an individual, to alter an existing state. It remains latched until dismissed.
+This sigil unleashes soul-current as a wrapped radius wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -290,7 +290,7 @@ Releases soul flux in a spherical radius at line of sight, affecting an individu
 ---
 
 **CalmDream**
-Releases soul flux across a defined field through a linked anchor, affecting a filtered set, to create a new effect. It persists while actively sustained.
+This sigil unleashes soul-current across a held field through a linked anchor, applied to the chosen filter set. It stays active while the caster keeps feeding it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -306,7 +306,7 @@ Releases soul flux across a defined field through a linked anchor, affecting a f
 ---
 
 **AnchorFrost**
-Releases mental flux in a spherical radius at line of sight, affecting a group, to actively regulate the effect. It persists until its condition is met.
+This sigil unleashes thought-current as a wrapped radius wherever the caster can see, spread across a group. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -322,7 +322,7 @@ Releases mental flux in a spherical radius at line of sight, affecting a group, 
 ---
 
 **TransformBreath**
-Counters soul flux across a defined field through a linked anchor, affecting a group, to alter an existing state. It establishes a permanent effect.
+This sigil breaks the momentum of soul-current across a held field through a linked anchor, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -338,7 +338,7 @@ Counters soul flux across a defined field through a linked anchor, affecting a g
 ---
 
 **HardyCore**
-Filters soul flux across a defined field at line of sight, affecting an individual, to create a new effect. It persists while actively sustained.
+This sigil sifts soul-current across a held field wherever the caster can see, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -354,7 +354,7 @@ Filters soul flux across a defined field at line of sight, affecting an individu
 ---
 
 **NakedRoot**
-Shields against mental flux across a defined field through a linked anchor, affecting a group, to alter an existing state. It persists while actively sustained.
+This sigil raises cover against thought-current across a held field through a linked anchor, spread across a group. It stays active while the caster keeps feeding it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -370,7 +370,7 @@ Shields against mental flux across a defined field through a linked anchor, affe
 ---
 
 **RiseMark**
-Displaces soul flux across a defined field through a linked anchor, affecting a group, to create a new effect. It remains latched until dismissed.
+This sigil drives soul-current across a held field through a linked anchor, spread across a group. It stays latched until someone dismisses it.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -386,7 +386,7 @@ Displaces soul flux across a defined field through a linked anchor, affecting a 
 ---
 
 **DriftFrost**
-Manipulates soul flux in a spherical radius at line of sight, affecting a group, to alter an existing state. It persists until its condition is met.
+This sigil threads and steers soul-current as a wrapped radius wherever the caster can see, spread across a group. It remains until its trigger condition is met.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Control |

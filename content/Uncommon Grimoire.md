@@ -2,7 +2,7 @@ Uncommon spells require [[Control Tier]] T3–T4 and represent the threshold whe
 
 _Return to [[All Grimoire]]_
 **CurvedRing**
-Releases mental flux in a spreading cone within 50 feet, affecting the inscribed location, to actively regulate the effect. It persists while actively sustained.
+This sigil unleashes thought-current as a widening fan within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -18,7 +18,7 @@ Releases mental flux in a spreading cone within 50 feet, affecting the inscribed
 ---
 
 **WarmCurse**
-Detects reactive compounds in a cylindrical column within 50 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+This sigil reads reactive compounds as a standing column within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -34,7 +34,7 @@ Detects reactive compounds in a cylindrical column within 50 feet, affecting an 
 ---
 
 **StrongBond**
-Alters binding force across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+This sigil reworks binding force across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -50,7 +50,7 @@ Alters binding force across a surface within 10 feet, affecting a surface, to ac
 ---
 
 **PierceFlame**
-Counters electrical charge in a circular ring within 50 feet, affecting a surface, to create a new effect. It lasts up to one minute.
+This sigil breaks the momentum of charge as a circling band within fifty feet, spread over a surface. It holds for about a minute.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -66,7 +66,7 @@ Counters electrical charge in a circular ring within 50 feet, affecting a surfac
 ---
 
 **BurShroud**
-Filters mental flux as a focused beam within 10 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+This sigil sifts thought-current as a narrow line within ten feet, centered on the written mark. It holds for about a minute.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -82,7 +82,7 @@ Filters mental flux as a focused beam within 10 feet, affecting the inscribed lo
 ---
 
 **ReleasSigil**
-Shields against mental flux in a cylindrical column at touch range, affecting an individual, to create a new effect. It persists until its condition is met.
+This sigil raises cover against thought-current as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Ward |
@@ -98,7 +98,7 @@ Shields against mental flux in a cylindrical column at touch range, affecting an
 ---
 
 **SurgeRoad**
-Detects mental flux in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil reads thought-current as a standing column within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 555 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -114,7 +114,7 @@ Detects mental flux in a cylindrical column within 10 feet, affecting a surface,
 ---
 
 **SweepSpirit**
-Counters electrical charge in a cylindrical column at touch range, affecting a surface, to create a new effect. It persists while actively sustained.
+This sigil breaks the momentum of charge as a standing column at touch range, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -130,7 +130,7 @@ Counters electrical charge in a cylindrical column at touch range, affecting a s
 ---
 
 **VividThread**
-Alters binding force in a spreading cone within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+This sigil reworks binding force as a widening fan within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -146,7 +146,7 @@ Alters binding force in a spreading cone within 10 feet, affecting a surface, to
 ---
 
 **ShallowLock**
-Filters mental flux in a cylindrical column within 50 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+This sigil sifts thought-current as a standing column within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 553 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -162,7 +162,7 @@ Filters mental flux in a cylindrical column within 50 feet, affecting an individ
 ---
 
 **AnchorLock**
-Filters reactive compounds in a circular ring within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+This sigil sifts reactive compounds as a circling band within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -178,7 +178,7 @@ Filters reactive compounds in a circular ring within 10 feet, affecting an indiv
 ---
 
 **SolidWisp**
-Displaces mental flux across a surface at touch range, affecting a surface, to create a new effect. It lasts up to one hour.
+This sigil drives thought-current across the inscribed face at touch range, spread over a surface. It holds for about an hour.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -194,7 +194,7 @@ Displaces mental flux across a surface at touch range, affecting a surface, to c
 ---
 
 **SolidSigil**
-Filters binding force across a surface at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+This sigil sifts binding force across the inscribed face at touch range, centered on the written mark. It holds for about a minute.
 | Wattage | 207 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -210,7 +210,7 @@ Filters binding force across a surface at touch range, affecting the inscribed l
 ---
 
 **KindleWay**
-Counters reactive compounds in a cylindrical column at touch range, affecting the inscribed location, to alter an existing state. It persists until its condition is met.
+This sigil breaks the momentum of reactive compounds as a standing column at touch range, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -226,7 +226,7 @@ Counters reactive compounds in a cylindrical column at touch range, affecting th
 ---
 
 **CaptureDance**
-Detects binding force in a circular ring within 50 feet, affecting an object, to create a new effect. It persists while actively sustained.
+This sigil reads binding force as a circling band within fifty feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -242,7 +242,7 @@ Detects binding force in a circular ring within 50 feet, affecting an object, to
 ---
 
 **KindleStorm**
-Shields against binding force across a surface within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil raises cover against binding force across the inscribed face within ten feet, focused on one person. It holds for about a minute.
 | Wattage | 218 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -258,7 +258,7 @@ Shields against binding force across a surface within 10 feet, affecting an indi
 ---
 
 **TwistMark**
-Counters electrical charge in a cylindrical column within 50 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+This sigil breaks the momentum of charge as a standing column within fifty feet, focused on one person. It holds for about an hour.
 | Wattage | 168 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -274,7 +274,7 @@ Counters electrical charge in a cylindrical column within 50 feet, affecting an 
 ---
 
 **PaleWard**
-Constrains mental flux in a cylindrical column within 10 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+This sigil locks down thought-current as a standing column within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 558 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -290,7 +290,7 @@ Constrains mental flux in a cylindrical column within 10 feet, affecting an indi
 ---
 
 **RiseStorm**
-Detects reactive compounds in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+This sigil reads reactive compounds as a standing column within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -306,7 +306,7 @@ Detects reactive compounds in a cylindrical column within 10 feet, affecting a s
 ---
 
 **PiercPulse**
-Constrains reactive compounds in a cylindrical column within 50 feet, affecting a surface, to actively regulate the effect.
+This sigil locks down reactive compounds as a standing column within fifty feet, spread over a surface.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -322,7 +322,7 @@ Constrains reactive compounds in a cylindrical column within 50 feet, affecting 
 ---
 
 **TwistStorm**
-Shields against reactive compounds in a spreading cone within 50 feet, affecting an individual, to actively regulate the effect.
+This sigil raises cover against reactive compounds as a widening fan within fifty feet, focused on one person.
 | Wattage | 133 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -338,7 +338,7 @@ Shields against reactive compounds in a spreading cone within 50 feet, affecting
 ---
 
 **TwistVeil**
-Shields against reactive compounds in a cylindrical column within 10 feet, affecting an object, to create a new effect. It persists until its condition is met.
+This sigil raises cover against reactive compounds as a standing column within ten feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 147 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -354,7 +354,7 @@ Shields against reactive compounds in a cylindrical column within 10 feet, affec
 ---
 
 **HeavyKnot**
-Detects mental flux in a spreading cone at touch range, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil reads thought-current as a widening fan at touch range, focused on one person. It holds for about a minute.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -370,7 +370,7 @@ Detects mental flux in a spreading cone at touch range, affecting an individual,
 ---
 
 **DissolveStorm**
-Constrains mental flux in a spreading cone within 10 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+This sigil locks down thought-current as a widening fan within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -386,7 +386,7 @@ Constrains mental flux in a spreading cone within 10 feet, affecting a surface, 
 ---
 
 **DissolveLight**
-Filters reactive compounds as a focused beam at touch range, affecting the inscribed location, to actively regulate the effect. It lasts up to one hour.
+This sigil sifts reactive compounds as a narrow line at touch range, centered on the written mark. It holds for about an hour.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -402,7 +402,7 @@ Filters reactive compounds as a focused beam at touch range, affecting the inscr
 ---
 
 **SurEcho**
-Releases mental flux in a spreading cone within 10 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+This sigil unleashes thought-current as a widening fan within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Emit |
@@ -418,7 +418,7 @@ Releases mental flux in a spreading cone within 10 feet, affecting a surface, to
 ---
 
 **CaptureBlessing**
-Counters electrical charge in a cylindrical column within 10 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+This sigil breaks the momentum of charge as a standing column within ten feet, focused on one object. It holds for about an hour.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -434,7 +434,7 @@ Counters electrical charge in a cylindrical column within 10 feet, affecting an 
 ---
 
 **BindRune**
-Counters mental flux in a cylindrical column at touch range, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+This sigil breaks the momentum of thought-current as a standing column at touch range, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Counter |
@@ -450,7 +450,7 @@ Counters mental flux in a cylindrical column at touch range, affecting the inscr
 ---
 
 **PierceWay**
-Displaces mental flux in a spreading cone within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+This sigil drives thought-current as a widening fan within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 548 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -466,7 +466,7 @@ Displaces mental flux in a spreading cone within 10 feet, affecting an individua
 ---
 
 **PierceSight**
-Filters electrical charge in a spreading cone within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil sifts charge as a widening fan within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -482,7 +482,7 @@ Filters electrical charge in a spreading cone within 10 feet, affecting a surfac
 ---
 
 **AnchorSigil**
-Counters electrical charge in a cylindrical column within 10 feet, affecting a surface, to alter an existing state. It lasts up to one hour.
+This sigil breaks the momentum of charge as a standing column within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -498,7 +498,7 @@ Counters electrical charge in a cylindrical column within 10 feet, affecting a s
 ---
 
 **BreakVeil**
-Alters binding force as a focused beam within 10 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+This sigil reworks binding force as a narrow line within ten feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -514,7 +514,7 @@ Alters binding force as a focused beam within 10 feet, affecting an individual, 
 ---
 
 **SteadyVoid**
-Alters binding force in a spreading cone within 10 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+This sigil reworks binding force as a widening fan within ten feet, focused on one object. It holds for about a minute.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -530,7 +530,7 @@ Alters binding force in a spreading cone within 10 feet, affecting an object, to
 ---
 
 **ChillShadow**
-Displaces mental flux in a cylindrical column within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+This sigil drives thought-current as a standing column within fifty feet, focused on one object. It holds for about a minute.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Move |
@@ -546,7 +546,7 @@ Displaces mental flux in a cylindrical column within 50 feet, affecting an objec
 ---
 
 **KindleMark**
-Filters binding force across a surface at touch range, affecting an object, to create a new effect. It persists while actively sustained.
+This sigil sifts binding force across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -562,7 +562,7 @@ Filters binding force across a surface at touch range, affecting an object, to c
 ---
 
 **RestlessCurse**
-Constrains mental flux in a circular ring within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+This sigil locks down thought-current as a circling band within fifty feet, focused on one object. It holds for about an hour.
 | Wattage | 557 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -578,7 +578,7 @@ Constrains mental flux in a circular ring within 50 feet, affecting an object, t
 ---
 
 **LoudAura**
-Filters electrical charge in a spreading cone at touch range, affecting an individual, to actively regulate the effect. It persists until its condition is met.
+This sigil sifts charge as a widening fan at touch range, focused on one person. It remains until its trigger condition is met.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -594,7 +594,7 @@ Filters electrical charge in a spreading cone at touch range, affecting an indiv
 ---
 
 **RiseBrand**
-Displaces mental flux in a circular ring within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+This sigil drives thought-current as a circling band within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -610,7 +610,7 @@ Displaces mental flux in a circular ring within 10 feet, affecting a surface, to
 ---
 
 **WildVoid**
-Filters reactive compounds in a cylindrical column at touch range, affecting a surface, to alter an existing state. It lasts up to one minute.
+This sigil sifts reactive compounds as a standing column at touch range, spread over a surface. It holds for about a minute.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -626,7 +626,7 @@ Filters reactive compounds in a cylindrical column at touch range, affecting a s
 ---
 
 **PierceDream**
-Releases binding force in a cylindrical column within 10 feet, affecting an object, to alter an existing state.
+This sigil unleashes binding force as a standing column within ten feet, focused on one object.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -642,7 +642,7 @@ Releases binding force in a cylindrical column within 10 feet, affecting an obje
 ---
 
 **SweepShroud**
-Shields against mental flux in a cylindrical column within 50 feet, affecting an object, to alter an existing state. It persists until its condition is met.
+This sigil raises cover against thought-current as a standing column within fifty feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 257 W |
 | Shape | Square |
 | Hook | Ward |
@@ -658,7 +658,7 @@ Shields against mental flux in a cylindrical column within 50 feet, affecting an
 ---
 
 **BurningRune**
-Detects mental flux in a spreading cone at touch range, affecting the inscribed location, to actively regulate the effect.
+This sigil reads thought-current as a widening fan at touch range, centered on the written mark.
 | Wattage | 212 W |
 | Shape | Square |
 | Hook | Sense |
@@ -674,7 +674,7 @@ Detects mental flux in a spreading cone at touch range, affecting the inscribed 
 ---
 
 **CalmCurse**
-Detects mental flux in a spreading cone within 50 feet, affecting an object, to create a new effect.
+This sigil reads thought-current as a widening fan within fifty feet, focused on one object.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Sense |
@@ -690,7 +690,7 @@ Detects mental flux in a spreading cone within 50 feet, affecting an object, to 
 ---
 
 **HeavyVoice**
-Shields against reactive compounds in a circular ring within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+This sigil raises cover against reactive compounds as a circling band within fifty feet, centered on the written mark. It holds for about a minute.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -706,7 +706,7 @@ Shields against reactive compounds in a circular ring within 50 feet, affecting 
 ---
 
 **DriftingCharm**
-Filters mental flux in a spreading cone within 10 feet, affecting the inscribed location, to create a new effect. It lasts up to one minute.
+This sigil sifts thought-current as a widening fan within ten feet, centered on the written mark. It holds for about a minute.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -722,7 +722,7 @@ Filters mental flux in a spreading cone within 10 feet, affecting the inscribed 
 ---
 
 **FrozenBreath**
-Displaces mental flux as a focused beam at touch range, affecting an individual, to create a new effect. It lasts up to one hour.
+This sigil drives thought-current as a narrow line at touch range, focused on one person. It holds for about an hour.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -738,7 +738,7 @@ Displaces mental flux as a focused beam at touch range, affecting an individual,
 ---
 
 **PiercePulse**
-Filters electrical charge across a surface within 50 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+This sigil sifts charge across the inscribed face within fifty feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -754,7 +754,7 @@ Filters electrical charge across a surface within 50 feet, affecting the inscrib
 ---
 
 **HeavyAura**
-Displaces reactive compounds in a cylindrical column within 50 feet, affecting a surface, to create a new effect.
+This sigil drives reactive compounds as a standing column within fifty feet, spread over a surface.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -770,7 +770,7 @@ Displaces reactive compounds in a cylindrical column within 50 feet, affecting a
 ---
 
 **TaintedGate**
-Shields against mental flux as a focused beam within 10 feet, affecting an object, to create a new effect. It lasts up to one minute.
+This sigil raises cover against thought-current as a narrow line within ten feet, focused on one object. It holds for about a minute.
 | Wattage | 517 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -786,7 +786,7 @@ Shields against mental flux as a focused beam within 10 feet, affecting an objec
 ---
 
 **GuardBrand**
-Counters binding force across a surface within 50 feet, affecting an object, to create a new effect. It persists until its condition is met.
+This sigil breaks the momentum of binding force across the inscribed face within fifty feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -802,7 +802,7 @@ Counters binding force across a surface within 50 feet, affecting an object, to 
 ---
 
 **KindlMark**
-Counters mental flux as a focused beam within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+This sigil breaks the momentum of thought-current as a narrow line within fifty feet, focused on one object. It holds for about a minute.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Counter |
@@ -818,7 +818,7 @@ Counters mental flux as a focused beam within 50 feet, affecting an object, to a
 ---
 
 **AncientWard**
-Detects mental flux as a focused beam within 10 feet, affecting a surface, to alter an existing state.
+This sigil reads thought-current as a narrow line within ten feet, spread over a surface.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -834,7 +834,7 @@ Detects mental flux as a focused beam within 10 feet, affecting a surface, to al
 ---
 
 **ReleaseStorm**
-Counters binding force across a surface at touch range, affecting the inscribed location, to actively regulate the effect.
+This sigil breaks the momentum of binding force across the inscribed face at touch range, centered on the written mark.
 | Wattage | 202 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -850,7 +850,7 @@ Counters binding force across a surface at touch range, affecting the inscribed 
 ---
 
 **BurPath**
-Counters mental flux in a cylindrical column at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil breaks the momentum of thought-current as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -866,7 +866,7 @@ Counters mental flux in a cylindrical column at touch range, affecting an indivi
 ---
 
 **ChillDream**
-Shields against binding force across a surface at touch range, affecting an object, to alter an existing state.
+This sigil raises cover against binding force across the inscribed face at touch range, focused on one object.
 | Wattage | 204 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -882,7 +882,7 @@ Shields against binding force across a surface at touch range, affecting an obje
 ---
 
 **BindThought**
-Releases mental flux as a focused beam at touch range, affecting an object, to alter an existing state. It persists until its condition is met.
+This sigil unleashes thought-current as a narrow line at touch range, focused on one object. It remains until its trigger condition is met.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -898,7 +898,7 @@ Releases mental flux as a focused beam at touch range, affecting an object, to a
 ---
 
 **BurnCurse**
-Constrains mental flux as a focused beam within 50 feet, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+This sigil locks down thought-current as a narrow line within fifty feet, centered on the written mark. It holds for about an hour.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -914,7 +914,7 @@ Constrains mental flux as a focused beam within 50 feet, affecting the inscribed
 ---
 
 **DriftHeart**
-Alters mental flux as a focused beam within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists while actively sustained.
+This sigil reworks thought-current as a narrow line within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -930,7 +930,7 @@ Alters mental flux as a focused beam within 10 feet, affecting the inscribed loc
 ---
 
 **ClearCharm**
-Constrains binding force across a surface within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+This sigil locks down binding force across the inscribed face within ten feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -946,7 +946,7 @@ Constrains binding force across a surface within 10 feet, affecting the inscribe
 ---
 
 **GuardTide**
-Detects reactive compounds in a cylindrical column within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+This sigil reads reactive compounds as a standing column within fifty feet, centered on the written mark. It holds for about a minute.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -962,7 +962,7 @@ Detects reactive compounds in a cylindrical column within 50 feet, affecting the
 ---
 
 **StraightShell**
-Filters binding force as a focused beam within 10 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+This sigil sifts binding force as a narrow line within ten feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -978,7 +978,7 @@ Filters binding force as a focused beam within 10 feet, affecting the inscribed 
 ---
 
 **ReleasEcho**
-Detects mental flux across a surface within 50 feet, affecting an object, to actively regulate the effect. It persists until its condition is met.
+This sigil reads thought-current across the inscribed face within fifty feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Sense |
@@ -994,7 +994,7 @@ Detects mental flux across a surface within 50 feet, affecting an object, to act
 ---
 
 **GuardScar**
-Displaces electrical charge in a spreading cone within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+This sigil drives charge as a widening fan within fifty feet, spread over a surface. It holds for about a minute.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1010,7 +1010,7 @@ Displaces electrical charge in a spreading cone within 50 feet, affecting a surf
 ---
 
 **KindleTouch**
-Alters mental flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+This sigil reworks thought-current across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1026,7 +1026,7 @@ Alters mental flux across a surface within 10 feet, affecting a surface, to acti
 ---
 
 **SweepBrand**
-Detects mental flux across a surface within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+This sigil reads thought-current across the inscribed face within fifty feet, centered on the written mark. It holds for about a minute.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1042,7 +1042,7 @@ Detects mental flux across a surface within 50 feet, affecting the inscribed loc
 ---
 
 **TaintedVoice**
-Detects binding force as a focused beam within 50 feet, affecting the inscribed location, to alter an existing state. It persists until its condition is met.
+This sigil reads binding force as a narrow line within fifty feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1058,7 +1058,7 @@ Detects binding force as a focused beam within 50 feet, affecting the inscribed 
 ---
 
 **KindleBrand**
-Filters binding force in a cylindrical column within 10 feet, affecting an object, to actively regulate the effect. It persists while actively sustained.
+This sigil sifts binding force as a standing column within ten feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1074,7 +1074,7 @@ Filters binding force in a cylindrical column within 10 feet, affecting an objec
 ---
 
 **GrandWard**
-Detects binding force in a spreading cone within 50 feet, affecting an individual, to alter an existing state. It persists while actively sustained.
+This sigil reads binding force as a widening fan within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1090,7 +1090,7 @@ Detects binding force in a spreading cone within 50 feet, affecting an individua
 ---
 
 **GuardCore**
-Filters electrical charge in a cylindrical column within 50 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+This sigil sifts charge as a standing column within fifty feet, focused on one object. It holds for about a minute.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1106,7 +1106,7 @@ Filters electrical charge in a cylindrical column within 50 feet, affecting an o
 ---
 
 **StraightFrost**
-Detects mental flux in a spreading cone at touch range, affecting an object, to alter an existing state. It persists while actively sustained.
+This sigil reads thought-current as a widening fan at touch range, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 224 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1122,7 +1122,7 @@ Detects mental flux in a spreading cone at touch range, affecting an object, to 
 ---
 
 **BreakPath**
-Detects binding force as a focused beam within 10 feet, affecting a surface, to create a new effect. It persists while actively sustained.
+This sigil reads binding force as a narrow line within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1138,7 +1138,7 @@ Detects binding force as a focused beam within 10 feet, affecting a surface, to 
 ---
 
 **TameRune**
-Detects mental flux as a focused beam within 50 feet, affecting the inscribed location, to create a new effect. It lasts up to one hour.
+This sigil reads thought-current as a narrow line within fifty feet, centered on the written mark. It holds for about an hour.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1154,7 +1154,7 @@ Detects mental flux as a focused beam within 50 feet, affecting the inscribed lo
 ---
 
 **ClearDoor**
-Detects mental flux in a circular ring within 50 feet, affecting the inscribed location, to create a new effect.
+This sigil reads thought-current as a circling band within fifty feet, centered on the written mark.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1170,7 +1170,7 @@ Detects mental flux in a circular ring within 50 feet, affecting the inscribed l
 ---
 
 **SharpBoon**
-Detects electrical charge as a focused beam within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil reads charge as a narrow line within fifty feet, spread over a surface. It holds for about an hour.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1186,7 +1186,7 @@ Detects electrical charge as a focused beam within 50 feet, affecting a surface,
 ---
 
 **FreezChain**
-Alters binding force in a cylindrical column within 50 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+This sigil reworks binding force as a standing column within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1202,7 +1202,7 @@ Alters binding force in a cylindrical column within 50 feet, affecting an indivi
 ---
 
 **StraightRune**
-Detects electrical charge in a cylindrical column within 50 feet, affecting a surface, to alter an existing state. It lasts up to one hour.
+This sigil reads charge as a standing column within fifty feet, spread over a surface. It holds for about an hour.
 | Wattage | 165 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1218,7 +1218,7 @@ Detects electrical charge in a cylindrical column within 50 feet, affecting a su
 ---
 
 **BrightKnot**
-Releases mental flux in a spreading cone within 50 feet, affecting an individual, to create a new effect.
+This sigil unleashes thought-current as a widening fan within fifty feet, focused on one person.
 | Wattage | 533 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1234,7 +1234,7 @@ Releases mental flux in a spreading cone within 50 feet, affecting an individual
 ---
 
 **BurningWeb**
-Alters reactive compounds in a cylindrical column within 10 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+This sigil reworks reactive compounds as a standing column within ten feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1250,7 +1250,7 @@ Alters reactive compounds in a cylindrical column within 10 feet, affecting the 
 ---
 
 **CapturNet**
-Detects mental flux in a circular ring within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+This sigil reads thought-current as a circling band within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1266,7 +1266,7 @@ Detects mental flux in a circular ring within 10 feet, affecting a surface, to a
 ---
 
 **BindBrand**
-Detects binding force across a surface within 50 feet, affecting the inscribed location, to alter an existing state. It persists while actively sustained.
+This sigil reads binding force across the inscribed face within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1282,7 +1282,7 @@ Detects binding force across a surface within 50 feet, affecting the inscribed l
 ---
 
 **ShallowDoor**
-Displaces binding force as a focused beam within 50 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+This sigil drives binding force as a narrow line within fifty feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 245 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1298,7 +1298,7 @@ Displaces binding force as a focused beam within 50 feet, affecting a surface, t
 ---
 
 **DriftDance**
-Filters reactive compounds in a spreading cone at touch range, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+This sigil sifts reactive compounds as a widening fan at touch range, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1314,7 +1314,7 @@ Filters reactive compounds in a spreading cone at touch range, affecting the ins
 ---
 
 **TwistShell**
-Counters mental flux in a cylindrical column at touch range, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil breaks the momentum of thought-current as a standing column at touch range, focused on one person. It holds for about a minute.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1330,7 +1330,7 @@ Counters mental flux in a cylindrical column at touch range, affecting an indivi
 ---
 
 **DarkCage**
-Displaces mental flux in a cylindrical column within 50 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+This sigil drives thought-current as a standing column within fifty feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Move |
@@ -1346,7 +1346,7 @@ Displaces mental flux in a cylindrical column within 50 feet, affecting a surfac
 ---
 
 **DissolveRoad**
-Alters mental flux in a circular ring within 50 feet, affecting an object, to create a new effect. It lasts up to one minute.
+This sigil reworks thought-current as a circling band within fifty feet, focused on one object. It holds for about a minute.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1362,7 +1362,7 @@ Alters mental flux in a circular ring within 50 feet, affecting an object, to cr
 ---
 
 **DriftBrand**
-Releases binding force in a spreading cone within 10 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+This sigil unleashes binding force as a widening fan within ten feet, focused on one object. It holds for about an hour.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1378,7 +1378,7 @@ Releases binding force in a spreading cone within 10 feet, affecting an object, 
 ---
 
 **TaintedStorm**
-Detects mental flux as a focused beam within 10 feet, affecting a surface, to actively regulate the effect.
+This sigil reads thought-current as a narrow line within ten feet, spread over a surface.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1394,7 +1394,7 @@ Detects mental flux as a focused beam within 10 feet, affecting a surface, to ac
 ---
 
 **BurningCharm**
-Displaces mental flux across a surface within 50 feet, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil drives thought-current across the inscribed face within fifty feet, focused on one person. It remains until its trigger condition is met.
 | Wattage | 543 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1410,7 +1410,7 @@ Displaces mental flux across a surface within 50 feet, affecting an individual, 
 ---
 
 **ShatterSeal**
-Detects mental flux in a spreading cone at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+This sigil reads thought-current as a widening fan at touch range, centered on the written mark. It holds for about an hour.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1426,7 +1426,7 @@ Detects mental flux in a spreading cone at touch range, affecting the inscribed 
 ---
 
 **GuardWard**
-Detects binding force across a surface within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+This sigil reads binding force across the inscribed face within fifty feet, centered on the written mark. It holds for about a minute.
 | Wattage | 220 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1442,7 +1442,7 @@ Detects binding force across a surface within 50 feet, affecting the inscribed l
 ---
 
 **TransformSight**
-Shields against electrical charge in a circular ring at touch range, affecting an object, to create a new effect. It lasts up to one hour.
+This sigil raises cover against charge as a circling band at touch range, focused on one object. It holds for about an hour.
 | Wattage | 144 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1458,7 +1458,7 @@ Shields against electrical charge in a circular ring at touch range, affecting a
 ---
 
 **RiseStrike**
-Constrains reactive compounds in a circular ring within 50 feet, affecting an individual, to actively regulate the effect.
+This sigil locks down reactive compounds as a circling band within fifty feet, focused on one person.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1474,7 +1474,7 @@ Constrains reactive compounds in a circular ring within 50 feet, affecting an in
 ---
 
 **RisBoon**
-Counters binding force in a cylindrical column at touch range, affecting an object, to create a new effect. It lasts up to one hour.
+This sigil breaks the momentum of binding force as a standing column at touch range, focused on one object. It holds for about an hour.
 | Wattage | 249 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1490,7 +1490,7 @@ Counters binding force in a cylindrical column at touch range, affecting an obje
 ---
 
 **ShatterBond**
-Detects mental flux in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect. It lasts up to one hour.
+This sigil reads thought-current as a widening fan within fifty feet, centered on the written mark. It holds for about an hour.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1506,7 +1506,7 @@ Detects mental flux in a spreading cone within 50 feet, affecting the inscribed 
 ---
 
 **WeavePulse**
-Alters mental flux in a cylindrical column at touch range, affecting an individual, to create a new effect. It persists until its condition is met.
+This sigil reworks thought-current as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1522,7 +1522,7 @@ Alters mental flux in a cylindrical column at touch range, affecting an individu
 ---
 
 **ReleaseTide**
-Releases binding force as a focused beam at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+This sigil unleashes binding force as a narrow line at touch range, centered on the written mark. It holds for about a minute.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1538,7 +1538,7 @@ Releases binding force as a focused beam at touch range, affecting the inscribed
 ---
 
 **GuardSpirit**
-Detects mental flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+This sigil reads thought-current across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 530 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1554,7 +1554,7 @@ Detects mental flux across a surface within 10 feet, affecting a surface, to act
 ---
 
 **TwistSpirit**
-Detects reactive compounds across a surface within 50 feet, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil reads reactive compounds across the inscribed face within fifty feet, focused on one person. It remains until its trigger condition is met.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1570,7 +1570,7 @@ Detects reactive compounds across a surface within 50 feet, affecting an individ
 ---
 
 **BreakBreath**
-Shields against mental flux across a surface within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+This sigil raises cover against thought-current across the inscribed face within ten feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1586,7 +1586,7 @@ Shields against mental flux across a surface within 10 feet, affecting the inscr
 ---
 
 **FreezeStrike**
-Counters mental flux in a cylindrical column within 10 feet, affecting the inscribed location, to actively regulate the effect.
+This sigil breaks the momentum of thought-current as a standing column within ten feet, centered on the written mark.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1602,7 +1602,7 @@ Counters mental flux in a cylindrical column within 10 feet, affecting the inscr
 ---
 
 **AnchorVeil**
-Detects reactive compounds in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil reads reactive compounds as a standing column within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1618,7 +1618,7 @@ Detects reactive compounds in a cylindrical column within 10 feet, affecting a s
 ---
 
 **ChillCrown**
-Releases mental flux in a cylindrical column within 10 feet, affecting an object, to create a new effect. It persists until its condition is met.
+This sigil unleashes thought-current as a standing column within ten feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 547 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1634,7 +1634,7 @@ Releases mental flux in a cylindrical column within 10 feet, affecting an object
 ---
 
 **BurnRoad**
-Constrains electrical charge in a cylindrical column within 50 feet, affecting the inscribed location, to alter an existing state. It persists while actively sustained.
+This sigil locks down charge as a standing column within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1650,7 +1650,7 @@ Constrains electrical charge in a cylindrical column within 50 feet, affecting t
 ---
 
 **GuardLight**
-Alters reactive compounds as a focused beam within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+This sigil reworks reactive compounds as a narrow line within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1666,7 +1666,7 @@ Alters reactive compounds as a focused beam within 10 feet, affecting an individ
 ---
 
 **DissolveFlame**
-Counters reactive compounds in a cylindrical column within 50 feet, affecting the inscribed location, to alter an existing state.
+This sigil breaks the momentum of reactive compounds as a standing column within fifty feet, centered on the written mark.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1682,7 +1682,7 @@ Counters reactive compounds in a cylindrical column within 50 feet, affecting th
 ---
 
 **DeepSeal**
-Alters mental flux across a surface within 50 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+This sigil reworks thought-current across the inscribed face within fifty feet, focused on one object. It holds for about an hour.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1698,7 +1698,7 @@ Alters mental flux across a surface within 50 feet, affecting an object, to alte
 ---
 
 **ChillPulse**
-Constrains mental flux in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+This sigil locks down thought-current as a widening fan within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1714,7 +1714,7 @@ Constrains mental flux in a spreading cone within 50 feet, affecting the inscrib
 ---
 
 **DullMirror**
-Shields against mental flux in a circular ring at touch range, affecting an object, to create a new effect. It persists while actively sustained.
+This sigil raises cover against thought-current as a circling band at touch range, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1730,7 +1730,7 @@ Shields against mental flux in a circular ring at touch range, affecting an obje
 ---
 
 **RestlessSeal**
-Releases reactive compounds in a cylindrical column within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil unleashes reactive compounds as a standing column within ten feet, focused on one person. It holds for about a minute.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1746,7 +1746,7 @@ Releases reactive compounds in a cylindrical column within 10 feet, affecting an
 ---
 
 **SweepBond**
-Releases binding force across a surface within 50 feet, affecting an individual, to actively regulate the effect. It persists until its condition is met.
+This sigil unleashes binding force across the inscribed face within fifty feet, focused on one person. It remains until its trigger condition is met.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1762,7 +1762,7 @@ Releases binding force across a surface within 50 feet, affecting an individual,
 ---
 
 **ShatterVoice**
-Releases electrical charge in a spreading cone at touch range, affecting a surface, to create a new effect. It persists until its condition is met.
+This sigil unleashes charge as a widening fan at touch range, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1778,7 +1778,7 @@ Releases electrical charge in a spreading cone at touch range, affecting a surfa
 ---
 
 **QuietCore**
-Detects mental flux in a circular ring at touch range, affecting an individual, to alter an existing state. It lasts up to one hour.
+This sigil reads thought-current as a circling band at touch range, focused on one person. It holds for about an hour.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1794,7 +1794,7 @@ Detects mental flux in a circular ring at touch range, affecting an individual, 
 ---
 
 **PaleBreath**
-Alters mental flux in a cylindrical column at touch range, affecting an object, to alter an existing state.
+This sigil reworks thought-current as a standing column at touch range, focused on one object.
 | Wattage | 524 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1810,7 +1810,7 @@ Alters mental flux in a cylindrical column at touch range, affecting an object, 
 ---
 
 **BrightPath**
-Detects mental flux as a focused beam within 10 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+This sigil reads thought-current as a narrow line within ten feet, focused on one object. It holds for about a minute.
 | Wattage | 217 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1826,7 +1826,7 @@ Detects mental flux as a focused beam within 10 feet, affecting an object, to ac
 ---
 
 **GuardDance**
-Alters mental flux in a spreading cone within 10 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+This sigil reworks thought-current as a widening fan within ten feet, centered on the written mark. It holds for about a minute.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1842,7 +1842,7 @@ Alters mental flux in a spreading cone within 10 feet, affecting the inscribed l
 ---
 
 **DissolvGlyph**
-Counters binding force in a circular ring within 50 feet, affecting an object, to alter an existing state. It persists while actively sustained.
+This sigil breaks the momentum of binding force as a circling band within fifty feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1858,7 +1858,7 @@ Counters binding force in a circular ring within 50 feet, affecting an object, t
 ---
 
 **TwistFlame**
-Displaces mental flux in a circular ring within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+This sigil drives thought-current as a circling band within fifty feet, focused on one object. It holds for about a minute.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1874,7 +1874,7 @@ Displaces mental flux in a circular ring within 50 feet, affecting an object, to
 ---
 
 **QuietHalo**
-Displaces mental flux in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect.
+This sigil drives thought-current as a widening fan within fifty feet, centered on the written mark.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1890,7 +1890,7 @@ Displaces mental flux in a spreading cone within 50 feet, affecting the inscribe
 ---
 
 **QuietGate**
-Filters mental flux in a cylindrical column at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+This sigil sifts thought-current as a standing column at touch range, centered on the written mark. It holds for about a minute.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1906,7 +1906,7 @@ Filters mental flux in a cylindrical column at touch range, affecting the inscri
 ---
 
 **PierceBrand**
-Releases electrical charge in a spreading cone within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+This sigil unleashes charge as a widening fan within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1922,7 +1922,7 @@ Releases electrical charge in a spreading cone within 10 feet, affecting a surfa
 ---
 
 **BreakRing**
-Alters mental flux in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect.
+This sigil reworks thought-current as a standing column within ten feet, spread over a surface.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1938,7 +1938,7 @@ Alters mental flux in a cylindrical column within 10 feet, affecting a surface, 
 ---
 
 **WarmWeb**
-Counters binding force across a surface at touch range, affecting an individual, to create a new effect.
+This sigil breaks the momentum of binding force across the inscribed face at touch range, focused on one person.
 | Wattage | 210 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1954,7 +1954,7 @@ Counters binding force across a surface at touch range, affecting an individual,
 ---
 
 **WhirlingKey**
-Releases mental flux across a surface within 10 feet, affecting an object, to actively regulate the effect.
+This sigil unleashes thought-current across the inscribed face within ten feet, focused on one object.
 | Wattage | 207 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1970,7 +1970,7 @@ Releases mental flux across a surface within 10 feet, affecting an object, to ac
 ---
 
 **CalmRoad**
-Releases mental flux in a circular ring within 50 feet, affecting a surface, to create a new effect. It persists until its condition is met.
+This sigil unleashes thought-current as a circling band within fifty feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 255 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1986,7 +1986,7 @@ Releases mental flux in a circular ring within 50 feet, affecting a surface, to 
 ---
 
 **KindleDream**
-Counters mental flux in a circular ring at touch range, affecting an object, to create a new effect.
+This sigil breaks the momentum of thought-current as a circling band at touch range, focused on one object.
 | Wattage | 519 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2002,7 +2002,7 @@ Counters mental flux in a circular ring at touch range, affecting an object, to 
 ---
 
 **WarmBond**
-Counters mental flux as a focused beam within 50 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+This sigil breaks the momentum of thought-current as a narrow line within fifty feet, spread over a surface. It holds for about an hour.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2018,7 +2018,7 @@ Counters mental flux as a focused beam within 50 feet, affecting a surface, to c
 ---
 
 **MurkyRing**
-Filters binding force in a circular ring within 10 feet, affecting an individual, to create a new effect.
+This sigil sifts binding force as a circling band within ten feet, focused on one person.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2034,7 +2034,7 @@ Filters binding force in a circular ring within 10 feet, affecting an individual
 ---
 
 **HiddenWard**
-Shields against reactive compounds in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+This sigil raises cover against reactive compounds as a widening fan within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2050,7 +2050,7 @@ Shields against reactive compounds in a spreading cone within 50 feet, affecting
 ---
 
 **FlowTouch**
-Detects mental flux across a surface within 50 feet, affecting the inscribed location, to create a new effect.
+This sigil reads thought-current across the inscribed face within fifty feet, centered on the written mark.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2066,7 +2066,7 @@ Detects mental flux across a surface within 50 feet, affecting the inscribed loc
 ---
 
 **ReleasFlame**
-Counters binding force in a circular ring within 10 feet, affecting an object, to create a new effect.
+This sigil breaks the momentum of binding force as a circling band within ten feet, focused on one object.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2082,7 +2082,7 @@ Counters binding force in a circular ring within 10 feet, affecting an object, t
 ---
 
 **DarkVoid**
-Counters mental flux in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect.
+This sigil breaks the momentum of thought-current as a standing column within ten feet, spread over a surface.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2098,7 +2098,7 @@ Counters mental flux in a cylindrical column within 10 feet, affecting a surface
 ---
 
 **HiddenFlame**
-Alters binding force across a surface within 50 feet, affecting an object, to actively regulate the effect. It persists until its condition is met.
+This sigil reworks binding force across the inscribed face within fifty feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2114,7 +2114,7 @@ Alters binding force across a surface within 50 feet, affecting an object, to ac
 ---
 
 **WildCrown**
-Filters mental flux as a focused beam at touch range, affecting a surface, to create a new effect. It persists while actively sustained.
+This sigil sifts thought-current as a narrow line at touch range, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2130,7 +2130,7 @@ Filters mental flux as a focused beam at touch range, affecting a surface, to cr
 ---
 
 **WarmRing**
-Detects electrical charge in a cylindrical column within 50 feet, affecting the inscribed location, to alter an existing state. It persists until its condition is met.
+This sigil reads charge as a standing column within fifty feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2146,7 +2146,7 @@ Detects electrical charge in a cylindrical column within 50 feet, affecting the 
 ---
 
 **DissolvSigil**
-Detects mental flux in a circular ring within 50 feet, affecting an individual, to create a new effect.
+This sigil reads thought-current as a circling band within fifty feet, focused on one person.
 | Wattage | 538 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2162,7 +2162,7 @@ Detects mental flux in a circular ring within 50 feet, affecting an individual, 
 ---
 
 **SteadyMirror**
-Constrains reactive compounds in a spreading cone at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil locks down reactive compounds as a widening fan at touch range, focused on one person. It remains until its trigger condition is met.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2178,7 +2178,7 @@ Constrains reactive compounds in a spreading cone at touch range, affecting an i
 ---
 
 **DullNet**
-Releases electrical charge as a focused beam within 50 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+This sigil unleashes charge as a narrow line within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2194,7 +2194,7 @@ Releases electrical charge as a focused beam within 50 feet, affecting an indivi
 ---
 
 **FreezBoon**
-Alters reactive compounds in a circular ring within 50 feet, affecting an individual, to actively regulate the effect.
+This sigil reworks reactive compounds as a circling band within fifty feet, focused on one person.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2210,7 +2210,7 @@ Alters reactive compounds in a circular ring within 50 feet, affecting an indivi
 ---
 
 **VastSoul**
-Detects electrical charge in a cylindrical column at touch range, affecting the inscribed location, to alter an existing state. It persists while actively sustained.
+This sigil reads charge as a standing column at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2226,7 +2226,7 @@ Detects electrical charge in a cylindrical column at touch range, affecting the 
 ---
 
 **BurVoice**
-Alters binding force in a circular ring within 50 feet, affecting a surface, to alter an existing state. It lasts up to one hour.
+This sigil reworks binding force as a circling band within fifty feet, spread over a surface. It holds for about an hour.
 | Wattage | 260 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2242,7 +2242,7 @@ Alters binding force in a circular ring within 50 feet, affecting a surface, to 
 ---
 
 **ChillRoad**
-Filters mental flux across a surface within 50 feet, affecting an individual, to create a new effect.
+This sigil sifts thought-current across the inscribed face within fifty feet, focused on one person.
 | Wattage | 523 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2258,7 +2258,7 @@ Filters mental flux across a surface within 50 feet, affecting an individual, to
 ---
 
 **BrightDoor**
-Shields against electrical charge in a cylindrical column within 10 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+This sigil raises cover against charge as a standing column within ten feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2274,7 +2274,7 @@ Shields against electrical charge in a cylindrical column within 10 feet, affect
 ---
 
 **HiddenHand**
-Filters reactive compounds in a cylindrical column at touch range, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+This sigil sifts reactive compounds as a standing column at touch range, focused on one person. It holds for about an hour.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2290,7 +2290,7 @@ Filters reactive compounds in a cylindrical column at touch range, affecting an 
 ---
 
 **VastBoon**
-Alters mental flux as a focused beam at touch range, affecting a surface, to alter an existing state. It persists until its condition is met.
+This sigil reworks thought-current as a narrow line at touch range, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2306,7 +2306,7 @@ Alters mental flux as a focused beam at touch range, affecting a surface, to alt
 ---
 
 **PiercAura**
-Filters mental flux across a surface within 10 feet, affecting the inscribed location, to create a new effect. It lasts up to one minute.
+This sigil sifts thought-current across the inscribed face within ten feet, centered on the written mark. It holds for about a minute.
 | Wattage | 510 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2322,7 +2322,7 @@ Filters mental flux across a surface within 10 feet, affecting the inscribed loc
 ---
 
 **GuardPulse**
-Constrains binding force in a circular ring within 10 feet, affecting an object, to create a new effect. It lasts up to one hour.
+This sigil locks down binding force as a circling band within ten feet, focused on one object. It holds for about an hour.
 | Wattage | 247 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2338,7 +2338,7 @@ Constrains binding force in a circular ring within 10 feet, affecting an object,
 ---
 
 **SlowCrown**
-Counters mental flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil breaks the momentum of thought-current across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2354,7 +2354,7 @@ Counters mental flux across a surface within 10 feet, affecting a surface, to ac
 ---
 
 **AnchorMark**
-Releases mental flux as a focused beam within 50 feet, affecting a surface, to create a new effect.
+This sigil unleashes thought-current as a narrow line within fifty feet, spread over a surface.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2370,7 +2370,7 @@ Releases mental flux as a focused beam within 50 feet, affecting a surface, to c
 ---
 
 **ReleaseDream**
-Filters binding force in a circular ring at touch range, affecting an object, to create a new effect.
+This sigil sifts binding force as a circling band at touch range, focused on one object.
 | Wattage | 219 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2386,7 +2386,7 @@ Filters binding force in a circular ring at touch range, affecting an object, to
 ---
 
 **BindChain**
-Detects binding force in a circular ring within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+This sigil reads binding force as a circling band within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2402,7 +2402,7 @@ Detects binding force in a circular ring within 10 feet, affecting an individual
 ---
 
 **FreezeFlame**
-Constrains binding force in a circular ring within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+This sigil locks down binding force as a circling band within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 253 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2418,7 +2418,7 @@ Constrains binding force in a circular ring within 10 feet, affecting an individ
 ---
 
 **FlowThread**
-Counters binding force in a cylindrical column within 10 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+This sigil breaks the momentum of binding force as a standing column within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2434,7 +2434,7 @@ Counters binding force in a cylindrical column within 10 feet, affecting the ins
 ---
 
 **CalmWisp**
-Constrains reactive compounds in a cylindrical column at touch range, affecting an individual, to create a new effect. It persists while actively sustained.
+This sigil locks down reactive compounds as a standing column at touch range, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2450,7 +2450,7 @@ Constrains reactive compounds in a cylindrical column at touch range, affecting 
 ---
 
 **AnchorScar**
-Counters reactive compounds as a focused beam at touch range, affecting an object, to alter an existing state. It lasts up to one hour.
+This sigil breaks the momentum of reactive compounds as a narrow line at touch range, focused on one object. It holds for about an hour.
 | Wattage | 134 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2466,7 +2466,7 @@ Counters reactive compounds as a focused beam at touch range, affecting an objec
 ---
 
 **SlowKnot**
-Shields against mental flux as a focused beam at touch range, affecting a surface, to create a new effect. It persists while actively sustained.
+This sigil raises cover against thought-current as a narrow line at touch range, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2482,7 +2482,7 @@ Shields against mental flux as a focused beam at touch range, affecting a surfac
 ---
 
 **ReleasMirror**
-Detects electrical charge in a circular ring within 10 feet, affecting a surface, to actively regulate the effect. It persists while actively sustained.
+This sigil reads charge as a circling band within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2498,7 +2498,7 @@ Detects electrical charge in a circular ring within 10 feet, affecting a surface
 ---
 
 **KindleCurse**
-Releases mental flux in a circular ring within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+This sigil unleashes thought-current as a circling band within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 240 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2514,7 +2514,7 @@ Releases mental flux in a circular ring within 50 feet, affecting the inscribed 
 ---
 
 **DissolvHeart**
-Constrains mental flux across a surface within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil locks down thought-current across the inscribed face within fifty feet, spread over a surface. It holds for about an hour.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2530,7 +2530,7 @@ Constrains mental flux across a surface within 50 feet, affecting a surface, to 
 ---
 
 **StillVoice**
-Releases binding force across a surface at touch range, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+This sigil unleashes binding force across the inscribed face at touch range, focused on one person. It holds for about an hour.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2546,7 +2546,7 @@ Releases binding force across a surface at touch range, affecting an individual,
 ---
 
 **DriftShadow**
-Filters mental flux in a spreading cone within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+This sigil sifts thought-current as a widening fan within ten feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2562,7 +2562,7 @@ Filters mental flux in a spreading cone within 10 feet, affecting the inscribed 
 ---
 
 **SweepRune**
-Displaces mental flux as a focused beam within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+This sigil drives thought-current as a narrow line within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Move |
@@ -2578,7 +2578,7 @@ Displaces mental flux as a focused beam within 50 feet, affecting the inscribed 
 ---
 
 **WeavBridge**
-Constrains mental flux across a surface within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+This sigil locks down thought-current across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2594,7 +2594,7 @@ Constrains mental flux across a surface within 10 feet, affecting a surface, to 
 ---
 
 **ChillBond**
-Constrains electrical charge in a circular ring at touch range, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+This sigil locks down charge as a circling band at touch range, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2610,7 +2610,7 @@ Constrains electrical charge in a circular ring at touch range, affecting a surf
 ---
 
 **TransformShadow**
-Alters reactive compounds in a circular ring within 10 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+This sigil reworks reactive compounds as a circling band within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2626,7 +2626,7 @@ Alters reactive compounds in a circular ring within 10 feet, affecting a surface
 ---
 
 **BindTide**
-Releases mental flux across a surface at touch range, affecting an object, to actively regulate the effect. It persists while actively sustained.
+This sigil unleashes thought-current across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 514 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2642,7 +2642,7 @@ Releases mental flux across a surface at touch range, affecting an object, to ac
 ---
 
 **QuietVoid**
-Releases mental flux across a surface within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil unleashes thought-current across the inscribed face within ten feet, focused on one person. It holds for about a minute.
 | Wattage | 518 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2658,7 +2658,7 @@ Releases mental flux across a surface within 10 feet, affecting an individual, t
 ---
 
 **FreezeThought**
-Detects mental flux across a surface within 10 feet, affecting the inscribed location, to alter an existing state.
+This sigil reads thought-current across the inscribed face within ten feet, centered on the written mark.
 | Wattage | 205 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2674,7 +2674,7 @@ Detects mental flux across a surface within 10 feet, affecting the inscribed loc
 ---
 
 **ReleaseLight**
-Filters binding force in a spreading cone within 10 feet, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+This sigil sifts binding force as a widening fan within ten feet, centered on the written mark. It holds for about an hour.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2690,7 +2690,7 @@ Filters binding force in a spreading cone within 10 feet, affecting the inscribe
 ---
 
 **TransformVeil**
-Alters binding force in a spreading cone within 10 feet, affecting an individual, to create a new effect. It lasts up to one minute.
+This sigil reworks binding force as a widening fan within ten feet, focused on one person. It holds for about a minute.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2706,7 +2706,7 @@ Alters binding force in a spreading cone within 10 feet, affecting an individual
 ---
 
 **HollowCurse**
-Filters binding force in a circular ring within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one hour.
+This sigil sifts binding force as a circling band within fifty feet, centered on the written mark. It holds for about an hour.
 | Wattage | 135 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2722,7 +2722,7 @@ Filters binding force in a circular ring within 50 feet, affecting the inscribed
 ---
 
 **TransformSeal**
-Releases mental flux in a cylindrical column within 10 feet, affecting an object, to create a new effect. It lasts up to one minute.
+This sigil unleashes thought-current as a standing column within ten feet, focused on one object. It holds for about a minute.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2738,7 +2738,7 @@ Releases mental flux in a cylindrical column within 10 feet, affecting an object
 ---
 
 **FreezeTide**
-Displaces binding force in a cylindrical column within 10 feet, affecting an object, to actively regulate the effect.
+This sigil drives binding force as a standing column within ten feet, focused on one object.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -2754,7 +2754,7 @@ Displaces binding force in a cylindrical column within 10 feet, affecting an obj
 ---
 
 **LoneTouch**
-Shields against binding force as a focused beam within 10 feet, affecting an object, to create a new effect.
+This sigil raises cover against binding force as a narrow line within ten feet, focused on one object.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2770,7 +2770,7 @@ Shields against binding force as a focused beam within 10 feet, affecting an obj
 ---
 
 **RisDoor**
-Filters mental flux as a focused beam within 10 feet, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+This sigil sifts thought-current as a narrow line within ten feet, centered on the written mark. It holds for about a minute.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2786,7 +2786,7 @@ Filters mental flux as a focused beam within 10 feet, affecting the inscribed lo
 ---
 
 **DeepHeart**
-Filters binding force across a surface at touch range, affecting an object, to alter an existing state. It persists while actively sustained.
+This sigil sifts binding force across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2802,7 +2802,7 @@ Filters binding force across a surface at touch range, affecting an object, to a
 ---
 
 **RiseVeil**
-Filters mental flux as a focused beam within 10 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+This sigil sifts thought-current as a narrow line within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2818,7 +2818,7 @@ Filters mental flux as a focused beam within 10 feet, affecting the inscribed lo
 ---
 
 **PiercCrown**
-Filters binding force in a spreading cone at touch range, affecting a surface, to actively regulate the effect. It persists while actively sustained.
+This sigil sifts binding force as a widening fan at touch range, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2834,7 +2834,7 @@ Filters binding force in a spreading cone at touch range, affecting a surface, t
 ---
 
 **DriftingEye**
-Shields against reactive compounds in a cylindrical column at touch range, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+This sigil raises cover against reactive compounds as a standing column at touch range, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2850,7 +2850,7 @@ Shields against reactive compounds in a cylindrical column at touch range, affec
 ---
 
 **CapturCrown**
-Alters mental flux in a circular ring at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+This sigil reworks thought-current as a circling band at touch range, centered on the written mark. It holds for about an hour.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2866,7 +2866,7 @@ Alters mental flux in a circular ring at touch range, affecting the inscribed lo
 ---
 
 **RisePulse**
-Counters mental flux in a circular ring within 50 feet, affecting an individual, to alter an existing state.
+This sigil breaks the momentum of thought-current as a circling band within fifty feet, focused on one person.
 | Wattage | 238 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2882,7 +2882,7 @@ Counters mental flux in a circular ring within 50 feet, affecting an individual,
 ---
 
 **PureMirror**
-Constrains reactive compounds in a spreading cone within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+This sigil locks down reactive compounds as a widening fan within fifty feet, focused on one object. It holds for about an hour.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2898,7 +2898,7 @@ Constrains reactive compounds in a spreading cone within 50 feet, affecting an o
 ---
 
 **CalmTide**
-Releases binding force across a surface within 50 feet, affecting the inscribed location, to alter an existing state.
+This sigil unleashes binding force across the inscribed face within fifty feet, centered on the written mark.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2914,7 +2914,7 @@ Releases binding force across a surface within 50 feet, affecting the inscribed 
 ---
 
 **TwinSigil**
-Detects binding force in a cylindrical column within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+This sigil reads binding force as a standing column within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 138 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2930,7 +2930,7 @@ Detects binding force in a cylindrical column within 10 feet, affecting an indiv
 ---
 
 **SlowStorm**
-Filters electrical charge in a cylindrical column within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one hour.
+This sigil sifts charge as a standing column within fifty feet, centered on the written mark. It holds for about an hour.
 | Wattage | 160 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2946,7 +2946,7 @@ Filters electrical charge in a cylindrical column within 50 feet, affecting the 
 ---
 
 **AncientShroud**
-Alters binding force in a cylindrical column at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil reworks binding force as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
 | Wattage | 250 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2962,7 +2962,7 @@ Alters binding force in a cylindrical column at touch range, affecting an indivi
 ---
 
 **KindlGate**
-Filters mental flux as a focused beam within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil sifts thought-current as a narrow line within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2978,7 +2978,7 @@ Filters mental flux as a focused beam within 10 feet, affecting a surface, to ac
 ---
 
 **ShatterWall**
-Shields against reactive compounds in a spreading cone within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+This sigil raises cover against reactive compounds as a widening fan within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 148 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2994,7 +2994,7 @@ Shields against reactive compounds in a spreading cone within 10 feet, affecting
 ---
 
 **GrandVoice**
-Constrains mental flux in a spreading cone at touch range, affecting an object, to actively regulate the effect.
+This sigil locks down thought-current as a widening fan at touch range, focused on one object.
 | Wattage | 214 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3010,7 +3010,7 @@ Constrains mental flux in a spreading cone at touch range, affecting an object, 
 ---
 
 **SurgeBrand**
-Shields against binding force in a spreading cone within 10 feet, affecting an object, to actively regulate the effect. It persists while actively sustained.
+This sigil raises cover against binding force as a widening fan within ten feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -3026,7 +3026,7 @@ Shields against binding force in a spreading cone within 10 feet, affecting an o
 ---
 
 **LightBond**
-Counters reactive compounds in a circular ring within 50 feet, affecting the inscribed location, to actively regulate the effect. It persists while actively sustained.
+This sigil breaks the momentum of reactive compounds as a circling band within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -3042,7 +3042,7 @@ Counters reactive compounds in a circular ring within 50 feet, affecting the ins
 ---
 
 **PureFrost**
-Constrains mental flux as a focused beam within 10 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+This sigil locks down thought-current as a narrow line within ten feet, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3058,7 +3058,7 @@ Constrains mental flux as a focused beam within 10 feet, affecting the inscribed
 ---
 
 **SweepStorm**
-Constrains mental flux in a circular ring within 10 feet, affecting the inscribed location, to create a new effect. It lasts up to one minute.
+This sigil locks down thought-current as a circling band within ten feet, centered on the written mark. It holds for about a minute.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3074,7 +3074,7 @@ Constrains mental flux in a circular ring within 10 feet, affecting the inscribe
 ---
 
 **WeavAura**
-Alters electrical charge in a circular ring at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil reworks charge as a circling band at touch range, focused on one person. It remains until its trigger condition is met.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -3090,7 +3090,7 @@ Alters electrical charge in a circular ring at touch range, affecting an individ
 ---
 
 **BindWisp**
-Detects mental flux in a spreading cone at touch range, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+This sigil reads thought-current as a widening fan at touch range, centered on the written mark. It remains until its trigger condition is met.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -3106,7 +3106,7 @@ Detects mental flux in a spreading cone at touch range, affecting the inscribed 
 ---
 
 **CalmBrand**
-Detects reactive compounds in a spreading cone within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+This sigil reads reactive compounds as a widening fan within fifty feet, spread over a surface. It holds for about a minute.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -3122,7 +3122,7 @@ Detects reactive compounds in a spreading cone within 50 feet, affecting a surfa
 ---
 
 **BindWay**
-Filters binding force in a cylindrical column at touch range, affecting an object, to actively regulate the effect. It persists until its condition is met.
+This sigil sifts binding force as a standing column at touch range, focused on one object. It remains until its trigger condition is met.
 | Wattage | 244 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -3138,7 +3138,7 @@ Filters binding force in a cylindrical column at touch range, affecting an objec
 ---
 
 **StraightBoon**
-Constrains reactive compounds in a circular ring within 50 feet, affecting an individual, to actively regulate the effect. It persists until its condition is met.
+This sigil locks down reactive compounds as a circling band within fifty feet, focused on one person. It remains until its trigger condition is met.
 | Wattage | 158 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -3154,7 +3154,7 @@ Constrains reactive compounds in a circular ring within 50 feet, affecting an in
 ---
 
 **BreakShell**
-Shields against binding force across a surface at touch range, affecting an object, to create a new effect. It lasts up to one hour.
+This sigil raises cover against binding force across the inscribed face at touch range, focused on one object. It holds for about an hour.
 | Wattage | 229 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -3170,7 +3170,7 @@ Shields against binding force across a surface at touch range, affecting an obje
 ---
 
 **CalmTouch**
-Counters binding force in a spreading cone within 50 feet, affecting an object, to actively regulate the effect.
+This sigil breaks the momentum of binding force as a widening fan within fifty feet, focused on one object.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -3186,7 +3186,7 @@ Counters binding force in a spreading cone within 50 feet, affecting an object, 
 ---
 
 **SurCurse**
-Releases binding force across a surface within 10 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+This sigil unleashes binding force across the inscribed face within ten feet, spread over a surface. It holds for about a minute.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |

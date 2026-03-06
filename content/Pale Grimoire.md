@@ -2,7 +2,7 @@ Pale spells require [[Control Tier]] T9 and represent effects that brush against
 
 _Return to [[All Grimoire]]_
 **SweepBreath**
-Constrains soul flux in a spherical radius at line of sight, affecting an individual, to actively regulate the effect. It establishes a permanent effect.
+This sigil locks down soul-current as a wrapped radius wherever the caster can see, focused on one person. Once set, it remains as a permanent working.
 | Wattage | 498339 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -18,7 +18,7 @@ Constrains soul flux in a spherical radius at line of sight, affecting an indivi
 ---
 
 **FierceAura**
-Releases soul flux across a defined field at line of sight, affecting a filtered set, to actively regulate the effect. It establishes a permanent effect.
+This sigil unleashes soul-current across a held field wherever the caster can see, applied to the chosen filter set. Once set, it remains as a permanent working.
 | Wattage | 203008 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -34,7 +34,7 @@ Releases soul flux across a defined field at line of sight, affecting a filtered
 ---
 
 **SwiftDoor**
-Detects soul flux across a defined field at line of sight, affecting an individual, to actively regulate the effect. It remains latched until dismissed.
+This sigil reads soul-current across a held field wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
 | Wattage | 216179 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -50,7 +50,7 @@ Detects soul flux across a defined field at line of sight, affecting an individu
 ---
 
 **KindlFlame**
-Displaces soul flux in a spherical radius at line of sight, affecting an individual, to create a new effect. It remains latched until dismissed.
+This sigil drives soul-current as a wrapped radius wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
 | Wattage | 244940 W |
 | Shape | Circle |
 | Hook | Move |
@@ -66,7 +66,7 @@ Displaces soul flux in a spherical radius at line of sight, affecting an individ
 ---
 
 **GuardShroud**
-Filters soul flux across a defined field at line of sight, affecting an individual, to actively regulate the effect. It establishes a permanent effect.
+This sigil sifts soul-current across a held field wherever the caster can see, focused on one person. Once set, it remains as a permanent working.
 | Wattage | 226953 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -82,7 +82,7 @@ Filters soul flux across a defined field at line of sight, affecting an individu
 ---
 
 **TwinBridge**
-Shields against soul flux across a defined field through a linked anchor, affecting a group, to create a new effect. It remains latched until dismissed.
+This sigil raises cover against soul-current across a held field through a linked anchor, spread across a group. It stays latched until someone dismisses it.
 | Wattage | 382824 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -98,7 +98,7 @@ Shields against soul flux across a defined field through a linked anchor, affect
 ---
 
 **FallWeb**
-Detects soul flux in a spherical radius through a linked anchor, affecting an individual, to create a new effect. It establishes a permanent effect.
+This sigil reads soul-current as a wrapped radius through a linked anchor, focused on one person. Once set, it remains as a permanent working.
 | Wattage | 445675 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -114,7 +114,7 @@ Detects soul flux in a spherical radius through a linked anchor, affecting an in
 ---
 
 **BurningGlyph**
-Detects soul flux across a defined field at line of sight, affecting a group, to create a new effect. It establishes a permanent effect.
+This sigil reads soul-current across a held field wherever the caster can see, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 481260 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -130,7 +130,7 @@ Detects soul flux across a defined field at line of sight, affecting a group, to
 ---
 
 **SlowSilence**
-Displaces soul flux across a defined field at line of sight, affecting a group, to alter an existing state. It establishes a permanent effect.
+This sigil drives soul-current across a held field wherever the caster can see, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 457377 W |
 | Shape | Circle |
 | Hook | Move |
@@ -146,7 +146,7 @@ Displaces soul flux across a defined field at line of sight, affecting a group, 
 ---
 
 **StillGate**
-Displaces soul flux in a spherical radius at line of sight, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+This sigil drives soul-current as a wrapped radius wherever the caster can see, applied to the chosen filter set. It stays latched until someone dismisses it.
 | Wattage | 367727 W |
 | Shape | Circle |
 | Hook | Move |
@@ -162,7 +162,7 @@ Displaces soul flux in a spherical radius at line of sight, affecting a filtered
 ---
 
 **DissolveScar**
-Shields against soul flux across a defined field through a linked anchor, affecting an individual, to create a new effect. It establishes a permanent effect.
+This sigil raises cover against soul-current across a held field through a linked anchor, focused on one person. Once set, it remains as a permanent working.
 | Wattage | 283512 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -178,7 +178,7 @@ Shields against soul flux across a defined field through a linked anchor, affect
 ---
 
 **CalmBond**
-Alters soul flux in a spherical radius at line of sight, affecting a group, to actively regulate the effect. It establishes a permanent effect.
+This sigil reworks soul-current as a wrapped radius wherever the caster can see, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 206135 W |
 | Shape | Circle |
 | Hook | Transform |

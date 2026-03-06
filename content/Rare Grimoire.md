@@ -2,7 +2,7 @@ Rare spells require [[Control Tier]] T5–T6 and are the exclusive territory of 
 
 _Return to [[All Grimoire]]_
 **FallTouch**
-Filters soul flux across a surface within 50 feet, affecting a filtered set, to actively regulate the effect. It lasts up to one hour.
+This sigil sifts soul-current across the inscribed face within fifty feet, applied to the chosen filter set. It holds for about an hour.
 | Wattage | 1600 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -18,7 +18,7 @@ Filters soul flux across a surface within 50 feet, affecting a filtered set, to 
 ---
 
 **AnchorShadow**
-Constrains soul flux in a spreading cone within 200 feet, affecting a group, to actively regulate the effect. It persists until its condition is met.
+This sigil locks down soul-current as a widening fan within two hundred feet, spread across a group. It remains until its trigger condition is met.
 | Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -34,7 +34,7 @@ Constrains soul flux in a spreading cone within 200 feet, affecting a group, to 
 ---
 
 **GuardSeal**
-Releases mental flux as a focused beam within 10 feet, affecting an object, to actively regulate the effect. It persists until its condition is met.
+This sigil unleashes thought-current as a narrow line within ten feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 1407 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -50,7 +50,7 @@ Releases mental flux as a focused beam within 10 feet, affecting an object, to a
 ---
 
 **SurgeFrost**
-Constrains soul flux in a cylindrical column within 200 feet, affecting an object, to create a new effect. It lasts up to one hour.
+This sigil locks down soul-current as a standing column within two hundred feet, focused on one object. It holds for about an hour.
 | Wattage | 4212 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -66,7 +66,7 @@ Constrains soul flux in a cylindrical column within 200 feet, affecting an objec
 ---
 
 **CalmSigil**
-Counters soul flux in a spherical radius within 200 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+This sigil breaks the momentum of soul-current as a wrapped radius within two hundred feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -82,7 +82,7 @@ Counters soul flux in a spherical radius within 200 feet, affecting an individua
 ---
 
 **ChillFrost**
-Filters soul flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It remains latched until dismissed.
+This sigil sifts soul-current across the inscribed face within ten feet, spread over a surface. It stays latched until someone dismisses it.
 | Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -98,7 +98,7 @@ Filters soul flux across a surface within 10 feet, affecting a surface, to activ
 ---
 
 **SurgeDream**
-Alters soul flux in a spreading cone within 200 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+This sigil reworks soul-current as a widening fan within two hundred feet, focused on one object. It holds for about a minute.
 | Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -114,7 +114,7 @@ Alters soul flux in a spreading cone within 200 feet, affecting an object, to al
 ---
 
 **LoneFlame**
-Counters mental flux across a surface within 50 feet, affecting a group, to create a new effect. It establishes a permanent effect.
+This sigil breaks the momentum of thought-current across the inscribed face within fifty feet, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 1825 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -130,7 +130,7 @@ Counters mental flux across a surface within 50 feet, affecting a group, to crea
 ---
 
 **BreakScar**
-Manipulates soul flux in a spherical radius within 10 feet, affecting an object, to create a new effect. It persists until its condition is met.
+This sigil threads and steers soul-current as a wrapped radius within ten feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -146,7 +146,7 @@ Manipulates soul flux in a spherical radius within 10 feet, affecting an object,
 ---
 
 **PiercBreath**
-Shields against mental flux as a focused beam within 10 feet, affecting an individual, to create a new effect. It remains latched until dismissed.
+This sigil raises cover against thought-current as a narrow line within ten feet, focused on one person. It stays latched until someone dismisses it.
 | Wattage | 1433 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -162,7 +162,7 @@ Shields against mental flux as a focused beam within 10 feet, affecting an indiv
 ---
 
 **PierceBrand**
-Manipulates soul flux in a cylindrical column within 50 feet, affecting a filtered set, to alter an existing state. It establishes a permanent effect.
+This sigil threads and steers soul-current as a standing column within fifty feet, applied to the chosen filter set. Once set, it remains as a permanent working.
 | Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -178,7 +178,7 @@ Manipulates soul flux in a cylindrical column within 50 feet, affecting a filter
 ---
 
 **WildGate**
-Filters mental flux across a surface within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+This sigil sifts thought-current across the inscribed face within fifty feet, spread over a surface. Once set, it remains as a permanent working.
 | Wattage | 1795 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -194,7 +194,7 @@ Filters mental flux across a surface within 50 feet, affecting a surface, to act
 ---
 
 **FlowThought**
-Shields against soul flux as a focused beam within 200 feet, affecting an object, to actively regulate the effect. It establishes a permanent effect.
+This sigil raises cover against soul-current as a narrow line within two hundred feet, focused on one object. Once set, it remains as a permanent working.
 | Wattage | 1947 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -210,7 +210,7 @@ Shields against soul flux as a focused beam within 200 feet, affecting an object
 ---
 
 **LoudVoid**
-Displaces soul flux across a surface within 10 feet, affecting a filtered set, to alter an existing state. It remains latched until dismissed.
+This sigil drives soul-current across the inscribed face within ten feet, applied to the chosen filter set. It stays latched until someone dismisses it.
 | Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -226,7 +226,7 @@ Displaces soul flux across a surface within 10 feet, affecting a filtered set, t
 ---
 
 **AnchorPulse**
-Alters soul flux as a focused beam within 10 feet, affecting a filtered set, to actively regulate the effect. It lasts up to one minute.
+This sigil reworks soul-current as a narrow line within ten feet, applied to the chosen filter set. It holds for about a minute.
 | Wattage | 4200 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -242,7 +242,7 @@ Alters soul flux as a focused beam within 10 feet, affecting a filtered set, to 
 ---
 
 **DissolvPath**
-Constrains soul flux in a cylindrical column within 10 feet, affecting a group, to alter an existing state. It lasts up to one hour.
+This sigil locks down soul-current as a standing column within ten feet, spread across a group. It holds for about an hour.
 | Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -258,7 +258,7 @@ Constrains soul flux in a cylindrical column within 10 feet, affecting a group, 
 ---
 
 **ShatterBrand**
-Constrains mental flux in a circular ring within 50 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+This sigil locks down thought-current as a circling band within fifty feet, spread over a surface. It holds for about a minute.
 | Wattage | 1415 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -274,7 +274,7 @@ Constrains mental flux in a circular ring within 50 feet, affecting a surface, t
 ---
 
 **LightGlyph**
-Displaces mental flux in a spherical radius within 10 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+This sigil drives thought-current as a wrapped radius within ten feet, focused on one object. It holds for about a minute.
 | Wattage | 1417 W |
 | Shape | Circle |
 | Hook | Move |
@@ -290,7 +290,7 @@ Displaces mental flux in a spherical radius within 10 feet, affecting an object,
 ---
 
 **AnchorFlame**
-Filters soul flux in a spreading cone within 10 feet, affecting an individual, to alter an existing state. It persists while actively sustained.
+This sigil sifts soul-current as a widening fan within ten feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 4158 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -306,7 +306,7 @@ Filters soul flux in a spreading cone within 10 feet, affecting an individual, t
 ---
 
 **SurgeMark**
-Alters soul flux in a spreading cone within 200 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil reworks soul-current as a widening fan within two hundred feet, focused on one person. It holds for about a minute.
 | Wattage | 1563 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -322,7 +322,7 @@ Alters soul flux in a spreading cone within 200 feet, affecting an individual, t
 ---
 
 **TransformPulse**
-Detects soul flux in a spreading cone within 200 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+This sigil reads soul-current as a widening fan within two hundred feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -338,7 +338,7 @@ Detects soul flux in a spreading cone within 200 feet, affecting a surface, to a
 ---
 
 **CaptureLight**
-Counters soul flux across a surface within 10 feet, affecting a group, to create a new effect. It lasts up to one hour.
+This sigil breaks the momentum of soul-current across the inscribed face within ten feet, spread across a group. It holds for about an hour.
 | Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -354,7 +354,7 @@ Counters soul flux across a surface within 10 feet, affecting a group, to create
 ---
 
 **CurvedKey**
-Counters mental flux in a spreading cone within 200 feet, affecting a filtered set, to actively regulate the effect. It persists while actively sustained.
+This sigil breaks the momentum of thought-current as a widening fan within two hundred feet, applied to the chosen filter set. It stays active while the caster keeps feeding it.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -370,7 +370,7 @@ Counters mental flux in a spreading cone within 200 feet, affecting a filtered s
 ---
 
 **FreezeFlame**
-Releases soul flux as a focused beam within 50 feet, affecting a group, to create a new effect. It remains latched until dismissed.
+This sigil unleashes soul-current as a narrow line within fifty feet, spread across a group. It stays latched until someone dismisses it.
 | Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -386,7 +386,7 @@ Releases soul flux as a focused beam within 50 feet, affecting a group, to creat
 ---
 
 **TransformDance**
-Detects soul flux in a spherical radius within 200 feet, affecting a group, to create a new effect. It remains latched until dismissed.
+This sigil reads soul-current as a wrapped radius within two hundred feet, spread across a group. It stays latched until someone dismisses it.
 | Wattage | 4270 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -402,7 +402,7 @@ Detects soul flux in a spherical radius within 200 feet, affecting a group, to c
 ---
 
 **SurSeal**
-Counters mental flux as a focused beam within 200 feet, affecting a group, to alter an existing state. It remains latched until dismissed.
+This sigil breaks the momentum of thought-current as a narrow line within two hundred feet, spread across a group. It stays latched until someone dismisses it.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -418,7 +418,7 @@ Counters mental flux as a focused beam within 200 feet, affecting a group, to al
 ---
 
 **HeavyRoot**
-Detects mental flux as a focused beam within 10 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+This sigil reads thought-current as a narrow line within ten feet, focused on one object. It holds for about a minute.
 | Wattage | 1392 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -434,7 +434,7 @@ Detects mental flux as a focused beam within 10 feet, affecting an object, to al
 ---
 
 **DriftBridge**
-Displaces mental flux in a cylindrical column within 200 feet, affecting a group, to alter an existing state. It lasts up to one hour.
+This sigil drives thought-current as a standing column within two hundred feet, spread across a group. It holds for about an hour.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Move |
@@ -450,7 +450,7 @@ Displaces mental flux in a cylindrical column within 200 feet, affecting a group
 ---
 
 **PierceShadow**
-Constrains soul flux in a circular ring within 10 feet, affecting an object, to create a new effect. It persists while actively sustained.
+This sigil locks down soul-current as a circling band within ten feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 1532 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -466,7 +466,7 @@ Constrains soul flux in a circular ring within 10 feet, affecting an object, to 
 ---
 
 **ReleasMark**
-Displaces soul flux in a spreading cone within 50 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+This sigil drives soul-current as a widening fan within fifty feet, focused on one person. It holds for about an hour.
 | Wattage | 4183 W |
 | Shape | Circle |
 | Hook | Move |
@@ -482,7 +482,7 @@ Displaces soul flux in a spreading cone within 50 feet, affecting an individual,
 ---
 
 **AncientFrost**
-Constrains mental flux as a focused beam within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+This sigil locks down thought-current as a narrow line within ten feet, focused on one person. It holds for about an hour.
 | Wattage | 1418 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -498,7 +498,7 @@ Constrains mental flux as a focused beam within 10 feet, affecting an individual
 ---
 
 **FreezeDance**
-Manipulates soul flux in a spherical radius within 10 feet, affecting a filtered set, to actively regulate the effect. It establishes a permanent effect.
+This sigil threads and steers soul-current as a wrapped radius within ten feet, applied to the chosen filter set. Once set, it remains as a permanent working.
 | Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -514,7 +514,7 @@ Manipulates soul flux in a spherical radius within 10 feet, affecting a filtered
 ---
 
 **CalmScar**
-Manipulates soul flux in a spherical radius within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+This sigil threads and steers soul-current as a wrapped radius within fifty feet, spread over a surface. Once set, it remains as a permanent working.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -530,7 +530,7 @@ Manipulates soul flux in a spherical radius within 50 feet, affecting a surface,
 ---
 
 **HiddenLock**
-Manipulates mental flux in a spherical radius within 10 feet, affecting a group, to actively regulate the effect. It remains latched until dismissed.
+This sigil threads and steers thought-current as a wrapped radius within ten feet, spread across a group. It stays latched until someone dismisses it.
 | Wattage | 1485 W |
 | Shape | Circle |
 | Hook | Control |
@@ -546,7 +546,7 @@ Manipulates mental flux in a spherical radius within 10 feet, affecting a group,
 ---
 
 **PierceBreath**
-Counters soul flux across a surface within 200 feet, affecting an individual, to alter an existing state. It establishes a permanent effect.
+This sigil breaks the momentum of soul-current across the inscribed face within two hundred feet, focused on one person. Once set, it remains as a permanent working.
 | Wattage | 4573 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -562,7 +562,7 @@ Counters soul flux across a surface within 200 feet, affecting an individual, to
 ---
 
 **SweepFlame**
-Manipulates mental flux in a cylindrical column within 10 feet, affecting a surface, to create a new effect. It lasts up to one minute.
+This sigil threads and steers thought-current as a standing column within ten feet, spread over a surface. It holds for about a minute.
 | Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Control |
@@ -578,7 +578,7 @@ Manipulates mental flux in a cylindrical column within 10 feet, affecting a surf
 ---
 
 **BurWisp**
-Shields against soul flux across a surface within 10 feet, affecting an object, to alter an existing state. It persists while actively sustained.
+This sigil raises cover against soul-current across the inscribed face within ten feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 4142 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -594,7 +594,7 @@ Shields against soul flux across a surface within 10 feet, affecting an object, 
 ---
 
 **AncientSilence**
-Constrains mental flux in a circular ring within 10 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+This sigil locks down thought-current as a circling band within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -610,7 +610,7 @@ Constrains mental flux in a circular ring within 10 feet, affecting a surface, t
 ---
 
 **SteadyGate**
-Counters soul flux in a spreading cone within 50 feet, affecting a surface, to alter an existing state. It remains latched until dismissed.
+This sigil breaks the momentum of soul-current as a widening fan within fifty feet, spread over a surface. It stays latched until someone dismisses it.
 | Wattage | 1570 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -626,7 +626,7 @@ Counters soul flux in a spreading cone within 50 feet, affecting a surface, to a
 ---
 
 **BindSight**
-Alters soul flux in a spherical radius within 50 feet, affecting a group, to actively regulate the effect. It persists while actively sustained.
+This sigil reworks soul-current as a wrapped radius within fifty feet, spread across a group. It stays active while the caster keeps feeding it.
 | Wattage | 4215 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -642,7 +642,7 @@ Alters soul flux in a spherical radius within 50 feet, affecting a group, to act
 ---
 
 **PureMirror**
-Constrains soul flux as a focused beam within 10 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+This sigil locks down soul-current as a narrow line within ten feet, spread over a surface. It holds for about a minute.
 | Wattage | 4145 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -658,7 +658,7 @@ Constrains soul flux as a focused beam within 10 feet, affecting a surface, to a
 ---
 
 **FreezeLight**
-Constrains soul flux as a focused beam within 50 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+This sigil locks down soul-current as a narrow line within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 1538 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -674,7 +674,7 @@ Constrains soul flux as a focused beam within 50 feet, affecting an individual, 
 ---
 
 **DullLock**
-Displaces soul flux as a focused beam within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil drives soul-current as a narrow line within ten feet, focused on one person. It holds for about a minute.
 | Wattage | 4148 W |
 | Shape | Circle |
 | Hook | Move |
@@ -690,7 +690,7 @@ Displaces soul flux as a focused beam within 10 feet, affecting an individual, t
 ---
 
 **ShatterBlessing**
-Displaces soul flux across a surface within 200 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+This sigil drives soul-current across the inscribed face within two hundred feet, focused on one person. It holds for about a minute.
 | Wattage | 1553 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -706,7 +706,7 @@ Displaces soul flux across a surface within 200 feet, affecting an individual, t
 ---
 
 **SweepDoor**
-Releases mental flux in a spherical radius within 200 feet, affecting an object, to create a new effect. It persists while actively sustained.
+This sigil unleashes thought-current as a wrapped radius within two hundred feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 1457 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -722,7 +722,7 @@ Releases mental flux in a spherical radius within 200 feet, affecting an object,
 ---
 
 **ShatterEcho**
-Detects soul flux in a circular ring within 200 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+This sigil reads soul-current as a circling band within two hundred feet, focused on one object. It holds for about an hour.
 | Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -738,7 +738,7 @@ Detects soul flux in a circular ring within 200 feet, affecting an object, to al
 ---
 
 **SweepMark**
-Counters soul flux in a circular ring within 200 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+This sigil breaks the momentum of soul-current as a circling band within two hundred feet, focused on one object. It holds for about an hour.
 | Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -754,7 +754,7 @@ Counters soul flux in a circular ring within 200 feet, affecting an object, to a
 ---
 
 **ColdBreath**
-Displaces soul flux in a cylindrical column within 200 feet, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+This sigil drives soul-current as a standing column within two hundred feet, applied to the chosen filter set. It stays latched until someone dismisses it.
 | Wattage | 1660 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -770,7 +770,7 @@ Displaces soul flux in a cylindrical column within 200 feet, affecting a filtere
 ---
 
 **PiercMirror**
-Constrains mental flux across a surface within 50 feet, affecting an object, to alter an existing state. It establishes a permanent effect.
+This sigil locks down thought-current across the inscribed face within fifty feet, focused on one object. Once set, it remains as a permanent working.
 | Wattage | 1792 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -786,7 +786,7 @@ Constrains mental flux across a surface within 50 feet, affecting an object, to 
 ---
 
 **FallStrike**
-Detects soul flux as a focused beam within 200 feet, affecting a surface, to actively regulate the effect. It persists while actively sustained.
+This sigil reads soul-current as a narrow line within two hundred feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 1560 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -802,7 +802,7 @@ Detects soul flux as a focused beam within 200 feet, affecting a surface, to act
 ---
 
 **StrongSigil**
-Alters mental flux as a focused beam within 10 feet, affecting a surface, to alter an existing state. It establishes a permanent effect.
+This sigil reworks thought-current as a narrow line within ten feet, spread over a surface. Once set, it remains as a permanent working.
 | Wattage | 1790 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -818,7 +818,7 @@ Alters mental flux as a focused beam within 10 feet, affecting a surface, to alt
 ---
 
 **LightVeil**
-Counters mental flux across a surface within 50 feet, affecting a filtered set, to create a new effect. It persists while actively sustained.
+This sigil breaks the momentum of thought-current across the inscribed face within fifty feet, applied to the chosen filter set. It stays active while the caster keeps feeding it.
 | Wattage | 1460 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -834,7 +834,7 @@ Counters mental flux across a surface within 50 feet, affecting a filtered set, 
 ---
 
 **TwistDream**
-Filters mental flux across a surface within 50 feet, affecting a filtered set, to create a new effect. It establishes a permanent effect.
+This sigil sifts thought-current across the inscribed face within fifty feet, applied to the chosen filter set. Once set, it remains as a permanent working.
 | Wattage | 1850 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -850,7 +850,7 @@ Filters mental flux across a surface within 50 feet, affecting a filtered set, t
 ---
 
 **DissolvFrost**
-Filters mental flux in a spherical radius within 50 feet, affecting an individual, to alter an existing state. It persists while actively sustained.
+This sigil sifts thought-current as a wrapped radius within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 1438 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -866,7 +866,7 @@ Filters mental flux in a spherical radius within 50 feet, affecting an individua
 ---
 
 **WeakVeil**
-Detects soul flux in a spherical radius within 50 feet, affecting an object, to alter an existing state. It remains latched until dismissed.
+This sigil reads soul-current as a wrapped radius within fifty feet, focused on one object. It stays latched until someone dismisses it.
 | Wattage | 1587 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -882,7 +882,7 @@ Detects soul flux in a spherical radius within 50 feet, affecting an object, to 
 ---
 
 **BurnRoad**
-Shields against mental flux across a surface within 200 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+This sigil raises cover against thought-current across the inscribed face within two hundred feet, spread over a surface. It holds for about a minute.
 | Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -898,7 +898,7 @@ Shields against mental flux across a surface within 200 feet, affecting a surfac
 ---
 
 **TransformRing**
-Filters soul flux in a cylindrical column within 10 feet, affecting an individual, to alter an existing state. It establishes a permanent effect.
+This sigil sifts soul-current as a standing column within ten feet, focused on one person. Once set, it remains as a permanent working.
 | Wattage | 4558 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -914,7 +914,7 @@ Filters soul flux in a cylindrical column within 10 feet, affecting an individua
 ---
 
 **FallThought**
-Detects soul flux in a spreading cone within 200 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+This sigil reads soul-current as a widening fan within two hundred feet, focused on one object. It holds for about an hour.
 | Wattage | 1577 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -930,7 +930,7 @@ Detects soul flux in a spreading cone within 200 feet, affecting an object, to a
 ---
 
 **StillVoid**
-Releases soul flux in a spherical radius within 200 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+This sigil unleashes soul-current as a wrapped radius within two hundred feet, focused on one person. It stays active while the caster keeps feeding it.
 | Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -946,7 +946,7 @@ Releases soul flux in a spherical radius within 200 feet, affecting an individua
 ---
 
 **ChillRoad**
-Constrains mental flux in a cylindrical column within 10 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+This sigil locks down thought-current as a standing column within ten feet, spread over a surface. It holds for about a minute.
 | Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -962,7 +962,7 @@ Constrains mental flux in a cylindrical column within 10 feet, affecting a surfa
 ---
 
 **StillBreath**
-Releases soul flux as a focused beam within 200 feet, affecting a group, to create a new effect. It persists until its condition is met.
+This sigil unleashes soul-current as a narrow line within two hundred feet, spread across a group. It remains until its trigger condition is met.
 | Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -978,7 +978,7 @@ Releases soul flux as a focused beam within 200 feet, affecting a group, to crea
 ---
 
 **BreakFlame**
-Filters mental flux as a focused beam within 200 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+This sigil sifts thought-current as a narrow line within two hundred feet, focused on one person. It holds for about an hour.
 | Wattage | 1453 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -994,7 +994,7 @@ Filters mental flux as a focused beam within 200 feet, affecting an individual, 
 ---
 
 **DissolvGlyph**
-Counters soul flux as a focused beam within 10 feet, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+This sigil breaks the momentum of soul-current as a narrow line within ten feet, applied to the chosen filter set. It stays latched until someone dismisses it.
 | Wattage | 4235 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1010,7 +1010,7 @@ Counters soul flux as a focused beam within 10 feet, affecting a filtered set, t
 ---
 
 **VastGlyph**
-Manipulates soul flux as a focused beam within 50 feet, affecting a filtered set, to alter an existing state. It persists until its condition is met.
+This sigil threads and steers soul-current as a narrow line within fifty feet, applied to the chosen filter set. It remains until its trigger condition is met.
 | Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1026,7 +1026,7 @@ Manipulates soul flux as a focused beam within 50 feet, affecting a filtered set
 ---
 
 **DarkBond**
-Alters soul flux in a spreading cone within 50 feet, affecting an object, to alter an existing state. It remains latched until dismissed.
+This sigil reworks soul-current as a widening fan within fifty feet, focused on one object. It stays latched until someone dismisses it.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1042,7 +1042,7 @@ Alters soul flux in a spreading cone within 50 feet, affecting an object, to alt
 ---
 
 **WildSpirit**
-Displaces soul flux as a focused beam within 50 feet, affecting a group, to alter an existing state. It remains latched until dismissed.
+This sigil drives soul-current as a narrow line within fifty feet, spread across a group. It stays latched until someone dismisses it.
 | Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1058,7 +1058,7 @@ Displaces soul flux as a focused beam within 50 feet, affecting a group, to alte
 ---
 
 **BreakWay**
-Filters soul flux as a focused beam within 10 feet, affecting a group, to alter an existing state. It lasts up to one minute.
+This sigil sifts soul-current as a narrow line within ten feet, spread across a group. It holds for about a minute.
 | Wattage | 1550 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1074,7 +1074,7 @@ Filters soul flux as a focused beam within 10 feet, affecting a group, to alter 
 ---
 
 **TwistTouch**
-Displaces soul flux across a surface within 50 feet, affecting a filtered set, to alter an existing state. It persists while actively sustained.
+This sigil drives soul-current across the inscribed face within fifty feet, applied to the chosen filter set. It stays active while the caster keeps feeding it.
 | Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1090,7 +1090,7 @@ Displaces soul flux across a surface within 50 feet, affecting a filtered set, t
 ---
 
 **WhirlingSigil**
-Counters soul flux across a surface within 50 feet, affecting a group, to actively regulate the effect. It establishes a permanent effect.
+This sigil breaks the momentum of soul-current across the inscribed face within fifty feet, spread across a group. Once set, it remains as a permanent working.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1106,7 +1106,7 @@ Counters soul flux across a surface within 50 feet, affecting a group, to active
 ---
 
 **AncientGlyph**
-Constrains soul flux in a spreading cone within 200 feet, affecting an individual, to create a new effect. It remains latched until dismissed.
+This sigil locks down soul-current as a widening fan within two hundred feet, focused on one person. It stays latched until someone dismisses it.
 | Wattage | 1598 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1122,7 +1122,7 @@ Constrains soul flux in a spreading cone within 200 feet, affecting an individua
 ---
 
 **StillSpirit**
-Filters soul flux as a focused beam within 200 feet, affecting a surface, to create a new effect. It remains latched until dismissed.
+This sigil sifts soul-current as a narrow line within two hundred feet, spread over a surface. It stays latched until someone dismisses it.
 | Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1138,7 +1138,7 @@ Filters soul flux as a focused beam within 200 feet, affecting a surface, to cre
 ---
 
 **BindMark**
-Manipulates soul flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+This sigil threads and steers soul-current across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
 | Wattage | 4155 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1154,7 +1154,7 @@ Manipulates soul flux across a surface within 10 feet, affecting a surface, to a
 ---
 
 **ColdVoid**
-Detects soul flux across a surface within 10 feet, affecting a group, to create a new effect. It persists while actively sustained.
+This sigil reads soul-current across the inscribed face within ten feet, spread across a group. It stays active while the caster keeps feeding it.
 | Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1170,7 +1170,7 @@ Detects soul flux across a surface within 10 feet, affecting a group, to create 
 ---
 
 **SweepCore**
-Constrains mental flux in a spreading cone within 10 feet, affecting a group, to create a new effect. It lasts up to one minute.
+This sigil locks down thought-current as a widening fan within ten feet, spread across a group. It holds for about a minute.
 | Wattage | 1430 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -1186,7 +1186,7 @@ Constrains mental flux in a spreading cone within 10 feet, affecting a group, to
 ---
 
 **ShatterBreath**
-Detects soul flux in a spherical radius within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+This sigil reads soul-current as a wrapped radius within fifty feet, spread over a surface. Once set, it remains as a permanent working.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1202,7 +1202,7 @@ Detects soul flux in a spherical radius within 50 feet, affecting a surface, to 
 ---
 
 **DriftLock**
-Alters soul flux in a circular ring within 200 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+This sigil reworks soul-current as a circling band within two hundred feet, focused on one person. It holds for about an hour.
 | Wattage | 1588 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1218,7 +1218,7 @@ Alters soul flux in a circular ring within 200 feet, affecting an individual, to
 ---
 
 **ColdSoul**
-Manipulates mental flux in a spreading cone within 200 feet, affecting a surface, to create a new effect. It lasts up to one minute.
+This sigil threads and steers thought-current as a widening fan within two hundred feet, spread over a surface. It holds for about a minute.
 | Wattage | 1435 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1234,7 +1234,7 @@ Manipulates mental flux in a spreading cone within 200 feet, affecting a surface
 ---
 
 **BindWard**
-Shields against mental flux in a circular ring within 200 feet, affecting an object, to create a new effect. It persists while actively sustained.
+This sigil raises cover against thought-current as a circling band within two hundred feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 1442 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -1250,7 +1250,7 @@ Shields against mental flux in a circular ring within 200 feet, affecting an obj
 ---
 
 **FreezeTide**
-Filters soul flux in a cylindrical column within 200 feet, affecting an object, to create a new effect. It remains latched until dismissed.
+This sigil sifts soul-current as a standing column within two hundred feet, focused on one object. It stays latched until someone dismisses it.
 | Wattage | 1602 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1266,7 +1266,7 @@ Filters soul flux in a cylindrical column within 200 feet, affecting an object, 
 ---
 
 **SlowCrown**
-Shields against soul flux in a circular ring within 200 feet, affecting an object, to create a new effect. It establishes a permanent effect.
+This sigil raises cover against soul-current as a circling band within two hundred feet, focused on one object. Once set, it remains as a permanent working.
 | Wattage | 1957 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1282,7 +1282,7 @@ Shields against soul flux in a circular ring within 200 feet, affecting an objec
 ---
 
 **PierceFrost**
-Filters mental flux in a circular ring within 10 feet, affecting an individual, to alter an existing state. It persists until its condition is met.
+This sigil sifts thought-current as a circling band within ten feet, focused on one person. It remains until its trigger condition is met.
 | Wattage | 1423 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1298,7 +1298,7 @@ Filters mental flux in a circular ring within 10 feet, affecting an individual, 
 ---
 
 **DissolvCurse**
-Filters soul flux in a circular ring within 50 feet, affecting an object, to actively regulate the effect. It establishes a permanent effect.
+This sigil sifts soul-current as a circling band within fifty feet, focused on one object. Once set, it remains as a permanent working.
 | Wattage | 4557 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1314,7 +1314,7 @@ Filters soul flux in a circular ring within 50 feet, affecting an object, to act
 ---
 
 **LoudBond**
-Counters soul flux in a circular ring within 50 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+This sigil breaks the momentum of soul-current as a circling band within fifty feet, spread over a surface. It stays active while the caster keeps feeding it.
 | Wattage | 1545 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1330,7 +1330,7 @@ Counters soul flux in a circular ring within 50 feet, affecting a surface, to al
 ---
 
 **GuardRoot**
-Detects mental flux in a circular ring within 200 feet, affecting a surface, to alter an existing state. It remains latched until dismissed.
+This sigil reads thought-current as a circling band within two hundred feet, spread over a surface. It stays latched until someone dismisses it.
 | Wattage | 1475 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1346,7 +1346,7 @@ Detects mental flux in a circular ring within 200 feet, affecting a surface, to 
 ---
 
 **WeavHand**
-Releases mental flux as a focused beam within 10 feet, affecting an individual, to create a new effect. It persists until its condition is met.
+This sigil unleashes thought-current as a narrow line within ten feet, focused on one person. It remains until its trigger condition is met.
 | Wattage | 1413 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -1362,7 +1362,7 @@ Releases mental flux as a focused beam within 10 feet, affecting an individual, 
 ---
 
 **SolidStorm**
-Filters soul flux in a cylindrical column within 200 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+This sigil sifts soul-current as a standing column within two hundred feet, focused on one object. It holds for about a minute.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1378,7 +1378,7 @@ Filters soul flux in a cylindrical column within 200 feet, affecting an object, 
 ---
 
 **ShallowHalo**
-Displaces soul flux in a spherical radius within 200 feet, affecting an individual, to create a new effect. It lasts up to one minute.
+This sigil drives soul-current as a wrapped radius within two hundred feet, focused on one person. It holds for about a minute.
 | Wattage | 4208 W |
 | Shape | Circle |
 | Hook | Move |
@@ -1394,7 +1394,7 @@ Displaces soul flux in a spherical radius within 200 feet, affecting an individu
 ---
 
 **TwinFrost**
-Constrains soul flux in a spreading cone within 200 feet, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+This sigil locks down soul-current as a widening fan within two hundred feet, applied to the chosen filter set. It stays latched until someone dismisses it.
 | Wattage | 4275 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -1410,7 +1410,7 @@ Constrains soul flux in a spreading cone within 200 feet, affecting a filtered s
 ---
 
 **ClearCurse**
-Filters mental flux in a spreading cone within 200 feet, affecting an object, to alter an existing state. It persists until its condition is met.
+This sigil sifts thought-current as a widening fan within two hundred feet, focused on one object. It remains until its trigger condition is met.
 | Wattage | 1447 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1426,7 +1426,7 @@ Filters mental flux in a spreading cone within 200 feet, affecting an object, to
 ---
 
 **BindFlame**
-Counters mental flux as a focused beam within 50 feet, affecting a group, to actively regulate the effect. It persists until its condition is met.
+This sigil breaks the momentum of thought-current as a narrow line within fifty feet, spread across a group. It remains until its trigger condition is met.
 | Wattage | 1450 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1442,7 +1442,7 @@ Counters mental flux as a focused beam within 50 feet, affecting a group, to act
 ---
 
 **AnchoredGate**
-Detects soul flux in a spherical radius within 200 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+This sigil reads soul-current as a wrapped radius within two hundred feet, spread over a surface. It holds for about a minute.
 | Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1458,7 +1458,7 @@ Detects soul flux in a spherical radius within 200 feet, affecting a surface, to
 ---
 
 **TwistNet**
-Shields against soul flux in a cylindrical column within 200 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+This sigil raises cover against soul-current as a standing column within two hundred feet, spread over a surface. It holds for about an hour.
 | Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1474,7 +1474,7 @@ Shields against soul flux in a cylindrical column within 200 feet, affecting a s
 ---
 
 **AnchorCalm**
-Manipulates mental flux as a focused beam within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+This sigil threads and steers thought-current as a narrow line within ten feet, spread over a surface. It holds for about a minute.
 | Wattage | 1395 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1490,7 +1490,7 @@ Manipulates mental flux as a focused beam within 10 feet, affecting a surface, t
 ---
 
 **SweepPulse**
-Constrains soul flux across a surface within 50 feet, affecting a group, to create a new effect. It lasts up to one minute.
+This sigil locks down soul-current across the inscribed face within fifty feet, spread across a group. It holds for about a minute.
 | Wattage | 1555 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1506,7 +1506,7 @@ Constrains soul flux across a surface within 50 feet, affecting a group, to crea
 ---
 
 **CaptureCurse**
-Filters soul flux across a surface within 200 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+This sigil sifts soul-current across the inscribed face within two hundred feet, focused on one object. It holds for about an hour.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1522,7 +1522,7 @@ Filters soul flux across a surface within 200 feet, affecting an object, to alte
 ---
 
 **AnchorSeal**
-Detects soul flux in a spreading cone within 50 feet, affecting a group, to create a new effect. It persists until its condition is met.
+This sigil reads soul-current as a widening fan within fifty feet, spread across a group. It remains until its trigger condition is met.
 | Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1538,7 +1538,7 @@ Detects soul flux in a spreading cone within 50 feet, affecting a group, to crea
 ---
 
 **FreezChain**
-Counters soul flux in a cylindrical column within 50 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+This sigil breaks the momentum of soul-current as a standing column within fifty feet, spread over a surface. It holds for about a minute.
 | Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1554,7 +1554,7 @@ Counters soul flux in a cylindrical column within 50 feet, affecting a surface, 
 ---
 
 **FallCurse**
-Displaces mental flux in a spreading cone within 200 feet, affecting an object, to alter an existing state. It persists while actively sustained.
+This sigil drives thought-current as a widening fan within two hundred feet, focused on one object. It stays active while the caster keeps feeding it.
 | Wattage | 1437 W |
 | Shape | Circle |
 | Hook | Move |
@@ -1570,7 +1570,7 @@ Displaces mental flux in a spreading cone within 200 feet, affecting an object, 
 ---
 
 **GentleKnot**
-Manipulates soul flux in a spherical radius within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+This sigil threads and steers soul-current as a wrapped radius within fifty feet, spread over a surface. Once set, it remains as a permanent working.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -1586,7 +1586,7 @@ Manipulates soul flux in a spherical radius within 50 feet, affecting a surface,
 ---
 
 **SweepPath**
-Shields against soul flux in a spreading cone within 10 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+This sigil raises cover against soul-current as a widening fan within ten feet, spread over a surface. It holds for about an hour.
 | Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Ward |
