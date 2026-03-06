@@ -8,4 +8,16 @@ Season controls everything. During crossing season, traffic expands and convoy r
 
 No one mistakes this road for neutral space. Terravelle administrators, Auralis intermediaries, and private operators all use it, and all assume they are being watched by someone. The system persists because all sides need messages to arrive more than they need the road to feel clean.
 
-_See also: [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Trade Guilds]], [[Life in Ashford]], [[Life in Halveth]]_
+## Communication Infrastructure
+
+The Courier Road functions as more than a physical route — it is a distributed communication system connecting official and unofficial channels across the boundary.
+
+**Official channels:** The [[Meridian Dispatch Network]] maintains stations at both [[Ashford]] and [[Halveth]], using the road's infrastructure as part of its routing system. High-priority diplomatic dispatches, legal documents, and administrative orders move through these stations with formal chain-of-custody documentation that satisfies both kingdoms' verification requirements.
+
+**Unofficial coordination:** The [[Desert Signal Network]] maintains relay stations that can reach the Courier Road in hours, allowing desert-edge emergencies to propagate warning northward rapidly. The signal system and the road courier system are technically separate but operationally interdependent — a message arriving at [[Halveth]] via signal can be loaded immediately into the northbound courier queue.
+
+**Information gathering:** The [[Merchant House Intelligence Network]] coordinates through courier operators and the merchants who use the road for high-value cargo. Commercial information — trade flows, personnel changes, regulatory shifts — flows backward along the road as merchant houses communicate cross-border intelligence through carefully worded correspondence disguised as order negotiations and shipment authorizations.
+
+**Private brokers:** [[Tolla Rend's Intelligence Exchange]] and similar independent information merchants use the Courier Road infrastructure indirectly, by employing couriers on rotation or by maintaining relationships with merchants who operate scheduled cargo along the route. The physical road enables their network by creating the movement patterns they observe.
+
+_See also: [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Trade Guilds]], [[Life in Ashford]], [[Life in Halveth]], [[Meridian Dispatch Network]], [[Desert Signal Network]], [[Merchant House Intelligence Network]], [[Tolla Rend's Intelligence Exchange]]_

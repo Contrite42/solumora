@@ -44,10 +44,6 @@ The audit that hasn't come will eventually come. When it does, he will be ready 
 
 _See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]_
 
-## The Audit That Hasn't Come
-
-Guild documentation requirements have shifted three times in eight months, each time in the direction of more granular reporting on cross-border shipments. Cavel's contacts at the guild say the changes come from [[Auralis]]-side regulatory pressure, though they use careful language about this. He has updated his compliance protocols ahead of each change because he learned years ago that being prepared for an audit that never comes costs less than being unprepared for one that does.
-
 The changes have a direction. The direction has not been stated. He has documented what he observes.
 
 The first shift required itemization of cargo contents at the component level rather than the category level. Where his manifests previously listed "textile goods" they now list "wool cloth, dyed, forty-seven bolts, blue and green." The second shift added origin tracking — not just what was shipped, but where it was manufactured, by whom, under what guild certification. The third shift, implemented last month, requires cross-reference documentation for any shipment that includes goods from more than one [[Valdenmoor]] district.
