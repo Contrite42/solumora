@@ -14,14 +14,11 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 - Scope: `content/Cavel Dorst.md`, `content/Cassia.md`
 - Source: `agent/staging/PENDING_REVIEW.md`
 - Decision Owner: CREATOR
-- Status: APPROVED
-- Notes: Approved; link warning handled in subsequent pass.
+- Status: PENDING
+- Notes: (set when rejecting)
 
 ### Escalation Reasons
 - Touches principal character page: `content/Cassia.md`.
-
-### Auto Flags
-- content/Cassia.md: missing link targets -> The Expansion Faction
 
 ### Creator Options
 - Option A: APPROVE batch as staged.

@@ -45,3 +45,17 @@ He is recording what he sees. Traveler volumes, paper types, the frequency of in
 The documentation protocols require him to note details that were previously considered routine: the specific routes travelers report taking to reach Ashford, their stated business in [[Auralis]], the duration of their planned stay. Information that was always collected but is now being collected with a precision that suggests someone intends to analyze it systematically. He does not know what it means. He knows it represents a change in how the crossing is being managed, and changes at border crossings do not happen without reasons.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+His briefings have changed in tone over the past year. The changes are subtle — emphasis on different documentation protocols, requests for more granular reporting on traveler origins, questions about patterns that were never questions before. [[Doss Varn]] has been working the [[Ashford]] border for six years and knows the difference between routine adjustment and something else.
+
+New documentation protocols arrived without explanation three months ago. Forms that ask for information he has never been required to collect. Traveler occupation details beyond what customs normally tracks. Duration of stay in [[Auralis]] territory, even for day-crossing merchants who have been making the same run for years. The forms came with implementation deadlines but no context about why the information is needed or what it will be used for.
+
+More travelers with [[Terravelle]] papers than he has seen before. Not dramatically more — the numbers are not alarming in themselves — but enough that he notices. People crossing south who give Terravelle addresses but carry themselves like they have been living elsewhere. Merchants with Terravelle documentation whose knowledge of northern markets seems thin when he asks routine verification questions. He logs what he observes because that is his job. He does not know what the pattern means.
+
+One of his contacts at the Ashford command post told him to log everything carefully, which she has never said before. Not just the standard checkpoint documentation — everything. Unusual conversations, travelers who seem nervous without obvious cause, anyone who asks questions about border procedures that go beyond what they need for their immediate crossing. She used the word "carefully" twice in the same conversation. In six years of working with her, she has never repeated emphasis like that.
+
+He is recording what he sees. The shift in briefing tone, the new forms, the instruction to log carefully, the subtle changes in traveler patterns — all of it goes into his daily reports. He does not know what it means, but he knows it means something. The alternative is that his superiors have simultaneously decided to change multiple procedures for no reason, and that does not match his experience of how the border service operates.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*

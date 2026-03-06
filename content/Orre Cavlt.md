@@ -47,3 +47,17 @@ He has been in this business long enough to know the difference between friction
 He is not yet sure which this is. But he has started building contingency plans for supply chain disruption, and he has started diversifying his client relationships to reduce his dependence on cross-border trade. The informal indicators that built his business are telling him to prepare for the possibility that the business model is changing.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+The informal indicators [[Orre Cavlt]] reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. He has been running cross-border trade through [[Ashford]] for eleven years and has developed a working model of how the system operates. The model is breaking down in ways that do not fit any of the standard explanations.
+
+Two of his longer relationships on the [[Auralis]] side have become careful. Contacts who used to speak freely about processing delays, upcoming policy changes, and the general mood of their supervisors now give him information that feels edited. Not withheld entirely — they are still helpful, still professional — but the casual intelligence that used to flow both ways has become more formal. They answer his questions but do not volunteer the context that used to come with the answers.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. No paperwork indicating a problem. No explanation of what was being reviewed or why. His usual contact could not provide clarity — not because she was being obstructive, but because she genuinely did not know why the shipment was sitting. When it finally cleared, it cleared without comment, as if the delay had never happened. The goods were undamaged, the documentation was unchanged, and no one could tell him what had been resolved.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random — delays that result from understaffing, seasonal volume spikes, individual inspector moods, equipment problems. Signal is directional — changes that accumulate in a pattern, even when the individual instances seem unrelated. What he is observing feels like signal, but he cannot identify what it is signaling toward.
+
+The changes have a direction. More scrutiny on [[Terravelle]]-origin goods. More questions about final destination for items that used to pass through without comment. More requests for documentation that establishes chain of custody rather than just ownership. The direction has not been stated, but it is consistent enough that he has adjusted his preparation accordingly. He now carries backup documentation for transactions that never required it before. He has not been told this is necessary. He has learned that it is useful.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
