@@ -104,7 +104,7 @@ Blocked tasks are marked with their dependency.
 
 These tasks expand the world's texture without adding new structural elements. They connect existing systems, add ground-level detail, and create natural story opportunities.
 
-- [ ] **Goal:** Build the **Rural Backbone** that feeds the cities.
+- [x] **Goal:** Build the **Rural Backbone** that feeds the cities.
   **Constraints:** Terravelle and Auralis both have urban centers but rural life is conceptual. Need farming communities with names, resource extraction settlements, supply chains that actually connect to documented trade routes. Must show how T0-T2 practitioners make rural life work with minimal Flux resources. Everyone is mid-harvest, mid-journey, mid-negotiation.
   **Output:** 8-10 notes (4-5 Terravelle rural communities + 4-5 Auralis rural communities) with distinct economies, recurring problems, and named people. Update [[Maren Valley]], [[Life in Rural Terravelle]], [[Ordinary Life in Auralis]] with concrete examples.
   **Owner:** `Copilot Auto`
