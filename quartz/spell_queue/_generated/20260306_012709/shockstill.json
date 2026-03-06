@@ -1,0 +1,18 @@
+{
+  "name": "Shockstill",
+  "summary": "A spell that dampens effects using electric magic.",
+  "effect_description": "A spell that dampens effects using electric magic. A triangle dampen/affect recipe that channels electric discipline into shock output. It applies a cylinder pattern against where written across self reach with immediate persistence.",
+  "hook": "Dampen",
+  "mode": "Affect",
+  "shape": "Triangle",
+  "discipline": "Electric",
+  "output_mode": "Shock",
+  "pattern": "Cylinder",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.9,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -36,3 +36,8 @@ _A note on Pale classification: Pale spells are not simply powerful. They are sp
 - [[Spells/Spell That Protects|Spell That Protects]] - 89 W - T2 - [[Common Grimoire|Common]]
 - [[Spells/Spell That Dampens|Spell That Dampens]] - 173 W - T3 - [[Uncommon Grimoire|Uncommon]]
 - [[Spells/Spell That Detects|Spell That Detects]] - 124 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Mindbreak|Mindbreak]] - 842 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Shockstill|Shockstill]] - 66 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Soulsurge|Soulsurge]] - 1562 W - T5 - [[Rare Grimoire|Rare]]
+- [[Spells/Chemseal|Chemseal]] - 622 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Primaldrift|Primaldrift]] - 34 W - T1 - [[Common Grimoire|Common]]

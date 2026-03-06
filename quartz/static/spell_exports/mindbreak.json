@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mindbreak",
+    "summary": "A spell that counters effects using mind magic.",
+    "effect_description": "A spell that counters effects using mind magic. A square counter/control recipe that channels mind discipline into neuro output. It applies a beam pattern against group across self reach with immediate persistence.",
+    "hook": "Counter",
+    "mode": "Control",
+    "shape": "Square",
+    "discipline": "Mind",
+    "output_mode": "Neuro",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 200,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 35,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 240,
+    "hook_mode_multiplier": 3.5100000000000002,
+    "hook_mode_flat_w": 0,
+    "total_w": 842,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Mindbreak** | Square | Counter | Control | T4 | Mind | Neuro | Beam | Self | Immediate | Group |"
+}

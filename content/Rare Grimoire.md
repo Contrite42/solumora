@@ -494,3 +494,21 @@ Reduces soul flux as a fan spread at self reach, targeting a grouped cluster wit
 | Persistence | _(default - Immediate)_ |
 | Target | Group |
 
+
+---
+
+**Soulsurge**
+A spell that amplifies effects using soul magic.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Neuro |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+

@@ -1457,3 +1457,39 @@ A spell that detects effects using light magic.
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
 
+
+---
+
+**Shockstill**
+A spell that dampens effects using electric magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Dampen |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Primaldrift**
+A spell that moves effects using raw magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Cylinder |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

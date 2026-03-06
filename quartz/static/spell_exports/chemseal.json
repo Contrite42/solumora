@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Chemseal",
+    "summary": "A spell that blocks effects using chemical magic.",
+    "effect_description": "A spell that blocks effects using chemical magic. A pentagon filter/control recipe that channels chemical discipline into reactive output. It applies a sphere pattern against individual across linked reach with immediate persistence.",
+    "hook": "Filter",
+    "mode": "Control",
+    "shape": "Pentagon",
+    "discipline": "Chemical",
+    "output_mode": "Reactive",
+    "pattern": "Sphere",
+    "reach": "Linked",
+    "persistence": "Immediate",
+    "target_spec": "Individual",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 100,
+    "pattern_w": 30,
+    "reach_w": 150,
+    "persistence_w": 0,
+    "target_w": 8,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 288,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "total_w": 622,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Chemseal** | Pentagon | Filter | Control | T4 | Chemical | Reactive | Sphere | Linked | Immediate | Individual |"
+}

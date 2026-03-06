@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soulsurge",
+    "summary": "A spell that amplifies effects using soul magic.",
+    "effect_description": "A spell that amplifies effects using soul magic. A square amplify/affect recipe that channels soul discipline into neuro output. It applies a cylinder pattern against filter across self reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Square",
+    "discipline": "Soul",
+    "output_mode": "Neuro",
+    "pattern": "Cylinder",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 600,
+    "pattern_w": 20,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 30,
+    "subtotal_outer_w": 710,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 1562,
+    "required_tier": "T5",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Soulsurge** | Square | Amplify | Affect | T5 | Soul | Neuro | Cylinder | Self | Immediate | Filter |"
+}

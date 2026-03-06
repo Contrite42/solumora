@@ -1180,3 +1180,39 @@ A spell that dampens effects using light magic.
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
 
+
+---
+
+**Mindbreak**
+A spell that counters effects using mind magic.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Counter |
+| Mode | Control |
+| Control Tier | T4 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Chemseal**
+A spell that blocks effects using chemical magic.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T4 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Sphere |
+| Reach | Linked |
+| Persistence | _(default - Immediate)_ |
+| Target | Individual |
+

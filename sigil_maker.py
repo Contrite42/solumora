@@ -1177,21 +1177,36 @@ def llm_name_from_summary(
     if config.provider == "ollama":
         return ollama_name_from_summary(summary, spec_data, model=config.model, timeout_seconds=timeout_seconds)
 
+    # Build detailed spell context from recipe
+    spell_context = f"""Spell Recipe Analysis:
+- Hook (action type): {spec_data.get('hook', 'Unknown')}
+- Discipline (force): {spec_data.get('discipline', 'Unknown')}
+- Output Mode: {spec_data.get('output_mode', 'Unknown')}
+- Pattern (area): {spec_data.get('pattern', 'Unknown')}
+- Reach (distance): {spec_data.get('reach', 'Unknown')}
+- Persistence (duration): {spec_data.get('persistence', 'Unknown')}
+- Mode (scope): {spec_data.get('mode', 'Unknown')}
+
+Practical Effect: {summary}"""
+
     prompt = (
-        "Name this Solumora spell. The name must:\n"
-        "- Be 2-3 words, title case, no punctuation\n"
-        "- Evoke the spell's effect (not the recipe)\n"
-        "- Follow these naming patterns:\n"
-        "  * Verbs + target: Lightbeam, Heatthread, Mindread\n"
-        "  * Effect + type: Forceshell, Coldbox, Mindveil\n"
-        "  * Discipline + purpose: Fluxread, Fluxprint, Soulmark\n"
-        "  * Action + outcome: Hearthlight, Lockward, Soulsever\n\n"
-        f"Effect: {summary}\n"
-        f"Discipline: {spec_data.get('discipline', '')}\n"
-        f"Hook: {spec_data.get('hook', '')}\n\n"
-        "Examples: Hearthlight, Warmstone, Glowmark, Longbolt, Mindbreak, Soulchain\n"
-        "Return ONLY the name (2-3 words, title case)."
+        "You are naming a Solumora sigil based on what it actually DOES. \n"
+        "Analyze the spell's practical mechanics and generate a name that captures its essence.\n\n"
+        f"{spell_context}\n\n"
+        "The name must:\n"
+        "- Be 1-2 words, title case (e.g., Lightbeam, Heatstone, Soulmark)\n"
+        "- Reflect the spell's observable effect and discipline\n"
+        "- Sound like actual magic, not mechanical jargon\n\n"
+        "Examples of good names:\n"
+        "- Hearthlight (emits heat as light patterns)\n"
+        "- Heatstone (radiates heat in a fixed area)\n"
+        "- Mindread (senses thoughts in self-anchored way)\n"
+        "- Soulchain (binds soul-discipline energy to targets)\n"
+        "- Lightbeam (sends heat/light in a directed path)\n"
+        "- Forceshell (creates protective force barrier)\n\n"
+        "Return ONLY the spell name, nothing else."
     )
+    
     if config.provider == "sonnet":
         raw = sonnet_run_prompt(prompt, model=config.model, api_key=config.api_key, timeout_seconds=timeout_seconds)
     elif config.provider == "openai":
@@ -1377,31 +1392,89 @@ def recipe_effect_from_variables(spec_data: dict[str, Any]) -> str:
 
 
 def derive_name_from_summary(summary: str, spec_data: dict[str, Any]) -> str:
-    # Better fallback: derive from summary words, not raw field values
-    # Extract meaningful words from summary that aren't stopwords
-    tokens = [token for token in re.findall(r"[A-Za-z]+", summary) if token.lower() not in AUTO_STOPWORDS]
+    # Intelligent fallback: infer spell purpose from full recipe, not just summary
+    # This is used when LLM is unavailable
     
-    # Prioritize content words from the summary
-    name_tokens: list[str] = []
-    seen = set()
-    for token in tokens:
-        titleized = titleize_token(token)
-        if titleized.lower() not in seen:
-            name_tokens.append(titleized)
-            seen.add(titleized.lower())
-        if len(name_tokens) >= 3:
-            break
+    hook = str(spec_data.get("hook", "")).lower()
+    discipline = str(spec_data.get("discipline", "")).lower()
+    pattern = str(spec_data.get("pattern", "")).lower()
+    reach = str(spec_data.get("reach", "")).lower()
+    persistence = str(spec_data.get("persistence", "")).lower()
+    output_mode = str(spec_data.get("output_mode", "")).lower()
     
-    # Only use discipline as a last resort
-    if len(name_tokens) < 2:
-        discipline = str(spec_data.get("discipline", "")).strip()
-        if discipline and discipline.lower() not in seen:
-            name_tokens.insert(0, discipline)
+    # Discipline-based name stems
+    discipline_names = {
+        "heat": "Heat",
+        "light": "Light", 
+        "mind": "Mind",
+        "soul": "Soul",
+        "electric": "Shock",
+        "chemical": "Chem",
+        "force": "Force",
+        "sound": "Echo",
+        "binding": "Chain",
+        "raw": "Primal",
+    }
     
-    if len(name_tokens) < 2:
-        name_tokens.extend(["Flux", "Working"])
+    # Hook-based action words
+    hook_words = {
+        "emit": "Burst",
+        "bind": "Chain",
+        "ward": "Ward",
+        "sense": "Mark",
+        "filter": "Seal",
+        "trigger": "Snap",
+        "transform": "Shift",
+        "move": "Drift",
+        "amplify": "Surge",
+        "dampen": "Still",
+        "counter": "Break",
+    }
     
-    return " ".join(name_tokens[:3]).strip()
+    # Pattern-based spatial modifiers
+    pattern_mods = {
+        "point": "Point",
+        "beam": "Beam",
+        "cone": "Cone",
+        "ring": "Ring",
+        "plane": "Plane",
+        "field": "Field",
+        "sphere": "Sphere",
+        "cylinder": "Column",
+    }
+    
+    # Reach-based distance modifiers
+    reach_mods = {
+        "self": "Self",
+        "touch": "Touch",
+        "short": "Close",
+        "medium": "Range",
+        "long": "Long",
+        "los": "Sight",
+        "anchored": "Anchor",
+    }
+    
+    disc_name = discipline_names.get(discipline, discipline.capitalize())
+    hook_name = hook_words.get(hook, hook.capitalize())
+    pattern_name = pattern_mods.get(pattern, pattern.capitalize())
+    
+    # Combine based on what seems most important
+    # Priority: Discipline + Hook or Discipline + Pattern
+    candidates = [
+        f"{disc_name}{hook_name}",
+        f"{disc_name}{pattern_name}",
+        f"{hook_name}{pattern_name}",
+        f"{disc_name}Stone" if "place" in summary.lower() or "anchored" in reach else None,
+        f"{disc_name}Mark" if "sense" in hook or "read" in summary.lower() else None,
+        f"{disc_name}Ward" if "ward" in hook or "protect" in summary.lower() else None,
+    ]
+    
+    # Return first non-None, non-generic candidate
+    for candidate in candidates:
+        if candidate and candidate not in ["FluxWorking", "RawRaw"]:
+            return candidate
+    
+    return f"{disc_name}Work" if disc_name else "Flux Working"
 
 
 def ensure_unique_name(base_name: str, reserved_names: set[str]) -> str:
