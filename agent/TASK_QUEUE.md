@@ -36,8 +36,8 @@ Blocked tasks are marked with their dependency.
   **Constraints:** Must explain how people move goods/info between [[Terravelle]], [[Auralis]], [[Wolfpoint]], and around [[Desert Zakros]]. Include courier, river, coastal, and overland systems. Everyone is mid-journey.  
   **Output:** 10 new notes (routes + hubs) + update [[Solumora]] + update [[World Primer]] with a “How people move” section.
 
-- [ ] **Goal:** Define the **Equatorial Crossing Economy** as a lived reality, not lore.  
-  **Constraints:** Crossing is rare; only grimoires/mages/extreme resistance. Build 3 crossing methods, 3 failure modes, and 3 organizations that profit from it. Everyone mid-journey.  
+- [x] **Goal:** Define the **Equatorial Crossing Economy** as a lived reality, not lore.
+  **Constraints:** Crossing is rare; only grimoires/mages/extreme resistance. Build 3 crossing methods, 3 failure modes, and 3 organizations that profit from it. Everyone mid-journey.
   **Output:** 8 notes (3 orgs, 3 methods, 2 key crossing sites) + update [[Desert Zakros]].
 
 - [ ] **Goal:** Build the **Grimoire Economy** (copying, licensing, fraud, black markets).  
@@ -153,3 +153,5 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Pipeline run | TASK-12/13/14/15 complete | Grimoire batch: Zakros Compendium, Fifteen Sigils, All Grimoire appended (4 spells), Ossal Meln Workshop Notes. Batch 2 rejected (planner dupe). claimed.md + planner constraint fix applied. |
 | 2026-03-05 | TASK-11 | Complete | Bren Ossve expanded with institutional pressure/refusal dynamics (`## The Requests`). |
 | 2026-03-05 | Trade & Travel spine | Phase 1-2 in progress | Added 6 route notes and inbound links across Ashford, Valdenmoor, Halveth, Wolfpoint, Hedun, Greyveil. Staged creator-gated Solumora/World Primer appends (Batch 3R1). |
+| 2026-03-05 | Trade & Travel spine | Complete | Batch 3R1 applied: Solumora.md + World Primer.md "How People Move" sections. TASK-09/10 marked complete. |
+| 2026-03-05 | Equatorial Crossing Economy | Complete | 8 new pages: Halveth Cooperative, Relay Compact, Terravelle Desert Trade Office, Standard Guided Crossing, Express Route Crossing, Relay-Stage Crossing, The Southern Approaches, The Northern Narrows. Equatorial Desert.md updated. Backlinks added to Halveth.md, Avel Coss.md. |

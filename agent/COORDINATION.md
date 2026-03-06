@@ -1,39 +1,27 @@
 ﻿# Coordination Log
 
 ## Active Task
-- Trade & Travel spine buildout (phase-based execution).
+- Equatorial Crossing Economy complete. Next: Grimoire Economy or Factions hub.
 
 ## Current Status
-- Operator-owned appends are applied to `content/Doss Varn.md`, `content/Orre Cavlt.md`, and `content/Cavel Dorst.md`.
-- Creator-approved Cassia rewrite (`2R1`) has been applied to `content/Cassia.md`.
-- Added Bren Ossve expansion in `content/Bren Ossve.md` (`## The Requests`) and marked TASK-11 complete in `agent/TASK_QUEUE.md`.
-- Added three Trade & Travel notes: `content/Maren Freight Chain.md`, `content/Ashford-Halveth Courier Road.md`, `content/Outer Coast Packet Line.md`.
-- Added inbound route-link sections to `content/Ashford.md`, `content/Valdenmoor.md`, `content/Halveth.md`, and `content/Wolfpoint.md`.
+- **Trade & Travel spine**: COMPLETE. Routes, hub notes, inbound links, and "How People Move" appends to Solumora.md + World Primer.md all applied.
+- **Equatorial Crossing Economy**: COMPLETE. 8 new pages created: `Halveth Cooperative`, `Relay Compact`, `Terravelle Desert Trade Office`, `Standard Guided Crossing`, `Express Route Crossing`, `Relay-Stage Crossing`, `The Southern Approaches`, `The Northern Narrows`. Equatorial Desert.md updated with Crossing Economy section.
+- **TASK-09/10**: Applied (Doss Varn, Orre Cavlt, Cavel Dorst appends; Cassia "What She Knows"). Marked complete in TASK_QUEUE.md.
+- **Batch 3R1**: Applied (Solumora.md + World Primer.md). DECISIONS.md updated to APPROVED.
+- Orchestrator hardened by Codex: lock file, batch file filter, wikilink validation, offline fallback, dual claimed file support.
 
 ## Operator Role Assignment
-- Current operator (Codex): reviewer + repair agent.
+- Current operator (Claude): primary writer + pipeline executor.
 - Routine narrative writing decisions are operator-owned.
-- Creator escalation is reserved for major canon/story decisions only.
-- Priority is orchestration reliability and clean handoff.
-
-## Changes Applied By Current Operator
-- Hardened `agent/orchestrator.py` to:
-  - enforce a single active run via lock file (`agent/staging/orchestrator.lock`)
-  - read active task from `TASK.md` first, then `TASK_QUEUE.md`
-  - filter model output so a batch can only modify files explicitly in that batch
-  - detect missing wikilink targets in generated patch content
-  - support offline fallback path when provider calls are rate-limited/transient
-  - support claimed file lookup from both `agent/staging/CLAIMED.md` and `agent/claimed.md`
-- Added compatibility mirror file: `agent/staging/CLAIMED.md`.
-- Recorded `REJECTED` guidance in `agent/DECISIONS.md` for the current pending draft (broken link + batch scope issues).
+- Creator escalation reserved for major canon/story decisions only.
 
 ## Open Items
-- Continue Trade & Travel phase 2 with 3-4 additional route/hub notes (river/coastal/relay coverage).
-- Creator review pending for staged "How people move" appends to `content/Solumora.md` and `content/World Primer.md`.
-- `agent/staging/orchestrator.lock` may still reference stale PID; avoid destructive process commands.
+- `agent/staging/orchestrator.lock` may reference stale PID — avoid destructive process commands.
+- `agent/staging/PENDING_REVIEW.md` contains stale Batch 3R1 content — can be cleared by next operator.
+- `content/The Bone Sea.md` is a near-empty stub — needs content if it is to remain linked anywhere.
 
 ## Next Operator Checklist
-1. Draft 3-4 additional Trade & Travel notes to complete initial network coverage.
-2. Update nearest hubs with append-only linkage blocks.
-3. Append "How people move" sections to `content/Solumora.md` and `content/World Primer.md`.
-4. Run canon/link coherence check and update reports.
+1. Choose next pipeline phase: Grimoire Economy (10 notes) or Factions hub (12 faction notes).
+2. Update `agent/TASK_QUEUE.md` Equatorial Crossing Economy task as complete.
+3. After next phase: update `agent/staging/CLAIMED.md` with new files.
+4. Run canon/link coherence check and update `agent/reports/`.

@@ -42,4 +42,4 @@ Seasonal heavy movement around the desert edge is handled through the [[Zakros R
 
 The road's reliability near Halveth depends as much on local knowledge and timing discipline as on formal contracts. In crossing season, this turns the village into a bottleneck people plan around months in advance.
 
-*See also: [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Ashford]], [[Auralis]], [[Terravelle]], [[Life in Halveth]]*
+*See also: [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Ashford]], [[Auralis]], [[Terravelle]], [[Life in Halveth]], [[Halveth Cooperative]], [[The Southern Approaches]], [[Standard Guided Crossing]], [[Equatorial Desert]]*
