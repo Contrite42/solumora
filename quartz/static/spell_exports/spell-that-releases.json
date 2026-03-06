@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Spell That Releases",
+    "summary": "A spell that releases effects using heat magic.",
+    "effect_description": "A spell that releases effects using heat magic. A circle emit/control recipe that channels heat discipline into kinetic output. It applies a ring pattern against individual across medium reach with immediate persistence.",
+    "hook": "Emit",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Heat",
+    "output_mode": "Kinetic",
+    "pattern": "Ring",
+    "reach": "Medium",
+    "persistence": "Immediate",
+    "target_spec": "Individual",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 110,
+    "pattern_w": 15,
+    "reach_w": 15,
+    "persistence_w": 0,
+    "target_w": 8,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 158,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "total_w": 213,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Spell That Releases** | Circle | Emit | Control | T3 | Heat | Kinetic | Ring | Medium | Immediate | Individual |"
+}

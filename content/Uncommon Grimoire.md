@@ -1126,3 +1126,57 @@ Screens mind neuro flux as a point focus at self reach, targeting the inscribed 
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
 
+
+---
+
+**Spell That Blocks**
+A spell that blocks effects using electric magic.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Filter |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Sphere |
+| Reach | Anchored |
+| Persistence | _(default - Immediate)_ |
+| Target | Where Written |
+
+
+---
+
+**Spell That Releases**
+A spell that releases effects using heat magic.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Heat |
+| Output | Kinetic |
+| Pattern | Ring |
+| Reach | Medium |
+| Persistence | Immediate |
+| Target | Individual |
+
+
+---
+
+**Spell That Dampens**
+A spell that dampens effects using light magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Dampen |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Light |
+| Output | Sonic |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

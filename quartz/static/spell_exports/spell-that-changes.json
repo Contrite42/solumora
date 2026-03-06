@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Spell That Changes",
+    "summary": "A spell that changes effects using light magic.",
+    "effect_description": "A spell that changes effects using light magic. A triangle transform/create recipe that channels light discipline into photonic output. It applies a sphere pattern against where written across self reach with immediate persistence.",
+    "hook": "Transform",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Light",
+    "output_mode": "Photonic",
+    "pattern": "Sphere",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.9549999999999998,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 9,
+    "pattern_w": 30,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 39,
+    "hook_mode_multiplier": 1.9549999999999998,
+    "hook_mode_flat_w": 0,
+    "total_w": 76,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Spell That Changes** | Triangle | Transform | Create | T2 | Light | Photonic | Sphere | Self | Immediate | Where Written |"
+}

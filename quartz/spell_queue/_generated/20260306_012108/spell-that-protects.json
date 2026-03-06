@@ -1,0 +1,18 @@
+{
+  "name": "Spell That Protects",
+  "summary": "A spell that protects against effects using raw magic.",
+  "effect_description": "A spell that protects against effects using raw magic. A triangle ward/control recipe that channels raw discipline into photonic output. It applies a plane pattern against where written across self reach with immediate persistence.",
+  "hook": "Ward",
+  "mode": "Control",
+  "shape": "Triangle",
+  "discipline": "Raw",
+  "output_mode": "Photonic",
+  "pattern": "Plane",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.7,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

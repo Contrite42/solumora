@@ -1385,3 +1385,75 @@ Screens binding constraint flux as a point focus at self reach, targeting the in
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
 
+
+---
+
+**Spell That Waits**
+A spell that waits to release effects using electric magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Trigger |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Spell That Changes**
+A spell that changes effects using light magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Transform |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Sphere |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Spell That Protects**
+A spell that protects against effects using raw magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Ward |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Raw |
+| Output | Photonic |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Spell That Detects**
+A spell that detects effects using light magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

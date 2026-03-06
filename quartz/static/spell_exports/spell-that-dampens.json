@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Spell That Dampens",
+    "summary": "A spell that dampens effects using light magic.",
+    "effect_description": "A spell that dampens effects using light magic. A triangle dampen/create recipe that channels light discipline into sonic output. It applies a field pattern against where written across self reach with immediate persistence.",
+    "hook": "Dampen",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Light",
+    "output_mode": "Sonic",
+    "pattern": "Field",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 9,
+    "pattern_w": 60,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 79,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "total_w": 173,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Spell That Dampens** | Triangle | Dampen | Create | T3 | Light | Sonic | Field | Self | Immediate | Where Written |"
+}

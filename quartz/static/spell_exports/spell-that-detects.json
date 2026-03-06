@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Spell That Detects",
+    "summary": "A spell that detects effects using light magic.",
+    "effect_description": "A spell that detects effects using light magic. A triangle sense/affect recipe that channels light discipline into photonic output. It applies a field pattern against where written across self reach with immediate persistence.",
+    "hook": "Sense",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Light",
+    "output_mode": "Photonic",
+    "pattern": "Field",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.8,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 9,
+    "pattern_w": 60,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 69,
+    "hook_mode_multiplier": 1.8,
+    "hook_mode_flat_w": 0,
+    "total_w": 124,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Spell That Detects** | Triangle | Sense | Affect | T2 | Light | Photonic | Field | Self | Immediate | Where Written |"
+}

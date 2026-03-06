@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Spell That Waits",
+    "summary": "A spell that waits to release effects using electric magic.",
+    "effect_description": "A spell that waits to release effects using electric magic. A triangle trigger/affect recipe that channels electric discipline into shock output. It applies a beam pattern against where written across self reach with immediate persistence.",
+    "hook": "Trigger",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Electric",
+    "output_mode": "Shock",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.8,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 15,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 20,
+    "hook_mode_multiplier": 1.8,
+    "hook_mode_flat_w": 0,
+    "total_w": 36,
+    "required_tier": "T1",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Spell That Waits** | Triangle | Trigger | Affect | T1 | Electric | Shock | Beam | Self | Immediate | Where Written |"
+}

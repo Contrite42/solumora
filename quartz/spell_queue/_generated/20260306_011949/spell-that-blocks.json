@@ -1,0 +1,18 @@
+{
+  "name": "Spell That Blocks",
+  "summary": "A spell that blocks effects using electric magic.",
+  "effect_description": "A spell that blocks effects using electric magic. A pentagon filter/create recipe that channels electric discipline into shock output. It applies a sphere pattern against where written across anchored reach with immediate persistence.",
+  "hook": "Filter",
+  "mode": "Create",
+  "shape": "Pentagon",
+  "discipline": "Electric",
+  "output_mode": "Shock",
+  "pattern": "Sphere",
+  "reach": "Anchored",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.8399999999999999,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -871,8 +871,10 @@ def sync_spell_indexes(
     spells_hub_path: Path | None = None,
 ) -> tuple[Path, Path | None, Path | None]:
     validate_rarity_alignment(breakdown)
-    append_all_grimoire(all_grimoire_path, spec, breakdown)
+    # Add to rarity grimoire first (primary location)
     rarity_page = append_rarity_page(rarity_pages_dir, spec, breakdown)
+    # Also add to All Grimoire index for convenience
+    append_all_grimoire(all_grimoire_path, spec, breakdown)
     if spells_hub_path is not None:
         append_spells_hub(spells_hub_path, spec, breakdown)
     return all_grimoire_path, rarity_page, spells_hub_path
@@ -968,7 +970,7 @@ def resolve_generation_llm(args: argparse.Namespace) -> GenerationLLMConfig:
 
     if provider == "sonnet":
         key = secrets.get("ANTHROPIC_API_KEY", "").strip()
-        model = str(getattr(args, "sonnet_model", "claude-3-5-sonnet-latest") or "claude-3-5-sonnet-latest").strip()
+        model = str(getattr(args, "sonnet_model", "claude-3-haiku-20240307") or "claude-3-haiku-20240307").strip()
         if not key:
             print("[LLM] Missing ANTHROPIC_API_KEY in secrets; falling back to local.")
             return GenerationLLMConfig(provider="local", model="")
@@ -1131,19 +1133,18 @@ def llm_summary_from_recipe(
         return ollama_summary_from_recipe(spec_data, model=config.model, timeout_seconds=timeout_seconds)
 
     context = (
-        "You are an expert in the Solumora magical system. You translate spell recipes (Sigils) into practical effects. \n\n"
-        "Key context:\n"
-        "- Hook (Emit/Bind/Ward/etc) determines the fundamental action type\n"
-        "- Discipline (Raw/Heat/Light/Mind/Soul/Electric/Chemical/Force/Sound/Binding) determines the magical energy type and power scale\n"
-        "- Mode (Create/Affect/Control) determines the scope of effect\n"
-        "- Shape (Triangle/Square/Pentagon/Circle) determines complexity and slots available\n"
-        "- Pattern (Point/Plane/Beam/Cone/Ring/Cylinder/Sphere/Field) determines spatial area affected\n"
-        "- Reach (Self/Touch/Short/Medium/Long/LOS/Linked) determines distance of effect\n"
-        "- Persistence (Immediate/Timed/Sustained/Conditional/Latched/Permanent) determines duration\n"
-        "- Output Mode describes how the magical energy manifests (Photonic/Thermal/Kinetic/Constraint/Neuro/Soul/etc)\n\n"
-        "Write a single clear sentence describing the practical spell effect in world gameplay terms. "
-        "Focus on what a caster would SEE HAPPEN and what the spell DOES. "
-        "Avoid technical jargon; translate recipe into plain effect."
+        "You are an expert in the Solumora magical system. You translate spell recipes into practical effects.\n\n"
+        "The spell recipe describes a magical working using these parameters:\n"
+        "- Hook: the fundamental magical action (Emit=release, Bind=constrain, Ward=defend, Sense=detect, etc)\n"
+        "- Discipline: the magical force type (Raw, Heat, Light, Mind, Soul, Electric, Chemical, Force, Sound, Binding)\n"
+        "- Mode: scope (Create=make new, Affect=change existing, Control=direct existing)\n"
+        "- Shape: complexity level (Triangle=simplest, Circle=most complex)\n"
+        "- Pattern & Reach: how the effect spreads (from self-only to long-range)\n"
+        "- Persistence: how long it lasts (Immediate to Permanent)\n\n"
+        "Write exactly ONE sentence describing what the spell does in practical terms. "
+        "Use clear, evocative language. Describe the observable effect, not the recipe. "
+        "Example: 'Burns a precise small point onto a surface using focused thermal output.' "
+        "Do NOT use technical terms like 'Hook', 'Discipline', or 'recipe'."
     )
     prompt = (
         f"{context}\n\n"
@@ -1177,16 +1178,19 @@ def llm_name_from_summary(
         return ollama_name_from_summary(summary, spec_data, model=config.model, timeout_seconds=timeout_seconds)
 
     prompt = (
-        "You are naming a Solumora spell based on its effect. Create a memorable name that:"
-        "- Reflects the Discipline (e.g., Fire spells use Heat language, Mind spells use mental words)\n"
-        "- Captures the practical effect described\n"
-        "- Uses 2-4 words in title case without punctuation\n"
-        "- Follows Solumora naming conventions (e.g., Hearthlight, Forceshell, Mindread, Soulmark)\n\n"
-        f"Spell Effect: {summary}\n"
-        f"Discipline: {spec_data.get('discipline', 'Unknown')}\n"
-        f"Hook: {spec_data.get('hook', 'Unknown')}\n"
-        f"Mode: {spec_data.get('mode', 'Unknown')}\n\n"
-        "Return ONLY the spell name, nothing else."
+        "Name this Solumora spell. The name must:\n"
+        "- Be 2-3 words, title case, no punctuation\n"
+        "- Evoke the spell's effect (not the recipe)\n"
+        "- Follow these naming patterns:\n"
+        "  * Verbs + target: Lightbeam, Heatthread, Mindread\n"
+        "  * Effect + type: Forceshell, Coldbox, Mindveil\n"
+        "  * Discipline + purpose: Fluxread, Fluxprint, Soulmark\n"
+        "  * Action + outcome: Hearthlight, Lockward, Soulsever\n\n"
+        f"Effect: {summary}\n"
+        f"Discipline: {spec_data.get('discipline', '')}\n"
+        f"Hook: {spec_data.get('hook', '')}\n\n"
+        "Examples: Hearthlight, Warmstone, Glowmark, Longbolt, Mindbreak, Soulchain\n"
+        "Return ONLY the name (2-3 words, title case)."
     )
     if config.provider == "sonnet":
         raw = sonnet_run_prompt(prompt, model=config.model, api_key=config.api_key, timeout_seconds=timeout_seconds)
@@ -1312,27 +1316,43 @@ def random_recipe_spec_data(rng: random.Random) -> dict[str, Any]:
 
 
 def recipe_summary_from_variables(spec_data: dict[str, Any]) -> str:
-    hook = str(spec_data["hook"])
-    mode = str(spec_data["mode"])
-    discipline = str(spec_data["discipline"])
+    # Fallback summary for when LLM fails - should be improved but basic
+    hook = str(spec_data["hook"]).lower()
+    discipline = str(spec_data["discipline"]).lower()
     output_mode = str(spec_data["output_mode"]).lower()
-    pattern = AUTO_PATTERN_TERMS.get(str(spec_data["pattern"]), str(spec_data["pattern"]).lower())
+    pattern = str(spec_data["pattern"]).lower()
     reach = str(spec_data["reach"]).lower()
-    target = AUTO_TARGET_TERMS.get(
-        str(spec_data["target_spec"]), str(spec_data["target_spec"]).lower()
-    )
-    persistence = AUTO_PERSISTENCE_TERMS.get(
-        str(spec_data["persistence"]), str(spec_data["persistence"]).lower()
-    )
-    hook_verb = AUTO_HOOK_VERBS.get(hook, "applies")
-    mode_phrase = AUTO_MODE_PHRASES.get(mode, "while preserving structure")
-    flux_phrase = f"{discipline.lower()} {output_mode} flux"
-    if discipline.lower() == output_mode:
-        flux_phrase = f"{discipline.lower()} flux"
-    return (
-        f"{hook_verb.capitalize()} {flux_phrase} as a {pattern} at {reach} reach, "
-        f"targeting {target} with {persistence} {mode_phrase}."
-    )
+    persistence = str(spec_data["persistence"]).lower()
+    
+    # Simple fallback: just describe the basic effect without technical jargon
+    effect_words = {
+        "Emit": "releases",
+        "emit": "releases",
+        "Shape": "shapes",
+        "shape": "shapes",
+        "Bind": "binds",
+        "bind": "binds",
+        "Ward": "protects against",
+        "ward": "protects against",
+        "Trigger": "waits to release",
+        "trigger": "waits to release",
+        "Transform": "changes",
+        "transform": "changes",
+        "Move": "moves",
+        "move": "moves",
+        "Sense": "detects",
+        "sense": "detects",
+        "Filter": "blocks",
+        "filter": "blocks",
+        "Amplify": "amplifies",
+        "amplify": "amplifies",
+        "Dampen": "dampens",
+        "dampen": "dampens",
+        "Counter": "counters",
+        "counter": "counters",
+    }
+    hook_word = effect_words.get(str(spec_data["hook"]), "applies")
+    return f"A spell that {hook_word} effects using {discipline} magic."
 
 
 def recipe_effect_from_variables(spec_data: dict[str, Any]) -> str:
@@ -1357,29 +1377,30 @@ def recipe_effect_from_variables(spec_data: dict[str, Any]) -> str:
 
 
 def derive_name_from_summary(summary: str, spec_data: dict[str, Any]) -> str:
+    # Better fallback: derive from summary words, not raw field values
+    # Extract meaningful words from summary that aren't stopwords
     tokens = [token for token in re.findall(r"[A-Za-z]+", summary) if token.lower() not in AUTO_STOPWORDS]
-    preferred = [
-        str(spec_data.get("discipline", "")),
-        str(spec_data.get("hook", "")),
-        str(spec_data.get("pattern", "")),
-        str(spec_data.get("output_mode", "")),
-    ]
+    
+    # Prioritize content words from the summary
     name_tokens: list[str] = []
-    for token in preferred:
-        clean = re.sub(r"[^A-Za-z]", "", token).strip()
-        if clean and clean.lower() not in {value.lower() for value in name_tokens}:
-            name_tokens.append(clean)
+    seen = set()
+    for token in tokens:
+        titleized = titleize_token(token)
+        if titleized.lower() not in seen:
+            name_tokens.append(titleized)
+            seen.add(titleized.lower())
         if len(name_tokens) >= 3:
             break
-    if len(name_tokens) < 3:
-        for token in tokens:
-            if token.lower() in {value.lower() for value in name_tokens}:
-                continue
-            name_tokens.append(titleize_token(token))
-            if len(name_tokens) >= 3:
-                break
+    
+    # Only use discipline as a last resort
+    if len(name_tokens) < 2:
+        discipline = str(spec_data.get("discipline", "")).strip()
+        if discipline and discipline.lower() not in seen:
+            name_tokens.insert(0, discipline)
+    
     if len(name_tokens) < 2:
         name_tokens.extend(["Flux", "Working"])
+    
     return " ".join(name_tokens[:3]).strip()
 
 
@@ -1657,7 +1678,7 @@ def command_gui(args: argparse.Namespace) -> int:
     sync_spells_hub_var = tk.BooleanVar(value=True)
     llm_provider_var = tk.StringVar(value=str(getattr(args, "llm_provider", "ollama")))
     ollama_model_var = tk.StringVar(value=str(getattr(args, "ollama_model", "")))
-    sonnet_model_var = tk.StringVar(value=str(getattr(args, "sonnet_model", "claude-3-5-sonnet-latest")))
+    sonnet_model_var = tk.StringVar(value=str(getattr(args, "sonnet_model", "claude-3-haiku-20240307")))
     openai_model_var = tk.StringVar(value=str(getattr(args, "openai_model", "gpt-4o-mini")))
     secrets_path_var = tk.StringVar(value=str(getattr(args, "secrets_path", "agent/secrets.json")))
     ollama_timeout_var = tk.IntVar(value=int(getattr(args, "ollama_timeout_seconds", 90)))
@@ -1788,7 +1809,7 @@ def command_gui(args: argparse.Namespace) -> int:
                 spells_hub_path="content/Spells.md",
                 llm_provider=llm_provider_var.get().strip() or "ollama",
                 ollama_model=ollama_model_var.get().strip(),
-                sonnet_model=sonnet_model_var.get().strip() or "claude-3-5-sonnet-latest",
+                sonnet_model=sonnet_model_var.get().strip() or "claude-3-haiku-20240307",
                 openai_model=openai_model_var.get().strip() or "gpt-4o-mini",
                 secrets_path=secrets_path_var.get().strip() or "agent/secrets.json",
                 ollama_timeout_seconds=max(5, int(ollama_timeout_var.get())),
@@ -2057,12 +2078,13 @@ def emit_artifacts(spec: SpellSpec, args: argparse.Namespace) -> SpellCostBreakd
             rarity_pages_dir=rarity_pages_dir,
             spells_hub_path=spells_hub_path,
         )
+        # Log which grimoire the spell was added to
+        if synced_rarity is not None:
+            print(f"Added to rarity grimoire: {synced_rarity.name}")
 
-    print(f"Created spell: {spec.name}")
-    print(f"Total cost: {breakdown.total_w} W ({breakdown.required_tier}, {breakdown.rarity})")
-    print(f"Location: Grimoire entry (consolidated)")
-    print(f"AI JSON: {json_out}")
-    print(f"All Grimoire row: {row_out}")
+    print(f"[Spell] {spec.name}")
+    print(f"  Summary: {spec.summary}")
+    print(f"  Cost: {breakdown.total_w} W | Tier: {breakdown.required_tier} | Rarity: {breakdown.rarity}")
     if synced_all is not None:
         print(f"Synced All Grimoire: {synced_all}")
     if synced_rarity is not None:
@@ -2258,7 +2280,7 @@ def build_parser() -> argparse.ArgumentParser:
         )
         command_parser.add_argument(
             "--sonnet-model",
-            default="claude-3-5-sonnet-latest",
+            default="claude-3-haiku-20240307",
             help="Anthropic model used when --llm-provider sonnet.",
         )
         command_parser.add_argument(
@@ -2426,7 +2448,7 @@ def build_parser() -> argparse.ArgumentParser:
         sync_grimoire_indexes=True,
         sync_spells_hub=True,
         llm_provider="sonnet",
-        sonnet_model="claude-3-5-sonnet-latest",
+        sonnet_model="claude-3-haiku-20240307",
     )
 
     gui = subparsers.add_parser(
@@ -2469,7 +2491,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     gui.add_argument(
         "--sonnet-model",
-        default="claude-3-5-sonnet-latest",
+        default="claude-3-haiku-20240307",
         help="Initial Sonnet model shown in the UI.",
     )
     gui.add_argument(
