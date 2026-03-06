@@ -1,23 +1,23 @@
-# Task: Grimoire Underground Expansion
+# Task: Persecution Era Legacy Expansion
 
 ## Goal
-Build the **Grimoire Underground** as operational reality. Black market circulation is documented but no actual criminal organizations, smuggling routes through existing trade networks, or illicit practitioners who operate outside guild regulation.
+Surface the **Persecution Era Legacy** in present-day Solumora. The hunting period 400 years ago is documented historically but has no present-day artifacts.
 
 ## Constraints
-- Need 3-4 underground institutions with names, methods, territories, and the people who run them
-- Must show how they interface with legitimate grimoire economy without replacing it
-- Must integrate with existing [[Black Market Grimoire Circulation]] documentation
-- 6-8 notes total: 3-4 underground orgs + 2-3 key smuggling routes/methods + 2-3 underground practitioners
-- Update [[Black Market Grimoire Circulation]] with organizational detail
+- Need survivor family lineages that remember, hidden community sites that were never found, institutional memory preserved in unexpected places (guild archives, rural oral tradition, religious texts)
+- Must show how this history still shapes behavior without making it the central drama
+- Must connect to existing [[The Persecution Era]] documentation
+- 5-6 notes total: 2-3 survivor lineages + 2 hidden/preserved sites + 1 institutional memory keeper
+- Update [[The Persecution Era]] with "Legacy and Memory" section
 
 ## Output Target
-6-8 notes showing how illicit grimoire trade actually operates beneath the legitimate economy
+5-6 notes showing how 400-year-old persecution still affects present-day Solumora behavior
 
 ## Execution Plan
-1. Create 3-4 underground organizations controlling different aspects of illicit circulation (smuggling networks, forger operations, unlicensed copy houses, practitioner protection networks)
-2. Create 2-3 smuggling routes/methods that exploit existing trade infrastructure
-3. Add 2-3 practitioners operating underground
-4. Update Black Market Grimoire Circulation with organizational structure details
+1. Create 2-3 survivor family lineages that maintain memory of persecution
+2. Create 2 hidden sites that escaped discovery during hunting period
+3. Create 1 institutional memory keeper (archive, oral tradition keeper, religious text curator)
+4. Update The Persecution Era page with Legacy and Memory section
 5. Run canon/link integrity check
 
 ## Status

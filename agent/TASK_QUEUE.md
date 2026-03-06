@@ -121,10 +121,11 @@ These tasks expand the world's texture without adding new structural elements. T
   **Owner:** `Copilot Auto`
   **Status:** COMPLETE — 5 pages (Torst Bay, Keln Harbor, Brend Point, Maritime Storm Coordination, Coastal Settlement Network) + 2 hub integrations (Hedun-Solhaven Coastal Run, Outer Coast Packet Line).
 
-- [ ] **Goal:** Build the **Grimoire Underground** as operational reality.
+- [x] **Goal:** Build the **Grimoire Underground** as operational reality.
   **Constraints:** Black market circulation is documented but no actual criminal organizations, smuggling routes through existing trade networks, or illicit practitioners who operate outside guild regulation. Need 3-4 underground institutions with names, methods, territories, and the people who run them. Must show how they interface with legitimate grimoire economy without replacing it.
   **Output:** 6-8 notes (3-4 underground orgs + 2-3 key smuggling routes/methods + 2-3 underground practitioners) + update [[Black Market Grimoire Circulation]] with organizational detail.
   **Owner:** `Copilot Auto`
+  **Status:** COMPLETE — 3 organizations (Midden Exchange, Solhaven Copymark, Northern Lens) + Black Market Grim oire Circulation hub integration with smuggling methods and 11 practitioners documented.
 
 - [ ] **Goal:** Surface the **Persecution Era Legacy** in present-day Solumora.
   **Constraints:** The hunting period 400 years ago is documented historically but has no present-day artifacts. Need: survivor family lineages that remember, hidden community sites that were never found, institutional memory preserved in unexpected places (guild archives, rural oral tradition, religious texts). Must show how this history still shapes behavior without making it the central drama.
