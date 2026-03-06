@@ -28,3 +28,4 @@ _See also: [[Sigils]], [[Flux]], [[Flux Users]], [[Spell Variables]], [[All Grim
 - [[Spells/Constraint Flux Augment|Constraint Flux Augment]] - 77 W - T2 (Common)
 - [[Spells/Binding Amplify Cone 3|Binding Amplify Cone 3]] - 88 W - T2 (Common)
 - [[Spells/Binding Amplify Beam 2|Binding Amplify Beam 2]] - 77 W - T2 (Common)
+- [[Spells/Heat Ring of Triangle|Heat Ring of Triangle]] - 55 W - T2 (Common)

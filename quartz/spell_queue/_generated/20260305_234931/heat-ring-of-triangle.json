@@ -1,0 +1,18 @@
+{
+  "name": "Heat Ring of Triangle",
+  "summary": "This spell creates a triangular ring of heat on its written location that lasts only briefly.",
+  "effect_description": "This spell creates a triangular ring of heat on its written location that lasts only briefly. A triangle shape/create recipe that channels chemical discipline into thermal output. It applies a ring pattern against where written across self reach with immediate persistence.",
+  "hook": "Shape",
+  "mode": "Create",
+  "shape": "Triangle",
+  "discipline": "Chemical",
+  "output_mode": "Thermal",
+  "pattern": "Ring",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.38,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

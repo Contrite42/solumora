@@ -1358,3 +1358,21 @@ Boosts binding constraint flux as a directed line.
 | Target | Where Written |
 | Spell Page | [[Spells/Binding Amplify Beam 2|Binding Amplify Beam 2]] |
 
+
+---
+
+**Heat Ring of Triangle**
+This spell creates a triangular ring of heat on its written location that lasts only briefly.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Shape |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Chemical |
+| Output | Thermal |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

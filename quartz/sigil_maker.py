@@ -12,9 +12,9 @@ from __future__ import annotations
 import argparse
 import contextlib
 import io
-import itertools
 import json
 import math
+import random
 import re
 import shutil
 import subprocess
@@ -302,6 +302,23 @@ AUTO_STOPWORDS = {
     "to",
     "while",
     "with",
+}
+
+AUTO_SHAPE_WEIGHTS = {
+    "Triangle": 40,
+    "Square": 30,
+    "Pentagon": 18,
+    "Circle": 12,
+}
+
+AUTO_PERSISTENCE_WEIGHTS = {
+    "Immediate": 40,
+    "Timed Short": 20,
+    "Timed Long": 14,
+    "Sustained": 10,
+    "Conditional": 8,
+    "Latched": 6,
+    "Permanent": 2,
 }
 
 
@@ -684,17 +701,41 @@ def write_json(path: Path, payload: dict[str, Any]) -> None:
     path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
-def append_all_grimoire(path: Path, row: str) -> None:
+def append_all_grimoire(path: Path, spec: SpellSpec, breakdown: SpellCostBreakdown) -> None:
+    heading = "## Sigil Maker Generated Index"
+    link_token = f"[[Spells/{spec.name}|{spec.name}]]"
+    rarity_page = RARITY_TO_GRIMOIRE_PAGE.get(breakdown.rarity, "")
+    rarity_link = f"[[{rarity_page.replace('.md', '')}|{breakdown.rarity}]]" if rarity_page else breakdown.rarity
+    line = (
+        f"- {link_token} - {breakdown.total_w} W - {breakdown.required_tier} - "
+        f"{rarity_link}"
+    )
+
     if not path.exists():
-        write_text(path, row + "\n")
+        write_text(path, f"{heading}\n\n{line}\n")
         return
+
     current = path.read_text(encoding="utf-8")
-    if row in current:
+    if link_token in current:
         return
-    if not current.endswith("\n"):
-        current += "\n"
-    current += row + "\n"
-    path.write_text(current, encoding="utf-8")
+
+    if heading not in current:
+        if not current.endswith("\n"):
+            current += "\n"
+        current += f"\n{heading}\n\n{line}\n"
+        path.write_text(current, encoding="utf-8")
+        return
+
+    idx = current.find(heading)
+    section = current[idx:]
+    next_heading = section.find("\n## ", len(heading))
+    insertion_point = len(current) if next_heading == -1 else idx + next_heading
+    prefix = current[:insertion_point]
+    suffix = current[insertion_point:]
+    if not prefix.endswith("\n"):
+        prefix += "\n"
+    prefix += line + "\n"
+    path.write_text(prefix + suffix, encoding="utf-8")
 
 
 def validate_rarity_alignment(breakdown: SpellCostBreakdown) -> None:
@@ -706,7 +747,24 @@ def validate_rarity_alignment(breakdown: SpellCostBreakdown) -> None:
         )
 
 
+def grimoire_display_value(field: str, value: str, explicit: set[str]) -> str:
+    defaults = {
+        "pattern": "Plane",
+        "reach": "Self",
+        "persistence": "Immediate",
+        "target_spec": "Where Written",
+    }
+    if field in defaults and field not in explicit and value == defaults[field]:
+        return f"_(default - {value})_"
+    if field == "persistence" and value in {"Timed Short", "Timed Long"}:
+        if value == "Timed Short":
+            return "Timed (Short)"
+        return "Timed (Long)"
+    return value
+
+
 def rarity_page_entry(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
+    explicit = set(explicit_outer_variables(spec.shape))
     return (
         f"---\n\n"
         f"**{spec.name}**\n"
@@ -717,15 +775,12 @@ def rarity_page_entry(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
         f"| Hook | {spec.hook} |\n"
         f"| Mode | {spec.mode} |\n"
         f"| Control Tier | {breakdown.required_tier} |\n"
-        f"| Rarity | {breakdown.rarity} |\n"
-        f"| Watts | {breakdown.total_w} W |\n"
         f"| Discipline | {spec.discipline} |\n"
         f"| Output | {spec.output_mode} |\n"
-        f"| Pattern | {spec.pattern} |\n"
-        f"| Reach | {spec.reach} |\n"
-        f"| Persistence | {spec.persistence} |\n"
-        f"| Target | {spec.target_spec} |\n"
-        f"| Spell Page | [[Spells/{spec.name}|{spec.name}]] |\n"
+        f"| Pattern | {grimoire_display_value('pattern', spec.pattern, explicit)} |\n"
+        f"| Reach | {grimoire_display_value('reach', spec.reach, explicit)} |\n"
+        f"| Persistence | {grimoire_display_value('persistence', spec.persistence, explicit)} |\n"
+        f"| Target | {grimoire_display_value('target_spec', spec.target_spec, explicit)} |\n"
     )
 
 
@@ -805,8 +860,7 @@ def sync_spell_indexes(
     spells_hub_path: Path | None = None,
 ) -> tuple[Path, Path | None, Path | None]:
     validate_rarity_alignment(breakdown)
-    row = grimoire_row(spec, breakdown)
-    append_all_grimoire(all_grimoire_path, row)
+    append_all_grimoire(all_grimoire_path, spec, breakdown)
     rarity_page = append_rarity_page(rarity_pages_dir, spec, breakdown)
     if spells_hub_path is not None:
         append_spells_hub(spells_hub_path, spec, breakdown)
@@ -818,21 +872,6 @@ def relative_subpath(path: Path, root: Path) -> Path:
         return path.relative_to(root)
     except ValueError:
         return Path(path.name)
-
-
-def extract_json_object(text: str) -> dict[str, Any] | None:
-    start = text.find("{")
-    end = text.rfind("}")
-    if start == -1 or end == -1 or end <= start:
-        return None
-    candidate = text[start : end + 1]
-    try:
-        parsed = json.loads(candidate)
-    except json.JSONDecodeError:
-        return None
-    if not isinstance(parsed, dict):
-        return None
-    return parsed
 
 
 def resolve_ollama_model(model: str, timeout_seconds: int = 20) -> str:
@@ -861,15 +900,39 @@ def resolve_ollama_model(model: str, timeout_seconds: int = 20) -> str:
     return requested
 
 
-def enrich_generated_spec_with_ollama(
+def normalize_single_sentence(text: str) -> str:
+    normalized = re.sub(r"\s+", " ", text.replace("```", " ").strip())
+    if not normalized:
+        return ""
+    sentence = re.split(r"(?<=[.!?])\s", normalized, maxsplit=1)[0].strip()
+    if sentence and sentence[-1] not in ".!?":
+        sentence += "."
+    return sentence
+
+
+def sanitize_spell_name(raw_name: str) -> str:
+    cleaned = re.sub(r"[^A-Za-z0-9' -]", " ", raw_name)
+    cleaned = re.sub(r"\s+", " ", cleaned).strip(" -")
+    if not cleaned:
+        return ""
+    tokens = cleaned.split(" ")[:4]
+    result: list[str] = []
+    for token in tokens:
+        lower = token.lower()
+        if lower in {"of", "and", "the"}:
+            result.append(lower)
+        else:
+            result.append(lower.capitalize())
+    return " ".join(result).strip()
+
+
+def ollama_summary_from_recipe(
     spec_data: dict[str, Any], *, model: str, timeout_seconds: int
-) -> dict[str, Any]:
+) -> str:
     prompt = (
-        "You are naming a practical Solumora spell. Return JSON only with keys "
-        '"name", "summary", "effect_description". '
-        "Summary must be one sentence. Name must be derived from words in the summary. "
-        "Keep the output grounded and functional, no lore backstory. "
-        f"Use these sigil variables: {json.dumps(spec_data, ensure_ascii=True)}"
+        "You are given Solumora spell recipe variables. "
+        "Write exactly one plain sentence (no markdown) describing what the spell does in practice.\n"
+        f"Recipe: {json.dumps(spec_data, ensure_ascii=True)}"
     )
     process = subprocess.run(
         ["ollama", "run", model, prompt],
@@ -882,16 +945,41 @@ def enrich_generated_spec_with_ollama(
     )
     if process.returncode != 0:
         raise ValueError(process.stderr.strip() or process.stdout.strip() or "ollama run failed")
-    payload = extract_json_object(process.stdout.strip())
-    if payload is None:
-        raise ValueError("Ollama response did not include a valid JSON object.")
+    summary = normalize_single_sentence(process.stdout)
+    if not summary:
+        raise ValueError("Ollama returned an empty summary.")
+    return summary
 
-    updated = dict(spec_data)
-    for key in ("name", "summary", "effect_description"):
-        value = str(payload.get(key, "")).strip()
-        if value:
-            updated[key] = value
-    return updated
+
+def ollama_name_from_summary(
+    summary: str,
+    spec_data: dict[str, Any],
+    *,
+    model: str,
+    timeout_seconds: int,
+) -> str:
+    prompt = (
+        "Given this one-sentence spell summary, return only a spell name "
+        "(2-4 words, title case, no punctuation).\n"
+        f"Summary: {summary}\n"
+        f"Recipe: {json.dumps(spec_data, ensure_ascii=True)}"
+    )
+    process = subprocess.run(
+        ["ollama", "run", model, prompt],
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+        timeout=timeout_seconds,
+        check=False,
+    )
+    if process.returncode != 0:
+        raise ValueError(process.stderr.strip() or process.stdout.strip() or "ollama run failed")
+    first_line = process.stdout.strip().splitlines()[0] if process.stdout.strip() else ""
+    name = sanitize_spell_name(first_line)
+    if not name:
+        raise ValueError("Ollama returned an empty name.")
+    return name
 
 
 def interpret_spell_with_ollama(
@@ -935,7 +1023,7 @@ def collect_existing_spell_names(markdown_dir: Path, all_grimoire_path: Path) ->
 
     if all_grimoire_path.exists():
         for line in all_grimoire_path.read_text(encoding="utf-8").splitlines():
-            match = re.search(r"\|\s*\*\*(.+?)\*\*\s*\|", line)
+            match = re.search(r"\[\[Spells/(.+?)\|", line)
             if match:
                 names.add(match.group(1).strip())
 
@@ -949,14 +1037,59 @@ def titleize_token(token: str) -> str:
     return lower.capitalize()
 
 
-def output_candidates_for_discipline(discipline: str) -> list[str]:
+def random_weighted_choice(rng: random.Random, weighted: dict[str, int]) -> str:
+    choices = list(weighted.keys())
+    weights = list(weighted.values())
+    return rng.choices(choices, weights=weights, k=1)[0]
+
+
+def random_output_mode_for_discipline(rng: random.Random, discipline: str) -> str:
     natural = NATURAL_OUTPUT_BY_DISCIPLINE[discipline]
     adjacent = sorted(ADJACENT_OUTPUT_BY_DISCIPLINE.get(discipline, set()))
-    pool = [natural] + adjacent
-    for candidate in sorted(OUTPUT_MODES):
-        if candidate not in pool:
-            pool.append(candidate)
-    return pool
+    roll = rng.random()
+    if roll < 0.65:
+        return natural
+    if roll < 0.88 and adjacent:
+        return rng.choice(adjacent)
+    return rng.choice(sorted(OUTPUT_MODES))
+
+
+def random_recipe_spec_data(rng: random.Random) -> dict[str, Any]:
+    shape = random_weighted_choice(rng, AUTO_SHAPE_WEIGHTS)
+    hook = rng.choice(sorted(HOOKS))
+    mode = rng.choice(sorted(MODES))
+    discipline = rng.choice(AUTO_DISCIPLINES)
+    explicit = set(explicit_outer_variables(shape))
+
+    pattern = rng.choice(sorted(PATTERN_COSTS))
+    target_spec = (
+        rng.choice(sorted(TARGET_COSTS))
+        if "target_spec" in explicit
+        else DEFAULTS["target_spec"]
+    )
+    reach = rng.choice(sorted(REACH_COSTS)) if "reach" in explicit else DEFAULTS["reach"]
+    persistence = (
+        random_weighted_choice(rng, AUTO_PERSISTENCE_WEIGHTS)
+        if "persistence" in explicit
+        else DEFAULTS["persistence"]
+    )
+    sustained_minutes = rng.choice([10, 20, 30, 40, 50, 60]) if persistence == "Sustained" else 0
+
+    return {
+        "hook": hook,
+        "mode": mode,
+        "shape": shape,
+        "discipline": discipline,
+        "output_mode": random_output_mode_for_discipline(rng, discipline),
+        "pattern": pattern,
+        "reach": reach,
+        "persistence": persistence,
+        "target_spec": target_spec,
+        "sustained_minutes": sustained_minutes,
+        "hook_mode_multiplier": default_hook_mode_multiplier(hook, mode),
+        "hook_mode_flat_w": 0,
+        "notes": "Generated automatically from randomized sigil variables.",
+    }
 
 
 def recipe_summary_from_variables(spec_data: dict[str, Any]) -> str:
@@ -1043,67 +1176,6 @@ def ensure_unique_name(base_name: str, reserved_names: set[str]) -> str:
         counter += 1
 
 
-def iter_auto_recipe_dicts():
-    shapes = ("Triangle", "Square", "Pentagon", "Circle")
-    hooks = sorted(HOOKS)
-    modes = sorted(MODES)
-    disciplines = AUTO_DISCIPLINES
-    patterns = sorted(PATTERN_COSTS.keys())
-    targets = sorted(TARGET_COSTS.keys())
-    reaches = sorted(REACH_COSTS.keys())
-    persistences = [
-        "Immediate",
-        "Timed Short",
-        "Timed Long",
-        "Sustained",
-        "Conditional",
-        "Latched",
-        "Permanent",
-    ]
-
-    for shape, hook, mode, discipline in itertools.product(shapes, hooks, modes, disciplines):
-        explicit = set(explicit_outer_variables(shape))
-        output_options = output_candidates_for_discipline(discipline)
-        pattern_options = patterns if "pattern" in explicit else [DEFAULTS["pattern"]]
-        target_options = targets if "target_spec" in explicit else [DEFAULTS["target_spec"]]
-        reach_options = reaches if "reach" in explicit else [DEFAULTS["reach"]]
-        persistence_options = (
-            persistences if "persistence" in explicit else [DEFAULTS["persistence"]]
-        )
-
-        for (
-            output_mode,
-            pattern,
-            target_spec,
-            reach,
-            persistence,
-        ) in itertools.product(
-            output_options,
-            pattern_options,
-            target_options,
-            reach_options,
-            persistence_options,
-        ):
-            sustained_minutes = 0
-            if persistence == "Sustained":
-                sustained_minutes = 20
-            yield {
-                "hook": hook,
-                "mode": mode,
-                "shape": shape,
-                "discipline": discipline,
-                "output_mode": output_mode,
-                "pattern": pattern,
-                "reach": reach,
-                "persistence": persistence,
-                "target_spec": target_spec,
-                "sustained_minutes": sustained_minutes,
-                "hook_mode_multiplier": default_hook_mode_multiplier(hook, mode),
-                "hook_mode_flat_w": 0,
-                "notes": "Generated automatically from sigil variable synthesis.",
-            }
-
-
 def generate_auto_specs(
     *,
     count: int,
@@ -1123,34 +1195,50 @@ def generate_auto_specs(
 
     generated: list[SpellSpec] = []
     reserved_names = set(existing_names)
-    recipes = iter_auto_recipe_dicts()
+    rng = random.SystemRandom()
+    max_attempts = max(500, count * 400)
+    attempts = 0
+    ollama_enabled = bool(ollama_model)
 
-    for recipe in recipes:
-        base_spec_data = dict(recipe)
-        base_summary = recipe_summary_from_variables(base_spec_data)
-        base_name = derive_name_from_summary(base_summary, base_spec_data)
-        base_name = ensure_unique_name(base_name, reserved_names)
-        base_spec_data["summary"] = base_summary
-        base_spec_data["effect_description"] = recipe_effect_from_variables(base_spec_data)
-        base_spec_data["name"] = base_name
+    while len(generated) < count and attempts < max_attempts:
+        attempts += 1
+        recipe = random_recipe_spec_data(rng)
+        summary = recipe_summary_from_variables(recipe)
 
-        candidate_data = dict(base_spec_data)
-
-        if ollama_model:
+        if ollama_enabled and ollama_model:
             try:
-                candidate_data = enrich_generated_spec_with_ollama(
-                    candidate_data,
+                summary = ollama_summary_from_recipe(
+                    recipe,
                     model=ollama_model,
                     timeout_seconds=ollama_timeout_seconds,
                 )
             except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
-                print(f"[OLLAMA] Using deterministic recipe text for '{base_name}': {exc}")
+                print(f"[OLLAMA] Summary fallback engaged: {exc}")
+                ollama_enabled = False
 
-        candidate_name = ensure_unique_name(
-            str(candidate_data.get("name", "")).strip() or base_name,
-            reserved_names,
+        fallback_name = derive_name_from_summary(summary, recipe)
+        name = fallback_name
+        if ollama_enabled and ollama_model:
+            try:
+                name = ollama_name_from_summary(
+                    summary,
+                    recipe,
+                    model=ollama_model,
+                    timeout_seconds=ollama_timeout_seconds,
+                )
+            except (OSError, subprocess.TimeoutExpired, ValueError) as exc:
+                print(f"[OLLAMA] Name fallback engaged: {exc}")
+                ollama_enabled = False
+                name = fallback_name
+
+        name = ensure_unique_name(sanitize_spell_name(name) or fallback_name, reserved_names)
+        candidate_data = dict(recipe)
+        candidate_data["summary"] = summary
+        detail = recipe_effect_from_variables(recipe)
+        candidate_data["effect_description"] = (
+            f"{summary} {detail}" if summary not in detail else detail
         )
-        candidate_data["name"] = candidate_name
+        candidate_data["name"] = name
 
         try:
             spec = parse_spec(candidate_data)
@@ -1166,8 +1254,6 @@ def generate_auto_specs(
             continue
         reserved_names.add(spec.name)
         generated.append(spec)
-        if len(generated) >= count:
-            return generated
 
     return generated
 
@@ -1332,7 +1418,7 @@ def command_gui(args: argparse.Namespace) -> int:
 
     queue_dir_var = tk.StringVar(value=str(getattr(args, "spec_dir", "quartz/spell_queue")))
     generate_count_var = tk.IntVar(value=int(getattr(args, "generate_count", 10)))
-    min_tier_var = tk.StringVar(value=str(getattr(args, "min_tier", "T0")))
+    min_tier_var = tk.StringVar(value=str(getattr(args, "min_tier", "T1")))
     max_tier_var = tk.StringVar(value=str(getattr(args, "max_tier", "T6")))
     recursive_var = tk.BooleanVar(value=True)
     archive_queue_var = tk.BooleanVar(value=True)
@@ -1691,7 +1777,7 @@ def emit_artifacts(spec: SpellSpec, args: argparse.Namespace) -> SpellCostBreakd
         write_json(Path(args.save_spec_out), asdict(spec))
 
     if getattr(args, "append_all_grimoire", None):
-        append_all_grimoire(Path(args.append_all_grimoire), row)
+        append_all_grimoire(Path(args.append_all_grimoire), spec, breakdown)
 
     synced_all: Path | None = None
     synced_rarity: Path | None = None
@@ -2037,7 +2123,7 @@ def build_parser() -> argparse.ArgumentParser:
     auto.add_argument(
         "--min-tier",
         choices=TIER_SEQUENCE,
-        default="T0",
+        default="T1",
         help="Lower tier bound for auto-generated spells.",
     )
     auto.add_argument(
@@ -2074,7 +2160,7 @@ def build_parser() -> argparse.ArgumentParser:
     gui.add_argument(
         "--min-tier",
         choices=TIER_SEQUENCE,
-        default="T0",
+        default="T1",
         help="Initial minimum tier shown in the UI.",
     )
     gui.add_argument(
