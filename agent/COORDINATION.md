@@ -36,6 +36,7 @@
 - **Canonical integrity cycle**: COMPLETE (Codex fallback). Reports updated; map marker resolution verified (10/10) and representative route/hub inbound-outbound counts remain healthy.
 - **Live map polish pass**: COMPLETE (Codex). Reworked map zone geometry to continent-clipped north/desert/south bands, repositioned labels/markers to prevent overlaps, and aligned point placement with canon geography notes (`Terravelle` uplands north, `Zakros` equatorial band, `Auralis` basin south, coast-facing hubs).
 - **Codex integrity cycle (recent vault files)**: COMPLETE. Audited latest content clusters for dead wikilinks and canon drift, normalized alias links in scope, removed unresolved-link leakage to non-existent pages, and re-checked Halveth/Narrows/Approaches consistency. Typecheck + Quartz build both passed.
+- **Codex integrity cycle (post spell-page cleanup)**: COMPLETE. Ran full-vault wikilink audit after per-spell page retirement, remapped spell links to tiered grimoire anchors, normalized canonical aliases, converted unresolved placeholder links to plain text, and closed the run at unresolved wikilinks `0`.
 
 ## Operator Role Assignment
 
@@ -52,8 +53,8 @@
 
 - `agent/staging/orchestrator.lock` may reference stale PID — avoid destructive process commands.
 - `agent/staging/PENDING_REVIEW.md` contains resolved Batch 2 record; can be pruned/rotated on next cleanup pass.
-- `content/The Bone Sea.md` is a near-empty stub — needs content if it is to remain linked anywhere.
-- Legacy unresolved-link artifacts remain in long-tail pages (alias/path/image-token forms); tracked in `agent/reports/inconsistencies.md` for routine cleanup.
+- `agent/staging/CLAIMED.md` still includes many deleted spell-page paths from cleanup and should be synced in a dedicated control-plane pass.
+- Link integrity is currently clean (`0` unresolved wikilinks); keep the FOREVER cycle active for future content batches.
 
 ## Next Operator Checklist
 

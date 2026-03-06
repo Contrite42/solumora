@@ -91,7 +91,7 @@ Target Spec defines what the spell affects and how it identifies valid targets.
 - **Individual**: Effect targets a single person or creature (+8W)
 - **Marked**: Effect targets a previously marked person or object (+15W)
 - **Group**: Effect targets multiple individuals simultaneously (+35W)
-- **[[Filter]]**: Effect targets based on specified characteristics (+60W)
+- **Filter**: Effect targets based on specified characteristics (+60W)
 
 Complex targeting requires the [[Flux]] to distinguish between valid and invalid targets, often in real-time as conditions change. Filter targeting is the most sophisticated — the spell must evaluate potential targets against specified criteria and affect only those that match, while ignoring everything else in the area.
 
