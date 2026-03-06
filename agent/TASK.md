@@ -1,24 +1,25 @@
-# Task: Desert Edge Culture Expansion
+# Task: Maritime World Expansion
 
 ## Goal
-Develop the **Desert Edge Culture** — settlements along the Zakros boundary that aren't military garrisons. Halveth is documented but there should be 4-6 other border settlements with economies built around the barrier.
+Expand the **Maritime World** beyond documented trade routes. Coastal shipping exists but we have no fishing communities, coastal towns between major ports, maritime culture, or ship-building economy.
 
 ## Constraints
-- Guide services, expedition supply, risk assessment, refugee flow from failed crossings, salvage from abandoned attempts
-- Each settlement should have developed unique adaptations to living at the edge of the uninhabitable zone
-- Must connect to existing [[Equatorial Desert]] documentation and crossing methods
-- 6 notes total: 4 border settlements + 2 specialist institutions/guilds
-- Update [[Equatorial Desert]] with "Border Settlement Network" section
+- Need at least 3 coastal settlements (2 in Auralis, 1 in Terravelle) that depend on the sea rather than just using it for transport
+- Must address how Flux interacts with deep-water navigation and storm management
+- Must integrate with existing [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] documentation
+- 5-6 notes total: 3 coastal towns + 2-3 maritime institutions/practices
+- Update [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] with stopping points
 
 ## Output Target
-6 notes showing how communities survive at the desert boundary
+5-6 notes showing how coastal communities live from the sea, not just through it
 
 ## Execution Plan
-1. Create 4 border settlements (2 Terravelle side, 2 Auralis side) with distinct economic niches
-2. Create 2 specialist institutions that operate across settlements
+1. Create 3 coastal settlements (2 Auralis coast, 1 Terravelle coast) with distinct maritime economies
+2. Create 2-3 maritime institutions/practices (shipbuilding, storm prediction, fishing fleet coordination)
 3. Add 2-3 named people per settlement
-4. Update Equatorial Desert with network overview
-5. Run canon/link integrity check
+4. Update Hedun-Solhaven Coastal Run with stopping points
+5. Update Outer Coast Packet Line with coastal integration points
+6. Run canon/link integrity check
 
 ## Status
 ACTIVE - Copilot Auto executing

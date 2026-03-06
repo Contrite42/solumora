@@ -109,10 +109,11 @@ These tasks expand the world's texture without adding new structural elements. T
   **Output:** 8-10 notes (4-5 Terravelle rural communities + 4-5 Auralis rural communities) with distinct economies, recurring problems, and named people. Update [[Maren Valley]], [[Life in Rural Terravelle]], [[Ordinary Life in Auralis]] with concrete examples.
   **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Develop the **Desert Edge Culture** — settlements along the Zakros boundary that aren't military garrisons.
+- [x] **Goal:** Develop the **Desert Edge Culture** — settlements along the Zakros boundary that aren't military garrisons.
   **Constraints:** Halveth is documented but there should be 4-6 other border settlements with economies built around the barrier: guide services, expedition supply, risk assessment, refugee flow from failed crossings, salvage from abandoned attempts. Each settlement should have developed unique adaptations to living at the edge of the uninhabitable zone.
   **Output:** 6 notes (4 border settlements + 2 specialist institutions/guilds) + update [[Equatorial Desert]] with a "Border Settlement Network" section.
   **Owner:** `Copilot Auto`
+  **Status:** COMPLETE — 6 pages (Thel Reach, Dren Outpost, Seln Watch, Korst Station, Cross-Border Guide Network, Desert Watch) + Equatorial Desert hub integration.
 
 - [ ] **Goal:** Expand the **Maritime World** beyond documented trade routes.
   **Constraints:** Coastal shipping exists but we have no fishing communities, coastal towns between major ports, maritime culture, or ship-building economy. Need at least 3 coastal settlements (2 in Auralis, 1 in Terravelle) that depend on the sea rather than just using it for transport. Must address how Flux interacts with deep-water navigation and storm management.
