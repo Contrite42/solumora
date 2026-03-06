@@ -1,32 +1,32 @@
-The Northern Narrows is the collective term for the crossing entry routes used from the [[Terravelle]] side of [[Equatorial Desert|Desert Zakros]]. They are less developed, less documented, and less used than the [[The Southern Approaches|Southern Approaches]] — a direct reflection of Terravelle's historically lower investment in desert access infrastructure.
+The Northern Narrows is the collective term for the corridor network used to enter [[Equatorial Desert|Desert Zakros]] from the northern frontier. In current operations, [[Halveth]] stages into this corridor system rather than into a separate southern departure network.
 
 ## Geography
 
-The Narrows enter the desert from a stretch of northern terrain that is cooler and more elevated than the Halveth-side entry zones. The northern climate belt extends further into the desert margin than the southern one, which means the temperature transition is more gradual at first and more severe once the full heat band is reached. Crossers from the north experience a longer ramp into the worst conditions rather than hitting them within the first few days, which allows better acclimatization but extends total crossing time.
+The Narrows enter the desert from cooler and more elevated northern terrain around the Halveth frontier. This gives parties a longer ramp into the full heat band, which improves acclimatization but extends total crossing time.
 
-The name "Narrows" comes from a geographic feature on the most commonly used northern approach: a section of terrain about three days in where the navigable ground between two large rock shelf formations compresses to roughly a kilometer of workable footing. The name has since generalized to all northern entry routes, which is a mild cartographic irritant to the guides who use them and know the distinction matters.
+The name "Narrows" comes from a geographic compression zone on the most-used route where workable ground tightens between two shelf formations. The name has generalized to the whole corridor system.
 
-Two primary northern approach corridors exist:
-- **West Narrows**: the better-documented route, closer to coast-adjacent terrain, with more consistent navigation reference points. Longer but more predictable.
-- **East Narrows**: cuts closer to the desert interior faster, which reduces total crossing time at the cost of earlier exposure to the full heat band and proximity to the ruins cluster that generates the highest rift incidence on the northern side.
+Two primary corridor families exist:
+- **West Narrows**: better documented, closer to coast-adjacent terrain, longer but more predictable.
+- **East Narrows**: faster access to interior objectives, higher early exposure to heat-band stress and rift-active zones.
 
 ## Infrastructure
 
-The [[Terravelle Desert Trade Office]] maintains supply depots at two staging points along the northern approaches. These are not the built-up logistics operation that [[Halveth]] represents — they are periodically restocked shelters with basic supplies and emergency equipment. Parties doing authorized crossings from the Terravelle side provision primarily from these depots and the guides they hire, typically sourced from the [[Halveth Cooperative]] under cross-booking arrangements.
+The [[Terravelle Desert Trade Office]] maintains two northern staging depots, coordinated with Halveth-side dispatch and screening. Parties doing authorized crossings provision through this combined lane: Halveth for guide and load checks, depots for corridor sustainment and fallback.
 
-Unauthorized northern crossings — which happen, and are noted in the Trade Office records without formal follow-up — typically stage out of the trading communities near the desert margin rather than from official depot infrastructure. These communities have developed their own informal supply networks for crossing needs, parallel to and aware of the official Trade Office infrastructure but not formally connected to it.
+Unauthorized runs still happen out of margin trading communities. These operators track lane conditions informally and enter when official schedules are constrained.
 
-## Relationship to Southern Routes
+## Halveth Interface
 
-Most crossers who start from the north end at [[Halveth]] and most who start from Halveth end in the north. The two sides are asymmetric in what they offer at departure:
+Halveth now functions as the primary settlement interface for Narrows departures. The practical asymmetry is lane-based, not kingdom-based:
 
-- The southern start has better logistics, better guide networks, more current route intelligence, and a well-developed staging settlement.
-- The northern start has lower overall volume, which means less competition for guide availability during peak expedition season, and the Narrows' geographic characteristics suit specific cargo types — goods that benefit from the northern climate ramp, or cargo owners who prefer to avoid the Halveth documentation chain.
+- West Narrows has lower drift risk and steadier timing windows.
+- East Narrows has higher payoff for time-sensitive targets but worse incident variance.
 
-[[Avel Coss]] has crossed both directions from both sides. He will take work from either kingdom; his rate is the same.
+[[Avel Coss]] and other senior guides plan by lane condition and current rift behavior, not by legacy north/south naming.
 
-## The Return Problem
+## Return-Leg Risk
 
-Parties that crossed south-to-north and need to return face a logistical asymmetry: the Halveth infrastructure is not available to them for the return trip, and the Narrows have no equivalent staging depth. Return crossings from the Terravelle side require advance arrangement, which means either pre-positioning supplies through the Trade Office before departure or contracting with the [[Relay Compact]] for cache resupply. Expeditions that do not plan the return leg before they leave often find this out when they are standing at the northern edge of the desert with depleted Flux reserves and insufficient supplies.
+Return crossings fail when parties treat Narrows lanes as fixed paths. Corridor viability shifts with wind and rift activity, so return legs require pre-committed resupply and lane reassessment through Halveth dispatch and Trade Office depots.
 
-*See also: [[Equatorial Desert]], [[Terravelle Desert Trade Office]], [[Halveth Cooperative]], [[The Southern Approaches]], [[Standard Guided Crossing]], [[Terravelle]], [[Avel Coss]], [[Ancient Ruins]]*
+*See also: [[Equatorial Desert]], [[Terravelle Desert Trade Office]], [[Halveth Cooperative]], [[Standard Guided Crossing]], [[Terravelle]], [[Halveth]], [[Avel Coss]], [[Ancient Ruins]]*
