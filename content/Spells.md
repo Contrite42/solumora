@@ -23,3 +23,8 @@ _See also: [[Sigils]], [[Flux]], [[Flux Users]], [[Spell Variables]], [[All Grim
 - [[Spells/Soulsurge|Soulsurge]] - 1562 W - T5 (Rare)
 - [[Spells/Chemseal|Chemseal]] - 622 W - T4 (Uncommon)
 - [[Spells/Primaldrift|Primaldrift]] - 34 W - T1 (Common)
+- [[Spells/Forcepoint|Forcepoint]] - 12 W - T1 (Common)
+- [[Spells/Chemring|Chemring]] - 163 W - T3 (Uncommon)
+- [[Spells/Mindcone|Mindcone]] - 928 W - T4 (Uncommon)
+- [[Spells/Heatcolumn|Heatcolumn]] - 437 W - T4 (Uncommon)
+- [[Spells/Chemsphere|Chemsphere]] - 81 W - T2 (Common)

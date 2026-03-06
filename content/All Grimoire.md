@@ -41,3 +41,8 @@ _A note on Pale classification: Pale spells are not simply powerful. They are sp
 - [[Spells/Soulsurge|Soulsurge]] - 1562 W - T5 - [[Rare Grimoire|Rare]]
 - [[Spells/Chemseal|Chemseal]] - 622 W - T4 - [[Uncommon Grimoire|Uncommon]]
 - [[Spells/Primaldrift|Primaldrift]] - 34 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Forcepoint|Forcepoint]] - 12 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Chemring|Chemring]] - 163 W - T3 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Mindcone|Mindcone]] - 928 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Heatcolumn|Heatcolumn]] - 437 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Chemsphere|Chemsphere]] - 81 W - T2 - [[Common Grimoire|Common]]

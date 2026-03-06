@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Heatcolumn",
+    "summary": "A spell that waits to release effects using heat magic.",
+    "effect_description": "A spell that waits to release effects using heat magic. A circle trigger/control recipe that channels heat discipline into thermal output. It applies a cylinder pattern against group across medium reach with immediate persistence.",
+    "hook": "Trigger",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Heat",
+    "output_mode": "Thermal",
+    "pattern": "Cylinder",
+    "reach": "Medium",
+    "persistence": "Immediate",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 110,
+    "pattern_w": 20,
+    "reach_w": 15,
+    "persistence_w": 0,
+    "target_w": 35,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 180,
+    "hook_mode_multiplier": 2.43,
+    "hook_mode_flat_w": 0,
+    "total_w": 437,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Heatcolumn** | Circle | Trigger | Control | T4 | Heat | Thermal | Cylinder | Medium | Immediate | Group |"
+}

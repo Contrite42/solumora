@@ -1,0 +1,18 @@
+{
+  "name": "Mindcone",
+  "summary": "A spell that blocks effects using mind magic.",
+  "effect_description": "A spell that blocks effects using mind magic. A pentagon filter/affect recipe that channels mind discipline into raw output. It applies a cone pattern against self across long reach with immediate persistence.",
+  "hook": "Filter",
+  "mode": "Affect",
+  "shape": "Pentagon",
+  "discipline": "Mind",
+  "output_mode": "Raw",
+  "pattern": "Cone",
+  "reach": "Long",
+  "persistence": "Immediate",
+  "target_spec": "Self",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.6,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

@@ -1177,33 +1177,31 @@ def llm_name_from_summary(
     if config.provider == "ollama":
         return ollama_name_from_summary(summary, spec_data, model=config.model, timeout_seconds=timeout_seconds)
 
-    # Build detailed spell context from recipe
-    spell_context = f"""Spell Recipe Analysis:
-- Hook (action type): {spec_data.get('hook', 'Unknown')}
-- Discipline (force): {spec_data.get('discipline', 'Unknown')}
-- Output Mode: {spec_data.get('output_mode', 'Unknown')}
-- Pattern (area): {spec_data.get('pattern', 'Unknown')}
-- Reach (distance): {spec_data.get('reach', 'Unknown')}
-- Persistence (duration): {spec_data.get('persistence', 'Unknown')}
-- Mode (scope): {spec_data.get('mode', 'Unknown')}
+    # Build recipe context - spell recipe is like CODE describing execution
+    spell_context = f"""Spell Recipe (Execution Code):
+- Hook: {spec_data.get('hook', 'Unknown')} (primary action/instruction)
+- Pattern: {spec_data.get('pattern', 'Unknown')} (execution shape)
+- Reach: {spec_data.get('reach', 'Unknown')} (execution distance)
+- Persistence: {spec_data.get('persistence', 'Unknown')} (execution duration)
+- Discipline: {spec_data.get('discipline', 'Unknown')} (energy type)
+- Mode: {spec_data.get('mode', 'Unknown')} (scope of operation)
 
+This recipe is like machine code - it describes HOW the spell executes.
 Practical Effect: {summary}"""
 
     prompt = (
-        "You are naming a Solumora sigil based on what it actually DOES. \n"
-        "Analyze the spell's practical mechanics and generate a name that captures its essence.\n\n"
+        "You are naming a Solumora spell by reading its execution recipe (like reading code).\n\n"
         f"{spell_context}\n\n"
-        "The name must:\n"
-        "- Be 1-2 words, title case (e.g., Lightbeam, Heatstone, Soulmark)\n"
-        "- Reflect the spell's observable effect and discipline\n"
-        "- Sound like actual magic, not mechanical jargon\n\n"
-        "Examples of good names:\n"
-        "- Hearthlight (emits heat as light patterns)\n"
-        "- Heatstone (radiates heat in a fixed area)\n"
-        "- Mindread (senses thoughts in self-anchored way)\n"
-        "- Soulchain (binds soul-discipline energy to targets)\n"
-        "- Lightbeam (sends heat/light in a directed path)\n"
-        "- Forceshell (creates protective force barrier)\n\n"
+        "The spell's name must capture both WHAT it does and HOW it executes.\n"
+        "Consider the pattern (execution shape), reach (distance), and persistence (duration).\n\n"
+        "Good naming examples:\n"
+        "- Heatbeam: A heat spell that executes as a directed beam\n"
+        "- Lightfield: A light spell that creates a whole-area field effect\n"
+        "- Soulsurge: A soul spell with amplified/surging execution\n"
+        "- Mindanchor: A mind spell anchored to a specific point\n"
+        "- Shockstorm: Electric spell with widespread persistent effect\n"
+        "- Chainpoint: A binding spell focused on a single point\n\n"
+        "The name should be 1-2 words, title case, reflecting the HOW (pattern/reach) + WHAT (discipline/effect).\n"
         "Return ONLY the spell name, nothing else."
     )
     
@@ -1392,89 +1390,114 @@ def recipe_effect_from_variables(spec_data: dict[str, Any]) -> str:
 
 
 def derive_name_from_summary(summary: str, spec_data: dict[str, Any]) -> str:
-    # Intelligent fallback: infer spell purpose from full recipe, not just summary
-    # This is used when LLM is unavailable
+    # Analyze recipe as EXECUTION PATTERN: how the spell performs based on hook/discipline/pattern/reach/persistence
+    # A spell's name comes from understanding how it executes, like reading code
     
     hook = str(spec_data.get("hook", "")).lower()
     discipline = str(spec_data.get("discipline", "")).lower()
     pattern = str(spec_data.get("pattern", "")).lower()
     reach = str(spec_data.get("reach", "")).lower()
     persistence = str(spec_data.get("persistence", "")).lower()
-    output_mode = str(spec_data.get("output_mode", "")).lower()
+    mode = str(spec_data.get("mode", "")).lower()
     
-    # Discipline-based name stems
-    discipline_names = {
-        "heat": "Heat",
-        "light": "Light", 
-        "mind": "Mind",
-        "soul": "Soul",
-        "electric": "Shock",
-        "chemical": "Chem",
-        "force": "Force",
-        "sound": "Echo",
-        "binding": "Chain",
-        "raw": "Primal",
+    # Discipline name stems (the force type)
+    disc_base = {
+        "heat": "Heat", "light": "Light", "mind": "Mind", "soul": "Soul",
+        "electric": "Shock", "chemical": "Chem", "force": "Force", "sound": "Echo",
+        "binding": "Chain", "raw": "Primal",
     }
     
-    # Hook-based action words
-    hook_words = {
-        "emit": "Burst",
-        "bind": "Chain",
-        "ward": "Ward",
-        "sense": "Mark",
-        "filter": "Seal",
-        "trigger": "Snap",
-        "transform": "Shift",
-        "move": "Drift",
-        "amplify": "Surge",
-        "dampen": "Still",
-        "counter": "Break",
+    # Pattern describes the EXECUTION SHAPE
+    pattern_exec = {
+        "point": "Point",     # Single focused spot
+        "beam": "Beam",       # Directed ray/line
+        "cone": "Cone",       # Expanding spread
+        "ring": "Ring",       # Circular boundary
+        "plane": "Plane",     # Flat surface
+        "field": "Field",     # Area of effect
+        "sphere": "Sphere",   # All directions
+        "cylinder": "Column", # Tall area
     }
     
-    # Pattern-based spatial modifiers
-    pattern_mods = {
-        "point": "Point",
-        "beam": "Beam",
-        "cone": "Cone",
-        "ring": "Ring",
-        "plane": "Plane",
-        "field": "Field",
-        "sphere": "Sphere",
-        "cylinder": "Column",
+    # Reach describes the EXECUTION DISTANCE
+    reach_exec = {
+        "self": "Self",       # Only on caster
+        "touch": "Touch",     # Contact only
+        "short": "Close",     # Nearby
+        "medium": "Range",    # Mid distance
+        "long": "Long",       # Far distance
+        "los": "Sight",       # Line of sight
+        "anchored": "Anchor", # Fixed point in space
     }
     
-    # Reach-based distance modifiers
-    reach_mods = {
-        "self": "Self",
-        "touch": "Touch",
-        "short": "Close",
-        "medium": "Range",
-        "long": "Long",
-        "los": "Sight",
-        "anchored": "Anchor",
+    # Persistence describes the EXECUTION DURATION
+    persist_suffix = {
+        "immediate": "",      # No suffix for instant
+        "timed": "Pulse",     # Timed execution
+        "sustained": "Ward",  # Ongoing/maintained
+        "conditional": "Snap",# Triggered execution
+        "latched": "Mark",    # Persistent mark/anchor
+        "permanent": "Stone", # Permanent fixture
     }
     
-    disc_name = discipline_names.get(discipline, discipline.capitalize())
-    hook_name = hook_words.get(hook, hook.capitalize())
-    pattern_name = pattern_mods.get(pattern, pattern.capitalize())
+    # Hook describes the PRIMARY ACTION of execution
+    hook_action = {
+        "emit": "Emit",       # Releases energy outward
+        "bind": "Chain",      # Constrains/joins
+        "ward": "Guard",      # Protects/defends
+        "sense": "Read",      # Perceives/detects
+        "filter": "Screen",   # Blocks/filters
+        "trigger": "Snap",    # Waits then activates
+        "transform": "Shift", # Changes properties
+        "move": "Drift",      # Propels/carries
+        "amplify": "Surge",   # Enhances/magnifies
+        "dampen": "Still",    # Reduces/suppresses
+        "counter": "Break",   # Opposes/negates
+    }
     
-    # Combine based on what seems most important
-    # Priority: Discipline + Hook or Discipline + Pattern
-    candidates = [
-        f"{disc_name}{hook_name}",
-        f"{disc_name}{pattern_name}",
-        f"{hook_name}{pattern_name}",
-        f"{disc_name}Stone" if "place" in summary.lower() or "anchored" in reach else None,
-        f"{disc_name}Mark" if "sense" in hook or "read" in summary.lower() else None,
-        f"{disc_name}Ward" if "ward" in hook or "protect" in summary.lower() else None,
-    ]
+    disc = disc_base.get(discipline, discipline.capitalize())
+    pattern = pattern_exec.get(pattern, pattern.capitalize())
+    reach = reach_exec.get(reach, reach.capitalize())
+    hook = hook_action.get(hook, hook.capitalize())
+    persist = persist_suffix.get(persistence, "Work")
     
-    # Return first non-None, non-generic candidate
-    for candidate in candidates:
-        if candidate and candidate not in ["FluxWorking", "RawRaw"]:
-            return candidate
+    # Build name from execution pattern: what runs + how it runs
+    # Priority: Discipline + Pattern/Shape determines primary execution
     
-    return f"{disc_name}Work" if disc_name else "Flux Working"
+    candidates = []
+    
+    # 1. Discipline + Pattern (most common): describes the shaped execution
+    if pattern and pattern not in ["Self"]:
+        candidates.append(f"{disc}{pattern}")  # e.g., HeatBeam, MindField
+    
+    # 2. If reach is significant (long distance or anchored), add it
+    if reach in ["Long", "Anchor", "Sight"]:
+        candidates.append(f"{disc}{reach}{pattern}")  # e.g., HeatLongBeam, ChainAnchorPoint
+    elif pattern:
+        candidates.append(f"{disc}{pattern}{reach}")  # e.g., MindFieldLong
+    
+    # 3. Hook-based execution (what action is performed)
+    candidates.append(f"{disc}{hook}")  # e.g., HeatEmit, MindRead
+    
+    # 4. With persistence duration encoded
+    if persist and persist != "":
+        candidates.append(f"{disc}{pattern}{persist}" if pattern else f"{disc}{persist}")
+    
+    # 5. Complex: Hook + Pattern + Reach (full execution signature)
+    if pattern and reach and reach not in ["Self"]:
+        candidates.append(f"{hook}{pattern}")  # e.g., ChainPoint, ScreenField
+    
+    # Clean up and return first valid candidate
+    seen = set()
+    for cand in candidates:
+        if cand and cand not in seen and cand not in ["FluxWork", "RawRaw", "Work"]:
+            seen.add(cand)
+            # Make sure it's not a placeholder
+            if len(cand) > 3 and not cand.startswith("Flux"):
+                return cand
+    
+    # Fallback
+    return f"{disc}Work" if disc else "Flux Working"
 
 
 def ensure_unique_name(base_name: str, reserved_names: set[str]) -> str:

@@ -1493,3 +1493,39 @@ A spell that moves effects using raw magic.
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
 
+
+---
+
+**Forcepoint**
+A spell that protects against effects using force magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Chemsphere**
+A spell that detects effects using chemical magic.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Sense |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Sphere |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

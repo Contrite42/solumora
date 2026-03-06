@@ -1216,3 +1216,57 @@ A spell that blocks effects using chemical magic.
 | Persistence | _(default - Immediate)_ |
 | Target | Individual |
 
+
+---
+
+**Chemring**
+A spell that amplifies effects using chemical magic.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Amplify |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Where Written |
+
+
+---
+
+**Mindcone**
+A spell that blocks effects using mind magic.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Mind |
+| Output | Raw |
+| Pattern | Cone |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Heatcolumn**
+A spell that waits to release effects using heat magic.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Trigger |
+| Mode | Control |
+| Control Tier | T4 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Cylinder |
+| Reach | Medium |
+| Persistence | Immediate |
+| Target | Group |
+
