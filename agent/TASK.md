@@ -1,25 +1,24 @@
-# Task: Maritime World Expansion
+# Task: Grimoire Underground Expansion
 
 ## Goal
-Expand the **Maritime World** beyond documented trade routes. Coastal shipping exists but we have no fishing communities, coastal towns between major ports, maritime culture, or ship-building economy.
+Build the **Grimoire Underground** as operational reality. Black market circulation is documented but no actual criminal organizations, smuggling routes through existing trade networks, or illicit practitioners who operate outside guild regulation.
 
 ## Constraints
-- Need at least 3 coastal settlements (2 in Auralis, 1 in Terravelle) that depend on the sea rather than just using it for transport
-- Must address how Flux interacts with deep-water navigation and storm management
-- Must integrate with existing [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] documentation
-- 5-6 notes total: 3 coastal towns + 2-3 maritime institutions/practices
-- Update [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] with stopping points
+- Need 3-4 underground institutions with names, methods, territories, and the people who run them
+- Must show how they interface with legitimate grimoire economy without replacing it
+- Must integrate with existing [[Black Market Grimoire Circulation]] documentation
+- 6-8 notes total: 3-4 underground orgs + 2-3 key smuggling routes/methods + 2-3 underground practitioners
+- Update [[Black Market Grimoire Circulation]] with organizational detail
 
 ## Output Target
-5-6 notes showing how coastal communities live from the sea, not just through it
+6-8 notes showing how illicit grimoire trade actually operates beneath the legitimate economy
 
 ## Execution Plan
-1. Create 3 coastal settlements (2 Auralis coast, 1 Terravelle coast) with distinct maritime economies
-2. Create 2-3 maritime institutions/practices (shipbuilding, storm prediction, fishing fleet coordination)
-3. Add 2-3 named people per settlement
-4. Update Hedun-Solhaven Coastal Run with stopping points
-5. Update Outer Coast Packet Line with coastal integration points
-6. Run canon/link integrity check
+1. Create 3-4 underground organizations controlling different aspects of illicit circulation (smuggling networks, forger operations, unlicensed copy houses, practitioner protection networks)
+2. Create 2-3 smuggling routes/methods that exploit existing trade infrastructure
+3. Add 2-3 practitioners operating underground
+4. Update Black Market Grimoire Circulation with organizational structure details
+5. Run canon/link integrity check
 
 ## Status
 ACTIVE - Copilot Auto executing
