@@ -141,11 +141,11 @@ const REGION_LINKS: RegionLink[] = [
     label: "Southern Approaches Network",
     // Positioned to contain Solhaven (460,1000) and Hedun (280,1140)
     // Forms triangular/trapezoidal approach zone in southwest
-    path: "M550 740 L720 740 L540 1060 L380 1060 Z",
+    path: "M550 850 L720 850 L540 1060 L380 1060 Z",
     keys: ["The-Southern-Approaches", "Southern-Approaches"],
     titles: ["The Southern Approaches", "Southern Approaches"],
-    labelX: 700,
-    labelY: 900,
+    labelX: 630,
+    labelY: 950,
     labelAnchor: "end",
     showLabel: true,
   },
@@ -225,7 +225,7 @@ const MAP_MARKERS: MapMarker[] = [
     id: "halveth",
     label: "Halveth",
     x: 720,
-    y: 580,
+    y: 630,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
