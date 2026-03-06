@@ -2,7 +2,7 @@ Uncommon spells require [[Control Tier]] T3–T4 and represent the threshold whe
 
 _Return to [[All Grimoire]]_
 **CurvedRing**
-This sigil unleashes thought-current as a widening fan within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects cognitive signal as a widening forward spread within fifty feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -18,7 +18,7 @@ This sigil unleashes thought-current as a widening fan within fifty feet, center
 ---
 
 **WarmCurse**
-This sigil reads reactive compounds as a standing column within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
+Reads reactive compounds as a standing column within fifty feet on a single person, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -34,7 +34,7 @@ This sigil reads reactive compounds as a standing column within fifty feet, focu
 ---
 
 **StrongBond**
-This sigil reworks binding force across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
+Reconfigures binding tension across the inscribed face within ten feet across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -50,7 +50,7 @@ This sigil reworks binding force across the inscribed face within ten feet, spre
 ---
 
 **PierceFlame**
-This sigil breaks the momentum of charge as a circling band within fifty feet, spread over a surface. It holds for about a minute.
+Disrupts electrical charge as a circular band around the mark within fifty feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one minute.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -66,7 +66,7 @@ This sigil breaks the momentum of charge as a circling band within fifty feet, s
 ---
 
 **BurShroud**
-This sigil sifts thought-current as a narrow line within ten feet, centered on the written mark. It holds for about a minute.
+Screens cognitive signal as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -82,7 +82,7 @@ This sigil sifts thought-current as a narrow line within ten feet, centered on t
 ---
 
 **ReleasSigil**
-This sigil raises cover against thought-current as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
+Raises a boundary against cognitive signal as a standing column at touch range on a single person, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Ward |
@@ -98,7 +98,7 @@ This sigil raises cover against thought-current as a standing column at touch ra
 ---
 
 **SurgeRoad**
-This sigil reads thought-current as a standing column within ten feet, spread over a surface. It holds for about an hour.
+Reads cognitive signal as a standing column within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 555 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -114,7 +114,7 @@ This sigil reads thought-current as a standing column within ten feet, spread ov
 ---
 
 **SweepSpirit**
-This sigil breaks the momentum of charge as a standing column at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Disrupts electrical charge as a standing column at touch range across a chosen surface, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -130,7 +130,7 @@ This sigil breaks the momentum of charge as a standing column at touch range, sp
 ---
 
 **VividThread**
-This sigil reworks binding force as a widening fan within ten feet, spread over a surface. It remains until its trigger condition is met.
+Reconfigures binding tension as a widening forward spread within ten feet across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -146,7 +146,7 @@ This sigil reworks binding force as a widening fan within ten feet, spread over 
 ---
 
 **ShallowLock**
-This sigil sifts thought-current as a standing column within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
+Screens cognitive signal as a standing column within fifty feet on a single person, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 553 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -162,7 +162,7 @@ This sigil sifts thought-current as a standing column within fifty feet, focused
 ---
 
 **AnchorLock**
-This sigil sifts reactive compounds as a circling band within ten feet, focused on one person. It holds for about an hour.
+Screens reactive compounds as a circular band around the mark within ten feet on a single person, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -178,7 +178,7 @@ This sigil sifts reactive compounds as a circling band within ten feet, focused 
 ---
 
 **SolidWisp**
-This sigil drives thought-current across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Drives cognitive signal across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -194,7 +194,7 @@ This sigil drives thought-current across the inscribed face at touch range, spre
 ---
 
 **SolidSigil**
-This sigil sifts binding force across the inscribed face at touch range, centered on the written mark. It holds for about a minute.
+Screens binding tension across the inscribed face at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 207 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -210,7 +210,7 @@ This sigil sifts binding force across the inscribed face at touch range, centere
 ---
 
 **KindleWay**
-This sigil breaks the momentum of reactive compounds as a standing column at touch range, centered on the written mark. It remains until its trigger condition is met.
+Disrupts reactive compounds as a standing column at touch range on the inscribed location, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -226,7 +226,7 @@ This sigil breaks the momentum of reactive compounds as a standing column at tou
 ---
 
 **CaptureDance**
-This sigil reads binding force as a circling band within fifty feet, focused on one object. It stays active while the caster keeps feeding it.
+Reads binding tension as a circular band around the mark within fifty feet on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -242,7 +242,7 @@ This sigil reads binding force as a circling band within fifty feet, focused on 
 ---
 
 **KindleStorm**
-This sigil raises cover against binding force across the inscribed face within ten feet, focused on one person. It holds for about a minute.
+Raises a boundary against binding tension across the inscribed face within ten feet on a single person, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 218 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -258,7 +258,7 @@ This sigil raises cover against binding force across the inscribed face within t
 ---
 
 **TwistMark**
-This sigil breaks the momentum of charge as a standing column within fifty feet, focused on one person. It holds for about an hour.
+Disrupts electrical charge as a standing column within fifty feet on a single person, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 168 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -274,7 +274,7 @@ This sigil breaks the momentum of charge as a standing column within fifty feet,
 ---
 
 **PaleWard**
-This sigil locks down thought-current as a standing column within ten feet, focused on one person. It holds for about an hour.
+Pins cognitive signal as a standing column within ten feet on a single person, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 558 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -290,7 +290,7 @@ This sigil locks down thought-current as a standing column within ten feet, focu
 ---
 
 **RiseStorm**
-This sigil reads reactive compounds as a standing column within ten feet, spread over a surface. It remains until its trigger condition is met.
+Reads reactive compounds as a standing column within ten feet across a chosen surface, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -306,7 +306,7 @@ This sigil reads reactive compounds as a standing column within ten feet, spread
 ---
 
 **PiercPulse**
-This sigil locks down reactive compounds as a standing column within fifty feet, spread over a surface.
+Pins reactive compounds as a standing column within fifty feet across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -322,7 +322,7 @@ This sigil locks down reactive compounds as a standing column within fifty feet,
 ---
 
 **TwistStorm**
-This sigil raises cover against reactive compounds as a widening fan within fifty feet, focused on one person.
+Raises a boundary against reactive compounds as a widening forward spread within fifty feet on a single person, forming a defensive layer that rejects incoming influence.
 | Wattage | 133 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -338,7 +338,7 @@ This sigil raises cover against reactive compounds as a widening fan within fift
 ---
 
 **TwistVeil**
-This sigil raises cover against reactive compounds as a standing column within ten feet, focused on one object. It remains until its trigger condition is met.
+Raises a boundary against reactive compounds as a standing column within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
 | Wattage | 147 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -354,7 +354,7 @@ This sigil raises cover against reactive compounds as a standing column within t
 ---
 
 **HeavyKnot**
-This sigil reads thought-current as a widening fan at touch range, focused on one person. It holds for about a minute.
+Reads cognitive signal as a widening forward spread at touch range on a single person, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -370,7 +370,7 @@ This sigil reads thought-current as a widening fan at touch range, focused on on
 ---
 
 **DissolveStorm**
-This sigil locks down thought-current as a widening fan within ten feet, spread over a surface. It holds for about an hour.
+Pins cognitive signal as a widening forward spread within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -386,7 +386,7 @@ This sigil locks down thought-current as a widening fan within ten feet, spread 
 ---
 
 **DissolveLight**
-This sigil sifts reactive compounds as a narrow line at touch range, centered on the written mark. It holds for about an hour.
+Screens reactive compounds as a narrow directional line at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -402,7 +402,7 @@ This sigil sifts reactive compounds as a narrow line at touch range, centered on
 ---
 
 **SurEcho**
-This sigil unleashes thought-current as a widening fan within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Projects cognitive signal as a widening forward spread within ten feet across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Emit |
@@ -418,7 +418,7 @@ This sigil unleashes thought-current as a widening fan within ten feet, spread o
 ---
 
 **CaptureBlessing**
-This sigil breaks the momentum of charge as a standing column within ten feet, focused on one object. It holds for about an hour.
+Disrupts electrical charge as a standing column within ten feet on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -434,7 +434,7 @@ This sigil breaks the momentum of charge as a standing column within ten feet, f
 ---
 
 **BindRune**
-This sigil breaks the momentum of thought-current as a standing column at touch range, centered on the written mark. It remains until its trigger condition is met.
+Disrupts cognitive signal as a standing column at touch range on the inscribed location, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Counter |
@@ -450,7 +450,7 @@ This sigil breaks the momentum of thought-current as a standing column at touch 
 ---
 
 **PierceWay**
-This sigil drives thought-current as a widening fan within ten feet, focused on one person. It holds for about an hour.
+Drives cognitive signal as a widening forward spread within ten feet on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 548 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -466,7 +466,7 @@ This sigil drives thought-current as a widening fan within ten feet, focused on 
 ---
 
 **PierceSight**
-This sigil sifts charge as a widening fan within ten feet, spread over a surface. It holds for about an hour.
+Screens electrical charge as a widening forward spread within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -482,7 +482,7 @@ This sigil sifts charge as a widening fan within ten feet, spread over a surface
 ---
 
 **AnchorSigil**
-This sigil breaks the momentum of charge as a standing column within ten feet, spread over a surface. It holds for about an hour.
+Disrupts electrical charge as a standing column within ten feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -498,7 +498,7 @@ This sigil breaks the momentum of charge as a standing column within ten feet, s
 ---
 
 **BreakVeil**
-This sigil reworks binding force as a narrow line within ten feet, focused on one person. It stays active while the caster keeps feeding it.
+Reconfigures binding tension as a narrow directional line within ten feet on a single person, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -514,7 +514,7 @@ This sigil reworks binding force as a narrow line within ten feet, focused on on
 ---
 
 **SteadyVoid**
-This sigil reworks binding force as a widening fan within ten feet, focused on one object. It holds for about a minute.
+Reconfigures binding tension as a widening forward spread within ten feet on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -530,7 +530,7 @@ This sigil reworks binding force as a widening fan within ten feet, focused on o
 ---
 
 **ChillShadow**
-This sigil drives thought-current as a standing column within fifty feet, focused on one object. It holds for about a minute.
+Drives cognitive signal as a standing column within fifty feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Move |
@@ -546,7 +546,7 @@ This sigil drives thought-current as a standing column within fifty feet, focuse
 ---
 
 **KindleMark**
-This sigil sifts binding force across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Screens binding tension across the inscribed face at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -562,7 +562,7 @@ This sigil sifts binding force across the inscribed face at touch range, focused
 ---
 
 **RestlessCurse**
-This sigil locks down thought-current as a circling band within fifty feet, focused on one object. It holds for about an hour.
+Pins cognitive signal as a circular band around the mark within fifty feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 557 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -578,7 +578,7 @@ This sigil locks down thought-current as a circling band within fifty feet, focu
 ---
 
 **LoudAura**
-This sigil sifts charge as a widening fan at touch range, focused on one person. It remains until its trigger condition is met.
+Screens electrical charge as a widening forward spread at touch range on a single person, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -594,7 +594,7 @@ This sigil sifts charge as a widening fan at touch range, focused on one person.
 ---
 
 **RiseBrand**
-This sigil drives thought-current as a circling band within ten feet, spread over a surface. It remains until its trigger condition is met.
+Drives cognitive signal as a circular band around the mark within ten feet across a chosen surface, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -610,7 +610,7 @@ This sigil drives thought-current as a circling band within ten feet, spread ove
 ---
 
 **WildVoid**
-This sigil sifts reactive compounds as a standing column at touch range, spread over a surface. It holds for about a minute.
+Screens reactive compounds as a standing column at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -626,7 +626,7 @@ This sigil sifts reactive compounds as a standing column at touch range, spread 
 ---
 
 **PierceDream**
-This sigil unleashes binding force as a standing column within ten feet, focused on one object.
+Projects binding tension as a standing column within ten feet on a chosen object, delivering its effect as an active release.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -642,7 +642,7 @@ This sigil unleashes binding force as a standing column within ten feet, focused
 ---
 
 **SweepShroud**
-This sigil raises cover against thought-current as a standing column within fifty feet, focused on one object. It remains until its trigger condition is met.
+Raises a boundary against cognitive signal as a standing column within fifty feet on a chosen object, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
 | Wattage | 257 W |
 | Shape | Square |
 | Hook | Ward |
@@ -658,7 +658,7 @@ This sigil raises cover against thought-current as a standing column within fift
 ---
 
 **BurningRune**
-This sigil reads thought-current as a widening fan at touch range, centered on the written mark.
+Reads cognitive signal as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster.
 | Wattage | 212 W |
 | Shape | Square |
 | Hook | Sense |
@@ -674,7 +674,7 @@ This sigil reads thought-current as a widening fan at touch range, centered on t
 ---
 
 **CalmCurse**
-This sigil reads thought-current as a widening fan within fifty feet, focused on one object.
+Reads cognitive signal as a widening forward spread within fifty feet on a chosen object, returning readable signal data to the caster.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Sense |
@@ -690,7 +690,7 @@ This sigil reads thought-current as a widening fan within fifty feet, focused on
 ---
 
 **HeavyVoice**
-This sigil raises cover against reactive compounds as a circling band within fifty feet, centered on the written mark. It holds for about a minute.
+Raises a boundary against reactive compounds as a circular band around the mark within fifty feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -706,7 +706,7 @@ This sigil raises cover against reactive compounds as a circling band within fif
 ---
 
 **DriftingCharm**
-This sigil sifts thought-current as a widening fan within ten feet, centered on the written mark. It holds for about a minute.
+Screens cognitive signal as a widening forward spread within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -722,7 +722,7 @@ This sigil sifts thought-current as a widening fan within ten feet, centered on 
 ---
 
 **FrozenBreath**
-This sigil drives thought-current as a narrow line at touch range, focused on one person. It holds for about an hour.
+Drives cognitive signal as a narrow directional line at touch range on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -738,7 +738,7 @@ This sigil drives thought-current as a narrow line at touch range, focused on on
 ---
 
 **PiercePulse**
-This sigil sifts charge across the inscribed face within fifty feet, centered on the written mark. It remains until its trigger condition is met.
+Screens electrical charge across the inscribed face within fifty feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -754,7 +754,7 @@ This sigil sifts charge across the inscribed face within fifty feet, centered on
 ---
 
 **HeavyAura**
-This sigil drives reactive compounds as a standing column within fifty feet, spread over a surface.
+Drives reactive compounds as a standing column within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -770,7 +770,7 @@ This sigil drives reactive compounds as a standing column within fifty feet, spr
 ---
 
 **TaintedGate**
-This sigil raises cover against thought-current as a narrow line within ten feet, focused on one object. It holds for about a minute.
+Raises a boundary against cognitive signal as a narrow directional line within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 517 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -786,7 +786,7 @@ This sigil raises cover against thought-current as a narrow line within ten feet
 ---
 
 **GuardBrand**
-This sigil breaks the momentum of binding force across the inscribed face within fifty feet, focused on one object. It remains until its trigger condition is met.
+Disrupts binding tension across the inscribed face within fifty feet on a chosen object, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -802,7 +802,7 @@ This sigil breaks the momentum of binding force across the inscribed face within
 ---
 
 **KindlMark**
-This sigil breaks the momentum of thought-current as a narrow line within fifty feet, focused on one object. It holds for about a minute.
+Disrupts cognitive signal as a narrow directional line within fifty feet on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one minute.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Counter |
@@ -818,7 +818,7 @@ This sigil breaks the momentum of thought-current as a narrow line within fifty 
 ---
 
 **AncientWard**
-This sigil reads thought-current as a narrow line within ten feet, spread over a surface.
+Reads cognitive signal as a narrow directional line within ten feet across a chosen surface, returning readable signal data to the caster.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -834,7 +834,7 @@ This sigil reads thought-current as a narrow line within ten feet, spread over a
 ---
 
 **ReleaseStorm**
-This sigil breaks the momentum of binding force across the inscribed face at touch range, centered on the written mark.
+Disrupts binding tension across the inscribed face at touch range on the inscribed location, breaking continuity in an existing or incoming effect.
 | Wattage | 202 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -850,7 +850,7 @@ This sigil breaks the momentum of binding force across the inscribed face at tou
 ---
 
 **BurPath**
-This sigil breaks the momentum of thought-current as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
+Disrupts cognitive signal as a standing column at touch range on a single person, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -866,7 +866,7 @@ This sigil breaks the momentum of thought-current as a standing column at touch 
 ---
 
 **ChillDream**
-This sigil raises cover against binding force across the inscribed face at touch range, focused on one object.
+Raises a boundary against binding tension across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 204 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -882,7 +882,7 @@ This sigil raises cover against binding force across the inscribed face at touch
 ---
 
 **BindThought**
-This sigil unleashes thought-current as a narrow line at touch range, focused on one object. It remains until its trigger condition is met.
+Projects cognitive signal as a narrow directional line at touch range on a chosen object, delivering its effect as an active release, and it remains in place until its trigger condition is met.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -898,7 +898,7 @@ This sigil unleashes thought-current as a narrow line at touch range, focused on
 ---
 
 **BurnCurse**
-This sigil locks down thought-current as a narrow line within fifty feet, centered on the written mark. It holds for about an hour.
+Pins cognitive signal as a narrow directional line within fifty feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -914,7 +914,7 @@ This sigil locks down thought-current as a narrow line within fifty feet, center
 ---
 
 **DriftHeart**
-This sigil reworks thought-current as a narrow line within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Reconfigures cognitive signal as a narrow directional line within ten feet on the inscribed location, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -930,7 +930,7 @@ This sigil reworks thought-current as a narrow line within ten feet, centered on
 ---
 
 **ClearCharm**
-This sigil locks down binding force across the inscribed face within ten feet, centered on the written mark. It remains until its trigger condition is met.
+Pins binding tension across the inscribed face within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -946,7 +946,7 @@ This sigil locks down binding force across the inscribed face within ten feet, c
 ---
 
 **GuardTide**
-This sigil reads reactive compounds as a standing column within fifty feet, centered on the written mark. It holds for about a minute.
+Reads reactive compounds as a standing column within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -962,7 +962,7 @@ This sigil reads reactive compounds as a standing column within fifty feet, cent
 ---
 
 **StraightShell**
-This sigil sifts binding force as a narrow line within ten feet, centered on the written mark. It remains until its trigger condition is met.
+Screens binding tension as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -978,7 +978,7 @@ This sigil sifts binding force as a narrow line within ten feet, centered on the
 ---
 
 **ReleasEcho**
-This sigil reads thought-current across the inscribed face within fifty feet, focused on one object. It remains until its trigger condition is met.
+Reads cognitive signal across the inscribed face within fifty feet on a chosen object, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Sense |
@@ -994,7 +994,7 @@ This sigil reads thought-current across the inscribed face within fifty feet, fo
 ---
 
 **GuardScar**
-This sigil drives charge as a widening fan within fifty feet, spread over a surface. It holds for about a minute.
+Drives electrical charge as a widening forward spread within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1010,7 +1010,7 @@ This sigil drives charge as a widening fan within fifty feet, spread over a surf
 ---
 
 **KindleTouch**
-This sigil reworks thought-current across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
+Reconfigures cognitive signal across the inscribed face within ten feet across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1026,7 +1026,7 @@ This sigil reworks thought-current across the inscribed face within ten feet, sp
 ---
 
 **SweepBrand**
-This sigil reads thought-current across the inscribed face within fifty feet, centered on the written mark. It holds for about a minute.
+Reads cognitive signal across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1042,7 +1042,7 @@ This sigil reads thought-current across the inscribed face within fifty feet, ce
 ---
 
 **TaintedVoice**
-This sigil reads binding force as a narrow line within fifty feet, centered on the written mark. It remains until its trigger condition is met.
+Reads binding tension as a narrow directional line within fifty feet on the inscribed location, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1058,7 +1058,7 @@ This sigil reads binding force as a narrow line within fifty feet, centered on t
 ---
 
 **KindleBrand**
-This sigil sifts binding force as a standing column within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Screens binding tension as a standing column within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1074,7 +1074,7 @@ This sigil sifts binding force as a standing column within ten feet, focused on 
 ---
 
 **GrandWard**
-This sigil reads binding force as a widening fan within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
+Reads binding tension as a widening forward spread within fifty feet on a single person, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1090,7 +1090,7 @@ This sigil reads binding force as a widening fan within fifty feet, focused on o
 ---
 
 **GuardCore**
-This sigil sifts charge as a standing column within fifty feet, focused on one object. It holds for about a minute.
+Screens electrical charge as a standing column within fifty feet on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1106,7 +1106,7 @@ This sigil sifts charge as a standing column within fifty feet, focused on one o
 ---
 
 **StraightFrost**
-This sigil reads thought-current as a widening fan at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Reads cognitive signal as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 224 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1122,7 +1122,7 @@ This sigil reads thought-current as a widening fan at touch range, focused on on
 ---
 
 **BreakPath**
-This sigil reads binding force as a narrow line within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Reads binding tension as a narrow directional line within ten feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1138,7 +1138,7 @@ This sigil reads binding force as a narrow line within ten feet, spread over a s
 ---
 
 **TameRune**
-This sigil reads thought-current as a narrow line within fifty feet, centered on the written mark. It holds for about an hour.
+Reads cognitive signal as a narrow directional line within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1154,7 +1154,7 @@ This sigil reads thought-current as a narrow line within fifty feet, centered on
 ---
 
 **ClearDoor**
-This sigil reads thought-current as a circling band within fifty feet, centered on the written mark.
+Reads cognitive signal as a circular band around the mark within fifty feet on the inscribed location, returning readable signal data to the caster.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1170,7 +1170,7 @@ This sigil reads thought-current as a circling band within fifty feet, centered 
 ---
 
 **SharpBoon**
-This sigil reads charge as a narrow line within fifty feet, spread over a surface. It holds for about an hour.
+Reads electrical charge as a narrow directional line within fifty feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1186,7 +1186,7 @@ This sigil reads charge as a narrow line within fifty feet, spread over a surfac
 ---
 
 **FreezChain**
-This sigil reworks binding force as a standing column within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
+Reconfigures binding tension as a standing column within fifty feet on a single person, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1202,7 +1202,7 @@ This sigil reworks binding force as a standing column within fifty feet, focused
 ---
 
 **StraightRune**
-This sigil reads charge as a standing column within fifty feet, spread over a surface. It holds for about an hour.
+Reads electrical charge as a standing column within fifty feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 165 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1218,7 +1218,7 @@ This sigil reads charge as a standing column within fifty feet, spread over a su
 ---
 
 **BrightKnot**
-This sigil unleashes thought-current as a widening fan within fifty feet, focused on one person.
+Projects cognitive signal as a widening forward spread within fifty feet on a single person, delivering its effect as an active release.
 | Wattage | 533 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1234,7 +1234,7 @@ This sigil unleashes thought-current as a widening fan within fifty feet, focuse
 ---
 
 **BurningWeb**
-This sigil reworks reactive compounds as a standing column within ten feet, centered on the written mark. It remains until its trigger condition is met.
+Reconfigures reactive compounds as a standing column within ten feet on the inscribed location, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1250,7 +1250,7 @@ This sigil reworks reactive compounds as a standing column within ten feet, cent
 ---
 
 **CapturNet**
-This sigil reads thought-current as a circling band within ten feet, spread over a surface. It remains until its trigger condition is met.
+Reads cognitive signal as a circular band around the mark within ten feet across a chosen surface, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1266,7 +1266,7 @@ This sigil reads thought-current as a circling band within ten feet, spread over
 ---
 
 **BindBrand**
-This sigil reads binding force across the inscribed face within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Reads binding tension across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1282,7 +1282,7 @@ This sigil reads binding force across the inscribed face within fifty feet, cent
 ---
 
 **ShallowDoor**
-This sigil drives binding force as a narrow line within fifty feet, spread over a surface. It remains until its trigger condition is met.
+Drives binding tension as a narrow directional line within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
 | Wattage | 245 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1298,7 +1298,7 @@ This sigil drives binding force as a narrow line within fifty feet, spread over 
 ---
 
 **DriftDance**
-This sigil sifts reactive compounds as a widening fan at touch range, centered on the written mark. It remains until its trigger condition is met.
+Screens reactive compounds as a widening forward spread at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1314,7 +1314,7 @@ This sigil sifts reactive compounds as a widening fan at touch range, centered o
 ---
 
 **TwistShell**
-This sigil breaks the momentum of thought-current as a standing column at touch range, focused on one person. It holds for about a minute.
+Disrupts cognitive signal as a standing column at touch range on a single person, breaking continuity in an existing or incoming effect, and the working holds for about one minute.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1330,7 +1330,7 @@ This sigil breaks the momentum of thought-current as a standing column at touch 
 ---
 
 **DarkCage**
-This sigil drives thought-current as a standing column within fifty feet, spread over a surface. It stays active while the caster keeps feeding it.
+Drives cognitive signal as a standing column within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Move |
@@ -1346,7 +1346,7 @@ This sigil drives thought-current as a standing column within fifty feet, spread
 ---
 
 **DissolveRoad**
-This sigil reworks thought-current as a circling band within fifty feet, focused on one object. It holds for about a minute.
+Reconfigures cognitive signal as a circular band around the mark within fifty feet on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1362,7 +1362,7 @@ This sigil reworks thought-current as a circling band within fifty feet, focused
 ---
 
 **DriftBrand**
-This sigil unleashes binding force as a widening fan within ten feet, focused on one object. It holds for about an hour.
+Projects binding tension as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1378,7 +1378,7 @@ This sigil unleashes binding force as a widening fan within ten feet, focused on
 ---
 
 **TaintedStorm**
-This sigil reads thought-current as a narrow line within ten feet, spread over a surface.
+Reads cognitive signal as a narrow directional line within ten feet across a chosen surface, returning readable signal data to the caster.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1394,7 +1394,7 @@ This sigil reads thought-current as a narrow line within ten feet, spread over a
 ---
 
 **BurningCharm**
-This sigil drives thought-current across the inscribed face within fifty feet, focused on one person. It remains until its trigger condition is met.
+Drives cognitive signal across the inscribed face within fifty feet on a single person, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
 | Wattage | 543 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1410,7 +1410,7 @@ This sigil drives thought-current across the inscribed face within fifty feet, f
 ---
 
 **ShatterSeal**
-This sigil reads thought-current as a widening fan at touch range, centered on the written mark. It holds for about an hour.
+Reads cognitive signal as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1426,7 +1426,7 @@ This sigil reads thought-current as a widening fan at touch range, centered on t
 ---
 
 **GuardWard**
-This sigil reads binding force across the inscribed face within fifty feet, centered on the written mark. It holds for about a minute.
+Reads binding tension across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 220 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1442,7 +1442,7 @@ This sigil reads binding force across the inscribed face within fifty feet, cent
 ---
 
 **TransformSight**
-This sigil raises cover against charge as a circling band at touch range, focused on one object. It holds for about an hour.
+Raises a boundary against electrical charge as a circular band around the mark at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 144 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1458,7 +1458,7 @@ This sigil raises cover against charge as a circling band at touch range, focuse
 ---
 
 **RiseStrike**
-This sigil locks down reactive compounds as a circling band within fifty feet, focused on one person.
+Pins reactive compounds as a circular band around the mark within fifty feet on a single person, creating a clamp-like hold that resists motion or change.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1474,7 +1474,7 @@ This sigil locks down reactive compounds as a circling band within fifty feet, f
 ---
 
 **RisBoon**
-This sigil breaks the momentum of binding force as a standing column at touch range, focused on one object. It holds for about an hour.
+Disrupts binding tension as a standing column at touch range on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 249 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1490,7 +1490,7 @@ This sigil breaks the momentum of binding force as a standing column at touch ra
 ---
 
 **ShatterBond**
-This sigil reads thought-current as a widening fan within fifty feet, centered on the written mark. It holds for about an hour.
+Reads cognitive signal as a widening forward spread within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1506,7 +1506,7 @@ This sigil reads thought-current as a widening fan within fifty feet, centered o
 ---
 
 **WeavePulse**
-This sigil reworks thought-current as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
+Reconfigures cognitive signal as a standing column at touch range on a single person, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1522,7 +1522,7 @@ This sigil reworks thought-current as a standing column at touch range, focused 
 ---
 
 **ReleaseTide**
-This sigil unleashes binding force as a narrow line at touch range, centered on the written mark. It holds for about a minute.
+Projects binding tension as a narrow directional line at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1538,7 +1538,7 @@ This sigil unleashes binding force as a narrow line at touch range, centered on 
 ---
 
 **GuardSpirit**
-This sigil reads thought-current across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
+Reads cognitive signal across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 530 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1554,7 +1554,7 @@ This sigil reads thought-current across the inscribed face within ten feet, spre
 ---
 
 **TwistSpirit**
-This sigil reads reactive compounds across the inscribed face within fifty feet, focused on one person. It remains until its trigger condition is met.
+Reads reactive compounds across the inscribed face within fifty feet on a single person, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1570,7 +1570,7 @@ This sigil reads reactive compounds across the inscribed face within fifty feet,
 ---
 
 **BreakBreath**
-This sigil raises cover against thought-current across the inscribed face within ten feet, centered on the written mark. It remains until its trigger condition is met.
+Raises a boundary against cognitive signal across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1586,7 +1586,7 @@ This sigil raises cover against thought-current across the inscribed face within
 ---
 
 **FreezeStrike**
-This sigil breaks the momentum of thought-current as a standing column within ten feet, centered on the written mark.
+Disrupts cognitive signal as a standing column within ten feet on the inscribed location, breaking continuity in an existing or incoming effect.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1602,7 +1602,7 @@ This sigil breaks the momentum of thought-current as a standing column within te
 ---
 
 **AnchorVeil**
-This sigil reads reactive compounds as a standing column within ten feet, spread over a surface. It holds for about an hour.
+Reads reactive compounds as a standing column within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1618,7 +1618,7 @@ This sigil reads reactive compounds as a standing column within ten feet, spread
 ---
 
 **ChillCrown**
-This sigil unleashes thought-current as a standing column within ten feet, focused on one object. It remains until its trigger condition is met.
+Projects cognitive signal as a standing column within ten feet on a chosen object, delivering its effect as an active release, and it remains in place until its trigger condition is met.
 | Wattage | 547 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1634,7 +1634,7 @@ This sigil unleashes thought-current as a standing column within ten feet, focus
 ---
 
 **BurnRoad**
-This sigil locks down charge as a standing column within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins electrical charge as a standing column within fifty feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1650,7 +1650,7 @@ This sigil locks down charge as a standing column within fifty feet, centered on
 ---
 
 **GuardLight**
-This sigil reworks reactive compounds as a narrow line within ten feet, focused on one person. It holds for about an hour.
+Reconfigures reactive compounds as a narrow directional line within ten feet on a single person, changing the target state in place, and the working holds for about one hour.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1666,7 +1666,7 @@ This sigil reworks reactive compounds as a narrow line within ten feet, focused 
 ---
 
 **DissolveFlame**
-This sigil breaks the momentum of reactive compounds as a standing column within fifty feet, centered on the written mark.
+Disrupts reactive compounds as a standing column within fifty feet on the inscribed location, breaking continuity in an existing or incoming effect.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1682,7 +1682,7 @@ This sigil breaks the momentum of reactive compounds as a standing column within
 ---
 
 **DeepSeal**
-This sigil reworks thought-current across the inscribed face within fifty feet, focused on one object. It holds for about an hour.
+Reconfigures cognitive signal across the inscribed face within fifty feet on a chosen object, changing the target state in place, and the working holds for about one hour.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1698,7 +1698,7 @@ This sigil reworks thought-current across the inscribed face within fifty feet, 
 ---
 
 **ChillPulse**
-This sigil locks down thought-current as a widening fan within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins cognitive signal as a widening forward spread within fifty feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1714,7 +1714,7 @@ This sigil locks down thought-current as a widening fan within fifty feet, cente
 ---
 
 **DullMirror**
-This sigil raises cover against thought-current as a circling band at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Raises a boundary against cognitive signal as a circular band around the mark at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1730,7 +1730,7 @@ This sigil raises cover against thought-current as a circling band at touch rang
 ---
 
 **RestlessSeal**
-This sigil unleashes reactive compounds as a standing column within ten feet, focused on one person. It holds for about a minute.
+Projects reactive compounds as a standing column within ten feet on a single person, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1746,7 +1746,7 @@ This sigil unleashes reactive compounds as a standing column within ten feet, fo
 ---
 
 **SweepBond**
-This sigil unleashes binding force across the inscribed face within fifty feet, focused on one person. It remains until its trigger condition is met.
+Projects binding tension across the inscribed face within fifty feet on a single person, delivering its effect as an active release, and it remains in place until its trigger condition is met.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1762,7 +1762,7 @@ This sigil unleashes binding force across the inscribed face within fifty feet, 
 ---
 
 **ShatterVoice**
-This sigil unleashes charge as a widening fan at touch range, spread over a surface. It remains until its trigger condition is met.
+Projects electrical charge as a widening forward spread at touch range across a chosen surface, delivering its effect as an active release, and it remains in place until its trigger condition is met.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1778,7 +1778,7 @@ This sigil unleashes charge as a widening fan at touch range, spread over a surf
 ---
 
 **QuietCore**
-This sigil reads thought-current as a circling band at touch range, focused on one person. It holds for about an hour.
+Reads cognitive signal as a circular band around the mark at touch range on a single person, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1794,7 +1794,7 @@ This sigil reads thought-current as a circling band at touch range, focused on o
 ---
 
 **PaleBreath**
-This sigil reworks thought-current as a standing column at touch range, focused on one object.
+Reconfigures cognitive signal as a standing column at touch range on a chosen object, changing the target state in place.
 | Wattage | 524 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1810,7 +1810,7 @@ This sigil reworks thought-current as a standing column at touch range, focused 
 ---
 
 **BrightPath**
-This sigil reads thought-current as a narrow line within ten feet, focused on one object. It holds for about a minute.
+Reads cognitive signal as a narrow directional line within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 217 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1826,7 +1826,7 @@ This sigil reads thought-current as a narrow line within ten feet, focused on on
 ---
 
 **GuardDance**
-This sigil reworks thought-current as a widening fan within ten feet, centered on the written mark. It holds for about a minute.
+Reconfigures cognitive signal as a widening forward spread within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1842,7 +1842,7 @@ This sigil reworks thought-current as a widening fan within ten feet, centered o
 ---
 
 **DissolvGlyph**
-This sigil breaks the momentum of binding force as a circling band within fifty feet, focused on one object. It stays active while the caster keeps feeding it.
+Disrupts binding tension as a circular band around the mark within fifty feet on a chosen object, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1858,7 +1858,7 @@ This sigil breaks the momentum of binding force as a circling band within fifty 
 ---
 
 **TwistFlame**
-This sigil drives thought-current as a circling band within fifty feet, focused on one object. It holds for about a minute.
+Drives cognitive signal as a circular band around the mark within fifty feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1874,7 +1874,7 @@ This sigil drives thought-current as a circling band within fifty feet, focused 
 ---
 
 **QuietHalo**
-This sigil drives thought-current as a widening fan within fifty feet, centered on the written mark.
+Drives cognitive signal as a widening forward spread within fifty feet on the inscribed location, forcing displacement along the chosen direction of effect.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1890,7 +1890,7 @@ This sigil drives thought-current as a widening fan within fifty feet, centered 
 ---
 
 **QuietGate**
-This sigil sifts thought-current as a standing column at touch range, centered on the written mark. It holds for about a minute.
+Screens cognitive signal as a standing column at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1906,7 +1906,7 @@ This sigil sifts thought-current as a standing column at touch range, centered o
 ---
 
 **PierceBrand**
-This sigil unleashes charge as a widening fan within ten feet, spread over a surface. It remains until its trigger condition is met.
+Projects electrical charge as a widening forward spread within ten feet across a chosen surface, delivering its effect as an active release, and it remains in place until its trigger condition is met.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1922,7 +1922,7 @@ This sigil unleashes charge as a widening fan within ten feet, spread over a sur
 ---
 
 **BreakRing**
-This sigil reworks thought-current as a standing column within ten feet, spread over a surface.
+Reconfigures cognitive signal as a standing column within ten feet across a chosen surface, changing the target state in place.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1938,7 +1938,7 @@ This sigil reworks thought-current as a standing column within ten feet, spread 
 ---
 
 **WarmWeb**
-This sigil breaks the momentum of binding force across the inscribed face at touch range, focused on one person.
+Disrupts binding tension across the inscribed face at touch range on a single person, breaking continuity in an existing or incoming effect.
 | Wattage | 210 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1954,7 +1954,7 @@ This sigil breaks the momentum of binding force across the inscribed face at tou
 ---
 
 **WhirlingKey**
-This sigil unleashes thought-current across the inscribed face within ten feet, focused on one object.
+Projects cognitive signal across the inscribed face within ten feet on a chosen object, delivering its effect as an active release.
 | Wattage | 207 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1970,7 +1970,7 @@ This sigil unleashes thought-current across the inscribed face within ten feet, 
 ---
 
 **CalmRoad**
-This sigil unleashes thought-current as a circling band within fifty feet, spread over a surface. It remains until its trigger condition is met.
+Projects cognitive signal as a circular band around the mark within fifty feet across a chosen surface, delivering its effect as an active release, and it remains in place until its trigger condition is met.
 | Wattage | 255 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1986,7 +1986,7 @@ This sigil unleashes thought-current as a circling band within fifty feet, sprea
 ---
 
 **KindleDream**
-This sigil breaks the momentum of thought-current as a circling band at touch range, focused on one object.
+Disrupts cognitive signal as a circular band around the mark at touch range on a chosen object, breaking continuity in an existing or incoming effect.
 | Wattage | 519 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2002,7 +2002,7 @@ This sigil breaks the momentum of thought-current as a circling band at touch ra
 ---
 
 **WarmBond**
-This sigil breaks the momentum of thought-current as a narrow line within fifty feet, spread over a surface. It holds for about an hour.
+Disrupts cognitive signal as a narrow directional line within fifty feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2018,7 +2018,7 @@ This sigil breaks the momentum of thought-current as a narrow line within fifty 
 ---
 
 **MurkyRing**
-This sigil sifts binding force as a circling band within ten feet, focused on one person.
+Screens binding tension as a circular band around the mark within ten feet on a single person, blocking out unwanted components while allowing valid ones through.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2034,7 +2034,7 @@ This sigil sifts binding force as a circling band within ten feet, focused on on
 ---
 
 **HiddenWard**
-This sigil raises cover against reactive compounds as a widening fan within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against reactive compounds as a widening forward spread within fifty feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2050,7 +2050,7 @@ This sigil raises cover against reactive compounds as a widening fan within fift
 ---
 
 **FlowTouch**
-This sigil reads thought-current across the inscribed face within fifty feet, centered on the written mark.
+Reads cognitive signal across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2066,7 +2066,7 @@ This sigil reads thought-current across the inscribed face within fifty feet, ce
 ---
 
 **ReleasFlame**
-This sigil breaks the momentum of binding force as a circling band within ten feet, focused on one object.
+Disrupts binding tension as a circular band around the mark within ten feet on a chosen object, breaking continuity in an existing or incoming effect.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2082,7 +2082,7 @@ This sigil breaks the momentum of binding force as a circling band within ten fe
 ---
 
 **DarkVoid**
-This sigil breaks the momentum of thought-current as a standing column within ten feet, spread over a surface.
+Disrupts cognitive signal as a standing column within ten feet across a chosen surface, breaking continuity in an existing or incoming effect.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2098,7 +2098,7 @@ This sigil breaks the momentum of thought-current as a standing column within te
 ---
 
 **HiddenFlame**
-This sigil reworks binding force across the inscribed face within fifty feet, focused on one object. It remains until its trigger condition is met.
+Reconfigures binding tension across the inscribed face within fifty feet on a chosen object, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2114,7 +2114,7 @@ This sigil reworks binding force across the inscribed face within fifty feet, fo
 ---
 
 **WildCrown**
-This sigil sifts thought-current as a narrow line at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Screens cognitive signal as a narrow directional line at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2130,7 +2130,7 @@ This sigil sifts thought-current as a narrow line at touch range, spread over a 
 ---
 
 **WarmRing**
-This sigil reads charge as a standing column within fifty feet, centered on the written mark. It remains until its trigger condition is met.
+Reads electrical charge as a standing column within fifty feet on the inscribed location, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2146,7 +2146,7 @@ This sigil reads charge as a standing column within fifty feet, centered on the 
 ---
 
 **DissolvSigil**
-This sigil reads thought-current as a circling band within fifty feet, focused on one person.
+Reads cognitive signal as a circular band around the mark within fifty feet on a single person, returning readable signal data to the caster.
 | Wattage | 538 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2162,7 +2162,7 @@ This sigil reads thought-current as a circling band within fifty feet, focused o
 ---
 
 **SteadyMirror**
-This sigil locks down reactive compounds as a widening fan at touch range, focused on one person. It remains until its trigger condition is met.
+Pins reactive compounds as a widening forward spread at touch range on a single person, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2178,7 +2178,7 @@ This sigil locks down reactive compounds as a widening fan at touch range, focus
 ---
 
 **DullNet**
-This sigil unleashes charge as a narrow line within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
+Projects electrical charge as a narrow directional line within fifty feet on a single person, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2194,7 +2194,7 @@ This sigil unleashes charge as a narrow line within fifty feet, focused on one p
 ---
 
 **FreezBoon**
-This sigil reworks reactive compounds as a circling band within fifty feet, focused on one person.
+Reconfigures reactive compounds as a circular band around the mark within fifty feet on a single person, changing the target state in place.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2210,7 +2210,7 @@ This sigil reworks reactive compounds as a circling band within fifty feet, focu
 ---
 
 **VastSoul**
-This sigil reads charge as a standing column at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Reads electrical charge as a standing column at touch range on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2226,7 +2226,7 @@ This sigil reads charge as a standing column at touch range, centered on the wri
 ---
 
 **BurVoice**
-This sigil reworks binding force as a circling band within fifty feet, spread over a surface. It holds for about an hour.
+Reconfigures binding tension as a circular band around the mark within fifty feet across a chosen surface, changing the target state in place, and the working holds for about one hour.
 | Wattage | 260 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2242,7 +2242,7 @@ This sigil reworks binding force as a circling band within fifty feet, spread ov
 ---
 
 **ChillRoad**
-This sigil sifts thought-current across the inscribed face within fifty feet, focused on one person.
+Screens cognitive signal across the inscribed face within fifty feet on a single person, blocking out unwanted components while allowing valid ones through.
 | Wattage | 523 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2258,7 +2258,7 @@ This sigil sifts thought-current across the inscribed face within fifty feet, fo
 ---
 
 **BrightDoor**
-This sigil raises cover against charge as a standing column within ten feet, focused on one person. It stays active while the caster keeps feeding it.
+Raises a boundary against electrical charge as a standing column within ten feet on a single person, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2274,7 +2274,7 @@ This sigil raises cover against charge as a standing column within ten feet, foc
 ---
 
 **HiddenHand**
-This sigil sifts reactive compounds as a standing column at touch range, focused on one person. It holds for about an hour.
+Screens reactive compounds as a standing column at touch range on a single person, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2290,7 +2290,7 @@ This sigil sifts reactive compounds as a standing column at touch range, focused
 ---
 
 **VastBoon**
-This sigil reworks thought-current as a narrow line at touch range, spread over a surface. It remains until its trigger condition is met.
+Reconfigures cognitive signal as a narrow directional line at touch range across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2306,7 +2306,7 @@ This sigil reworks thought-current as a narrow line at touch range, spread over 
 ---
 
 **PiercAura**
-This sigil sifts thought-current across the inscribed face within ten feet, centered on the written mark. It holds for about a minute.
+Screens cognitive signal across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 510 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2322,7 +2322,7 @@ This sigil sifts thought-current across the inscribed face within ten feet, cent
 ---
 
 **GuardPulse**
-This sigil locks down binding force as a circling band within ten feet, focused on one object. It holds for about an hour.
+Pins binding tension as a circular band around the mark within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 247 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2338,7 +2338,7 @@ This sigil locks down binding force as a circling band within ten feet, focused 
 ---
 
 **SlowCrown**
-This sigil breaks the momentum of thought-current across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
+Disrupts cognitive signal across the inscribed face within ten feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2354,7 +2354,7 @@ This sigil breaks the momentum of thought-current across the inscribed face with
 ---
 
 **AnchorMark**
-This sigil unleashes thought-current as a narrow line within fifty feet, spread over a surface.
+Projects cognitive signal as a narrow directional line within fifty feet across a chosen surface, delivering its effect as an active release.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2370,7 +2370,7 @@ This sigil unleashes thought-current as a narrow line within fifty feet, spread 
 ---
 
 **ReleaseDream**
-This sigil sifts binding force as a circling band at touch range, focused on one object.
+Screens binding tension as a circular band around the mark at touch range on a chosen object, blocking out unwanted components while allowing valid ones through.
 | Wattage | 219 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2386,7 +2386,7 @@ This sigil sifts binding force as a circling band at touch range, focused on one
 ---
 
 **BindChain**
-This sigil reads binding force as a circling band within ten feet, focused on one person. It holds for about an hour.
+Reads binding tension as a circular band around the mark within ten feet on a single person, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2402,7 +2402,7 @@ This sigil reads binding force as a circling band within ten feet, focused on on
 ---
 
 **FreezeFlame**
-This sigil locks down binding force as a circling band within ten feet, focused on one person. It holds for about an hour.
+Pins binding tension as a circular band around the mark within ten feet on a single person, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 253 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2418,7 +2418,7 @@ This sigil locks down binding force as a circling band within ten feet, focused 
 ---
 
 **FlowThread**
-This sigil breaks the momentum of binding force as a standing column within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Disrupts binding tension as a standing column within ten feet on the inscribed location, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2434,7 +2434,7 @@ This sigil breaks the momentum of binding force as a standing column within ten 
 ---
 
 **CalmWisp**
-This sigil locks down reactive compounds as a standing column at touch range, focused on one person. It stays active while the caster keeps feeding it.
+Pins reactive compounds as a standing column at touch range on a single person, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2450,7 +2450,7 @@ This sigil locks down reactive compounds as a standing column at touch range, fo
 ---
 
 **AnchorScar**
-This sigil breaks the momentum of reactive compounds as a narrow line at touch range, focused on one object. It holds for about an hour.
+Disrupts reactive compounds as a narrow directional line at touch range on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 134 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2466,7 +2466,7 @@ This sigil breaks the momentum of reactive compounds as a narrow line at touch r
 ---
 
 **SlowKnot**
-This sigil raises cover against thought-current as a narrow line at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Raises a boundary against cognitive signal as a narrow directional line at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2482,7 +2482,7 @@ This sigil raises cover against thought-current as a narrow line at touch range,
 ---
 
 **ReleasMirror**
-This sigil reads charge as a circling band within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Reads electrical charge as a circular band around the mark within ten feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2498,7 +2498,7 @@ This sigil reads charge as a circling band within ten feet, spread over a surfac
 ---
 
 **KindleCurse**
-This sigil unleashes thought-current as a circling band within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects cognitive signal as a circular band around the mark within fifty feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 240 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2514,7 +2514,7 @@ This sigil unleashes thought-current as a circling band within fifty feet, cente
 ---
 
 **DissolvHeart**
-This sigil locks down thought-current across the inscribed face within fifty feet, spread over a surface. It holds for about an hour.
+Pins cognitive signal across the inscribed face within fifty feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2530,7 +2530,7 @@ This sigil locks down thought-current across the inscribed face within fifty fee
 ---
 
 **StillVoice**
-This sigil unleashes binding force across the inscribed face at touch range, focused on one person. It holds for about an hour.
+Projects binding tension across the inscribed face at touch range on a single person, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2546,7 +2546,7 @@ This sigil unleashes binding force across the inscribed face at touch range, foc
 ---
 
 **DriftShadow**
-This sigil sifts thought-current as a widening fan within ten feet, centered on the written mark. It remains until its trigger condition is met.
+Screens cognitive signal as a widening forward spread within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
 | Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2562,7 +2562,7 @@ This sigil sifts thought-current as a widening fan within ten feet, centered on 
 ---
 
 **SweepRune**
-This sigil drives thought-current as a narrow line within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Drives cognitive signal as a narrow directional line within fifty feet on the inscribed location, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Move |
@@ -2578,7 +2578,7 @@ This sigil drives thought-current as a narrow line within fifty feet, centered o
 ---
 
 **WeavBridge**
-This sigil locks down thought-current across the inscribed face within ten feet, spread over a surface. It remains until its trigger condition is met.
+Pins cognitive signal across the inscribed face within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2594,7 +2594,7 @@ This sigil locks down thought-current across the inscribed face within ten feet,
 ---
 
 **ChillBond**
-This sigil locks down charge as a circling band at touch range, spread over a surface. It remains until its trigger condition is met.
+Pins electrical charge as a circular band around the mark at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2610,7 +2610,7 @@ This sigil locks down charge as a circling band at touch range, spread over a su
 ---
 
 **TransformShadow**
-This sigil reworks reactive compounds as a circling band within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Reconfigures reactive compounds as a circular band around the mark within ten feet across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2626,7 +2626,7 @@ This sigil reworks reactive compounds as a circling band within ten feet, spread
 ---
 
 **BindTide**
-This sigil unleashes thought-current across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Projects cognitive signal across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 514 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2642,7 +2642,7 @@ This sigil unleashes thought-current across the inscribed face at touch range, f
 ---
 
 **QuietVoid**
-This sigil unleashes thought-current across the inscribed face within ten feet, focused on one person. It holds for about a minute.
+Projects cognitive signal across the inscribed face within ten feet on a single person, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 518 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2658,7 +2658,7 @@ This sigil unleashes thought-current across the inscribed face within ten feet, 
 ---
 
 **FreezeThought**
-This sigil reads thought-current across the inscribed face within ten feet, centered on the written mark.
+Reads cognitive signal across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster.
 | Wattage | 205 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2674,7 +2674,7 @@ This sigil reads thought-current across the inscribed face within ten feet, cent
 ---
 
 **ReleaseLight**
-This sigil sifts binding force as a widening fan within ten feet, centered on the written mark. It holds for about an hour.
+Screens binding tension as a widening forward spread within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2690,7 +2690,7 @@ This sigil sifts binding force as a widening fan within ten feet, centered on th
 ---
 
 **TransformVeil**
-This sigil reworks binding force as a widening fan within ten feet, focused on one person. It holds for about a minute.
+Reconfigures binding tension as a widening forward spread within ten feet on a single person, changing the target state in place, and the working holds for about one minute.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2706,7 +2706,7 @@ This sigil reworks binding force as a widening fan within ten feet, focused on o
 ---
 
 **HollowCurse**
-This sigil sifts binding force as a circling band within fifty feet, centered on the written mark. It holds for about an hour.
+Screens binding tension as a circular band around the mark within fifty feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 135 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2722,7 +2722,7 @@ This sigil sifts binding force as a circling band within fifty feet, centered on
 ---
 
 **TransformSeal**
-This sigil unleashes thought-current as a standing column within ten feet, focused on one object. It holds for about a minute.
+Projects cognitive signal as a standing column within ten feet on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2738,7 +2738,7 @@ This sigil unleashes thought-current as a standing column within ten feet, focus
 ---
 
 **FreezeTide**
-This sigil drives binding force as a standing column within ten feet, focused on one object.
+Drives binding tension as a standing column within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -2754,7 +2754,7 @@ This sigil drives binding force as a standing column within ten feet, focused on
 ---
 
 **LoneTouch**
-This sigil raises cover against binding force as a narrow line within ten feet, focused on one object.
+Raises a boundary against binding tension as a narrow directional line within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2770,7 +2770,7 @@ This sigil raises cover against binding force as a narrow line within ten feet, 
 ---
 
 **RisDoor**
-This sigil sifts thought-current as a narrow line within ten feet, centered on the written mark. It holds for about a minute.
+Screens cognitive signal as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2786,7 +2786,7 @@ This sigil sifts thought-current as a narrow line within ten feet, centered on t
 ---
 
 **DeepHeart**
-This sigil sifts binding force across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Screens binding tension across the inscribed face at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2802,7 +2802,7 @@ This sigil sifts binding force across the inscribed face at touch range, focused
 ---
 
 **RiseVeil**
-This sigil sifts thought-current as a narrow line within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Screens cognitive signal as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2818,7 +2818,7 @@ This sigil sifts thought-current as a narrow line within ten feet, centered on t
 ---
 
 **PiercCrown**
-This sigil sifts binding force as a widening fan at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Screens binding tension as a widening forward spread at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2834,7 +2834,7 @@ This sigil sifts binding force as a widening fan at touch range, spread over a s
 ---
 
 **DriftingEye**
-This sigil raises cover against reactive compounds as a standing column at touch range, centered on the written mark. It remains until its trigger condition is met.
+Raises a boundary against reactive compounds as a standing column at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2850,7 +2850,7 @@ This sigil raises cover against reactive compounds as a standing column at touch
 ---
 
 **CapturCrown**
-This sigil reworks thought-current as a circling band at touch range, centered on the written mark. It holds for about an hour.
+Reconfigures cognitive signal as a circular band around the mark at touch range on the inscribed location, changing the target state in place, and the working holds for about one hour.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2866,7 +2866,7 @@ This sigil reworks thought-current as a circling band at touch range, centered o
 ---
 
 **RisePulse**
-This sigil breaks the momentum of thought-current as a circling band within fifty feet, focused on one person.
+Disrupts cognitive signal as a circular band around the mark within fifty feet on a single person, breaking continuity in an existing or incoming effect.
 | Wattage | 238 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2882,7 +2882,7 @@ This sigil breaks the momentum of thought-current as a circling band within fift
 ---
 
 **PureMirror**
-This sigil locks down reactive compounds as a widening fan within fifty feet, focused on one object. It holds for about an hour.
+Pins reactive compounds as a widening forward spread within fifty feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2898,7 +2898,7 @@ This sigil locks down reactive compounds as a widening fan within fifty feet, fo
 ---
 
 **CalmTide**
-This sigil unleashes binding force across the inscribed face within fifty feet, centered on the written mark.
+Projects binding tension across the inscribed face within fifty feet on the inscribed location, delivering its effect as an active release.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2914,7 +2914,7 @@ This sigil unleashes binding force across the inscribed face within fifty feet, 
 ---
 
 **TwinSigil**
-This sigil reads binding force as a standing column within ten feet, focused on one person. It holds for about an hour.
+Reads binding tension as a standing column within ten feet on a single person, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 138 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2930,7 +2930,7 @@ This sigil reads binding force as a standing column within ten feet, focused on 
 ---
 
 **SlowStorm**
-This sigil sifts charge as a standing column within fifty feet, centered on the written mark. It holds for about an hour.
+Screens electrical charge as a standing column within fifty feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 160 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2946,7 +2946,7 @@ This sigil sifts charge as a standing column within fifty feet, centered on the 
 ---
 
 **AncientShroud**
-This sigil reworks binding force as a standing column at touch range, focused on one person. It remains until its trigger condition is met.
+Reconfigures binding tension as a standing column at touch range on a single person, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 250 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2962,7 +2962,7 @@ This sigil reworks binding force as a standing column at touch range, focused on
 ---
 
 **KindlGate**
-This sigil sifts thought-current as a narrow line within ten feet, spread over a surface. It holds for about an hour.
+Screens cognitive signal as a narrow directional line within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2978,7 +2978,7 @@ This sigil sifts thought-current as a narrow line within ten feet, spread over a
 ---
 
 **ShatterWall**
-This sigil raises cover against reactive compounds as a widening fan within ten feet, focused on one person. It holds for about an hour.
+Raises a boundary against reactive compounds as a widening forward spread within ten feet on a single person, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 148 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2994,7 +2994,7 @@ This sigil raises cover against reactive compounds as a widening fan within ten 
 ---
 
 **GrandVoice**
-This sigil locks down thought-current as a widening fan at touch range, focused on one object.
+Pins cognitive signal as a widening forward spread at touch range on a chosen object, creating a clamp-like hold that resists motion or change.
 | Wattage | 214 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3010,7 +3010,7 @@ This sigil locks down thought-current as a widening fan at touch range, focused 
 ---
 
 **SurgeBrand**
-This sigil raises cover against binding force as a widening fan within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Raises a boundary against binding tension as a widening forward spread within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -3026,7 +3026,7 @@ This sigil raises cover against binding force as a widening fan within ten feet,
 ---
 
 **LightBond**
-This sigil breaks the momentum of reactive compounds as a circling band within fifty feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Disrupts reactive compounds as a circular band around the mark within fifty feet on the inscribed location, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -3042,7 +3042,7 @@ This sigil breaks the momentum of reactive compounds as a circling band within f
 ---
 
 **PureFrost**
-This sigil locks down thought-current as a narrow line within ten feet, centered on the written mark. It remains until its trigger condition is met.
+Pins cognitive signal as a narrow directional line within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3058,7 +3058,7 @@ This sigil locks down thought-current as a narrow line within ten feet, centered
 ---
 
 **SweepStorm**
-This sigil locks down thought-current as a circling band within ten feet, centered on the written mark. It holds for about a minute.
+Pins cognitive signal as a circular band around the mark within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3074,7 +3074,7 @@ This sigil locks down thought-current as a circling band within ten feet, center
 ---
 
 **WeavAura**
-This sigil reworks charge as a circling band at touch range, focused on one person. It remains until its trigger condition is met.
+Reconfigures electrical charge as a circular band around the mark at touch range on a single person, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -3090,7 +3090,7 @@ This sigil reworks charge as a circling band at touch range, focused on one pers
 ---
 
 **BindWisp**
-This sigil reads thought-current as a widening fan at touch range, centered on the written mark. It remains until its trigger condition is met.
+Reads cognitive signal as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -3106,7 +3106,7 @@ This sigil reads thought-current as a widening fan at touch range, centered on t
 ---
 
 **CalmBrand**
-This sigil reads reactive compounds as a widening fan within fifty feet, spread over a surface. It holds for about a minute.
+Reads reactive compounds as a widening forward spread within fifty feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -3122,7 +3122,7 @@ This sigil reads reactive compounds as a widening fan within fifty feet, spread 
 ---
 
 **BindWay**
-This sigil sifts binding force as a standing column at touch range, focused on one object. It remains until its trigger condition is met.
+Screens binding tension as a standing column at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
 | Wattage | 244 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -3138,7 +3138,7 @@ This sigil sifts binding force as a standing column at touch range, focused on o
 ---
 
 **StraightBoon**
-This sigil locks down reactive compounds as a circling band within fifty feet, focused on one person. It remains until its trigger condition is met.
+Pins reactive compounds as a circular band around the mark within fifty feet on a single person, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
 | Wattage | 158 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -3154,7 +3154,7 @@ This sigil locks down reactive compounds as a circling band within fifty feet, f
 ---
 
 **BreakShell**
-This sigil raises cover against binding force across the inscribed face at touch range, focused on one object. It holds for about an hour.
+Raises a boundary against binding tension across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 229 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -3170,7 +3170,7 @@ This sigil raises cover against binding force across the inscribed face at touch
 ---
 
 **CalmTouch**
-This sigil breaks the momentum of binding force as a widening fan within fifty feet, focused on one object.
+Disrupts binding tension as a widening forward spread within fifty feet on a chosen object, breaking continuity in an existing or incoming effect.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -3186,7 +3186,7 @@ This sigil breaks the momentum of binding force as a widening fan within fifty f
 ---
 
 **SurCurse**
-This sigil unleashes binding force across the inscribed face within ten feet, spread over a surface. It holds for about a minute.
+Projects binding tension across the inscribed face within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |

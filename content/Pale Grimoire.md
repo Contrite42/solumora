@@ -2,7 +2,7 @@ Pale spells require [[Control Tier]] T9 and represent effects that brush against
 
 _Return to [[All Grimoire]]_
 **SweepBreath**
-This sigil locks down soul-current as a wrapped radius wherever the caster can see, focused on one person. Once set, it remains as a permanent working.
+Pins soul-signature flux as a wrapped radius around the mark anywhere in line of sight on a single person, creating a clamp-like hold that resists motion or change, and once stabilized it remains as a permanent working.
 | Wattage | 498339 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -18,7 +18,7 @@ This sigil locks down soul-current as a wrapped radius wherever the caster can s
 ---
 
 **FierceAura**
-This sigil unleashes soul-current across a held field wherever the caster can see, applied to the chosen filter set. Once set, it remains as a permanent working.
+Projects soul-signature flux as a held field over the area anywhere in line of sight across only targets that match the filter, delivering its effect as an active release, and once stabilized it remains as a permanent working.
 | Wattage | 203008 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -34,7 +34,7 @@ This sigil unleashes soul-current across a held field wherever the caster can se
 ---
 
 **SwiftDoor**
-This sigil reads soul-current across a held field wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
+Reads soul-signature flux as a held field over the area anywhere in line of sight on a single person, returning readable signal data to the caster, and it stays latched until deliberately dismissed.
 | Wattage | 216179 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -50,7 +50,7 @@ This sigil reads soul-current across a held field wherever the caster can see, f
 ---
 
 **KindlFlame**
-This sigil drives soul-current as a wrapped radius wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
+Drives soul-signature flux as a wrapped radius around the mark anywhere in line of sight on a single person, forcing displacement along the chosen direction of effect, and it stays latched until deliberately dismissed.
 | Wattage | 244940 W |
 | Shape | Circle |
 | Hook | Move |
@@ -66,7 +66,7 @@ This sigil drives soul-current as a wrapped radius wherever the caster can see, 
 ---
 
 **GuardShroud**
-This sigil sifts soul-current across a held field wherever the caster can see, focused on one person. Once set, it remains as a permanent working.
+Screens soul-signature flux as a held field over the area anywhere in line of sight on a single person, blocking out unwanted components while allowing valid ones through, and once stabilized it remains as a permanent working.
 | Wattage | 226953 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -82,7 +82,7 @@ This sigil sifts soul-current across a held field wherever the caster can see, f
 ---
 
 **TwinBridge**
-This sigil raises cover against soul-current across a held field through a linked anchor, spread across a group. It stays latched until someone dismisses it.
+Raises a boundary against soul-signature flux as a held field over the area through a linked anchor across a grouped set of targets, forming a defensive layer that rejects incoming influence, and it stays latched until deliberately dismissed.
 | Wattage | 382824 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -98,7 +98,7 @@ This sigil raises cover against soul-current across a held field through a linke
 ---
 
 **FallWeb**
-This sigil reads soul-current as a wrapped radius through a linked anchor, focused on one person. Once set, it remains as a permanent working.
+Reads soul-signature flux as a wrapped radius around the mark through a linked anchor on a single person, returning readable signal data to the caster, and once stabilized it remains as a permanent working.
 | Wattage | 445675 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -114,7 +114,7 @@ This sigil reads soul-current as a wrapped radius through a linked anchor, focus
 ---
 
 **BurningGlyph**
-This sigil reads soul-current across a held field wherever the caster can see, spread across a group. Once set, it remains as a permanent working.
+Reads soul-signature flux as a held field over the area anywhere in line of sight across a grouped set of targets, returning readable signal data to the caster, and once stabilized it remains as a permanent working.
 | Wattage | 481260 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -130,7 +130,7 @@ This sigil reads soul-current across a held field wherever the caster can see, s
 ---
 
 **SlowSilence**
-This sigil drives soul-current across a held field wherever the caster can see, spread across a group. Once set, it remains as a permanent working.
+Drives soul-signature flux as a held field over the area anywhere in line of sight across a grouped set of targets, forcing displacement along the chosen direction of effect, and once stabilized it remains as a permanent working.
 | Wattage | 457377 W |
 | Shape | Circle |
 | Hook | Move |
@@ -146,7 +146,7 @@ This sigil drives soul-current across a held field wherever the caster can see, 
 ---
 
 **StillGate**
-This sigil drives soul-current as a wrapped radius wherever the caster can see, applied to the chosen filter set. It stays latched until someone dismisses it.
+Drives soul-signature flux as a wrapped radius around the mark anywhere in line of sight across only targets that match the filter, forcing displacement along the chosen direction of effect, and it stays latched until deliberately dismissed.
 | Wattage | 367727 W |
 | Shape | Circle |
 | Hook | Move |
@@ -162,7 +162,7 @@ This sigil drives soul-current as a wrapped radius wherever the caster can see, 
 ---
 
 **DissolveScar**
-This sigil raises cover against soul-current across a held field through a linked anchor, focused on one person. Once set, it remains as a permanent working.
+Raises a boundary against soul-signature flux as a held field over the area through a linked anchor on a single person, forming a defensive layer that rejects incoming influence, and once stabilized it remains as a permanent working.
 | Wattage | 283512 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -178,7 +178,7 @@ This sigil raises cover against soul-current across a held field through a linke
 ---
 
 **CalmBond**
-This sigil reworks soul-current as a wrapped radius wherever the caster can see, spread across a group. Once set, it remains as a permanent working.
+Reconfigures soul-signature flux as a wrapped radius around the mark anywhere in line of sight across a grouped set of targets, changing the target state in place, and once stabilized it remains as a permanent working.
 | Wattage | 206135 W |
 | Shape | Circle |
 | Hook | Transform |

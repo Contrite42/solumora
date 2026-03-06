@@ -3,7 +3,7 @@ Common spells require [[Control Tier]] T1–T2 and represent the backbone of eve
 _Return to [[All Grimoire]]_
 
 **PierceLock**
-This sigil locks down kinetic pressure across the inscribed face at touch range, spread over a surface.
+Pins kinetic force across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -19,7 +19,7 @@ This sigil locks down kinetic pressure across the inscribed face at touch range,
 ---
 
 **ReleaseShadow**
-This sigil unleashes raw flux as a widening fan within ten feet, focused on one object. It holds for about a minute.
+Projects raw flux as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Emit |
@@ -35,7 +35,7 @@ This sigil unleashes raw flux as a widening fan within ten feet, focused on one 
 ---
 
 **SolidCage**
-This sigil sifts kinetic pressure at a single mark at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Screens kinetic force at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -51,7 +51,7 @@ This sigil sifts kinetic pressure at a single mark at touch range, focused on on
 ---
 
 **DriftTide**
-This sigil unleashes light at a single mark within ten feet, spread over a surface. It holds for about an hour.
+Projects photonic flux at a single marked point within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 44 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -67,7 +67,7 @@ This sigil unleashes light at a single mark within ten feet, spread over a surfa
 ---
 
 **SweepBond**
-This sigil drives reactive compounds as a widening fan at touch range, focused on one object.
+Drives reactive compounds as a widening forward spread at touch range on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 29 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -83,7 +83,7 @@ This sigil drives reactive compounds as a widening fan at touch range, focused o
 ---
 
 **DarkVeil**
-This sigil drives reactive compounds as a widening fan from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Drives reactive compounds as a widening forward spread at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -99,7 +99,7 @@ This sigil drives reactive compounds as a widening fan from the sigil itself, fo
 ---
 
 **SweepStrike**
-This sigil raises cover against kinetic pressure across the inscribed face within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against kinetic force across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -115,7 +115,7 @@ This sigil raises cover against kinetic pressure across the inscribed face withi
 ---
 
 **WeaveLight**
-This sigil locks down heat across the inscribed face within ten feet, focused on one object. It holds for about an hour.
+Pins thermal flow across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 48 W |
 | Shape | Square |
 | Hook | Bind |
@@ -131,7 +131,7 @@ This sigil locks down heat across the inscribed face within ten feet, focused on
 ---
 
 **FreezAura**
-This sigil sifts kinetic pressure at a single mark at touch range, focused on one object. It holds for about an hour.
+Screens kinetic force at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Filter |
@@ -147,7 +147,7 @@ This sigil sifts kinetic pressure at a single mark at touch range, focused on on
 ---
 
 **FreezWard**
-This sigil drives binding force across the inscribed face within ten feet, spread over a surface.
+Drives binding tension across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Move |
@@ -163,7 +163,7 @@ This sigil drives binding force across the inscribed face within ten feet, sprea
 ---
 
 **LoudWeb**
-This sigil reworks kinetic pressure across the inscribed face at touch range, spread over a surface.
+Reconfigures kinetic force across the inscribed face at touch range across a chosen surface, changing the target state in place.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -179,7 +179,7 @@ This sigil reworks kinetic pressure across the inscribed face at touch range, sp
 ---
 
 **BurBoon**
-This sigil locks down kinetic pressure at a single mark from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Pins kinetic force at a single marked point at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -195,7 +195,7 @@ This sigil locks down kinetic pressure at a single mark from the sigil itself, s
 ---
 
 **BindSong**
-This sigil sifts raw flux as a widening fan within ten feet, focused on one object.
+Screens raw flux as a widening forward spread within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Filter |
@@ -211,7 +211,7 @@ This sigil sifts raw flux as a widening fan within ten feet, focused on one obje
 ---
 
 **LightHand**
-This sigil unleashes light across the inscribed face from the sigil itself, spread over a surface. It holds for about an hour.
+Projects photonic flux across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -227,7 +227,7 @@ This sigil unleashes light across the inscribed face from the sigil itself, spre
 ---
 
 **TwistMark**
-This sigil raises cover against heat at a single mark at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Raises a boundary against thermal flow at a single marked point at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -243,7 +243,7 @@ This sigil raises cover against heat at a single mark at touch range, spread ove
 ---
 
 **HeavyCurse**
-This sigil reads binding force across the inscribed face within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Reads binding tension across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -259,7 +259,7 @@ This sigil reads binding force across the inscribed face within ten feet, center
 ---
 
 **DriftScar**
-This sigil drives light at a single mark at touch range, spread over a surface. It holds for about an hour.
+Drives photonic flux at a single marked point at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 56 W |
 | Shape | Square |
 | Hook | Move |
@@ -275,7 +275,7 @@ This sigil drives light at a single mark at touch range, spread over a surface. 
 ---
 
 **BindLight**
-This sigil raises cover against charge across the inscribed face within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Raises a boundary against electrical charge across the inscribed face within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 60 W |
 | Shape | Square |
 | Hook | Ward |
@@ -291,7 +291,7 @@ This sigil raises cover against charge across the inscribed face within ten feet
 ---
 
 **PierceBreath**
-This sigil locks down light across the inscribed face from the sigil itself, focused on one object. It holds for about an hour.
+Pins photonic flux across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Bind |
@@ -307,7 +307,7 @@ This sigil locks down light across the inscribed face from the sigil itself, foc
 ---
 
 **BurShell**
-This sigil raises cover against raw flux across the inscribed face within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Raises a boundary against raw flux across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -323,7 +323,7 @@ This sigil raises cover against raw flux across the inscribed face within ten fe
 ---
 
 **HollowRing**
-This sigil reworks reactive compounds across the inscribed face within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Reconfigures reactive compounds across the inscribed face within ten feet on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -339,7 +339,7 @@ This sigil reworks reactive compounds across the inscribed face within ten feet,
 ---
 
 **ReleasMirror**
-This sigil reads charge at a single mark within ten feet, spread over a surface. It holds for about a minute.
+Reads electrical charge at a single marked point within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Sense |
@@ -355,7 +355,7 @@ This sigil reads charge at a single mark within ten feet, spread over a surface.
 ---
 
 **TransformFlame**
-This sigil sifts binding force across the inscribed face within ten feet, centered on the written mark.
+Screens binding tension across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -371,7 +371,7 @@ This sigil sifts binding force across the inscribed face within ten feet, center
 ---
 
 **FreezCurse**
-This sigil sifts light across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Screens photonic flux across the inscribed face at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Filter |
@@ -387,7 +387,7 @@ This sigil sifts light across the inscribed face at touch range, focused on one 
 ---
 
 **PierceDream**
-This sigil reads raw flux across the inscribed face within ten feet, focused on one object.
+Reads raw flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Sense |
@@ -403,7 +403,7 @@ This sigil reads raw flux across the inscribed face within ten feet, focused on 
 ---
 
 **PureWeb**
-This sigil locks down binding force across the inscribed face from the sigil itself, spread over a surface. It holds for about an hour.
+Pins binding tension across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 60 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -419,7 +419,7 @@ This sigil locks down binding force across the inscribed face from the sigil its
 ---
 
 **SweepHalo**
-This sigil unleashes reactive compounds as a widening fan from the sigil itself, focused on one object. It holds for about a minute.
+Projects reactive compounds as a widening forward spread at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Emit |
@@ -435,7 +435,7 @@ This sigil unleashes reactive compounds as a widening fan from the sigil itself,
 ---
 
 **TameVoice**
-This sigil locks down charge across the inscribed face from the sigil itself, spread over a surface. It holds for about an hour.
+Pins electrical charge across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 70 W |
 | Shape | Square |
 | Hook | Bind |
@@ -451,7 +451,7 @@ This sigil locks down charge across the inscribed face from the sigil itself, sp
 ---
 
 **FreshMark**
-This sigil sifts light across the inscribed face within ten feet, focused on one object.
+Screens photonic flux across the inscribed face within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Filter |
@@ -467,7 +467,7 @@ This sigil sifts light across the inscribed face within ten feet, focused on one
 ---
 
 **BrightCalm**
-This sigil drives heat across the inscribed face within ten feet, focused on one object.
+Drives thermal flow across the inscribed face within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -483,7 +483,7 @@ This sigil drives heat across the inscribed face within ten feet, focused on one
 ---
 
 **RiseTouch**
-This sigil reworks charge across the inscribed face within ten feet, focused on one object. It holds for about an hour.
+Reconfigures electrical charge across the inscribed face within ten feet on a chosen object, changing the target state in place, and the working holds for about one hour.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -499,7 +499,7 @@ This sigil reworks charge across the inscribed face within ten feet, focused on 
 ---
 
 **BurWeb**
-This sigil locks down binding force across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins binding tension across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Bind |
@@ -515,7 +515,7 @@ This sigil locks down binding force across the inscribed face at touch range, ce
 ---
 
 **FallAura**
-This sigil reads kinetic pressure at a single mark at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Reads kinetic force at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -531,7 +531,7 @@ This sigil reads kinetic pressure at a single mark at touch range, focused on on
 ---
 
 **AnchoredPath**
-This sigil raises cover against charge across the inscribed face from the sigil itself, centered on the written mark. It holds for about a minute.
+Raises a boundary against electrical charge across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -547,7 +547,7 @@ This sigil raises cover against charge across the inscribed face from the sigil 
 ---
 
 **CalmBridge**
-This sigil raises cover against charge across the inscribed face within ten feet, focused on one object.
+Raises a boundary against electrical charge across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Ward |
@@ -563,7 +563,7 @@ This sigil raises cover against charge across the inscribed face within ten feet
 ---
 
 **DriftBoon**
-This sigil locks down reactive compounds across the inscribed face at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Pins reactive compounds across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -579,7 +579,7 @@ This sigil locks down reactive compounds across the inscribed face at touch rang
 ---
 
 **CalmBoon**
-This sigil drives binding force at a single mark within ten feet, focused on one object. It holds for about an hour.
+Drives binding tension at a single marked point within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 62 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -595,7 +595,7 @@ This sigil drives binding force at a single mark within ten feet, focused on one
 ---
 
 **FlowSilence**
-This sigil reads heat across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Reads thermal flow across the inscribed face at touch range on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -611,7 +611,7 @@ This sigil reads heat across the inscribed face at touch range, centered on the 
 ---
 
 **ChillBond**
-This sigil locks down raw flux at a single mark at touch range, focused on one object. It holds for about an hour.
+Pins raw flux at a single marked point at touch range on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 37 W |
 | Shape | Square |
 | Hook | Bind |
@@ -627,7 +627,7 @@ This sigil locks down raw flux at a single mark at touch range, focused on one o
 ---
 
 **RisRune**
-This sigil drives raw flux across the inscribed face at touch range, focused on one object. It holds for about an hour.
+Drives raw flux across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -643,7 +643,7 @@ This sigil drives raw flux across the inscribed face at touch range, focused on 
 ---
 
 **CalmBond**
-This sigil unleashes light across the inscribed face from the sigil itself, spread over a surface. It holds for about a minute.
+Projects photonic flux across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 34 W |
 | Shape | Square |
 | Hook | Emit |
@@ -659,7 +659,7 @@ This sigil unleashes light across the inscribed face from the sigil itself, spre
 ---
 
 **DriftFlame**
-This sigil sifts binding force across the inscribed face from the sigil itself, centered on the written mark. It holds for about an hour.
+Screens binding tension across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 55 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -675,7 +675,7 @@ This sigil sifts binding force across the inscribed face from the sigil itself, 
 ---
 
 **GrandCore**
-This sigil unleashes raw flux across the inscribed face from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Projects raw flux across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -691,7 +691,7 @@ This sigil unleashes raw flux across the inscribed face from the sigil itself, s
 ---
 
 **ReleasChain**
-This sigil sifts heat across the inscribed face from the sigil itself, centered on the written mark.
+Screens thermal flow across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Filter |
@@ -707,7 +707,7 @@ This sigil sifts heat across the inscribed face from the sigil itself, centered 
 ---
 
 **ChillBreath**
-This sigil raises cover against kinetic pressure across the inscribed face within ten feet, focused on one object. It holds for about an hour.
+Raises a boundary against kinetic force across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -723,7 +723,7 @@ This sigil raises cover against kinetic pressure across the inscribed face withi
 ---
 
 **ShatterShell**
-This sigil sifts reactive compounds across the inscribed face at touch range, spread over a surface. It holds for about a minute.
+Screens reactive compounds across the inscribed face at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -739,7 +739,7 @@ This sigil sifts reactive compounds across the inscribed face at touch range, sp
 ---
 
 **ReleaseFlame**
-This sigil raises cover against binding force at a single mark within ten feet, spread over a surface. It holds for about an hour.
+Raises a boundary against binding tension at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 115 W |
 | Shape | Square |
 | Hook | Ward |
@@ -755,7 +755,7 @@ This sigil raises cover against binding force at a single mark within ten feet, 
 ---
 
 **SweepRing**
-This sigil locks down binding force across the inscribed face at touch range, spread over a surface.
+Pins binding tension across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -771,7 +771,7 @@ This sigil locks down binding force across the inscribed face at touch range, sp
 ---
 
 **SolidGlyph**
-This sigil sifts heat at a single mark at touch range, focused on one object. It holds for about an hour.
+Screens thermal flow at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -787,7 +787,7 @@ This sigil sifts heat at a single mark at touch range, focused on one object. It
 ---
 
 **BurCharm**
-This sigil drives heat across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Drives thermal flow across the inscribed face at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Move |
@@ -803,7 +803,7 @@ This sigil drives heat across the inscribed face from the sigil itself, focused 
 ---
 
 **SweepBlessing**
-This sigil raises cover against kinetic pressure at a single mark at touch range, focused on one object.
+Raises a boundary against kinetic force at a single marked point at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Ward |
@@ -819,7 +819,7 @@ This sigil raises cover against kinetic pressure at a single mark at touch range
 ---
 
 **DriftGate**
-This sigil drives light across the inscribed face from the sigil itself, spread over a surface. It holds for about an hour.
+Drives photonic flux across the inscribed face at the sigil site across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -835,7 +835,7 @@ This sigil drives light across the inscribed face from the sigil itself, spread 
 ---
 
 **TransformChain**
-This sigil reads binding force at a single mark within ten feet, spread over a surface. It holds for about an hour.
+Reads binding tension at a single marked point within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 115 W |
 | Shape | Square |
 | Hook | Sense |
@@ -851,7 +851,7 @@ This sigil reads binding force at a single mark within ten feet, spread over a s
 ---
 
 **WhirlingRoot**
-This sigil reads light at a single mark at touch range, centered on the written mark.
+Reads photonic flux at a single marked point at touch range on the inscribed location, returning readable signal data to the caster.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Sense |
@@ -867,7 +867,7 @@ This sigil reads light at a single mark at touch range, centered on the written 
 ---
 
 **TwinBond**
-This sigil locks down light at a single mark from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Pins photonic flux at a single marked point at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Bind |
@@ -883,7 +883,7 @@ This sigil locks down light at a single mark from the sigil itself, focused on o
 ---
 
 **CapturRune**
-This sigil locks down heat at a single mark within ten feet, spread over a surface. It holds for about a minute.
+Pins thermal flow at a single marked point within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -899,7 +899,7 @@ This sigil locks down heat at a single mark within ten feet, spread over a surfa
 ---
 
 **BurWall**
-This sigil sifts light at a single mark at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Screens photonic flux at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Filter |
@@ -915,7 +915,7 @@ This sigil sifts light at a single mark at touch range, centered on the written 
 ---
 
 **TaintedCharm**
-This sigil reworks charge across the inscribed face from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Reconfigures electrical charge across the inscribed face at the sigil site on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Transform |
@@ -931,7 +931,7 @@ This sigil reworks charge across the inscribed face from the sigil itself, focus
 ---
 
 **KindlVoid**
-This sigil locks down heat across the inscribed face from the sigil itself, spread over a surface. It holds for about a minute.
+Pins thermal flow across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -947,7 +947,7 @@ This sigil locks down heat across the inscribed face from the sigil itself, spre
 ---
 
 **WeavMark**
-This sigil unleashes light as a widening fan from the sigil itself, spread over a surface.
+Projects photonic flux as a widening forward spread at the sigil site across a chosen surface, delivering its effect as an active release.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -963,7 +963,7 @@ This sigil unleashes light as a widening fan from the sigil itself, spread over 
 ---
 
 **WeaveThought**
-This sigil reads charge at a single mark from the sigil itself, centered on the written mark. It stays active while the caster keeps feeding it.
+Reads electrical charge at a single marked point at the sigil site on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Sense |
@@ -979,7 +979,7 @@ This sigil reads charge at a single mark from the sigil itself, centered on the 
 ---
 
 **SwiftTouch**
-This sigil raises cover against charge at a single mark from the sigil itself, spread over a surface. It holds for about a minute.
+Raises a boundary against electrical charge at a single marked point at the sigil site across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -995,7 +995,7 @@ This sigil raises cover against charge at a single mark from the sigil itself, s
 ---
 
 **KindleFlame**
-This sigil reads binding force across the inscribed face from the sigil itself, focused on one object.
+Reads binding tension across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1011,7 +1011,7 @@ This sigil reads binding force across the inscribed face from the sigil itself, 
 ---
 
 **DissolvHeart**
-This sigil drives charge as a widening fan from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Drives electrical charge as a widening forward spread at the sigil site across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 65 W |
 | Shape | Square |
 | Hook | Move |
@@ -1027,7 +1027,7 @@ This sigil drives charge as a widening fan from the sigil itself, spread over a 
 ---
 
 **ChillPulse**
-This sigil reworks reactive compounds across the inscribed face within ten feet, centered on the written mark. It holds for about a minute.
+Reconfigures reactive compounds across the inscribed face within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1043,7 +1043,7 @@ This sigil reworks reactive compounds across the inscribed face within ten feet,
 ---
 
 **ReleasCrown**
-This sigil raises cover against kinetic pressure as a widening fan at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against kinetic force as a widening forward spread at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 38 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1059,7 +1059,7 @@ This sigil raises cover against kinetic pressure as a widening fan at touch rang
 ---
 
 **BreakNet**
-This sigil reworks binding force as a widening fan within ten feet, focused on one object. It holds for about an hour.
+Reconfigures binding tension as a widening forward spread within ten feet on a chosen object, changing the target state in place, and the working holds for about one hour.
 | Wattage | 122 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1075,7 +1075,7 @@ This sigil reworks binding force as a widening fan within ten feet, focused on o
 ---
 
 **SlowHalo**
-This sigil reads light across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Reads photonic flux across the inscribed face at touch range on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1091,7 +1091,7 @@ This sigil reads light across the inscribed face at touch range, centered on the
 ---
 
 **TwistGlyph**
-This sigil sifts kinetic pressure as a widening fan at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Screens kinetic force as a widening forward spread at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1107,7 +1107,7 @@ This sigil sifts kinetic pressure as a widening fan at touch range, spread over 
 ---
 
 **PureWall**
-This sigil sifts reactive compounds across the inscribed face within ten feet, spread over a surface. It holds for about a minute.
+Screens reactive compounds across the inscribed face within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1123,7 +1123,7 @@ This sigil sifts reactive compounds across the inscribed face within ten feet, s
 ---
 
 **PaleCore**
-This sigil sifts light across the inscribed face from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Screens photonic flux across the inscribed face at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1139,7 +1139,7 @@ This sigil sifts light across the inscribed face from the sigil itself, focused 
 ---
 
 **WeakCage**
-This sigil locks down binding force across the inscribed face within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins binding tension across the inscribed face within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1155,7 +1155,7 @@ This sigil locks down binding force across the inscribed face within ten feet, c
 ---
 
 **ReleasTouch**
-This sigil locks down kinetic pressure as a widening fan within ten feet, spread over a surface.
+Pins kinetic force as a widening forward spread within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1171,7 +1171,7 @@ This sigil locks down kinetic pressure as a widening fan within ten feet, spread
 ---
 
 **FreshWisp**
-This sigil reworks binding force across the inscribed face from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Reconfigures binding tension across the inscribed face at the sigil site across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1187,7 +1187,7 @@ This sigil reworks binding force across the inscribed face from the sigil itself
 ---
 
 **GentleHand**
-This sigil sifts heat at a single mark from the sigil itself, spread over a surface. It holds for about a minute.
+Screens thermal flow at a single marked point at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1203,7 +1203,7 @@ This sigil sifts heat at a single mark from the sigil itself, spread over a surf
 ---
 
 **FallStrike**
-This sigil reworks heat across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
+Reconfigures thermal flow across the inscribed face within ten feet across a chosen surface, changing the target state in place, and the working holds for about one hour.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1219,7 +1219,7 @@ This sigil reworks heat across the inscribed face within ten feet, spread over a
 ---
 
 **BurnMark**
-This sigil raises cover against binding force as a widening fan at touch range, focused on one object.
+Raises a boundary against binding tension as a widening forward spread at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1235,7 +1235,7 @@ This sigil raises cover against binding force as a widening fan at touch range, 
 ---
 
 **SweepHand**
-This sigil drives light across the inscribed face at touch range, centered on the written mark. It holds for about a minute.
+Drives photonic flux across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Move |
@@ -1251,7 +1251,7 @@ This sigil drives light across the inscribed face at touch range, centered on th
 ---
 
 **ShatterSeal**
-This sigil drives heat across the inscribed face within ten feet, spread over a surface.
+Drives thermal flow across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -1267,7 +1267,7 @@ This sigil drives heat across the inscribed face within ten feet, spread over a 
 ---
 
 **BreakPulse**
-This sigil locks down heat as a widening fan within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Pins thermal flow as a widening forward spread within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1283,7 +1283,7 @@ This sigil locks down heat as a widening fan within ten feet, focused on one obj
 ---
 
 **SurCurse**
-This sigil locks down light across the inscribed face from the sigil itself, spread over a surface. It holds for about an hour.
+Pins photonic flux across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1299,7 +1299,7 @@ This sigil locks down light across the inscribed face from the sigil itself, spr
 ---
 
 **LoudCharm**
-This sigil reworks binding force as a widening fan within ten feet, centered on the written mark. It holds for about a minute.
+Reconfigures binding tension as a widening forward spread within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
 | Wattage | 100 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1315,7 +1315,7 @@ This sigil reworks binding force as a widening fan within ten feet, centered on 
 ---
 
 **GuardVeil**
-This sigil raises cover against charge at a single mark from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Raises a boundary against electrical charge at a single marked point at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1331,7 +1331,7 @@ This sigil raises cover against charge at a single mark from the sigil itself, f
 ---
 
 **SurCore**
-This sigil raises cover against kinetic pressure at a single mark within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against kinetic force at a single marked point within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1347,7 +1347,7 @@ This sigil raises cover against kinetic pressure at a single mark within ten fee
 ---
 
 **CalmSight**
-This sigil unleashes heat across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Projects thermal flow across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1363,7 +1363,7 @@ This sigil unleashes heat across the inscribed face at touch range, focused on o
 ---
 
 **GuardGate**
-This sigil locks down heat at a single mark within ten feet, spread over a surface.
+Pins thermal flow at a single marked point within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1379,7 +1379,7 @@ This sigil locks down heat at a single mark within ten feet, spread over a surfa
 ---
 
 **HiddenGlyph**
-This sigil locks down charge as a widening fan at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins electrical charge as a widening forward spread at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 62 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1395,7 +1395,7 @@ This sigil locks down charge as a widening fan at touch range, centered on the w
 ---
 
 **DriftingSigil**
-This sigil unleashes charge across the inscribed face within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Projects electrical charge across the inscribed face within ten feet on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1411,7 +1411,7 @@ This sigil unleashes charge across the inscribed face within ten feet, focused o
 ---
 
 **SwiftWall**
-This sigil raises cover against kinetic pressure across the inscribed face from the sigil itself, centered on the written mark. It holds for about an hour.
+Raises a boundary against kinetic force across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1427,7 +1427,7 @@ This sigil raises cover against kinetic pressure across the inscribed face from 
 ---
 
 **NakedMark**
-This sigil raises cover against kinetic pressure at a single mark at touch range, spread over a surface.
+Raises a boundary against kinetic force at a single marked point at touch range across a chosen surface, forming a defensive layer that rejects incoming influence.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1443,7 +1443,7 @@ This sigil raises cover against kinetic pressure at a single mark at touch range
 ---
 
 **ReleasCalm**
-This sigil raises cover against light as a widening fan within ten feet, spread over a surface. It holds for about a minute.
+Raises a boundary against photonic flux as a widening forward spread within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 49 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1459,7 +1459,7 @@ This sigil raises cover against light as a widening fan within ten feet, spread 
 ---
 
 **ShatterSilence**
-This sigil unleashes raw flux at a single mark from the sigil itself, spread over a surface.
+Projects raw flux at a single marked point at the sigil site across a chosen surface, delivering its effect as an active release.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1475,7 +1475,7 @@ This sigil unleashes raw flux at a single mark from the sigil itself, spread ove
 ---
 
 **ChillRing**
-This sigil drives reactive compounds at a single mark within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Drives reactive compounds at a single marked point within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -1491,7 +1491,7 @@ This sigil drives reactive compounds at a single mark within ten feet, focused o
 ---
 
 **TwistWisp**
-This sigil drives light across the inscribed face at touch range, centered on the written mark. It holds for about an hour.
+Drives photonic flux across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Move |
@@ -1507,7 +1507,7 @@ This sigil drives light across the inscribed face at touch range, centered on th
 ---
 
 **DriftMark**
-This sigil raises cover against binding force at a single mark from the sigil itself, focused on one object. It holds for about a minute.
+Raises a boundary against binding tension at a single marked point at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1523,7 +1523,7 @@ This sigil raises cover against binding force at a single mark from the sigil it
 ---
 
 **ClearGate**
-This sigil locks down charge as a widening fan within ten feet, centered on the written mark. It holds for about an hour.
+Pins electrical charge as a widening forward spread within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1539,7 +1539,7 @@ This sigil locks down charge as a widening fan within ten feet, centered on the 
 ---
 
 **SweepBreath**
-This sigil sifts kinetic pressure at a single mark at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Screens kinetic force at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1555,7 +1555,7 @@ This sigil sifts kinetic pressure at a single mark at touch range, centered on t
 ---
 
 **VastPath**
-This sigil reads binding force as a widening fan at touch range, centered on the written mark. It holds for about an hour.
+Reads binding tension as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 117 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1571,7 +1571,7 @@ This sigil reads binding force as a widening fan at touch range, centered on the
 ---
 
 **FlowEye**
-This sigil raises cover against kinetic pressure as a widening fan at touch range, focused on one object. It holds for about an hour.
+Raises a boundary against kinetic force as a widening forward spread at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1587,7 +1587,7 @@ This sigil raises cover against kinetic pressure as a widening fan at touch rang
 ---
 
 **TwistLight**
-This sigil reads light across the inscribed face within ten feet, focused on one object. It holds for about an hour.
+Reads photonic flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 41 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1603,7 +1603,7 @@ This sigil reads light across the inscribed face within ten feet, focused on one
 ---
 
 **SwiftDoor**
-This sigil locks down kinetic pressure across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Pins kinetic force across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1619,7 +1619,7 @@ This sigil locks down kinetic pressure across the inscribed face from the sigil 
 ---
 
 **SlowDoor**
-This sigil reworks light across the inscribed face from the sigil itself, spread over a surface.
+Reconfigures photonic flux across the inscribed face at the sigil site across a chosen surface, changing the target state in place.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1635,7 +1635,7 @@ This sigil reworks light across the inscribed face from the sigil itself, spread
 ---
 
 **PierceWay**
-This sigil reads charge as a widening fan within ten feet, spread over a surface.
+Reads electrical charge as a widening forward spread within ten feet across a chosen surface, returning readable signal data to the caster.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1651,7 +1651,7 @@ This sigil reads charge as a widening fan within ten feet, spread over a surface
 ---
 
 **GuardFrost**
-This sigil sifts binding force at a single mark at touch range, focused on one object. It holds for about an hour.
+Screens binding tension at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 59 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1667,7 +1667,7 @@ This sigil sifts binding force at a single mark at touch range, focused on one o
 ---
 
 **SurShell**
-This sigil drives charge as a widening fan from the sigil itself, centered on the written mark.
+Drives electrical charge as a widening forward spread at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Move |
@@ -1683,7 +1683,7 @@ This sigil drives charge as a widening fan from the sigil itself, centered on th
 ---
 
 **LoudPulse**
-This sigil sifts kinetic pressure at a single mark at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Screens kinetic force at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1699,7 +1699,7 @@ This sigil sifts kinetic pressure at a single mark at touch range, centered on t
 ---
 
 **CaptureFrost**
-This sigil raises cover against raw flux at a single mark within ten feet, spread over a surface. It holds for about an hour.
+Raises a boundary against raw flux at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1715,7 +1715,7 @@ This sigil raises cover against raw flux at a single mark within ten feet, sprea
 ---
 
 **PierceTide**
-This sigil reads binding force at a single mark at touch range, focused on one object. It holds for about a minute.
+Reads binding tension at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1731,7 +1731,7 @@ This sigil reads binding force at a single mark at touch range, focused on one o
 ---
 
 **SlowBond**
-This sigil locks down charge at a single mark from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Pins electrical charge at a single marked point at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1747,7 +1747,7 @@ This sigil locks down charge at a single mark from the sigil itself, focused on 
 ---
 
 **FreezGate**
-This sigil reads heat at a single mark from the sigil itself, spread over a surface. It holds for about a minute.
+Reads thermal flow at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1763,7 +1763,7 @@ This sigil reads heat at a single mark from the sigil itself, spread over a surf
 ---
 
 **TaintedHalo**
-This sigil locks down kinetic pressure as a widening fan from the sigil itself, focused on one object. It holds for about an hour.
+Pins kinetic force as a widening forward spread at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 53 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1779,7 +1779,7 @@ This sigil locks down kinetic pressure as a widening fan from the sigil itself, 
 ---
 
 **FallBoon**
-This sigil reads charge at a single mark within ten feet, focused on one object. It holds for about a minute.
+Reads electrical charge at a single marked point within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1795,7 +1795,7 @@ This sigil reads charge at a single mark within ten feet, focused on one object.
 ---
 
 **SurMark**
-This sigil reworks heat across the inscribed face from the sigil itself, centered on the written mark.
+Reconfigures thermal flow across the inscribed face at the sigil site on the inscribed location, changing the target state in place.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1811,7 +1811,7 @@ This sigil reworks heat across the inscribed face from the sigil itself, centere
 ---
 
 **TaintedCurse**
-This sigil reads charge across the inscribed face from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Reads electrical charge across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1827,7 +1827,7 @@ This sigil reads charge across the inscribed face from the sigil itself, focused
 ---
 
 **HeavyShell**
-This sigil raises cover against raw flux as a widening fan from the sigil itself, focused on one object.
+Raises a boundary against raw flux as a widening forward spread at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1843,7 +1843,7 @@ This sigil raises cover against raw flux as a widening fan from the sigil itself
 ---
 
 **BreakSoul**
-This sigil drives heat as a widening fan within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Drives thermal flow as a widening forward spread within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Move |
@@ -1859,7 +1859,7 @@ This sigil drives heat as a widening fan within ten feet, focused on one object.
 ---
 
 **ReleasBoon**
-This sigil reworks raw flux across the inscribed face within ten feet, focused on one object. It holds for about a minute.
+Reconfigures raw flux across the inscribed face within ten feet on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1875,7 +1875,7 @@ This sigil reworks raw flux across the inscribed face within ten feet, focused o
 ---
 
 **HeavyWard**
-This sigil reads raw flux as a widening fan at touch range, focused on one object. It holds for about a minute.
+Reads raw flux as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1891,7 +1891,7 @@ This sigil reads raw flux as a widening fan at touch range, focused on one objec
 ---
 
 **CaptureMark**
-This sigil reads reactive compounds across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
+Reads reactive compounds across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 75 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1907,7 +1907,7 @@ This sigil reads reactive compounds across the inscribed face within ten feet, s
 ---
 
 **ChillDance**
-This sigil reads binding force as a widening fan at touch range, focused on one object. It holds for about an hour.
+Reads binding tension as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 69 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1923,7 +1923,7 @@ This sigil reads binding force as a widening fan at touch range, focused on one 
 ---
 
 **FallVeil**
-This sigil raises cover against raw flux at a single mark within ten feet, focused on one object.
+Raises a boundary against raw flux at a single marked point within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1939,7 +1939,7 @@ This sigil raises cover against raw flux at a single mark within ten feet, focus
 ---
 
 **CalmVeil**
-This sigil raises cover against heat at a single mark at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against thermal flow at a single marked point at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1955,7 +1955,7 @@ This sigil raises cover against heat at a single mark at touch range, centered o
 ---
 
 **FlowLight**
-This sigil unleashes raw flux as a widening fan at touch range, focused on one object. It holds for about an hour.
+Projects raw flux as a widening forward spread at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1971,7 +1971,7 @@ This sigil unleashes raw flux as a widening fan at touch range, focused on one o
 ---
 
 **SurTouch**
-This sigil reworks reactive compounds at a single mark within ten feet, centered on the written mark.
+Reconfigures reactive compounds at a single marked point within ten feet on the inscribed location, changing the target state in place.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -1987,7 +1987,7 @@ This sigil reworks reactive compounds at a single mark within ten feet, centered
 ---
 
 **MurkyGlyph**
-This sigil reads kinetic pressure across the inscribed face from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Reads kinetic force across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2003,7 +2003,7 @@ This sigil reads kinetic pressure across the inscribed face from the sigil itsel
 ---
 
 **NakedShroud**
-This sigil reworks kinetic pressure as a widening fan from the sigil itself, spread over a surface.
+Reconfigures kinetic force as a widening forward spread at the sigil site across a chosen surface, changing the target state in place.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2019,7 +2019,7 @@ This sigil reworks kinetic pressure as a widening fan from the sigil itself, spr
 ---
 
 **BindHalo**
-This sigil drives charge at a single mark at touch range, spread over a surface. It holds for about an hour.
+Drives electrical charge at a single marked point at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 72 W |
 | Shape | Square |
 | Hook | Move |
@@ -2035,7 +2035,7 @@ This sigil drives charge at a single mark at touch range, spread over a surface.
 ---
 
 **VividFrost**
-This sigil reworks binding force as a widening fan within ten feet, spread over a surface.
+Reconfigures binding tension as a widening forward spread within ten feet across a chosen surface, changing the target state in place.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2051,7 +2051,7 @@ This sigil reworks binding force as a widening fan within ten feet, spread over 
 ---
 
 **GuardPulse**
-This sigil reads heat across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Reads thermal flow across the inscribed face at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2067,7 +2067,7 @@ This sigil reads heat across the inscribed face at touch range, focused on one o
 ---
 
 **TransformTide**
-This sigil drives light across the inscribed face from the sigil itself, centered on the written mark. It holds for about an hour.
+Drives photonic flux across the inscribed face at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2083,7 +2083,7 @@ This sigil drives light across the inscribed face from the sigil itself, centere
 ---
 
 **PiercVeil**
-This sigil reads kinetic pressure at a single mark from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Reads kinetic force at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2099,7 +2099,7 @@ This sigil reads kinetic pressure at a single mark from the sigil itself, spread
 ---
 
 **BurHand**
-This sigil sifts charge across the inscribed face within ten feet, focused on one object. It holds for about an hour.
+Screens electrical charge across the inscribed face within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2115,7 +2115,7 @@ This sigil sifts charge across the inscribed face within ten feet, focused on on
 ---
 
 **KindleMark**
-This sigil locks down raw flux across the inscribed face at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Pins raw flux across the inscribed face at touch range on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 17 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2131,7 +2131,7 @@ This sigil locks down raw flux across the inscribed face at touch range, focused
 ---
 
 **KindlHeart**
-This sigil raises cover against charge across the inscribed face at touch range, focused on one object. It holds for about an hour.
+Raises a boundary against electrical charge across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 69 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2147,7 +2147,7 @@ This sigil raises cover against charge across the inscribed face at touch range,
 ---
 
 **PaleGate**
-This sigil reworks light at a single mark at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Reconfigures photonic flux at a single marked point at touch range across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2163,7 +2163,7 @@ This sigil reworks light at a single mark at touch range, spread over a surface.
 ---
 
 **TwistFlame**
-This sigil drives light across the inscribed face at touch range, spread over a surface. It holds for about a minute.
+Drives photonic flux across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Move |
@@ -2179,7 +2179,7 @@ This sigil drives light across the inscribed face at touch range, spread over a 
 ---
 
 **CalmScar**
-This sigil reworks raw flux at a single mark within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Reconfigures raw flux at a single marked point within ten feet across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2195,7 +2195,7 @@ This sigil reworks raw flux at a single mark within ten feet, spread over a surf
 ---
 
 **CalmTouch**
-This sigil unleashes reactive compounds at a single mark at touch range, focused on one object.
+Projects reactive compounds at a single marked point at touch range on a chosen object, delivering its effect as an active release.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2211,7 +2211,7 @@ This sigil unleashes reactive compounds at a single mark at touch range, focused
 ---
 
 **TwistScar**
-This sigil unleashes reactive compounds across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Projects reactive compounds across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2227,7 +2227,7 @@ This sigil unleashes reactive compounds across the inscribed face from the sigil
 ---
 
 **FlowVeil**
-This sigil locks down light across the inscribed face at touch range, focused on one object.
+Pins photonic flux across the inscribed face at touch range on a chosen object, creating a clamp-like hold that resists motion or change.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2243,7 +2243,7 @@ This sigil locks down light across the inscribed face at touch range, focused on
 ---
 
 **WeakAura**
-This sigil sifts raw flux at a single mark from the sigil itself, spread over a surface.
+Screens raw flux at a single marked point at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2259,7 +2259,7 @@ This sigil sifts raw flux at a single mark from the sigil itself, spread over a 
 ---
 
 **SolidMirror**
-This sigil reads light across the inscribed face from the sigil itself, centered on the written mark. It holds for about an hour.
+Reads photonic flux across the inscribed face at the sigil site on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2275,7 +2275,7 @@ This sigil reads light across the inscribed face from the sigil itself, centered
 ---
 
 **FiercePulse**
-This sigil reads light across the inscribed face within ten feet, focused on one object. It holds for about a minute.
+Reads photonic flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2291,7 +2291,7 @@ This sigil reads light across the inscribed face within ten feet, focused on one
 ---
 
 **ReleasStorm**
-This sigil unleashes light across the inscribed face at touch range, centered on the written mark. It holds for about an hour.
+Projects photonic flux across the inscribed face at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2307,7 +2307,7 @@ This sigil unleashes light across the inscribed face at touch range, centered on
 ---
 
 **DullWall**
-This sigil raises cover against light across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against photonic flux across the inscribed face at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2323,7 +2323,7 @@ This sigil raises cover against light across the inscribed face at touch range, 
 ---
 
 **TwinKnot**
-This sigil reads charge across the inscribed face from the sigil itself, spread over a surface.
+Reads electrical charge across the inscribed face at the sigil site across a chosen surface, returning readable signal data to the caster.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2339,7 +2339,7 @@ This sigil reads charge across the inscribed face from the sigil itself, spread 
 ---
 
 **KindlCrown**
-This sigil reworks kinetic pressure across the inscribed face within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Reconfigures kinetic force across the inscribed face within ten feet across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2355,7 +2355,7 @@ This sigil reworks kinetic pressure across the inscribed face within ten feet, s
 ---
 
 **DeepCurse**
-This sigil raises cover against heat across the inscribed face within ten feet, centered on the written mark. It holds for about a minute.
+Raises a boundary against thermal flow across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2371,7 +2371,7 @@ This sigil raises cover against heat across the inscribed face within ten feet, 
 ---
 
 **SolidBoon**
-This sigil drives raw flux across the inscribed face at touch range, spread over a surface.
+Drives raw flux across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2387,7 +2387,7 @@ This sigil drives raw flux across the inscribed face at touch range, spread over
 ---
 
 **CalmThought**
-This sigil reads kinetic pressure as a widening fan at touch range, centered on the written mark.
+Reads kinetic force as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2403,7 +2403,7 @@ This sigil reads kinetic pressure as a widening fan at touch range, centered on 
 ---
 
 **SweepTide**
-This sigil reads kinetic pressure at a single mark at touch range, focused on one object. It holds for about a minute.
+Reads kinetic force at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2419,7 +2419,7 @@ This sigil reads kinetic pressure at a single mark at touch range, focused on on
 ---
 
 **DeepBridge**
-This sigil raises cover against charge as a widening fan within ten feet, spread over a surface.
+Raises a boundary against electrical charge as a widening forward spread within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2435,7 +2435,7 @@ This sigil raises cover against charge as a widening fan within ten feet, spread
 ---
 
 **AnchorWay**
-This sigil reads raw flux across the inscribed face within ten feet, spread over a surface.
+Reads raw flux across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2451,7 +2451,7 @@ This sigil reads raw flux across the inscribed face within ten feet, spread over
 ---
 
 **RiseWay**
-This sigil drives light as a widening fan from the sigil itself, centered on the written mark. It holds for about a minute.
+Drives photonic flux as a widening forward spread at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2467,7 +2467,7 @@ This sigil drives light as a widening fan from the sigil itself, centered on the
 ---
 
 **QuietKnot**
-This sigil reworks reactive compounds across the inscribed face at touch range, centered on the written mark. It holds for about an hour.
+Reconfigures reactive compounds across the inscribed face at touch range on the inscribed location, changing the target state in place, and the working holds for about one hour.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2483,7 +2483,7 @@ This sigil reworks reactive compounds across the inscribed face at touch range, 
 ---
 
 **ReleasShroud**
-This sigil reworks heat across the inscribed face from the sigil itself, spread over a surface.
+Reconfigures thermal flow across the inscribed face at the sigil site across a chosen surface, changing the target state in place.
 | Wattage | 11 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2499,7 +2499,7 @@ This sigil reworks heat across the inscribed face from the sigil itself, spread 
 ---
 
 **FreezHeart**
-This sigil reads light across the inscribed face within ten feet, spread over a surface.
+Reads photonic flux across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2515,7 +2515,7 @@ This sigil reads light across the inscribed face within ten feet, spread over a 
 ---
 
 **SurBreath**
-This sigil reads reactive compounds at a single mark within ten feet, centered on the written mark.
+Reads reactive compounds at a single marked point within ten feet on the inscribed location, returning readable signal data to the caster.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2531,7 +2531,7 @@ This sigil reads reactive compounds at a single mark within ten feet, centered o
 ---
 
 **WarmRing**
-This sigil sifts reactive compounds at a single mark within ten feet, spread over a surface. It holds for about a minute.
+Screens reactive compounds at a single marked point within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2547,7 +2547,7 @@ This sigil sifts reactive compounds at a single mark within ten feet, spread ove
 ---
 
 **TwistVoice**
-This sigil locks down binding force across the inscribed face from the sigil itself, centered on the written mark. It holds for about a minute.
+Pins binding tension across the inscribed face at the sigil site on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2563,7 +2563,7 @@ This sigil locks down binding force across the inscribed face from the sigil its
 ---
 
 **SteadyEye**
-This sigil sifts kinetic pressure as a widening fan at touch range, focused on one object. It holds for about a minute.
+Screens kinetic force as a widening forward spread at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2579,7 +2579,7 @@ This sigil sifts kinetic pressure as a widening fan at touch range, focused on o
 ---
 
 **SlowWeb**
-This sigil sifts kinetic pressure across the inscribed face within ten feet, spread over a surface.
+Screens kinetic force across the inscribed face within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2595,7 +2595,7 @@ This sigil sifts kinetic pressure across the inscribed face within ten feet, spr
 ---
 
 **TransformCharm**
-This sigil drives heat across the inscribed face at touch range, focused on one object.
+Drives thermal flow across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2611,7 +2611,7 @@ This sigil drives heat across the inscribed face at touch range, focused on one 
 ---
 
 **FlowBond**
-This sigil reworks binding force as a widening fan at touch range, focused on one object.
+Reconfigures binding tension as a widening forward spread at touch range on a chosen object, changing the target state in place.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2627,7 +2627,7 @@ This sigil reworks binding force as a widening fan at touch range, focused on on
 ---
 
 **PiercSilence**
-This sigil reads heat across the inscribed face at touch range, focused on one object.
+Reads thermal flow across the inscribed face at touch range on a chosen object, returning readable signal data to the caster.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2643,7 +2643,7 @@ This sigil reads heat across the inscribed face at touch range, focused on one o
 ---
 
 **TwistBond**
-This sigil reworks heat at a single mark from the sigil itself, centered on the written mark. It stays active while the caster keeps feeding it.
+Reconfigures thermal flow at a single marked point at the sigil site on the inscribed location, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2659,7 +2659,7 @@ This sigil reworks heat at a single mark from the sigil itself, centered on the 
 ---
 
 **FragileCurse**
-This sigil reworks kinetic pressure across the inscribed face at touch range, focused on one object. It holds for about an hour.
+Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place, and the working holds for about one hour.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2675,7 +2675,7 @@ This sigil reworks kinetic pressure across the inscribed face at touch range, fo
 ---
 
 **TransformDance**
-This sigil raises cover against raw flux as a widening fan from the sigil itself, centered on the written mark. It holds for about a minute.
+Raises a boundary against raw flux as a widening forward spread at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2691,7 +2691,7 @@ This sigil raises cover against raw flux as a widening fan from the sigil itself
 ---
 
 **ShatterLight**
-This sigil drives raw flux at a single mark within ten feet, centered on the written mark.
+Drives raw flux at a single marked point within ten feet on the inscribed location, forcing displacement along the chosen direction of effect.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2707,7 +2707,7 @@ This sigil drives raw flux at a single mark within ten feet, centered on the wri
 ---
 
 **SolidFrost**
-This sigil raises cover against heat at a single mark from the sigil itself, centered on the written mark. It holds for about an hour.
+Raises a boundary against thermal flow at a single marked point at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2723,7 +2723,7 @@ This sigil raises cover against heat at a single mark from the sigil itself, cen
 ---
 
 **FierceThread**
-This sigil sifts raw flux at a single mark at touch range, spread over a surface. It holds for about an hour.
+Screens raw flux at a single marked point at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2739,7 +2739,7 @@ This sigil sifts raw flux at a single mark at touch range, spread over a surface
 ---
 
 **WeavEcho**
-This sigil reads reactive compounds across the inscribed face from the sigil itself, spread over a surface.
+Reads reactive compounds across the inscribed face at the sigil site across a chosen surface, returning readable signal data to the caster.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2755,7 +2755,7 @@ This sigil reads reactive compounds across the inscribed face from the sigil its
 ---
 
 **WildKey**
-This sigil sifts kinetic pressure at a single mark from the sigil itself, centered on the written mark.
+Screens kinetic force at a single marked point at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2771,7 +2771,7 @@ This sigil sifts kinetic pressure at a single mark from the sigil itself, center
 ---
 
 **ShatterFlame**
-This sigil drives heat at a single mark from the sigil itself, focused on one object. It holds for about an hour.
+Drives thermal flow at a single marked point at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Move |
@@ -2787,7 +2787,7 @@ This sigil drives heat at a single mark from the sigil itself, focused on one ob
 ---
 
 **ReleaseBreath**
-This sigil sifts charge at a single mark within ten feet, spread over a surface. It holds for about an hour.
+Screens electrical charge at a single marked point within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2803,7 +2803,7 @@ This sigil sifts charge at a single mark within ten feet, spread over a surface.
 ---
 
 **ShatterNet**
-This sigil raises cover against kinetic pressure across the inscribed face at touch range, centered on the written mark. It holds for about a minute.
+Raises a boundary against kinetic force across the inscribed face at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2819,7 +2819,7 @@ This sigil raises cover against kinetic pressure across the inscribed face at to
 ---
 
 **TaintedPulse**
-This sigil reworks raw flux across the inscribed face from the sigil itself, focused on one object. It holds for about an hour.
+Reconfigures raw flux across the inscribed face at the sigil site on a chosen object, changing the target state in place, and the working holds for about one hour.
 | Wattage | 35 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2835,7 +2835,7 @@ This sigil reworks raw flux across the inscribed face from the sigil itself, foc
 ---
 
 **PiercBridge**
-This sigil raises cover against heat across the inscribed face from the sigil itself, focused on one object. It holds for about an hour.
+Raises a boundary against thermal flow across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2851,7 +2851,7 @@ This sigil raises cover against heat across the inscribed face from the sigil it
 ---
 
 **CurvedWard**
-This sigil reworks light as a widening fan from the sigil itself, centered on the written mark.
+Reconfigures photonic flux as a widening forward spread at the sigil site on the inscribed location, changing the target state in place.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2867,7 +2867,7 @@ This sigil reworks light as a widening fan from the sigil itself, centered on th
 ---
 
 **RisNet**
-This sigil sifts binding force across the inscribed face from the sigil itself, centered on the written mark.
+Screens binding tension across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2883,7 +2883,7 @@ This sigil sifts binding force across the inscribed face from the sigil itself, 
 ---
 
 **TransformBreath**
-This sigil raises cover against heat across the inscribed face from the sigil itself, focused on one object. It holds for about an hour.
+Raises a boundary against thermal flow across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2899,7 +2899,7 @@ This sigil raises cover against heat across the inscribed face from the sigil it
 ---
 
 **CalmPath**
-This sigil locks down charge across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins electrical charge across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2915,7 +2915,7 @@ This sigil locks down charge across the inscribed face at touch range, centered 
 ---
 
 **DissolveLight**
-This sigil reworks binding force across the inscribed face from the sigil itself, spread over a surface.
+Reconfigures binding tension across the inscribed face at the sigil site across a chosen surface, changing the target state in place.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2931,7 +2931,7 @@ This sigil reworks binding force across the inscribed face from the sigil itself
 ---
 
 **HeavyCalm**
-This sigil drives raw flux as a widening fan from the sigil itself, focused on one object. It holds for about an hour.
+Drives raw flux as a widening forward spread at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2947,7 +2947,7 @@ This sigil drives raw flux as a widening fan from the sigil itself, focused on o
 ---
 
 **RestlessRoot**
-This sigil unleashes heat across the inscribed face within ten feet, centered on the written mark.
+Projects thermal flow across the inscribed face within ten feet on the inscribed location, delivering its effect as an active release.
 | Wattage | 11 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2963,7 +2963,7 @@ This sigil unleashes heat across the inscribed face within ten feet, centered on
 ---
 
 **RisCurse**
-This sigil reads raw flux across the inscribed face within ten feet, focused on one object. It holds for about an hour.
+Reads raw flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2979,7 +2979,7 @@ This sigil reads raw flux across the inscribed face within ten feet, focused on 
 ---
 
 **GuardStorm**
-This sigil raises cover against binding force across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
+Raises a boundary against binding tension across the inscribed face within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 65 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2995,7 +2995,7 @@ This sigil raises cover against binding force across the inscribed face within t
 ---
 
 **ColdEcho**
-This sigil sifts raw flux across the inscribed face from the sigil itself, focused on one object. It holds for about an hour.
+Screens raw flux across the inscribed face at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -3011,7 +3011,7 @@ This sigil sifts raw flux across the inscribed face from the sigil itself, focus
 ---
 
 **SurRoot**
-This sigil reads light at a single mark from the sigil itself, centered on the written mark. It holds for about a minute.
+Reads photonic flux at a single marked point at the sigil site on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3027,7 +3027,7 @@ This sigil reads light at a single mark from the sigil itself, centered on the w
 ---
 
 **SweepAura**
-This sigil locks down heat across the inscribed face from the sigil itself, focused on one object. It holds for about an hour.
+Pins thermal flow across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -3043,7 +3043,7 @@ This sigil locks down heat across the inscribed face from the sigil itself, focu
 ---
 
 **DissolveMark**
-This sigil reads reactive compounds across the inscribed face from the sigil itself, focused on one object.
+Reads reactive compounds across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3059,7 +3059,7 @@ This sigil reads reactive compounds across the inscribed face from the sigil its
 ---
 
 **FlowShadow**
-This sigil reworks reactive compounds as a widening fan at touch range, centered on the written mark.
+Reconfigures reactive compounds as a widening forward spread at touch range on the inscribed location, changing the target state in place.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3075,7 +3075,7 @@ This sigil reworks reactive compounds as a widening fan at touch range, centered
 ---
 
 **RisMirror**
-This sigil drives reactive compounds as a widening fan within ten feet, focused on one object.
+Drives reactive compounds as a widening forward spread within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Move |
@@ -3091,7 +3091,7 @@ This sigil drives reactive compounds as a widening fan within ten feet, focused 
 ---
 
 **PiercCore**
-This sigil sifts kinetic pressure at a single mark from the sigil itself, spread over a surface.
+Screens kinetic force at a single marked point at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3107,7 +3107,7 @@ This sigil sifts kinetic pressure at a single mark from the sigil itself, spread
 ---
 
 **LoudKnot**
-This sigil sifts kinetic pressure across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Screens kinetic force across the inscribed face at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -3123,7 +3123,7 @@ This sigil sifts kinetic pressure across the inscribed face at touch range, spre
 ---
 
 **FreezShroud**
-This sigil raises cover against light at a single mark within ten feet, centered on the written mark. It holds for about an hour.
+Raises a boundary against photonic flux at a single marked point within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3139,7 +3139,7 @@ This sigil raises cover against light at a single mark within ten feet, centered
 ---
 
 **DissolvShell**
-This sigil drives raw flux across the inscribed face at touch range, focused on one object.
+Drives raw flux across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 12 W |
 | Shape | Square |
 | Hook | Move |
@@ -3155,7 +3155,7 @@ This sigil drives raw flux across the inscribed face at touch range, focused on 
 ---
 
 **FallBridge**
-This sigil locks down light at a single mark within ten feet, focused on one object. It holds for about an hour.
+Pins photonic flux at a single marked point within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 56 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3171,7 +3171,7 @@ This sigil locks down light at a single mark within ten feet, focused on one obj
 ---
 
 **SurgeScar**
-This sigil reads kinetic pressure at a single mark at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Reads kinetic force at a single marked point at touch range across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3187,7 +3187,7 @@ This sigil reads kinetic pressure at a single mark at touch range, spread over a
 ---
 
 **AnchoredVoid**
-This sigil drives reactive compounds as a widening fan from the sigil itself, centered on the written mark. It holds for about a minute.
+Drives reactive compounds as a widening forward spread at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3203,7 +3203,7 @@ This sigil drives reactive compounds as a widening fan from the sigil itself, ce
 ---
 
 **FreezChain**
-This sigil unleashes light across the inscribed face within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects photonic flux across the inscribed face within ten feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3219,7 +3219,7 @@ This sigil unleashes light across the inscribed face within ten feet, centered o
 ---
 
 **SweepMirror**
-This sigil reworks reactive compounds across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Reconfigures reactive compounds across the inscribed face at touch range across a chosen surface, changing the target state in place, and the working holds for about one hour.
 | Wattage | 72 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3235,7 +3235,7 @@ This sigil reworks reactive compounds across the inscribed face at touch range, 
 ---
 
 **SurgeLight**
-This sigil reads reactive compounds as a widening fan at touch range, focused on one object. It holds for about an hour.
+Reads reactive compounds as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 79 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3251,7 +3251,7 @@ This sigil reads reactive compounds as a widening fan at touch range, focused on
 ---
 
 **HardyBond**
-This sigil raises cover against light at a single mark from the sigil itself, focused on one object. It holds for about a minute.
+Raises a boundary against photonic flux at a single marked point at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3267,7 +3267,7 @@ This sigil raises cover against light at a single mark from the sigil itself, fo
 ---
 
 **RisPulse**
-This sigil sifts heat across the inscribed face from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Screens thermal flow across the inscribed face at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3283,7 +3283,7 @@ This sigil sifts heat across the inscribed face from the sigil itself, focused o
 ---
 
 **ShallowKnot**
-This sigil drives raw flux across the inscribed face from the sigil itself, focused on one object. It holds for about an hour.
+Drives raw flux across the inscribed face at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 35 W |
 | Shape | Square |
 | Hook | Move |
@@ -3299,7 +3299,7 @@ This sigil drives raw flux across the inscribed face from the sigil itself, focu
 ---
 
 **GuardBlessing**
-This sigil sifts kinetic pressure across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Screens kinetic force across the inscribed face at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3315,7 +3315,7 @@ This sigil sifts kinetic pressure across the inscribed face at touch range, cent
 ---
 
 **RiseShadow**
-This sigil drives light across the inscribed face at touch range, focused on one object.
+Drives photonic flux across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Move |
@@ -3331,7 +3331,7 @@ This sigil drives light across the inscribed face at touch range, focused on one
 ---
 
 **WhirlingTouch**
-This sigil locks down reactive compounds across the inscribed face within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Pins reactive compounds across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -3347,7 +3347,7 @@ This sigil locks down reactive compounds across the inscribed face within ten fe
 ---
 
 **FallKnot**
-This sigil unleashes heat across the inscribed face from the sigil itself, focused on one object.
+Projects thermal flow across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3363,7 +3363,7 @@ This sigil unleashes heat across the inscribed face from the sigil itself, focus
 ---
 
 **QuietTouch**
-This sigil locks down reactive compounds as a widening fan within ten feet, centered on the written mark. It holds for about an hour.
+Pins reactive compounds as a widening forward spread within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3379,7 +3379,7 @@ This sigil locks down reactive compounds as a widening fan within ten feet, cent
 ---
 
 **SolidRing**
-This sigil drives light across the inscribed face at touch range, spread over a surface.
+Drives photonic flux across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3395,7 +3395,7 @@ This sigil drives light across the inscribed face at touch range, spread over a 
 ---
 
 **BindWeb**
-This sigil raises cover against binding force across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Raises a boundary against binding tension across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3411,7 +3411,7 @@ This sigil raises cover against binding force across the inscribed face from the
 ---
 
 **TransformGlyph**
-This sigil reworks binding force at a single mark within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Reconfigures binding tension at a single marked point within ten feet on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 97 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3427,7 +3427,7 @@ This sigil reworks binding force at a single mark within ten feet, focused on on
 ---
 
 **SurgeSight**
-This sigil reworks heat at a single mark within ten feet, spread over a surface. It holds for about a minute.
+Reconfigures thermal flow at a single marked point within ten feet across a chosen surface, changing the target state in place, and the working holds for about one minute.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3443,7 +3443,7 @@ This sigil reworks heat at a single mark within ten feet, spread over a surface.
 ---
 
 **BindThread**
-This sigil sifts charge as a widening fan at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Screens electrical charge as a widening forward spread at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 64 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3459,7 +3459,7 @@ This sigil sifts charge as a widening fan at touch range, focused on one object.
 ---
 
 **SolidVeil**
-This sigil reworks kinetic pressure across the inscribed face at touch range, focused on one object. It holds for about an hour.
+Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place, and the working holds for about one hour.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3475,7 +3475,7 @@ This sigil reworks kinetic pressure across the inscribed face at touch range, fo
 ---
 
 **GuardMirror**
-This sigil raises cover against reactive compounds across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Raises a boundary against reactive compounds across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3491,7 +3491,7 @@ This sigil raises cover against reactive compounds across the inscribed face at 
 ---
 
 **BurCage**
-This sigil raises cover against binding force across the inscribed face within ten feet, focused on one object. It holds for about a minute.
+Raises a boundary against binding tension across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3507,7 +3507,7 @@ This sigil raises cover against binding force across the inscribed face within t
 ---
 
 **FierceHalo**
-This sigil reads charge at a single mark from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Reads electrical charge at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3523,7 +3523,7 @@ This sigil reads charge at a single mark from the sigil itself, spread over a su
 ---
 
 **KindleRoad**
-This sigil raises cover against reactive compounds across the inscribed face from the sigil itself, centered on the written mark.
+Raises a boundary against reactive compounds across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3539,7 +3539,7 @@ This sigil raises cover against reactive compounds across the inscribed face fro
 ---
 
 **KindleDream**
-This sigil unleashes light across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects photonic flux across the inscribed face at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3555,7 +3555,7 @@ This sigil unleashes light across the inscribed face at touch range, centered on
 ---
 
 **CaptureLight**
-This sigil raises cover against heat across the inscribed face from the sigil itself, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against thermal flow across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3571,7 +3571,7 @@ This sigil raises cover against heat across the inscribed face from the sigil it
 ---
 
 **BreakMark**
-This sigil unleashes reactive compounds across the inscribed face from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Projects reactive compounds across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3587,7 +3587,7 @@ This sigil unleashes reactive compounds across the inscribed face from the sigil
 ---
 
 **RiseDream**
-This sigil reworks charge across the inscribed face from the sigil itself, spread over a surface. It holds for about an hour.
+Reconfigures electrical charge across the inscribed face at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one hour.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3603,7 +3603,7 @@ This sigil reworks charge across the inscribed face from the sigil itself, sprea
 ---
 
 **PureCore**
-This sigil reworks binding force across the inscribed face from the sigil itself, spread over a surface. It holds for about a minute.
+Reconfigures binding tension across the inscribed face at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one minute.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3619,7 +3619,7 @@ This sigil reworks binding force across the inscribed face from the sigil itself
 ---
 
 **SwiftBreath**
-This sigil reads raw flux across the inscribed face from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Reads raw flux across the inscribed face at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3635,7 +3635,7 @@ This sigil reads raw flux across the inscribed face from the sigil itself, sprea
 ---
 
 **BreakHand**
-This sigil locks down charge as a widening fan at touch range, centered on the written mark. It holds for about a minute.
+Pins electrical charge as a widening forward spread at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3651,7 +3651,7 @@ This sigil locks down charge as a widening fan at touch range, centered on the w
 ---
 
 **VastBoon**
-This sigil drives raw flux at a single mark at touch range, centered on the written mark. It holds for about a minute.
+Drives raw flux at a single marked point at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3667,7 +3667,7 @@ This sigil drives raw flux at a single mark at touch range, centered on the writ
 ---
 
 **ShatterVoid**
-This sigil drives charge across the inscribed face at touch range, centered on the written mark. It holds for about an hour.
+Drives electrical charge across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3683,7 +3683,7 @@ This sigil drives charge across the inscribed face at touch range, centered on t
 ---
 
 **BindBreath**
-This sigil unleashes light as a widening fan within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Projects photonic flux as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 36 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3699,7 +3699,7 @@ This sigil unleashes light as a widening fan within ten feet, focused on one obj
 ---
 
 **BindStorm**
-This sigil locks down reactive compounds across the inscribed face from the sigil itself, spread over a surface. It holds for about an hour.
+Pins reactive compounds across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 70 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3715,7 +3715,7 @@ This sigil locks down reactive compounds across the inscribed face from the sigi
 ---
 
 **DriftRune**
-This sigil reads charge at a single mark from the sigil itself, focused on one object.
+Reads electrical charge at a single marked point at the sigil site on a chosen object, returning readable signal data to the caster.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3731,7 +3731,7 @@ This sigil reads charge at a single mark from the sigil itself, focused on one o
 ---
 
 **BreakShadow**
-This sigil unleashes raw flux across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Projects raw flux across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3747,7 +3747,7 @@ This sigil unleashes raw flux across the inscribed face from the sigil itself, f
 ---
 
 **FreezePulse**
-This sigil drives kinetic pressure across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Drives kinetic force across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 48 W |
 | Shape | Square |
 | Hook | Move |
@@ -3763,7 +3763,7 @@ This sigil drives kinetic pressure across the inscribed face at touch range, spr
 ---
 
 **FlowRoad**
-This sigil reworks light at a single mark at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Reconfigures photonic flux at a single marked point at touch range on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3779,7 +3779,7 @@ This sigil reworks light at a single mark at touch range, focused on one object.
 ---
 
 **SweepSight**
-This sigil unleashes kinetic pressure across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Projects kinetic force across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3795,7 +3795,7 @@ This sigil unleashes kinetic pressure across the inscribed face at touch range, 
 ---
 
 **ShatterFrost**
-This sigil drives charge at a single mark at touch range, centered on the written mark.
+Drives electrical charge at a single marked point at touch range on the inscribed location, forcing displacement along the chosen direction of effect.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Move |
@@ -3811,7 +3811,7 @@ This sigil drives charge at a single mark at touch range, centered on the writte
 ---
 
 **BindHand**
-This sigil reworks binding force across the inscribed face within ten feet, centered on the written mark.
+Reconfigures binding tension across the inscribed face within ten feet on the inscribed location, changing the target state in place.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3827,7 +3827,7 @@ This sigil reworks binding force across the inscribed face within ten feet, cent
 ---
 
 **DriftingBond**
-This sigil raises cover against raw flux across the inscribed face within ten feet, centered on the written mark.
+Raises a boundary against raw flux across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence.
 | Wattage | 13 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3843,7 +3843,7 @@ This sigil raises cover against raw flux across the inscribed face within ten fe
 ---
 
 **StraightBond**
-This sigil sifts binding force across the inscribed face from the sigil itself, centered on the written mark. It holds for about a minute.
+Screens binding tension across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3859,7 +3859,7 @@ This sigil sifts binding force across the inscribed face from the sigil itself, 
 ---
 
 **BurnDream**
-This sigil reads binding force at a single mark from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Reads binding tension at a single marked point at the sigil site on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3875,7 +3875,7 @@ This sigil reads binding force at a single mark from the sigil itself, focused o
 ---
 
 **CurvedRing**
-This sigil raises cover against binding force across the inscribed face from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Raises a boundary against binding tension across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3891,7 +3891,7 @@ This sigil raises cover against binding force across the inscribed face from the
 ---
 
 **ReleaseSight**
-This sigil drives kinetic pressure across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Drives kinetic force across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Move |
@@ -3907,7 +3907,7 @@ This sigil drives kinetic pressure across the inscribed face at touch range, cen
 ---
 
 **HeavyVeil**
-This sigil locks down reactive compounds across the inscribed face from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Pins reactive compounds across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3923,7 +3923,7 @@ This sigil locks down reactive compounds across the inscribed face from the sigi
 ---
 
 **TwinThread**
-This sigil reworks kinetic pressure at a single mark at touch range, spread over a surface. It holds for about a minute.
+Reconfigures kinetic force at a single marked point at touch range across a chosen surface, changing the target state in place, and the working holds for about one minute.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3939,7 +3939,7 @@ This sigil reworks kinetic pressure at a single mark at touch range, spread over
 ---
 
 **CalmStorm**
-This sigil locks down heat across the inscribed face from the sigil itself, spread over a surface.
+Pins thermal flow across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3955,7 +3955,7 @@ This sigil locks down heat across the inscribed face from the sigil itself, spre
 ---
 
 **WildFrost**
-This sigil drives reactive compounds as a widening fan from the sigil itself, focused on one object. It holds for about an hour.
+Drives reactive compounds as a widening forward spread at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 77 W |
 | Shape | Square |
 | Hook | Move |
@@ -3971,7 +3971,7 @@ This sigil drives reactive compounds as a widening fan from the sigil itself, fo
 ---
 
 **TransformBrand**
-This sigil raises cover against charge at a single mark at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against electrical charge at a single marked point at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3987,7 +3987,7 @@ This sigil raises cover against charge at a single mark at touch range, centered
 ---
 
 **DullPulse**
-This sigil reads reactive compounds across the inscribed face within ten feet, centered on the written mark.
+Reads reactive compounds across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4003,7 +4003,7 @@ This sigil reads reactive compounds across the inscribed face within ten feet, c
 ---
 
 **PiercHand**
-This sigil sifts raw flux at a single mark from the sigil itself, centered on the written mark. It holds for about an hour.
+Screens raw flux at a single marked point at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4019,7 +4019,7 @@ This sigil sifts raw flux at a single mark from the sigil itself, centered on th
 ---
 
 **AnchorBreath**
-This sigil reads reactive compounds as a widening fan at touch range, focused on one object. It holds for about a minute.
+Reads reactive compounds as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4035,7 +4035,7 @@ This sigil reads reactive compounds as a widening fan at touch range, focused on
 ---
 
 **CapturPath**
-This sigil sifts binding force as a widening fan from the sigil itself, centered on the written mark.
+Screens binding tension as a widening forward spread at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4051,7 +4051,7 @@ This sigil sifts binding force as a widening fan from the sigil itself, centered
 ---
 
 **VastWeb**
-This sigil sifts reactive compounds at a single mark within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Screens reactive compounds at a single marked point within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4067,7 +4067,7 @@ This sigil sifts reactive compounds at a single mark within ten feet, centered o
 ---
 
 **BrightRing**
-This sigil unleashes kinetic pressure across the inscribed face from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Projects kinetic force across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4083,7 +4083,7 @@ This sigil unleashes kinetic pressure across the inscribed face from the sigil i
 ---
 
 **LightNet**
-This sigil unleashes binding force as a widening fan at touch range, focused on one object.
+Projects binding tension as a widening forward spread at touch range on a chosen object, delivering its effect as an active release.
 | Wattage | 44 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4099,7 +4099,7 @@ This sigil unleashes binding force as a widening fan at touch range, focused on 
 ---
 
 **FreezeFlame**
-This sigil raises cover against raw flux across the inscribed face at touch range, spread over a surface. It holds for about a minute.
+Raises a boundary against raw flux across the inscribed face at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -4115,7 +4115,7 @@ This sigil raises cover against raw flux across the inscribed face at touch rang
 ---
 
 **TwistWay**
-This sigil raises cover against light at a single mark at touch range, centered on the written mark. It holds for about an hour.
+Raises a boundary against photonic flux at a single marked point at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4131,7 +4131,7 @@ This sigil raises cover against light at a single mark at touch range, centered 
 ---
 
 **TameThread**
-This sigil unleashes raw flux across the inscribed face from the sigil itself, focused on one object.
+Projects raw flux across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release.
 | Wattage | 10 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4147,7 +4147,7 @@ This sigil unleashes raw flux across the inscribed face from the sigil itself, f
 ---
 
 **FallCore**
-This sigil unleashes reactive compounds across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
+Projects reactive compounds across the inscribed face within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4163,7 +4163,7 @@ This sigil unleashes reactive compounds across the inscribed face within ten fee
 ---
 
 **VastBond**
-This sigil locks down raw flux across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Pins raw flux across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4179,7 +4179,7 @@ This sigil locks down raw flux across the inscribed face at touch range, spread 
 ---
 
 **HeavySeal**
-This sigil drives heat as a widening fan within ten feet, centered on the written mark. It holds for about a minute.
+Drives thermal flow as a widening forward spread within ten feet on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -4195,7 +4195,7 @@ This sigil drives heat as a widening fan within ten feet, centered on the writte
 ---
 
 **RiseTide**
-This sigil drives reactive compounds as a widening fan within ten feet, focused on one object. It holds for about an hour.
+Drives reactive compounds as a widening forward spread within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 57 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -4211,7 +4211,7 @@ This sigil drives reactive compounds as a widening fan within ten feet, focused 
 ---
 
 **TwistBreath**
-This sigil reads light at a single mark at touch range, centered on the written mark. It holds for about an hour.
+Reads photonic flux at a single marked point at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4227,7 +4227,7 @@ This sigil reads light at a single mark at touch range, centered on the written 
 ---
 
 **RisEcho**
-This sigil unleashes light as a widening fan at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects photonic flux as a widening forward spread at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 31 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4243,7 +4243,7 @@ This sigil unleashes light as a widening fan at touch range, centered on the wri
 ---
 
 **NakedEcho**
-This sigil raises cover against binding force across the inscribed face at touch range, centered on the written mark.
+Raises a boundary against binding tension across the inscribed face at touch range on the inscribed location, forming a defensive layer that rejects incoming influence.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -4259,7 +4259,7 @@ This sigil raises cover against binding force across the inscribed face at touch
 ---
 
 **BurBreath**
-This sigil raises cover against raw flux at a single mark at touch range, focused on one object.
+Raises a boundary against raw flux at a single marked point at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 12 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4275,7 +4275,7 @@ This sigil raises cover against raw flux at a single mark at touch range, focuse
 ---
 
 **ReleaseStrike**
-This sigil unleashes binding force at a single mark at touch range, centered on the written mark. It holds for about a minute.
+Projects binding tension at a single marked point at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4291,7 +4291,7 @@ This sigil unleashes binding force at a single mark at touch range, centered on 
 ---
 
 **PalePulse**
-This sigil sifts raw flux across the inscribed face from the sigil itself, spread over a surface. It holds for about a minute.
+Screens raw flux across the inscribed face at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -4307,7 +4307,7 @@ This sigil sifts raw flux across the inscribed face from the sigil itself, sprea
 ---
 
 **ReleasRing**
-This sigil unleashes heat across the inscribed face from the sigil itself, focused on one object.
+Projects thermal flow across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4323,7 +4323,7 @@ This sigil unleashes heat across the inscribed face from the sigil itself, focus
 ---
 
 **ReleaseSong**
-This sigil unleashes raw flux at a single mark within ten feet, spread over a surface. It holds for about a minute.
+Projects raw flux at a single marked point within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4339,7 +4339,7 @@ This sigil unleashes raw flux at a single mark within ten feet, spread over a su
 ---
 
 **PiercRing**
-This sigil sifts binding force as a widening fan at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Screens binding tension as a widening forward spread at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 54 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -4355,7 +4355,7 @@ This sigil sifts binding force as a widening fan at touch range, focused on one 
 ---
 
 **WarmNet**
-This sigil locks down charge at a single mark from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Pins electrical charge at a single marked point at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4371,7 +4371,7 @@ This sigil locks down charge at a single mark from the sigil itself, focused on 
 ---
 
 **SweepSoul**
-This sigil sifts charge at a single mark at touch range, focused on one object.
+Screens electrical charge at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through.
 | Wattage | 44 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4387,7 +4387,7 @@ This sigil sifts charge at a single mark at touch range, focused on one object.
 ---
 
 **QuietAura**
-This sigil raises cover against heat across the inscribed face within ten feet, centered on the written mark. It holds for about a minute.
+Raises a boundary against thermal flow across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4403,7 +4403,7 @@ This sigil raises cover against heat across the inscribed face within ten feet, 
 ---
 
 **HiddenCharm**
-This sigil locks down light across the inscribed face within ten feet, focused on one object. It holds for about a minute.
+Pins photonic flux across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4419,7 +4419,7 @@ This sigil locks down light across the inscribed face within ten feet, focused o
 ---
 
 **ColdShell**
-This sigil sifts light as a widening fan at touch range, spread over a surface. It holds for about an hour.
+Screens photonic flux as a widening forward spread at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 66 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4435,7 +4435,7 @@ This sigil sifts light as a widening fan at touch range, spread over a surface. 
 ---
 
 **TaintedAura**
-This sigil reworks raw flux across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Reconfigures raw flux across the inscribed face at the sigil site on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4451,7 +4451,7 @@ This sigil reworks raw flux across the inscribed face from the sigil itself, foc
 ---
 
 **CurvedCrown**
-This sigil reads light across the inscribed face within ten feet, centered on the written mark. It holds for about an hour.
+Reads photonic flux across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4467,7 +4467,7 @@ This sigil reads light across the inscribed face within ten feet, centered on th
 ---
 
 **MurkyMark**
-This sigil unleashes charge at a single mark at touch range, centered on the written mark. It holds for about a minute.
+Projects electrical charge at a single marked point at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4483,7 +4483,7 @@ This sigil unleashes charge at a single mark at touch range, centered on the wri
 ---
 
 **PureSpirit**
-This sigil reworks light across the inscribed face at touch range, centered on the written mark. It holds for about a minute.
+Reconfigures photonic flux across the inscribed face at touch range on the inscribed location, changing the target state in place, and the working holds for about one minute.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4499,7 +4499,7 @@ This sigil reworks light across the inscribed face at touch range, centered on t
 ---
 
 **KindleWay**
-This sigil raises cover against charge as a widening fan at touch range, focused on one object. It holds for about an hour.
+Raises a boundary against electrical charge as a widening forward spread at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 79 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4515,7 +4515,7 @@ This sigil raises cover against charge as a widening fan at touch range, focused
 ---
 
 **FallRing**
-This sigil raises cover against binding force at a single mark from the sigil itself, centered on the written mark.
+Raises a boundary against binding tension at a single marked point at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4531,7 +4531,7 @@ This sigil raises cover against binding force at a single mark from the sigil it
 ---
 
 **ReleaseLight**
-This sigil unleashes heat at a single mark from the sigil itself, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects thermal flow at a single marked point at the sigil site on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4547,7 +4547,7 @@ This sigil unleashes heat at a single mark from the sigil itself, centered on th
 ---
 
 **FragileShroud**
-This sigil reads heat at a single mark from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Reads thermal flow at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4563,7 +4563,7 @@ This sigil reads heat at a single mark from the sigil itself, spread over a surf
 ---
 
 **DriftVeil**
-This sigil locks down reactive compounds as a widening fan within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins reactive compounds as a widening forward spread within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4579,7 +4579,7 @@ This sigil locks down reactive compounds as a widening fan within ten feet, cent
 ---
 
 **SharpFlame**
-This sigil unleashes raw flux at a single mark from the sigil itself, focused on one object.
+Projects raw flux at a single marked point at the sigil site on a chosen object, delivering its effect as an active release.
 | Wattage | 10 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4595,7 +4595,7 @@ This sigil unleashes raw flux at a single mark from the sigil itself, focused on
 ---
 
 **TransformBoon**
-This sigil sifts binding force at a single mark at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Screens binding tension at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4611,7 +4611,7 @@ This sigil sifts binding force at a single mark at touch range, focused on one o
 ---
 
 **TwistChain**
-This sigil locks down heat at a single mark within ten feet, centered on the written mark. It holds for about a minute.
+Pins thermal flow at a single marked point within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4627,7 +4627,7 @@ This sigil locks down heat at a single mark within ten feet, centered on the wri
 ---
 
 **PiercRoot**
-This sigil sifts kinetic pressure as a widening fan from the sigil itself, focused on one object. It holds for about an hour.
+Screens kinetic force as a widening forward spread at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 53 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4643,7 +4643,7 @@ This sigil sifts kinetic pressure as a widening fan from the sigil itself, focus
 ---
 
 **DriftingTouch**
-This sigil sifts light as a widening fan at touch range, centered on the written mark. It holds for about an hour.
+Screens photonic flux as a widening forward spread at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 61 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4659,7 +4659,7 @@ This sigil sifts light as a widening fan at touch range, centered on the written
 ---
 
 **StraightPath**
-This sigil reads raw flux across the inscribed face from the sigil itself, centered on the written mark. It holds for about an hour.
+Reads raw flux across the inscribed face at the sigil site on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 28 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4675,7 +4675,7 @@ This sigil reads raw flux across the inscribed face from the sigil itself, cente
 ---
 
 **FallCharm**
-This sigil reworks reactive compounds as a widening fan at touch range, spread over a surface. It holds for about an hour.
+Reconfigures reactive compounds as a widening forward spread at touch range across a chosen surface, changing the target state in place, and the working holds for about one hour.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4691,7 +4691,7 @@ This sigil reworks reactive compounds as a widening fan at touch range, spread o
 ---
 
 **StillCurse**
-This sigil unleashes kinetic pressure at a single mark from the sigil itself, spread over a surface. It holds for about an hour.
+Projects kinetic force at a single marked point at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4707,7 +4707,7 @@ This sigil unleashes kinetic pressure at a single mark from the sigil itself, sp
 ---
 
 **KindleTide**
-This sigil locks down heat across the inscribed face at touch range, centered on the written mark. It holds for about an hour.
+Pins thermal flow across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4723,7 +4723,7 @@ This sigil locks down heat across the inscribed face at touch range, centered on
 ---
 
 **ShatterMirror**
-This sigil unleashes reactive compounds across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
+Projects reactive compounds across the inscribed face within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4739,7 +4739,7 @@ This sigil unleashes reactive compounds across the inscribed face within ten fee
 ---
 
 **RisCalm**
-This sigil reworks raw flux across the inscribed face within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Reconfigures raw flux across the inscribed face within ten feet on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4755,7 +4755,7 @@ This sigil reworks raw flux across the inscribed face within ten feet, focused o
 ---
 
 **BurnFrost**
-This sigil locks down binding force across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Pins binding tension across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 112 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4771,7 +4771,7 @@ This sigil locks down binding force across the inscribed face at touch range, sp
 ---
 
 **SweepWeb**
-This sigil sifts kinetic pressure across the inscribed face within ten feet, centered on the written mark.
+Screens kinetic force across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4787,7 +4787,7 @@ This sigil sifts kinetic pressure across the inscribed face within ten feet, cen
 ---
 
 **FrozenMark**
-This sigil locks down heat across the inscribed face at touch range, centered on the written mark.
+Pins thermal flow across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4803,7 +4803,7 @@ This sigil locks down heat across the inscribed face at touch range, centered on
 ---
 
 **BurShroud**
-This sigil reworks light as a widening fan from the sigil itself, focused on one object. It holds for about an hour.
+Reconfigures photonic flux as a widening forward spread at the sigil site on a chosen object, changing the target state in place, and the working holds for about one hour.
 | Wattage | 46 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4819,7 +4819,7 @@ This sigil reworks light as a widening fan from the sigil itself, focused on one
 ---
 
 **ShallowCage**
-This sigil raises cover against binding force at a single mark within ten feet, spread over a surface.
+Raises a boundary against binding tension at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4835,7 +4835,7 @@ This sigil raises cover against binding force at a single mark within ten feet, 
 ---
 
 **TransformRune**
-This sigil locks down raw flux across the inscribed face at touch range, centered on the written mark. It holds for about a minute.
+Pins raw flux across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4851,7 +4851,7 @@ This sigil locks down raw flux across the inscribed face at touch range, centere
 ---
 
 **WarmCore**
-This sigil locks down reactive compounds at a single mark from the sigil itself, centered on the written mark. It stays active while the caster keeps feeding it.
+Pins reactive compounds at a single marked point at the sigil site on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4867,7 +4867,7 @@ This sigil locks down reactive compounds at a single mark from the sigil itself,
 ---
 
 **TransformSong**
-This sigil raises cover against charge across the inscribed face within ten feet, focused on one object.
+Raises a boundary against electrical charge across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4883,7 +4883,7 @@ This sigil raises cover against charge across the inscribed face within ten feet
 ---
 
 **FiercePath**
-This sigil reworks binding force across the inscribed face within ten feet, spread over a surface. It holds for about an hour.
+Reconfigures binding tension across the inscribed face within ten feet across a chosen surface, changing the target state in place, and the working holds for about one hour.
 | Wattage | 65 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4899,7 +4899,7 @@ This sigil reworks binding force across the inscribed face within ten feet, spre
 ---
 
 **DarkCore**
-This sigil unleashes charge at a single mark from the sigil itself, centered on the written mark. It holds for about an hour.
+Projects electrical charge at a single marked point at the sigil site on the inscribed location, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 65 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4915,7 +4915,7 @@ This sigil unleashes charge at a single mark from the sigil itself, centered on 
 ---
 
 **FragileNet**
-This sigil unleashes binding force across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects binding tension across the inscribed face at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4931,7 +4931,7 @@ This sigil unleashes binding force across the inscribed face at touch range, cen
 ---
 
 **CaptureFlame**
-This sigil reworks light across the inscribed face from the sigil itself, focused on one object.
+Reconfigures photonic flux across the inscribed face at the sigil site on a chosen object, changing the target state in place.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4947,7 +4947,7 @@ This sigil reworks light across the inscribed face from the sigil itself, focuse
 ---
 
 **CalmFlame**
-This sigil locks down reactive compounds across the inscribed face from the sigil itself, spread over a surface.
+Pins reactive compounds across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4963,7 +4963,7 @@ This sigil locks down reactive compounds across the inscribed face from the sigi
 ---
 
 **AnchorBrand**
-This sigil reworks raw flux across the inscribed face within ten feet, centered on the written mark. It holds for about a minute.
+Reconfigures raw flux across the inscribed face within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4979,7 +4979,7 @@ This sigil reworks raw flux across the inscribed face within ten feet, centered 
 ---
 
 **WeavVoid**
-This sigil locks down raw flux across the inscribed face within ten feet, spread over a surface. It holds for about a minute.
+Pins raw flux across the inscribed face within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4995,7 +4995,7 @@ This sigil locks down raw flux across the inscribed face within ten feet, spread
 ---
 
 **CalmLock**
-This sigil sifts binding force at a single mark at touch range, spread over a surface. It holds for about an hour.
+Screens binding tension at a single marked point at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 112 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5011,7 +5011,7 @@ This sigil sifts binding force at a single mark at touch range, spread over a su
 ---
 
 **KindlPath**
-This sigil raises cover against raw flux at a single mark from the sigil itself, spread over a surface. It holds for about a minute.
+Raises a boundary against raw flux at a single marked point at the sigil site across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5027,7 +5027,7 @@ This sigil raises cover against raw flux at a single mark from the sigil itself,
 ---
 
 **TwinSigil**
-This sigil reworks kinetic pressure as a widening fan from the sigil itself, spread over a surface. It holds for about a minute.
+Reconfigures kinetic force as a widening forward spread at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one minute.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5043,7 +5043,7 @@ This sigil reworks kinetic pressure as a widening fan from the sigil itself, spr
 ---
 
 **BindKnot**
-This sigil sifts kinetic pressure across the inscribed face at touch range, centered on the written mark.
+Screens kinetic force across the inscribed face at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5059,7 +5059,7 @@ This sigil sifts kinetic pressure across the inscribed face at touch range, cent
 ---
 
 **DullFrost**
-This sigil reads reactive compounds across the inscribed face at touch range, spread over a surface.
+Reads reactive compounds across the inscribed face at touch range across a chosen surface, returning readable signal data to the caster.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5075,7 +5075,7 @@ This sigil reads reactive compounds across the inscribed face at touch range, sp
 ---
 
 **StillGlyph**
-This sigil raises cover against light as a widening fan from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Raises a boundary against photonic flux as a widening forward spread at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5091,7 +5091,7 @@ This sigil raises cover against light as a widening fan from the sigil itself, f
 ---
 
 **BurThread**
-This sigil reads raw flux across the inscribed face within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Reads raw flux across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5107,7 +5107,7 @@ This sigil reads raw flux across the inscribed face within ten feet, spread over
 ---
 
 **FrozenMirror**
-This sigil sifts charge across the inscribed face within ten feet, spread over a surface. It holds for about a minute.
+Screens electrical charge across the inscribed face within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5123,7 +5123,7 @@ This sigil sifts charge across the inscribed face within ten feet, spread over a
 ---
 
 **DriftBrand**
-This sigil reads heat at a single mark at touch range, focused on one object. It stays active while the caster keeps feeding it.
+Reads thermal flow at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5139,7 +5139,7 @@ This sigil reads heat at a single mark at touch range, focused on one object. It
 ---
 
 **BurRune**
-This sigil locks down charge across the inscribed face from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Pins electrical charge across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5155,7 +5155,7 @@ This sigil locks down charge across the inscribed face from the sigil itself, sp
 ---
 
 **TransformMark**
-This sigil reworks charge at a single mark from the sigil itself, spread over a surface.
+Reconfigures electrical charge at a single marked point at the sigil site across a chosen surface, changing the target state in place.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5171,7 +5171,7 @@ This sigil reworks charge at a single mark from the sigil itself, spread over a 
 ---
 
 **ShatterWay**
-This sigil sifts raw flux across the inscribed face within ten feet, centered on the written mark.
+Screens raw flux across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5187,7 +5187,7 @@ This sigil sifts raw flux across the inscribed face within ten feet, centered on
 ---
 
 **FierceWall**
-This sigil locks down reactive compounds as a widening fan within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Pins reactive compounds as a widening forward spread within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -5203,7 +5203,7 @@ This sigil locks down reactive compounds as a widening fan within ten feet, focu
 ---
 
 **QuietVoice**
-This sigil reworks charge as a widening fan within ten feet, spread over a surface.
+Reconfigures electrical charge as a widening forward spread within ten feet across a chosen surface, changing the target state in place.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5219,7 +5219,7 @@ This sigil reworks charge as a widening fan within ten feet, spread over a surfa
 ---
 
 **WeaveFlame**
-This sigil locks down binding force at a single mark from the sigil itself, spread over a surface. It holds for about a minute.
+Pins binding tension at a single marked point at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5235,7 +5235,7 @@ This sigil locks down binding force at a single mark from the sigil itself, spre
 ---
 
 **FlowRune**
-This sigil unleashes heat as a widening fan within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Projects thermal flow as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5251,7 +5251,7 @@ This sigil unleashes heat as a widening fan within ten feet, focused on one obje
 ---
 
 **BurTouch**
-This sigil sifts heat at a single mark at touch range, centered on the written mark. It holds for about a minute.
+Screens thermal flow at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5267,7 +5267,7 @@ This sigil sifts heat at a single mark at touch range, centered on the written m
 ---
 
 **LoneAura**
-This sigil unleashes charge across the inscribed face at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Projects electrical charge across the inscribed face at touch range across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5283,7 +5283,7 @@ This sigil unleashes charge across the inscribed face at touch range, spread ove
 ---
 
 **PiercKnot**
-This sigil locks down reactive compounds across the inscribed face within ten feet, spread over a surface.
+Pins reactive compounds across the inscribed face within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5299,7 +5299,7 @@ This sigil locks down reactive compounds across the inscribed face within ten fe
 ---
 
 **ClearShroud**
-This sigil locks down heat across the inscribed face from the sigil itself, focused on one object.
+Pins thermal flow across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5315,7 +5315,7 @@ This sigil locks down heat across the inscribed face from the sigil itself, focu
 ---
 
 **CapturEcho**
-This sigil sifts binding force at a single mark within ten feet, centered on the written mark.
+Screens binding tension at a single marked point within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5331,7 +5331,7 @@ This sigil sifts binding force at a single mark within ten feet, centered on the
 ---
 
 **TransformGate**
-This sigil drives reactive compounds across the inscribed face within ten feet, focused on one object.
+Drives reactive compounds across the inscribed face within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5347,7 +5347,7 @@ This sigil drives reactive compounds across the inscribed face within ten feet, 
 ---
 
 **HumbleGlyph**
-This sigil reads raw flux across the inscribed face within ten feet, centered on the written mark.
+Reads raw flux across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster.
 | Wattage | 13 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5363,7 +5363,7 @@ This sigil reads raw flux across the inscribed face within ten feet, centered on
 ---
 
 **FrozenNet**
-This sigil drives reactive compounds across the inscribed face within ten feet, focused on one object. It stays active while the caster keeps feeding it.
+Drives reactive compounds across the inscribed face within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5379,7 +5379,7 @@ This sigil drives reactive compounds across the inscribed face within ten feet, 
 ---
 
 **BindVeil**
-This sigil sifts light as a widening fan within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Screens photonic flux as a widening forward spread within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5395,7 +5395,7 @@ This sigil sifts light as a widening fan within ten feet, spread over a surface.
 ---
 
 **SwiftCage**
-This sigil unleashes reactive compounds as a widening fan at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects reactive compounds as a widening forward spread at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5411,7 +5411,7 @@ This sigil unleashes reactive compounds as a widening fan at touch range, center
 ---
 
 **KindleSong**
-This sigil raises cover against light as a widening fan within ten feet, centered on the written mark.
+Raises a boundary against photonic flux as a widening forward spread within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5427,7 +5427,7 @@ This sigil raises cover against light as a widening fan within ten feet, centere
 ---
 
 **SurgeBreath**
-This sigil reworks kinetic pressure across the inscribed face within ten feet, focused on one object. It holds for about a minute.
+Reconfigures kinetic force across the inscribed face within ten feet on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5443,7 +5443,7 @@ This sigil reworks kinetic pressure across the inscribed face within ten feet, f
 ---
 
 **ReleaseBlessing**
-This sigil unleashes kinetic pressure across the inscribed face at touch range, focused on one object. It holds for about an hour.
+Projects kinetic force across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5459,7 +5459,7 @@ This sigil unleashes kinetic pressure across the inscribed face at touch range, 
 ---
 
 **PureStorm**
-This sigil drives reactive compounds across the inscribed face at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Drives reactive compounds across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5475,7 +5475,7 @@ This sigil drives reactive compounds across the inscribed face at touch range, s
 ---
 
 **ShatterDance**
-This sigil sifts reactive compounds at a single mark within ten feet, centered on the written mark. It holds for about a minute.
+Screens reactive compounds at a single marked point within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5491,7 +5491,7 @@ This sigil sifts reactive compounds at a single mark within ten feet, centered o
 ---
 
 **SlowGate**
-This sigil unleashes binding force across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Projects binding tension across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5507,7 +5507,7 @@ This sigil unleashes binding force across the inscribed face from the sigil itse
 ---
 
 **AnchorVeil**
-This sigil locks down heat as a widening fan within ten feet, focused on one object.
+Pins thermal flow as a widening forward spread within ten feet on a chosen object, creating a clamp-like hold that resists motion or change.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -5523,7 +5523,7 @@ This sigil locks down heat as a widening fan within ten feet, focused on one obj
 ---
 
 **ShatterKey**
-This sigil unleashes raw flux across the inscribed face within ten feet, centered on the written mark.
+Projects raw flux across the inscribed face within ten feet on the inscribed location, delivering its effect as an active release.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5539,7 +5539,7 @@ This sigil unleashes raw flux across the inscribed face within ten feet, centere
 ---
 
 **LoneSilence**
-This sigil reworks kinetic pressure across the inscribed face at touch range, focused on one object.
+Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5555,7 +5555,7 @@ This sigil reworks kinetic pressure across the inscribed face at touch range, fo
 ---
 
 **VastRoot**
-This sigil sifts heat across the inscribed face within ten feet, centered on the written mark. It holds for about an hour.
+Screens thermal flow across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5571,7 +5571,7 @@ This sigil sifts heat across the inscribed face within ten feet, centered on the
 ---
 
 **KindlChain**
-This sigil reworks kinetic pressure across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5587,7 +5587,7 @@ This sigil reworks kinetic pressure across the inscribed face at touch range, fo
 ---
 
 **HumbleHeart**
-This sigil reads binding force across the inscribed face from the sigil itself, focused on one object.
+Reads binding tension across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5603,7 +5603,7 @@ This sigil reads binding force across the inscribed face from the sigil itself, 
 ---
 
 **BrightAura**
-This sigil reads heat across the inscribed face at touch range, centered on the written mark. It holds for about an hour.
+Reads thermal flow across the inscribed face at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5619,7 +5619,7 @@ This sigil reads heat across the inscribed face at touch range, centered on the 
 ---
 
 **ChillScar**
-This sigil reworks light as a widening fan from the sigil itself, spread over a surface. It holds for about an hour.
+Reconfigures photonic flux as a widening forward spread at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one hour.
 | Wattage | 49 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5635,7 +5635,7 @@ This sigil reworks light as a widening fan from the sigil itself, spread over a 
 ---
 
 **SolidBond**
-This sigil reworks light at a single mark at touch range, focused on one object. It holds for about a minute.
+Reconfigures photonic flux at a single marked point at touch range on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5651,7 +5651,7 @@ This sigil reworks light at a single mark at touch range, focused on one object.
 ---
 
 **BreakBrand**
-This sigil reworks kinetic pressure as a widening fan within ten feet, centered on the written mark.
+Reconfigures kinetic force as a widening forward spread within ten feet on the inscribed location, changing the target state in place.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5667,7 +5667,7 @@ This sigil reworks kinetic pressure as a widening fan within ten feet, centered 
 ---
 
 **FreezCharm**
-This sigil drives charge across the inscribed face at touch range, spread over a surface. It holds for about a minute.
+Drives electrical charge across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Move |
@@ -5683,7 +5683,7 @@ This sigil drives charge across the inscribed face at touch range, spread over a
 ---
 
 **BreakEcho**
-This sigil raises cover against raw flux across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Raises a boundary against raw flux across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 12 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5699,7 +5699,7 @@ This sigil raises cover against raw flux across the inscribed face at touch rang
 ---
 
 **BurnShadow**
-This sigil reworks heat across the inscribed face from the sigil itself, centered on the written mark. It holds for about an hour.
+Reconfigures thermal flow across the inscribed face at the sigil site on the inscribed location, changing the target state in place, and the working holds for about one hour.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5715,7 +5715,7 @@ This sigil reworks heat across the inscribed face from the sigil itself, centere
 ---
 
 **SurgeDance**
-This sigil sifts kinetic pressure across the inscribed face from the sigil itself, centered on the written mark.
+Screens kinetic force across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
 | Wattage | 6 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5731,7 +5731,7 @@ This sigil sifts kinetic pressure across the inscribed face from the sigil itsel
 ---
 
 **ChillWard**
-This sigil raises cover against kinetic pressure across the inscribed face from the sigil itself, centered on the written mark. It stays active while the caster keeps feeding it.
+Raises a boundary against kinetic force across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5747,7 +5747,7 @@ This sigil raises cover against kinetic pressure across the inscribed face from 
 ---
 
 **PiercFrost**
-This sigil unleashes raw flux at a single mark within ten feet, centered on the written mark. It stays active while the caster keeps feeding it.
+Projects raw flux at a single marked point within ten feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5763,7 +5763,7 @@ This sigil unleashes raw flux at a single mark within ten feet, centered on the 
 ---
 
 **AncientVoice**
-This sigil raises cover against reactive compounds across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Raises a boundary against reactive compounds across the inscribed face at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5779,7 +5779,7 @@ This sigil raises cover against reactive compounds across the inscribed face at 
 ---
 
 **WeaveWay**
-This sigil drives binding force across the inscribed face within ten feet, spread over a surface. It stays active while the caster keeps feeding it.
+Drives binding tension across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5795,7 +5795,7 @@ This sigil drives binding force across the inscribed face within ten feet, sprea
 ---
 
 **SurSoul**
-This sigil raises cover against reactive compounds at a single mark at touch range, focused on one object. It holds for about an hour.
+Raises a boundary against reactive compounds at a single marked point at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 69 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5811,7 +5811,7 @@ This sigil raises cover against reactive compounds at a single mark at touch ran
 ---
 
 **DriftRoot**
-This sigil drives light across the inscribed face from the sigil itself, centered on the written mark.
+Drives photonic flux across the inscribed face at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect.
 | Wattage | 24 W |
 | Shape | Square |
 | Hook | Move |
@@ -5827,7 +5827,7 @@ This sigil drives light across the inscribed face from the sigil itself, centere
 ---
 
 **BreakBreath**
-This sigil raises cover against binding force at a single mark within ten feet, spread over a surface. It holds for about a minute.
+Raises a boundary against binding tension at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5843,7 +5843,7 @@ This sigil raises cover against binding force at a single mark within ten feet, 
 ---
 
 **PiercVoice**
-This sigil reads binding force as a widening fan at touch range, spread over a surface. It holds for about a minute.
+Reads binding tension as a widening forward spread at touch range across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 52 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5859,7 +5859,7 @@ This sigil reads binding force as a widening fan at touch range, spread over a s
 ---
 
 **BindKey**
-This sigil reads binding force at a single mark from the sigil itself, focused on one object.
+Reads binding tension at a single marked point at the sigil site on a chosen object, returning readable signal data to the caster.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5875,7 +5875,7 @@ This sigil reads binding force at a single mark from the sigil itself, focused o
 ---
 
 **BindFrost**
-This sigil reworks kinetic pressure as a widening fan within ten feet, spread over a surface.
+Reconfigures kinetic force as a widening forward spread within ten feet across a chosen surface, changing the target state in place.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5891,7 +5891,7 @@ This sigil reworks kinetic pressure as a widening fan within ten feet, spread ov
 ---
 
 **SweepPulse**
-This sigil raises cover against kinetic pressure across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Raises a boundary against kinetic force across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5907,7 +5907,7 @@ This sigil raises cover against kinetic pressure across the inscribed face at to
 ---
 
 **FallDance**
-This sigil raises cover against heat across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Raises a boundary against thermal flow across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5923,7 +5923,7 @@ This sigil raises cover against heat across the inscribed face at touch range, f
 ---
 
 **SurgeStorm**
-This sigil drives light across the inscribed face within ten feet, spread over a surface.
+Drives photonic flux across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5939,7 +5939,7 @@ This sigil drives light across the inscribed face within ten feet, spread over a
 ---
 
 **AnchorVoid**
-This sigil unleashes reactive compounds across the inscribed face from the sigil itself, spread over a surface. It holds for about a minute.
+Projects reactive compounds across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5955,7 +5955,7 @@ This sigil unleashes reactive compounds across the inscribed face from the sigil
 ---
 
 **CurvedWisp**
-This sigil drives charge at a single mark from the sigil itself, centered on the written mark. It holds for about an hour.
+Drives electrical charge at a single marked point at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5971,7 +5971,7 @@ This sigil drives charge at a single mark from the sigil itself, centered on the
 ---
 
 **BindFlame**
-This sigil unleashes heat across the inscribed face at touch range, focused on one object. It holds for about an hour.
+Projects thermal flow across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5987,7 +5987,7 @@ This sigil unleashes heat across the inscribed face at touch range, focused on o
 ---
 
 **TameCore**
-This sigil drives heat as a widening fan at touch range, centered on the written mark. It holds for about a minute.
+Drives thermal flow as a widening forward spread at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Move |
@@ -6003,7 +6003,7 @@ This sigil drives heat as a widening fan at touch range, centered on the written
 ---
 
 **FragileCalm**
-This sigil locks down binding force across the inscribed face at touch range, centered on the written mark. It holds for about a minute.
+Pins binding tension across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6019,7 +6019,7 @@ This sigil locks down binding force across the inscribed face at touch range, ce
 ---
 
 **PiercSpirit**
-This sigil unleashes charge across the inscribed face from the sigil itself, focused on one object. It holds for about a minute.
+Projects electrical charge across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -6035,7 +6035,7 @@ This sigil unleashes charge across the inscribed face from the sigil itself, foc
 ---
 
 **ShatterBridge**
-This sigil reworks binding force at a single mark from the sigil itself, focused on one object. It holds for about a minute.
+Reconfigures binding tension at a single marked point at the sigil site on a chosen object, changing the target state in place, and the working holds for about one minute.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -6051,7 +6051,7 @@ This sigil reworks binding force at a single mark from the sigil itself, focused
 ---
 
 **ShatterCrown**
-This sigil locks down charge at a single mark at touch range, centered on the written mark. It holds for about an hour.
+Pins electrical charge at a single marked point at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -6067,7 +6067,7 @@ This sigil locks down charge at a single mark at touch range, centered on the wr
 ---
 
 **HumbleWall**
-This sigil sifts raw flux across the inscribed face at touch range, spread over a surface.
+Screens raw flux across the inscribed face at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -6083,7 +6083,7 @@ This sigil sifts raw flux across the inscribed face at touch range, spread over 
 ---
 
 **ShatterCalm**
-This sigil locks down heat across the inscribed face at touch range, spread over a surface. It holds for about a minute.
+Pins thermal flow across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -6099,7 +6099,7 @@ This sigil locks down heat across the inscribed face at touch range, spread over
 ---
 
 **LightVoid**
-This sigil reads kinetic pressure across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Reads kinetic force across the inscribed face at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -6115,7 +6115,7 @@ This sigil reads kinetic pressure across the inscribed face at touch range, focu
 ---
 
 **FallShadow**
-This sigil raises cover against heat across the inscribed face from the sigil itself, centered on the written mark.
+Raises a boundary against thermal flow across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Ward |
@@ -6131,7 +6131,7 @@ This sigil raises cover against heat across the inscribed face from the sigil it
 ---
 
 **GentleWisp**
-This sigil locks down raw flux across the inscribed face within ten feet, focused on one object. It holds for about an hour.
+Pins raw flux across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6147,7 +6147,7 @@ This sigil locks down raw flux across the inscribed face within ten feet, focuse
 ---
 
 **FreezeStorm**
-This sigil locks down binding force at a single mark at touch range, spread over a surface.
+Pins binding tension at a single marked point at touch range across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6163,7 +6163,7 @@ This sigil locks down binding force at a single mark at touch range, spread over
 ---
 
 **SweepFlame**
-This sigil locks down charge across the inscribed face at touch range, spread over a surface. It stays active while the caster keeps feeding it.
+Pins electrical charge across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -6179,7 +6179,7 @@ This sigil locks down charge across the inscribed face at touch range, spread ov
 ---
 
 **BreakTouch**
-This sigil sifts raw flux at a single mark at touch range, focused on one object.
+Screens raw flux at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through.
 | Wattage | 7 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -6195,7 +6195,7 @@ This sigil sifts raw flux at a single mark at touch range, focused on one object
 ---
 
 **VastHeart**
-This sigil raises cover against raw flux across the inscribed face at touch range, focused on one object. It holds for about a minute.
+Raises a boundary against raw flux across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
 | Wattage | 12 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -6211,7 +6211,7 @@ This sigil raises cover against raw flux across the inscribed face at touch rang
 ---
 
 **HumbleChain**
-This sigil unleashes binding force as a widening fan from the sigil itself, focused on one object.
+Projects binding tension as a widening forward spread at the sigil site on a chosen object, delivering its effect as an active release.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Emit |
@@ -6227,7 +6227,7 @@ This sigil unleashes binding force as a widening fan from the sigil itself, focu
 ---
 
 **FallCurse**
-This sigil locks down raw flux across the inscribed face from the sigil itself, spread over a surface. It holds for about a minute.
+Pins raw flux across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6243,7 +6243,7 @@ This sigil locks down raw flux across the inscribed face from the sigil itself, 
 ---
 
 **TwinRoot**
-This sigil reads heat as a widening fan within ten feet, centered on the written mark. It holds for about a minute.
+Reads thermal flow as a widening forward spread within ten feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Sense |
@@ -6259,7 +6259,7 @@ This sigil reads heat as a widening fan within ten feet, centered on the written
 ---
 
 **WeavSigil**
-This sigil reworks kinetic pressure across the inscribed face at touch range, centered on the written mark. It stays active while the caster keeps feeding it.
+Reconfigures kinetic force across the inscribed face at touch range on the inscribed location, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -6275,7 +6275,7 @@ This sigil reworks kinetic pressure across the inscribed face at touch range, ce
 ---
 
 **FreezEye**
-This sigil locks down charge across the inscribed face within ten feet, focused on one object.
+Pins electrical charge across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6291,7 +6291,7 @@ This sigil locks down charge across the inscribed face within ten feet, focused 
 ---
 
 **RiseScar**
-This sigil drives kinetic pressure across the inscribed face at touch range, spread over a surface. It holds for about an hour.
+Drives kinetic force across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -6307,7 +6307,7 @@ This sigil drives kinetic pressure across the inscribed face at touch range, spr
 ---
 
 **DriftPulse**
-This sigil drives raw flux as a widening fan at touch range, centered on the written mark. It holds for about an hour.
+Drives raw flux as a widening forward spread at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -6323,7 +6323,7 @@ This sigil drives raw flux as a widening fan at touch range, centered on the wri
 ---
 
 **ChillBrand**
-This sigil sifts charge as a widening fan from the sigil itself, focused on one object. It stays active while the caster keeps feeding it.
+Screens electrical charge as a widening forward spread at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
 | Wattage | 62 W |
 | Shape | Square |
 | Hook | Filter |
@@ -6339,7 +6339,7 @@ This sigil sifts charge as a widening fan from the sigil itself, focused on one 
 ---
 
 **BindPulse**
-This sigil unleashes light at a single mark from the sigil itself, centered on the written mark. It holds for about a minute.
+Projects photonic flux at a single marked point at the sigil site on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Emit |
@@ -6355,7 +6355,7 @@ This sigil unleashes light at a single mark from the sigil itself, centered on t
 ---
 
 **DeepPath**
-This sigil unleashes raw flux at a single mark within ten feet, centered on the written mark. It holds for about an hour.
+Projects raw flux at a single marked point within ten feet on the inscribed location, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -6371,7 +6371,7 @@ This sigil unleashes raw flux at a single mark within ten feet, centered on the 
 ---
 
 **AnchorFlame**
-This sigil locks down light at a single mark from the sigil itself, spread over a surface. It holds for about a minute.
+Pins photonic flux at a single marked point at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
 | Wattage | 34 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6387,7 +6387,7 @@ This sigil locks down light at a single mark from the sigil itself, spread over 
 ---
 
 **DriftingVoid**
-This sigil unleashes kinetic pressure across the inscribed face from the sigil itself, spread over a surface. It stays active while the caster keeps feeding it.
+Projects kinetic force across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Emit |

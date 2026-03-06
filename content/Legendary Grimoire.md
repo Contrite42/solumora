@@ -2,7 +2,7 @@ Legendary spells require [[Control Tier]] T7–T8 and exist at a tier of power w
 
 _Return to [[All Grimoire]]_
 **ReleaseVeil**
-This sigil sifts binding force across a held field within two hundred feet, focused on one person. It holds for about an hour.
+Screens binding tension as a held field over the area within two hundred feet on a single person, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -18,7 +18,7 @@ This sigil sifts binding force across a held field within two hundred feet, focu
 ---
 
 **VastGate**
-This sigil reworks light as a circling band wherever the caster can see, focused on a marked subject. Once set, it remains as a permanent working.
+Reconfigures photonic flux as a circular band around the mark anywhere in line of sight on a marked subject, changing the target state in place, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -34,7 +34,7 @@ This sigil reworks light as a circling band wherever the caster can see, focused
 ---
 
 **DissolvBridge**
-This sigil unleashes heat as a standing column wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
+Projects thermal flow as a standing column anywhere in line of sight on a single person, delivering its effect as an active release, and it stays latched until deliberately dismissed.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -50,7 +50,7 @@ This sigil unleashes heat as a standing column wherever the caster can see, focu
 ---
 
 **SurgePulse**
-This sigil reworks soul-current as a widening fan within two hundred feet, spread across a group. Once set, it remains as a permanent working.
+Reconfigures soul-signature flux as a widening forward spread within two hundred feet across a grouped set of targets, changing the target state in place, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -66,7 +66,7 @@ This sigil reworks soul-current as a widening fan within two hundred feet, sprea
 ---
 
 **GentleCalm**
-This sigil threads and steers thought-current as a wrapped radius within two hundred feet, focused on one person. It stays active while the caster keeps feeding it.
+Actively modulates cognitive signal as a wrapped radius around the mark within two hundred feet on a single person, continuously steering intensity and behavior while active, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -82,7 +82,7 @@ This sigil threads and steers thought-current as a wrapped radius within two hun
 ---
 
 **KindleFlame**
-This sigil reworks kinetic pressure as a standing column within two hundred feet, focused on one person. Once set, it remains as a permanent working.
+Reconfigures kinetic force as a standing column within two hundred feet on a single person, changing the target state in place, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -98,7 +98,7 @@ This sigil reworks kinetic pressure as a standing column within two hundred feet
 ---
 
 **SteadyCharm**
-This sigil threads and steers light as a circling band wherever the caster can see, focused on one person. It stays active while the caster keeps feeding it.
+Actively modulates photonic flux as a circular band around the mark anywhere in line of sight on a single person, continuously steering intensity and behavior while active, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -114,7 +114,7 @@ This sigil threads and steers light as a circling band wherever the caster can s
 ---
 
 **PierceScar**
-This sigil reworks kinetic pressure across a held field within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
+Reconfigures kinetic force as a held field over the area within fifty feet on a single person, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -130,7 +130,7 @@ This sigil reworks kinetic pressure across a held field within fifty feet, focus
 ---
 
 **VastGlyph**
-This sigil raises cover against reactive compounds as a circling band wherever the caster can see, focused on one person. It remains until its trigger condition is met.
+Raises a boundary against reactive compounds as a circular band around the mark anywhere in line of sight on a single person, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -146,7 +146,7 @@ This sigil raises cover against reactive compounds as a circling band wherever t
 ---
 
 **GuardThread**
-This sigil locks down kinetic pressure as a circling band within fifty feet, focused on one person. It stays active while the caster keeps feeding it.
+Pins kinetic force as a circular band around the mark within fifty feet on a single person, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -162,7 +162,7 @@ This sigil locks down kinetic pressure as a circling band within fifty feet, foc
 ---
 
 **BrightSeal**
-This sigil reads heat as a standing column wherever the caster can see, spread across a group. It stays latched until someone dismisses it.
+Reads thermal flow as a standing column anywhere in line of sight across a grouped set of targets, returning readable signal data to the caster, and it stays latched until deliberately dismissed.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -178,7 +178,7 @@ This sigil reads heat as a standing column wherever the caster can see, spread a
 ---
 
 **SteadyRoot**
-This sigil reworks heat as a widening fan wherever the caster can see, focused on a marked subject. Once set, it remains as a permanent working.
+Reconfigures thermal flow as a widening forward spread anywhere in line of sight on a marked subject, changing the target state in place, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -194,7 +194,7 @@ This sigil reworks heat as a widening fan wherever the caster can see, focused o
 ---
 
 **FreezeBond**
-This sigil reads reactive compounds across a held field within two hundred feet, applied to the chosen filter set. It stays latched until someone dismisses it.
+Reads reactive compounds as a held field over the area within two hundred feet across only targets that match the filter, returning readable signal data to the caster, and it stays latched until deliberately dismissed.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -210,7 +210,7 @@ This sigil reads reactive compounds across a held field within two hundred feet,
 ---
 
 **SweepBond**
-This sigil reads thought-current as a circling band within fifty feet, focused on a marked subject. Once set, it remains as a permanent working.
+Reads cognitive signal as a circular band around the mark within fifty feet on a marked subject, returning readable signal data to the caster, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -226,7 +226,7 @@ This sigil reads thought-current as a circling band within fifty feet, focused o
 ---
 
 **SurPulse**
-This sigil locks down binding force as a widening fan within two hundred feet, applied to the chosen filter set. It holds for about an hour.
+Pins binding tension as a widening forward spread within two hundred feet across only targets that match the filter, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -242,7 +242,7 @@ This sigil locks down binding force as a widening fan within two hundred feet, a
 ---
 
 **WeavPath**
-This sigil threads and steers binding force as a standing column wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
+Actively modulates binding tension as a standing column anywhere in line of sight on a single person, continuously steering intensity and behavior while active, and it stays latched until deliberately dismissed.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -258,7 +258,7 @@ This sigil threads and steers binding force as a standing column wherever the ca
 ---
 
 **DriftBond**
-This sigil locks down charge as a widening fan wherever the caster can see, focused on a marked subject. It stays active while the caster keeps feeding it.
+Pins electrical charge as a widening forward spread anywhere in line of sight on a marked subject, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -274,7 +274,7 @@ This sigil locks down charge as a widening fan wherever the caster can see, focu
 ---
 
 **BurnWay**
-This sigil reworks kinetic pressure as a widening fan wherever the caster can see, spread across a group. It stays active while the caster keeps feeding it.
+Reconfigures kinetic force as a widening forward spread anywhere in line of sight across a grouped set of targets, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -290,7 +290,7 @@ This sigil reworks kinetic pressure as a widening fan wherever the caster can se
 ---
 
 **BurnFrost**
-This sigil breaks the momentum of charge as a wrapped radius within two hundred feet, applied to the chosen filter set. It stays latched until someone dismisses it.
+Disrupts electrical charge as a wrapped radius around the mark within two hundred feet across only targets that match the filter, breaking continuity in an existing or incoming effect, and it stays latched until deliberately dismissed.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -306,7 +306,7 @@ This sigil breaks the momentum of charge as a wrapped radius within two hundred 
 ---
 
 **WeavWard**
-This sigil raises cover against light as a widening fan within two hundred feet, applied to the chosen filter set. It stays active while the caster keeps feeding it.
+Raises a boundary against photonic flux as a widening forward spread within two hundred feet across only targets that match the filter, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -322,7 +322,7 @@ This sigil raises cover against light as a widening fan within two hundred feet,
 ---
 
 **FreezHalo**
-This sigil breaks the momentum of reactive compounds as a standing column wherever the caster can see, spread across a group. It remains until its trigger condition is met.
+Disrupts reactive compounds as a standing column anywhere in line of sight across a grouped set of targets, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -338,7 +338,7 @@ This sigil breaks the momentum of reactive compounds as a standing column wherev
 ---
 
 **ReleasFrost**
-This sigil threads and steers binding force as a widening fan wherever the caster can see, focused on one person. It remains until its trigger condition is met.
+Actively modulates binding tension as a widening forward spread anywhere in line of sight on a single person, continuously steering intensity and behavior while active, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -354,7 +354,7 @@ This sigil threads and steers binding force as a widening fan wherever the caste
 ---
 
 **BreakStorm**
-This sigil reworks binding force as a standing column wherever the caster can see, spread across a group. It holds for about an hour.
+Reconfigures binding tension as a standing column anywhere in line of sight across a grouped set of targets, changing the target state in place, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -370,7 +370,7 @@ This sigil reworks binding force as a standing column wherever the caster can se
 ---
 
 **StraightWeb**
-This sigil unleashes kinetic pressure as a standing column within fifty feet, focused on one person. Once set, it remains as a permanent working.
+Projects kinetic force as a standing column within fifty feet on a single person, delivering its effect as an active release, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -386,7 +386,7 @@ This sigil unleashes kinetic pressure as a standing column within fifty feet, fo
 ---
 
 **CalmFrost**
-This sigil drives reactive compounds as a wrapped radius within fifty feet, focused on a marked subject. It remains until its trigger condition is met.
+Drives reactive compounds as a wrapped radius around the mark within fifty feet on a marked subject, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -402,7 +402,7 @@ This sigil drives reactive compounds as a wrapped radius within fifty feet, focu
 ---
 
 **FierceHalo**
-This sigil threads and steers kinetic pressure across a held field within two hundred feet, focused on a marked subject. It holds for about an hour.
+Actively modulates kinetic force as a held field over the area within two hundred feet on a marked subject, continuously steering intensity and behavior while active, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -418,7 +418,7 @@ This sigil threads and steers kinetic pressure across a held field within two hu
 ---
 
 **StillGate**
-This sigil threads and steers reactive compounds as a widening fan wherever the caster can see, applied to the chosen filter set. It remains until its trigger condition is met.
+Actively modulates reactive compounds as a widening forward spread anywhere in line of sight across only targets that match the filter, continuously steering intensity and behavior while active, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -434,7 +434,7 @@ This sigil threads and steers reactive compounds as a widening fan wherever the 
 ---
 
 **HardyNet**
-This sigil threads and steers heat as a widening fan within two hundred feet, focused on one person. It stays active while the caster keeps feeding it.
+Actively modulates thermal flow as a widening forward spread within two hundred feet on a single person, continuously steering intensity and behavior while active, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -450,7 +450,7 @@ This sigil threads and steers heat as a widening fan within two hundred feet, fo
 ---
 
 **FreezGate**
-This sigil locks down binding force as a wrapped radius within two hundred feet, applied to the chosen filter set. It holds for about an hour.
+Pins binding tension as a wrapped radius around the mark within two hundred feet across only targets that match the filter, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -466,7 +466,7 @@ This sigil locks down binding force as a wrapped radius within two hundred feet,
 ---
 
 **BreakRoad**
-This sigil sifts heat as a standing column wherever the caster can see, focused on one person. It stays latched until someone dismisses it.
+Screens thermal flow as a standing column anywhere in line of sight on a single person, blocking out unwanted components while allowing valid ones through, and it stays latched until deliberately dismissed.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -482,7 +482,7 @@ This sigil sifts heat as a standing column wherever the caster can see, focused 
 ---
 
 **LoudNet**
-This sigil breaks the momentum of binding force as a standing column wherever the caster can see, applied to the chosen filter set. Once set, it remains as a permanent working.
+Disrupts binding tension as a standing column anywhere in line of sight across only targets that match the filter, breaking continuity in an existing or incoming effect, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -498,7 +498,7 @@ This sigil breaks the momentum of binding force as a standing column wherever th
 ---
 
 **FierceSigil**
-This sigil reworks thought-current as a widening fan within two hundred feet, spread across a group. It stays active while the caster keeps feeding it.
+Reconfigures cognitive signal as a widening forward spread within two hundred feet across a grouped set of targets, changing the target state in place, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -514,7 +514,7 @@ This sigil reworks thought-current as a widening fan within two hundred feet, sp
 ---
 
 **WeavBond**
-This sigil threads and steers charge as a wrapped radius wherever the caster can see, applied to the chosen filter set. It stays latched until someone dismisses it.
+Actively modulates electrical charge as a wrapped radius around the mark anywhere in line of sight across only targets that match the filter, continuously steering intensity and behavior while active, and it stays latched until deliberately dismissed.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -530,7 +530,7 @@ This sigil threads and steers charge as a wrapped radius wherever the caster can
 ---
 
 **CapturStorm**
-This sigil sifts kinetic pressure as a widening fan wherever the caster can see, focused on a marked subject. Once set, it remains as a permanent working.
+Screens kinetic force as a widening forward spread anywhere in line of sight on a marked subject, blocking out unwanted components while allowing valid ones through, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -546,7 +546,7 @@ This sigil sifts kinetic pressure as a widening fan wherever the caster can see,
 ---
 
 **FlowSpirit**
-This sigil breaks the momentum of reactive compounds across a held field within fifty feet, focused on a marked subject. It holds for about an hour.
+Disrupts reactive compounds as a held field over the area within fifty feet on a marked subject, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -562,7 +562,7 @@ This sigil breaks the momentum of reactive compounds across a held field within 
 ---
 
 **AncientKnot**
-This sigil drives reactive compounds as a standing column within fifty feet, focused on one person. It holds for about an hour.
+Drives reactive compounds as a standing column within fifty feet on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -578,7 +578,7 @@ This sigil drives reactive compounds as a standing column within fifty feet, foc
 ---
 
 **StillSilence**
-This sigil reworks soul-current as a standing column wherever the caster can see, spread across a group. It remains until its trigger condition is met.
+Reconfigures soul-signature flux as a standing column anywhere in line of sight across a grouped set of targets, changing the target state in place, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -594,7 +594,7 @@ This sigil reworks soul-current as a standing column wherever the caster can see
 ---
 
 **ClearVeil**
-This sigil breaks the momentum of thought-current as a wrapped radius wherever the caster can see, focused on a marked subject. Once set, it remains as a permanent working.
+Disrupts cognitive signal as a wrapped radius around the mark anywhere in line of sight on a marked subject, breaking continuity in an existing or incoming effect, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -610,7 +610,7 @@ This sigil breaks the momentum of thought-current as a wrapped radius wherever t
 ---
 
 **SweepStorm**
-This sigil sifts charge as a wrapped radius within fifty feet, focused on a marked subject. It remains until its trigger condition is met.
+Screens electrical charge as a wrapped radius around the mark within fifty feet on a marked subject, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -626,7 +626,7 @@ This sigil sifts charge as a wrapped radius within fifty feet, focused on a mark
 ---
 
 **SlowSeal**
-This sigil drives light across a held field wherever the caster can see, applied to the chosen filter set. It remains until its trigger condition is met.
+Drives photonic flux as a held field over the area anywhere in line of sight across only targets that match the filter, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -642,7 +642,7 @@ This sigil drives light across a held field wherever the caster can see, applied
 ---
 
 **AnchorCrown**
-This sigil raises cover against heat as a wrapped radius within fifty feet, spread across a group. It holds for about an hour.
+Raises a boundary against thermal flow as a wrapped radius around the mark within fifty feet across a grouped set of targets, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -658,7 +658,7 @@ This sigil raises cover against heat as a wrapped radius within fifty feet, spre
 ---
 
 **BurBond**
-This sigil breaks the momentum of reactive compounds as a circling band within two hundred feet, applied to the chosen filter set. It stays active while the caster keeps feeding it.
+Disrupts reactive compounds as a circular band around the mark within two hundred feet across only targets that match the filter, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -674,7 +674,7 @@ This sigil breaks the momentum of reactive compounds as a circling band within t
 ---
 
 **RisGate**
-This sigil drives heat across a held field wherever the caster can see, focused on one person. It holds for about an hour.
+Drives thermal flow as a held field over the area anywhere in line of sight on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -690,7 +690,7 @@ This sigil drives heat across a held field wherever the caster can see, focused 
 ---
 
 **TransformShadow**
-This sigil threads and steers charge across a held field within two hundred feet, spread across a group. It stays active while the caster keeps feeding it.
+Actively modulates electrical charge as a held field over the area within two hundred feet across a grouped set of targets, continuously steering intensity and behavior while active, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -706,7 +706,7 @@ This sigil threads and steers charge across a held field within two hundred feet
 ---
 
 **SolidSoul**
-This sigil threads and steers kinetic pressure as a circling band within two hundred feet, focused on one person. It remains until its trigger condition is met.
+Actively modulates kinetic force as a circular band around the mark within two hundred feet on a single person, continuously steering intensity and behavior while active, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -722,7 +722,7 @@ This sigil threads and steers kinetic pressure as a circling band within two hun
 ---
 
 **FallVoid**
-This sigil raises cover against thought-current as a wrapped radius wherever the caster can see, applied to the chosen filter set. It stays active while the caster keeps feeding it.
+Raises a boundary against cognitive signal as a wrapped radius around the mark anywhere in line of sight across only targets that match the filter, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -738,7 +738,7 @@ This sigil raises cover against thought-current as a wrapped radius wherever the
 ---
 
 **ShatterBrand**
-This sigil threads and steers light across a held field within fifty feet, spread across a group. Once set, it remains as a permanent working.
+Actively modulates photonic flux as a held field over the area within fifty feet across a grouped set of targets, continuously steering intensity and behavior while active, and once stabilized it remains as a permanent working.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -754,7 +754,7 @@ This sigil threads and steers light across a held field within fifty feet, sprea
 ---
 
 **FlowKnot**
-This sigil unleashes heat as a wrapped radius within two hundred feet, spread across a group. It holds for about an hour.
+Projects thermal flow as a wrapped radius around the mark within two hundred feet across a grouped set of targets, delivering its effect as an active release, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -770,7 +770,7 @@ This sigil unleashes heat as a wrapped radius within two hundred feet, spread ac
 ---
 
 **BreakCurse**
-This sigil locks down kinetic pressure across a held field wherever the caster can see, focused on a marked subject. It remains until its trigger condition is met.
+Pins kinetic force as a held field over the area anywhere in line of sight on a marked subject, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -786,7 +786,7 @@ This sigil locks down kinetic pressure across a held field wherever the caster c
 ---
 
 **CaptureThought**
-This sigil drives kinetic pressure as a standing column wherever the caster can see, focused on one person. It holds for about an hour.
+Drives kinetic force as a standing column anywhere in line of sight on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
