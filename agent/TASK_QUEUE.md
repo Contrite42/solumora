@@ -99,12 +99,12 @@ Blocked tasks are marked with their dependency.
   **Output:** [[History]] hub + 8 era notes + add timeline section to [[Solumora]].
   **Owner:** `Copilot Auto` (temporary while Claude offline)
 
-- [ ] **Goal:** Expand `content/The Bone Sea.md` from stub to usable travel/canon note.
+- [x] **Goal:** Expand `content/The Bone Sea.md` from stub to usable travel/canon note.
   **Constraints:** Append-only to existing page. No new kingdoms/factions. Anchor it to existing route and risk systems; include at least 3 outbound links and a See Also block.
   **Output:** Expanded `content/The Bone Sea.md` plus at least one inbound-link append from a relevant existing hub/page.
   **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Resolve remaining spell-structure stubs and preserve glossary coherence.
+- [x] **Goal:** Resolve remaining spell-structure stubs and preserve glossary coherence.
   **Constraints:** `Binding.md`, `Pattern.md`, and `Filter.md` are currently zero-byte placeholders. Convert each into concise canon glossary notes aligned with existing spell-variable vocabulary; no contradictory mechanics.
   **Output:** Three populated glossary pages + inbound mentions from at least one anchor page (prefer [[Spell Variables]] or [[Spells]]).
   **Owner:** `Copilot Auto`
@@ -238,3 +238,8 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Queue update | Added world-needs maintenance | Added tasks for remaining stubs (`Binding`, `Pattern`, `Filter`) and legacy alias-link stabilization pass. |
 | 2026-03-06 | Story lane reconciliation | Complete | Marked completed Copilot outputs as done (Ashford False Papers, story-option slate, purchasable grimoires, The Screaming Shade) and completed Codex DECISIONS routing task. |
 | 2026-03-06 | Queue ownership update | Updated | Set Claude offline mode, reassigned core unchecked content tasks to Copilot Auto, and added preflight Terravelle escalation + Bone Sea expansion tasks. |
+| 2026-03-06 | Terravelle preflight escalation | Complete | Added `DECISION D` in `agent/DECISIONS.md` with creator A/B/C scope options for protected `content/Terravelle.md` handling. |
+| 2026-03-06 | Glossary stub resolution | Complete | Populated `Binding.md`, `Pattern.md`, and `Filter.md`; added explicit inbound links from `Spell Variables.md`; link targets validated for touched files. |
+| 2026-03-06 | Bone Sea expansion | Complete | Expanded `The Bone Sea.md` into travel/canon note; appended inbound logistics reference from `Equatorial Desert.md`; touched-file links validated. |
+| 2026-03-06 | DECISIONS normalization | Complete | Repaired duplicate Active Review blocks and restored a single valid `REVIEW_DECISION` marker pair to keep orchestrator parsing stable. |
+| 2026-03-06 | CLAIMED sync | Complete | Added 21 existing content paths missing from `agent/staging/CLAIMED.md` (stories, written works, Terravelle/Wolfpoint/history package files). |

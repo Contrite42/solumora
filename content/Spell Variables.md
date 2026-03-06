@@ -31,13 +31,13 @@ Discipline determines what type of [[Flux]] the spell channels and multiplies th
 - **Sound** (×4): Acoustic energy, vibration, auditory effects
 - **Electric** (×5): Electrical energy, shock effects, electrical system interaction
 - **Chemical** (×5): Molecular manipulation, chemical reactions, material transformation
-- **Binding** (×10): Constraint effects, sealing, structural reinforcement, immobilization
+- **[[Binding]]** (×10): Constraint effects, sealing, structural reinforcement, immobilization
 - **Mind** (×25): Neural interaction, thought reading, emotional influence, memory work
 - **Soul** (×75): Soul-signature interaction, identity effects, spiritual manipulation
 
 The multiplier gap reflects the precision demand each discipline places on the [[Flux]] field. Raw requires no discriminating precision. Soul requires the finest discrimination the system supports — the [[Flux]] must locate and interact with soul-signature specifically, a task exponentially more complex than simple energy channeling.
 
-## Pattern (Outer Variable #3)
+## [[Pattern]] (Outer Variable #3)
 
 Pattern defines the geometric shape of the spell's effect in physical space.
 
@@ -91,7 +91,7 @@ Target Spec defines what the spell affects and how it identifies valid targets.
 - **Individual**: Effect targets a single person or creature (+8W)
 - **Marked**: Effect targets a previously marked person or object (+15W)
 - **Group**: Effect targets multiple individuals simultaneously (+35W)
-- **Filter**: Effect targets based on specified characteristics (+60W)
+- **[[Filter]]**: Effect targets based on specified characteristics (+60W)
 
 Complex targeting requires the [[Flux]] to distinguish between valid and invalid targets, often in real-time as conditions change. Filter targeting is the most sophisticated — the spell must evaluate potential targets against specified criteria and affect only those that match, while ignoring everything else in the area.
 
@@ -122,4 +122,4 @@ Some variable combinations are more efficient than others. Touch reach with Indi
 
 Understanding these interactions is essential for efficient spell design. A practitioner who can achieve the desired effect with simpler variable combinations will always have an advantage over one who requires complex interactions to produce the same result.
 
-*See also: [[Sigils]], [[Flux]], [[Control Tier]], [[Flux Cost Reference]], [[Shape]], [[Discipline]], [[Hook]], [[Mode]], [[Flux Expenditure]], [[Reach]], [[Persistence]], [[Target Spec]], [[Output Mode]]*
+*See also: [[Sigils]], [[Flux]], [[Control Tier]], [[Flux Cost Reference]], [[Shape]], [[Discipline]], [[Hook]], [[Mode]], [[Flux Expenditure]], [[Reach]], [[Persistence]], [[Target Spec]], [[Output Mode]], [[Binding]], [[Pattern]], [[Filter]]*

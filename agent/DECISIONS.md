@@ -1,25 +1,3 @@
-<!-- REVIEW_DECISION_START -->
-## Active Review Decision
-- Batch: 2
-- Scope: `content/Cavel Dorst.md`, `content/Cassia.md`
-- Source: `agent/staging/PENDING_REVIEW.md`
-- Decision Owner: CREATOR
-- Status: PENDING
-- Notes: (set when rejecting)
-
-### Escalation Reasons
-- Touches principal character page: `content/Cassia.md`.
-
-### Creator Options
-- Option A: APPROVE batch as staged.
-- Option B: REJECT and regenerate this batch.
-- Option C: REJECT and request manual operator rewrite.
-
-### Creator Action
-- Set `- Status:` to `APPROVED` or `REJECTED`.
-- If rejected, replace `- Notes:` with concise guidance and optional option label.
-<!-- REVIEW_DECISION_END -->
-
 ﻿# Decisions
 
 This file serves both operators and `agent/orchestrator.py`.
@@ -53,6 +31,8 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 ### Creator Action
 - Set `- Status:` to `APPROVED` or `REJECTED`.
 - If rejected, replace `- Notes:` with concise guidance and optional option label.
+<!-- REVIEW_DECISION_END -->
+
 ---
 
 ## DECISION B - TASK-09/TASK-10 Batch 2 Execution Strategy

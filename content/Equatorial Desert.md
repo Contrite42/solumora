@@ -81,3 +81,11 @@ Crossing plans assume at least one caster can open and hold a working channel in
 This is why crossing methods are staffed by capability coverage, not headcount. T0 and T1 travelers can still contribute to transport and camp routines, but crossing-critical response roles are assigned to higher-tier casters in every sanctioned method.
 
 *See also: [[Control Tier]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]], [[Express Route Crossing]], [[The Southern Approaches]], [[Halveth]]*
+
+## Peripheral Logistics Zone: The Bone Sea
+
+Near the Halveth-side frontier, crews use [[The Bone Sea]] as a controlled staging and cache-transfer basin rather than a direct crossing corridor. It is one of the places where expedition theory is tested against field conditions before full-route commitment.
+
+Its fractured salt surface behaves differently from dune lanes and can fail under load shifts, so parties treat it as specialized logistics terrain. Work there is usually tied to [[Relay-Stage Crossing]] support, depot coordination in [[Halveth]], and salvage/survey near exposed debris fields.
+
+*See also: [[The Bone Sea]], [[Halveth]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Zakros Rim Caravan Loop]]*

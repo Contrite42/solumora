@@ -8,6 +8,7 @@
 - Zakros low-tier access clarification complete. Next: Terravelle megacity + 3 districts + rural supply chain.
 - Review gate cleared: Batch 2 in `agent/DECISIONS.md` marked `APPROVED`.
 - Story intake reconciliation complete: Copilot story outputs + Codex decision bundles synced. Next: Terravelle preflight escalation then Terravelle buildout.
+- Terravelle preflight escalation complete: `DECISION D` added with creator `A/B/C` scope options for protected `content/Terravelle.md`.
 - Terravelle/Wolfpoint/History packages confirmed complete. Next: People Web phase build + remaining stub cleanup.
 
 ## Current Status
@@ -23,6 +24,7 @@
 - **Batch 3R1**: Applied (Solumora.md + World Primer.md). DECISIONS.md updated to APPROVED.
 - Orchestrator hardened by Codex: lock file, batch file filter, wikilink validation, offline fallback, dual claimed file support.
 - **Story Intake + Routing**: COMPLETE. `Ashford False Papers`, story-option slate, purchasable grimoires set, and `The Screaming Shade` all present and marked complete in queue. Codex added `DECISION C` with creator `A/B/C` story bundles.
+- **Terravelle Preflight**: COMPLETE. Codex added `DECISION D` with creator `A/B/C` scope options for protected `content/Terravelle.md`.
 - **Claude Offline Routing**: ACTIVE. Queue ownership updated so Copilot Auto handles core content tasks until Claude returns; Codex remains control-plane owner.
 - **Terravelle package**: COMPLETE. Added/updated `Terravelle.md`, `Valdenmoor.md`, district pages (`The Dock Wards`, `Guild Quarter`, `The Outer Wards`), supply page (`Maren Valley`), and people (`Caven Torst`, `Noll Drenk`, `Trel Alvn`).
 - **Wolfpoint integration package**: COMPLETE. Added/updated `The Wolfpoint Question`, `Wolfpoint Exports`, `Keln Varost`, `Orva Dresk`, `Renn Cald`, plus updates in `Wolfpoint.md` and `Hypertext.md`.
@@ -40,7 +42,7 @@
 - `content/The Bone Sea.md` is a near-empty stub — needs content if it is to remain linked anywhere.
 
 ## Next Operator Checklist
-1. Copilot Auto: execute People Web Phase 1 (`People` hub + first 10 interconnected notes + "People in Motion" appends).
-2. Copilot Auto: resolve remaining stubs (`The Bone Sea`, `Binding`, `Pattern`, `Filter`) with inbound-link integrity.
-3. Copilot Auto: run alias stabilization pass and report updates in `agent/reports/`.
-4. Codex: prune resolved stale payload from `agent/staging/PENDING_REVIEW.md`.
+1. Creator: choose `DECISION C` story bundle and `DECISION D` Terravelle scope (`A/B/C` each).
+2. Copilot Auto: execute People Web Phase 1 (`People` hub + first 10 interconnected notes + "People in Motion" appends).
+3. Copilot Auto: resolve remaining stubs (`The Bone Sea`, `Binding`, `Pattern`, `Filter`) with inbound-link integrity.
+4. Copilot Auto: run alias stabilization pass and report updates in `agent/reports/`.
