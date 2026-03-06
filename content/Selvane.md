@@ -28,4 +28,10 @@ The accommodation that has developed is not a partnership. He has not told her w
 
 He is also, though he would not frame it this way, slightly concerned that she is getting better faster than he expected.
 
-_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Mave]], [[Sorath]], [[Fennick]], [[Wren]], [[Auralis]], [[The Council of Auralis]], [[Ancient Ruins]], [[Essa Rolt]]_
+## Operational Pattern
+
+Selvane's day-to-day work in [[Solhaven]] follows an institutional interference model: low-amplitude failures distributed across multiple administrative corridors so no single anomaly appears deliberate. The cadence, risk limits, and rotation logic are detailed in [[Selvane Institutional Interference Pattern]].
+
+An ordinary-world close call tied to this operating environment is captured in [[Near-Miss at Solhaven Fourth Terrace]], where contradictory memory traces nearly triggered formal verification.
+
+_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Mave]], [[Sorath]], [[Fennick]], [[Wren]], [[Auralis]], [[The Council of Auralis]], [[Ancient Ruins]], [[Essa Rolt]], [[Selvane Institutional Interference Pattern]], [[Near-Miss at Solhaven Fourth Terrace]]_

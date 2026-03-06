@@ -135,5 +135,5 @@ Options:
 
 Creator Action:
 
-- Set this section to `Status: APPROVED (A)` or `APPROVED (B)` or `APPROVED (C)`.
+-  `APPROVED (C)`.
 - If rejected, set `Status: REJECTED` and provide alternative direction or task skip instruction.

@@ -46,4 +46,10 @@ Sorath's presence in the harbor district has the quality of someone passing thro
 
 [[Tolla Rend]], the harbor supervisor, has seen Sorath twice — once near the counting house, once walking the main dock approach. She noted something was wrong but cannot name what. The wrongness was not dramatic enough to act on, not specific enough to report. Simply the feeling that the person she observed did not quite fit the context they were moving through. She has filed this in the category of things that are probably nothing but that she will remember if they become relevant later.
 
-_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]], [[Hedun]], [[Tolla Rend]]_
+## Operational Pattern
+
+Sorath's behavior is now best understood as a long-range movement discipline rather than a hidden residency model. He cycles through low-memory routes, minimizes short-interval recurrence, and uses ambient Flux noise around desert-adjacent corridors to reduce signature contrast. Detailed route behavior and constraints are documented in [[Sorath Movement Circuit]].
+
+One ordinary-world near miss from this pattern is preserved in [[Near-Miss at Hedun Counting House]], where a ledger anomaly almost produced an actionable paper trail.
+
+_See also: [[High Demons]], [[Flux Demons]], [[Flux]], [[Equatorial Desert]], [[Ancient Ruins]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Celn Vard]], [[Hedun]], [[Tolla Rend]], [[Sorath Movement Circuit]], [[Near-Miss at Hedun Counting House]]_

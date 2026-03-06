@@ -30,4 +30,10 @@ Wren is aware of all four of the other [[High Demons]] in [[Solumora]] at a gene
 
 [[Selvane]] and [[Mave]] she knows are in [[Solhaven]] and considers their proximity to each other someone else's problem. She has enough to watch here.
 
-_See also: [[High Demons]], [[Flux Demons]], [[Rift Incursions]], [[Equatorial Desert]], [[Flux]], [[Halveth]], [[Selvane]], [[Mave]], [[Fennick]], [[Sorath]], [[Rett Soln]], [[Selt Orvn]]_
+## Operational Pattern
+
+Wren's day-to-day behavior is a threshold-watch protocol built on a long-lived Binding lattice around [[Halveth]] and the south road into [[Equatorial Desert|Desert Zakros]]. Rather than blocking movement absolutely, she modulates passage cost and timing so reckless traffic fails early and observable patterns remain legible. Detailed operating structure is documented in [[Wren Threshold Watch Protocol]].
+
+An ordinary-world near miss tied to this lattice is recorded in [[Near-Miss on the Halveth South Road]].
+
+_See also: [[High Demons]], [[Flux Demons]], [[Rift Incursions]], [[Equatorial Desert]], [[Flux]], [[Halveth]], [[Selvane]], [[Mave]], [[Fennick]], [[Sorath]], [[Rett Soln]], [[Selt Orvn]], [[Wren Threshold Watch Protocol]], [[Near-Miss on the Halveth South Road]]_

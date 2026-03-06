@@ -46,4 +46,22 @@ The oldest arrived before the current kingdoms consolidated. They have watched T
 
 Their individual identities, locations, and agendas are not documented anywhere in either kingdom. This is partly because no one knows to document them, and partly because several of the oldest ones have been careful about what gets written down.
 
-_See also: [[Flux Demons]], [[Rift Incursions]], [[Control Tier]], [[Flux]], [[Equatorial Desert]], [[The Flux Dimension]], [[Sorath]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]]_
+## Behavioral Patterns and Near-Miss Record
+
+Current high-confidence operational patterns are distributed across five individual notes:
+
+- [[Sorath Movement Circuit]]
+- [[Selvane Institutional Interference Pattern]]
+- [[Mave Identity Rotation Protocol]]
+- [[Fennick Social Wake Pattern]]
+- [[Wren Threshold Watch Protocol]]
+
+Near-miss incidents remain rare, ambiguous, and generally archived as routine errors rather than existential anomalies:
+
+- [[Near-Miss at Hedun Counting House]]
+- [[Near-Miss at Solhaven Fourth Terrace]]
+- [[Near-Miss on the Halveth South Road]]
+
+Taken together, these records reinforce the same constraint: High Demons are active in daily systems without crossing the threshold that would make them legible as a category.
+
+_See also: [[Flux Demons]], [[Rift Incursions]], [[Control Tier]], [[Flux]], [[Equatorial Desert]], [[The Flux Dimension]], [[Sorath]], [[Fennick]], [[Selvane]], [[Mave]], [[Wren]], [[Sorath Movement Circuit]], [[Selvane Institutional Interference Pattern]], [[Mave Identity Rotation Protocol]], [[Fennick Social Wake Pattern]], [[Wren Threshold Watch Protocol]], [[Near-Miss at Hedun Counting House]], [[Near-Miss at Solhaven Fourth Terrace]], [[Near-Miss on the Halveth South Road]]_
