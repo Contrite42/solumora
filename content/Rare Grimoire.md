@@ -1,8 +1,8 @@
 Rare spells require [[Control Tier]] T5–T6 and are the exclusive territory of Channelers. At this level the exponential nature of [[Flux]] scaling means these casters are categorically different from the population below them. Rare spells are not found in mass-market [[Grimoires]] — they circulate through Scholars, private collections, and controlled institutional libraries. In [[Auralis]] some are openly studied; in [[Terravelle]] most require formal justification to possess.
 
 _Return to [[All Grimoire]]_
-**SpiritScreenField**
-Filters out soul across a surface at medium (50 ft), targeting filter, persisting timed (long).
+**FallTouch**
+Filters soul across surfaces at medium (50 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -12,15 +12,15 @@ Filters out soul across a surface at medium (50 ft), targeting filter, persistin
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Long) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Long |
 | Target | Filter |
 | Wattage | 1600 W |
 
 ---
 
-**SpiritLockSpread**
-Constrains soul in a cone pattern at long (200 ft), targeting group.
+**AnchorShadow**
+Constrains soul in a cone at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -30,15 +30,15 @@ Constrains soul in a cone pattern at long (200 ft), targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 1605 W |
 
 ---
 
-**ThoughtWaveRay**
-Releases mind in a beam pattern at short (10 ft), targeting object.
+**GuardSeal**
+Releases mind in a beam at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -48,15 +48,15 @@ Releases mind in a beam pattern at short (10 ft), targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Conditional |
 | Target | Object |
 | Wattage | 1407 W |
 
 ---
 
-**SpiritLockColumn**
-Constrains soul in a cylinder pattern at long (200 ft), targeting object, persisting timed (long).
+**SurgeFrost**
+Constrains soul in a cylinder at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -66,15 +66,15 @@ Constrains soul in a cylinder pattern at long (200 ft), targeting object, persis
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 4212 W |
 
 ---
 
-**SpiritBreakOrb**
-Opposes soul in a sphere pattern at long (200 ft), targeting individual, requiring sustained concentration.
+**CalmSigil**
+Opposes soul in a sphere at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -84,15 +84,15 @@ Opposes soul in a sphere pattern at long (200 ft), targeting individual, requiri
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 4213 W |
 
 ---
 
-**SpiritScreenField**
-Filters out soul across a surface at short (10 ft), targeting surface.
+**ChillFrost**
+Filters soul across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -102,15 +102,15 @@ Filters out soul across a surface at short (10 ft), targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 4175 W |
 
 ---
 
-**SpiritShiftSpread**
-Alters soul in a cone pattern at long (200 ft), targeting object, persisting timed (short).
+**SurgeDream**
+Alters soul in a cone at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -120,15 +120,15 @@ Alters soul in a cone pattern at long (200 ft), targeting object, persisting tim
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 1557 W |
 
 ---
 
-**ThoughtBreakField**
-Opposes mind across a surface at medium (50 ft), targeting group, creating a permanent effect.
+**LoneFlame**
+Opposes mind across surfaces at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -138,15 +138,15 @@ Opposes mind across a surface at medium (50 ft), targeting group, creating a per
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 1825 W |
 
 ---
 
-**SpiritWeaveOrb**
-Manipulates soul in a sphere pattern at short (10 ft), targeting object.
+**BreakScar**
+Manipulates soul in a sphere at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -156,15 +156,15 @@ Manipulates soul in a sphere pattern at short (10 ft), targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Conditional |
 | Target | Object |
 | Wattage | 1557 W |
 
 ---
 
-**ThoughtGuardRay**
-Shields against mind in a beam pattern at short (10 ft), targeting individual.
+**PiercBreath**
+Shields against mind in a beam at short (10 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -174,15 +174,15 @@ Shields against mind in a beam pattern at short (10 ft), targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Latched |
 | Target | Individual |
 | Wattage | 1433 W |
 
 ---
 
-**SpiritWeaveColumn**
-Manipulates soul in a cylinder pattern at medium (50 ft), targeting filter, creating a permanent effect.
+**PierceBrand**
+Manipulates soul in a cylinder at medium (50 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -192,15 +192,15 @@ Manipulates soul in a cylinder pattern at medium (50 ft), targeting filter, crea
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Filter |
 | Wattage | 1995 W |
 
 ---
 
-**ThoughtScreenField**
-Filters out mind across a surface at medium (50 ft), targeting surface, creating a permanent effect.
+**WildGate**
+Filters mind across surfaces at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -210,15 +210,15 @@ Filters out mind across a surface at medium (50 ft), targeting surface, creating
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1795 W |
 
 ---
 
-**SpiritGuardRay**
-Shields against soul in a beam pattern at long (200 ft), targeting object, creating a permanent effect.
+**FlowThought**
+Shields against soul in a beam at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -228,15 +228,15 @@ Shields against soul in a beam pattern at long (200 ft), targeting object, creat
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 1947 W |
 
 ---
 
-**SpiritPushField**
-Displaces soul across a surface at short (10 ft), targeting filter.
+**LoudVoid**
+Displaces soul across surfaces at short (10 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -246,15 +246,15 @@ Displaces soul across a surface at short (10 ft), targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 1605 W |
 
 ---
 
-**SpiritShiftRay**
-Alters soul in a beam pattern at short (10 ft), targeting filter, persisting timed (short).
+**AnchorPulse**
+Alters soul in a beam at short (10 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -264,15 +264,15 @@ Alters soul in a beam pattern at short (10 ft), targeting filter, persisting tim
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Filter |
 | Wattage | 4200 W |
 
 ---
 
-**SpiritLockColumn**
-Constrains soul in a cylinder pattern at short (10 ft), targeting group, persisting timed (long).
+**DissolvPath**
+Constrains soul in a cylinder at short (10 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -282,15 +282,15 @@ Constrains soul in a cylinder pattern at short (10 ft), targeting group, persist
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Group |
 | Wattage | 1585 W |
 
 ---
 
-**ThoughtLockRing**
-Constrains mind in a ring pattern at medium (50 ft), targeting surface, persisting timed (short).
+**ShatterBrand**
+Constrains mind in a ring at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -300,15 +300,15 @@ Constrains mind in a ring pattern at medium (50 ft), targeting surface, persisti
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Short) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 1415 W |
 
 ---
 
-**ThoughtPushOrb**
-Displaces mind in a sphere pattern at short (10 ft), targeting object, persisting timed (short).
+**LightGlyph**
+Displaces mind in a sphere at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -318,15 +318,15 @@ Displaces mind in a sphere pattern at short (10 ft), targeting object, persistin
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 1417 W |
 
 ---
 
-**SpiritScreenSpread**
-Filters out soul in a cone pattern at short (10 ft), targeting individual, requiring sustained concentration.
+**AnchorFlame**
+Filters soul in a cone at short (10 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -336,15 +336,15 @@ Filters out soul in a cone pattern at short (10 ft), targeting individual, requi
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 4158 W |
 
 ---
 
-**SpiritShiftSpread**
-Alters soul in a cone pattern at long (200 ft), targeting individual, persisting timed (short).
+**SurgeMark**
+Alters soul in a cone at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -354,15 +354,15 @@ Alters soul in a cone pattern at long (200 ft), targeting individual, persisting
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Individual |
 | Wattage | 1563 W |
 
 ---
 
-**SpiritReadSpread**
-Detects soul in a cone pattern at long (200 ft), targeting surface, requiring sustained concentration.
+**TransformPulse**
+Detects soul in a cone at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -372,15 +372,15 @@ Detects soul in a cone pattern at long (200 ft), targeting surface, requiring su
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 1565 W |
 
 ---
 
-**SpiritBreakField**
-Opposes soul across a surface at short (10 ft), targeting group, persisting timed (long).
+**CaptureLight**
+Opposes soul across surfaces at short (10 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -390,15 +390,15 @@ Opposes soul across a surface at short (10 ft), targeting group, persisting time
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Group |
 | Wattage | 1565 W |
 
 ---
 
-**ThoughtBreakSpread**
-Opposes mind in a cone pattern at long (200 ft), targeting filter, requiring sustained concentration.
+**CurvedKey**
+Opposes mind in a cone at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -408,15 +408,15 @@ Opposes mind in a cone pattern at long (200 ft), targeting filter, requiring sus
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 1495 W |
 
 ---
 
-**SpiritWaveRay**
-Releases soul in a beam pattern at medium (50 ft), targeting group.
+**FreezeFlame**
+Releases soul in a beam at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -426,15 +426,15 @@ Releases soul in a beam pattern at medium (50 ft), targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1595 W |
 
 ---
 
-**SpiritReadOrb**
-Detects soul in a sphere pattern at long (200 ft), targeting group.
+**TransformDance**
+Detects soul in a sphere at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -444,15 +444,15 @@ Detects soul in a sphere pattern at long (200 ft), targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 4270 W |
 
 ---
 
-**ThoughtBreakRay**
-Opposes mind in a beam pattern at long (200 ft), targeting group.
+**SurSeal**
+Opposes mind in a beam at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -462,15 +462,15 @@ Opposes mind in a beam pattern at long (200 ft), targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1495 W |
 
 ---
 
-**ThoughtReadRay**
-Detects mind in a beam pattern at short (10 ft), targeting object, persisting timed (short).
+**HeavyRoot**
+Detects mind in a beam at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -480,15 +480,15 @@ Detects mind in a beam pattern at short (10 ft), targeting object, persisting ti
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 1392 W |
 
 ---
 
-**ThoughtPushColumn**
-Displaces mind in a cylinder pattern at long (200 ft), targeting group, persisting timed (long).
+**DriftBridge**
+Displaces mind in a cylinder at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -498,15 +498,15 @@ Displaces mind in a cylinder pattern at long (200 ft), targeting group, persisti
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cylinder |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Group |
 | Wattage | 1495 W |
 
 ---
 
-**SpiritLockRing**
-Constrains soul in a ring pattern at short (10 ft), targeting object, requiring sustained concentration.
+**PierceShadow**
+Constrains soul in a ring at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -516,15 +516,15 @@ Constrains soul in a ring pattern at short (10 ft), targeting object, requiring 
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1532 W |
 
 ---
 
-**SpiritPushSpread**
-Displaces soul in a cone pattern at medium (50 ft), targeting individual, persisting timed (long).
+**ReleasMark**
+Displaces soul in a cone at medium (50 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -534,15 +534,15 @@ Displaces soul in a cone pattern at medium (50 ft), targeting individual, persis
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Long) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 4183 W |
 
 ---
 
-**ThoughtLockRay**
-Constrains mind in a beam pattern at short (10 ft), targeting individual, persisting timed (long).
+**AncientFrost**
+Constrains mind in a beam at short (10 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -552,15 +552,15 @@ Constrains mind in a beam pattern at short (10 ft), targeting individual, persis
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 1418 W |
 
 ---
 
-**SpiritWeaveOrb**
-Manipulates soul in a sphere pattern at short (10 ft), targeting filter, creating a permanent effect.
+**FreezeDance**
+Manipulates soul in a sphere at short (10 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -570,15 +570,15 @@ Manipulates soul in a sphere pattern at short (10 ft), targeting filter, creatin
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Permanent |
 | Target | Filter |
 | Wattage | 1995 W |
 
 ---
 
-**SpiritWeaveOrb**
-Manipulates soul in a sphere pattern at medium (50 ft), targeting surface, creating a permanent effect.
+**CalmScar**
+Manipulates soul in a sphere at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -588,15 +588,15 @@ Manipulates soul in a sphere pattern at medium (50 ft), targeting surface, creat
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1950 W |
 
 ---
 
-**ThoughtWeaveOrb**
-Manipulates mind in a sphere pattern at short (10 ft), targeting group.
+**HiddenLock**
+Manipulates mind in a sphere at short (10 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -606,15 +606,15 @@ Manipulates mind in a sphere pattern at short (10 ft), targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1485 W |
 
 ---
 
-**SpiritBreakField**
-Opposes soul across a surface at long (200 ft), targeting individual, creating a permanent effect.
+**PierceBreath**
+Opposes soul across surfaces at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -624,15 +624,15 @@ Opposes soul across a surface at long (200 ft), targeting individual, creating a
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 4573 W |
 
 ---
 
-**ThoughtWeaveColumn**
-Manipulates mind in a cylinder pattern at short (10 ft), targeting surface, persisting timed (short).
+**SweepFlame**
+Manipulates mind in a cylinder at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -642,15 +642,15 @@ Manipulates mind in a cylinder pattern at short (10 ft), targeting surface, pers
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cylinder |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 1410 W |
 
 ---
 
-**SpiritGuardField**
-Shields against soul across a surface at short (10 ft), targeting object, requiring sustained concentration.
+**BurWisp**
+Shields against soul across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -660,15 +660,15 @@ Shields against soul across a surface at short (10 ft), targeting object, requir
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 4142 W |
 
 ---
 
-**ThoughtLockRing**
-Constrains mind in a ring pattern at short (10 ft), targeting surface, persisting timed (long).
+**AncientSilence**
+Constrains mind in a ring at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -678,15 +678,15 @@ Constrains mind in a ring pattern at short (10 ft), targeting surface, persistin
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 1425 W |
 
 ---
 
-**SpiritBreakSpread**
-Opposes soul in a cone pattern at medium (50 ft), targeting surface.
+**SteadyGate**
+Opposes soul in a cone at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -696,15 +696,15 @@ Opposes soul in a cone pattern at medium (50 ft), targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 1570 W |
 
 ---
 
-**SpiritShiftOrb**
-Alters soul in a sphere pattern at medium (50 ft), targeting group, requiring sustained concentration.
+**BindSight**
+Alters soul in a sphere at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -714,15 +714,15 @@ Alters soul in a sphere pattern at medium (50 ft), targeting group, requiring su
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 4215 W |
 
 ---
 
-**SpiritLockRay**
-Constrains soul in a beam pattern at short (10 ft), targeting surface, persisting timed (short).
+**PureMirror**
+Constrains soul in a beam at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -732,15 +732,15 @@ Constrains soul in a beam pattern at short (10 ft), targeting surface, persistin
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 4145 W |
 
 ---
 
-**SpiritLockRay**
-Constrains soul in a beam pattern at medium (50 ft), targeting individual, requiring sustained concentration.
+**FreezeLight**
+Constrains soul in a beam at medium (50 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -750,15 +750,15 @@ Constrains soul in a beam pattern at medium (50 ft), targeting individual, requi
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 1538 W |
 
 ---
 
-**SpiritPushRay**
-Displaces soul in a beam pattern at short (10 ft), targeting individual, persisting timed (short).
+**DullLock**
+Displaces soul in a beam at short (10 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -768,15 +768,15 @@ Displaces soul in a beam pattern at short (10 ft), targeting individual, persist
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Individual |
 | Wattage | 4148 W |
 
 ---
 
-**SpiritPushField**
-Displaces soul across a surface at long (200 ft), targeting individual, persisting timed (short).
+**ShatterBlessing**
+Displaces soul across surfaces at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -786,15 +786,15 @@ Displaces soul across a surface at long (200 ft), targeting individual, persisti
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Individual |
 | Wattage | 1553 W |
 
 ---
 
-**ThoughtWaveOrb**
-Releases mind in a sphere pattern at long (200 ft), targeting object, requiring sustained concentration.
+**SweepDoor**
+Releases mind in a sphere at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -804,15 +804,15 @@ Releases mind in a sphere pattern at long (200 ft), targeting object, requiring 
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1457 W |
 
 ---
 
-**SpiritReadRing**
-Detects soul in a ring pattern at long (200 ft), targeting object, persisting timed (long).
+**ShatterEcho**
+Detects soul in a ring at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -822,15 +822,15 @@ Detects soul in a ring pattern at long (200 ft), targeting object, persisting ti
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 1582 W |
 
 ---
 
-**SpiritBreakRing**
-Opposes soul in a ring pattern at long (200 ft), targeting object, persisting timed (long).
+**SweepMark**
+Opposes soul in a ring at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -840,15 +840,15 @@ Opposes soul in a ring pattern at long (200 ft), targeting object, persisting ti
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 1582 W |
 
 ---
 
-**SpiritPushColumn**
-Displaces soul in a cylinder pattern at long (200 ft), targeting filter.
+**ColdBreath**
+Displaces soul in a cylinder at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -858,15 +858,15 @@ Displaces soul in a cylinder pattern at long (200 ft), targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 1660 W |
 
 ---
 
-**ThoughtLockField**
-Constrains mind across a surface at medium (50 ft), targeting object, creating a permanent effect.
+**PiercMirror**
+Constrains mind across surfaces at medium (50 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -876,15 +876,15 @@ Constrains mind across a surface at medium (50 ft), targeting object, creating a
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 1792 W |
 
 ---
 
-**SpiritReadRay**
-Detects soul in a beam pattern at long (200 ft), targeting surface, requiring sustained concentration.
+**FallStrike**
+Detects soul in a beam at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -894,15 +894,15 @@ Detects soul in a beam pattern at long (200 ft), targeting surface, requiring su
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 1560 W |
 
 ---
 
-**ThoughtShiftRay**
-Alters mind in a beam pattern at short (10 ft), targeting surface, creating a permanent effect.
+**StrongSigil**
+Alters mind in a beam at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -912,15 +912,15 @@ Alters mind in a beam pattern at short (10 ft), targeting surface, creating a pe
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1790 W |
 
 ---
 
-**ThoughtBreakField**
-Opposes mind across a surface at medium (50 ft), targeting filter, requiring sustained concentration.
+**LightVeil**
+Opposes mind across surfaces at medium (50 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -930,15 +930,15 @@ Opposes mind across a surface at medium (50 ft), targeting filter, requiring sus
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 1460 W |
 
 ---
 
-**ThoughtScreenField**
-Filters out mind across a surface at medium (50 ft), targeting filter, creating a permanent effect.
+**TwistDream**
+Filters mind across surfaces at medium (50 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -948,15 +948,15 @@ Filters out mind across a surface at medium (50 ft), targeting filter, creating 
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Filter |
 | Wattage | 1850 W |
 
 ---
 
-**ThoughtScreenOrb**
-Filters out mind in a sphere pattern at medium (50 ft), targeting individual, requiring sustained concentration.
+**DissolvFrost**
+Filters mind in a sphere at medium (50 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -966,15 +966,15 @@ Filters out mind in a sphere pattern at medium (50 ft), targeting individual, re
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 1438 W |
 
 ---
 
-**SpiritReadOrb**
-Detects soul in a sphere pattern at medium (50 ft), targeting object.
+**WeakVeil**
+Detects soul in a sphere at medium (50 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -984,15 +984,15 @@ Detects soul in a sphere pattern at medium (50 ft), targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Latched |
 | Target | Object |
 | Wattage | 1587 W |
 
 ---
 
-**ThoughtGuardField**
-Shields against mind across a surface at long (200 ft), targeting surface, persisting timed (short).
+**BurnRoad**
+Shields against mind across surfaces at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1002,15 +1002,15 @@ Shields against mind across a surface at long (200 ft), targeting surface, persi
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Plane |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 1425 W |
 
 ---
 
-**SpiritScreenColumn**
-Filters out soul in a cylinder pattern at short (10 ft), targeting individual, creating a permanent effect.
+**TransformRing**
+Filters soul in a cylinder at short (10 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1020,15 +1020,15 @@ Filters out soul in a cylinder pattern at short (10 ft), targeting individual, c
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 4558 W |
 
 ---
 
-**SpiritReadSpread**
-Detects soul in a cone pattern at long (200 ft), targeting object, persisting timed (long).
+**FallThought**
+Detects soul in a cone at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1038,15 +1038,15 @@ Detects soul in a cone pattern at long (200 ft), targeting object, persisting ti
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 1577 W |
 
 ---
 
-**SpiritWaveOrb**
-Releases soul in a sphere pattern at long (200 ft), targeting individual, requiring sustained concentration.
+**StillVoid**
+Releases soul in a sphere at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1056,15 +1056,15 @@ Releases soul in a sphere pattern at long (200 ft), targeting individual, requir
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 4213 W |
 
 ---
 
-**ThoughtLockColumn**
-Constrains mind in a cylinder pattern at short (10 ft), targeting surface, persisting timed (short).
+**ChillRoad**
+Constrains mind in a cylinder at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1074,15 +1074,15 @@ Constrains mind in a cylinder pattern at short (10 ft), targeting surface, persi
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cylinder |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 1410 W |
 
 ---
 
-**SpiritWaveRay**
-Releases soul in a beam pattern at long (200 ft), targeting group.
+**StillBreath**
+Releases soul in a beam at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1092,15 +1092,15 @@ Releases soul in a beam pattern at long (200 ft), targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 4225 W |
 
 ---
 
-**ThoughtScreenRay**
-Filters out mind in a beam pattern at long (200 ft), targeting individual, persisting timed (long).
+**BreakFlame**
+Filters mind in a beam at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1110,15 +1110,15 @@ Filters out mind in a beam pattern at long (200 ft), targeting individual, persi
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 1453 W |
 
 ---
 
-**SpiritBreakRay**
-Opposes soul in a beam pattern at short (10 ft), targeting filter.
+**DissolvGlyph**
+Opposes soul in a beam at short (10 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1128,15 +1128,15 @@ Opposes soul in a beam pattern at short (10 ft), targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 4235 W |
 
 ---
 
-**SpiritWeaveRay**
-Manipulates soul in a beam pattern at medium (50 ft), targeting filter.
+**VastGlyph**
+Manipulates soul in a beam at medium (50 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1146,15 +1146,15 @@ Manipulates soul in a beam pattern at medium (50 ft), targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Conditional |
 | Target | Filter |
 | Wattage | 4225 W |
 
 ---
 
-**SpiritShiftSpread**
-Alters soul in a cone pattern at medium (50 ft), targeting object.
+**DarkBond**
+Alters soul in a cone at medium (50 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1164,15 +1164,15 @@ Alters soul in a cone pattern at medium (50 ft), targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Latched |
 | Target | Object |
 | Wattage | 1567 W |
 
 ---
 
-**SpiritPushRay**
-Displaces soul in a beam pattern at medium (50 ft), targeting group.
+**WildSpirit**
+Displaces soul in a beam at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1182,15 +1182,15 @@ Displaces soul in a beam pattern at medium (50 ft), targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Latched |
 | Target | Group |
 | Wattage | 1595 W |
 
 ---
 
-**SpiritScreenRay**
-Filters out soul in a beam pattern at short (10 ft), targeting group, persisting timed (short).
+**BreakWay**
+Filters soul in a beam at short (10 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1200,15 +1200,15 @@ Filters out soul in a beam pattern at short (10 ft), targeting group, persisting
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Group |
 | Wattage | 1550 W |
 
 ---
 
-**SpiritPushField**
-Displaces soul across a surface at medium (50 ft), targeting filter, requiring sustained concentration.
+**TwistTouch**
+Displaces soul across surfaces at medium (50 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1218,15 +1218,15 @@ Displaces soul across a surface at medium (50 ft), targeting filter, requiring s
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 1585 W |
 
 ---
 
-**SpiritBreakField**
-Opposes soul across a surface at medium (50 ft), targeting group, creating a permanent effect.
+**WhirlingSigil**
+Opposes soul across surfaces at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1236,15 +1236,15 @@ Opposes soul across a surface at medium (50 ft), targeting group, creating a per
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 1950 W |
 
 ---
 
-**SpiritLockSpread**
-Constrains soul in a cone pattern at long (200 ft), targeting individual.
+**AncientGlyph**
+Constrains soul in a cone at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1254,15 +1254,15 @@ Constrains soul in a cone pattern at long (200 ft), targeting individual.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Individual |
 | Wattage | 1598 W |
 
 ---
 
-**SpiritScreenRay**
-Filters out soul in a beam pattern at long (200 ft), targeting surface.
+**StillSpirit**
+Filters soul in a beam at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1272,15 +1272,15 @@ Filters out soul in a beam pattern at long (200 ft), targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Beam |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 1590 W |
 
 ---
 
-**SpiritWeaveField**
-Manipulates soul across a surface at short (10 ft), targeting surface.
+**BindMark**
+Manipulates soul across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1290,15 +1290,15 @@ Manipulates soul across a surface at short (10 ft), targeting surface.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Conditional |
 | Target | Surface |
 | Wattage | 4155 W |
 
 ---
 
-**SpiritReadField**
-Detects soul across a surface at short (10 ft), targeting group, requiring sustained concentration.
+**ColdVoid**
+Detects soul across surfaces at short (10 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1308,15 +1308,15 @@ Detects soul across a surface at short (10 ft), targeting group, requiring susta
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 4175 W |
 
 ---
 
-**ThoughtLockSpread**
-Constrains mind in a cone pattern at short (10 ft), targeting group, persisting timed (short).
+**SweepCore**
+Constrains mind in a cone at short (10 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1326,15 +1326,15 @@ Constrains mind in a cone pattern at short (10 ft), targeting group, persisting 
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Group |
 | Wattage | 1430 W |
 
 ---
 
-**SpiritReadOrb**
-Detects soul in a sphere pattern at medium (50 ft), targeting surface, creating a permanent effect.
+**ShatterBreath**
+Detects soul in a sphere at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1344,15 +1344,15 @@ Detects soul in a sphere pattern at medium (50 ft), targeting surface, creating 
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1950 W |
 
 ---
 
-**SpiritShiftRing**
-Alters soul in a ring pattern at long (200 ft), targeting individual, persisting timed (long).
+**DriftLock**
+Alters soul in a ring at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1362,15 +1362,15 @@ Alters soul in a ring pattern at long (200 ft), targeting individual, persisting
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 1588 W |
 
 ---
 
-**ThoughtWeaveSpread**
-Manipulates mind in a cone pattern at long (200 ft), targeting surface, persisting timed (short).
+**ColdSoul**
+Manipulates mind in a cone at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1380,15 +1380,15 @@ Manipulates mind in a cone pattern at long (200 ft), targeting surface, persisti
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 1435 W |
 
 ---
 
-**ThoughtGuardRing**
-Shields against mind in a ring pattern at long (200 ft), targeting object, requiring sustained concentration.
+**BindWard**
+Shields against mind in a ring at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1398,15 +1398,15 @@ Shields against mind in a ring pattern at long (200 ft), targeting object, requi
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1442 W |
 
 ---
 
-**SpiritScreenColumn**
-Filters out soul in a cylinder pattern at long (200 ft), targeting object.
+**FreezeTide**
+Filters soul in a cylinder at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1416,15 +1416,15 @@ Filters out soul in a cylinder pattern at long (200 ft), targeting object.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Object |
 | Wattage | 1602 W |
 
 ---
 
-**SpiritGuardRing**
-Shields against soul in a ring pattern at long (200 ft), targeting object, creating a permanent effect.
+**SlowCrown**
+Shields against soul in a ring at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1434,15 +1434,15 @@ Shields against soul in a ring pattern at long (200 ft), targeting object, creat
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 1957 W |
 
 ---
 
-**ThoughtScreenRing**
-Filters out mind in a ring pattern at short (10 ft), targeting individual.
+**PierceFrost**
+Filters mind in a ring at short (10 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1452,15 +1452,15 @@ Filters out mind in a ring pattern at short (10 ft), targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Conditional |
 | Target | Individual |
 | Wattage | 1423 W |
 
 ---
 
-**SpiritScreenRing**
-Filters out soul in a ring pattern at medium (50 ft), targeting object, creating a permanent effect.
+**DissolvCurse**
+Filters soul in a ring at medium (50 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1470,15 +1470,15 @@ Filters out soul in a ring pattern at medium (50 ft), targeting object, creating
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Object |
 | Wattage | 4557 W |
 
 ---
 
-**SpiritBreakRing**
-Opposes soul in a ring pattern at medium (50 ft), targeting surface, requiring sustained concentration.
+**LoudBond**
+Opposes soul in a ring at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1488,15 +1488,15 @@ Opposes soul in a ring pattern at medium (50 ft), targeting surface, requiring s
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Ring |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 1545 W |
 
 ---
 
-**ThoughtReadRing**
-Detects mind in a ring pattern at long (200 ft), targeting surface.
+**GuardRoot**
+Detects mind in a ring at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1506,15 +1506,15 @@ Detects mind in a ring pattern at long (200 ft), targeting surface.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Surface |
 | Wattage | 1475 W |
 
 ---
 
-**ThoughtWaveRay**
-Releases mind in a beam pattern at short (10 ft), targeting individual.
+**WeavHand**
+Releases mind in a beam at short (10 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1524,15 +1524,15 @@ Releases mind in a beam pattern at short (10 ft), targeting individual.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Conditional |
 | Target | Individual |
 | Wattage | 1413 W |
 
 ---
 
-**SpiritScreenColumn**
-Filters out soul in a cylinder pattern at long (200 ft), targeting object, persisting timed (short).
+**SolidStorm**
+Filters soul in a cylinder at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1542,15 +1542,15 @@ Filters out soul in a cylinder pattern at long (200 ft), targeting object, persi
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 1567 W |
 
 ---
 
-**SpiritPushOrb**
-Displaces soul in a sphere pattern at long (200 ft), targeting individual, persisting timed (short).
+**ShallowHalo**
+Displaces soul in a sphere at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1560,15 +1560,15 @@ Displaces soul in a sphere pattern at long (200 ft), targeting individual, persi
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Individual |
 | Wattage | 4208 W |
 
 ---
 
-**SpiritLockSpread**
-Constrains soul in a cone pattern at long (200 ft), targeting filter.
+**TwinFrost**
+Constrains soul in a cone at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1578,15 +1578,15 @@ Constrains soul in a cone pattern at long (200 ft), targeting filter.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 4275 W |
 
 ---
 
-**ThoughtScreenSpread**
-Filters out mind in a cone pattern at long (200 ft), targeting object.
+**ClearCurse**
+Filters mind in a cone at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1596,15 +1596,15 @@ Filters out mind in a cone pattern at long (200 ft), targeting object.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Conditional |
 | Target | Object |
 | Wattage | 1447 W |
 
 ---
 
-**ThoughtBreakRay**
-Opposes mind in a beam pattern at medium (50 ft), targeting group.
+**BindFlame**
+Opposes mind in a beam at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1614,15 +1614,15 @@ Opposes mind in a beam pattern at medium (50 ft), targeting group.
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 1450 W |
 
 ---
 
-**SpiritReadOrb**
-Detects soul in a sphere pattern at long (200 ft), targeting surface, persisting timed (short).
+**AnchoredGate**
+Detects soul in a sphere at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1632,15 +1632,15 @@ Detects soul in a sphere pattern at long (200 ft), targeting surface, persisting
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Short) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 4205 W |
 
 ---
 
-**SpiritGuardColumn**
-Shields against soul in a cylinder pattern at long (200 ft), targeting surface, persisting timed (long).
+**TwistNet**
+Shields against soul in a cylinder at long (200 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1650,15 +1650,15 @@ Shields against soul in a cylinder pattern at long (200 ft), targeting surface, 
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 1590 W |
 
 ---
 
-**ThoughtWeaveRay**
-Manipulates mind in a beam pattern at short (10 ft), targeting surface, persisting timed (short).
+**AnchorCalm**
+Manipulates mind in a beam at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1668,15 +1668,15 @@ Manipulates mind in a beam pattern at short (10 ft), targeting surface, persisti
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Beam |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 1395 W |
 
 ---
 
-**SpiritLockField**
-Constrains soul across a surface at medium (50 ft), targeting group, persisting timed (short).
+**SweepPulse**
+Constrains soul across surfaces at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1686,15 +1686,15 @@ Constrains soul across a surface at medium (50 ft), targeting group, persisting 
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Short) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Short |
 | Target | Group |
 | Wattage | 1555 W |
 
 ---
 
-**SpiritScreenField**
-Filters out soul across a surface at long (200 ft), targeting object, persisting timed (long).
+**CaptureCurse**
+Filters soul across surfaces at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1704,15 +1704,15 @@ Filters out soul across a surface at long (200 ft), targeting object, persisting
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Plane |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 1567 W |
 
 ---
 
-**SpiritReadSpread**
-Detects soul in a cone pattern at medium (50 ft), targeting group.
+**AnchorSeal**
+Detects soul in a cone at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1722,15 +1722,15 @@ Detects soul in a cone pattern at medium (50 ft), targeting group.
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Conditional |
 | Target | Group |
 | Wattage | 4205 W |
 
 ---
 
-**SpiritBreakColumn**
-Opposes soul in a cylinder pattern at medium (50 ft), targeting surface, persisting timed (short).
+**FreezChain**
+Opposes soul in a cylinder at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1740,15 +1740,15 @@ Opposes soul in a cylinder pattern at medium (50 ft), targeting surface, persist
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Short) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 4170 W |
 
 ---
 
-**ThoughtPushSpread**
-Displaces mind in a cone pattern at long (200 ft), targeting object, requiring sustained concentration.
+**FallCurse**
+Displaces mind in a cone at long (200 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1758,15 +1758,15 @@ Displaces mind in a cone pattern at long (200 ft), targeting object, requiring s
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 1437 W |
 
 ---
 
-**SpiritWeaveOrb**
-Manipulates soul in a sphere pattern at medium (50 ft), targeting surface, creating a permanent effect.
+**GentleKnot**
+Manipulates soul in a sphere at medium (50 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Pentagon |
@@ -1776,15 +1776,15 @@ Manipulates soul in a sphere pattern at medium (50 ft), targeting surface, creat
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Surface |
 | Wattage | 1950 W |
 
 ---
 
-**SpiritGuardSpread**
-Shields against soul in a cone pattern at short (10 ft), targeting surface, persisting timed (long).
+**SweepPath**
+Shields against soul in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -1794,8 +1794,8 @@ Shields against soul in a cone pattern at short (10 ft), targeting surface, pers
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 4170 W |
 

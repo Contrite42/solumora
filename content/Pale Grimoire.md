@@ -1,8 +1,8 @@
 Pale spells require [[Control Tier]] T9 and represent effects that brush against something beyond normal [[Flux]]. These are not simply powerful. A Pale spell is one whose effect operates at the boundary of what Flux can theoretically do. Where Mythic spells demand everything a Conduit has, Pale spells demand something more. Most [[Flux Users|Scholars]] who have studied them agree they should be documented. Fewer agree they should be cast.
 
 _Return to [[All Grimoire]]_
-**SpiritLockOrb**
-Constrains soul in a sphere pattern at line-of-sight, targeting individual, creating a permanent effect.
+**SweepBreath**
+Constrains soul in a sphere at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -19,8 +19,8 @@ Constrains soul in a sphere pattern at line-of-sight, targeting individual, crea
 
 ---
 
-**SpiritWaveHalo**
-Releases soul in a field pattern at line-of-sight, targeting filter, creating a permanent effect.
+**FierceAura**
+Releases soul in a field at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -37,8 +37,8 @@ Releases soul in a field pattern at line-of-sight, targeting filter, creating a 
 
 ---
 
-**SpiritReadHalo**
-Detects soul in a field pattern at line-of-sight, targeting individual.
+**SwiftDoor**
+Detects soul in a field at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -55,8 +55,8 @@ Detects soul in a field pattern at line-of-sight, targeting individual.
 
 ---
 
-**SpiritPushOrb**
-Displaces soul in a sphere pattern at line-of-sight, targeting individual.
+**KindlFlame**
+Displaces soul in a sphere at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -73,8 +73,8 @@ Displaces soul in a sphere pattern at line-of-sight, targeting individual.
 
 ---
 
-**SpiritScreenHalo**
-Filters out soul in a field pattern at line-of-sight, targeting individual, creating a permanent effect.
+**GuardShroud**
+Filters soul in a field at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -91,8 +91,8 @@ Filters out soul in a field pattern at line-of-sight, targeting individual, crea
 
 ---
 
-**SpiritGuardHalo**
-Shields against soul in a field pattern at linked, targeting group.
+**TwinBridge**
+Shields against soul in a field at linked targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -109,8 +109,8 @@ Shields against soul in a field pattern at linked, targeting group.
 
 ---
 
-**SpiritReadOrb**
-Detects soul in a sphere pattern at linked, targeting individual, creating a permanent effect.
+**FallWeb**
+Detects soul in a sphere at linked targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -127,8 +127,8 @@ Detects soul in a sphere pattern at linked, targeting individual, creating a per
 
 ---
 
-**SpiritReadHalo**
-Detects soul in a field pattern at line-of-sight, targeting group, creating a permanent effect.
+**BurningGlyph**
+Detects soul in a field at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -145,8 +145,8 @@ Detects soul in a field pattern at line-of-sight, targeting group, creating a pe
 
 ---
 
-**SpiritPushHalo**
-Displaces soul in a field pattern at line-of-sight, targeting group, creating a permanent effect.
+**SlowSilence**
+Displaces soul in a field at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -163,8 +163,8 @@ Displaces soul in a field pattern at line-of-sight, targeting group, creating a 
 
 ---
 
-**SpiritPushOrb**
-Displaces soul in a sphere pattern at line-of-sight, targeting filter.
+**StillGate**
+Displaces soul in a sphere at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -181,8 +181,8 @@ Displaces soul in a sphere pattern at line-of-sight, targeting filter.
 
 ---
 
-**SpiritGuardHalo**
-Shields against soul in a field pattern at linked, targeting individual, creating a permanent effect.
+**DissolveScar**
+Shields against soul in a field at linked targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -199,8 +199,8 @@ Shields against soul in a field pattern at linked, targeting individual, creatin
 
 ---
 
-**SpiritShiftOrb**
-Alters soul in a sphere pattern at line-of-sight, targeting group, creating a permanent effect.
+**CalmBond**
+Alters soul in a sphere at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |

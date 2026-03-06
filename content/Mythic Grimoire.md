@@ -1,8 +1,8 @@
 Mythic spells require [[Control Tier]] T9 and represent the upper bound of [[Flux]] theory. These spells demand everything a Conduit has to offer. Most exist only in fragments, theoretical notes, or as dangerous prototypes. The line between "studied Mythic spell" and "uncontrolled Flux disaster" is often a matter of luck, preparation, and nerve.
 
 _Return to [[All Grimoire]]_
-**SpiritWaveOrb**
-Releases soul in a sphere pattern at line-of-sight, targeting group, creating a permanent effect.
+**CapturThread**
+Releases soul in a sphere at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -19,8 +19,8 @@ Releases soul in a sphere pattern at line-of-sight, targeting group, creating a 
 
 ---
 
-**ThoughtPushHalo**
-Displaces mind in a field pattern at linked, targeting group, creating a permanent effect.
+**PaleNet**
+Displaces mind in a field at linked targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -37,8 +37,8 @@ Displaces mind in a field pattern at linked, targeting group, creating a permane
 
 ---
 
-**SpiritBreakOrb**
-Opposes soul in a sphere pattern at line-of-sight, targeting individual.
+**ColdPath**
+Opposes soul in a sphere at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -55,8 +55,8 @@ Opposes soul in a sphere pattern at line-of-sight, targeting individual.
 
 ---
 
-**SpiritWeaveHalo**
-Manipulates soul in a field pattern at line-of-sight, targeting group, requiring sustained concentration.
+**AncientPath**
+Manipulates soul in a field at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -73,8 +73,8 @@ Manipulates soul in a field pattern at line-of-sight, targeting group, requiring
 
 ---
 
-**ThoughtBreakOrb**
-Opposes mind in a sphere pattern at line-of-sight, targeting filter.
+**GentleTouch**
+Opposes mind in a sphere at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -91,8 +91,8 @@ Opposes mind in a sphere pattern at line-of-sight, targeting filter.
 
 ---
 
-**ThoughtShiftOrb**
-Alters mind in a sphere pattern at linked, targeting individual.
+**PiercTouch**
+Alters mind in a sphere at linked targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -109,8 +109,8 @@ Alters mind in a sphere pattern at linked, targeting individual.
 
 ---
 
-**ThoughtShiftHalo**
-Alters mind in a field pattern at line-of-sight, targeting individual.
+**FallMirror**
+Alters mind in a field at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -127,8 +127,8 @@ Alters mind in a field pattern at line-of-sight, targeting individual.
 
 ---
 
-**SpiritGuardOrb**
-Shields against soul in a sphere pattern at linked, targeting individual, requiring sustained concentration.
+**SolidPath**
+Shields against soul in a sphere at linked targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -145,8 +145,8 @@ Shields against soul in a sphere pattern at linked, targeting individual, requir
 
 ---
 
-**SpiritGuardOrb**
-Shields against soul in a sphere pattern at line-of-sight, targeting filter.
+**FreshHeart**
+Shields against soul in a sphere at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -163,8 +163,8 @@ Shields against soul in a sphere pattern at line-of-sight, targeting filter.
 
 ---
 
-**SpiritWaveOrb**
-Releases soul in a sphere pattern at linked, targeting individual.
+**ShatterBrand**
+Releases soul in a sphere at linked targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -181,8 +181,8 @@ Releases soul in a sphere pattern at linked, targeting individual.
 
 ---
 
-**SpiritLockOrb**
-Constrains soul in a sphere pattern at line-of-sight, targeting individual.
+**FierceWard**
+Constrains soul in a sphere at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -199,8 +199,8 @@ Constrains soul in a sphere pattern at line-of-sight, targeting individual.
 
 ---
 
-**SpiritWaveHalo**
-Releases soul in a field pattern at linked, targeting group, requiring sustained concentration.
+**RisCalm**
+Releases soul in a field at linked targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -217,8 +217,8 @@ Releases soul in a field pattern at linked, targeting group, requiring sustained
 
 ---
 
-**SpiritShiftOrb**
-Alters soul in a sphere pattern at line-of-sight, targeting group.
+**PaleDoor**
+Alters soul in a sphere at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -235,8 +235,8 @@ Alters soul in a sphere pattern at line-of-sight, targeting group.
 
 ---
 
-**SpiritReadHalo**
-Detects soul in a field pattern at linked, targeting filter, requiring sustained concentration.
+**ReleaseBond**
+Detects soul in a field at linked targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -253,8 +253,8 @@ Detects soul in a field pattern at linked, targeting filter, requiring sustained
 
 ---
 
-**ThoughtLockHalo**
-Constrains mind in a field pattern at linked, targeting individual.
+**WeaveBlessing**
+Constrains mind in a field at linked targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -271,8 +271,8 @@ Constrains mind in a field pattern at linked, targeting individual.
 
 ---
 
-**ThoughtShiftHalo**
-Alters mind in a field pattern at linked, targeting filter.
+**ReleasBridge**
+Alters mind in a field at linked targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -289,8 +289,8 @@ Alters mind in a field pattern at linked, targeting filter.
 
 ---
 
-**ThoughtScreenOrb**
-Filters out mind in a sphere pattern at linked, targeting group.
+**BurSpirit**
+Filters mind in a sphere at linked targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -307,8 +307,8 @@ Filters out mind in a sphere pattern at linked, targeting group.
 
 ---
 
-**SpiritWaveOrb**
-Releases soul in a sphere pattern at line-of-sight, targeting individual.
+**StraightHand**
+Releases soul in a sphere at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -325,8 +325,8 @@ Releases soul in a sphere pattern at line-of-sight, targeting individual.
 
 ---
 
-**SpiritWaveHalo**
-Releases soul in a field pattern at linked, targeting filter, requiring sustained concentration.
+**CalmDream**
+Releases soul in a field at linked targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -343,8 +343,8 @@ Releases soul in a field pattern at linked, targeting filter, requiring sustaine
 
 ---
 
-**ThoughtWaveOrb**
-Releases mind in a sphere pattern at line-of-sight, targeting group.
+**AnchorFrost**
+Releases mind in a sphere at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -361,8 +361,8 @@ Releases mind in a sphere pattern at line-of-sight, targeting group.
 
 ---
 
-**SpiritBreakHalo**
-Opposes soul in a field pattern at linked, targeting group, creating a permanent effect.
+**TransformBreath**
+Opposes soul in a field at linked targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -379,8 +379,8 @@ Opposes soul in a field pattern at linked, targeting group, creating a permanent
 
 ---
 
-**SpiritScreenHalo**
-Filters out soul in a field pattern at line-of-sight, targeting individual, requiring sustained concentration.
+**HardyCore**
+Filters soul in a field at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -397,8 +397,8 @@ Filters out soul in a field pattern at line-of-sight, targeting individual, requ
 
 ---
 
-**ThoughtGuardHalo**
-Shields against mind in a field pattern at linked, targeting group, requiring sustained concentration.
+**NakedRoot**
+Shields against mind in a field at linked targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -415,8 +415,8 @@ Shields against mind in a field pattern at linked, targeting group, requiring su
 
 ---
 
-**SpiritPushHalo**
-Displaces soul in a field pattern at linked, targeting group.
+**RiseMark**
+Displaces soul in a field at linked targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -433,8 +433,8 @@ Displaces soul in a field pattern at linked, targeting group.
 
 ---
 
-**SpiritWeaveOrb**
-Manipulates soul in a sphere pattern at line-of-sight, targeting group.
+**DriftFrost**
+Manipulates soul in a sphere at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |

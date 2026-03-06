@@ -1,8 +1,8 @@
 Legendary spells require [[Control Tier]] T7–T8 and exist at a tier of power where even possession becomes a political statement. These spells are theoretically documented, carefully locked away, and subject to formal scrutiny. Most major institutions hold only a handful of examples. The knowledge to create a Legendary-tier spell is itself considered classified in [[Terravelle]].
 
 _Return to [[All Grimoire]]_
-**ChainScreenHalo**
-Filters out binding in a field pattern at long (200 ft), targeting individual, persisting timed (long).
+**ReleaseVeil**
+Filters binding in a field at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -12,15 +12,15 @@ Filters out binding in a field pattern at long (200 ft), targeting individual, p
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Field |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**RadianceShiftRing**
-Alters light in a ring pattern at line-of-sight, targeting marked, creating a permanent effect.
+**VastGate**
+Alters light in a ring at line-of-sight targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -37,8 +37,8 @@ Alters light in a ring pattern at line-of-sight, targeting marked, creating a pe
 
 ---
 
-**FlameWaveColumn**
-Releases heat in a cylinder pattern at line-of-sight, targeting individual.
+**DissolvBridge**
+Releases heat in a cylinder at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -55,8 +55,8 @@ Releases heat in a cylinder pattern at line-of-sight, targeting individual.
 
 ---
 
-**SpiritShiftSpread**
-Alters soul in a cone pattern at long (200 ft), targeting group, creating a permanent effect.
+**SurgePulse**
+Alters soul in a cone at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -66,15 +66,15 @@ Alters soul in a cone pattern at long (200 ft), targeting group, creating a perm
 | Discipline | Soul |
 | Output | Soul |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**ThoughtWeaveOrb**
-Manipulates mind in a sphere pattern at long (200 ft), targeting individual, requiring sustained concentration.
+**GentleCalm**
+Manipulates mind in a sphere at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -84,15 +84,15 @@ Manipulates mind in a sphere pattern at long (200 ft), targeting individual, req
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**ThrustShiftColumn**
-Alters force in a cylinder pattern at long (200 ft), targeting individual, creating a permanent effect.
+**KindleFlame**
+Alters force in a cylinder at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -102,15 +102,15 @@ Alters force in a cylinder pattern at long (200 ft), targeting individual, creat
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cylinder |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**RadianceWeaveRing**
-Manipulates light in a ring pattern at line-of-sight, targeting individual, requiring sustained concentration.
+**SteadyCharm**
+Manipulates light in a ring at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -127,8 +127,8 @@ Manipulates light in a ring pattern at line-of-sight, targeting individual, requ
 
 ---
 
-**ThrustShiftHalo**
-Alters force in a field pattern at medium (50 ft), targeting individual, requiring sustained concentration.
+**PierceScar**
+Alters force in a field at medium (50 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -138,15 +138,15 @@ Alters force in a field pattern at medium (50 ft), targeting individual, requiri
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Field |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**FluxGuardRing**
-Shields against chemical in a ring pattern at line-of-sight, targeting individual.
+**VastGlyph**
+Shields against chemical in a ring at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -163,8 +163,8 @@ Shields against chemical in a ring pattern at line-of-sight, targeting individua
 
 ---
 
-**ThrustLockRing**
-Constrains force in a ring pattern at medium (50 ft), targeting individual, requiring sustained concentration.
+**GuardThread**
+Constrains force in a ring at medium (50 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -174,15 +174,15 @@ Constrains force in a ring pattern at medium (50 ft), targeting individual, requ
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Ring |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**FlameReadColumn**
-Detects heat in a cylinder pattern at line-of-sight, targeting group.
+**BrightSeal**
+Detects heat in a cylinder at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -199,8 +199,8 @@ Detects heat in a cylinder pattern at line-of-sight, targeting group.
 
 ---
 
-**FlameShiftSpread**
-Alters heat in a cone pattern at line-of-sight, targeting marked, creating a permanent effect.
+**SteadyRoot**
+Alters heat in a cone at line-of-sight targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -217,8 +217,8 @@ Alters heat in a cone pattern at line-of-sight, targeting marked, creating a per
 
 ---
 
-**FluxReadHalo**
-Detects chemical in a field pattern at long (200 ft), targeting filter.
+**FreezeBond**
+Detects chemical in a field at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -228,15 +228,15 @@ Detects chemical in a field pattern at long (200 ft), targeting filter.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Field |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**ThoughtReadRing**
-Detects mind in a ring pattern at medium (50 ft), targeting marked, creating a permanent effect.
+**SweepBond**
+Detects mind in a ring at medium (50 ft targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -246,15 +246,15 @@ Detects mind in a ring pattern at medium (50 ft), targeting marked, creating a p
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Ring |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**ChainLockSpread**
-Constrains binding in a cone pattern at long (200 ft), targeting filter, persisting timed (long).
+**SurPulse**
+Constrains binding in a cone at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -264,15 +264,15 @@ Constrains binding in a cone pattern at long (200 ft), targeting filter, persist
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**ChainWeaveColumn**
-Manipulates binding in a cylinder pattern at line-of-sight, targeting individual.
+**WeavPath**
+Manipulates binding in a cylinder at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -289,8 +289,8 @@ Manipulates binding in a cylinder pattern at line-of-sight, targeting individual
 
 ---
 
-**BoltLockSpread**
-Constrains electric in a cone pattern at line-of-sight, targeting marked, requiring sustained concentration.
+**DriftBond**
+Constrains electric in a cone at line-of-sight targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -307,8 +307,8 @@ Constrains electric in a cone pattern at line-of-sight, targeting marked, requir
 
 ---
 
-**ThrustShiftSpread**
-Alters force in a cone pattern at line-of-sight, targeting group, requiring sustained concentration.
+**BurnWay**
+Alters force in a cone at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -325,8 +325,8 @@ Alters force in a cone pattern at line-of-sight, targeting group, requiring sust
 
 ---
 
-**BoltBreakOrb**
-Opposes electric in a sphere pattern at long (200 ft), targeting filter.
+**BurnFrost**
+Opposes electric in a sphere at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -336,15 +336,15 @@ Opposes electric in a sphere pattern at long (200 ft), targeting filter.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Latched |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**RadianceGuardSpread**
-Shields against light in a cone pattern at long (200 ft), targeting filter, requiring sustained concentration.
+**WeavWard**
+Shields against light in a cone at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -354,15 +354,15 @@ Shields against light in a cone pattern at long (200 ft), targeting filter, requ
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**FluxBreakColumn**
-Opposes chemical in a cylinder pattern at line-of-sight, targeting group.
+**FreezHalo**
+Opposes chemical in a cylinder at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -379,8 +379,8 @@ Opposes chemical in a cylinder pattern at line-of-sight, targeting group.
 
 ---
 
-**ChainWeaveSpread**
-Manipulates binding in a cone pattern at line-of-sight, targeting individual.
+**ReleasFrost**
+Manipulates binding in a cone at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -397,8 +397,8 @@ Manipulates binding in a cone pattern at line-of-sight, targeting individual.
 
 ---
 
-**ChainShiftColumn**
-Alters binding in a cylinder pattern at line-of-sight, targeting group, persisting timed (long).
+**BreakStorm**
+Alters binding in a cylinder at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -409,14 +409,14 @@ Alters binding in a cylinder pattern at line-of-sight, targeting group, persisti
 | Output | Constraint |
 | Pattern | Cylinder |
 | Reach | Line-of-Sight |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**ThrustWaveColumn**
-Releases force in a cylinder pattern at medium (50 ft), targeting individual, creating a permanent effect.
+**StraightWeb**
+Releases force in a cylinder at medium (50 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -426,15 +426,15 @@ Releases force in a cylinder pattern at medium (50 ft), targeting individual, cr
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**FluxPushOrb**
-Displaces chemical in a sphere pattern at medium (50 ft), targeting marked.
+**CalmFrost**
+Displaces chemical in a sphere at medium (50 ft targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -444,15 +444,15 @@ Displaces chemical in a sphere pattern at medium (50 ft), targeting marked.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Conditional |
 | Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**ThrustWeaveHalo**
-Manipulates force in a field pattern at long (200 ft), targeting marked, persisting timed (long).
+**FierceHalo**
+Manipulates force in a field at long (200 ft targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -462,15 +462,15 @@ Manipulates force in a field pattern at long (200 ft), targeting marked, persist
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Field |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**FluxWeaveSpread**
-Manipulates chemical in a cone pattern at line-of-sight, targeting filter.
+**StillGate**
+Manipulates chemical in a cone at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -487,8 +487,8 @@ Manipulates chemical in a cone pattern at line-of-sight, targeting filter.
 
 ---
 
-**FlameWeaveSpread**
-Manipulates heat in a cone pattern at long (200 ft), targeting individual, requiring sustained concentration.
+**HardyNet**
+Manipulates heat in a cone at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -498,15 +498,15 @@ Manipulates heat in a cone pattern at long (200 ft), targeting individual, requi
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**ChainLockOrb**
-Constrains binding in a sphere pattern at long (200 ft), targeting filter, persisting timed (long).
+**FreezGate**
+Constrains binding in a sphere at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -516,15 +516,15 @@ Constrains binding in a sphere pattern at long (200 ft), targeting filter, persi
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**FlameScreenColumn**
-Filters out heat in a cylinder pattern at line-of-sight, targeting individual.
+**BreakRoad**
+Filters heat in a cylinder at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -541,8 +541,8 @@ Filters out heat in a cylinder pattern at line-of-sight, targeting individual.
 
 ---
 
-**ChainBreakColumn**
-Opposes binding in a cylinder pattern at line-of-sight, targeting filter, creating a permanent effect.
+**LoudNet**
+Opposes binding in a cylinder at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -559,8 +559,8 @@ Opposes binding in a cylinder pattern at line-of-sight, targeting filter, creati
 
 ---
 
-**ThoughtShiftSpread**
-Alters mind in a cone pattern at long (200 ft), targeting group, requiring sustained concentration.
+**FierceSigil**
+Alters mind in a cone at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -570,15 +570,15 @@ Alters mind in a cone pattern at long (200 ft), targeting group, requiring susta
 | Discipline | Mind |
 | Output | Mind |
 | Pattern | Cone |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**BoltWeaveOrb**
-Manipulates electric in a sphere pattern at line-of-sight, targeting filter.
+**WeavBond**
+Manipulates electric in a sphere at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -595,8 +595,8 @@ Manipulates electric in a sphere pattern at line-of-sight, targeting filter.
 
 ---
 
-**ThrustScreenSpread**
-Filters out force in a cone pattern at line-of-sight, targeting marked, creating a permanent effect.
+**CapturStorm**
+Filters force in a cone at line-of-sight targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -613,8 +613,8 @@ Filters out force in a cone pattern at line-of-sight, targeting marked, creating
 
 ---
 
-**FluxBreakHalo**
-Opposes chemical in a field pattern at medium (50 ft), targeting marked, persisting timed (long).
+**FlowSpirit**
+Opposes chemical in a field at medium (50 ft targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -624,15 +624,15 @@ Opposes chemical in a field pattern at medium (50 ft), targeting marked, persist
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Field |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Long) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Long |
 | Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**FluxPushColumn**
-Displaces chemical in a cylinder pattern at medium (50 ft), targeting individual, persisting timed (long).
+**AncientKnot**
+Displaces chemical in a cylinder at medium (50 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -642,15 +642,15 @@ Displaces chemical in a cylinder pattern at medium (50 ft), targeting individual
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cylinder |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Long) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**SpiritShiftColumn**
-Alters soul in a cylinder pattern at line-of-sight, targeting group.
+**StillSilence**
+Alters soul in a cylinder at line-of-sight targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -667,8 +667,8 @@ Alters soul in a cylinder pattern at line-of-sight, targeting group.
 
 ---
 
-**ThoughtBreakOrb**
-Opposes mind in a sphere pattern at line-of-sight, targeting marked, creating a permanent effect.
+**ClearVeil**
+Opposes mind in a sphere at line-of-sight targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -685,8 +685,8 @@ Opposes mind in a sphere pattern at line-of-sight, targeting marked, creating a 
 
 ---
 
-**BoltScreenOrb**
-Filters out electric in a sphere pattern at medium (50 ft), targeting marked.
+**SweepStorm**
+Filters electric in a sphere at medium (50 ft targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -696,15 +696,15 @@ Filters out electric in a sphere pattern at medium (50 ft), targeting marked.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Conditional |
 | Target | Marked |
 | Wattage | 13001 W |
 
 ---
 
-**RadiancePushHalo**
-Displaces light in a field pattern at line-of-sight, targeting filter.
+**SlowSeal**
+Displaces light in a field at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -721,8 +721,8 @@ Displaces light in a field pattern at line-of-sight, targeting filter.
 
 ---
 
-**FlameGuardOrb**
-Shields against heat in a sphere pattern at medium (50 ft), targeting group, persisting timed (long).
+**AnchorCrown**
+Shields against heat in a sphere at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -732,15 +732,15 @@ Shields against heat in a sphere pattern at medium (50 ft), targeting group, per
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Sphere |
-| Reach | Medium (50 ft) |
-| Persistence | Timed (Long) |
+| Reach | Medium (50 ft |
+| Persistence | Timed (Long |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**FluxBreakRing**
-Opposes chemical in a ring pattern at long (200 ft), targeting filter, requiring sustained concentration.
+**BurBond**
+Opposes chemical in a ring at long (200 ft targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -750,15 +750,15 @@ Opposes chemical in a ring pattern at long (200 ft), targeting filter, requiring
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Filter |
 | Wattage | 13001 W |
 
 ---
 
-**FlamePushHalo**
-Displaces heat in a field pattern at line-of-sight, targeting individual, persisting timed (long).
+**RisGate**
+Displaces heat in a field at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -769,14 +769,14 @@ Displaces heat in a field pattern at line-of-sight, targeting individual, persis
 | Output | Thermal |
 | Pattern | Field |
 | Reach | Line-of-Sight |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**BoltWeaveHalo**
-Manipulates electric in a field pattern at long (200 ft), targeting group, requiring sustained concentration.
+**TransformShadow**
+Manipulates electric in a field at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -786,15 +786,15 @@ Manipulates electric in a field pattern at long (200 ft), targeting group, requi
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Field |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Sustained |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**ThrustWeaveRing**
-Manipulates force in a ring pattern at long (200 ft), targeting individual.
+**SolidSoul**
+Manipulates force in a ring at long (200 ft targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -804,15 +804,15 @@ Manipulates force in a ring pattern at long (200 ft), targeting individual.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Ring |
-| Reach | Long (200 ft) |
+| Reach | Long (200 ft |
 | Persistence | Conditional |
 | Target | Individual |
 | Wattage | 13001 W |
 
 ---
 
-**ThoughtGuardOrb**
-Shields against mind in a sphere pattern at line-of-sight, targeting filter, requiring sustained concentration.
+**FallVoid**
+Shields against mind in a sphere at line-of-sight targeting filter.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -829,8 +829,8 @@ Shields against mind in a sphere pattern at line-of-sight, targeting filter, req
 
 ---
 
-**RadianceWeaveHalo**
-Manipulates light in a field pattern at medium (50 ft), targeting group, creating a permanent effect.
+**ShatterBrand**
+Manipulates light in a field at medium (50 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -840,15 +840,15 @@ Manipulates light in a field pattern at medium (50 ft), targeting group, creatin
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Field |
-| Reach | Medium (50 ft) |
+| Reach | Medium (50 ft |
 | Persistence | Permanent |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**FlameWaveOrb**
-Releases heat in a sphere pattern at long (200 ft), targeting group, persisting timed (long).
+**FlowKnot**
+Releases heat in a sphere at long (200 ft targeting group.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -858,15 +858,15 @@ Releases heat in a sphere pattern at long (200 ft), targeting group, persisting 
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Sphere |
-| Reach | Long (200 ft) |
-| Persistence | Timed (Long) |
+| Reach | Long (200 ft |
+| Persistence | Timed (Long |
 | Target | Group |
 | Wattage | 13001 W |
 
 ---
 
-**ThrustLockHalo**
-Constrains force in a field pattern at line-of-sight, targeting marked.
+**BreakCurse**
+Constrains force in a field at line-of-sight targeting marked.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -883,8 +883,8 @@ Constrains force in a field pattern at line-of-sight, targeting marked.
 
 ---
 
-**ThrustPushColumn**
-Displaces force in a cylinder pattern at line-of-sight, targeting individual, persisting timed (long).
+**CaptureThought**
+Displaces force in a cylinder at line-of-sight targeting individual.
 | Variable | Value |
 |---|---|
 | Shape | Circle |
@@ -895,7 +895,7 @@ Displaces force in a cylinder pattern at line-of-sight, targeting individual, pe
 | Output | Kinetic |
 | Pattern | Cylinder |
 | Reach | Line-of-Sight |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Individual |
 | Wattage | 13001 W |
 

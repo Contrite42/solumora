@@ -1,11 +1,10 @@
 Common spells require [[Control Tier]] T1–T2 and represent the backbone of everyday [[Flux]] use across [[Solumora]]. The majority of the population can cast at least some of these. They are the spells found in every home, workshop, and market stall — mass-produced, widely copied, and deliberately simple.
 
 _Return to [[All Grimoire]]_
-
-
-**ThrustLockField**
-Constrains force across a surface at touch, targeting surface.
-| Wattage | 13 W |
+**PiercLock**
+Constrains force across surfaces at touch targeting surface.
+| Variable | Value |
+|---|---|
 | Shape | Triangle |
 | Hook | Bind |
 | Mode | Affect |
@@ -16,11 +15,12 @@ Constrains force across a surface at touch, targeting surface.
 | Reach | Touch |
 | Persistence | _(default  Immediate |
 | Target | Surface |
+| Wattage | 13 W |
 
 ---
 
-**CoreWaveSpread**
-Releases raw in a cone pattern at short (10 ft), targeting object, persisting timed (short).
+**ReleaseShadow**
+Releases raw in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -30,15 +30,15 @@ Releases raw in a cone pattern at short (10 ft), targeting object, persisting ti
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 30 W |
 
 ---
 
-**ThrustScreenPoint**
-Filters out force in a point pattern at touch, targeting object, requiring sustained concentration.
+**SolidCage**
+Filters force in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -55,8 +55,8 @@ Filters out force in a point pattern at touch, targeting object, requiring susta
 
 ---
 
-**RadianceWavePoint**
-Releases light in a point pattern at short (10 ft), targeting surface, persisting timed (long).
+**DriftTide**
+Releases light in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -66,15 +66,15 @@ Releases light in a point pattern at short (10 ft), targeting surface, persistin
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 44 W |
 
 ---
 
-**FluxPushSpread**
-Displaces chemical in a cone pattern at touch, targeting object.
+**SweepBond**
+Displaces chemical in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -91,8 +91,8 @@ Displaces chemical in a cone pattern at touch, targeting object.
 
 ---
 
-**FluxPushSpread**
-Displaces chemical in a cone pattern at _(default  self, targeting object, requiring sustained concentration.
+**DarkVeil**
+Displaces chemical in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -109,8 +109,8 @@ Displaces chemical in a cone pattern at _(default  self, targeting object, requi
 
 ---
 
-**ThrustGuardField**
-Shields against force across a surface at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**SweepStrike**
+Shields against force across surfaces at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -120,15 +120,15 @@ Shields against force across a surface at short (10 ft), targeting _(default  wh
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 21 W |
 
 ---
 
-**FlameLockField**
-Constrains heat across a surface at short (10 ft), targeting object, persisting timed (long).
+**WeaveLight**
+Constrains heat across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -138,15 +138,15 @@ Constrains heat across a surface at short (10 ft), targeting object, persisting 
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 48 W |
 
 ---
 
-**ThrustScreenPoint**
-Filters out force in a point pattern at touch, targeting object, persisting timed (long).
+**FreezAura**
+Filters force in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -157,14 +157,14 @@ Filters out force in a point pattern at touch, targeting object, persisting time
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 45 W |
 
 ---
 
-**ChainPushField**
-Displaces binding across a surface at short (10 ft), targeting surface.
+**FreezWard**
+Displaces binding across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -174,15 +174,15 @@ Displaces binding across a surface at short (10 ft), targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 90 W |
 
 ---
 
-**ThrustShift_(default  Plane**
-Alters force in a _(default  plane pattern at touch, targeting surface.
+**LoudWeb**
+Alters force in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -199,8 +199,8 @@ Alters force in a _(default  plane pattern at touch, targeting surface.
 
 ---
 
-**ThrustLockPoint**
-Constrains force in a point pattern at _(default  self, targeting surface, requiring sustained concentration.
+**BurBoon**
+Constrains force in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -217,8 +217,8 @@ Constrains force in a point pattern at _(default  self, targeting surface, requi
 
 ---
 
-**CoreScreenSpread**
-Filters out raw in a cone pattern at short (10 ft), targeting object.
+**BindSong**
+Filters raw in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -228,15 +228,15 @@ Filters out raw in a cone pattern at short (10 ft), targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
-**RadianceWaveField**
-Releases light across a surface at _(default  self, targeting surface, persisting timed (long).
+**LightHand**
+Releases light across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -247,14 +247,14 @@ Releases light across a surface at _(default  self, targeting surface, persistin
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 39 W |
 
 ---
 
-**FlameGuardPoint**
-Shields against heat in a point pattern at touch, targeting surface, requiring sustained concentration.
+**TwistMark**
+Shields against heat in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -271,8 +271,8 @@ Shields against heat in a point pattern at touch, targeting surface, requiring s
 
 ---
 
-**ChainRead_(default  Plane**
-Detects binding in a _(default  plane pattern at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**HeavyCurse**
+Detects binding in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -282,15 +282,15 @@ Detects binding in a _(default  plane pattern at short (10 ft), targeting _(defa
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 45 W |
 
 ---
 
-**RadiancePushPoint**
-Displaces light in a point pattern at touch, targeting surface, persisting timed (long).
+**DriftScar**
+Displaces light in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -301,14 +301,14 @@ Displaces light in a point pattern at touch, targeting surface, persisting timed
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 56 W |
 
 ---
 
-**BoltGuardField**
-Shields against electric across a surface at short (10 ft), targeting surface, requiring sustained concentration.
+**BindLight**
+Shields against electric across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -318,15 +318,15 @@ Shields against electric across a surface at short (10 ft), targeting surface, r
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 60 W |
 
 ---
 
-**RadianceLockField**
-Constrains light across a surface at _(default  self, targeting object, persisting timed (long).
+**PierceBreath**
+Constrains light across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -337,14 +337,14 @@ Constrains light across a surface at _(default  self, targeting object, persisti
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 51 W |
 
 ---
 
-**CoreGuard_(default  Plane**
-Shields against raw in a _(default  plane pattern at short (10 ft), targeting object, requiring sustained concentration.
+**BurShell**
+Shields against raw in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -354,15 +354,15 @@ Shields against raw in a _(default  plane pattern at short (10 ft), targeting ob
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 20 W |
 
 ---
 
-**FluxShiftField**
-Alters chemical across a surface at short (10 ft), targeting object, requiring sustained concentration.
+**HollowRing**
+Alters chemical across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -372,15 +372,15 @@ Alters chemical across a surface at short (10 ft), targeting object, requiring s
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
-**BoltReadPoint**
-Detects electric in a point pattern at short (10 ft), targeting surface, persisting timed (short).
+**ReleasMirror**
+Detects electric in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -390,15 +390,15 @@ Detects electric in a point pattern at short (10 ft), targeting surface, persist
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 55 W |
 
 ---
 
-**ChainScreenField**
-Filters out binding across a surface at short (10 ft), targeting _(default  where written.
+**TransformFlame**
+Filters binding across surfaces at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -408,15 +408,15 @@ Filters out binding across a surface at short (10 ft), targeting _(default  wher
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 35 W |
 
 ---
 
-**RadianceScreen_(default  Plane**
-Filters out light in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**FreezCurse**
+Filters light in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -427,14 +427,14 @@ Filters out light in a _(default  plane pattern at touch, targeting object, pers
 | Output | Photonic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
-**CoreRead_(default  Plane**
-Detects raw in a _(default  plane pattern at short (10 ft), targeting object.
+**PierceDream**
+Detects raw in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -444,15 +444,15 @@ Detects raw in a _(default  plane pattern at short (10 ft), targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
-**ChainLockField**
-Constrains binding across a surface at _(default  self, targeting surface, persisting timed (long).
+**PureWeb**
+Constrains binding across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -463,14 +463,14 @@ Constrains binding across a surface at _(default  self, targeting surface, persi
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 60 W |
 
 ---
 
-**FluxWaveSpread**
-Releases chemical in a cone pattern at _(default  self, targeting object, persisting timed (short).
+**SweepHalo**
+Releases chemical in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -481,14 +481,14 @@ Releases chemical in a cone pattern at _(default  self, targeting object, persis
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 57 W |
 
 ---
 
-**BoltLockField**
-Constrains electric across a surface at _(default  self, targeting surface, persisting timed (long).
+**TameVoice**
+Constrains electric across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -499,14 +499,14 @@ Constrains electric across a surface at _(default  self, targeting surface, pers
 | Output | Shock |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 70 W |
 
 ---
 
-**RadianceScreenField**
-Filters out light across a surface at short (10 ft), targeting object.
+**FreshMark**
+Filters light across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -516,15 +516,15 @@ Filters out light across a surface at short (10 ft), targeting object.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 31 W |
 
 ---
 
-**FlamePushField**
-Displaces heat across a surface at short (10 ft), targeting object.
+**BrightCalm**
+Displaces heat across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -534,15 +534,15 @@ Displaces heat across a surface at short (10 ft), targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 13 W |
 
 ---
 
-**BoltShiftField**
-Alters electric across a surface at short (10 ft), targeting object, persisting timed (long).
+**RiseTouch**
+Alters electric across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -552,15 +552,15 @@ Alters electric across a surface at short (10 ft), targeting object, persisting 
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
-**ChainLock_(default  Plane**
-Constrains binding in a _(default  plane pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**BurWeb**
+Constrains binding in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -577,8 +577,8 @@ Constrains binding in a _(default  plane pattern at touch, targeting _(default  
 
 ---
 
-**ThrustReadPoint**
-Detects force in a point pattern at touch, targeting object, requiring sustained concentration.
+**FallAura**
+Detects force in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -595,8 +595,8 @@ Detects force in a point pattern at touch, targeting object, requiring sustained
 
 ---
 
-**BoltGuardField**
-Shields against electric across a surface at _(default  self, targeting _(default  where written, persisting timed (short).
+**AnchoredPath**
+Shields against electric across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -607,14 +607,14 @@ Shields against electric across a surface at _(default  self, targeting _(defaul
 | Output | Shock |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 20 W |
 
 ---
 
-**BoltGuard_(default  Plane**
-Shields against electric in a _(default  plane pattern at short (10 ft), targeting object.
+**CalmBridge**
+Shields against electric in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -624,15 +624,15 @@ Shields against electric in a _(default  plane pattern at short (10 ft), targeti
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
-**FluxLock_(default  Plane**
-Constrains chemical in a _(default  plane pattern at touch, targeting surface, requiring sustained concentration.
+**DriftBoon**
+Constrains chemical in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -649,8 +649,8 @@ Constrains chemical in a _(default  plane pattern at touch, targeting surface, r
 
 ---
 
-**ChainPushPoint**
-Displaces binding in a point pattern at short (10 ft), targeting object, persisting timed (long).
+**CalmBoon**
+Displaces binding in a point at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -660,15 +660,15 @@ Displaces binding in a point pattern at short (10 ft), targeting object, persist
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 62 W |
 
 ---
 
-**FlameRead_(default  Plane**
-Detects heat in a _(default  plane pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**FlowSilence**
+Detects heat in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -685,8 +685,8 @@ Detects heat in a _(default  plane pattern at touch, targeting _(default  where 
 
 ---
 
-**CoreLockPoint**
-Constrains raw in a point pattern at touch, targeting object, persisting timed (long).
+**ChillBond**
+Constrains raw in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -697,14 +697,14 @@ Constrains raw in a point pattern at touch, targeting object, persisting timed (
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 37 W |
 
 ---
 
-**CorePushField**
-Displaces raw across a surface at touch, targeting object, persisting timed (long).
+**RisRune**
+Displaces raw across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -715,14 +715,14 @@ Displaces raw across a surface at touch, targeting object, persisting timed (lon
 | Output | Raw |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
-**RadianceWaveField**
-Releases light across a surface at _(default  self, targeting surface, persisting timed (short).
+**CalmBond**
+Releases light across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -733,14 +733,14 @@ Releases light across a surface at _(default  self, targeting surface, persistin
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 34 W |
 
 ---
 
-**ChainScreen_(default  Plane**
-Filters out binding in a _(default  plane pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**DriftFlame**
+Filters binding in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -751,14 +751,14 @@ Filters out binding in a _(default  plane pattern at _(default  self, targeting 
 | Output | Constraint |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 55 W |
 
 ---
 
-**CoreWaveField**
-Releases raw across a surface at _(default  self, targeting surface, requiring sustained concentration.
+**GrandCore**
+Releases raw across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -775,8 +775,8 @@ Releases raw across a surface at _(default  self, targeting surface, requiring s
 
 ---
 
-**FlameScreen_(default  Plane**
-Filters out heat in a _(default  plane pattern at _(default  self, targeting _(default  where written.
+**ReleasChain**
+Filters heat in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -793,8 +793,8 @@ Filters out heat in a _(default  plane pattern at _(default  self, targeting _(d
 
 ---
 
-**ThrustGuard_(default  Plane**
-Shields against force in a _(default  plane pattern at short (10 ft), targeting object, persisting timed (long).
+**ChillBreath**
+Shields against force in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -804,15 +804,15 @@ Shields against force in a _(default  plane pattern at short (10 ft), targeting 
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 38 W |
 
 ---
 
-**FluxScreen_(default  Plane**
-Filters out chemical in a _(default  plane pattern at touch, targeting surface, persisting timed (short).
+**ShatterShell**
+Filters chemical in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -823,14 +823,14 @@ Filters out chemical in a _(default  plane pattern at touch, targeting surface, 
 | Output | Reactive |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 27 W |
 
 ---
 
-**ChainGuardPoint**
-Shields against binding in a point pattern at short (10 ft), targeting surface, persisting timed (long).
+**ReleaseFlame**
+Shields against binding in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -840,15 +840,15 @@ Shields against binding in a point pattern at short (10 ft), targeting surface, 
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 115 W |
 
 ---
 
-**ChainLockField**
-Constrains binding across a surface at touch, targeting surface.
+**SweepRing**
+Constrains binding across surfaces at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -865,8 +865,8 @@ Constrains binding across a surface at touch, targeting surface.
 
 ---
 
-**FlameScreenPoint**
-Filters out heat in a point pattern at touch, targeting object, persisting timed (long).
+**SolidGlyph**
+Filters heat in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -877,14 +877,14 @@ Filters out heat in a point pattern at touch, targeting object, persisting timed
 | Output | Thermal |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
-**FlamePush_(default  Plane**
-Displaces heat in a _(default  plane pattern at _(default  self, targeting object, persisting timed (short).
+**BurCharm**
+Displaces heat in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -895,14 +895,14 @@ Displaces heat in a _(default  plane pattern at _(default  self, targeting objec
 | Output | Thermal |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 23 W |
 
 ---
 
-**ThrustGuardPoint**
-Shields against force in a point pattern at touch, targeting object.
+**SweepBlessing**
+Shields against force in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -919,8 +919,8 @@ Shields against force in a point pattern at touch, targeting object.
 
 ---
 
-**RadiancePushField**
-Displaces light across a surface at _(default  self, targeting surface, persisting timed (long).
+**DriftGate**
+Displaces light across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -931,14 +931,14 @@ Displaces light across a surface at _(default  self, targeting surface, persisti
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 39 W |
 
 ---
 
-**ChainReadPoint**
-Detects binding in a point pattern at short (10 ft), targeting surface, persisting timed (long).
+**TransformChain**
+Detects binding in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -948,15 +948,15 @@ Detects binding in a point pattern at short (10 ft), targeting surface, persisti
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 115 W |
 
 ---
 
-**RadianceReadPoint**
-Detects light in a point pattern at touch, targeting _(default  where written.
+**WhirlingRoot**
+Detects light in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -973,8 +973,8 @@ Detects light in a point pattern at touch, targeting _(default  where written.
 
 ---
 
-**RadianceLockPoint**
-Constrains light in a point pattern at _(default  self, targeting object, requiring sustained concentration.
+**TwinBond**
+Constrains light in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -991,8 +991,8 @@ Constrains light in a point pattern at _(default  self, targeting object, requir
 
 ---
 
-**FlameLockPoint**
-Constrains heat in a point pattern at short (10 ft), targeting surface, persisting timed (short).
+**CapturRune**
+Constrains heat in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1002,15 +1002,15 @@ Constrains heat in a point pattern at short (10 ft), targeting surface, persisti
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 21 W |
 
 ---
 
-**RadianceScreenPoint**
-Filters out light in a point pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**BurWall**
+Filters light in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1027,8 +1027,8 @@ Filters out light in a point pattern at touch, targeting _(default  where writte
 
 ---
 
-**BoltShiftField**
-Alters electric across a surface at _(default  self, targeting object, requiring sustained concentration.
+**TaintedCharm**
+Alters electric across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1045,8 +1045,8 @@ Alters electric across a surface at _(default  self, targeting object, requiring
 
 ---
 
-**FlameLockField**
-Constrains heat across a surface at _(default  self, targeting surface, persisting timed (short).
+**KindlVoid**
+Constrains heat across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1057,14 +1057,14 @@ Constrains heat across a surface at _(default  self, targeting surface, persisti
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 16 W |
 
 ---
 
-**RadianceWaveSpread**
-Releases light in a cone pattern at _(default  self, targeting surface.
+**WeavMark**
+Releases light in a cone at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1081,8 +1081,8 @@ Releases light in a cone pattern at _(default  self, targeting surface.
 
 ---
 
-**BoltReadPoint**
-Detects electric in a point pattern at _(default  self, targeting _(default  where written, requiring sustained concentration.
+**WeaveThought**
+Detects electric in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1099,8 +1099,8 @@ Detects electric in a point pattern at _(default  self, targeting _(default  whe
 
 ---
 
-**BoltGuardPoint**
-Shields against electric in a point pattern at _(default  self, targeting surface, persisting timed (short).
+**SwiftTouch**
+Shields against electric in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1111,14 +1111,14 @@ Shields against electric in a point pattern at _(default  self, targeting surfac
 | Output | Shock |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 25 W |
 
 ---
 
-**ChainRead_(default  Plane**
-Detects binding in a _(default  plane pattern at _(default  self, targeting object.
+**KindleFlame**
+Detects binding in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1135,8 +1135,8 @@ Detects binding in a _(default  plane pattern at _(default  self, targeting obje
 
 ---
 
-**BoltPushSpread**
-Displaces electric in a cone pattern at _(default  self, targeting surface, requiring sustained concentration.
+**DissolvHeart**
+Displaces electric in a cone at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1153,8 +1153,8 @@ Displaces electric in a cone pattern at _(default  self, targeting surface, requ
 
 ---
 
-**FluxShift_(default  Plane**
-Alters chemical in a _(default  plane pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**ChillPulse**
+Alters chemical in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1164,15 +1164,15 @@ Alters chemical in a _(default  plane pattern at short (10 ft), targeting _(defa
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 50 W |
 
 ---
 
-**ThrustGuardSpread**
-Shields against force in a cone pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**ReleasCrown**
+Shields against force in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1189,8 +1189,8 @@ Shields against force in a cone pattern at touch, targeting _(default  where wri
 
 ---
 
-**ChainShiftSpread**
-Alters binding in a cone pattern at short (10 ft), targeting object, persisting timed (long).
+**BreakNet**
+Alters binding in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1200,15 +1200,15 @@ Alters binding in a cone pattern at short (10 ft), targeting object, persisting 
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 122 W |
 
 ---
 
-**RadianceReadField**
-Detects light across a surface at touch, targeting _(default  where written, requiring sustained concentration.
+**SlowHalo**
+Detects light across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1225,8 +1225,8 @@ Detects light across a surface at touch, targeting _(default  where written, req
 
 ---
 
-**ThrustScreenSpread**
-Filters out force in a cone pattern at touch, targeting surface, requiring sustained concentration.
+**TwistGlyph**
+Filters force in a cone at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1243,8 +1243,8 @@ Filters out force in a cone pattern at touch, targeting surface, requiring susta
 
 ---
 
-**FluxScreenField**
-Filters out chemical across a surface at short (10 ft), targeting surface, persisting timed (short).
+**PureWall**
+Filters chemical across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1254,15 +1254,15 @@ Filters out chemical across a surface at short (10 ft), targeting surface, persi
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 30 W |
 
 ---
 
-**RadianceScreenField**
-Filters out light across a surface at _(default  self, targeting object, requiring sustained concentration.
+**PaleCore**
+Filters light across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1279,8 +1279,8 @@ Filters out light across a surface at _(default  self, targeting object, requiri
 
 ---
 
-**ChainLock_(default  Plane**
-Constrains binding in a _(default  plane pattern at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**WeakCage**
+Constrains binding in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1290,15 +1290,15 @@ Constrains binding in a _(default  plane pattern at short (10 ft), targeting _(d
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 95 W |
 
 ---
 
-**ThrustLockSpread**
-Constrains force in a cone pattern at short (10 ft), targeting surface.
+**ReleasTouch**
+Constrains force in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1308,15 +1308,15 @@ Constrains force in a cone pattern at short (10 ft), targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
-**ChainShift_(default  Plane**
-Alters binding in a _(default  plane pattern at _(default  self, targeting surface, requiring sustained concentration.
+**FreshWisp**
+Alters binding in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1333,8 +1333,8 @@ Alters binding in a _(default  plane pattern at _(default  self, targeting surfa
 
 ---
 
-**FlameScreenPoint**
-Filters out heat in a point pattern at _(default  self, targeting surface, persisting timed (short).
+**GentleHand**
+Filters heat in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1345,14 +1345,14 @@ Filters out heat in a point pattern at _(default  self, targeting surface, persi
 | Output | Thermal |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
-**FlameShift_(default  Plane**
-Alters heat in a _(default  plane pattern at short (10 ft), targeting surface, persisting timed (long).
+**FallStrike**
+Alters heat in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1362,15 +1362,15 @@ Alters heat in a _(default  plane pattern at short (10 ft), targeting surface, p
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 51 W |
 
 ---
 
-**ChainGuardSpread**
-Shields against binding in a cone pattern at touch, targeting object.
+**BurnMark**
+Shields against binding in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1387,8 +1387,8 @@ Shields against binding in a cone pattern at touch, targeting object.
 
 ---
 
-**RadiancePushField**
-Displaces light across a surface at touch, targeting _(default  where written, persisting timed (short).
+**SweepHand**
+Displaces light across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1399,14 +1399,14 @@ Displaces light across a surface at touch, targeting _(default  where written, p
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 31 W |
 
 ---
 
-**FlamePushField**
-Displaces heat across a surface at short (10 ft), targeting surface.
+**ShatterSeal**
+Displaces heat across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1416,15 +1416,15 @@ Displaces heat across a surface at short (10 ft), targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 16 W |
 
 ---
 
-**FlameLockSpread**
-Constrains heat in a cone pattern at short (10 ft), targeting object, requiring sustained concentration.
+**BreakPulse**
+Constrains heat in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1434,15 +1434,15 @@ Constrains heat in a cone pattern at short (10 ft), targeting object, requiring 
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
-**RadianceLockField**
-Constrains light across a surface at _(default  self, targeting surface, persisting timed (long).
+**SurCurse**
+Constrains light across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1453,14 +1453,14 @@ Constrains light across a surface at _(default  self, targeting surface, persist
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 54 W |
 
 ---
 
-**ChainShiftSpread**
-Alters binding in a cone pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**LoudCharm**
+Alters binding in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1470,15 +1470,15 @@ Alters binding in a cone pattern at short (10 ft), targeting _(default  where wr
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 100 W |
 
 ---
 
-**BoltGuardPoint**
-Shields against electric in a point pattern at _(default  self, targeting object, requiring sustained concentration.
+**GuardVeil**
+Shields against electric in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1495,8 +1495,8 @@ Shields against electric in a point pattern at _(default  self, targeting object
 
 ---
 
-**ThrustGuardPoint**
-Shields against force in a point pattern at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**SurCore**
+Shields against force in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1506,15 +1506,15 @@ Shields against force in a point pattern at short (10 ft), targeting _(default  
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 31 W |
 
 ---
 
-**FlameWave_(default  Plane**
-Releases heat in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**CalmSight**
+Releases heat in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1525,14 +1525,14 @@ Releases heat in a _(default  plane pattern at touch, targeting object, persisti
 | Output | Thermal |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
-**FlameLockPoint**
-Constrains heat in a point pattern at short (10 ft), targeting surface.
+**GuardGate**
+Constrains heat in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1542,15 +1542,15 @@ Constrains heat in a point pattern at short (10 ft), targeting surface.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
-**BoltLockSpread**
-Constrains electric in a cone pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**HiddenGlyph**
+Constrains electric in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1567,8 +1567,8 @@ Constrains electric in a cone pattern at touch, targeting _(default  where writt
 
 ---
 
-**BoltWave_(default  Plane**
-Releases electric in a _(default  plane pattern at short (10 ft), targeting object, requiring sustained concentration.
+**DriftingSigil**
+Releases electric in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1578,15 +1578,15 @@ Releases electric in a _(default  plane pattern at short (10 ft), targeting obje
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
-**ThrustGuard_(default  Plane**
-Shields against force in a _(default  plane pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**SwiftWall**
+Shields against force in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1597,14 +1597,14 @@ Shields against force in a _(default  plane pattern at _(default  self, targetin
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 41 W |
 
 ---
 
-**ThrustGuardPoint**
-Shields against force in a point pattern at touch, targeting surface.
+**NakedMark**
+Shields against force in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1621,8 +1621,8 @@ Shields against force in a point pattern at touch, targeting surface.
 
 ---
 
-**RadianceGuardSpread**
-Shields against light in a cone pattern at short (10 ft), targeting surface, persisting timed (short).
+**ReleasCalm**
+Shields against light in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1632,15 +1632,15 @@ Shields against light in a cone pattern at short (10 ft), targeting surface, per
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 49 W |
 
 ---
 
-**CoreWavePoint**
-Releases raw in a point pattern at _(default  self, targeting surface.
+**ShatterSilence**
+Releases raw in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1657,8 +1657,8 @@ Releases raw in a point pattern at _(default  self, targeting surface.
 
 ---
 
-**FluxPushPoint**
-Displaces chemical in a point pattern at short (10 ft), targeting object, requiring sustained concentration.
+**ChillRing**
+Displaces chemical in a point at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1668,15 +1668,15 @@ Displaces chemical in a point pattern at short (10 ft), targeting object, requir
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
-**RadiancePush_(default  Plane**
-Displaces light in a _(default  plane pattern at touch, targeting _(default  where written, persisting timed (long).
+**TwistWisp**
+Displaces light in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1687,14 +1687,14 @@ Displaces light in a _(default  plane pattern at touch, targeting _(default  whe
 | Output | Photonic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 51 W |
 
 ---
 
-**ChainGuardPoint**
-Shields against binding in a point pattern at _(default  self, targeting object, persisting timed (short).
+**DriftMark**
+Shields against binding in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1705,14 +1705,14 @@ Shields against binding in a point pattern at _(default  self, targeting object,
 | Output | Constraint |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 37 W |
 
 ---
 
-**BoltLockSpread**
-Constrains electric in a cone pattern at short (10 ft), targeting _(default  where written, persisting timed (long).
+**ClearGate**
+Constrains electric in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1722,15 +1722,15 @@ Constrains electric in a cone pattern at short (10 ft), targeting _(default  whe
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 80 W |
 
 ---
 
-**ThrustScreenPoint**
-Filters out force in a point pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**SweepBreath**
+Filters force in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1747,8 +1747,8 @@ Filters out force in a point pattern at touch, targeting _(default  where writte
 
 ---
 
-**ChainReadSpread**
-Detects binding in a cone pattern at touch, targeting _(default  where written, persisting timed (long).
+**VastPath**
+Detects binding in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1759,14 +1759,14 @@ Detects binding in a cone pattern at touch, targeting _(default  where written, 
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 117 W |
 
 ---
 
-**ThrustGuardSpread**
-Shields against force in a cone pattern at touch, targeting object, persisting timed (long).
+**FlowEye**
+Shields against force in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1777,14 +1777,14 @@ Shields against force in a cone pattern at touch, targeting object, persisting t
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 45 W |
 
 ---
 
-**RadianceRead_(default  Plane**
-Detects light in a _(default  plane pattern at short (10 ft), targeting object, persisting timed (long).
+**TwistLight**
+Detects light in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1794,15 +1794,15 @@ Detects light in a _(default  plane pattern at short (10 ft), targeting object, 
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 41 W |
 
 ---
 
-**ThrustLockField**
-Constrains force across a surface at _(default  self, targeting object, persisting timed (short).
+**SwiftDoor**
+Constrains force across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1813,14 +1813,14 @@ Constrains force across a surface at _(default  self, targeting object, persisti
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 23 W |
 
 ---
 
-**RadianceShiftField**
-Alters light across a surface at _(default  self, targeting surface.
+**SlowDoor**
+Alters light across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1837,8 +1837,8 @@ Alters light across a surface at _(default  self, targeting surface.
 
 ---
 
-**BoltReadSpread**
-Detects electric in a cone pattern at short (10 ft), targeting surface.
+**PierceWay**
+Detects electric in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1848,15 +1848,15 @@ Detects electric in a cone pattern at short (10 ft), targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
-**ChainScreenPoint**
-Filters out binding in a point pattern at touch, targeting object, persisting timed (long).
+**GuardFrost**
+Filters binding in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1867,14 +1867,14 @@ Filters out binding in a point pattern at touch, targeting object, persisting ti
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 59 W |
 
 ---
 
-**BoltPushSpread**
-Displaces electric in a cone pattern at _(default  self, targeting _(default  where written.
+**SurShell**
+Displaces electric in a cone at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1891,8 +1891,8 @@ Displaces electric in a cone pattern at _(default  self, targeting _(default  wh
 
 ---
 
-**ThrustScreenPoint**
-Filters out force in a point pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**LoudPulse**
+Filters force in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1909,8 +1909,8 @@ Filters out force in a point pattern at touch, targeting _(default  where writte
 
 ---
 
-**CoreGuardPoint**
-Shields against raw in a point pattern at short (10 ft), targeting surface, persisting timed (long).
+**CaptureFrost**
+Shields against raw in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1920,15 +1920,15 @@ Shields against raw in a point pattern at short (10 ft), targeting surface, pers
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 43 W |
 
 ---
 
-**ChainReadPoint**
-Detects binding in a point pattern at touch, targeting object, persisting timed (short).
+**PierceTide**
+Detects binding in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -1939,14 +1939,14 @@ Detects binding in a point pattern at touch, targeting object, persisting timed 
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 39 W |
 
 ---
 
-**BoltLockPoint**
-Constrains electric in a point pattern at _(default  self, targeting object, requiring sustained concentration.
+**SlowBond**
+Constrains electric in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1963,8 +1963,8 @@ Constrains electric in a point pattern at _(default  self, targeting object, req
 
 ---
 
-**FlameReadPoint**
-Detects heat in a point pattern at _(default  self, targeting surface, persisting timed (short).
+**FreezGate**
+Detects heat in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1975,14 +1975,14 @@ Detects heat in a point pattern at _(default  self, targeting surface, persistin
 | Output | Thermal |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
-**ThrustLockSpread**
-Constrains force in a cone pattern at _(default  self, targeting object, persisting timed (long).
+**TaintedHalo**
+Constrains force in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -1993,14 +1993,14 @@ Constrains force in a cone pattern at _(default  self, targeting object, persist
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 53 W |
 
 ---
 
-**BoltReadPoint**
-Detects electric in a point pattern at short (10 ft), targeting object, persisting timed (short).
+**FallBoon**
+Detects electric in a point at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2010,15 +2010,15 @@ Detects electric in a point pattern at short (10 ft), targeting object, persisti
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 27 W |
 
 ---
 
-**FlameShift_(default  Plane**
-Alters heat in a _(default  plane pattern at _(default  self, targeting _(default  where written.
+**SurMark**
+Alters heat in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2035,8 +2035,8 @@ Alters heat in a _(default  plane pattern at _(default  self, targeting _(defaul
 
 ---
 
-**BoltReadField**
-Detects electric across a surface at _(default  self, targeting object, requiring sustained concentration.
+**TaintedCurse**
+Detects electric across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2053,8 +2053,8 @@ Detects electric across a surface at _(default  self, targeting object, requirin
 
 ---
 
-**CoreGuardSpread**
-Shields against raw in a cone pattern at _(default  self, targeting object.
+**HeavyShell**
+Shields against raw in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2071,8 +2071,8 @@ Shields against raw in a cone pattern at _(default  self, targeting object.
 
 ---
 
-**FlamePushSpread**
-Displaces heat in a cone pattern at short (10 ft), targeting object, requiring sustained concentration.
+**BreakSoul**
+Displaces heat in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2082,15 +2082,15 @@ Displaces heat in a cone pattern at short (10 ft), targeting object, requiring s
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 43 W |
 
 ---
 
-**CoreShiftField**
-Alters raw across a surface at short (10 ft), targeting object, persisting timed (short).
+**ReleasBoon**
+Alters raw across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2100,15 +2100,15 @@ Alters raw across a surface at short (10 ft), targeting object, persisting timed
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 20 W |
 
 ---
 
-**CoreReadSpread**
-Detects raw in a cone pattern at touch, targeting object, persisting timed (short).
+**HeavyWard**
+Detects raw in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2119,14 +2119,14 @@ Detects raw in a cone pattern at touch, targeting object, persisting timed (shor
 | Output | Raw |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
-**FluxRead_(default  Plane**
-Detects chemical in a _(default  plane pattern at short (10 ft), targeting surface, persisting timed (long).
+**CaptureMark**
+Detects chemical in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2136,15 +2136,15 @@ Detects chemical in a _(default  plane pattern at short (10 ft), targeting surfa
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 75 W |
 
 ---
 
-**ChainReadSpread**
-Detects binding in a cone pattern at touch, targeting object, persisting timed (long).
+**ChillDance**
+Detects binding in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2155,14 +2155,14 @@ Detects binding in a cone pattern at touch, targeting object, persisting timed (
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 69 W |
 
 ---
 
-**CoreGuardPoint**
-Shields against raw in a point pattern at short (10 ft), targeting object.
+**FallVeil**
+Shields against raw in a point at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2172,15 +2172,15 @@ Shields against raw in a point pattern at short (10 ft), targeting object.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
-**FlameGuardPoint**
-Shields against heat in a point pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**CalmVeil**
+Shields against heat in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2197,8 +2197,8 @@ Shields against heat in a point pattern at touch, targeting _(default  where wri
 
 ---
 
-**CoreWaveSpread**
-Releases raw in a cone pattern at touch, targeting object, persisting timed (long).
+**FlowLight**
+Releases raw in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2209,14 +2209,14 @@ Releases raw in a cone pattern at touch, targeting object, persisting timed (lon
 | Output | Raw |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 42 W |
 
 ---
 
-**FluxShiftPoint**
-Alters chemical in a point pattern at short (10 ft), targeting _(default  where written.
+**SurTouch**
+Alters chemical in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2226,15 +2226,15 @@ Alters chemical in a point pattern at short (10 ft), targeting _(default  where 
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 20 W |
 
 ---
 
-**ThrustReadField**
-Detects force across a surface at _(default  self, targeting object, requiring sustained concentration.
+**MurkyGlyph**
+Detects force across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2251,8 +2251,8 @@ Detects force across a surface at _(default  self, targeting object, requiring s
 
 ---
 
-**ThrustShiftSpread**
-Alters force in a cone pattern at _(default  self, targeting surface.
+**NakedShroud**
+Alters force in a cone at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2269,8 +2269,8 @@ Alters force in a cone pattern at _(default  self, targeting surface.
 
 ---
 
-**BoltPushPoint**
-Displaces electric in a point pattern at touch, targeting surface, persisting timed (long).
+**BindHalo**
+Displaces electric in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2281,14 +2281,14 @@ Displaces electric in a point pattern at touch, targeting surface, persisting ti
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 72 W |
 
 ---
 
-**ChainShiftSpread**
-Alters binding in a cone pattern at short (10 ft), targeting surface.
+**VividFrost**
+Alters binding in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2298,15 +2298,15 @@ Alters binding in a cone pattern at short (10 ft), targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
-**FlameRead_(default  Plane**
-Detects heat in a _(default  plane pattern at touch, targeting object, requiring sustained concentration.
+**GuardPulse**
+Detects heat in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2323,8 +2323,8 @@ Detects heat in a _(default  plane pattern at touch, targeting object, requiring
 
 ---
 
-**RadiancePush_(default  Plane**
-Displaces light in a _(default  plane pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**TransformTide**
+Displaces light in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2335,14 +2335,14 @@ Displaces light in a _(default  plane pattern at _(default  self, targeting _(de
 | Output | Photonic |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 34 W |
 
 ---
 
-**ThrustReadPoint**
-Detects force in a point pattern at _(default  self, targeting surface, requiring sustained concentration.
+**PiercVeil**
+Detects force in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2359,8 +2359,8 @@ Detects force in a point pattern at _(default  self, targeting surface, requirin
 
 ---
 
-**BoltScreen_(default  Plane**
-Filters out electric in a _(default  plane pattern at short (10 ft), targeting object, persisting timed (long).
+**BurHand**
+Filters electric in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2370,15 +2370,15 @@ Filters out electric in a _(default  plane pattern at short (10 ft), targeting o
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
-**CoreLockField**
-Constrains raw across a surface at touch, targeting object, requiring sustained concentration.
+**KindleMark**
+Constrains raw across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2395,8 +2395,8 @@ Constrains raw across a surface at touch, targeting object, requiring sustained 
 
 ---
 
-**BoltGuard_(default  Plane**
-Shields against electric in a _(default  plane pattern at touch, targeting object, persisting timed (long).
+**KindlHeart**
+Shields against electric in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2407,14 +2407,14 @@ Shields against electric in a _(default  plane pattern at touch, targeting objec
 | Output | Shock |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 69 W |
 
 ---
 
-**RadianceShiftPoint**
-Alters light in a point pattern at touch, targeting surface, requiring sustained concentration.
+**PaleGate**
+Alters light in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2431,8 +2431,8 @@ Alters light in a point pattern at touch, targeting surface, requiring sustained
 
 ---
 
-**RadiancePush_(default  Plane**
-Displaces light in a _(default  plane pattern at touch, targeting surface, persisting timed (short).
+**TwistFlame**
+Displaces light in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2443,14 +2443,14 @@ Displaces light in a _(default  plane pattern at touch, targeting surface, persi
 | Output | Photonic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 36 W |
 
 ---
 
-**CoreShiftPoint**
-Alters raw in a point pattern at short (10 ft), targeting surface, requiring sustained concentration.
+**CalmScar**
+Alters raw in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2460,15 +2460,15 @@ Alters raw in a point pattern at short (10 ft), targeting surface, requiring sus
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 23 W |
 
 ---
 
-**FluxWavePoint**
-Releases chemical in a point pattern at touch, targeting object.
+**CalmTouch**
+Releases chemical in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2485,8 +2485,8 @@ Releases chemical in a point pattern at touch, targeting object.
 
 ---
 
-**FluxWaveField**
-Releases chemical across a surface at _(default  self, targeting object, persisting timed (short).
+**TwistScar**
+Releases chemical across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2497,14 +2497,14 @@ Releases chemical across a surface at _(default  self, targeting object, persist
 | Output | Reactive |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
-**RadianceLockField**
-Constrains light across a surface at touch, targeting object.
+**FlowVeil**
+Constrains light across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2521,8 +2521,8 @@ Constrains light across a surface at touch, targeting object.
 
 ---
 
-**CoreScreenPoint**
-Filters out raw in a point pattern at _(default  self, targeting surface.
+**WeakAura**
+Filters raw in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2539,8 +2539,8 @@ Filters out raw in a point pattern at _(default  self, targeting surface.
 
 ---
 
-**RadianceReadField**
-Detects light across a surface at _(default  self, targeting _(default  where written, persisting timed (long).
+**SolidMirror**
+Detects light across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2551,14 +2551,14 @@ Detects light across a surface at _(default  self, targeting _(default  where wr
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 34 W |
 
 ---
 
-**RadianceRead_(default  Plane**
-Detects light in a _(default  plane pattern at short (10 ft), targeting object, persisting timed (short).
+**FiercePulse**
+Detects light in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2568,15 +2568,15 @@ Detects light in a _(default  plane pattern at short (10 ft), targeting object, 
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 36 W |
 
 ---
 
-**RadianceWaveField**
-Releases light across a surface at touch, targeting _(default  where written, persisting timed (long).
+**ReleasStorm**
+Releases light across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2587,14 +2587,14 @@ Releases light across a surface at touch, targeting _(default  where written, pe
 | Output | Photonic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 51 W |
 
 ---
 
-**RadianceGuard_(default  Plane**
-Shields against light in a _(default  plane pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**DullWall**
+Shields against light in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2611,8 +2611,8 @@ Shields against light in a _(default  plane pattern at touch, targeting _(defaul
 
 ---
 
-**BoltRead_(default  Plane**
-Detects electric in a _(default  plane pattern at _(default  self, targeting surface.
+**TwinKnot**
+Detects electric in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2629,8 +2629,8 @@ Detects electric in a _(default  plane pattern at _(default  self, targeting sur
 
 ---
 
-**ThrustShiftField**
-Alters force across a surface at short (10 ft), targeting surface, requiring sustained concentration.
+**KindlCrown**
+Alters force across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2640,15 +2640,15 @@ Alters force across a surface at short (10 ft), targeting surface, requiring sus
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 36 W |
 
 ---
 
-**FlameGuardField**
-Shields against heat across a surface at short (10 ft), targeting _(default  where written, persisting timed (short).
+**DeepCurse**
+Shields against heat across surfaces at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2658,15 +2658,15 @@ Shields against heat across a surface at short (10 ft), targeting _(default  whe
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 26 W |
 
 ---
 
-**CorePush_(default  Plane**
-Displaces raw in a _(default  plane pattern at touch, targeting surface.
+**SolidBoon**
+Displaces raw in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2683,8 +2683,8 @@ Displaces raw in a _(default  plane pattern at touch, targeting surface.
 
 ---
 
-**ThrustReadSpread**
-Detects force in a cone pattern at touch, targeting _(default  where written.
+**CalmThought**
+Detects force in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2701,8 +2701,8 @@ Detects force in a cone pattern at touch, targeting _(default  where written.
 
 ---
 
-**ThrustReadPoint**
-Detects force in a point pattern at touch, targeting object, persisting timed (short).
+**SweepTide**
+Detects force in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2713,14 +2713,14 @@ Detects force in a point pattern at touch, targeting object, persisting timed (s
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
-**BoltGuardSpread**
-Shields against electric in a cone pattern at short (10 ft), targeting surface.
+**DeepBridge**
+Shields against electric in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2730,15 +2730,15 @@ Shields against electric in a cone pattern at short (10 ft), targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
-**CoreRead_(default  Plane**
-Detects raw in a _(default  plane pattern at short (10 ft), targeting surface.
+**AnchorWay**
+Detects raw in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2748,15 +2748,15 @@ Detects raw in a _(default  plane pattern at short (10 ft), targeting surface.
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
-**RadiancePushSpread**
-Displaces light in a cone pattern at _(default  self, targeting _(default  where written, persisting timed (short).
+**RiseWay**
+Displaces light in a cone at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2767,14 +2767,14 @@ Displaces light in a cone pattern at _(default  self, targeting _(default  where
 | Output | Photonic |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 24 W |
 
 ---
 
-**FluxShiftField**
-Alters chemical across a surface at touch, targeting _(default  where written, persisting timed (long).
+**QuietKnot**
+Alters chemical across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2785,14 +2785,14 @@ Alters chemical across a surface at touch, targeting _(default  where written, p
 | Output | Reactive |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 42 W |
 
 ---
 
-**FlameShift_(default  Plane**
-Alters heat in a _(default  plane pattern at _(default  self, targeting surface.
+**ReleasShroud**
+Alters heat in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2809,8 +2809,8 @@ Alters heat in a _(default  plane pattern at _(default  self, targeting surface.
 
 ---
 
-**RadianceRead_(default  Plane**
-Detects light in a _(default  plane pattern at short (10 ft), targeting surface.
+**FreezHeart**
+Detects light in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2820,15 +2820,15 @@ Detects light in a _(default  plane pattern at short (10 ft), targeting surface.
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 19 W |
 
 ---
 
-**FluxReadPoint**
-Detects chemical in a point pattern at short (10 ft), targeting _(default  where written.
+**SurBreath**
+Detects chemical in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2838,15 +2838,15 @@ Detects chemical in a point pattern at short (10 ft), targeting _(default  where
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 45 W |
 
 ---
 
-**FluxScreenPoint**
-Filters out chemical in a point pattern at short (10 ft), targeting surface, persisting timed (short).
+**WarmRing**
+Filters chemical in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2856,15 +2856,15 @@ Filters out chemical in a point pattern at short (10 ft), targeting surface, per
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 55 W |
 
 ---
 
-**ChainLockField**
-Constrains binding across a surface at _(default  self, targeting _(default  where written, persisting timed (short).
+**TwistVoice**
+Constrains binding across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2875,14 +2875,14 @@ Constrains binding across a surface at _(default  self, targeting _(default  whe
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 85 W |
 
 ---
 
-**ThrustScreenSpread**
-Filters out force in a cone pattern at touch, targeting object, persisting timed (short).
+**SteadyEye**
+Filters force in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2893,14 +2893,14 @@ Filters out force in a cone pattern at touch, targeting object, persisting timed
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
-**ThrustScreenField**
-Filters out force across a surface at short (10 ft), targeting surface.
+**SlowWeb**
+Filters force across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2910,15 +2910,15 @@ Filters out force across a surface at short (10 ft), targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 26 W |
 
 ---
 
-**FlamePush_(default  Plane**
-Displaces heat in a _(default  plane pattern at touch, targeting object.
+**TransformCharm**
+Displaces heat in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2935,8 +2935,8 @@ Displaces heat in a _(default  plane pattern at touch, targeting object.
 
 ---
 
-**ChainShiftSpread**
-Alters binding in a cone pattern at touch, targeting object.
+**FlowBond**
+Alters binding in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2953,8 +2953,8 @@ Alters binding in a cone pattern at touch, targeting object.
 
 ---
 
-**FlameReadField**
-Detects heat across a surface at touch, targeting object.
+**PiercSilence**
+Detects heat across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -2971,8 +2971,8 @@ Detects heat across a surface at touch, targeting object.
 
 ---
 
-**FlameShiftPoint**
-Alters heat in a point pattern at _(default  self, targeting _(default  where written, requiring sustained concentration.
+**TwistBond**
+Alters heat in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -2989,8 +2989,8 @@ Alters heat in a point pattern at _(default  self, targeting _(default  where wr
 
 ---
 
-**ThrustShiftField**
-Alters force across a surface at touch, targeting object, persisting timed (long).
+**FragileCurse**
+Alters force across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3001,14 +3001,14 @@ Alters force across a surface at touch, targeting object, persisting timed (long
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 45 W |
 
 ---
 
-**CoreGuardSpread**
-Shields against raw in a cone pattern at _(default  self, targeting _(default  where written, persisting timed (short).
+**TransformDance**
+Shields against raw in a cone at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3019,14 +3019,14 @@ Shields against raw in a cone pattern at _(default  self, targeting _(default  w
 | Output | Raw |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 18 W |
 
 ---
 
-**CorePushPoint**
-Displaces raw in a point pattern at short (10 ft), targeting _(default  where written.
+**ShatterLight**
+Displaces raw in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3036,15 +3036,15 @@ Displaces raw in a point pattern at short (10 ft), targeting _(default  where wr
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 8 W |
 
 ---
 
-**FlameGuardPoint**
-Shields against heat in a point pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**SolidFrost**
+Shields against heat in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3055,14 +3055,14 @@ Shields against heat in a point pattern at _(default  self, targeting _(default 
 | Output | Thermal |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 41 W |
 
 ---
 
-**CoreScreenPoint**
-Filters out raw in a point pattern at touch, targeting surface, persisting timed (long).
+**FierceThread**
+Filters raw in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3073,14 +3073,14 @@ Filters out raw in a point pattern at touch, targeting surface, persisting timed
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 40 W |
 
 ---
 
-**FluxReadField**
-Detects chemical across a surface at _(default  self, targeting surface.
+**WeavEcho**
+Detects chemical across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3097,8 +3097,8 @@ Detects chemical across a surface at _(default  self, targeting surface.
 
 ---
 
-**ThrustScreenPoint**
-Filters out force in a point pattern at _(default  self, targeting _(default  where written.
+**WildKey**
+Filters force in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3115,8 +3115,8 @@ Filters out force in a point pattern at _(default  self, targeting _(default  wh
 
 ---
 
-**FlamePushPoint**
-Displaces heat in a point pattern at _(default  self, targeting object, persisting timed (long).
+**ShatterFlame**
+Displaces heat in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3127,14 +3127,14 @@ Displaces heat in a point pattern at _(default  self, targeting object, persisti
 | Output | Thermal |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 43 W |
 
 ---
 
-**BoltScreenPoint**
-Filters out electric in a point pattern at short (10 ft), targeting surface, persisting timed (long).
+**ReleaseBreath**
+Filters electric in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3144,15 +3144,15 @@ Filters out electric in a point pattern at short (10 ft), targeting surface, per
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
-**ThrustGuard_(default  Plane**
-Shields against force in a _(default  plane pattern at touch, targeting _(default  where written, persisting timed (short).
+**ShatterNet**
+Shields against force in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3163,14 +3163,14 @@ Shields against force in a _(default  plane pattern at touch, targeting _(defaul
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 23 W |
 
 ---
 
-**CoreShiftField**
-Alters raw across a surface at _(default  self, targeting object, persisting timed (long).
+**TaintedPulse**
+Alters raw across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3181,14 +3181,14 @@ Alters raw across a surface at _(default  self, targeting object, persisting tim
 | Output | Raw |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
-**FlameGuard_(default  Plane**
-Shields against heat in a _(default  plane pattern at _(default  self, targeting object, persisting timed (long).
+**PiercBridge**
+Shields against heat in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3199,14 +3199,14 @@ Shields against heat in a _(default  plane pattern at _(default  self, targeting
 | Output | Thermal |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
-**RadianceShiftSpread**
-Alters light in a cone pattern at _(default  self, targeting _(default  where written.
+**CurvedWard**
+Alters light in a cone at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3223,8 +3223,8 @@ Alters light in a cone pattern at _(default  self, targeting _(default  where wr
 
 ---
 
-**ChainScreenField**
-Filters out binding across a surface at _(default  self, targeting _(default  where written.
+**RisNet**
+Filters binding across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3241,8 +3241,8 @@ Filters out binding across a surface at _(default  self, targeting _(default  wh
 
 ---
 
-**FlameGuardField**
-Shields against heat across a surface at _(default  self, targeting object, persisting timed (long).
+**TransformBreath**
+Shields against heat across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3253,14 +3253,14 @@ Shields against heat across a surface at _(default  self, targeting object, pers
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
-**BoltLock_(default  Plane**
-Constrains electric in a _(default  plane pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**CalmPath**
+Constrains electric in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3277,8 +3277,8 @@ Constrains electric in a _(default  plane pattern at touch, targeting _(default 
 
 ---
 
-**ChainShift_(default  Plane**
-Alters binding in a _(default  plane pattern at _(default  self, targeting surface.
+**DissolveLight**
+Alters binding in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3295,8 +3295,8 @@ Alters binding in a _(default  plane pattern at _(default  self, targeting surfa
 
 ---
 
-**CorePushSpread**
-Displaces raw in a cone pattern at _(default  self, targeting object, persisting timed (long).
+**HeavyCalm**
+Displaces raw in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3307,14 +3307,14 @@ Displaces raw in a cone pattern at _(default  self, targeting object, persisting
 | Output | Raw |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 40 W |
 
 ---
 
-**FlameWaveField**
-Releases heat across a surface at short (10 ft), targeting _(default  where written.
+**RestlessRoot**
+Releases heat across surfaces at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3324,15 +3324,15 @@ Releases heat across a surface at short (10 ft), targeting _(default  where writ
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 11 W |
 
 ---
 
-**CoreReadField**
-Detects raw across a surface at short (10 ft), targeting object, persisting timed (long).
+**RisCurse**
+Detects raw across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3342,15 +3342,15 @@ Detects raw across a surface at short (10 ft), targeting object, persisting time
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 40 W |
 
 ---
 
-**ChainGuard_(default  Plane**
-Shields against binding in a _(default  plane pattern at short (10 ft), targeting surface, persisting timed (long).
+**GuardStorm**
+Shields against binding in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3360,15 +3360,15 @@ Shields against binding in a _(default  plane pattern at short (10 ft), targetin
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 65 W |
 
 ---
 
-**CoreScreen_(default  Plane**
-Filters out raw in a _(default  plane pattern at _(default  self, targeting object, persisting timed (long).
+**ColdEcho**
+Filters raw in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3379,14 +3379,14 @@ Filters out raw in a _(default  plane pattern at _(default  self, targeting obje
 | Output | Raw |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 30 W |
 
 ---
 
-**RadianceReadPoint**
-Detects light in a point pattern at _(default  self, targeting _(default  where written, persisting timed (short).
+**SurRoot**
+Detects light in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3397,14 +3397,14 @@ Detects light in a point pattern at _(default  self, targeting _(default  where 
 | Output | Photonic |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 29 W |
 
 ---
 
-**FlameLock_(default  Plane**
-Constrains heat in a _(default  plane pattern at _(default  self, targeting object, persisting timed (long).
+**SweepAura**
+Constrains heat in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3415,14 +3415,14 @@ Constrains heat in a _(default  plane pattern at _(default  self, targeting obje
 | Output | Thermal |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 33 W |
 
 ---
 
-**FluxReadField**
-Detects chemical across a surface at _(default  self, targeting object.
+**DissolveMark**
+Detects chemical across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3439,8 +3439,8 @@ Detects chemical across a surface at _(default  self, targeting object.
 
 ---
 
-**FluxShiftSpread**
-Alters chemical in a cone pattern at touch, targeting _(default  where written.
+**FlowShadow**
+Alters chemical in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3457,8 +3457,8 @@ Alters chemical in a cone pattern at touch, targeting _(default  where written.
 
 ---
 
-**FluxPushSpread**
-Displaces chemical in a cone pattern at short (10 ft), targeting object.
+**RisMirror**
+Displaces chemical in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3468,15 +3468,15 @@ Displaces chemical in a cone pattern at short (10 ft), targeting object.
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 57 W |
 
 ---
 
-**ThrustScreenPoint**
-Filters out force in a point pattern at _(default  self, targeting surface.
+**PiercCore**
+Filters force in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3493,8 +3493,8 @@ Filters out force in a point pattern at _(default  self, targeting surface.
 
 ---
 
-**ThrustScreen_(default  Plane**
-Filters out force in a _(default  plane pattern at touch, targeting surface, persisting timed (long).
+**LoudKnot**
+Filters force in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3505,14 +3505,14 @@ Filters out force in a _(default  plane pattern at touch, targeting surface, per
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 38 W |
 
 ---
 
-**RadianceGuardPoint**
-Shields against light in a point pattern at short (10 ft), targeting _(default  where written, persisting timed (long).
+**FreezShroud**
+Shields against light in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3522,15 +3522,15 @@ Shields against light in a point pattern at short (10 ft), targeting _(default  
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 54 W |
 
 ---
 
-**CorePush_(default  Plane**
-Displaces raw in a _(default  plane pattern at touch, targeting object.
+**DissolvShell**
+Displaces raw in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3547,8 +3547,8 @@ Displaces raw in a _(default  plane pattern at touch, targeting object.
 
 ---
 
-**RadianceLockPoint**
-Constrains light in a point pattern at short (10 ft), targeting object, persisting timed (long).
+**FallBridge**
+Constrains light in a point at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3558,15 +3558,15 @@ Constrains light in a point pattern at short (10 ft), targeting object, persisti
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 56 W |
 
 ---
 
-**ThrustReadPoint**
-Detects force in a point pattern at touch, targeting surface, requiring sustained concentration.
+**SurgeScar**
+Detects force in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3583,8 +3583,8 @@ Detects force in a point pattern at touch, targeting surface, requiring sustaine
 
 ---
 
-**FluxPushSpread**
-Displaces chemical in a cone pattern at _(default  self, targeting _(default  where written, persisting timed (short).
+**AnchoredVoid**
+Displaces chemical in a cone at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3595,14 +3595,14 @@ Displaces chemical in a cone pattern at _(default  self, targeting _(default  wh
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 30 W |
 
 ---
 
-**RadianceWave_(default  Plane**
-Releases light in a _(default  plane pattern at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**FreezChain**
+Releases light in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3612,15 +3612,15 @@ Releases light in a _(default  plane pattern at short (10 ft), targeting _(defau
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 24 W |
 
 ---
 
-**FluxShiftField**
-Alters chemical across a surface at touch, targeting surface, persisting timed (long).
+**SweepMirror**
+Alters chemical across surfaces at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3631,14 +3631,14 @@ Alters chemical across a surface at touch, targeting surface, persisting timed (
 | Output | Reactive |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 72 W |
 
 ---
 
-**FluxReadSpread**
-Detects chemical in a cone pattern at touch, targeting object, persisting timed (long).
+**SurgeLight**
+Detects chemical in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3649,14 +3649,14 @@ Detects chemical in a cone pattern at touch, targeting object, persisting timed 
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 79 W |
 
 ---
 
-**RadianceGuardPoint**
-Shields against light in a point pattern at _(default  self, targeting object, persisting timed (short).
+**HardyBond**
+Shields against light in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3667,14 +3667,14 @@ Shields against light in a point pattern at _(default  self, targeting object, p
 | Output | Photonic |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 16 W |
 
 ---
 
-**FlameScreenField**
-Filters out heat across a surface at _(default  self, targeting object, requiring sustained concentration.
+**RisPulse**
+Filters heat across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3691,8 +3691,8 @@ Filters out heat across a surface at _(default  self, targeting object, requirin
 
 ---
 
-**CorePush_(default  Plane**
-Displaces raw in a _(default  plane pattern at _(default  self, targeting object, persisting timed (long).
+**ShallowKnot**
+Displaces raw in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3703,14 +3703,14 @@ Displaces raw in a _(default  plane pattern at _(default  self, targeting object
 | Output | Raw |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
-**ThrustScreen_(default  Plane**
-Filters out force in a _(default  plane pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**GuardBlessing**
+Filters force in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3727,8 +3727,8 @@ Filters out force in a _(default  plane pattern at touch, targeting _(default  w
 
 ---
 
-**RadiancePush_(default  Plane**
-Displaces light in a _(default  plane pattern at touch, targeting object.
+**RiseShadow**
+Displaces light in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3745,8 +3745,8 @@ Displaces light in a _(default  plane pattern at touch, targeting object.
 
 ---
 
-**FluxLockField**
-Constrains chemical across a surface at short (10 ft), targeting object, requiring sustained concentration.
+**WhirlingTouch**
+Constrains chemical across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3756,15 +3756,15 @@ Constrains chemical across a surface at short (10 ft), targeting object, requiri
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
-**FlameWaveField**
-Releases heat across a surface at _(default  self, targeting object.
+**FallKnot**
+Releases heat across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3781,8 +3781,8 @@ Releases heat across a surface at _(default  self, targeting object.
 
 ---
 
-**FluxLockSpread**
-Constrains chemical in a cone pattern at short (10 ft), targeting _(default  where written, persisting timed (long).
+**QuietTouch**
+Constrains chemical in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3792,15 +3792,15 @@ Constrains chemical in a cone pattern at short (10 ft), targeting _(default  whe
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 80 W |
 
 ---
 
-**RadiancePushField**
-Displaces light across a surface at touch, targeting surface.
+**SolidRing**
+Displaces light across surfaces at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3817,8 +3817,8 @@ Displaces light across a surface at touch, targeting surface.
 
 ---
 
-**ChainGuardField**
-Shields against binding across a surface at _(default  self, targeting object, persisting timed (short).
+**BindWeb**
+Shields against binding across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3829,14 +3829,14 @@ Shields against binding across a surface at _(default  self, targeting object, p
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 87 W |
 
 ---
 
-**ChainShiftPoint**
-Alters binding in a point pattern at short (10 ft), targeting object, requiring sustained concentration.
+**TransformGlyph**
+Alters binding in a point at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3846,15 +3846,15 @@ Alters binding in a point pattern at short (10 ft), targeting object, requiring 
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 97 W |
 
 ---
 
-**FlameShiftPoint**
-Alters heat in a point pattern at short (10 ft), targeting surface, persisting timed (short).
+**SurgeSight**
+Alters heat in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3864,15 +3864,15 @@ Alters heat in a point pattern at short (10 ft), targeting surface, persisting t
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 31 W |
 
 ---
 
-**BoltScreenSpread**
-Filters out electric in a cone pattern at touch, targeting object, requiring sustained concentration.
+**BindThread**
+Filters electric in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3889,8 +3889,8 @@ Filters out electric in a cone pattern at touch, targeting object, requiring sus
 
 ---
 
-**ThrustShiftField**
-Alters force across a surface at touch, targeting object, persisting timed (long).
+**SolidVeil**
+Alters force across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3901,14 +3901,14 @@ Alters force across a surface at touch, targeting object, persisting timed (long
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
-**FluxGuard_(default  Plane**
-Shields against chemical in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**GuardMirror**
+Shields against chemical in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3919,14 +3919,14 @@ Shields against chemical in a _(default  plane pattern at touch, targeting objec
 | Output | Reactive |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 24 W |
 
 ---
 
-**ChainGuardField**
-Shields against binding across a surface at short (10 ft), targeting object, persisting timed (short).
+**BurCage**
+Shields against binding across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3936,15 +3936,15 @@ Shields against binding across a surface at short (10 ft), targeting object, per
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 92 W |
 
 ---
 
-**BoltReadPoint**
-Detects electric in a point pattern at _(default  self, targeting surface, requiring sustained concentration.
+**FierceHalo**
+Detects electric in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3961,8 +3961,8 @@ Detects electric in a point pattern at _(default  self, targeting surface, requi
 
 ---
 
-**FluxGuard_(default  Plane**
-Shields against chemical in a _(default  plane pattern at _(default  self, targeting _(default  where written.
+**KindleRoad**
+Shields against chemical in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -3979,8 +3979,8 @@ Shields against chemical in a _(default  plane pattern at _(default  self, targe
 
 ---
 
-**RadianceWaveField**
-Releases light across a surface at touch, targeting _(default  where written, requiring sustained concentration.
+**KindleDream**
+Releases light across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -3997,8 +3997,8 @@ Releases light across a surface at touch, targeting _(default  where written, re
 
 ---
 
-**FlameGuardField**
-Shields against heat across a surface at _(default  self, targeting _(default  where written, requiring sustained concentration.
+**CaptureLight**
+Shields against heat across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4015,8 +4015,8 @@ Shields against heat across a surface at _(default  self, targeting _(default  w
 
 ---
 
-**FluxWave_(default  Plane**
-Releases chemical in a _(default  plane pattern at _(default  self, targeting surface, requiring sustained concentration.
+**BreakMark**
+Releases chemical in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4033,8 +4033,8 @@ Releases chemical in a _(default  plane pattern at _(default  self, targeting su
 
 ---
 
-**BoltShiftField**
-Alters electric across a surface at _(default  self, targeting surface, persisting timed (long).
+**RiseDream**
+Alters electric across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4045,14 +4045,14 @@ Alters electric across a surface at _(default  self, targeting surface, persisti
 | Output | Shock |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 45 W |
 
 ---
 
-**ChainShiftField**
-Alters binding across a surface at _(default  self, targeting surface, persisting timed (short).
+**PureCore**
+Alters binding across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4063,14 +4063,14 @@ Alters binding across a surface at _(default  self, targeting surface, persistin
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 40 W |
 
 ---
 
-**CoreRead_(default  Plane**
-Detects raw in a _(default  plane pattern at _(default  self, targeting surface, requiring sustained concentration.
+**SwiftBreath**
+Detects raw in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4087,8 +4087,8 @@ Detects raw in a _(default  plane pattern at _(default  self, targeting surface,
 
 ---
 
-**BoltLockSpread**
-Constrains electric in a cone pattern at touch, targeting _(default  where written, persisting timed (short).
+**BreakHand**
+Constrains electric in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4099,14 +4099,14 @@ Constrains electric in a cone pattern at touch, targeting _(default  where writt
 | Output | Shock |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 57 W |
 
 ---
 
-**CorePushPoint**
-Displaces raw in a point pattern at touch, targeting _(default  where written, persisting timed (short).
+**VastBoon**
+Displaces raw in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4117,14 +4117,14 @@ Displaces raw in a point pattern at touch, targeting _(default  where written, p
 | Output | Raw |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 10 W |
 
 ---
 
-**BoltPushField**
-Displaces electric across a surface at touch, targeting _(default  where written, persisting timed (long).
+**ShatterVoid**
+Displaces electric across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4135,14 +4135,14 @@ Displaces electric across a surface at touch, targeting _(default  where written
 | Output | Shock |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 42 W |
 
 ---
 
-**RadianceWaveSpread**
-Releases light in a cone pattern at short (10 ft), targeting object, requiring sustained concentration.
+**BindBreath**
+Releases light in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4152,15 +4152,15 @@ Releases light in a cone pattern at short (10 ft), targeting object, requiring s
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 36 W |
 
 ---
 
-**FluxLock_(default  Plane**
-Constrains chemical in a _(default  plane pattern at _(default  self, targeting surface, persisting timed (long).
+**BindStorm**
+Constrains chemical in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4171,14 +4171,14 @@ Constrains chemical in a _(default  plane pattern at _(default  self, targeting 
 | Output | Reactive |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 70 W |
 
 ---
 
-**BoltReadPoint**
-Detects electric in a point pattern at _(default  self, targeting object.
+**DriftRune**
+Detects electric in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4195,8 +4195,8 @@ Detects electric in a point pattern at _(default  self, targeting object.
 
 ---
 
-**CoreWave_(default  Plane**
-Releases raw in a _(default  plane pattern at _(default  self, targeting object, persisting timed (short).
+**BreakShadow**
+Releases raw in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4207,14 +4207,14 @@ Releases raw in a _(default  plane pattern at _(default  self, targeting object,
 | Output | Raw |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
-**ThrustPush_(default  Plane**
-Displaces force in a _(default  plane pattern at touch, targeting surface, persisting timed (long).
+**FreezePulse**
+Displaces force in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4225,14 +4225,14 @@ Displaces force in a _(default  plane pattern at touch, targeting surface, persi
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 48 W |
 
 ---
 
-**RadianceShiftPoint**
-Alters light in a point pattern at touch, targeting object, requiring sustained concentration.
+**FlowRoad**
+Alters light in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4249,8 +4249,8 @@ Alters light in a point pattern at touch, targeting object, requiring sustained 
 
 ---
 
-**ThrustWave_(default  Plane**
-Releases force in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**SweepSight**
+Releases force in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4261,14 +4261,14 @@ Releases force in a _(default  plane pattern at touch, targeting object, persist
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
-**BoltPushPoint**
-Displaces electric in a point pattern at touch, targeting _(default  where written.
+**ShatterFrost**
+Displaces electric in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4285,8 +4285,8 @@ Displaces electric in a point pattern at touch, targeting _(default  where writt
 
 ---
 
-**ChainShift_(default  Plane**
-Alters binding in a _(default  plane pattern at short (10 ft), targeting _(default  where written.
+**BindHand**
+Alters binding in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4296,15 +4296,15 @@ Alters binding in a _(default  plane pattern at short (10 ft), targeting _(defau
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 85 W |
 
 ---
 
-**CoreGuard_(default  Plane**
-Shields against raw in a _(default  plane pattern at short (10 ft), targeting _(default  where written.
+**DriftingBond**
+Shields against raw in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4314,15 +4314,15 @@ Shields against raw in a _(default  plane pattern at short (10 ft), targeting _(
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 13 W |
 
 ---
 
-**ChainScreen_(default  Plane**
-Filters out binding in a _(default  plane pattern at _(default  self, targeting _(default  where written, persisting timed (short).
+**StraightBond**
+Filters binding in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4333,14 +4333,14 @@ Filters out binding in a _(default  plane pattern at _(default  self, targeting 
 | Output | Constraint |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 85 W |
 
 ---
 
-**ChainReadPoint**
-Detects binding in a point pattern at _(default  self, targeting object, requiring sustained concentration.
+**BurnDream**
+Detects binding in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4357,8 +4357,8 @@ Detects binding in a point pattern at _(default  self, targeting object, requiri
 
 ---
 
-**ChainGuardField**
-Shields against binding across a surface at _(default  self, targeting object, requiring sustained concentration.
+**CurvedRing**
+Shields against binding across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4375,8 +4375,8 @@ Shields against binding across a surface at _(default  self, targeting object, r
 
 ---
 
-**ThrustPush_(default  Plane**
-Displaces force in a _(default  plane pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**ReleaseSight**
+Displaces force in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4393,8 +4393,8 @@ Displaces force in a _(default  plane pattern at touch, targeting _(default  whe
 
 ---
 
-**FluxLockField**
-Constrains chemical across a surface at _(default  self, targeting surface, requiring sustained concentration.
+**HeavyVeil**
+Constrains chemical across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4411,8 +4411,8 @@ Constrains chemical across a surface at _(default  self, targeting surface, requ
 
 ---
 
-**ThrustShiftPoint**
-Alters force in a point pattern at touch, targeting surface, persisting timed (short).
+**TwinThread**
+Alters force in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4423,14 +4423,14 @@ Alters force in a point pattern at touch, targeting surface, persisting timed (s
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
-**FlameLockField**
-Constrains heat across a surface at _(default  self, targeting surface.
+**CalmStorm**
+Constrains heat across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4447,8 +4447,8 @@ Constrains heat across a surface at _(default  self, targeting surface.
 
 ---
 
-**FluxPushSpread**
-Displaces chemical in a cone pattern at _(default  self, targeting object, persisting timed (long).
+**WildFrost**
+Displaces chemical in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4459,14 +4459,14 @@ Displaces chemical in a cone pattern at _(default  self, targeting object, persi
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 77 W |
 
 ---
 
-**BoltGuardPoint**
-Shields against electric in a point pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**TransformBrand**
+Shields against electric in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4483,8 +4483,8 @@ Shields against electric in a point pattern at touch, targeting _(default  where
 
 ---
 
-**FluxRead_(default  Plane**
-Detects chemical in a _(default  plane pattern at short (10 ft), targeting _(default  where written.
+**DullPulse**
+Detects chemical in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4494,15 +4494,15 @@ Detects chemical in a _(default  plane pattern at short (10 ft), targeting _(def
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 45 W |
 
 ---
 
-**CoreScreenPoint**
-Filters out raw in a point pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**PiercHand**
+Filters raw in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4513,14 +4513,14 @@ Filters out raw in a point pattern at _(default  self, targeting _(default  wher
 | Output | Raw |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 33 W |
 
 ---
 
-**FluxReadSpread**
-Detects chemical in a cone pattern at touch, targeting object, persisting timed (short).
+**AnchorBreath**
+Detects chemical in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4531,14 +4531,14 @@ Detects chemical in a cone pattern at touch, targeting object, persisting timed 
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 34 W |
 
 ---
 
-**ChainScreenSpread**
-Filters out binding in a cone pattern at _(default  self, targeting _(default  where written.
+**CapturPath**
+Filters binding in a cone at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4555,8 +4555,8 @@ Filters out binding in a cone pattern at _(default  self, targeting _(default  w
 
 ---
 
-**FluxScreenPoint**
-Filters out chemical in a point pattern at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**VastWeb**
+Filters chemical in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4566,15 +4566,15 @@ Filters out chemical in a point pattern at short (10 ft), targeting _(default  w
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 55 W |
 
 ---
 
-**ThrustWave_(default  Plane**
-Releases force in a _(default  plane pattern at _(default  self, targeting object, requiring sustained concentration.
+**BrightRing**
+Releases force in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4591,8 +4591,8 @@ Releases force in a _(default  plane pattern at _(default  self, targeting objec
 
 ---
 
-**ChainWaveSpread**
-Releases binding in a cone pattern at touch, targeting object.
+**LightNet**
+Releases binding in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4609,8 +4609,8 @@ Releases binding in a cone pattern at touch, targeting object.
 
 ---
 
-**CoreGuard_(default  Plane**
-Shields against raw in a _(default  plane pattern at touch, targeting surface, persisting timed (short).
+**FreezeFlame**
+Shields against raw in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4621,14 +4621,14 @@ Shields against raw in a _(default  plane pattern at touch, targeting surface, p
 | Output | Raw |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 15 W |
 
 ---
 
-**RadianceGuardPoint**
-Shields against light in a point pattern at touch, targeting _(default  where written, persisting timed (long).
+**TwistWay**
+Shields against light in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4639,14 +4639,14 @@ Shields against light in a point pattern at touch, targeting _(default  where wr
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 51 W |
 
 ---
 
-**CoreWaveField**
-Releases raw across a surface at _(default  self, targeting object.
+**TameThread**
+Releases raw across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4663,8 +4663,8 @@ Releases raw across a surface at _(default  self, targeting object.
 
 ---
 
-**FluxWaveField**
-Releases chemical across a surface at short (10 ft), targeting surface, persisting timed (long).
+**FallCore**
+Releases chemical across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4674,15 +4674,15 @@ Releases chemical across a surface at short (10 ft), targeting surface, persisti
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
-**CoreLockField**
-Constrains raw across a surface at touch, targeting surface, persisting timed (long).
+**VastBond**
+Constrains raw across surfaces at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4693,14 +4693,14 @@ Constrains raw across a surface at touch, targeting surface, persisting timed (l
 | Output | Raw |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
-**FlamePushSpread**
-Displaces heat in a cone pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**HeavySeal**
+Displaces heat in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4710,15 +4710,15 @@ Displaces heat in a cone pattern at short (10 ft), targeting _(default  where wr
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 26 W |
 
 ---
 
-**FluxPushSpread**
-Displaces chemical in a cone pattern at short (10 ft), targeting object, persisting timed (long).
+**RiseTide**
+Displaces chemical in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4728,15 +4728,15 @@ Displaces chemical in a cone pattern at short (10 ft), targeting object, persist
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 57 W |
 
 ---
 
-**RadianceReadPoint**
-Detects light in a point pattern at touch, targeting _(default  where written, persisting timed (long).
+**TwistBreath**
+Detects light in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4747,14 +4747,14 @@ Detects light in a point pattern at touch, targeting _(default  where written, p
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 51 W |
 
 ---
 
-**RadianceWaveSpread**
-Releases light in a cone pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**RisEcho**
+Releases light in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4771,8 +4771,8 @@ Releases light in a cone pattern at touch, targeting _(default  where written, r
 
 ---
 
-**ChainGuard_(default  Plane**
-Shields against binding in a _(default  plane pattern at touch, targeting _(default  where written.
+**NakedEcho**
+Shields against binding in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4789,8 +4789,8 @@ Shields against binding in a _(default  plane pattern at touch, targeting _(defa
 
 ---
 
-**CoreGuardPoint**
-Shields against raw in a point pattern at touch, targeting object.
+**BurBreath**
+Shields against raw in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4807,8 +4807,8 @@ Shields against raw in a point pattern at touch, targeting object.
 
 ---
 
-**ChainWavePoint**
-Releases binding in a point pattern at touch, targeting _(default  where written, persisting timed (short).
+**ReleaseStrike**
+Releases binding in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4819,14 +4819,14 @@ Releases binding in a point pattern at touch, targeting _(default  where written
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 87 W |
 
 ---
 
-**CoreScreenField**
-Filters out raw across a surface at _(default  self, targeting surface, persisting timed (short).
+**PalePulse**
+Filters raw across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4837,14 +4837,14 @@ Filters out raw across a surface at _(default  self, targeting surface, persisti
 | Output | Raw |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 13 W |
 
 ---
 
-**FlameWave_(default  Plane**
-Releases heat in a _(default  plane pattern at _(default  self, targeting object.
+**ReleasRing**
+Releases heat in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4861,8 +4861,8 @@ Releases heat in a _(default  plane pattern at _(default  self, targeting object
 
 ---
 
-**CoreWavePoint**
-Releases raw in a point pattern at short (10 ft), targeting surface, persisting timed (short).
+**ReleaseSong**
+Releases raw in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4872,15 +4872,15 @@ Releases raw in a point pattern at short (10 ft), targeting surface, persisting 
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
-**ChainScreenSpread**
-Filters out binding in a cone pattern at touch, targeting object, requiring sustained concentration.
+**PiercRing**
+Filters binding in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4897,8 +4897,8 @@ Filters out binding in a cone pattern at touch, targeting object, requiring sust
 
 ---
 
-**BoltLockPoint**
-Constrains electric in a point pattern at _(default  self, targeting object, requiring sustained concentration.
+**WarmNet**
+Constrains electric in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4915,8 +4915,8 @@ Constrains electric in a point pattern at _(default  self, targeting object, req
 
 ---
 
-**BoltScreenPoint**
-Filters out electric in a point pattern at touch, targeting object.
+**SweepSoul**
+Filters electric in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4933,8 +4933,8 @@ Filters out electric in a point pattern at touch, targeting object.
 
 ---
 
-**FlameGuard_(default  Plane**
-Shields against heat in a _(default  plane pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**QuietAura**
+Shields against heat in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4944,15 +4944,15 @@ Shields against heat in a _(default  plane pattern at short (10 ft), targeting _
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 26 W |
 
 ---
 
-**RadianceLock_(default  Plane**
-Constrains light in a _(default  plane pattern at short (10 ft), targeting object, persisting timed (short).
+**HiddenCharm**
+Constrains light in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4962,15 +4962,15 @@ Constrains light in a _(default  plane pattern at short (10 ft), targeting objec
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 21 W |
 
 ---
 
-**RadianceScreenSpread**
-Filters out light in a cone pattern at touch, targeting surface, persisting timed (long).
+**ColdShell**
+Filters light in a cone at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -4981,14 +4981,14 @@ Filters out light in a cone pattern at touch, targeting surface, persisting time
 | Output | Photonic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 66 W |
 
 ---
 
-**CoreShiftField**
-Alters raw across a surface at _(default  self, targeting object, persisting timed (short).
+**TaintedAura**
+Alters raw across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -4999,14 +4999,14 @@ Alters raw across a surface at _(default  self, targeting object, persisting tim
 | Output | Raw |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 10 W |
 
 ---
 
-**RadianceReadField**
-Detects light across a surface at short (10 ft), targeting _(default  where written, persisting timed (long).
+**CurvedCrown**
+Detects light across surfaces at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5016,15 +5016,15 @@ Detects light across a surface at short (10 ft), targeting _(default  where writ
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 54 W |
 
 ---
 
-**BoltWavePoint**
-Releases electric in a point pattern at touch, targeting _(default  where written, persisting timed (short).
+**MurkyMark**
+Releases electric in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5035,14 +5035,14 @@ Releases electric in a point pattern at touch, targeting _(default  where writte
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 22 W |
 
 ---
 
-**RadianceShift_(default  Plane**
-Alters light in a _(default  plane pattern at touch, targeting _(default  where written, persisting timed (short).
+**PureSpirit**
+Alters light in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5053,14 +5053,14 @@ Alters light in a _(default  plane pattern at touch, targeting _(default  where 
 | Output | Photonic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 31 W |
 
 ---
 
-**BoltGuardSpread**
-Shields against electric in a cone pattern at touch, targeting object, persisting timed (long).
+**KindleWay**
+Shields against electric in a cone at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5071,14 +5071,14 @@ Shields against electric in a cone pattern at touch, targeting object, persistin
 | Output | Shock |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 79 W |
 
 ---
 
-**ChainGuardPoint**
-Shields against binding in a point pattern at _(default  self, targeting _(default  where written.
+**FallRing**
+Shields against binding in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5095,8 +5095,8 @@ Shields against binding in a point pattern at _(default  self, targeting _(defau
 
 ---
 
-**FlameWavePoint**
-Releases heat in a point pattern at _(default  self, targeting _(default  where written, requiring sustained concentration.
+**ReleaseLight**
+Releases heat in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5113,8 +5113,8 @@ Releases heat in a point pattern at _(default  self, targeting _(default  where 
 
 ---
 
-**FlameReadPoint**
-Detects heat in a point pattern at _(default  self, targeting surface, requiring sustained concentration.
+**FragileShroud**
+Detects heat in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5131,8 +5131,8 @@ Detects heat in a point pattern at _(default  self, targeting surface, requiring
 
 ---
 
-**FluxLockSpread**
-Constrains chemical in a cone pattern at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**DriftVeil**
+Constrains chemical in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5142,15 +5142,15 @@ Constrains chemical in a cone pattern at short (10 ft), targeting _(default  whe
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 40 W |
 
 ---
 
-**CoreWavePoint**
-Releases raw in a point pattern at _(default  self, targeting object.
+**SharpFlame**
+Releases raw in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5167,8 +5167,8 @@ Releases raw in a point pattern at _(default  self, targeting object.
 
 ---
 
-**ChainScreenPoint**
-Filters out binding in a point pattern at touch, targeting object, requiring sustained concentration.
+**TransformBoon**
+Filters binding in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5185,8 +5185,8 @@ Filters out binding in a point pattern at touch, targeting object, requiring sus
 
 ---
 
-**FlameLockPoint**
-Constrains heat in a point pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**TwistChain**
+Constrains heat in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5196,15 +5196,15 @@ Constrains heat in a point pattern at short (10 ft), targeting _(default  where 
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 26 W |
 
 ---
 
-**ThrustScreenSpread**
-Filters out force in a cone pattern at _(default  self, targeting object, persisting timed (long).
+**PiercRoot**
+Filters force in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5215,14 +5215,14 @@ Filters out force in a cone pattern at _(default  self, targeting object, persis
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 53 W |
 
 ---
 
-**RadianceScreenSpread**
-Filters out light in a cone pattern at touch, targeting _(default  where written, persisting timed (long).
+**DriftingTouch**
+Filters light in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5233,14 +5233,14 @@ Filters out light in a cone pattern at touch, targeting _(default  where written
 | Output | Photonic |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 61 W |
 
 ---
 
-**CoreReadField**
-Detects raw across a surface at _(default  self, targeting _(default  where written, persisting timed (long).
+**StraightPath**
+Detects raw across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5251,14 +5251,14 @@ Detects raw across a surface at _(default  self, targeting _(default  where writ
 | Output | Raw |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 28 W |
 
 ---
 
-**FluxShiftSpread**
-Alters chemical in a cone pattern at touch, targeting surface, persisting timed (long).
+**FallCharm**
+Alters chemical in a cone at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5269,14 +5269,14 @@ Alters chemical in a cone pattern at touch, targeting surface, persisting timed 
 | Output | Reactive |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 82 W |
 
 ---
 
-**ThrustWavePoint**
-Releases force in a point pattern at _(default  self, targeting surface, persisting timed (long).
+**StillCurse**
+Releases force in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5287,14 +5287,14 @@ Releases force in a point pattern at _(default  self, targeting surface, persist
 | Output | Kinetic |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 46 W |
 
 ---
 
-**FlameLockField**
-Constrains heat across a surface at touch, targeting _(default  where written, persisting timed (long).
+**KindleTide**
+Constrains heat across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5305,14 +5305,14 @@ Constrains heat across a surface at touch, targeting _(default  where written, p
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 43 W |
 
 ---
 
-**FluxWaveField**
-Releases chemical across a surface at short (10 ft), targeting surface, persisting timed (long).
+**ShatterMirror**
+Releases chemical across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5322,15 +5322,15 @@ Releases chemical across a surface at short (10 ft), targeting surface, persisti
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
-**CoreShift_(default  Plane**
-Alters raw in a _(default  plane pattern at short (10 ft), targeting object, requiring sustained concentration.
+**RisCalm**
+Alters raw in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5340,15 +5340,15 @@ Alters raw in a _(default  plane pattern at short (10 ft), targeting object, req
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
-**ChainLock_(default  Plane**
-Constrains binding in a _(default  plane pattern at touch, targeting surface, persisting timed (long).
+**BurnFrost**
+Constrains binding in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5359,14 +5359,14 @@ Constrains binding in a _(default  plane pattern at touch, targeting surface, pe
 | Output | Constraint |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 112 W |
 
 ---
 
-**ThrustScreen_(default  Plane**
-Filters out force in a _(default  plane pattern at short (10 ft), targeting _(default  where written.
+**SweepWeb**
+Filters force in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5376,15 +5376,15 @@ Filters out force in a _(default  plane pattern at short (10 ft), targeting _(de
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 21 W |
 
 ---
 
-**FlameLock_(default  Plane**
-Constrains heat in a _(default  plane pattern at touch, targeting _(default  where written.
+**FrozenMark**
+Constrains heat in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5401,8 +5401,8 @@ Constrains heat in a _(default  plane pattern at touch, targeting _(default  whe
 
 ---
 
-**RadianceShiftSpread**
-Alters light in a cone pattern at _(default  self, targeting object, persisting timed (long).
+**BurShroud**
+Alters light in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5413,14 +5413,14 @@ Alters light in a cone pattern at _(default  self, targeting object, persisting 
 | Output | Photonic |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 46 W |
 
 ---
 
-**ChainGuardPoint**
-Shields against binding in a point pattern at short (10 ft), targeting surface.
+**ShallowCage**
+Shields against binding in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5430,15 +5430,15 @@ Shields against binding in a point pattern at short (10 ft), targeting surface.
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 90 W |
 
 ---
 
-**CoreLockField**
-Constrains raw across a surface at touch, targeting _(default  where written, persisting timed (short).
+**TransformRune**
+Constrains raw across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5449,14 +5449,14 @@ Constrains raw across a surface at touch, targeting _(default  where written, pe
 | Output | Raw |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 15 W |
 
 ---
 
-**FluxLockPoint**
-Constrains chemical in a point pattern at _(default  self, targeting _(default  where written, requiring sustained concentration.
+**WarmCore**
+Constrains chemical in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5473,8 +5473,8 @@ Constrains chemical in a point pattern at _(default  self, targeting _(default  
 
 ---
 
-**BoltGuardField**
-Shields against electric across a surface at short (10 ft), targeting object.
+**TransformSong**
+Shields against electric across surfaces at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5484,15 +5484,15 @@ Shields against electric across a surface at short (10 ft), targeting object.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
-**ChainShiftField**
-Alters binding across a surface at short (10 ft), targeting surface, persisting timed (long).
+**FiercePath**
+Alters binding across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5502,15 +5502,15 @@ Alters binding across a surface at short (10 ft), targeting surface, persisting 
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 65 W |
 
 ---
 
-**BoltWavePoint**
-Releases electric in a point pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**DarkCore**
+Releases electric in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5521,14 +5521,14 @@ Releases electric in a point pattern at _(default  self, targeting _(default  wh
 | Output | Shock |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 65 W |
 
 ---
 
-**ChainWaveField**
-Releases binding across a surface at touch, targeting _(default  where written, requiring sustained concentration.
+**FragileNet**
+Releases binding across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5545,8 +5545,8 @@ Releases binding across a surface at touch, targeting _(default  where written, 
 
 ---
 
-**RadianceShift_(default  Plane**
-Alters light in a _(default  plane pattern at _(default  self, targeting object.
+**CaptureFlame**
+Alters light in a _(default  plane at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5563,8 +5563,8 @@ Alters light in a _(default  plane pattern at _(default  self, targeting object.
 
 ---
 
-**FluxLock_(default  Plane**
-Constrains chemical in a _(default  plane pattern at _(default  self, targeting surface.
+**CalmFlame**
+Constrains chemical in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5581,8 +5581,8 @@ Constrains chemical in a _(default  plane pattern at _(default  self, targeting 
 
 ---
 
-**CoreShift_(default  Plane**
-Alters raw in a _(default  plane pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**AnchorBrand**
+Alters raw in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5592,15 +5592,15 @@ Alters raw in a _(default  plane pattern at short (10 ft), targeting _(default  
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 13 W |
 
 ---
 
-**CoreLock_(default  Plane**
-Constrains raw in a _(default  plane pattern at short (10 ft), targeting surface, persisting timed (short).
+**WeavVoid**
+Constrains raw in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5610,15 +5610,15 @@ Constrains raw in a _(default  plane pattern at short (10 ft), targeting surface
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
-**ChainScreenPoint**
-Filters out binding in a point pattern at touch, targeting surface, persisting timed (long).
+**CalmLock**
+Filters binding in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5629,14 +5629,14 @@ Filters out binding in a point pattern at touch, targeting surface, persisting t
 | Output | Constraint |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 112 W |
 
 ---
 
-**CoreGuardPoint**
-Shields against raw in a point pattern at _(default  self, targeting surface, persisting timed (short).
+**KindlPath**
+Shields against raw in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5647,14 +5647,14 @@ Shields against raw in a point pattern at _(default  self, targeting surface, pe
 | Output | Raw |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 13 W |
 
 ---
 
-**ThrustShiftSpread**
-Alters force in a cone pattern at _(default  self, targeting surface, persisting timed (short).
+**TwinSigil**
+Alters force in a cone at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5665,14 +5665,14 @@ Alters force in a cone pattern at _(default  self, targeting surface, persisting
 | Output | Kinetic |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 36 W |
 
 ---
 
-**ThrustScreen_(default  Plane**
-Filters out force in a _(default  plane pattern at touch, targeting _(default  where written.
+**BindKnot**
+Filters force in a _(default  plane at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5689,8 +5689,8 @@ Filters out force in a _(default  plane pattern at touch, targeting _(default  w
 
 ---
 
-**FluxRead_(default  Plane**
-Detects chemical in a _(default  plane pattern at touch, targeting surface.
+**DullFrost**
+Detects chemical in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5707,8 +5707,8 @@ Detects chemical in a _(default  plane pattern at touch, targeting surface.
 
 ---
 
-**RadianceGuardSpread**
-Shields against light in a cone pattern at _(default  self, targeting object, requiring sustained concentration.
+**StillGlyph**
+Shields against light in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5725,8 +5725,8 @@ Shields against light in a cone pattern at _(default  self, targeting object, re
 
 ---
 
-**CoreRead_(default  Plane**
-Detects raw in a _(default  plane pattern at short (10 ft), targeting surface, requiring sustained concentration.
+**BurThread**
+Detects raw in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5736,15 +5736,15 @@ Detects raw in a _(default  plane pattern at short (10 ft), targeting surface, r
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 28 W |
 
 ---
 
-**BoltScreenField**
-Filters out electric across a surface at short (10 ft), targeting surface, persisting timed (short).
+**FrozenMirror**
+Filters electric across surfaces at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5754,15 +5754,15 @@ Filters out electric across a surface at short (10 ft), targeting surface, persi
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 55 W |
 
 ---
 
-**FlameReadPoint**
-Detects heat in a point pattern at touch, targeting object, requiring sustained concentration.
+**DriftBrand**
+Detects heat in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5779,8 +5779,8 @@ Detects heat in a point pattern at touch, targeting object, requiring sustained 
 
 ---
 
-**BoltLock_(default  Plane**
-Constrains electric in a _(default  plane pattern at _(default  self, targeting surface, requiring sustained concentration.
+**BurRune**
+Constrains electric in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5797,8 +5797,8 @@ Constrains electric in a _(default  plane pattern at _(default  self, targeting 
 
 ---
 
-**BoltShiftPoint**
-Alters electric in a point pattern at _(default  self, targeting surface.
+**TransformMark**
+Alters electric in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5815,8 +5815,8 @@ Alters electric in a point pattern at _(default  self, targeting surface.
 
 ---
 
-**CoreScreenField**
-Filters out raw across a surface at short (10 ft), targeting _(default  where written.
+**ShatterWay**
+Filters raw across surfaces at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5826,15 +5826,15 @@ Filters out raw across a surface at short (10 ft), targeting _(default  where wr
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 8 W |
 
 ---
 
-**FluxLockSpread**
-Constrains chemical in a cone pattern at short (10 ft), targeting object, requiring sustained concentration.
+**FierceWall**
+Constrains chemical in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5844,15 +5844,15 @@ Constrains chemical in a cone pattern at short (10 ft), targeting object, requir
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 42 W |
 
 ---
 
-**BoltShiftSpread**
-Alters electric in a cone pattern at short (10 ft), targeting surface.
+**QuietVoice**
+Alters electric in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -5862,15 +5862,15 @@ Alters electric in a cone pattern at short (10 ft), targeting surface.
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 35 W |
 
 ---
 
-**ChainLockPoint**
-Constrains binding in a point pattern at _(default  self, targeting surface, persisting timed (short).
+**WeaveFlame**
+Constrains binding in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5881,14 +5881,14 @@ Constrains binding in a point pattern at _(default  self, targeting surface, per
 | Output | Constraint |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 90 W |
 
 ---
 
-**FlameWaveSpread**
-Releases heat in a cone pattern at short (10 ft), targeting object, requiring sustained concentration.
+**FlowRune**
+Releases heat in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5898,15 +5898,15 @@ Releases heat in a cone pattern at short (10 ft), targeting object, requiring su
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 43 W |
 
 ---
 
-**FlameScreenPoint**
-Filters out heat in a point pattern at touch, targeting _(default  where written, persisting timed (short).
+**BurTouch**
+Filters heat in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5917,14 +5917,14 @@ Filters out heat in a point pattern at touch, targeting _(default  where written
 | Output | Thermal |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 23 W |
 
 ---
 
-**BoltWave_(default  Plane**
-Releases electric in a _(default  plane pattern at touch, targeting surface, requiring sustained concentration.
+**LoneAura**
+Releases electric in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5941,8 +5941,8 @@ Releases electric in a _(default  plane pattern at touch, targeting surface, req
 
 ---
 
-**FluxLock_(default  Plane**
-Constrains chemical in a _(default  plane pattern at short (10 ft), targeting surface.
+**PiercKnot**
+Constrains chemical in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5952,15 +5952,15 @@ Constrains chemical in a _(default  plane pattern at short (10 ft), targeting su
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
-**FlameLockField**
-Constrains heat across a surface at _(default  self, targeting object.
+**ClearShroud**
+Constrains heat across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5977,8 +5977,8 @@ Constrains heat across a surface at _(default  self, targeting object.
 
 ---
 
-**ChainScreenPoint**
-Filters out binding in a point pattern at short (10 ft), targeting _(default  where written.
+**CapturEcho**
+Filters binding in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -5988,15 +5988,15 @@ Filters out binding in a point pattern at short (10 ft), targeting _(default  wh
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 85 W |
 
 ---
 
-**FluxPush_(default  Plane**
-Displaces chemical in a _(default  plane pattern at short (10 ft), targeting object.
+**TransformGate**
+Displaces chemical in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6006,15 +6006,15 @@ Displaces chemical in a _(default  plane pattern at short (10 ft), targeting obj
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
-**CoreRead_(default  Plane**
-Detects raw in a _(default  plane pattern at short (10 ft), targeting _(default  where written.
+**HumbleGlyph**
+Detects raw in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6024,15 +6024,15 @@ Detects raw in a _(default  plane pattern at short (10 ft), targeting _(default 
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 13 W |
 
 ---
 
-**FluxPush_(default  Plane**
-Displaces chemical in a _(default  plane pattern at short (10 ft), targeting object, requiring sustained concentration.
+**FrozenNet**
+Displaces chemical in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6042,15 +6042,15 @@ Displaces chemical in a _(default  plane pattern at short (10 ft), targeting obj
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Object |
 | Wattage | 32 W |
 
 ---
 
-**RadianceScreenSpread**
-Filters out light in a cone pattern at short (10 ft), targeting surface, requiring sustained concentration.
+**BindVeil**
+Filters light in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6060,15 +6060,15 @@ Filters out light in a cone pattern at short (10 ft), targeting surface, requiri
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 54 W |
 
 ---
 
-**FluxWaveSpread**
-Releases chemical in a cone pattern at touch, targeting _(default  where written, requiring sustained concentration.
+**SwiftCage**
+Releases chemical in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6085,8 +6085,8 @@ Releases chemical in a cone pattern at touch, targeting _(default  where written
 
 ---
 
-**RadianceGuardSpread**
-Shields against light in a cone pattern at short (10 ft), targeting _(default  where written.
+**KindleSong**
+Shields against light in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6096,15 +6096,15 @@ Shields against light in a cone pattern at short (10 ft), targeting _(default  w
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 24 W |
 
 ---
 
-**ThrustShift_(default  Plane**
-Alters force in a _(default  plane pattern at short (10 ft), targeting object, persisting timed (short).
+**SurgeBreath**
+Alters force in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6114,15 +6114,15 @@ Alters force in a _(default  plane pattern at short (10 ft), targeting object, p
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 28 W |
 
 ---
 
-**ThrustWave_(default  Plane**
-Releases force in a _(default  plane pattern at touch, targeting object, persisting timed (long).
+**ReleaseBlessing**
+Releases force in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6133,14 +6133,14 @@ Releases force in a _(default  plane pattern at touch, targeting object, persist
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
-**FluxPushField**
-Displaces chemical across a surface at touch, targeting surface, requiring sustained concentration.
+**PureStorm**
+Displaces chemical across surfaces at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6157,8 +6157,8 @@ Displaces chemical across a surface at touch, targeting surface, requiring susta
 
 ---
 
-**FluxScreenPoint**
-Filters out chemical in a point pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**ShatterDance**
+Filters chemical in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6168,15 +6168,15 @@ Filters out chemical in a point pattern at short (10 ft), targeting _(default  w
 | Discipline | Chemical |
 | Output | Reactive |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 25 W |
 
 ---
 
-**ChainWaveField**
-Releases binding across a surface at _(default  self, targeting object, persisting timed (short).
+**SlowGate**
+Releases binding across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6187,14 +6187,14 @@ Releases binding across a surface at _(default  self, targeting object, persisti
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 87 W |
 
 ---
 
-**FlameLockSpread**
-Constrains heat in a cone pattern at short (10 ft), targeting object.
+**AnchorVeil**
+Constrains heat in a cone at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6204,15 +6204,15 @@ Constrains heat in a cone pattern at short (10 ft), targeting object.
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 23 W |
 
 ---
 
-**CoreWave_(default  Plane**
-Releases raw in a _(default  plane pattern at short (10 ft), targeting _(default  where written.
+**ShatterKey**
+Releases raw in a _(default  plane at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6222,15 +6222,15 @@ Releases raw in a _(default  plane pattern at short (10 ft), targeting _(default
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 8 W |
 
 ---
 
-**ThrustShiftField**
-Alters force across a surface at touch, targeting object.
+**LoneSilence**
+Alters force across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6247,8 +6247,8 @@ Alters force across a surface at touch, targeting object.
 
 ---
 
-**FlameScreenField**
-Filters out heat across a surface at short (10 ft), targeting _(default  where written, persisting timed (long).
+**VastRoot**
+Filters heat across surfaces at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6258,15 +6258,15 @@ Filters out heat across a surface at short (10 ft), targeting _(default  where w
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 46 W |
 
 ---
 
-**ThrustShift_(default  Plane**
-Alters force in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**KindlChain**
+Alters force in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6277,14 +6277,14 @@ Alters force in a _(default  plane pattern at touch, targeting object, persistin
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
-**ChainReadField**
-Detects binding across a surface at _(default  self, targeting object.
+**HumbleHeart**
+Detects binding across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6301,8 +6301,8 @@ Detects binding across a surface at _(default  self, targeting object.
 
 ---
 
-**FlameReadField**
-Detects heat across a surface at touch, targeting _(default  where written, persisting timed (long).
+**BrightAura**
+Detects heat across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6313,14 +6313,14 @@ Detects heat across a surface at touch, targeting _(default  where written, pers
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 33 W |
 
 ---
 
-**RadianceShiftSpread**
-Alters light in a cone pattern at _(default  self, targeting surface, persisting timed (long).
+**ChillScar**
+Alters light in a cone at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6331,14 +6331,14 @@ Alters light in a cone pattern at _(default  self, targeting surface, persisting
 | Output | Photonic |
 | Pattern | Cone |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 49 W |
 
 ---
 
-**RadianceShiftPoint**
-Alters light in a point pattern at touch, targeting object, persisting timed (short).
+**SolidBond**
+Alters light in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6349,14 +6349,14 @@ Alters light in a point pattern at touch, targeting object, persisting timed (sh
 | Output | Photonic |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 18 W |
 
 ---
 
-**ThrustShiftSpread**
-Alters force in a cone pattern at short (10 ft), targeting _(default  where written.
+**BreakBrand**
+Alters force in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6366,15 +6366,15 @@ Alters force in a cone pattern at short (10 ft), targeting _(default  where writ
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | _(default  Where Written |
 | Wattage | 21 W |
 
 ---
 
-**BoltPush_(default  Plane**
-Displaces electric in a _(default  plane pattern at touch, targeting surface, persisting timed (short).
+**FreezCharm**
+Displaces electric in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6385,14 +6385,14 @@ Displaces electric in a _(default  plane pattern at touch, targeting surface, pe
 | Output | Shock |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 52 W |
 
 ---
 
-**CoreGuard_(default  Plane**
-Shields against raw in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**BreakEcho**
+Shields against raw in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6403,14 +6403,14 @@ Shields against raw in a _(default  plane pattern at touch, targeting object, pe
 | Output | Raw |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 12 W |
 
 ---
 
-**FlameShift_(default  Plane**
-Alters heat in a _(default  plane pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**BurnShadow**
+Alters heat in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6421,14 +6421,14 @@ Alters heat in a _(default  plane pattern at _(default  self, targeting _(defaul
 | Output | Thermal |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 41 W |
 
 ---
 
-**ThrustScreen_(default  Plane**
-Filters out force in a _(default  plane pattern at _(default  self, targeting _(default  where written.
+**SurgeDance**
+Filters force in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6445,8 +6445,8 @@ Filters out force in a _(default  plane pattern at _(default  self, targeting _(
 
 ---
 
-**ThrustGuardField**
-Shields against force across a surface at _(default  self, targeting _(default  where written, requiring sustained concentration.
+**ChillWard**
+Shields against force across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6463,8 +6463,8 @@ Shields against force across a surface at _(default  self, targeting _(default  
 
 ---
 
-**CoreWavePoint**
-Releases raw in a point pattern at short (10 ft), targeting _(default  where written, requiring sustained concentration.
+**PiercFrost**
+Releases raw in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6474,15 +6474,15 @@ Releases raw in a point pattern at short (10 ft), targeting _(default  where wri
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | _(default  Where Written |
 | Wattage | 23 W |
 
 ---
 
-**FluxGuard_(default  Plane**
-Shields against chemical in a _(default  plane pattern at touch, targeting surface, persisting timed (long).
+**AncientVoice**
+Shields against chemical in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6493,14 +6493,14 @@ Shields against chemical in a _(default  plane pattern at touch, targeting surfa
 | Output | Reactive |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 47 W |
 
 ---
 
-**ChainPush_(default  Plane**
-Displaces binding in a _(default  plane pattern at short (10 ft), targeting surface, requiring sustained concentration.
+**WeaveWay**
+Displaces binding in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6510,15 +6510,15 @@ Displaces binding in a _(default  plane pattern at short (10 ft), targeting surf
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | Sustained |
 | Target | Surface |
 | Wattage | 50 W |
 
 ---
 
-**FluxGuardPoint**
-Shields against chemical in a point pattern at touch, targeting object, persisting timed (long).
+**SurSoul**
+Shields against chemical in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6529,14 +6529,14 @@ Shields against chemical in a point pattern at touch, targeting object, persisti
 | Output | Reactive |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 69 W |
 
 ---
 
-**RadiancePush_(default  Plane**
-Displaces light in a _(default  plane pattern at _(default  self, targeting _(default  where written.
+**DriftRoot**
+Displaces light in a _(default  plane at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6553,8 +6553,8 @@ Displaces light in a _(default  plane pattern at _(default  self, targeting _(de
 
 ---
 
-**ChainGuardPoint**
-Shields against binding in a point pattern at short (10 ft), targeting surface, persisting timed (short).
+**BreakBreath**
+Shields against binding in a point at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6564,15 +6564,15 @@ Shields against binding in a point pattern at short (10 ft), targeting surface, 
 | Discipline | Binding |
 | Output | Constraint |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 95 W |
 
 ---
 
-**ChainReadSpread**
-Detects binding in a cone pattern at touch, targeting surface, persisting timed (short).
+**PiercVoice**
+Detects binding in a cone at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6583,14 +6583,14 @@ Detects binding in a cone pattern at touch, targeting surface, persisting timed 
 | Output | Constraint |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 52 W |
 
 ---
 
-**ChainReadPoint**
-Detects binding in a point pattern at _(default  self, targeting object.
+**BindKey**
+Detects binding in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6607,8 +6607,8 @@ Detects binding in a point pattern at _(default  self, targeting object.
 
 ---
 
-**ThrustShiftSpread**
-Alters force in a cone pattern at short (10 ft), targeting surface.
+**BindFrost**
+Alters force in a cone at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6618,15 +6618,15 @@ Alters force in a cone pattern at short (10 ft), targeting surface.
 | Discipline | Force |
 | Output | Kinetic |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 36 W |
 
 ---
 
-**ThrustGuard_(default  Plane**
-Shields against force in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**SweepPulse**
+Shields against force in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6637,14 +6637,14 @@ Shields against force in a _(default  plane pattern at touch, targeting object, 
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
-**FlameGuard_(default  Plane**
-Shields against heat in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**FallDance**
+Shields against heat in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6655,14 +6655,14 @@ Shields against heat in a _(default  plane pattern at touch, targeting object, p
 | Output | Thermal |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 25 W |
 
 ---
 
-**RadiancePush_(default  Plane**
-Displaces light in a _(default  plane pattern at short (10 ft), targeting surface.
+**SurgeStorm**
+Displaces light in a _(default  plane at short (10 ft targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6672,15 +6672,15 @@ Displaces light in a _(default  plane pattern at short (10 ft), targeting surfac
 | Discipline | Light |
 | Output | Photonic |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Surface |
 | Wattage | 19 W |
 
 ---
 
-**FluxWaveField**
-Releases chemical across a surface at _(default  self, targeting surface, persisting timed (short).
+**AnchorVoid**
+Releases chemical across surfaces at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6691,14 +6691,14 @@ Releases chemical across a surface at _(default  self, targeting surface, persis
 | Output | Reactive |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 25 W |
 
 ---
 
-**BoltPushPoint**
-Displaces electric in a point pattern at _(default  self, targeting _(default  where written, persisting timed (long).
+**CurvedWisp**
+Displaces electric in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6709,14 +6709,14 @@ Displaces electric in a point pattern at _(default  self, targeting _(default  w
 | Output | Shock |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 40 W |
 
 ---
 
-**FlameWaveField**
-Releases heat across a surface at touch, targeting object, persisting timed (long).
+**BindFlame**
+Releases heat across surfaces at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6727,14 +6727,14 @@ Releases heat across a surface at touch, targeting object, persisting timed (lon
 | Output | Thermal |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 35 W |
 
 ---
 
-**FlamePushSpread**
-Displaces heat in a cone pattern at touch, targeting _(default  where written, persisting timed (short).
+**TameCore**
+Displaces heat in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6745,14 +6745,14 @@ Displaces heat in a cone pattern at touch, targeting _(default  where written, p
 | Output | Thermal |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 33 W |
 
 ---
 
-**ChainLockField**
-Constrains binding across a surface at touch, targeting _(default  where written, persisting timed (short).
+**FragileCalm**
+Constrains binding across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6763,14 +6763,14 @@ Constrains binding across a surface at touch, targeting _(default  where written
 | Output | Constraint |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 87 W |
 
 ---
 
-**BoltWaveField**
-Releases electric across a surface at _(default  self, targeting object, persisting timed (short).
+**PiercSpirit**
+Releases electric across surfaces at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6781,14 +6781,14 @@ Releases electric across a surface at _(default  self, targeting object, persist
 | Output | Shock |
 | Pattern | Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 22 W |
 
 ---
 
-**ChainShiftPoint**
-Alters binding in a point pattern at _(default  self, targeting object, persisting timed (short).
+**ShatterBridge**
+Alters binding in a point at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6799,14 +6799,14 @@ Alters binding in a point pattern at _(default  self, targeting object, persisti
 | Output | Constraint |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 37 W |
 
 ---
 
-**BoltLockPoint**
-Constrains electric in a point pattern at touch, targeting _(default  where written, persisting timed (long).
+**ShatterCrown**
+Constrains electric in a point at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6817,14 +6817,14 @@ Constrains electric in a point pattern at touch, targeting _(default  where writ
 | Output | Shock |
 | Pattern | Point |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 42 W |
 
 ---
 
-**CoreScreen_(default  Plane**
-Filters out raw in a _(default  plane pattern at touch, targeting surface.
+**HumbleWall**
+Filters raw in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6841,8 +6841,8 @@ Filters out raw in a _(default  plane pattern at touch, targeting surface.
 
 ---
 
-**FlameLock_(default  Plane**
-Constrains heat in a _(default  plane pattern at touch, targeting surface, persisting timed (short).
+**ShatterCalm**
+Constrains heat in a _(default  plane at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6853,14 +6853,14 @@ Constrains heat in a _(default  plane pattern at touch, targeting surface, persi
 | Output | Thermal |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
-**ThrustRead_(default  Plane**
-Detects force in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**LightVoid**
+Detects force in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6871,14 +6871,14 @@ Detects force in a _(default  plane pattern at touch, targeting object, persisti
 | Output | Kinetic |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 15 W |
 
 ---
 
-**FlameGuardField**
-Shields against heat across a surface at _(default  self, targeting _(default  where written.
+**FallShadow**
+Shields against heat across surfaces at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6895,8 +6895,8 @@ Shields against heat across a surface at _(default  self, targeting _(default  w
 
 ---
 
-**CoreLock_(default  Plane**
-Constrains raw in a _(default  plane pattern at short (10 ft), targeting object, persisting timed (long).
+**GentleWisp**
+Constrains raw in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6906,15 +6906,15 @@ Constrains raw in a _(default  plane pattern at short (10 ft), targeting object,
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | Object |
 | Wattage | 40 W |
 
 ---
 
-**ChainLockPoint**
-Constrains binding in a point pattern at touch, targeting surface.
+**FreezeStorm**
+Constrains binding in a point at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -6931,8 +6931,8 @@ Constrains binding in a point pattern at touch, targeting surface.
 
 ---
 
-**BoltLockField**
-Constrains electric across a surface at touch, targeting surface, requiring sustained concentration.
+**SweepFlame**
+Constrains electric across surfaces at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6949,8 +6949,8 @@ Constrains electric across a surface at touch, targeting surface, requiring sust
 
 ---
 
-**CoreScreenPoint**
-Filters out raw in a point pattern at touch, targeting object.
+**BreakTouch**
+Filters raw in a point at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6967,8 +6967,8 @@ Filters out raw in a point pattern at touch, targeting object.
 
 ---
 
-**CoreGuard_(default  Plane**
-Shields against raw in a _(default  plane pattern at touch, targeting object, persisting timed (short).
+**VastHeart**
+Shields against raw in a _(default  plane at touch targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -6979,14 +6979,14 @@ Shields against raw in a _(default  plane pattern at touch, targeting object, pe
 | Output | Raw |
 | Pattern | _(default  Plane |
 | Reach | Touch |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Object |
 | Wattage | 12 W |
 
 ---
 
-**ChainWaveSpread**
-Releases binding in a cone pattern at _(default  self, targeting object.
+**HumbleChain**
+Releases binding in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -7003,8 +7003,8 @@ Releases binding in a cone pattern at _(default  self, targeting object.
 
 ---
 
-**CoreLock_(default  Plane**
-Constrains raw in a _(default  plane pattern at _(default  self, targeting surface, persisting timed (short).
+**FallCurse**
+Constrains raw in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -7015,14 +7015,14 @@ Constrains raw in a _(default  plane pattern at _(default  self, targeting surfa
 | Output | Raw |
 | Pattern | _(default  Plane |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 18 W |
 
 ---
 
-**FlameReadSpread**
-Detects heat in a cone pattern at short (10 ft), targeting _(default  where written, persisting timed (short).
+**TwinRoot**
+Detects heat in a cone at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -7032,15 +7032,15 @@ Detects heat in a cone pattern at short (10 ft), targeting _(default  where writ
 | Discipline | Heat |
 | Output | Thermal |
 | Pattern | Cone |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Short) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 36 W |
 
 ---
 
-**ThrustShiftField**
-Alters force across a surface at touch, targeting _(default  where written, requiring sustained concentration.
+**WeavSigil**
+Alters force across surfaces at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -7057,8 +7057,8 @@ Alters force across a surface at touch, targeting _(default  where written, requ
 
 ---
 
-**BoltLock_(default  Plane**
-Constrains electric in a _(default  plane pattern at short (10 ft), targeting object.
+**FreezEye**
+Constrains electric in a _(default  plane at short (10 ft targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -7068,15 +7068,15 @@ Constrains electric in a _(default  plane pattern at short (10 ft), targeting ob
 | Discipline | Electric |
 | Output | Shock |
 | Pattern | _(default  Plane |
-| Reach | Short (10 ft) |
+| Reach | Short (10 ft |
 | Persistence | _(default  Immediate |
 | Target | Object |
 | Wattage | 47 W |
 
 ---
 
-**ThrustPushField**
-Displaces force across a surface at touch, targeting surface, persisting timed (long).
+**RiseScar**
+Displaces force across surfaces at touch targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -7087,14 +7087,14 @@ Displaces force across a surface at touch, targeting surface, persisting timed (
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | Surface |
 | Wattage | 38 W |
 
 ---
 
-**CorePushSpread**
-Displaces raw in a cone pattern at touch, targeting _(default  where written, persisting timed (long).
+**DriftPulse**
+Displaces raw in a cone at touch targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -7105,14 +7105,14 @@ Displaces raw in a cone pattern at touch, targeting _(default  where written, pe
 | Output | Raw |
 | Pattern | Cone |
 | Reach | Touch |
-| Persistence | Timed (Long) |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 40 W |
 
 ---
 
-**BoltScreenSpread**
-Filters out electric in a cone pattern at _(default  self, targeting object, requiring sustained concentration.
+**ChillBrand**
+Filters electric in a cone at _(default  self targeting object.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -7129,8 +7129,8 @@ Filters out electric in a cone pattern at _(default  self, targeting object, req
 
 ---
 
-**RadianceWavePoint**
-Releases light in a point pattern at _(default  self, targeting _(default  where written, persisting timed (short).
+**BindPulse**
+Releases light in a point at _(default  self targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -7141,14 +7141,14 @@ Releases light in a point pattern at _(default  self, targeting _(default  where
 | Output | Photonic |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | _(default  Where Written |
 | Wattage | 29 W |
 
 ---
 
-**CoreWavePoint**
-Releases raw in a point pattern at short (10 ft), targeting _(default  where written, persisting timed (long).
+**DeepPath**
+Releases raw in a point at short (10 ft targeting _(default  where written.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
@@ -7158,15 +7158,15 @@ Releases raw in a point pattern at short (10 ft), targeting _(default  where wri
 | Discipline | Raw |
 | Output | Raw |
 | Pattern | Point |
-| Reach | Short (10 ft) |
-| Persistence | Timed (Long) |
+| Reach | Short (10 ft |
+| Persistence | Timed (Long |
 | Target | _(default  Where Written |
 | Wattage | 33 W |
 
 ---
 
-**RadianceLockPoint**
-Constrains light in a point pattern at _(default  self, targeting surface, persisting timed (short).
+**AnchorFlame**
+Constrains light in a point at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Square |
@@ -7177,14 +7177,14 @@ Constrains light in a point pattern at _(default  self, targeting surface, persi
 | Output | Photonic |
 | Pattern | Point |
 | Reach | _(default  Self |
-| Persistence | Timed (Short) |
+| Persistence | Timed (Short |
 | Target | Surface |
 | Wattage | 34 W |
 
 ---
 
-**ThrustWave_(default  Plane**
-Releases force in a _(default  plane pattern at _(default  self, targeting surface, requiring sustained concentration.
+**DriftingVoid**
+Releases force in a _(default  plane at _(default  self targeting surface.
 | Variable | Value |
 |---|---|
 | Shape | Triangle |
