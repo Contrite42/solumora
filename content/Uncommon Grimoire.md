@@ -2,7 +2,8 @@ Uncommon spells require [[Control Tier]] T3–T4 and represent the threshold whe
 
 _Return to [[All Grimoire]]_
 **CurvedRing**
-Releases mind in a spreading cone within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Releases mental flux in a spreading cone within 50 feet, affecting the inscribed location, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -13,12 +14,12 @@ Releases mind in a spreading cone within 50 feet, centered on the inscribed loca
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 535 W |
 
 ---
 
 **WarmCurse**
-Detects chemical in a cylinder within 50 feet, targeting an individual. It persists while actively sustained.
+Detects reactive compounds in a cylindrical column within 50 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+| Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -29,12 +30,12 @@ Detects chemical in a cylinder within 50 feet, targeting an individual. It persi
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 153 W |
 
 ---
 
 **StrongBond**
-Alters binding across a surface within 10 feet, targeting a surface. It persists until the set condition is met.
+Alters binding force across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -45,12 +46,12 @@ Alters binding across a surface within 10 feet, targeting a surface. It persists
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 230 W |
 
 ---
 
 **PierceFlame**
-Counters electric in a ring within 50 feet, targeting a surface. It lasts up to one minute.
+Counters electrical charge in a circular ring within 50 feet, affecting a surface, to create a new effect. It lasts up to one minute.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -61,12 +62,12 @@ Counters electric in a ring within 50 feet, targeting a surface. It lasts up to 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 140 W |
 
 ---
 
 **BurShroud**
-Filters mind in a focused beam within 10 feet, centered on the inscribed location. It lasts up to one minute.
+Filters mental flux as a focused beam within 10 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -77,12 +78,12 @@ Filters mind in a focused beam within 10 feet, centered on the inscribed locatio
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 515 W |
 
 ---
 
 **ReleasSigil**
-Shields against mind in a cylinder at touch range, targeting an individual. It persists until the set condition is met.
+Shields against mental flux in a cylindrical column at touch range, affecting an individual, to create a new effect. It persists until its condition is met.
+| Wattage | 250 W |
 | Shape | Square |
 | Hook | Ward |
 | Mode | Create |
@@ -93,12 +94,12 @@ Shields against mind in a cylinder at touch range, targeting an individual. It p
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 250 W |
 
 ---
 
 **SurgeRoad**
-Detects mind in a cylinder within 10 feet, targeting a surface. It lasts up to one hour.
+Detects mental flux in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 555 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -109,12 +110,12 @@ Detects mind in a cylinder within 10 feet, targeting a surface. It lasts up to o
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 555 W |
 
 ---
 
 **SweepSpirit**
-Counters electric in a cylinder at touch range, targeting a surface. It persists while actively sustained.
+Counters electrical charge in a cylindrical column at touch range, affecting a surface, to create a new effect. It persists while actively sustained.
+| Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -125,12 +126,12 @@ Counters electric in a cylinder at touch range, targeting a surface. It persists
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 137 W |
 
 ---
 
 **VividThread**
-Alters binding in a spreading cone within 10 feet, targeting a surface. It persists until the set condition is met.
+Alters binding force in a spreading cone within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+| Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -141,12 +142,12 @@ Alters binding in a spreading cone within 10 feet, targeting a surface. It persi
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 240 W |
 
 ---
 
 **ShallowLock**
-Filters mind in a cylinder within 50 feet, targeting an individual. It persists while actively sustained.
+Filters mental flux in a cylindrical column within 50 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 553 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -157,12 +158,12 @@ Filters mind in a cylinder within 50 feet, targeting an individual. It persists 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 553 W |
 
 ---
 
 **AnchorLock**
-Filters chemical in a ring within 10 feet, targeting an individual. It lasts up to one hour.
+Filters reactive compounds in a circular ring within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+| Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -173,12 +174,12 @@ Filters chemical in a ring within 10 feet, targeting an individual. It lasts up 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 153 W |
 
 ---
 
 **SolidWisp**
-Displaces mind across a surface at touch range, targeting a surface. It lasts up to one hour.
+Displaces mental flux across a surface at touch range, affecting a surface, to create a new effect. It lasts up to one hour.
+| Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -189,12 +190,12 @@ Displaces mind across a surface at touch range, targeting a surface. It lasts up
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 532 W |
 
 ---
 
 **SolidSigil**
-Filters binding across a surface at touch range, centered on the inscribed location. It lasts up to one minute.
+Filters binding force across a surface at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+| Wattage | 207 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -205,12 +206,12 @@ Filters binding across a surface at touch range, centered on the inscribed locat
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 207 W |
 
 ---
 
 **KindleWay**
-Counters chemical in a cylinder at touch range, centered on the inscribed location. It persists until the set condition is met.
+Counters reactive compounds in a cylindrical column at touch range, affecting the inscribed location, to alter an existing state. It persists until its condition is met.
+| Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -221,12 +222,12 @@ Counters chemical in a cylinder at touch range, centered on the inscribed locati
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 142 W |
 
 ---
 
 **CaptureDance**
-Detects binding in a ring within 50 feet, targeting an object. It persists while actively sustained.
+Detects binding force in a circular ring within 50 feet, affecting an object, to create a new effect. It persists while actively sustained.
+| Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -237,12 +238,12 @@ Detects binding in a ring within 50 feet, targeting an object. It persists while
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 242 W |
 
 ---
 
 **KindleStorm**
-Shields against binding across a surface within 10 feet, targeting an individual. It lasts up to one minute.
+Shields against binding force across a surface within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 218 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -253,12 +254,12 @@ Shields against binding across a surface within 10 feet, targeting an individual
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 218 W |
 
 ---
 
 **TwistMark**
-Counters electric in a cylinder within 50 feet, targeting an individual. It lasts up to one hour.
+Counters electrical charge in a cylindrical column within 50 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+| Wattage | 168 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -269,12 +270,12 @@ Counters electric in a cylinder within 50 feet, targeting an individual. It last
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 168 W |
 
 ---
 
 **PaleWard**
-Constrains mind in a cylinder within 10 feet, targeting an individual. It lasts up to one hour.
+Constrains mental flux in a cylindrical column within 10 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+| Wattage | 558 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -285,12 +286,12 @@ Constrains mind in a cylinder within 10 feet, targeting an individual. It lasts 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 558 W |
 
 ---
 
 **RiseStorm**
-Detects chemical in a cylinder within 10 feet, targeting a surface. It persists until the set condition is met.
+Detects reactive compounds in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -301,12 +302,12 @@ Detects chemical in a cylinder within 10 feet, targeting a surface. It persists 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 150 W |
 
 ---
 
 **PiercPulse**
-Constrains chemical in a cylinder within 50 feet, targeting a surface.
+Constrains reactive compounds in a cylindrical column within 50 feet, affecting a surface, to actively regulate the effect.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -317,12 +318,12 @@ Constrains chemical in a cylinder within 50 feet, targeting a surface.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-| Wattage | 140 W |
 
 ---
 
 **TwistStorm**
-Shields against chemical in a spreading cone within 50 feet, targeting an individual.
+Shields against reactive compounds in a spreading cone within 50 feet, affecting an individual, to actively regulate the effect.
+| Wattage | 133 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -333,12 +334,12 @@ Shields against chemical in a spreading cone within 50 feet, targeting an indivi
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 133 W |
 
 ---
 
 **TwistVeil**
-Shields against chemical in a cylinder within 10 feet, targeting an object. It persists until the set condition is met.
+Shields against reactive compounds in a cylindrical column within 10 feet, affecting an object, to create a new effect. It persists until its condition is met.
+| Wattage | 147 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -349,12 +350,12 @@ Shields against chemical in a cylinder within 10 feet, targeting an object. It p
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 147 W |
 
 ---
 
 **HeavyKnot**
-Detects mind in a spreading cone at touch range, targeting an individual. It lasts up to one minute.
+Detects mental flux in a spreading cone at touch range, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -365,12 +366,12 @@ Detects mind in a spreading cone at touch range, targeting an individual. It las
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 525 W |
 
 ---
 
 **DissolveStorm**
-Constrains mind in a spreading cone within 10 feet, targeting a surface. It lasts up to one hour.
+Constrains mental flux in a spreading cone within 10 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+| Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -381,12 +382,12 @@ Constrains mind in a spreading cone within 10 feet, targeting a surface. It last
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 545 W |
 
 ---
 
 **DissolveLight**
-Filters chemical in a focused beam at touch range, centered on the inscribed location. It lasts up to one hour.
+Filters reactive compounds as a focused beam at touch range, affecting the inscribed location, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -397,12 +398,12 @@ Filters chemical in a focused beam at touch range, centered on the inscribed loc
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 132 W |
 
 ---
 
 **SurEcho**
-Releases mind in a spreading cone within 10 feet, targeting a surface. It persists while actively sustained.
+Releases mental flux in a spreading cone within 10 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Emit |
 | Mode | Affect |
@@ -413,12 +414,12 @@ Releases mind in a spreading cone within 10 feet, targeting a surface. It persis
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 230 W |
 
 ---
 
 **CaptureBlessing**
-Counters electric in a cylinder within 10 feet, targeting an object. It lasts up to one hour.
+Counters electrical charge in a cylindrical column within 10 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+| Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -429,12 +430,12 @@ Counters electric in a cylinder within 10 feet, targeting an object. It lasts up
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 152 W |
 
 ---
 
 **BindRune**
-Counters mind in a cylinder at touch range, centered on the inscribed location. It persists until the set condition is met.
+Counters mental flux in a cylindrical column at touch range, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+| Wattage | 242 W |
 | Shape | Square |
 | Hook | Counter |
 | Mode | Create |
@@ -445,12 +446,12 @@ Counters mind in a cylinder at touch range, centered on the inscribed location. 
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 242 W |
 
 ---
 
 **PierceWay**
-Displaces mind in a spreading cone within 10 feet, targeting an individual. It lasts up to one hour.
+Displaces mental flux in a spreading cone within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 548 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -461,12 +462,12 @@ Displaces mind in a spreading cone within 10 feet, targeting an individual. It l
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 548 W |
 
 ---
 
 **PierceSight**
-Filters electric in a spreading cone within 10 feet, targeting a surface. It lasts up to one hour.
+Filters electrical charge in a spreading cone within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -477,12 +478,12 @@ Filters electric in a spreading cone within 10 feet, targeting a surface. It las
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 145 W |
 
 ---
 
 **AnchorSigil**
-Counters electric in a cylinder within 10 feet, targeting a surface. It lasts up to one hour.
+Counters electrical charge in a cylindrical column within 10 feet, affecting a surface, to alter an existing state. It lasts up to one hour.
+| Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -493,12 +494,12 @@ Counters electric in a cylinder within 10 feet, targeting a surface. It lasts up
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 155 W |
 
 ---
 
 **BreakVeil**
-Alters binding in a focused beam within 10 feet, targeting an individual. It persists while actively sustained.
+Alters binding force as a focused beam within 10 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -509,12 +510,12 @@ Alters binding in a focused beam within 10 feet, targeting an individual. It per
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 228 W |
 
 ---
 
 **SteadyVoid**
-Alters binding in a spreading cone within 10 feet, targeting an object. It lasts up to one minute.
+Alters binding force in a spreading cone within 10 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+| Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -525,12 +526,12 @@ Alters binding in a spreading cone within 10 feet, targeting an object. It lasts
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 222 W |
 
 ---
 
 **ChillShadow**
-Displaces mind in a cylinder within 50 feet, targeting an object. It lasts up to one minute.
+Displaces mental flux in a cylindrical column within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 242 W |
 | Shape | Square |
 | Hook | Move |
 | Mode | Control |
@@ -541,12 +542,12 @@ Displaces mind in a cylinder within 50 feet, targeting an object. It lasts up to
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 242 W |
 
 ---
 
 **KindleMark**
-Filters binding across a surface at touch range, targeting an object. It persists while actively sustained.
+Filters binding force across a surface at touch range, affecting an object, to create a new effect. It persists while actively sustained.
+| Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -557,12 +558,12 @@ Filters binding across a surface at touch range, targeting an object. It persist
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 214 W |
 
 ---
 
 **RestlessCurse**
-Constrains mind in a ring within 50 feet, targeting an object. It lasts up to one hour.
+Constrains mental flux in a circular ring within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 557 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -573,12 +574,12 @@ Constrains mind in a ring within 50 feet, targeting an object. It lasts up to on
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 557 W |
 
 ---
 
 **LoudAura**
-Filters electric in a spreading cone at touch range, targeting an individual. It persists until the set condition is met.
+Filters electrical charge in a spreading cone at touch range, affecting an individual, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -589,12 +590,12 @@ Filters electric in a spreading cone at touch range, targeting an individual. It
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 140 W |
 
 ---
 
 **RiseBrand**
-Displaces mind in a ring within 10 feet, targeting a surface. It persists until the set condition is met.
+Displaces mental flux in a circular ring within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+| Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -605,12 +606,12 @@ Displaces mind in a ring within 10 feet, targeting a surface. It persists until 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 545 W |
 
 ---
 
 **WildVoid**
-Filters chemical in a cylinder at touch range, targeting a surface. It lasts up to one minute.
+Filters reactive compounds in a cylindrical column at touch range, affecting a surface, to alter an existing state. It lasts up to one minute.
+| Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -621,12 +622,12 @@ Filters chemical in a cylinder at touch range, targeting a surface. It lasts up 
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 132 W |
 
 ---
 
 **PierceDream**
-Releases binding in a cylinder within 10 feet, targeting an object.
+Releases binding force in a cylindrical column within 10 feet, affecting an object, to alter an existing state.
+| Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -637,12 +638,12 @@ Releases binding in a cylinder within 10 feet, targeting an object.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 227 W |
 
 ---
 
 **SweepShroud**
-Shields against mind in a cylinder within 50 feet, targeting an object. It persists until the set condition is met.
+Shields against mental flux in a cylindrical column within 50 feet, affecting an object, to alter an existing state. It persists until its condition is met.
+| Wattage | 257 W |
 | Shape | Square |
 | Hook | Ward |
 | Mode | Affect |
@@ -653,12 +654,12 @@ Shields against mind in a cylinder within 50 feet, targeting an object. It persi
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 257 W |
 
 ---
 
 **BurningRune**
-Detects mind in a spreading cone at touch range, centered on the inscribed location.
+Detects mental flux in a spreading cone at touch range, affecting the inscribed location, to actively regulate the effect.
+| Wattage | 212 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -669,12 +670,12 @@ Detects mind in a spreading cone at touch range, centered on the inscribed locat
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 212 W |
 
 ---
 
 **CalmCurse**
-Detects mind in a spreading cone within 50 feet, targeting an object.
+Detects mental flux in a spreading cone within 50 feet, affecting an object, to create a new effect.
+| Wattage | 227 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -685,12 +686,12 @@ Detects mind in a spreading cone within 50 feet, targeting an object.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 227 W |
 
 ---
 
 **HeavyVoice**
-Shields against chemical in a ring within 50 feet, centered on the inscribed location. It lasts up to one minute.
+Shields against reactive compounds in a circular ring within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -701,12 +702,12 @@ Shields against chemical in a ring within 50 feet, centered on the inscribed loc
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 135 W |
 
 ---
 
 **DriftingCharm**
-Filters mind in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one minute.
+Filters mental flux in a spreading cone within 10 feet, affecting the inscribed location, to create a new effect. It lasts up to one minute.
+| Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -717,12 +718,12 @@ Filters mind in a spreading cone within 10 feet, centered on the inscribed locat
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 520 W |
 
 ---
 
 **FrozenBreath**
-Displaces mind in a focused beam at touch range, targeting an individual. It lasts up to one hour.
+Displaces mental flux as a focused beam at touch range, affecting an individual, to create a new effect. It lasts up to one hour.
+| Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -733,12 +734,12 @@ Displaces mind in a focused beam at touch range, targeting an individual. It las
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 540 W |
 
 ---
 
 **PiercePulse**
-Filters electric across a surface within 50 feet, centered on the inscribed location. It persists until the set condition is met.
+Filters electrical charge across a surface within 50 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -749,12 +750,12 @@ Filters electric across a surface within 50 feet, centered on the inscribed loca
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 135 W |
 
 ---
 
 **HeavyAura**
-Displaces chemical in a cylinder within 50 feet, targeting a surface.
+Displaces reactive compounds in a cylindrical column within 50 feet, affecting a surface, to create a new effect.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -765,12 +766,12 @@ Displaces chemical in a cylinder within 50 feet, targeting a surface.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-| Wattage | 140 W |
 
 ---
 
 **TaintedGate**
-Shields against mind in a focused beam within 10 feet, targeting an object. It lasts up to one minute.
+Shields against mental flux as a focused beam within 10 feet, affecting an object, to create a new effect. It lasts up to one minute.
+| Wattage | 517 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -781,12 +782,12 @@ Shields against mind in a focused beam within 10 feet, targeting an object. It l
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 517 W |
 
 ---
 
 **GuardBrand**
-Counters binding across a surface within 50 feet, targeting an object. It persists until the set condition is met.
+Counters binding force across a surface within 50 feet, affecting an object, to create a new effect. It persists until its condition is met.
+| Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -797,12 +798,12 @@ Counters binding across a surface within 50 feet, targeting an object. It persis
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 237 W |
 
 ---
 
 **KindlMark**
-Counters mind in a focused beam within 50 feet, targeting an object. It lasts up to one minute.
+Counters mental flux as a focused beam within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 227 W |
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -813,12 +814,12 @@ Counters mind in a focused beam within 50 feet, targeting an object. It lasts up
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 227 W |
 
 ---
 
 **AncientWard**
-Detects mind in a focused beam within 10 feet, targeting a surface.
+Detects mental flux as a focused beam within 10 feet, affecting a surface, to alter an existing state.
+| Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -829,12 +830,12 @@ Detects mind in a focused beam within 10 feet, targeting a surface.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-| Wattage | 215 W |
 
 ---
 
 **ReleaseStorm**
-Counters binding across a surface at touch range, centered on the inscribed location.
+Counters binding force across a surface at touch range, affecting the inscribed location, to actively regulate the effect.
+| Wattage | 202 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -845,12 +846,12 @@ Counters binding across a surface at touch range, centered on the inscribed loca
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 202 W |
 
 ---
 
 **BurPath**
-Counters mind in a cylinder at touch range, targeting an individual. It persists until the set condition is met.
+Counters mental flux in a cylindrical column at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -861,12 +862,12 @@ Counters mind in a cylinder at touch range, targeting an individual. It persists
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 550 W |
 
 ---
 
 **ChillDream**
-Shields against binding across a surface at touch range, targeting an object.
+Shields against binding force across a surface at touch range, affecting an object, to alter an existing state.
+| Wattage | 204 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Affect |
@@ -877,12 +878,12 @@ Shields against binding across a surface at touch range, targeting an object.
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 204 W |
 
 ---
 
 **BindThought**
-Releases mind in a focused beam at touch range, targeting an object. It persists until the set condition is met.
+Releases mental flux as a focused beam at touch range, affecting an object, to alter an existing state. It persists until its condition is met.
+| Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -893,12 +894,12 @@ Releases mind in a focused beam at touch range, targeting an object. It persists
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 529 W |
 
 ---
 
 **BurnCurse**
-Constrains mind in a focused beam within 50 feet, centered on the inscribed location. It lasts up to one hour.
+Constrains mental flux as a focused beam within 50 feet, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+| Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -909,12 +910,12 @@ Constrains mind in a focused beam within 50 feet, centered on the inscribed loca
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 545 W |
 
 ---
 
 **DriftHeart**
-Alters mind in a focused beam within 10 feet, centered on the inscribed location. It persists while actively sustained.
+Alters mental flux as a focused beam within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -925,12 +926,12 @@ Alters mind in a focused beam within 10 feet, centered on the inscribed location
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 520 W |
 
 ---
 
 **ClearCharm**
-Constrains binding across a surface within 10 feet, centered on the inscribed location. It persists until the set condition is met.
+Constrains binding force across a surface within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -941,12 +942,12 @@ Constrains binding across a surface within 10 feet, centered on the inscribed lo
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 225 W |
 
 ---
 
 **GuardTide**
-Detects chemical in a cylinder within 50 feet, centered on the inscribed location. It lasts up to one minute.
+Detects reactive compounds in a cylindrical column within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -957,12 +958,12 @@ Detects chemical in a cylinder within 50 feet, centered on the inscribed locatio
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 140 W |
 
 ---
 
 **StraightShell**
-Filters binding in a focused beam within 10 feet, centered on the inscribed location. It persists until the set condition is met.
+Filters binding force as a focused beam within 10 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+| Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -973,12 +974,12 @@ Filters binding in a focused beam within 10 feet, centered on the inscribed loca
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 230 W |
 
 ---
 
 **ReleasEcho**
-Detects mind across a surface within 50 feet, targeting an object. It persists until the set condition is met.
+Detects mental flux across a surface within 50 feet, affecting an object, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 237 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -989,12 +990,12 @@ Detects mind across a surface within 50 feet, targeting an object. It persists u
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 237 W |
 
 ---
 
 **GuardScar**
-Displaces electric in a spreading cone within 50 feet, targeting a surface. It lasts up to one minute.
+Displaces electrical charge in a spreading cone within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -1005,12 +1006,12 @@ Displaces electric in a spreading cone within 50 feet, targeting a surface. It l
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 135 W |
 
 ---
 
 **KindleTouch**
-Alters mind across a surface within 10 feet, targeting a surface. It persists until the set condition is met.
+Alters mental flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Control |
@@ -1021,12 +1022,12 @@ Alters mind across a surface within 10 feet, targeting a surface. It persists un
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 230 W |
 
 ---
 
 **SweepBrand**
-Detects mind across a surface within 50 feet, centered on the inscribed location. It lasts up to one minute.
+Detects mental flux across a surface within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 220 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1037,12 +1038,12 @@ Detects mind across a surface within 50 feet, centered on the inscribed location
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 220 W |
 
 ---
 
 **TaintedVoice**
-Detects binding in a focused beam within 50 feet, centered on the inscribed location. It persists until the set condition is met.
+Detects binding force as a focused beam within 50 feet, affecting the inscribed location, to alter an existing state. It persists until its condition is met.
+| Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1053,12 +1054,12 @@ Detects binding in a focused beam within 50 feet, centered on the inscribed loca
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 240 W |
 
 ---
 
 **KindleBrand**
-Filters binding in a cylinder within 10 feet, targeting an object. It persists while actively sustained.
+Filters binding force in a cylindrical column within 10 feet, affecting an object, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -1069,12 +1070,12 @@ Filters binding in a cylinder within 10 feet, targeting an object. It persists w
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 237 W |
 
 ---
 
 **GrandWard**
-Detects binding in a spreading cone within 50 feet, targeting an individual. It persists while actively sustained.
+Detects binding force in a spreading cone within 50 feet, affecting an individual, to alter an existing state. It persists while actively sustained.
+| Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1085,12 +1086,12 @@ Detects binding in a spreading cone within 50 feet, targeting an individual. It 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 243 W |
 
 ---
 
 **GuardCore**
-Filters electric in a cylinder within 50 feet, targeting an object. It lasts up to one minute.
+Filters electrical charge in a cylindrical column within 50 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+| Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1101,12 +1102,12 @@ Filters electric in a cylinder within 50 feet, targeting an object. It lasts up 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 142 W |
 
 ---
 
 **StraightFrost**
-Detects mind in a spreading cone at touch range, targeting an object. It persists while actively sustained.
+Detects mental flux in a spreading cone at touch range, affecting an object, to alter an existing state. It persists while actively sustained.
+| Wattage | 224 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -1117,12 +1118,12 @@ Detects mind in a spreading cone at touch range, targeting an object. It persist
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 224 W |
 
 ---
 
 **BreakPath**
-Detects binding in a focused beam within 10 feet, targeting a surface. It persists while actively sustained.
+Detects binding force as a focused beam within 10 feet, affecting a surface, to create a new effect. It persists while actively sustained.
+| Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -1133,12 +1134,12 @@ Detects binding in a focused beam within 10 feet, targeting a surface. It persis
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 225 W |
 
 ---
 
 **TameRune**
-Detects mind in a focused beam within 50 feet, centered on the inscribed location. It lasts up to one hour.
+Detects mental flux as a focused beam within 50 feet, affecting the inscribed location, to create a new effect. It lasts up to one hour.
+| Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -1149,12 +1150,12 @@ Detects mind in a focused beam within 50 feet, centered on the inscribed locatio
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 545 W |
 
 ---
 
 **ClearDoor**
-Detects mind in a ring within 50 feet, centered on the inscribed location.
+Detects mental flux in a circular ring within 50 feet, affecting the inscribed location, to create a new effect.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -1165,12 +1166,12 @@ Detects mind in a ring within 50 feet, centered on the inscribed location.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 230 W |
 
 ---
 
 **SharpBoon**
-Detects electric in a focused beam within 50 feet, targeting a surface. It lasts up to one hour.
+Detects electrical charge as a focused beam within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1181,12 +1182,12 @@ Detects electric in a focused beam within 50 feet, targeting a surface. It lasts
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 150 W |
 
 ---
 
 **FreezChain**
-Alters binding in a cylinder within 50 feet, targeting an individual. It persists while actively sustained.
+Alters binding force in a cylindrical column within 50 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+| Wattage | 133 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1197,12 +1198,12 @@ Alters binding in a cylinder within 50 feet, targeting an individual. It persist
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 133 W |
 
 ---
 
 **StraightRune**
-Detects electric in a cylinder within 50 feet, targeting a surface. It lasts up to one hour.
+Detects electrical charge in a cylindrical column within 50 feet, affecting a surface, to alter an existing state. It lasts up to one hour.
+| Wattage | 165 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1213,12 +1214,12 @@ Detects electric in a cylinder within 50 feet, targeting a surface. It lasts up 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 165 W |
 
 ---
 
 **BrightKnot**
-Releases mind in a spreading cone within 50 feet, targeting an individual.
+Releases mental flux in a spreading cone within 50 feet, affecting an individual, to create a new effect.
+| Wattage | 533 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -1229,12 +1230,12 @@ Releases mind in a spreading cone within 50 feet, targeting an individual.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 533 W |
 
 ---
 
 **BurningWeb**
-Alters chemical in a cylinder within 10 feet, centered on the inscribed location. It persists until the set condition is met.
+Alters reactive compounds in a cylindrical column within 10 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+| Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1245,12 +1246,12 @@ Alters chemical in a cylinder within 10 feet, centered on the inscribed location
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 145 W |
 
 ---
 
 **CapturNet**
-Detects mind in a ring within 10 feet, targeting a surface. It persists until the set condition is met.
+Detects mental flux in a circular ring within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 245 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1261,12 +1262,12 @@ Detects mind in a ring within 10 feet, targeting a surface. It persists until th
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 245 W |
 
 ---
 
 **BindBrand**
-Detects binding across a surface within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Detects binding force across a surface within 50 feet, affecting the inscribed location, to alter an existing state. It persists while actively sustained.
+| Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1277,12 +1278,12 @@ Detects binding across a surface within 50 feet, centered on the inscribed locat
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 225 W |
 
 ---
 
 **ShallowDoor**
-Displaces binding in a focused beam within 50 feet, targeting a surface. It persists until the set condition is met.
+Displaces binding force as a focused beam within 50 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+| Wattage | 245 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1293,12 +1294,12 @@ Displaces binding in a focused beam within 50 feet, targeting a surface. It pers
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 245 W |
 
 ---
 
 **DriftDance**
-Filters chemical in a spreading cone at touch range, centered on the inscribed location. It persists until the set condition is met.
+Filters reactive compounds in a spreading cone at touch range, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -1309,12 +1310,12 @@ Filters chemical in a spreading cone at touch range, centered on the inscribed l
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 132 W |
 
 ---
 
 **TwistShell**
-Counters mind in a cylinder at touch range, targeting an individual. It lasts up to one minute.
+Counters mental flux in a cylindrical column at touch range, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -1325,12 +1326,12 @@ Counters mind in a cylinder at touch range, targeting an individual. It lasts up
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 235 W |
 
 ---
 
 **DarkCage**
-Displaces mind in a cylinder within 50 feet, targeting a surface. It persists while actively sustained.
+Displaces mental flux in a cylindrical column within 50 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+| Wattage | 250 W |
 | Shape | Square |
 | Hook | Move |
 | Mode | Affect |
@@ -1341,12 +1342,12 @@ Displaces mind in a cylinder within 50 feet, targeting a surface. It persists wh
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 250 W |
 
 ---
 
 **DissolveRoad**
-Alters mind in a ring within 50 feet, targeting an object. It lasts up to one minute.
+Alters mental flux in a circular ring within 50 feet, affecting an object, to create a new effect. It lasts up to one minute.
+| Wattage | 237 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Create |
@@ -1357,12 +1358,12 @@ Alters mind in a ring within 50 feet, targeting an object. It lasts up to one mi
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 237 W |
 
 ---
 
 **DriftBrand**
-Releases binding in a spreading cone within 10 feet, targeting an object. It lasts up to one hour.
+Releases binding force in a spreading cone within 10 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -1373,12 +1374,12 @@ Releases binding in a spreading cone within 10 feet, targeting an object. It las
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 242 W |
 
 ---
 
 **TaintedStorm**
-Detects mind in a focused beam within 10 feet, targeting a surface.
+Detects mental flux as a focused beam within 10 feet, affecting a surface, to actively regulate the effect.
+| Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1389,12 +1390,12 @@ Detects mind in a focused beam within 10 feet, targeting a surface.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-| Wattage | 215 W |
 
 ---
 
 **BurningCharm**
-Displaces mind across a surface within 50 feet, targeting an individual. It persists until the set condition is met.
+Displaces mental flux across a surface within 50 feet, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 543 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1405,12 +1406,12 @@ Displaces mind across a surface within 50 feet, targeting an individual. It pers
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 543 W |
 
 ---
 
 **ShatterSeal**
-Detects mind in a spreading cone at touch range, centered on the inscribed location. It lasts up to one hour.
+Detects mental flux in a spreading cone at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+| Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1421,12 +1422,12 @@ Detects mind in a spreading cone at touch range, centered on the inscribed locat
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 537 W |
 
 ---
 
 **GuardWard**
-Detects binding across a surface within 50 feet, centered on the inscribed location. It lasts up to one minute.
+Detects binding force across a surface within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 220 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1437,12 +1438,12 @@ Detects binding across a surface within 50 feet, centered on the inscribed locat
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 220 W |
 
 ---
 
 **TransformSight**
-Shields against electric in a ring at touch range, targeting an object. It lasts up to one hour.
+Shields against electrical charge in a circular ring at touch range, affecting an object, to create a new effect. It lasts up to one hour.
+| Wattage | 144 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -1453,12 +1454,12 @@ Shields against electric in a ring at touch range, targeting an object. It lasts
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 144 W |
 
 ---
 
 **RiseStrike**
-Constrains chemical in a ring within 50 feet, targeting an individual.
+Constrains reactive compounds in a circular ring within 50 feet, affecting an individual, to actively regulate the effect.
+| Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -1469,12 +1470,12 @@ Constrains chemical in a ring within 50 feet, targeting an individual.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 138 W |
 
 ---
 
 **RisBoon**
-Counters binding in a cylinder at touch range, targeting an object. It lasts up to one hour.
+Counters binding force in a cylindrical column at touch range, affecting an object, to create a new effect. It lasts up to one hour.
+| Wattage | 249 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -1485,12 +1486,12 @@ Counters binding in a cylinder at touch range, targeting an object. It lasts up 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 249 W |
 
 ---
 
 **ShatterBond**
-Detects mind in a spreading cone within 50 feet, centered on the inscribed location. It lasts up to one hour.
+Detects mental flux in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect. It lasts up to one hour.
+| Wattage | 250 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -1501,12 +1502,12 @@ Detects mind in a spreading cone within 50 feet, centered on the inscribed locat
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 250 W |
 
 ---
 
 **WeavePulse**
-Alters mind in a cylinder at touch range, targeting an individual. It persists until the set condition is met.
+Alters mental flux in a cylindrical column at touch range, affecting an individual, to create a new effect. It persists until its condition is met.
+| Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1517,12 +1518,12 @@ Alters mind in a cylinder at touch range, targeting an individual. It persists u
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 550 W |
 
 ---
 
 **ReleaseTide**
-Releases binding in a focused beam at touch range, centered on the inscribed location. It lasts up to one minute.
+Releases binding force as a focused beam at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+| Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -1533,12 +1534,12 @@ Releases binding in a focused beam at touch range, centered on the inscribed loc
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 212 W |
 
 ---
 
 **GuardSpirit**
-Detects mind across a surface within 10 feet, targeting a surface. It persists until the set condition is met.
+Detects mental flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 530 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1549,12 +1550,12 @@ Detects mind across a surface within 10 feet, targeting a surface. It persists u
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 530 W |
 
 ---
 
 **TwistSpirit**
-Detects chemical across a surface within 50 feet, targeting an individual. It persists until the set condition is met.
+Detects reactive compounds across a surface within 50 feet, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1565,12 +1566,12 @@ Detects chemical across a surface within 50 feet, targeting an individual. It pe
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 143 W |
 
 ---
 
 **BreakBreath**
-Shields against mind across a surface within 10 feet, centered on the inscribed location. It persists until the set condition is met.
+Shields against mental flux across a surface within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -1581,12 +1582,12 @@ Shields against mind across a surface within 10 feet, centered on the inscribed 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 525 W |
 
 ---
 
 **FreezeStrike**
-Counters mind in a cylinder within 10 feet, centered on the inscribed location.
+Counters mental flux in a cylindrical column within 10 feet, affecting the inscribed location, to actively regulate the effect.
+| Wattage | 225 W |
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -1597,12 +1598,12 @@ Counters mind in a cylinder within 10 feet, centered on the inscribed location.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 225 W |
 
 ---
 
 **AnchorVeil**
-Detects chemical in a cylinder within 10 feet, targeting a surface. It lasts up to one hour.
+Detects reactive compounds in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1613,12 +1614,12 @@ Detects chemical in a cylinder within 10 feet, targeting a surface. It lasts up 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 155 W |
 
 ---
 
 **ChillCrown**
-Releases mind in a cylinder within 10 feet, targeting an object. It persists until the set condition is met.
+Releases mental flux in a cylindrical column within 10 feet, affecting an object, to create a new effect. It persists until its condition is met.
+| Wattage | 547 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -1629,12 +1630,12 @@ Releases mind in a cylinder within 10 feet, targeting an object. It persists unt
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 547 W |
 
 ---
 
 **BurnRoad**
-Constrains electric in a cylinder within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Constrains electrical charge in a cylindrical column within 50 feet, affecting the inscribed location, to alter an existing state. It persists while actively sustained.
+| Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -1645,12 +1646,12 @@ Constrains electric in a cylinder within 50 feet, centered on the inscribed loca
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 145 W |
 
 ---
 
 **GuardLight**
-Alters chemical in a focused beam within 10 feet, targeting an individual. It lasts up to one hour.
+Alters reactive compounds as a focused beam within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+| Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1661,12 +1662,12 @@ Alters chemical in a focused beam within 10 feet, targeting an individual. It la
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 143 W |
 
 ---
 
 **DissolveFlame**
-Counters chemical in a cylinder within 50 feet, centered on the inscribed location.
+Counters reactive compounds in a cylindrical column within 50 feet, affecting the inscribed location, to alter an existing state.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -1677,12 +1678,12 @@ Counters chemical in a cylinder within 50 feet, centered on the inscribed locati
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 135 W |
 
 ---
 
 **DeepSeal**
-Alters mind across a surface within 50 feet, targeting an object. It lasts up to one hour.
+Alters mental flux across a surface within 50 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+| Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -1693,12 +1694,12 @@ Alters mind across a surface within 50 feet, targeting an object. It lasts up to
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 242 W |
 
 ---
 
 **ChillPulse**
-Constrains mind in a spreading cone within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Constrains mental flux in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+| Wattage | 235 W |
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -1709,12 +1710,12 @@ Constrains mind in a spreading cone within 50 feet, centered on the inscribed lo
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 235 W |
 
 ---
 
 **DullMirror**
-Shields against mind in a ring at touch range, targeting an object. It persists while actively sustained.
+Shields against mental flux in a circular ring at touch range, affecting an object, to create a new effect. It persists while actively sustained.
+| Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -1725,12 +1726,12 @@ Shields against mind in a ring at touch range, targeting an object. It persists 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 529 W |
 
 ---
 
 **RestlessSeal**
-Releases chemical in a cylinder within 10 feet, targeting an individual. It lasts up to one minute.
+Releases reactive compounds in a cylindrical column within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -1741,12 +1742,12 @@ Releases chemical in a cylinder within 10 feet, targeting an individual. It last
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 138 W |
 
 ---
 
 **SweepBond**
-Releases binding across a surface within 50 feet, targeting an individual. It persists until the set condition is met.
+Releases binding force across a surface within 50 feet, affecting an individual, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -1757,12 +1758,12 @@ Releases binding across a surface within 50 feet, targeting an individual. It pe
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 243 W |
 
 ---
 
 **ShatterVoice**
-Releases electric in a spreading cone at touch range, targeting a surface. It persists until the set condition is met.
+Releases electrical charge in a spreading cone at touch range, affecting a surface, to create a new effect. It persists until its condition is met.
+| Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -1773,12 +1774,12 @@ Releases electric in a spreading cone at touch range, targeting a surface. It pe
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 137 W |
 
 ---
 
 **QuietCore**
-Detects mind in a ring at touch range, targeting an individual. It lasts up to one hour.
+Detects mental flux in a circular ring at touch range, affecting an individual, to alter an existing state. It lasts up to one hour.
+| Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -1789,12 +1790,12 @@ Detects mind in a ring at touch range, targeting an individual. It lasts up to o
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 550 W |
 
 ---
 
 **PaleBreath**
-Alters mind in a cylinder at touch range, targeting an object.
+Alters mental flux in a cylindrical column at touch range, affecting an object, to alter an existing state.
+| Wattage | 524 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -1805,12 +1806,12 @@ Alters mind in a cylinder at touch range, targeting an object.
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 524 W |
 
 ---
 
 **BrightPath**
-Detects mind in a focused beam within 10 feet, targeting an object. It lasts up to one minute.
+Detects mental flux as a focused beam within 10 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 217 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -1821,12 +1822,12 @@ Detects mind in a focused beam within 10 feet, targeting an object. It lasts up 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 217 W |
 
 ---
 
 **GuardDance**
-Alters mind in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one minute.
+Alters mental flux in a spreading cone within 10 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 220 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Control |
@@ -1837,12 +1838,12 @@ Alters mind in a spreading cone within 10 feet, centered on the inscribed locati
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 220 W |
 
 ---
 
 **DissolvGlyph**
-Counters binding in a ring within 50 feet, targeting an object. It persists while actively sustained.
+Counters binding force in a circular ring within 50 feet, affecting an object, to alter an existing state. It persists while actively sustained.
+| Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -1853,12 +1854,12 @@ Counters binding in a ring within 50 feet, targeting an object. It persists whil
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 242 W |
 
 ---
 
 **TwistFlame**
-Displaces mind in a ring within 50 feet, targeting an object. It lasts up to one minute.
+Displaces mental flux in a circular ring within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -1869,12 +1870,12 @@ Displaces mind in a ring within 50 feet, targeting an object. It lasts up to one
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 537 W |
 
 ---
 
 **QuietHalo**
-Displaces mind in a spreading cone within 50 feet, centered on the inscribed location.
+Displaces mental flux in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect.
+| Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Create |
@@ -1885,12 +1886,12 @@ Displaces mind in a spreading cone within 50 feet, centered on the inscribed loc
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 525 W |
 
 ---
 
 **QuietGate**
-Filters mind in a cylinder at touch range, centered on the inscribed location. It lasts up to one minute.
+Filters mental flux in a cylindrical column at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+| Wattage | 227 W |
 | Shape | Square |
 | Hook | Filter |
 | Mode | Affect |
@@ -1901,12 +1902,12 @@ Filters mind in a cylinder at touch range, centered on the inscribed location. I
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 227 W |
 
 ---
 
 **PierceBrand**
-Releases electric in a spreading cone within 10 feet, targeting a surface. It persists until the set condition is met.
+Releases electrical charge in a spreading cone within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -1917,12 +1918,12 @@ Releases electric in a spreading cone within 10 feet, targeting a surface. It pe
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 140 W |
 
 ---
 
 **BreakRing**
-Alters mind in a cylinder within 10 feet, targeting a surface.
+Alters mental flux in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Control |
@@ -1933,12 +1934,12 @@ Alters mind in a cylinder within 10 feet, targeting a surface.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-| Wattage | 230 W |
 
 ---
 
 **WarmWeb**
-Counters binding across a surface at touch range, targeting an individual.
+Counters binding force across a surface at touch range, affecting an individual, to create a new effect.
+| Wattage | 210 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -1949,12 +1950,12 @@ Counters binding across a surface at touch range, targeting an individual.
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 210 W |
 
 ---
 
 **WhirlingKey**
-Releases mind across a surface within 10 feet, targeting an object.
+Releases mental flux across a surface within 10 feet, affecting an object, to actively regulate the effect.
+| Wattage | 207 W |
 | Shape | Square |
 | Hook | Emit |
 | Mode | Control |
@@ -1965,12 +1966,12 @@ Releases mind across a surface within 10 feet, targeting an object.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 207 W |
 
 ---
 
 **CalmRoad**
-Releases mind in a ring within 50 feet, targeting a surface. It persists until the set condition is met.
+Releases mental flux in a circular ring within 50 feet, affecting a surface, to create a new effect. It persists until its condition is met.
+| Wattage | 255 W |
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -1981,12 +1982,12 @@ Releases mind in a ring within 50 feet, targeting a surface. It persists until t
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 255 W |
 
 ---
 
 **KindleDream**
-Counters mind in a ring at touch range, targeting an object.
+Counters mental flux in a circular ring at touch range, affecting an object, to create a new effect.
+| Wattage | 519 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -1997,12 +1998,12 @@ Counters mind in a ring at touch range, targeting an object.
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 519 W |
 
 ---
 
 **WarmBond**
-Counters mind in a focused beam within 50 feet, targeting a surface. It lasts up to one hour.
+Counters mental flux as a focused beam within 50 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+| Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2013,12 +2014,12 @@ Counters mind in a focused beam within 50 feet, targeting a surface. It lasts up
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 550 W |
 
 ---
 
 **MurkyRing**
-Filters binding in a ring within 10 feet, targeting an individual.
+Filters binding force in a circular ring within 10 feet, affecting an individual, to create a new effect.
+| Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2029,12 +2030,12 @@ Filters binding in a ring within 10 feet, targeting an individual.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 228 W |
 
 ---
 
 **HiddenWard**
-Shields against chemical in a spreading cone within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Shields against reactive compounds in a spreading cone within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -2045,12 +2046,12 @@ Shields against chemical in a spreading cone within 50 feet, centered on the ins
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 135 W |
 
 ---
 
 **FlowTouch**
-Detects mind across a surface within 50 feet, centered on the inscribed location.
+Detects mental flux across a surface within 50 feet, affecting the inscribed location, to create a new effect.
+| Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -2061,12 +2062,12 @@ Detects mind across a surface within 50 feet, centered on the inscribed location
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 215 W |
 
 ---
 
 **ReleasFlame**
-Counters binding in a ring within 10 feet, targeting an object.
+Counters binding force in a circular ring within 10 feet, affecting an object, to create a new effect.
+| Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2077,12 +2078,12 @@ Counters binding in a ring within 10 feet, targeting an object.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 222 W |
 
 ---
 
 **DarkVoid**
-Counters mind in a cylinder within 10 feet, targeting a surface.
+Counters mental flux in a cylindrical column within 10 feet, affecting a surface, to actively regulate the effect.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -2093,12 +2094,12 @@ Counters mind in a cylinder within 10 feet, targeting a surface.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-| Wattage | 230 W |
 
 ---
 
 **HiddenFlame**
-Alters binding across a surface within 50 feet, targeting an object. It persists until the set condition is met.
+Alters binding force across a surface within 50 feet, affecting an object, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -2109,12 +2110,12 @@ Alters binding across a surface within 50 feet, targeting an object. It persists
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 237 W |
 
 ---
 
 **WildCrown**
-Filters mind in a focused beam at touch range, targeting a surface. It persists while actively sustained.
+Filters mental flux as a focused beam at touch range, affecting a surface, to create a new effect. It persists while actively sustained.
+| Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2125,12 +2126,12 @@ Filters mind in a focused beam at touch range, targeting a surface. It persists 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 522 W |
 
 ---
 
 **WarmRing**
-Detects electric in a cylinder within 50 feet, centered on the inscribed location. It persists until the set condition is met.
+Detects electrical charge in a cylindrical column within 50 feet, affecting the inscribed location, to alter an existing state. It persists until its condition is met.
+| Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -2141,12 +2142,12 @@ Detects electric in a cylinder within 50 feet, centered on the inscribed locatio
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 155 W |
 
 ---
 
 **DissolvSigil**
-Detects mind in a ring within 50 feet, targeting an individual.
+Detects mental flux in a circular ring within 50 feet, affecting an individual, to create a new effect.
+| Wattage | 538 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -2157,12 +2158,12 @@ Detects mind in a ring within 50 feet, targeting an individual.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 538 W |
 
 ---
 
 **SteadyMirror**
-Constrains chemical in a spreading cone at touch range, targeting an individual. It persists until the set condition is met.
+Constrains reactive compounds in a spreading cone at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -2173,12 +2174,12 @@ Constrains chemical in a spreading cone at touch range, targeting an individual.
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 140 W |
 
 ---
 
 **DullNet**
-Releases electric in a focused beam within 50 feet, targeting an individual. It persists while actively sustained.
+Releases electrical charge as a focused beam within 50 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2189,12 +2190,12 @@ Releases electric in a focused beam within 50 feet, targeting an individual. It 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 138 W |
 
 ---
 
 **FreezBoon**
-Alters chemical in a ring within 50 feet, targeting an individual.
+Alters reactive compounds in a circular ring within 50 feet, affecting an individual, to actively regulate the effect.
+| Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -2205,12 +2206,12 @@ Alters chemical in a ring within 50 feet, targeting an individual.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 138 W |
 
 ---
 
 **VastSoul**
-Detects electric in a cylinder at touch range, centered on the inscribed location. It persists while actively sustained.
+Detects electrical charge in a cylindrical column at touch range, affecting the inscribed location, to alter an existing state. It persists while actively sustained.
+| Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -2221,12 +2222,12 @@ Detects electric in a cylinder at touch range, centered on the inscribed locatio
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 132 W |
 
 ---
 
 **BurVoice**
-Alters binding in a ring within 50 feet, targeting a surface. It lasts up to one hour.
+Alters binding force in a circular ring within 50 feet, affecting a surface, to alter an existing state. It lasts up to one hour.
+| Wattage | 260 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -2237,12 +2238,12 @@ Alters binding in a ring within 50 feet, targeting a surface. It lasts up to one
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 260 W |
 
 ---
 
 **ChillRoad**
-Filters mind across a surface within 50 feet, targeting an individual.
+Filters mental flux across a surface within 50 feet, affecting an individual, to create a new effect.
+| Wattage | 523 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2253,12 +2254,12 @@ Filters mind across a surface within 50 feet, targeting an individual.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 523 W |
 
 ---
 
 **BrightDoor**
-Shields against electric in a cylinder within 10 feet, targeting an individual. It persists while actively sustained.
+Shields against electrical charge in a cylindrical column within 10 feet, affecting an individual, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -2269,12 +2270,12 @@ Shields against electric in a cylinder within 10 feet, targeting an individual. 
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 143 W |
 
 ---
 
 **HiddenHand**
-Filters chemical in a cylinder at touch range, targeting an individual. It lasts up to one hour.
+Filters reactive compounds in a cylindrical column at touch range, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -2285,12 +2286,12 @@ Filters chemical in a cylinder at touch range, targeting an individual. It lasts
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 155 W |
 
 ---
 
 **VastBoon**
-Alters mind in a focused beam at touch range, targeting a surface. It persists until the set condition is met.
+Alters mental flux as a focused beam at touch range, affecting a surface, to alter an existing state. It persists until its condition is met.
+| Wattage | 232 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -2301,12 +2302,12 @@ Alters mind in a focused beam at touch range, targeting a surface. It persists u
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 232 W |
 
 ---
 
 **PiercAura**
-Filters mind across a surface within 10 feet, centered on the inscribed location. It lasts up to one minute.
+Filters mental flux across a surface within 10 feet, affecting the inscribed location, to create a new effect. It lasts up to one minute.
+| Wattage | 510 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2317,12 +2318,12 @@ Filters mind across a surface within 10 feet, centered on the inscribed location
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 510 W |
 
 ---
 
 **GuardPulse**
-Constrains binding in a ring within 10 feet, targeting an object. It lasts up to one hour.
+Constrains binding force in a circular ring within 10 feet, affecting an object, to create a new effect. It lasts up to one hour.
+| Wattage | 247 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -2333,12 +2334,12 @@ Constrains binding in a ring within 10 feet, targeting an object. It lasts up to
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 247 W |
 
 ---
 
 **SlowCrown**
-Counters mind across a surface within 10 feet, targeting a surface. It lasts up to one hour.
+Counters mental flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
 | Mode | Control |
@@ -2349,12 +2350,12 @@ Counters mind across a surface within 10 feet, targeting a surface. It lasts up 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 235 W |
 
 ---
 
 **AnchorMark**
-Releases mind in a focused beam within 50 feet, targeting a surface.
+Releases mental flux as a focused beam within 50 feet, affecting a surface, to create a new effect.
+| Wattage | 225 W |
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2365,12 +2366,12 @@ Releases mind in a focused beam within 50 feet, targeting a surface.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-| Wattage | 225 W |
 
 ---
 
 **ReleaseDream**
-Filters binding in a ring at touch range, targeting an object.
+Filters binding force in a circular ring at touch range, affecting an object, to create a new effect.
+| Wattage | 219 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -2381,12 +2382,12 @@ Filters binding in a ring at touch range, targeting an object.
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 219 W |
 
 ---
 
 **BindChain**
-Detects binding in a ring within 10 feet, targeting an individual. It lasts up to one hour.
+Detects binding force in a circular ring within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 133 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Control |
@@ -2397,12 +2398,12 @@ Detects binding in a ring within 10 feet, targeting an individual. It lasts up t
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 133 W |
 
 ---
 
 **FreezeFlame**
-Constrains binding in a ring within 10 feet, targeting an individual. It lasts up to one hour.
+Constrains binding force in a circular ring within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+| Wattage | 253 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -2413,12 +2414,12 @@ Constrains binding in a ring within 10 feet, targeting an individual. It lasts u
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 253 W |
 
 ---
 
 **FlowThread**
-Counters binding in a cylinder within 10 feet, centered on the inscribed location. It persists while actively sustained.
+Counters binding force in a cylindrical column within 10 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+| Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -2429,12 +2430,12 @@ Counters binding in a cylinder within 10 feet, centered on the inscribed locatio
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 235 W |
 
 ---
 
 **CalmWisp**
-Constrains chemical in a cylinder at touch range, targeting an individual. It persists while actively sustained.
+Constrains reactive compounds in a cylindrical column at touch range, affecting an individual, to create a new effect. It persists while actively sustained.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -2445,12 +2446,12 @@ Constrains chemical in a cylinder at touch range, targeting an individual. It pe
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 140 W |
 
 ---
 
 **AnchorScar**
-Counters chemical in a focused beam at touch range, targeting an object. It lasts up to one hour.
+Counters reactive compounds as a focused beam at touch range, affecting an object, to alter an existing state. It lasts up to one hour.
+| Wattage | 134 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -2461,12 +2462,12 @@ Counters chemical in a focused beam at touch range, targeting an object. It last
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 134 W |
 
 ---
 
 **SlowKnot**
-Shields against mind in a focused beam at touch range, targeting a surface. It persists while actively sustained.
+Shields against mental flux as a focused beam at touch range, affecting a surface, to create a new effect. It persists while actively sustained.
+| Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -2477,12 +2478,12 @@ Shields against mind in a focused beam at touch range, targeting a surface. It p
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 522 W |
 
 ---
 
 **ReleasMirror**
-Detects electric in a ring within 10 feet, targeting a surface. It persists while actively sustained.
+Detects electrical charge in a circular ring within 10 feet, affecting a surface, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -2493,12 +2494,12 @@ Detects electric in a ring within 10 feet, targeting a surface. It persists whil
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 135 W |
 
 ---
 
 **KindleCurse**
-Releases mind in a ring within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Releases mental flux in a circular ring within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+| Wattage | 240 W |
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2509,12 +2510,12 @@ Releases mind in a ring within 50 feet, centered on the inscribed location. It p
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 240 W |
 
 ---
 
 **DissolvHeart**
-Constrains mind across a surface within 50 feet, targeting a surface. It lasts up to one hour.
+Constrains mental flux across a surface within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 245 W |
 | Shape | Square |
 | Hook | Bind |
 | Mode | Control |
@@ -2525,12 +2526,12 @@ Constrains mind across a surface within 50 feet, targeting a surface. It lasts u
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 245 W |
 
 ---
 
 **StillVoice**
-Releases binding across a surface at touch range, targeting an individual. It lasts up to one hour.
+Releases binding force across a surface at touch range, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2541,12 +2542,12 @@ Releases binding across a surface at touch range, targeting an individual. It la
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 235 W |
 
 ---
 
 **DriftShadow**
-Filters mind in a spreading cone within 10 feet, centered on the inscribed location. It persists until the set condition is met.
+Filters mental flux in a spreading cone within 10 feet, affecting the inscribed location, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -2557,12 +2558,12 @@ Filters mind in a spreading cone within 10 feet, centered on the inscribed locat
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 535 W |
 
 ---
 
 **SweepRune**
-Displaces mind in a focused beam within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Displaces mental flux as a focused beam within 50 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Move |
 | Mode | Create |
@@ -2573,12 +2574,12 @@ Displaces mind in a focused beam within 50 feet, centered on the inscribed locat
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 230 W |
 
 ---
 
 **WeavBridge**
-Constrains mind across a surface within 10 feet, targeting a surface. It persists until the set condition is met.
+Constrains mental flux across a surface within 10 feet, affecting a surface, to alter an existing state. It persists until its condition is met.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
 | Mode | Affect |
@@ -2589,12 +2590,12 @@ Constrains mind across a surface within 10 feet, targeting a surface. It persist
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 230 W |
 
 ---
 
 **ChillBond**
-Constrains electric in a ring at touch range, targeting a surface. It persists until the set condition is met.
+Constrains electrical charge in a circular ring at touch range, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -2605,12 +2606,12 @@ Constrains electric in a ring at touch range, targeting a surface. It persists u
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 142 W |
 
 ---
 
 **TransformShadow**
-Alters chemical in a ring within 10 feet, targeting a surface. It persists while actively sustained.
+Alters reactive compounds in a circular ring within 10 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -2621,12 +2622,12 @@ Alters chemical in a ring within 10 feet, targeting a surface. It persists while
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 135 W |
 
 ---
 
 **BindTide**
-Releases mind across a surface at touch range, targeting an object. It persists while actively sustained.
+Releases mental flux across a surface at touch range, affecting an object, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 514 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2637,12 +2638,12 @@ Releases mind across a surface at touch range, targeting an object. It persists 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 514 W |
 
 ---
 
 **QuietVoid**
-Releases mind across a surface within 10 feet, targeting an individual. It lasts up to one minute.
+Releases mental flux across a surface within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 518 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Control |
@@ -2653,12 +2654,12 @@ Releases mind across a surface within 10 feet, targeting an individual. It lasts
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 518 W |
 
 ---
 
 **FreezeThought**
-Detects mind across a surface within 10 feet, centered on the inscribed location.
+Detects mental flux across a surface within 10 feet, affecting the inscribed location, to alter an existing state.
+| Wattage | 205 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Affect |
@@ -2669,12 +2670,12 @@ Detects mind across a surface within 10 feet, centered on the inscribed location
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 205 W |
 
 ---
 
 **ReleaseLight**
-Filters binding in a spreading cone within 10 feet, centered on the inscribed location. It lasts up to one hour.
+Filters binding force in a spreading cone within 10 feet, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+| Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -2685,12 +2686,12 @@ Filters binding in a spreading cone within 10 feet, centered on the inscribed lo
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 240 W |
 
 ---
 
 **TransformVeil**
-Alters binding in a spreading cone within 10 feet, targeting an individual. It lasts up to one minute.
+Alters binding force in a spreading cone within 10 feet, affecting an individual, to create a new effect. It lasts up to one minute.
+| Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -2701,12 +2702,12 @@ Alters binding in a spreading cone within 10 feet, targeting an individual. It l
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 228 W |
 
 ---
 
 **HollowCurse**
-Filters binding in a ring within 50 feet, centered on the inscribed location. It lasts up to one hour.
+Filters binding force in a circular ring within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 135 W |
 | Shape | Square |
 | Hook | Filter |
 | Mode | Control |
@@ -2717,12 +2718,12 @@ Filters binding in a ring within 50 feet, centered on the inscribed location. It
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 135 W |
 
 ---
 
 **TransformSeal**
-Releases mind in a cylinder within 10 feet, targeting an object. It lasts up to one minute.
+Releases mental flux in a cylindrical column within 10 feet, affecting an object, to create a new effect. It lasts up to one minute.
+| Wattage | 232 W |
 | Shape | Square |
 | Hook | Emit |
 | Mode | Create |
@@ -2733,12 +2734,12 @@ Releases mind in a cylinder within 10 feet, targeting an object. It lasts up to 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 232 W |
 
 ---
 
 **FreezeTide**
-Displaces binding in a cylinder within 10 feet, targeting an object.
+Displaces binding force in a cylindrical column within 10 feet, affecting an object, to actively regulate the effect.
+| Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -2749,12 +2750,12 @@ Displaces binding in a cylinder within 10 feet, targeting an object.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 227 W |
 
 ---
 
 **LoneTouch**
-Shields against binding in a focused beam within 10 feet, targeting an object.
+Shields against binding force as a focused beam within 10 feet, affecting an object, to create a new effect.
+| Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -2765,12 +2766,12 @@ Shields against binding in a focused beam within 10 feet, targeting an object.
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 212 W |
 
 ---
 
 **RisDoor**
-Filters mind in a focused beam within 10 feet, centered on the inscribed location. It lasts up to one minute.
+Filters mental flux as a focused beam within 10 feet, affecting the inscribed location, to alter an existing state. It lasts up to one minute.
+| Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -2781,12 +2782,12 @@ Filters mind in a focused beam within 10 feet, centered on the inscribed locatio
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 515 W |
 
 ---
 
 **DeepHeart**
-Filters binding across a surface at touch range, targeting an object. It persists while actively sustained.
+Filters binding force across a surface at touch range, affecting an object, to alter an existing state. It persists while actively sustained.
+| Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -2797,12 +2798,12 @@ Filters binding across a surface at touch range, targeting an object. It persist
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 214 W |
 
 ---
 
 **RiseVeil**
-Filters mind in a focused beam within 10 feet, centered on the inscribed location. It persists while actively sustained.
+Filters mental flux as a focused beam within 10 feet, affecting the inscribed location, to create a new effect. It persists while actively sustained.
+| Wattage | 220 W |
 | Shape | Square |
 | Hook | Filter |
 | Mode | Create |
@@ -2813,12 +2814,12 @@ Filters mind in a focused beam within 10 feet, centered on the inscribed locatio
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 220 W |
 
 ---
 
 **PiercCrown**
-Filters binding in a spreading cone at touch range, targeting a surface. It persists while actively sustained.
+Filters binding force in a spreading cone at touch range, affecting a surface, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -2829,12 +2830,12 @@ Filters binding in a spreading cone at touch range, targeting a surface. It pers
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 227 W |
 
 ---
 
 **DriftingEye**
-Shields against chemical in a cylinder at touch range, centered on the inscribed location. It persists until the set condition is met.
+Shields against reactive compounds in a cylindrical column at touch range, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+| Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -2845,12 +2846,12 @@ Shields against chemical in a cylinder at touch range, centered on the inscribed
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 142 W |
 
 ---
 
 **CapturCrown**
-Alters mind in a ring at touch range, centered on the inscribed location. It lasts up to one hour.
+Alters mental flux in a circular ring at touch range, affecting the inscribed location, to alter an existing state. It lasts up to one hour.
+| Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
 | Mode | Affect |
@@ -2861,12 +2862,12 @@ Alters mind in a ring at touch range, centered on the inscribed location. It las
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 242 W |
 
 ---
 
 **RisePulse**
-Counters mind in a ring within 50 feet, targeting an individual.
+Counters mental flux in a circular ring within 50 feet, affecting an individual, to alter an existing state.
+| Wattage | 238 W |
 | Shape | Square |
 | Hook | Counter |
 | Mode | Affect |
@@ -2877,12 +2878,12 @@ Counters mind in a ring within 50 feet, targeting an individual.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-| Wattage | 238 W |
 
 ---
 
 **PureMirror**
-Constrains chemical in a spreading cone within 50 feet, targeting an object. It lasts up to one hour.
+Constrains reactive compounds in a spreading cone within 50 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -2893,12 +2894,12 @@ Constrains chemical in a spreading cone within 50 feet, targeting an object. It 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 152 W |
 
 ---
 
 **CalmTide**
-Releases binding across a surface within 50 feet, centered on the inscribed location.
+Releases binding force across a surface within 50 feet, affecting the inscribed location, to alter an existing state.
+| Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -2909,12 +2910,12 @@ Releases binding across a surface within 50 feet, centered on the inscribed loca
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-| Wattage | 215 W |
 
 ---
 
 **TwinSigil**
-Detects binding in a cylinder within 10 feet, targeting an individual. It lasts up to one hour.
+Detects binding force in a cylindrical column within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+| Wattage | 138 W |
 | Shape | Square |
 | Hook | Sense |
 | Mode | Create |
@@ -2925,12 +2926,12 @@ Detects binding in a cylinder within 10 feet, targeting an individual. It lasts 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 138 W |
 
 ---
 
 **SlowStorm**
-Filters electric in a cylinder within 50 feet, centered on the inscribed location. It lasts up to one hour.
+Filters electrical charge in a cylindrical column within 50 feet, affecting the inscribed location, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 160 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -2941,12 +2942,12 @@ Filters electric in a cylinder within 50 feet, centered on the inscribed locatio
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-| Wattage | 160 W |
 
 ---
 
 **AncientShroud**
-Alters binding in a cylinder at touch range, targeting an individual. It persists until the set condition is met.
+Alters binding force in a cylindrical column at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 250 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -2957,12 +2958,12 @@ Alters binding in a cylinder at touch range, targeting an individual. It persist
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 250 W |
 
 ---
 
 **KindlGate**
-Filters mind in a focused beam within 10 feet, targeting a surface. It lasts up to one hour.
+Filters mental flux as a focused beam within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -2973,12 +2974,12 @@ Filters mind in a focused beam within 10 feet, targeting a surface. It lasts up 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 540 W |
 
 ---
 
 **ShatterWall**
-Shields against chemical in a spreading cone within 10 feet, targeting an individual. It lasts up to one hour.
+Shields against reactive compounds in a spreading cone within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 148 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -2989,12 +2990,12 @@ Shields against chemical in a spreading cone within 10 feet, targeting an indivi
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 148 W |
 
 ---
 
 **GrandVoice**
-Constrains mind in a spreading cone at touch range, targeting an object.
+Constrains mental flux in a spreading cone at touch range, affecting an object, to actively regulate the effect.
+| Wattage | 214 W |
 | Shape | Square |
 | Hook | Bind |
 | Mode | Control |
@@ -3005,12 +3006,12 @@ Constrains mind in a spreading cone at touch range, targeting an object.
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 214 W |
 
 ---
 
 **SurgeBrand**
-Shields against binding in a spreading cone within 10 feet, targeting an object. It persists while actively sustained.
+Shields against binding force in a spreading cone within 10 feet, affecting an object, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -3021,12 +3022,12 @@ Shields against binding in a spreading cone within 10 feet, targeting an object.
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 227 W |
 
 ---
 
 **LightBond**
-Counters chemical in a ring within 50 feet, centered on the inscribed location. It persists while actively sustained.
+Counters reactive compounds in a circular ring within 50 feet, affecting the inscribed location, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -3037,12 +3038,12 @@ Counters chemical in a ring within 50 feet, centered on the inscribed location. 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-| Wattage | 140 W |
 
 ---
 
 **PureFrost**
-Constrains mind in a focused beam within 10 feet, centered on the inscribed location. It persists until the set condition is met.
+Constrains mental flux as a focused beam within 10 feet, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+| Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3053,12 +3054,12 @@ Constrains mind in a focused beam within 10 feet, centered on the inscribed loca
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 230 W |
 
 ---
 
 **SweepStorm**
-Constrains mind in a ring within 10 feet, centered on the inscribed location. It lasts up to one minute.
+Constrains mental flux in a circular ring within 10 feet, affecting the inscribed location, to create a new effect. It lasts up to one minute.
+| Wattage | 225 W |
 | Shape | Square |
 | Hook | Bind |
 | Mode | Create |
@@ -3069,12 +3070,12 @@ Constrains mind in a ring within 10 feet, centered on the inscribed location. It
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-| Wattage | 225 W |
 
 ---
 
 **WeavAura**
-Alters electric in a ring at touch range, targeting an individual. It persists until the set condition is met.
+Alters electrical charge in a circular ring at touch range, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -3085,12 +3086,12 @@ Alters electric in a ring at touch range, targeting an individual. It persists u
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 145 W |
 
 ---
 
 **BindWisp**
-Detects mind in a spreading cone at touch range, centered on the inscribed location. It persists until the set condition is met.
+Detects mental flux in a spreading cone at touch range, affecting the inscribed location, to create a new effect. It persists until its condition is met.
+| Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Create |
@@ -3101,12 +3102,12 @@ Detects mind in a spreading cone at touch range, centered on the inscribed locat
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-| Wattage | 532 W |
 
 ---
 
 **CalmBrand**
-Detects chemical in a spreading cone within 50 feet, targeting a surface. It lasts up to one minute.
+Detects reactive compounds in a spreading cone within 50 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -3117,12 +3118,12 @@ Detects chemical in a spreading cone within 50 feet, targeting a surface. It las
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 135 W |
 
 ---
 
 **BindWay**
-Filters binding in a cylinder at touch range, targeting an object. It persists until the set condition is met.
+Filters binding force in a cylindrical column at touch range, affecting an object, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 244 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -3133,12 +3134,12 @@ Filters binding in a cylinder at touch range, targeting an object. It persists u
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 244 W |
 
 ---
 
 **StraightBoon**
-Constrains chemical in a ring within 50 feet, targeting an individual. It persists until the set condition is met.
+Constrains reactive compounds in a circular ring within 50 feet, affecting an individual, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 158 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -3149,12 +3150,12 @@ Constrains chemical in a ring within 50 feet, targeting an individual. It persis
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 158 W |
 
 ---
 
 **BreakShell**
-Shields against binding across a surface at touch range, targeting an object. It lasts up to one hour.
+Shields against binding force across a surface at touch range, affecting an object, to create a new effect. It lasts up to one hour.
+| Wattage | 229 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -3165,12 +3166,12 @@ Shields against binding across a surface at touch range, targeting an object. It
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 229 W |
 
 ---
 
 **CalmTouch**
-Counters binding in a spreading cone within 50 feet, targeting an object.
+Counters binding force in a spreading cone within 50 feet, affecting an object, to actively regulate the effect.
+| Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -3181,12 +3182,12 @@ Counters binding in a spreading cone within 50 feet, targeting an object.
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Object |
-| Wattage | 227 W |
 
 ---
 
 **SurCurse**
-Releases binding across a surface within 10 feet, targeting a surface. It lasts up to one minute.
+Releases binding force across a surface within 10 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+| Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Affect |
@@ -3197,8 +3198,3 @@ Releases binding across a surface within 10 feet, targeting a surface. It lasts 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 215 W |
-
----
-
-

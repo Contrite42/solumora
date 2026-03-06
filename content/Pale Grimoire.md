@@ -2,7 +2,8 @@ Pale spells require [[Control Tier]] T9 and represent effects that brush against
 
 _Return to [[All Grimoire]]_
 **SweepBreath**
-Constrains soul in a sphere at line of sight, targeting an individual. It is permanent once established.
+Constrains soul flux in a spherical radius at line of sight, affecting an individual, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 498339 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -13,12 +14,12 @@ Constrains soul in a sphere at line of sight, targeting an individual. It is per
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Individual |
-| Wattage | 498339 W |
 
 ---
 
 **FierceAura**
-Releases soul across a field at line of sight, targeting a filtered set. It is permanent once established.
+Releases soul flux across a defined field at line of sight, affecting a filtered set, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 203008 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -29,12 +30,12 @@ Releases soul across a field at line of sight, targeting a filtered set. It is p
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Filter |
-| Wattage | 203008 W |
 
 ---
 
 **SwiftDoor**
-Detects soul across a field at line of sight, targeting an individual. It remains latched until dismissed.
+Detects soul flux across a defined field at line of sight, affecting an individual, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 216179 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -45,12 +46,12 @@ Detects soul across a field at line of sight, targeting an individual. It remain
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Individual |
-| Wattage | 216179 W |
 
 ---
 
 **KindlFlame**
-Displaces soul in a sphere at line of sight, targeting an individual. It remains latched until dismissed.
+Displaces soul flux in a spherical radius at line of sight, affecting an individual, to create a new effect. It remains latched until dismissed.
+| Wattage | 244940 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -61,12 +62,12 @@ Displaces soul in a sphere at line of sight, targeting an individual. It remains
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Individual |
-| Wattage | 244940 W |
 
 ---
 
 **GuardShroud**
-Filters soul across a field at line of sight, targeting an individual. It is permanent once established.
+Filters soul flux across a defined field at line of sight, affecting an individual, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 226953 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -77,12 +78,12 @@ Filters soul across a field at line of sight, targeting an individual. It is per
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Individual |
-| Wattage | 226953 W |
 
 ---
 
 **TwinBridge**
-Shields against soul across a field through a linked anchor, targeting a group. It remains latched until dismissed.
+Shields against soul flux across a defined field through a linked anchor, affecting a group, to create a new effect. It remains latched until dismissed.
+| Wattage | 382824 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -93,12 +94,12 @@ Shields against soul across a field through a linked anchor, targeting a group. 
 | Reach | Linked |
 | Persistence | Latched |
 | Target | Group |
-| Wattage | 382824 W |
 
 ---
 
 **FallWeb**
-Detects soul in a sphere through a linked anchor, targeting an individual. It is permanent once established.
+Detects soul flux in a spherical radius through a linked anchor, affecting an individual, to create a new effect. It establishes a permanent effect.
+| Wattage | 445675 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -109,12 +110,12 @@ Detects soul in a sphere through a linked anchor, targeting an individual. It is
 | Reach | Linked |
 | Persistence | Permanent |
 | Target | Individual |
-| Wattage | 445675 W |
 
 ---
 
 **BurningGlyph**
-Detects soul across a field at line of sight, targeting a group. It is permanent once established.
+Detects soul flux across a defined field at line of sight, affecting a group, to create a new effect. It establishes a permanent effect.
+| Wattage | 481260 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -125,12 +126,12 @@ Detects soul across a field at line of sight, targeting a group. It is permanent
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 481260 W |
 
 ---
 
 **SlowSilence**
-Displaces soul across a field at line of sight, targeting a group. It is permanent once established.
+Displaces soul flux across a defined field at line of sight, affecting a group, to alter an existing state. It establishes a permanent effect.
+| Wattage | 457377 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -141,12 +142,12 @@ Displaces soul across a field at line of sight, targeting a group. It is permane
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 457377 W |
 
 ---
 
 **StillGate**
-Displaces soul in a sphere at line of sight, targeting a filtered set. It remains latched until dismissed.
+Displaces soul flux in a spherical radius at line of sight, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 367727 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -157,12 +158,12 @@ Displaces soul in a sphere at line of sight, targeting a filtered set. It remain
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Filter |
-| Wattage | 367727 W |
 
 ---
 
 **DissolveScar**
-Shields against soul across a field through a linked anchor, targeting an individual. It is permanent once established.
+Shields against soul flux across a defined field through a linked anchor, affecting an individual, to create a new effect. It establishes a permanent effect.
+| Wattage | 283512 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -173,12 +174,12 @@ Shields against soul across a field through a linked anchor, targeting an indivi
 | Reach | Linked |
 | Persistence | Permanent |
 | Target | Individual |
-| Wattage | 283512 W |
 
 ---
 
 **CalmBond**
-Alters soul in a sphere at line of sight, targeting a group. It is permanent once established.
+Alters soul flux in a spherical radius at line of sight, affecting a group, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 206135 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -189,8 +190,3 @@ Alters soul in a sphere at line of sight, targeting a group. It is permanent onc
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 206135 W |
-
----
-
-

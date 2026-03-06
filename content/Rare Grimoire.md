@@ -2,7 +2,8 @@ Rare spells require [[Control Tier]] T5–T6 and are the exclusive territory of 
 
 _Return to [[All Grimoire]]_
 **FallTouch**
-Filters soul across a surface within 50 feet, targeting a filtered set. It lasts up to one hour.
+Filters soul flux across a surface within 50 feet, affecting a filtered set, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 1600 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -13,12 +14,12 @@ Filters soul across a surface within 50 feet, targeting a filtered set. It lasts
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Filter |
-| Wattage | 1600 W |
 
 ---
 
 **AnchorShadow**
-Constrains soul in a spreading cone within 200 feet, targeting a group. It persists until the set condition is met.
+Constrains soul flux in a spreading cone within 200 feet, affecting a group, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Control |
@@ -29,12 +30,12 @@ Constrains soul in a spreading cone within 200 feet, targeting a group. It persi
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 1605 W |
 
 ---
 
 **GuardSeal**
-Releases mind in a focused beam within 10 feet, targeting an object. It persists until the set condition is met.
+Releases mental flux as a focused beam within 10 feet, affecting an object, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 1407 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -45,12 +46,12 @@ Releases mind in a focused beam within 10 feet, targeting an object. It persists
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 1407 W |
 
 ---
 
 **SurgeFrost**
-Constrains soul in a cylinder within 200 feet, targeting an object. It lasts up to one hour.
+Constrains soul flux in a cylindrical column within 200 feet, affecting an object, to create a new effect. It lasts up to one hour.
+| Wattage | 4212 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -61,12 +62,12 @@ Constrains soul in a cylinder within 200 feet, targeting an object. It lasts up 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 4212 W |
 
 ---
 
 **CalmSigil**
-Counters soul in a sphere within 200 feet, targeting an individual. It persists while actively sustained.
+Counters soul flux in a spherical radius within 200 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+| Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -77,12 +78,12 @@ Counters soul in a sphere within 200 feet, targeting an individual. It persists 
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 4213 W |
 
 ---
 
 **ChillFrost**
-Filters soul across a surface within 10 feet, targeting a surface. It remains latched until dismissed.
+Filters soul flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -93,12 +94,12 @@ Filters soul across a surface within 10 feet, targeting a surface. It remains la
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Surface |
-| Wattage | 4175 W |
 
 ---
 
 **SurgeDream**
-Alters soul in a spreading cone within 200 feet, targeting an object. It lasts up to one minute.
+Alters soul flux in a spreading cone within 200 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+| Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -109,12 +110,12 @@ Alters soul in a spreading cone within 200 feet, targeting an object. It lasts u
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 1557 W |
 
 ---
 
 **LoneFlame**
-Counters mind across a surface within 50 feet, targeting a group. It is permanent once established.
+Counters mental flux across a surface within 50 feet, affecting a group, to create a new effect. It establishes a permanent effect.
+| Wattage | 1825 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -125,12 +126,12 @@ Counters mind across a surface within 50 feet, targeting a group. It is permanen
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 1825 W |
 
 ---
 
 **BreakScar**
-Manipulates soul in a sphere within 10 feet, targeting an object. It persists until the set condition is met.
+Manipulates soul flux in a spherical radius within 10 feet, affecting an object, to create a new effect. It persists until its condition is met.
+| Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Create |
@@ -141,12 +142,12 @@ Manipulates soul in a sphere within 10 feet, targeting an object. It persists un
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 1557 W |
 
 ---
 
 **PiercBreath**
-Shields against mind in a focused beam within 10 feet, targeting an individual. It remains latched until dismissed.
+Shields against mental flux as a focused beam within 10 feet, affecting an individual, to create a new effect. It remains latched until dismissed.
+| Wattage | 1433 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -157,12 +158,12 @@ Shields against mind in a focused beam within 10 feet, targeting an individual. 
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Individual |
-| Wattage | 1433 W |
 
 ---
 
 **PierceBrand**
-Manipulates soul in a cylinder within 50 feet, targeting a filtered set. It is permanent once established.
+Manipulates soul flux in a cylindrical column within 50 feet, affecting a filtered set, to alter an existing state. It establishes a permanent effect.
+| Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Affect |
@@ -173,12 +174,12 @@ Manipulates soul in a cylinder within 50 feet, targeting a filtered set. It is p
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
-| Wattage | 1995 W |
 
 ---
 
 **WildGate**
-Filters mind across a surface within 50 feet, targeting a surface. It is permanent once established.
+Filters mental flux across a surface within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 1795 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -189,12 +190,12 @@ Filters mind across a surface within 50 feet, targeting a surface. It is permane
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-| Wattage | 1795 W |
 
 ---
 
 **FlowThought**
-Shields against soul in a focused beam within 200 feet, targeting an object. It is permanent once established.
+Shields against soul flux as a focused beam within 200 feet, affecting an object, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 1947 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -205,12 +206,12 @@ Shields against soul in a focused beam within 200 feet, targeting an object. It 
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
-| Wattage | 1947 W |
 
 ---
 
 **LoudVoid**
-Displaces soul across a surface within 10 feet, targeting a filtered set. It remains latched until dismissed.
+Displaces soul flux across a surface within 10 feet, affecting a filtered set, to alter an existing state. It remains latched until dismissed.
+| Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -221,12 +222,12 @@ Displaces soul across a surface within 10 feet, targeting a filtered set. It rem
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
-| Wattage | 1605 W |
 
 ---
 
 **AnchorPulse**
-Alters soul in a focused beam within 10 feet, targeting a filtered set. It lasts up to one minute.
+Alters soul flux as a focused beam within 10 feet, affecting a filtered set, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 4200 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -237,12 +238,12 @@ Alters soul in a focused beam within 10 feet, targeting a filtered set. It lasts
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Filter |
-| Wattage | 4200 W |
 
 ---
 
 **DissolvPath**
-Constrains soul in a cylinder within 10 feet, targeting a group. It lasts up to one hour.
+Constrains soul flux in a cylindrical column within 10 feet, affecting a group, to alter an existing state. It lasts up to one hour.
+| Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Affect |
@@ -253,12 +254,12 @@ Constrains soul in a cylinder within 10 feet, targeting a group. It lasts up to 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
-| Wattage | 1585 W |
 
 ---
 
 **ShatterBrand**
-Constrains mind in a ring within 50 feet, targeting a surface. It lasts up to one minute.
+Constrains mental flux in a circular ring within 50 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+| Wattage | 1415 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -269,12 +270,12 @@ Constrains mind in a ring within 50 feet, targeting a surface. It lasts up to on
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 1415 W |
 
 ---
 
 **LightGlyph**
-Displaces mind in a sphere within 10 feet, targeting an object. It lasts up to one minute.
+Displaces mental flux in a spherical radius within 10 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 1417 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -285,12 +286,12 @@ Displaces mind in a sphere within 10 feet, targeting an object. It lasts up to o
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 1417 W |
 
 ---
 
 **AnchorFlame**
-Filters soul in a spreading cone within 10 feet, targeting an individual. It persists while actively sustained.
+Filters soul flux in a spreading cone within 10 feet, affecting an individual, to alter an existing state. It persists while actively sustained.
+| Wattage | 4158 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -301,12 +302,12 @@ Filters soul in a spreading cone within 10 feet, targeting an individual. It per
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 4158 W |
 
 ---
 
 **SurgeMark**
-Alters soul in a spreading cone within 200 feet, targeting an individual. It lasts up to one minute.
+Alters soul flux in a spreading cone within 200 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 1563 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Control |
@@ -317,12 +318,12 @@ Alters soul in a spreading cone within 200 feet, targeting an individual. It las
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 1563 W |
 
 ---
 
 **TransformPulse**
-Detects soul in a spreading cone within 200 feet, targeting a surface. It persists while actively sustained.
+Detects soul flux in a spreading cone within 200 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+| Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -333,12 +334,12 @@ Detects soul in a spreading cone within 200 feet, targeting a surface. It persis
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 1565 W |
 
 ---
 
 **CaptureLight**
-Counters soul across a surface within 10 feet, targeting a group. It lasts up to one hour.
+Counters soul flux across a surface within 10 feet, affecting a group, to create a new effect. It lasts up to one hour.
+| Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Create |
@@ -349,12 +350,12 @@ Counters soul across a surface within 10 feet, targeting a group. It lasts up to
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
-| Wattage | 1565 W |
 
 ---
 
 **CurvedKey**
-Counters mind in a spreading cone within 200 feet, targeting a filtered set. It persists while actively sustained.
+Counters mental flux in a spreading cone within 200 feet, affecting a filtered set, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -365,12 +366,12 @@ Counters mind in a spreading cone within 200 feet, targeting a filtered set. It 
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Filter |
-| Wattage | 1495 W |
 
 ---
 
 **FreezeFlame**
-Releases soul in a focused beam within 50 feet, targeting a group. It remains latched until dismissed.
+Releases soul flux as a focused beam within 50 feet, affecting a group, to create a new effect. It remains latched until dismissed.
+| Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Emit |
 | Mode | Create |
@@ -381,12 +382,12 @@ Releases soul in a focused beam within 50 feet, targeting a group. It remains la
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
-| Wattage | 1595 W |
 
 ---
 
 **TransformDance**
-Detects soul in a sphere within 200 feet, targeting a group. It remains latched until dismissed.
+Detects soul flux in a spherical radius within 200 feet, affecting a group, to create a new effect. It remains latched until dismissed.
+| Wattage | 4270 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -397,12 +398,12 @@ Detects soul in a sphere within 200 feet, targeting a group. It remains latched 
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
-| Wattage | 4270 W |
 
 ---
 
 **SurSeal**
-Counters mind in a focused beam within 200 feet, targeting a group. It remains latched until dismissed.
+Counters mental flux as a focused beam within 200 feet, affecting a group, to alter an existing state. It remains latched until dismissed.
+| Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -413,12 +414,12 @@ Counters mind in a focused beam within 200 feet, targeting a group. It remains l
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
-| Wattage | 1495 W |
 
 ---
 
 **HeavyRoot**
-Detects mind in a focused beam within 10 feet, targeting an object. It lasts up to one minute.
+Detects mental flux as a focused beam within 10 feet, affecting an object, to alter an existing state. It lasts up to one minute.
+| Wattage | 1392 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -429,12 +430,12 @@ Detects mind in a focused beam within 10 feet, targeting an object. It lasts up 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 1392 W |
 
 ---
 
 **DriftBridge**
-Displaces mind in a cylinder within 200 feet, targeting a group. It lasts up to one hour.
+Displaces mental flux in a cylindrical column within 200 feet, affecting a group, to alter an existing state. It lasts up to one hour.
+| Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -445,12 +446,12 @@ Displaces mind in a cylinder within 200 feet, targeting a group. It lasts up to 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
-| Wattage | 1495 W |
 
 ---
 
 **PierceShadow**
-Constrains soul in a ring within 10 feet, targeting an object. It persists while actively sustained.
+Constrains soul flux in a circular ring within 10 feet, affecting an object, to create a new effect. It persists while actively sustained.
+| Wattage | 1532 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -461,12 +462,12 @@ Constrains soul in a ring within 10 feet, targeting an object. It persists while
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 1532 W |
 
 ---
 
 **ReleasMark**
-Displaces soul in a spreading cone within 50 feet, targeting an individual. It lasts up to one hour.
+Displaces soul flux in a spreading cone within 50 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+| Wattage | 4183 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -477,12 +478,12 @@ Displaces soul in a spreading cone within 50 feet, targeting an individual. It l
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 4183 W |
 
 ---
 
 **AncientFrost**
-Constrains mind in a focused beam within 10 feet, targeting an individual. It lasts up to one hour.
+Constrains mental flux as a focused beam within 10 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+| Wattage | 1418 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -493,12 +494,12 @@ Constrains mind in a focused beam within 10 feet, targeting an individual. It la
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 1418 W |
 
 ---
 
 **FreezeDance**
-Manipulates soul in a sphere within 10 feet, targeting a filtered set. It is permanent once established.
+Manipulates soul flux in a spherical radius within 10 feet, affecting a filtered set, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -509,12 +510,12 @@ Manipulates soul in a sphere within 10 feet, targeting a filtered set. It is per
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Filter |
-| Wattage | 1995 W |
 
 ---
 
 **CalmScar**
-Manipulates soul in a sphere within 50 feet, targeting a surface. It is permanent once established.
+Manipulates soul flux in a spherical radius within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -525,12 +526,12 @@ Manipulates soul in a sphere within 50 feet, targeting a surface. It is permanen
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-| Wattage | 1950 W |
 
 ---
 
 **HiddenLock**
-Manipulates mind in a sphere within 10 feet, targeting a group. It remains latched until dismissed.
+Manipulates mental flux in a spherical radius within 10 feet, affecting a group, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 1485 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -541,12 +542,12 @@ Manipulates mind in a sphere within 10 feet, targeting a group. It remains latch
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Group |
-| Wattage | 1485 W |
 
 ---
 
 **PierceBreath**
-Counters soul across a surface within 200 feet, targeting an individual. It is permanent once established.
+Counters soul flux across a surface within 200 feet, affecting an individual, to alter an existing state. It establishes a permanent effect.
+| Wattage | 4573 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -557,12 +558,12 @@ Counters soul across a surface within 200 feet, targeting an individual. It is p
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Individual |
-| Wattage | 4573 W |
 
 ---
 
 **SweepFlame**
-Manipulates mind in a cylinder within 10 feet, targeting a surface. It lasts up to one minute.
+Manipulates mental flux in a cylindrical column within 10 feet, affecting a surface, to create a new effect. It lasts up to one minute.
+| Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -573,12 +574,12 @@ Manipulates mind in a cylinder within 10 feet, targeting a surface. It lasts up 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 1410 W |
 
 ---
 
 **BurWisp**
-Shields against soul across a surface within 10 feet, targeting an object. It persists while actively sustained.
+Shields against soul flux across a surface within 10 feet, affecting an object, to alter an existing state. It persists while actively sustained.
+| Wattage | 4142 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -589,12 +590,12 @@ Shields against soul across a surface within 10 feet, targeting an object. It pe
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 4142 W |
 
 ---
 
 **AncientSilence**
-Constrains mind in a ring within 10 feet, targeting a surface. It lasts up to one hour.
+Constrains mental flux in a circular ring within 10 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+| Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -605,12 +606,12 @@ Constrains mind in a ring within 10 feet, targeting a surface. It lasts up to on
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 1425 W |
 
 ---
 
 **SteadyGate**
-Counters soul in a spreading cone within 50 feet, targeting a surface. It remains latched until dismissed.
+Counters soul flux in a spreading cone within 50 feet, affecting a surface, to alter an existing state. It remains latched until dismissed.
+| Wattage | 1570 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -621,12 +622,12 @@ Counters soul in a spreading cone within 50 feet, targeting a surface. It remain
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Surface |
-| Wattage | 1570 W |
 
 ---
 
 **BindSight**
-Alters soul in a sphere within 50 feet, targeting a group. It persists while actively sustained.
+Alters soul flux in a spherical radius within 50 feet, affecting a group, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 4215 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
@@ -637,12 +638,12 @@ Alters soul in a sphere within 50 feet, targeting a group. It persists while act
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Group |
-| Wattage | 4215 W |
 
 ---
 
 **PureMirror**
-Constrains soul in a focused beam within 10 feet, targeting a surface. It lasts up to one minute.
+Constrains soul flux as a focused beam within 10 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+| Wattage | 4145 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -653,12 +654,12 @@ Constrains soul in a focused beam within 10 feet, targeting a surface. It lasts 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 4145 W |
 
 ---
 
 **FreezeLight**
-Constrains soul in a focused beam within 50 feet, targeting an individual. It persists while actively sustained.
+Constrains soul flux as a focused beam within 50 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+| Wattage | 1538 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -669,12 +670,12 @@ Constrains soul in a focused beam within 50 feet, targeting an individual. It pe
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 1538 W |
 
 ---
 
 **DullLock**
-Displaces soul in a focused beam within 10 feet, targeting an individual. It lasts up to one minute.
+Displaces soul flux as a focused beam within 10 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 4148 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -685,12 +686,12 @@ Displaces soul in a focused beam within 10 feet, targeting an individual. It las
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 4148 W |
 
 ---
 
 **ShatterBlessing**
-Displaces soul across a surface within 200 feet, targeting an individual. It lasts up to one minute.
+Displaces soul flux across a surface within 200 feet, affecting an individual, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 1553 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -701,12 +702,12 @@ Displaces soul across a surface within 200 feet, targeting an individual. It las
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 1553 W |
 
 ---
 
 **SweepDoor**
-Releases mind in a sphere within 200 feet, targeting an object. It persists while actively sustained.
+Releases mental flux in a spherical radius within 200 feet, affecting an object, to create a new effect. It persists while actively sustained.
+| Wattage | 1457 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -717,12 +718,12 @@ Releases mind in a sphere within 200 feet, targeting an object. It persists whil
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 1457 W |
 
 ---
 
 **ShatterEcho**
-Detects soul in a ring within 200 feet, targeting an object. It lasts up to one hour.
+Detects soul flux in a circular ring within 200 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+| Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -733,12 +734,12 @@ Detects soul in a ring within 200 feet, targeting an object. It lasts up to one 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 1582 W |
 
 ---
 
 **SweepMark**
-Counters soul in a ring within 200 feet, targeting an object. It lasts up to one hour.
+Counters soul flux in a circular ring within 200 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -749,12 +750,12 @@ Counters soul in a ring within 200 feet, targeting an object. It lasts up to one
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 1582 W |
 
 ---
 
 **ColdBreath**
-Displaces soul in a cylinder within 200 feet, targeting a filtered set. It remains latched until dismissed.
+Displaces soul flux in a cylindrical column within 200 feet, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 1660 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Control |
@@ -765,12 +766,12 @@ Displaces soul in a cylinder within 200 feet, targeting a filtered set. It remai
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
-| Wattage | 1660 W |
 
 ---
 
 **PiercMirror**
-Constrains mind across a surface within 50 feet, targeting an object. It is permanent once established.
+Constrains mental flux across a surface within 50 feet, affecting an object, to alter an existing state. It establishes a permanent effect.
+| Wattage | 1792 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -781,12 +782,12 @@ Constrains mind across a surface within 50 feet, targeting an object. It is perm
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
-| Wattage | 1792 W |
 
 ---
 
 **FallStrike**
-Detects soul in a focused beam within 200 feet, targeting a surface. It persists while actively sustained.
+Detects soul flux as a focused beam within 200 feet, affecting a surface, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 1560 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -797,12 +798,12 @@ Detects soul in a focused beam within 200 feet, targeting a surface. It persists
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 1560 W |
 
 ---
 
 **StrongSigil**
-Alters mind in a focused beam within 10 feet, targeting a surface. It is permanent once established.
+Alters mental flux as a focused beam within 10 feet, affecting a surface, to alter an existing state. It establishes a permanent effect.
+| Wattage | 1790 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -813,12 +814,12 @@ Alters mind in a focused beam within 10 feet, targeting a surface. It is permane
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-| Wattage | 1790 W |
 
 ---
 
 **LightVeil**
-Counters mind across a surface within 50 feet, targeting a filtered set. It persists while actively sustained.
+Counters mental flux across a surface within 50 feet, affecting a filtered set, to create a new effect. It persists while actively sustained.
+| Wattage | 1460 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -829,12 +830,12 @@ Counters mind across a surface within 50 feet, targeting a filtered set. It pers
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
-| Wattage | 1460 W |
 
 ---
 
 **TwistDream**
-Filters mind across a surface within 50 feet, targeting a filtered set. It is permanent once established.
+Filters mental flux across a surface within 50 feet, affecting a filtered set, to create a new effect. It establishes a permanent effect.
+| Wattage | 1850 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Create |
@@ -845,12 +846,12 @@ Filters mind across a surface within 50 feet, targeting a filtered set. It is pe
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
-| Wattage | 1850 W |
 
 ---
 
 **DissolvFrost**
-Filters mind in a sphere within 50 feet, targeting an individual. It persists while actively sustained.
+Filters mental flux in a spherical radius within 50 feet, affecting an individual, to alter an existing state. It persists while actively sustained.
+| Wattage | 1438 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -861,12 +862,12 @@ Filters mind in a sphere within 50 feet, targeting an individual. It persists wh
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 1438 W |
 
 ---
 
 **WeakVeil**
-Detects soul in a sphere within 50 feet, targeting an object. It remains latched until dismissed.
+Detects soul flux in a spherical radius within 50 feet, affecting an object, to alter an existing state. It remains latched until dismissed.
+| Wattage | 1587 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Affect |
@@ -877,12 +878,12 @@ Detects soul in a sphere within 50 feet, targeting an object. It remains latched
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
-| Wattage | 1587 W |
 
 ---
 
 **BurnRoad**
-Shields against mind across a surface within 200 feet, targeting a surface. It lasts up to one minute.
+Shields against mental flux across a surface within 200 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -893,12 +894,12 @@ Shields against mind across a surface within 200 feet, targeting a surface. It l
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 1425 W |
 
 ---
 
 **TransformRing**
-Filters soul in a cylinder within 10 feet, targeting an individual. It is permanent once established.
+Filters soul flux in a cylindrical column within 10 feet, affecting an individual, to alter an existing state. It establishes a permanent effect.
+| Wattage | 4558 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -909,12 +910,12 @@ Filters soul in a cylinder within 10 feet, targeting an individual. It is perman
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Individual |
-| Wattage | 4558 W |
 
 ---
 
 **FallThought**
-Detects soul in a spreading cone within 200 feet, targeting an object. It lasts up to one hour.
+Detects soul flux in a spreading cone within 200 feet, affecting an object, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 1577 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -925,12 +926,12 @@ Detects soul in a spreading cone within 200 feet, targeting an object. It lasts 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 1577 W |
 
 ---
 
 **StillVoid**
-Releases soul in a sphere within 200 feet, targeting an individual. It persists while actively sustained.
+Releases soul flux in a spherical radius within 200 feet, affecting an individual, to create a new effect. It persists while actively sustained.
+| Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -941,12 +942,12 @@ Releases soul in a sphere within 200 feet, targeting an individual. It persists 
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 4213 W |
 
 ---
 
 **ChillRoad**
-Constrains mind in a cylinder within 10 feet, targeting a surface. It lasts up to one minute.
+Constrains mental flux in a cylindrical column within 10 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+| Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Affect |
@@ -957,12 +958,12 @@ Constrains mind in a cylinder within 10 feet, targeting a surface. It lasts up t
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 1410 W |
 
 ---
 
 **StillBreath**
-Releases soul in a focused beam within 200 feet, targeting a group. It persists until the set condition is met.
+Releases soul flux as a focused beam within 200 feet, affecting a group, to create a new effect. It persists until its condition is met.
+| Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -973,12 +974,12 @@ Releases soul in a focused beam within 200 feet, targeting a group. It persists 
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 4225 W |
 
 ---
 
 **BreakFlame**
-Filters mind in a focused beam within 200 feet, targeting an individual. It lasts up to one hour.
+Filters mental flux as a focused beam within 200 feet, affecting an individual, to alter an existing state. It lasts up to one hour.
+| Wattage | 1453 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -989,12 +990,12 @@ Filters mind in a focused beam within 200 feet, targeting an individual. It last
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 1453 W |
 
 ---
 
 **DissolvGlyph**
-Counters soul in a focused beam within 10 feet, targeting a filtered set. It remains latched until dismissed.
+Counters soul flux as a focused beam within 10 feet, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 4235 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -1005,12 +1006,12 @@ Counters soul in a focused beam within 10 feet, targeting a filtered set. It rem
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
-| Wattage | 4235 W |
 
 ---
 
 **VastGlyph**
-Manipulates soul in a focused beam within 50 feet, targeting a filtered set. It persists until the set condition is met.
+Manipulates soul flux as a focused beam within 50 feet, affecting a filtered set, to alter an existing state. It persists until its condition is met.
+| Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -1021,12 +1022,12 @@ Manipulates soul in a focused beam within 50 feet, targeting a filtered set. It 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Filter |
-| Wattage | 4225 W |
 
 ---
 
 **DarkBond**
-Alters soul in a spreading cone within 50 feet, targeting an object. It remains latched until dismissed.
+Alters soul flux in a spreading cone within 50 feet, affecting an object, to alter an existing state. It remains latched until dismissed.
+| Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Affect |
@@ -1037,12 +1038,12 @@ Alters soul in a spreading cone within 50 feet, targeting an object. It remains 
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
-| Wattage | 1567 W |
 
 ---
 
 **WildSpirit**
-Displaces soul in a focused beam within 50 feet, targeting a group. It remains latched until dismissed.
+Displaces soul flux as a focused beam within 50 feet, affecting a group, to alter an existing state. It remains latched until dismissed.
+| Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1053,12 +1054,12 @@ Displaces soul in a focused beam within 50 feet, targeting a group. It remains l
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
-| Wattage | 1595 W |
 
 ---
 
 **BreakWay**
-Filters soul in a focused beam within 10 feet, targeting a group. It lasts up to one minute.
+Filters soul flux as a focused beam within 10 feet, affecting a group, to alter an existing state. It lasts up to one minute.
+| Wattage | 1550 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1069,12 +1070,12 @@ Filters soul in a focused beam within 10 feet, targeting a group. It lasts up to
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
-| Wattage | 1550 W |
 
 ---
 
 **TwistTouch**
-Displaces soul across a surface within 50 feet, targeting a filtered set. It persists while actively sustained.
+Displaces soul flux across a surface within 50 feet, affecting a filtered set, to alter an existing state. It persists while actively sustained.
+| Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Move |
 | Mode | Affect |
@@ -1085,12 +1086,12 @@ Displaces soul across a surface within 50 feet, targeting a filtered set. It per
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
-| Wattage | 1585 W |
 
 ---
 
 **WhirlingSigil**
-Counters soul across a surface within 50 feet, targeting a group. It is permanent once established.
+Counters soul flux across a surface within 50 feet, affecting a group, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Control |
@@ -1101,12 +1102,12 @@ Counters soul across a surface within 50 feet, targeting a group. It is permanen
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 1950 W |
 
 ---
 
 **AncientGlyph**
-Constrains soul in a spreading cone within 200 feet, targeting an individual. It remains latched until dismissed.
+Constrains soul flux in a spreading cone within 200 feet, affecting an individual, to create a new effect. It remains latched until dismissed.
+| Wattage | 1598 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -1117,12 +1118,12 @@ Constrains soul in a spreading cone within 200 feet, targeting an individual. It
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Individual |
-| Wattage | 1598 W |
 
 ---
 
 **StillSpirit**
-Filters soul in a focused beam within 200 feet, targeting a surface. It remains latched until dismissed.
+Filters soul flux as a focused beam within 200 feet, affecting a surface, to create a new effect. It remains latched until dismissed.
+| Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -1133,12 +1134,12 @@ Filters soul in a focused beam within 200 feet, targeting a surface. It remains 
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
-| Wattage | 1590 W |
 
 ---
 
 **BindMark**
-Manipulates soul across a surface within 10 feet, targeting a surface. It persists until the set condition is met.
+Manipulates soul flux across a surface within 10 feet, affecting a surface, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 4155 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -1149,12 +1150,12 @@ Manipulates soul across a surface within 10 feet, targeting a surface. It persis
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-| Wattage | 4155 W |
 
 ---
 
 **ColdVoid**
-Detects soul across a surface within 10 feet, targeting a group. It persists while actively sustained.
+Detects soul flux across a surface within 10 feet, affecting a group, to create a new effect. It persists while actively sustained.
+| Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -1165,12 +1166,12 @@ Detects soul across a surface within 10 feet, targeting a group. It persists whi
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Group |
-| Wattage | 4175 W |
 
 ---
 
 **SweepCore**
-Constrains mind in a spreading cone within 10 feet, targeting a group. It lasts up to one minute.
+Constrains mental flux in a spreading cone within 10 feet, affecting a group, to create a new effect. It lasts up to one minute.
+| Wattage | 1430 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -1181,12 +1182,12 @@ Constrains mind in a spreading cone within 10 feet, targeting a group. It lasts 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
-| Wattage | 1430 W |
 
 ---
 
 **ShatterBreath**
-Detects soul in a sphere within 50 feet, targeting a surface. It is permanent once established.
+Detects soul flux in a spherical radius within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Sense |
 | Mode | Control |
@@ -1197,12 +1198,12 @@ Detects soul in a sphere within 50 feet, targeting a surface. It is permanent on
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-| Wattage | 1950 W |
 
 ---
 
 **DriftLock**
-Alters soul in a ring within 200 feet, targeting an individual. It lasts up to one hour.
+Alters soul flux in a circular ring within 200 feet, affecting an individual, to create a new effect. It lasts up to one hour.
+| Wattage | 1588 W |
 | Shape | Pentagon |
 | Hook | Transform |
 | Mode | Create |
@@ -1213,12 +1214,12 @@ Alters soul in a ring within 200 feet, targeting an individual. It lasts up to o
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-| Wattage | 1588 W |
 
 ---
 
 **ColdSoul**
-Manipulates mind in a spreading cone within 200 feet, targeting a surface. It lasts up to one minute.
+Manipulates mental flux in a spreading cone within 200 feet, affecting a surface, to create a new effect. It lasts up to one minute.
+| Wattage | 1435 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -1229,12 +1230,12 @@ Manipulates mind in a spreading cone within 200 feet, targeting a surface. It la
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 1435 W |
 
 ---
 
 **BindWard**
-Shields against mind in a ring within 200 feet, targeting an object. It persists while actively sustained.
+Shields against mental flux in a circular ring within 200 feet, affecting an object, to create a new effect. It persists while actively sustained.
+| Wattage | 1442 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -1245,12 +1246,12 @@ Shields against mind in a ring within 200 feet, targeting an object. It persists
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 1442 W |
 
 ---
 
 **FreezeTide**
-Filters soul in a cylinder within 200 feet, targeting an object. It remains latched until dismissed.
+Filters soul flux in a cylindrical column within 200 feet, affecting an object, to create a new effect. It remains latched until dismissed.
+| Wattage | 1602 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Create |
@@ -1261,12 +1262,12 @@ Filters soul in a cylinder within 200 feet, targeting an object. It remains latc
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Object |
-| Wattage | 1602 W |
 
 ---
 
 **SlowCrown**
-Shields against soul in a ring within 200 feet, targeting an object. It is permanent once established.
+Shields against soul flux in a circular ring within 200 feet, affecting an object, to create a new effect. It establishes a permanent effect.
+| Wattage | 1957 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Create |
@@ -1277,12 +1278,12 @@ Shields against soul in a ring within 200 feet, targeting an object. It is perma
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
-| Wattage | 1957 W |
 
 ---
 
 **PierceFrost**
-Filters mind in a ring within 10 feet, targeting an individual. It persists until the set condition is met.
+Filters mental flux in a circular ring within 10 feet, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 1423 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1293,12 +1294,12 @@ Filters mind in a ring within 10 feet, targeting an individual. It persists unti
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 1423 W |
 
 ---
 
 **DissolvCurse**
-Filters soul in a ring within 50 feet, targeting an object. It is permanent once established.
+Filters soul flux in a circular ring within 50 feet, affecting an object, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 4557 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -1309,12 +1310,12 @@ Filters soul in a ring within 50 feet, targeting an object. It is permanent once
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
-| Wattage | 4557 W |
 
 ---
 
 **LoudBond**
-Counters soul in a ring within 50 feet, targeting a surface. It persists while actively sustained.
+Counters soul flux in a circular ring within 50 feet, affecting a surface, to alter an existing state. It persists while actively sustained.
+| Wattage | 1545 W |
 | Shape | Pentagon |
 | Hook | Counter |
 | Mode | Affect |
@@ -1325,12 +1326,12 @@ Counters soul in a ring within 50 feet, targeting a surface. It persists while a
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-| Wattage | 1545 W |
 
 ---
 
 **GuardRoot**
-Detects mind in a ring within 200 feet, targeting a surface. It remains latched until dismissed.
+Detects mental flux in a circular ring within 200 feet, affecting a surface, to alter an existing state. It remains latched until dismissed.
+| Wattage | 1475 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Affect |
@@ -1341,12 +1342,12 @@ Detects mind in a ring within 200 feet, targeting a surface. It remains latched 
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
-| Wattage | 1475 W |
 
 ---
 
 **WeavHand**
-Releases mind in a focused beam within 10 feet, targeting an individual. It persists until the set condition is met.
+Releases mental flux as a focused beam within 10 feet, affecting an individual, to create a new effect. It persists until its condition is met.
+| Wattage | 1413 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -1357,12 +1358,12 @@ Releases mind in a focused beam within 10 feet, targeting an individual. It pers
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 1413 W |
 
 ---
 
 **SolidStorm**
-Filters soul in a cylinder within 200 feet, targeting an object. It lasts up to one minute.
+Filters soul flux in a cylindrical column within 200 feet, affecting an object, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Control |
@@ -1373,12 +1374,12 @@ Filters soul in a cylinder within 200 feet, targeting an object. It lasts up to 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-| Wattage | 1567 W |
 
 ---
 
 **ShallowHalo**
-Displaces soul in a sphere within 200 feet, targeting an individual. It lasts up to one minute.
+Displaces soul flux in a spherical radius within 200 feet, affecting an individual, to create a new effect. It lasts up to one minute.
+| Wattage | 4208 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -1389,12 +1390,12 @@ Displaces soul in a sphere within 200 feet, targeting an individual. It lasts up
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-| Wattage | 4208 W |
 
 ---
 
 **TwinFrost**
-Constrains soul in a spreading cone within 200 feet, targeting a filtered set. It remains latched until dismissed.
+Constrains soul flux in a spreading cone within 200 feet, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 4275 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -1405,12 +1406,12 @@ Constrains soul in a spreading cone within 200 feet, targeting a filtered set. I
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
-| Wattage | 4275 W |
 
 ---
 
 **ClearCurse**
-Filters mind in a spreading cone within 200 feet, targeting an object. It persists until the set condition is met.
+Filters mental flux in a spreading cone within 200 feet, affecting an object, to alter an existing state. It persists until its condition is met.
+| Wattage | 1447 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Affect |
@@ -1421,12 +1422,12 @@ Filters mind in a spreading cone within 200 feet, targeting an object. It persis
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Object |
-| Wattage | 1447 W |
 
 ---
 
 **BindFlame**
-Counters mind in a focused beam within 50 feet, targeting a group. It persists until the set condition is met.
+Counters mental flux as a focused beam within 50 feet, affecting a group, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 1450 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Control |
@@ -1437,12 +1438,12 @@ Counters mind in a focused beam within 50 feet, targeting a group. It persists u
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 1450 W |
 
 ---
 
 **AnchoredGate**
-Detects soul in a sphere within 200 feet, targeting a surface. It lasts up to one minute.
+Detects soul flux in a spherical radius within 200 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -1453,12 +1454,12 @@ Detects soul in a sphere within 200 feet, targeting a surface. It lasts up to on
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 4205 W |
 
 ---
 
 **TwistNet**
-Shields against soul in a cylinder within 200 feet, targeting a surface. It lasts up to one hour.
+Shields against soul flux in a cylindrical column within 200 feet, affecting a surface, to actively regulate the effect. It lasts up to one hour.
+| Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Ward |
 | Mode | Control |
@@ -1469,12 +1470,12 @@ Shields against soul in a cylinder within 200 feet, targeting a surface. It last
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 1590 W |
 
 ---
 
 **AnchorCalm**
-Manipulates mind in a focused beam within 10 feet, targeting a surface. It lasts up to one minute.
+Manipulates mental flux as a focused beam within 10 feet, affecting a surface, to actively regulate the effect. It lasts up to one minute.
+| Wattage | 1395 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Control |
@@ -1485,12 +1486,12 @@ Manipulates mind in a focused beam within 10 feet, targeting a surface. It lasts
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 1395 W |
 
 ---
 
 **SweepPulse**
-Constrains soul across a surface within 50 feet, targeting a group. It lasts up to one minute.
+Constrains soul flux across a surface within 50 feet, affecting a group, to create a new effect. It lasts up to one minute.
+| Wattage | 1555 W |
 | Shape | Pentagon |
 | Hook | Bind |
 | Mode | Create |
@@ -1501,12 +1502,12 @@ Constrains soul across a surface within 50 feet, targeting a group. It lasts up 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
-| Wattage | 1555 W |
 
 ---
 
 **CaptureCurse**
-Filters soul across a surface within 200 feet, targeting an object. It lasts up to one hour.
+Filters soul flux across a surface within 200 feet, affecting an object, to alter an existing state. It lasts up to one hour.
+| Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
 | Mode | Affect |
@@ -1517,12 +1518,12 @@ Filters soul across a surface within 200 feet, targeting an object. It lasts up 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-| Wattage | 1567 W |
 
 ---
 
 **AnchorSeal**
-Detects soul in a spreading cone within 50 feet, targeting a group. It persists until the set condition is met.
+Detects soul flux in a spreading cone within 50 feet, affecting a group, to create a new effect. It persists until its condition is met.
+| Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -1533,12 +1534,12 @@ Detects soul in a spreading cone within 50 feet, targeting a group. It persists 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 4205 W |
 
 ---
 
 **FreezChain**
-Counters soul in a cylinder within 50 feet, targeting a surface. It lasts up to one minute.
+Counters soul flux in a cylindrical column within 50 feet, affecting a surface, to alter an existing state. It lasts up to one minute.
+| Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -1549,12 +1550,12 @@ Counters soul in a cylinder within 50 feet, targeting a surface. It lasts up to 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-| Wattage | 4170 W |
 
 ---
 
 **FallCurse**
-Displaces mind in a spreading cone within 200 feet, targeting an object. It persists while actively sustained.
+Displaces mental flux in a spreading cone within 200 feet, affecting an object, to alter an existing state. It persists while actively sustained.
+| Wattage | 1437 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -1565,12 +1566,12 @@ Displaces mind in a spreading cone within 200 feet, targeting an object. It pers
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
-| Wattage | 1437 W |
 
 ---
 
 **GentleKnot**
-Manipulates soul in a sphere within 50 feet, targeting a surface. It is permanent once established.
+Manipulates soul flux in a spherical radius within 50 feet, affecting a surface, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
 | Mode | Control |
@@ -1581,12 +1582,12 @@ Manipulates soul in a sphere within 50 feet, targeting a surface. It is permanen
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-| Wattage | 1950 W |
 
 ---
 
 **SweepPath**
-Shields against soul in a spreading cone within 10 feet, targeting a surface. It lasts up to one hour.
+Shields against soul flux in a spreading cone within 10 feet, affecting a surface, to create a new effect. It lasts up to one hour.
+| Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -1597,8 +1598,3 @@ Shields against soul in a spreading cone within 10 feet, targeting a surface. It
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-| Wattage | 4170 W |
-
----
-
-

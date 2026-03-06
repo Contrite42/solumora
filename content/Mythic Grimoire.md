@@ -2,7 +2,8 @@ Mythic spells require [[Control Tier]] T9 and represent the upper bound of [[Flu
 
 _Return to [[All Grimoire]]_
 **CapturThread**
-Releases soul in a sphere at line of sight, targeting a group. It is permanent once established.
+Releases soul flux in a spherical radius at line of sight, affecting a group, to actively regulate the effect. It establishes a permanent effect.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -13,12 +14,12 @@ Releases soul in a sphere at line of sight, targeting a group. It is permanent o
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **PaleNet**
-Displaces mind across a field through a linked anchor, targeting a group. It is permanent once established.
+Displaces mental flux across a defined field through a linked anchor, affecting a group, to create a new effect. It establishes a permanent effect.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -29,12 +30,12 @@ Displaces mind across a field through a linked anchor, targeting a group. It is 
 | Reach | Linked |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **ColdPath**
-Counters soul in a sphere at line of sight, targeting an individual. It remains latched until dismissed.
+Counters soul flux in a spherical radius at line of sight, affecting an individual, to create a new effect. It remains latched until dismissed.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Create |
@@ -45,12 +46,12 @@ Counters soul in a sphere at line of sight, targeting an individual. It remains 
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **AncientPath**
-Manipulates soul across a field at line of sight, targeting a group. It persists while actively sustained.
+Manipulates soul flux across a defined field at line of sight, affecting a group, to create a new effect. It persists while actively sustained.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Create |
@@ -61,12 +62,12 @@ Manipulates soul across a field at line of sight, targeting a group. It persists
 | Reach | Line-of-Sight |
 | Persistence | Sustained |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **GentleTouch**
-Counters mind in a sphere at line of sight, targeting a filtered set. It remains latched until dismissed.
+Counters mental flux in a spherical radius at line of sight, affecting a filtered set, to alter an existing state. It remains latched until dismissed.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -77,12 +78,12 @@ Counters mind in a sphere at line of sight, targeting a filtered set. It remains
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Filter |
-| Wattage | 130001 W |
 
 ---
 
 **PiercTouch**
-Alters mind in a sphere through a linked anchor, targeting an individual. It persists until the set condition is met.
+Alters mental flux in a spherical radius through a linked anchor, affecting an individual, to create a new effect. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Create |
@@ -93,12 +94,12 @@ Alters mind in a sphere through a linked anchor, targeting an individual. It per
 | Reach | Linked |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **FallMirror**
-Alters mind across a field at line of sight, targeting an individual. It persists until the set condition is met.
+Alters mental flux across a defined field at line of sight, affecting an individual, to alter an existing state. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -109,12 +110,12 @@ Alters mind across a field at line of sight, targeting an individual. It persist
 | Reach | Line-of-Sight |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **SolidPath**
-Shields against soul in a sphere through a linked anchor, targeting an individual. It persists while actively sustained.
+Shields against soul flux in a spherical radius through a linked anchor, affecting an individual, to alter an existing state. It persists while actively sustained.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -125,12 +126,12 @@ Shields against soul in a sphere through a linked anchor, targeting an individua
 | Reach | Linked |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **FreshHeart**
-Shields against soul in a sphere at line of sight, targeting a filtered set. It remains latched until dismissed.
+Shields against soul flux in a spherical radius at line of sight, affecting a filtered set, to actively regulate the effect. It remains latched until dismissed.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Control |
@@ -141,12 +142,12 @@ Shields against soul in a sphere at line of sight, targeting a filtered set. It 
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Filter |
-| Wattage | 130001 W |
 
 ---
 
 **ShatterBrand**
-Releases soul in a sphere through a linked anchor, targeting an individual. It remains latched until dismissed.
+Releases soul flux in a spherical radius through a linked anchor, affecting an individual, to create a new effect. It remains latched until dismissed.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -157,12 +158,12 @@ Releases soul in a sphere through a linked anchor, targeting an individual. It r
 | Reach | Linked |
 | Persistence | Latched |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **FierceWard**
-Constrains soul in a sphere at line of sight, targeting an individual. It persists until the set condition is met.
+Constrains soul flux in a spherical radius at line of sight, affecting an individual, to create a new effect. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -173,12 +174,12 @@ Constrains soul in a sphere at line of sight, targeting an individual. It persis
 | Reach | Line-of-Sight |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **RisCalm**
-Releases soul across a field through a linked anchor, targeting a group. It persists while actively sustained.
+Releases soul flux across a defined field through a linked anchor, affecting a group, to actively regulate the effect. It persists while actively sustained.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -189,12 +190,12 @@ Releases soul across a field through a linked anchor, targeting a group. It pers
 | Reach | Linked |
 | Persistence | Sustained |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **PaleDoor**
-Alters soul in a sphere at line of sight, targeting a group. It persists until the set condition is met.
+Alters soul flux in a spherical radius at line of sight, affecting a group, to alter an existing state. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -205,12 +206,12 @@ Alters soul in a sphere at line of sight, targeting a group. It persists until t
 | Reach | Line-of-Sight |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **ReleaseBond**
-Detects soul across a field through a linked anchor, targeting a filtered set. It persists while actively sustained.
+Detects soul flux across a defined field through a linked anchor, affecting a filtered set, to create a new effect. It persists while actively sustained.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -221,12 +222,12 @@ Detects soul across a field through a linked anchor, targeting a filtered set. I
 | Reach | Linked |
 | Persistence | Sustained |
 | Target | Filter |
-| Wattage | 130001 W |
 
 ---
 
 **WeaveBlessing**
-Constrains mind across a field through a linked anchor, targeting an individual. It persists until the set condition is met.
+Constrains mental flux across a defined field through a linked anchor, affecting an individual, to create a new effect. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Create |
@@ -237,12 +238,12 @@ Constrains mind across a field through a linked anchor, targeting an individual.
 | Reach | Linked |
 | Persistence | Conditional |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **ReleasBridge**
-Alters mind across a field through a linked anchor, targeting a filtered set. It persists until the set condition is met.
+Alters mental flux across a defined field through a linked anchor, affecting a filtered set, to alter an existing state. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Affect |
@@ -253,12 +254,12 @@ Alters mind across a field through a linked anchor, targeting a filtered set. It
 | Reach | Linked |
 | Persistence | Conditional |
 | Target | Filter |
-| Wattage | 130001 W |
 
 ---
 
 **BurSpirit**
-Filters mind in a sphere through a linked anchor, targeting a group. It persists until the set condition is met.
+Filters mental flux in a spherical radius through a linked anchor, affecting a group, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -269,12 +270,12 @@ Filters mind in a sphere through a linked anchor, targeting a group. It persists
 | Reach | Linked |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **StraightHand**
-Releases soul in a sphere at line of sight, targeting an individual. It remains latched until dismissed.
+Releases soul flux in a spherical radius at line of sight, affecting an individual, to alter an existing state. It remains latched until dismissed.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Affect |
@@ -285,12 +286,12 @@ Releases soul in a sphere at line of sight, targeting an individual. It remains 
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **CalmDream**
-Releases soul across a field through a linked anchor, targeting a filtered set. It persists while actively sustained.
+Releases soul flux across a defined field through a linked anchor, affecting a filtered set, to create a new effect. It persists while actively sustained.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Create |
@@ -301,12 +302,12 @@ Releases soul across a field through a linked anchor, targeting a filtered set. 
 | Reach | Linked |
 | Persistence | Sustained |
 | Target | Filter |
-| Wattage | 130001 W |
 
 ---
 
 **AnchorFrost**
-Releases mind in a sphere at line of sight, targeting a group. It persists until the set condition is met.
+Releases mental flux in a spherical radius at line of sight, affecting a group, to actively regulate the effect. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -317,12 +318,12 @@ Releases mind in a sphere at line of sight, targeting a group. It persists until
 | Reach | Line-of-Sight |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **TransformBreath**
-Counters soul across a field through a linked anchor, targeting a group. It is permanent once established.
+Counters soul flux across a defined field through a linked anchor, affecting a group, to alter an existing state. It establishes a permanent effect.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
 | Mode | Affect |
@@ -333,12 +334,12 @@ Counters soul across a field through a linked anchor, targeting a group. It is p
 | Reach | Linked |
 | Persistence | Permanent |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **HardyCore**
-Filters soul across a field at line of sight, targeting an individual. It persists while actively sustained.
+Filters soul flux across a defined field at line of sight, affecting an individual, to create a new effect. It persists while actively sustained.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Create |
@@ -349,12 +350,12 @@ Filters soul across a field at line of sight, targeting an individual. It persis
 | Reach | Line-of-Sight |
 | Persistence | Sustained |
 | Target | Individual |
-| Wattage | 130001 W |
 
 ---
 
 **NakedRoot**
-Shields against mind across a field through a linked anchor, targeting a group. It persists while actively sustained.
+Shields against mental flux across a defined field through a linked anchor, affecting a group, to alter an existing state. It persists while actively sustained.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Affect |
@@ -365,12 +366,12 @@ Shields against mind across a field through a linked anchor, targeting a group. 
 | Reach | Linked |
 | Persistence | Sustained |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **RiseMark**
-Displaces soul across a field through a linked anchor, targeting a group. It remains latched until dismissed.
+Displaces soul flux across a defined field through a linked anchor, affecting a group, to create a new effect. It remains latched until dismissed.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -381,12 +382,12 @@ Displaces soul across a field through a linked anchor, targeting a group. It rem
 | Reach | Linked |
 | Persistence | Latched |
 | Target | Group |
-| Wattage | 130001 W |
 
 ---
 
 **DriftFrost**
-Manipulates soul in a sphere at line of sight, targeting a group. It persists until the set condition is met.
+Manipulates soul flux in a spherical radius at line of sight, affecting a group, to alter an existing state. It persists until its condition is met.
+| Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Control |
 | Mode | Affect |
@@ -397,8 +398,3 @@ Manipulates soul in a sphere at line of sight, targeting a group. It persists un
 | Reach | Line-of-Sight |
 | Persistence | Conditional |
 | Target | Group |
-| Wattage | 130001 W |
-
----
-
-
