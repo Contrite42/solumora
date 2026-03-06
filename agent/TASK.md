@@ -1,24 +1,23 @@
-# Task: Rural Backbone Expansion
+# Task: Desert Edge Culture Expansion
 
 ## Goal
-Build the **Rural Backbone** that feeds the cities. Terravelle and Auralis both have urban centers but rural life is conceptual. Need farming communities with names, resource extraction settlements, supply chains that actually connect to documented trade routes.
+Develop the **Desert Edge Culture** — settlements along the Zakros boundary that aren't military garrisons. Halveth is documented but there should be 4-6 other border settlements with economies built around the barrier.
 
 ## Constraints
-- Must show how T0-T2 practitioners make rural life work with minimal Flux resources
-- Everyone is mid-harvest, mid-journey, mid-negotiation
-- Connect to existing trade routes (Maren Freight Chain, documented supply systems)
-- 4-5 Terravelle rural communities + 4-5 Auralis rural communities
-- Each needs distinct economy, recurring problems, and named people
-- Update [[Maren Valley]], [[Life in Rural Terravelle]], [[Ordinary Life in Auralis]] with concrete examples
+- Guide services, expedition supply, risk assessment, refugee flow from failed crossings, salvage from abandoned attempts
+- Each settlement should have developed unique adaptations to living at the edge of the uninhabitable zone
+- Must connect to existing [[Equatorial Desert]] documentation and crossing methods
+- 6 notes total: 4 border settlements + 2 specialist institutions/guilds
+- Update [[Equatorial Desert]] with "Border Settlement Network" section
 
 ## Output Target
-8-10 notes (rural communities + supporting institutions) with ground-level detail
+6 notes showing how communities survive at the desert boundary
 
 ## Execution Plan
-1. Create 4-5 Terravelle rural settlements (farming, mining, forest products)
-2. Create 4-5 Auralis rural settlements (basin agriculture, specialized crops)
-3. Add 2-3 named people per settlement showing daily life
-4. Update hub pages with rural examples
+1. Create 4 border settlements (2 Terravelle side, 2 Auralis side) with distinct economic niches
+2. Create 2 specialist institutions that operate across settlements
+3. Add 2-3 named people per settlement
+4. Update Equatorial Desert with network overview
 5. Run canon/link integrity check
 
 ## Status

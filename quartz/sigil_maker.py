@@ -227,20 +227,7 @@ def canonicalize(value: str, valid: set[str], aliases: dict[str, str] | None = N
 
 
 def parse_spec(spec_data: dict[str, Any]) -> SpellSpec:
-    required = [
-        "name",
-        "summary",
-        "effect_description",
-        "hook",
-        "mode",
-        "shape",
-        "discipline",
-        "output_mode",
-        "pattern",
-        "reach",
-        "persistence",
-        "target_spec",
-    ]
+    required = ["name", "summary", "effect_description", "hook", "mode", "shape", "discipline"]
     missing = [key for key in required if key not in spec_data]
     if missing:
         raise ValueError(f"Spec missing required keys: {missing}")
@@ -253,13 +240,21 @@ def parse_spec(spec_data: dict[str, Any]) -> SpellSpec:
         mode=canonicalize(str(spec_data["mode"]), MODES),
         shape=canonicalize(str(spec_data["shape"]), set(SHAPES)),
         discipline=canonicalize(str(spec_data["discipline"]), set(DISCIPLINE_MULTIPLIERS)),
-        output_mode=canonicalize(str(spec_data["output_mode"]), OUTPUT_MODES),
-        pattern=canonicalize(str(spec_data["pattern"]), set(PATTERN_COSTS)),
-        reach=canonicalize(str(spec_data["reach"]), set(REACH_COSTS), REACH_ALIASES),
-        persistence=canonicalize(
-            str(spec_data["persistence"]), set(PERSISTENCE_COSTS), PERSISTENCE_ALIASES
+        output_mode=canonicalize(
+            str(spec_data.get("output_mode", DEFAULTS["output_mode"])), OUTPUT_MODES
         ),
-        target_spec=canonicalize(str(spec_data["target_spec"]), set(TARGET_COSTS)),
+        pattern=canonicalize(str(spec_data.get("pattern", DEFAULTS["pattern"])), set(PATTERN_COSTS)),
+        reach=canonicalize(
+            str(spec_data.get("reach", DEFAULTS["reach"])), set(REACH_COSTS), REACH_ALIASES
+        ),
+        persistence=canonicalize(
+            str(spec_data.get("persistence", DEFAULTS["persistence"])),
+            set(PERSISTENCE_COSTS),
+            PERSISTENCE_ALIASES,
+        ),
+        target_spec=canonicalize(
+            str(spec_data.get("target_spec", DEFAULTS["target_spec"])), set(TARGET_COSTS)
+        ),
         sustained_minutes=int(spec_data.get("sustained_minutes", 0)),
         hook_mode_multiplier=float(spec_data.get("hook_mode_multiplier", 1.0)),
         hook_mode_flat_w=int(spec_data.get("hook_mode_flat_w", 0)),
@@ -490,6 +485,9 @@ def write_json(path: Path, payload: dict[str, Any]) -> None:
 
 
 def append_all_grimoire(path: Path, row: str) -> None:
+    if not path.exists():
+        write_text(path, row + "\n")
+        return
     current = path.read_text(encoding="utf-8")
     if row in current:
         return
@@ -499,24 +497,169 @@ def append_all_grimoire(path: Path, row: str) -> None:
     path.write_text(current, encoding="utf-8")
 
 
-def command_create(args: argparse.Namespace) -> int:
-    spec_path = Path(args.spec)
-    spec_data = json.loads(spec_path.read_text(encoding="utf-8-sig"))
-    spec = parse_spec(spec_data)
-    breakdown = calculate_cost(spec)
+def comma_list(values: list[str]) -> str:
+    return ", ".join(values)
 
+
+def prompt_text(label: str, default: str | None = None, required: bool = True) -> str:
+    while True:
+        prompt = f"{label}"
+        if default not in {None, ""}:
+            prompt += f" [{default}]"
+        prompt += ": "
+        raw = input(prompt).strip()
+        if raw:
+            return raw
+        if default not in {None, ""}:
+            return str(default)
+        if not required:
+            return ""
+        print("Value is required.")
+
+
+def prompt_choice(
+    label: str, options: list[str], default: str | None = None, aliases: dict[str, str] | None = None
+) -> str:
+    while True:
+        print(f"{label} options: {comma_list(options)}")
+        raw = prompt_text(label, default=default, required=True)
+        try:
+            return canonicalize(raw, set(options), aliases)
+        except ValueError as exc:
+            print(exc)
+
+
+def prompt_int(label: str, default: int = 0, min_value: int | None = None) -> int:
+    while True:
+        raw = prompt_text(label, default=str(default), required=True)
+        try:
+            value = int(raw)
+        except ValueError:
+            print("Enter a whole number.")
+            continue
+        if min_value is not None and value < min_value:
+            print(f"Enter a value >= {min_value}.")
+            continue
+        return value
+
+
+def prompt_float(label: str, default: float = 1.0, min_value: float | None = None) -> float:
+    while True:
+        raw = prompt_text(label, default=str(default), required=True)
+        try:
+            value = float(raw)
+        except ValueError:
+            print("Enter a number.")
+            continue
+        if min_value is not None and value < min_value:
+            print(f"Enter a value >= {min_value}.")
+            continue
+        return value
+
+
+def collect_spec_interactive() -> SpellSpec:
+    print("Guided spell creation. Press Enter to accept defaults.\n")
+    shape_options = sorted(SHAPES)
+    discipline_options = sorted(DISCIPLINE_MULTIPLIERS)
+    hook_options = sorted(HOOKS)
+    mode_options = sorted(MODES)
+    output_options = sorted(OUTPUT_MODES)
+    pattern_options = sorted(PATTERN_COSTS)
+    reach_options = sorted(REACH_COSTS)
+    persistence_options = sorted(PERSISTENCE_COSTS)
+    target_options = sorted(TARGET_COSTS)
+
+    draft: dict[str, Any] = {
+        "name": "",
+        "summary": "",
+        "effect_description": "",
+        "hook": "Ward",
+        "mode": "Affect",
+        "shape": "Triangle",
+        "discipline": "Raw",
+        "output_mode": DEFAULTS["output_mode"],
+        "pattern": DEFAULTS["pattern"],
+        "reach": DEFAULTS["reach"],
+        "persistence": DEFAULTS["persistence"],
+        "target_spec": DEFAULTS["target_spec"],
+        "sustained_minutes": 0,
+        "hook_mode_multiplier": 1.0,
+        "hook_mode_flat_w": 0,
+        "notes": "",
+    }
+
+    while True:
+        draft["name"] = prompt_text("Spell name", default=draft["name"])
+        draft["summary"] = prompt_text("Short summary", default=draft["summary"])
+        draft["effect_description"] = prompt_text(
+            "Effect description", default=draft["effect_description"]
+        )
+        draft["hook"] = prompt_choice("Hook", hook_options, default=draft["hook"])
+        draft["mode"] = prompt_choice("Mode", mode_options, default=draft["mode"])
+        draft["shape"] = prompt_choice("Shape", shape_options, default=draft["shape"])
+        draft["discipline"] = prompt_choice(
+            "Discipline", discipline_options, default=draft["discipline"]
+        )
+        draft["output_mode"] = prompt_choice(
+            "Output mode", output_options, default=draft["output_mode"]
+        )
+        draft["pattern"] = prompt_choice("Pattern", pattern_options, default=draft["pattern"])
+        draft["reach"] = prompt_choice(
+            "Reach", reach_options, default=draft["reach"], aliases=REACH_ALIASES
+        )
+        draft["persistence"] = prompt_choice(
+            "Persistence",
+            persistence_options,
+            default=draft["persistence"],
+            aliases=PERSISTENCE_ALIASES,
+        )
+        draft["target_spec"] = prompt_choice(
+            "Target spec", target_options, default=draft["target_spec"]
+        )
+
+        if draft["persistence"] == "Sustained":
+            draft["sustained_minutes"] = prompt_int(
+                "Sustained minutes (active window)", default=max(10, draft["sustained_minutes"]), min_value=1
+            )
+        else:
+            draft["sustained_minutes"] = 0
+
+        draft["hook_mode_multiplier"] = prompt_float(
+            "Hook/mode multiplier", default=float(draft["hook_mode_multiplier"]), min_value=0.0
+        )
+        draft["hook_mode_flat_w"] = prompt_int(
+            "Hook/mode flat Watts addition", default=int(draft["hook_mode_flat_w"])
+        )
+        draft["notes"] = prompt_text("Design notes (optional)", default=draft["notes"], required=False)
+
+        try:
+            spec = parse_spec(draft)
+            calculate_cost(spec)
+            return spec
+        except ValueError as exc:
+            print(f"\nValidation issue: {exc}")
+            print("Adjust inputs and try again.\n")
+
+
+def resolve_output_paths(args: argparse.Namespace, spec: SpellSpec) -> tuple[Path, Path, Path]:
     slug = slugify(spec.name)
-    markdown_out = Path(args.markdown_out) if args.markdown_out else Path("content/Spells") / f"{spec.name}.md"
+    markdown_out = (
+        Path(args.markdown_out) if args.markdown_out else Path("content/Spells") / f"{spec.name}.md"
+    )
     json_out = (
-        Path(args.json_out)
-        if args.json_out
-        else Path("quartz/static/spell_exports") / f"{slug}.json"
+        Path(args.json_out) if args.json_out else Path("quartz/static/spell_exports") / f"{slug}.json"
     )
     row_out = (
         Path(args.grimoire_row_out)
         if args.grimoire_row_out
         else Path("quartz/static/spell_exports") / f"{slug}.all_grimoire_row.md"
     )
+    return markdown_out, json_out, row_out
+
+
+def emit_artifacts(spec: SpellSpec, args: argparse.Namespace) -> SpellCostBreakdown:
+    breakdown = calculate_cost(spec)
+    markdown_out, json_out, row_out = resolve_output_paths(args, spec)
 
     md = markdown_page(spec, breakdown)
     row = grimoire_row(spec, breakdown)
@@ -526,7 +669,10 @@ def command_create(args: argparse.Namespace) -> int:
     write_json(json_out, payload)
     write_text(row_out, row + "\n")
 
-    if args.append_all_grimoire:
+    if getattr(args, "save_spec_out", None):
+        write_json(Path(args.save_spec_out), asdict(spec))
+
+    if getattr(args, "append_all_grimoire", None):
         append_all_grimoire(Path(args.append_all_grimoire), row)
 
     print(f"Created spell: {spec.name}")
@@ -534,6 +680,41 @@ def command_create(args: argparse.Namespace) -> int:
     print(f"Markdown: {markdown_out}")
     print(f"AI JSON: {json_out}")
     print(f"All Grimoire row: {row_out}")
+    if getattr(args, "save_spec_out", None):
+        print(f"Saved input spec: {Path(args.save_spec_out)}")
+    return breakdown
+
+
+def command_create(args: argparse.Namespace) -> int:
+    try:
+        spec_path = Path(args.spec)
+        if not spec_path.exists():
+            raise FileNotFoundError(f"Spec file not found: {spec_path}")
+        spec_data = json.loads(spec_path.read_text(encoding="utf-8-sig"))
+        spec = parse_spec(spec_data)
+        emit_artifacts(spec, args)
+    except FileNotFoundError as exc:
+        print(exc)
+        return 1
+    except json.JSONDecodeError as exc:
+        print(f"Invalid JSON in '{args.spec}': {exc}")
+        return 1
+    except ValueError as exc:
+        print(f"Spec validation failed: {exc}")
+        return 1
+    return 0
+
+
+def command_interactive(args: argparse.Namespace) -> int:
+    try:
+        spec = collect_spec_interactive()
+        emit_artifacts(spec, args)
+    except KeyboardInterrupt:
+        print("\nCancelled.")
+        return 130
+    except ValueError as exc:
+        print(f"Could not create spell: {exc}")
+        return 1
     return 0
 
 
@@ -563,22 +744,41 @@ def command_schema(_: argparse.Namespace) -> int:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Create validated Solumora sigil spells.")
-    subparsers = parser.add_subparsers(dest="command", required=True)
+    parser = argparse.ArgumentParser(
+        description=(
+            "Create validated Solumora sigil spells. "
+            "Run with no command to launch guided interactive mode."
+        )
+    )
+    subparsers = parser.add_subparsers(dest="command")
+
+    def add_output_args(command_parser: argparse.ArgumentParser) -> None:
+        command_parser.add_argument("--markdown-out", help="Output markdown spell page path.")
+        command_parser.add_argument("--json-out", help="Output AI JSON path.")
+        command_parser.add_argument(
+            "--grimoire-row-out",
+            help="Output markdown file containing a single All Grimoire table row.",
+        )
+        command_parser.add_argument(
+            "--append-all-grimoire",
+            help="Optional path to All Grimoire markdown file to append row if missing.",
+        )
+        command_parser.add_argument(
+            "--save-spec-out",
+            help="Optional path to save the final normalized input spec JSON.",
+        )
 
     create = subparsers.add_parser("create", help="Create spell artifacts from a JSON spec.")
     create.add_argument("--spec", required=True, help="Path to spell spec JSON.")
-    create.add_argument("--markdown-out", help="Output markdown spell page path.")
-    create.add_argument("--json-out", help="Output AI JSON path.")
-    create.add_argument(
-        "--grimoire-row-out",
-        help="Output markdown file containing a single All Grimoire table row.",
-    )
-    create.add_argument(
-        "--append-all-grimoire",
-        help="Optional path to All Grimoire markdown file to append row if missing.",
-    )
+    add_output_args(create)
     create.set_defaults(func=command_create)
+
+    interactive = subparsers.add_parser(
+        "interactive",
+        help="Guided prompt flow for creating a spell without writing JSON manually.",
+    )
+    add_output_args(interactive)
+    interactive.set_defaults(func=command_interactive)
 
     schema = subparsers.add_parser("schema", help="Print a spell spec JSON template.")
     schema.set_defaults(func=command_schema)
@@ -589,6 +789,16 @@ def build_parser() -> argparse.ArgumentParser:
 def main() -> int:
     parser = build_parser()
     args = parser.parse_args()
+    if not hasattr(args, "func"):
+        print("No command provided. Starting guided interactive mode.\n")
+        interactive_args = argparse.Namespace(
+            markdown_out=None,
+            json_out=None,
+            grimoire_row_out=None,
+            append_all_grimoire=None,
+            save_spec_out=None,
+        )
+        return command_interactive(interactive_args)
     return int(args.func(args))
 
 
