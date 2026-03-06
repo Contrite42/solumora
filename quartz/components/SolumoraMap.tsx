@@ -97,11 +97,22 @@ const REGION_LINKS: RegionLink[] = [
   {
     id: "northern-narrows-region",
     label: "Northern Narrows Corridors",
-    path: "M648 588 L770 588 L752 748 L636 748 Z",
+    path: "M700 600 L780 600 L740 740 L680 740 Z",
     keys: ["The-Northern-Narrows", "Northern-Narrows"],
     titles: ["The Northern Narrows", "Northern Narrows"],
-    labelX: 746,
+    labelX: 748,
     labelY: 676,
+    labelAnchor: "end",
+    showLabel: true,
+  },
+  {
+    id: "southern-approaches-region",
+    label: "Southern Approaches Network",
+    path: "M550 740 L720 740 L540 1060 L380 1060 Z",
+    keys: ["The-Southern-Approaches", "Southern-Approaches"],
+    titles: ["The Southern Approaches", "Southern Approaches"],
+    labelX: 700,
+    labelY: 900,
     labelAnchor: "end",
     showLabel: true,
   },
@@ -112,10 +123,11 @@ const MOUNTAIN_RIDGES = [
   "M430 148 L474 122 L518 148 L564 116 L610 148",
 ]
 
-const MAREN_RIVER_PATH = "M404 250 C430 356 452 438 486 504 C554 566 642 588 740 588"
+const MAREN_RIVER_PATH =
+  "M404 250 C430 356 452 438 486 504 C554 566 660 598 744 626 C776 638 800 644 820 646"
 
-const EAST_ESTUARY_PATH = "M740 588 C780 600 814 618 844 646"
-const WEST_COAST_ROUTE_PATH = "M272 1166 C286 1224 298 1268 308 1310"
+const EAST_ESTUARY_PATH = "M820 646 C832 648 842 646 852 642"
+const WEST_COAST_ROUTE_PATH = "M460 1000 C406 1050 350 1090 280 1140"
 
 const WEST_TERRACE_PATHS = [
   "M204 1090 C286 1060 346 1080 402 1128",
@@ -154,8 +166,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "ashford",
     label: "Ashford",
-    x: 752,
-    y: 588,
+    x: 798,
+    y: 640,
     keys: ["Ashford"],
     titles: ["Ashford"],
     align: "left",
@@ -163,8 +175,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "halveth",
     label: "Halveth",
-    x: 618,
-    y: 612,
+    y: 680,
+    x: 720,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
@@ -172,11 +184,12 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "solhaven",
     label: "Solhaven",
-    x: 274,
-    y: 1166,
+    x: 460,
+    y: 1000,
     keys: ["Solhaven"],
     titles: ["Solhaven"],
     align: "right",
+    labelDx: -20,
   },
   {
     id: "emberfall",
@@ -190,11 +203,12 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "hedun",
     label: "Hedun",
-    x: 308,
-    y: 1310,
+    x: 280,
+    y: 1140,
     keys: ["Hedun"],
     titles: ["Hedun"],
     align: "right",
+    labelDx: -18,
   },
 ]
 
