@@ -38,3 +38,18 @@ The council does not hate [[Cassia]]. Several members are genuinely fond of her.
 They gave her luxury and withheld power. This was the correct calculation for a four-year-old. At twenty-three, the calculation is less obviously correct, and the more perceptive council members know it.
 
 *See also: [[Cassia]], [[Drest]], [[The Culmination Faction]], [[Expansion Faction]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[The Three Near-Wars]], [[The Advancement Corps]], [[Emberfall]], [[Council Members]], [[Mira Solv]], [[Maren Sollis]], [[Tovan Ashce]], [[Castor Helme]], [[Corda Lenn]], [[Ilse Dorn]], [[Pol Ashvane]], [[Hadren Cosse]], [[Sera Keln]], [[Aldric Mourne]], [[Oren Vael]], [[Tess Varun]], [[Veran Ostl]], [[Davan Rhyce]], [[Orla Fest]], [[Brennan Solce]], [[Yara Venn]], [[Celd Arren]], [[Adventurers]], [[Ren Valdh]], [[Osten Reld]]*
+
+## Operational Institutions Around the Council
+
+Council policy is executed through standing institutions that handle labor intake, infrastructure, supply, and message speed:
+
+- [[Solhaven Elevation Works Office]] for vertical infrastructure reliability.
+- [[Hedun Quiet Contract Office]] for discreet but enforceable service brokerage.
+- [[Crestward Intake Bureau]] for talent screening and placement pipelines.
+- [[Emberfall Expedition Registry]] for desert expedition permits and incident memory.
+- [[Basin Grain Allocation Board]] for district food allocation and reserve stability.
+- [[Southern Signal Chain]] for high-priority intercity communication.
+
+These institutions are where abstract council decisions become daily constraints.
+
+*See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Emberfall]], [[The Culmination Faction]], [[Expansion Faction]], [[Factions]]*

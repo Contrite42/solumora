@@ -29,36 +29,18 @@ In [[Auralis]], grimoires are also status objects. The tier of grimoire a househ
 
 ## The Grimoire Economy
 
-Grimoires are valuable, portable knowledge objects, and an entire economy exists around their production, distribution, authentication, and trade. Most [[Flux Users]] depend on grimoires they did not author, which creates markets for copying, lending, commissioning, and repair services. The grimoire economy spans both kingdoms and operates through guild networks, independent practitioners, and underground channels.
+Grimoires are the mechanism by which [[Flux]] capability is distributed broadly rather than confined to high-tier practitioners. An entire economy exists around their production, authentication, distribution, and trade. The [[Grimoire Economy]] page covers the full system.
 
-### Production and Distribution
+**Production:** [[Grimoire Copyists]] (Scribes) produce most grimoires in circulation. In [[Terravelle]], copying work is certified through the [[Trade Guilds]]; in [[Auralis]], quality signals run through Scholar-network vouching. [[Grimoire Licensing]] covers originator attribution and what rights actually mean in practice.
 
-The [[Guild Scrivener Network]] handles most commercial grimoire production in both [[Terravelle]] and [[Auralis]]. Guild scriveners work from authenticated source texts, produce copies under standardized contracts, and face quality inspections before release. Pricing is structured per-page with tier multipliers, and guild certification limits which scriveners can copy higher-tier texts.
+**Markets:** The [[Common Grimoire Market]] drives most economic activity — high volume, competitive, accessible to most households. [[High-Tier Grimoire Access]] covers how Rare and above texts actually move: institutional control, patronage channels, private arrangement. [[Grimoire Distribution]] covers the supply chain from Scribe to end user, including traveling merchant circuits and cross-kingdom movement.
 
-[[Independent Scrivener|Independent scriveners]] operate outside guild infrastructure, serving rural markets, niche buyers, or clients seeking lower prices or faster work. They rely on personal reputation rather than institutional backing and face higher authentication scrutiny but retain more flexibility in what they copy and how they price their work.
+**Access and lending:** [[Grimoire Lending]] covers temporary access — institutional library loans, commercial rental, and private lending in rural areas where purchase is not viable. [[Grimoire Commissioning]] covers custom-copy orders: specific spell selections, compiled collections, and cross-border commissions.
 
-### Authentication and Fraud
+**Fraud and underground:** [[Grimoire Fraud]] covers mis-tier presentation, degraded copies, false attribution. [[Black Market Grimoires]] covers what goes underground — out-of-tier texts, restricted disciplines, cross-kingdom access. [[Grimoire Regulation]] covers how both kingdoms handle the trade differently.
 
-[[Grimoire Authentication]] is the process of verifying that a grimoire contains accurate sigils copied from trusted sources. The guild network maintains authentication registries and inspects copies before release, but independent and cross-border grimoires are harder to verify. Fraud ranges from careless copying errors to deliberate mis-tier sales, and buyers without [[Flux]] expertise often can't detect defects until spells fail.
+**Long-term:** [[Grimoire Inheritance]] covers what a practitioner's library is worth when they die and the complications of settling an estate with originator declarations. [[Grimoire Repair and Preservation]] covers keeping texts functional through heavy use.
 
-[[Black Market Grimoire Circulation]] handles unauthorized copies, restricted texts, and higher-tier grimoires sold outside institutional channels. Most black market activity involves routine copying at below-market prices, but restricted or rare texts also circulate through trusted intermediaries. Authentication is a persistent problem, and buyers have limited recourse if grimoires are defective.
+**Personal vs. published:** [[Personal Working Grimoire]] covers the distinction between a practitioner's annotated working text and a commercial copy.
 
-### Access and Rights
-
-[[Grimoire Rights and Restrictions]] govern who may copy, own, and distribute specific grimoires. Institutional libraries control higher-tier texts through conditional copying permissions. Authorial rights protect new spell documentation for a set period, and both kingdoms restrict certain grimoires by law (destructive spells in [[Terravelle]], mind-affecting and politically sensitive texts in [[Auralis]]).
-
-[[Grimoire Lending and Rental]] provides temporary access without permanent ownership. Institutional libraries lend texts to members at low or no cost; commercial rental shops charge by the week and require collateral. Private lending is common in rural areas and relies on social capital. Copying from borrowed texts is legally ambiguous and hard to enforce.
-
-[[Grimoire Commissioning]] is the process of hiring a scrivener to produce a custom copy. Buyers can request direct copies of existing grimoires or custom compilations selecting specific spells. Pricing depends on page count, tier complexity, timeline, and binding quality. Cross-border commissions are possible but add transport costs, customs delays, and authentication complexity.
-
-### Trade and Regulation
-
-[[Cross-Border Grimoire Trade]] moves grimoires between [[Terravelle]] and [[Auralis]], exploiting each kingdom's production specialties. [[Terravelle]] produces standardized low-tier texts optimized for commerce and agriculture; [[Auralis]] produces experimental and higher-tier research outputs. Cross-border trade is legal but regulated through customs inspections, requires transport via courier networks, and costs significantly more than domestic acquisition.
-
-[[Scrivener Regulation]] enforces quality standards, tier certification, and pricing guidelines within the [[Guild Scrivener Network]]. Guild members face inspection protocols, penalties for poor work, and must maintain documented source text lineage. [[Terravelle]] relies on guild self-regulation; [[Auralis]] adds [[Council of Auralis|Council]] oversight for higher-tier work. Independent scriveners operate outside guild regulation but remain subject to general fraud law.
-
-### Maintenance
-
-[[Grimoire Repair and Preservation]] extends grimoire lifespan through ink restoration, binding repair, and environmental protection. Grimoires degrade from repeated use, and faded sigils lose reliability or fail entirely. Restoration specialists re-ink sigils, replace bindings, and use preservation spells for long-term storage. Higher-tier grimoire restoration requires matching [[Control Tier]] capability and is often institutional work.
-
-*See also: [[Sigils]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]], [[Trade Guilds]], [[Flux Cost Reference]], [[Terravelle]], [[Auralis]]*
+*See also: [[Sigils]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]], [[Grimoire Economy]], [[Trade Guilds]], [[Flux Cost Reference]], [[Terravelle]], [[Auralis]]*

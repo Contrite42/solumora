@@ -62,7 +62,7 @@ Solumora runs on overlapping transport systems rather than one universal network
 
 The practical rule is simple: people route by consequence. High-consequence traffic uses redundancy and faster handoff systems. Low-consequence bulk moves on the cheapest reliable channel.
 
-*See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Hedun]], [[Wolfpoint]], [[Desert Zakros]], [[Maren Freight Chain]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]]*
+*See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Hedun]], [[Wolfpoint]], [[Equatorial Desert]], [[Maren Freight Chain]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]]*
 
 ## Where to Start
 

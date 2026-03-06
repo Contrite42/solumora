@@ -74,3 +74,9 @@ The hunting period four hundred years ago came close to ending all of this. It d
 **The thing nobody knows:** [[High Demons]] → [[Selvane]] → [[Wren]] → [[Fennick]] → [[Sorath]]
 
 *This page is an overview. Every topic links to its full page.*
+
+## Institutions in Motion
+
+For system-level power outside crowns and councils, start at [[Factions]].
+
+*See also: [[Factions]], [[Trade Guilds]], [[The Council of Auralis]], [[Terravelle Administration]], [[Grimoires]], [[Watts]]*

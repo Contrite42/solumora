@@ -44,4 +44,4 @@ Maritime movement ties the coasts together on two different scales. The [[Hedun-
 
 Information usually arrives before volume, and systems are designed around that fact. When a route destabilizes, dispatchers reroute messages first, then cargo. Most institutions in both kingdoms survive disruption not by preventing breaks, but by preserving movement continuity across at least one channel.
 
-*See also: [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Wolfpoint]], [[Desert Zakros]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]]*
+*See also: [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Wolfpoint]], [[Equatorial Desert]], [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]]*

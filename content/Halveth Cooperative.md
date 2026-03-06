@@ -28,4 +28,4 @@ The [[Advancement Corps]] has a standing arrangement with three Cooperative guid
 
 This is a cordial but arm's-length relationship. Cooperative guides have no fixed loyalty to either kingdom. They work for whoever is paying to cross and whoever has not previously gotten someone killed through preventable decisions.
 
-*See also: [[Halveth]], [[Equatorial Desert]], [[Avel Coss]], [[Selt Orvn]], [[The Advancement Corps]], [[Terravelle Desert Trade Office]], [[Life in Halveth]], [[Standard Guided Crossing]], [[Desert Zakros]]*
+*See also: [[Halveth]], [[Equatorial Desert]], [[Avel Coss]], [[Selt Orvn]], [[The Advancement Corps]], [[Terravelle Desert Trade Office]], [[Life in Halveth]], [[Standard Guided Crossing]]*

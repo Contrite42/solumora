@@ -32,8 +32,8 @@ Tasks in priority order. Check off when done. Add next steps as discovered.
 Blocked tasks are marked with their dependency.
 
 
-- [ ] **Goal:** Create the **Trade & Travel spine** of Solumora (routes, nodes, risks, costs).  
-  **Constraints:** Must explain how people move goods/info between [[Terravelle]], [[Auralis]], [[Wolfpoint]], and around [[Desert Zakros]]. Include courier, river, coastal, and overland systems. Everyone is mid-journey.  
+- [x] **Goal:** Create the **Trade & Travel spine** of Solumora (routes, nodes, risks, costs).
+  **Constraints:** Must explain how people move goods/info between [[Terravelle]], [[Auralis]], [[Wolfpoint]], and around [[Desert Zakros]]. Include courier, river, coastal, and overland systems. Everyone is mid-journey.
   **Output:** 10 new notes (routes + hubs) + update [[Solumora]] + update [[World Primer]] with a “How people move” section.
 
 - [x] **Goal:** Define the **Equatorial Crossing Economy** as a lived reality, not lore.
@@ -44,7 +44,7 @@ Blocked tasks are marked with their dependency.
   **Constraints:** Flux cost exponential; most are low-tier; society optimizes low-cost spells. Show how grimoires spread power without creating a caste.
   **Output:** 10 notes (guilds, copyists, regulation, black market, “common grimoire” tiers) + update [[Grimoires]].
 
-- [ ] **Goal:** Create the **Factions hub** and populate it with real institutions.  
+- [x] **Goal:** Create the **Factions hub** and populate it with real institutions.  
   **Constraints:** Factions must have logistics: funding, recruitment, rules, enemies, and what they trade in (information, grimoires, routes, protection).  
   **Output:** 1 hub note [[Factions]] + 12 faction notes + link each into relevant kingdom pages.
 
@@ -68,9 +68,17 @@ Blocked tasks are marked with their dependency.
   **Constraints:** Must explain why the equator became uninhabitable, how grimoires spread, and how Terravelle/Auralis diverged culturally.  
   **Output:** [[History]] hub + 8 era notes + add timeline section to [[Solumora]].
 
-- [ ] **Goal:** Make “everyone mid-journey” structurally real: create **People Web Index** + minimum viable cast.  
-  **Constraints:** 30 people. Every person must link to 3–6 others. Include smugglers, copyists, guards, farmers, priests, couriers, and 2–3 high-tier isolates.  
+- [ ] **Goal:** Make “everyone mid-journey” structurally real: create **People Web Index** + minimum viable cast.
+  **Constraints:** 30 people. Every person must link to 3–6 others. Include smugglers, copyists, guards, farmers, priests, couriers, and 2–3 high-tier isolates.
   **Output:** [[People]] hub + 30 people notes + update 5 major hubs with “People in Motion” sections.
+
+- [ ] **Goal:** Create **real purchasable grimoires** as in-universe books — actual written texts, not tier reference pages.
+  **Constraints:** Common-tier grimoires should be purchasable (include price, who sells them, what they contain as a reader would see). Higher-tier should note where they can be found. Each grimoire is a real artifact: it has a publisher, an edition, margin notes from a previous owner or institutional stamp. Write them as the book itself, not a description of the book.
+  **Output:** 4–6 grimoire entries in `content/WrittenWorks/` — at least 2 Common-tier (purchasable), 1 Uncommon-tier (harder to find), 1 Rare-tier (institutional only). Each is a fully written in-universe text.
+
+- [ ] **Goal:** Write **”The Screaming Shade”** — a short story following an adventurer group who encounter a soul bound to a location that keeps screaming it is the strongest Flux user in Solumora.
+  **Constraints:** Nobody in the party is strong enough to dispel it. The soul is genuinely distressed, not just malicious. The bound-soul mechanism should be consistent with existing lore (Flux, Binding discipline, Watts). End is unresolved — they leave it screaming. Tone: grounded, not comedic, slightly grim. Format: short fiction, 800–1200 words.
+  **Output:** `content/Stories/The Screaming Shade.md`
 ---
 
 ## IMMEDIATE (no decisions needed)
@@ -156,3 +164,4 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Trade & Travel spine | Complete | Batch 3R1 applied: Solumora.md + World Primer.md "How People Move" sections. TASK-09/10 marked complete. |
 | 2026-03-05 | Equatorial Crossing Economy | Complete | 8 new pages: Halveth Cooperative, Relay Compact, Terravelle Desert Trade Office, Standard Guided Crossing, Express Route Crossing, Relay-Stage Crossing, The Southern Approaches, The Northern Narrows. Equatorial Desert.md updated. Backlinks added to Halveth.md, Avel Coss.md. |
 | 2026-03-05 | Grimoire Economy | Complete | 10 new pages: Guild Scrivener Network, Independent Scrivener, Grimoire Authentication, Black Market Grimoire Circulation, Grimoire Rights and Restrictions, Grimoire Lending and Rental, Grimoire Commissioning, Cross-Border Grimoire Trade, Scrivener Regulation, Grimoire Repair and Preservation. Grimoires.md updated with comprehensive economy section. All notes linked from Grimoires hub. |
+| 2026-03-05 | Factions hub | Complete | Created Factions hub + 12 institution notes. Appended inbound link blocks to index.md, Terravelle Administration.md, and The Council of Auralis.md. |
