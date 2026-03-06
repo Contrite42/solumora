@@ -176,286 +176,270 @@ Erects a sustained field that actively disrupts incoming Flux before it can reso
 
 **Chainbind**
 Simultaneously applies constraint force bindings to every individual in a group, tethering them all to fixed points within the area.
-
-| Variable     | Value        |
-| ------------ | ------------ |
-| Shape        | Circle       |
-| Hook         | Bind         |
-| Mode         | Create       |
-| Control Tier | T6           |
-| Discipline   | Binding      |
-| Output       | Constraint   |
-| Pattern      | Field        |
-| Reach        | Medium       |
-| Persistence  | Timed (Long) |
-| Target       | Group        |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Field |
+| Reach | Medium |
+| Persistence | Timed (Long) |
+| Target | Group |
 
 ---
 
 **Chemfield**
 Sustains a reactive chemical saturation field across a wide area, slowly breaking down organic material and corroding metal within it.
-
-| Variable     | Value     |
-| ------------ | --------- |
-| Shape        | Circle    |
-| Hook         | Ward      |
-| Mode         | Create    |
-| Control Tier | T5        |
-| Discipline   | Chemical  |
-| Output       | Reactive  |
-| Pattern      | Field     |
-| Reach        | Anchored  |
-| Persistence  | Sustained |
-| Target       | Filter    |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Field |
+| Reach | Anchored |
+| Persistence | Sustained |
+| Target | Filter |
 
 ---
 
 **Deepburn**
 Channels a sustained thermal beam that penetrates surface material to heat and damage internal structure, bypassing armor or casing.
-
-| Variable     | Value      |
-| ------------ | ---------- |
-| Shape        | Circle     |
-| Hook         | Emit       |
-| Mode         | Affect     |
-| Control Tier | T6         |
-| Discipline   | Heat       |
-| Output       | Thermal    |
-| Pattern      | Beam       |
-| Reach        | Long       |
-| Persistence  | Sustained  |
-| Target       | Individual |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Beam |
+| Reach | Long |
+| Persistence | Sustained |
+| Target | Individual |
 
 ---
 
 **Deepread**
 Performs a full Flux-signature scan of an individual at range, returning their approximate Control Tier ceiling and any active sigil bindings.
-
-| Variable     | Value                   |
-| ------------ | ----------------------- |
-| Shape        | Circle                  |
-| Hook         | Sense                   |
-| Mode         | Create                  |
-| Control Tier | T5                      |
-| Discipline   | Raw                     |
-| Output       | Raw                     |
-| Pattern      | Point                   |
-| Reach        | Medium                  |
-| Persistence  | _(default — Immediate)_ |
-| Target       | Individual              |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Point |
+| Reach | Medium |
+| Persistence | _(default — Immediate)_ |
+| Target | Individual |
 
 ---
 
 **Fluxbleed**
 Forces a targeted individual's Flux channels open beyond safe limits, causing them involuntary uncontrolled output until the effect ends.
-
-| Variable     | Value         |
-| ------------ | ------------- |
-| Shape        | Circle        |
-| Hook         | Transform     |
-| Mode         | Affect        |
-| Control Tier | T6            |
-| Discipline   | Raw           |
-| Output       | Raw           |
-| Pattern      | Point         |
-| Reach        | Medium        |
-| Persistence  | Timed (Short) |
-| Target       | Individual    |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Point |
+| Reach | Medium |
+| Persistence | Timed (Short) |
+| Target | Individual |
 
 ---
 
 **Fluxdrain**
 Siphons active Flux from a single individual's ongoing casting, weakening their spell output and returning that energy as raw disruption.
-
-| Variable     | Value      |
-| ------------ | ---------- |
-| Shape        | Circle     |
-| Hook         | Dampen     |
-| Mode         | Affect     |
-| Control Tier | T5         |
-| Discipline   | Raw        |
-| Output       | Raw        |
-| Pattern      | Point      |
-| Reach        | Medium     |
-| Persistence  | Sustained  |
-| Target       | Individual |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Dampen |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Point |
+| Reach | Medium |
+| Persistence | Sustained |
+| Target | Individual |
 
 ---
 
 **Forcewall**
 Raises a sustained vertical plane of dense constrained kinetic force that physically cannot be passed through while active.
-
-| Variable     | Value      |
-| ------------ | ---------- |
-| Shape        | Circle     |
-| Hook         | Ward       |
-| Mode         | Create     |
-| Control Tier | T5         |
-| Discipline   | Force      |
-| Output       | Constraint |
-| Pattern      | Plane      |
-| Reach        | Anchored   |
-| Persistence  | Sustained  |
-| Target       | Filter     |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Force |
+| Output | Constraint |
+| Pattern | Plane |
+| Reach | Anchored |
+| Persistence | Sustained |
+| Target | Filter |
 
 ---
 
 **Infernowall**
 Erects a sustained wide plane of intense combined thermal and reactive output, creating a barrier that burns and corrodes simultaneously.
-
-| Variable     | Value     |
-| ------------ | --------- |
-| Shape        | Circle    |
-| Hook         | Ward      |
-| Mode         | Create    |
-| Control Tier | T5        |
-| Discipline   | Heat      |
-| Output       | Thermal   |
-| Pattern      | Plane     |
-| Reach        | Anchored  |
-| Persistence  | Sustained |
-| Target       | Filter    |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Plane |
+| Reach | Anchored |
+| Persistence | Sustained |
+| Target | Filter |
 
 ---
 
 **Mindanchor**
 Locks a single individual's conscious state in place, preventing them from being affected by further Mind-discipline spells while sustained.
-
-| Variable     | Value      |
-| ------------ | ---------- |
-| Shape        | Circle     |
-| Hook         | Ward       |
-| Mode         | Affect     |
-| Control Tier | T5         |
-| Discipline   | Mind       |
-| Output       | Neuro      |
-| Pattern      | Point      |
-| Reach        | Touch      |
-| Persistence  | Sustained  |
-| Target       | Individual |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Point |
+| Reach | Touch |
+| Persistence | Sustained |
+| Target | Individual |
 
 ---
 
 **Mindshatter**
 Delivers a catastrophic neuro-disruptive burst to an entire group simultaneously, causing varying degrees of sensory collapse across all targets.
-
-| Variable     | Value         |
-| ------------ | ------------- |
-| Shape        | Circle        |
-| Hook         | Emit          |
-| Mode         | Affect        |
-| Control Tier | T6            |
-| Discipline   | Mind          |
-| Output       | Neuro         |
-| Pattern      | Sphere        |
-| Reach        | Medium        |
-| Persistence  | Timed (Short) |
-| Target       | Group         |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T6 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Sphere |
+| Reach | Medium |
+| Persistence | Timed (Short) |
+| Target | Group |
 
 ---
 
 **Mindsweep**
 Broadcasts a wide neuro-disrupting field that simultaneously stuns every individual in a sphere, causing brief but total sensory interruption.
-
-| Variable     | Value                   |
-| ------------ | ----------------------- |
-| Shape        | Circle                  |
-| Hook         | Emit                    |
-| Mode         | Affect                  |
-| Control Tier | T5                      |
-| Discipline   | Mind                    |
-| Output       | Neuro                   |
-| Pattern      | Sphere                  |
-| Reach        | Medium                  |
-| Persistence  | _(default — Immediate)_ |
-| Target       | Group                   |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Sphere |
+| Reach | Medium |
+| Persistence | _(default — Immediate)_ |
+| Target | Group |
 
 ---
 
 **Soulbrand**
 Burns a Soul-level mark of identification onto an unwilling individual, making them permanently detectable by any caster using Soul-discipline sensing.
-
-| Variable     | Value      |
-| ------------ | ---------- |
-| Shape        | Circle     |
-| Hook         | Bind       |
-| Mode         | Create     |
-| Control Tier | T5         |
-| Discipline   | Soul       |
-| Output       | Soul       |
-| Pattern      | Point      |
-| Reach        | Touch      |
-| Persistence  | Permanent  |
-| Target       | Individual |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Touch |
+| Persistence | Permanent |
+| Target | Individual |
 
 ---
 
 **Soulcage**
 Wraps a single individual in a permanent Soul-level constraint that prevents them from forming new Soul bindings or oaths until released.
-
-| Variable     | Value      |
-| ------------ | ---------- |
-| Shape        | Circle     |
-| Hook         | Bind       |
-| Mode         | Create     |
-| Control Tier | T6         |
-| Discipline   | Soul       |
-| Output       | Constraint |
-| Pattern      | Point      |
-| Reach        | Touch      |
-| Persistence  | Latched    |
-| Target       | Individual |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Bind |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Constraint |
+| Pattern | Point |
+| Reach | Touch |
+| Persistence | Latched |
+| Target | Individual |
 
 ---
 
 **Souldrift**
 Temporarily detaches the caster's Soul signature from their physical location, allowing Soul-based tracking and detection spells to return a false position.
-
-| Variable     | Value     |
-| ------------ | --------- |
-| Shape        | Circle    |
-| Hook         | Ward      |
-| Mode         | Affect    |
-| Control Tier | T5        |
-| Discipline   | Soul      |
-| Output       | Soul      |
-| Pattern      | Point     |
-| Reach        | Self      |
-| Persistence  | Sustained |
-| Target       | Self      |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Self |
+| Persistence | Sustained |
+| Target | Self |
 
 ---
 
 **Soulscan**
 Performs a deep Soul-frequency sweep of an area, returning the identity signatures of every individual present regardless of physical disguise or concealment.
-
-| Variable     | Value                   |
-| ------------ | ----------------------- |
-| Shape        | Circle                  |
-| Hook         | Sense                   |
-| Mode         | Create                  |
-| Control Tier | T6                      |
-| Discipline   | Soul                    |
-| Output       | Soul                    |
-| Pattern      | Field                   |
-| Reach        | Medium                  |
-| Persistence  | _(default — Immediate)_ |
-| Target       | Group                   |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Sense |
+| Mode | Create |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Medium |
+| Persistence | _(default — Immediate)_ |
+| Target | Group |
 
 ---
 
 **Stormfield**
 Sustains a crackling electrical storm field across a wide area, delivering continuous arcing shock to all conductive targets within it.
-
-| Variable     | Value     |
-| ------------ | --------- |
-| Shape        | Circle    |
-| Hook         | Ward      |
-| Mode         | Create    |
-| Control Tier | T5        |
-| Discipline   | Electric  |
-| Output       | Shock     |
-| Pattern      | Field     |
-| Reach        | Anchored  |
-| Persistence  | Sustained |
-| Target       | Group     |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Ward |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Field |
+| Reach | Anchored |
+| Persistence | Sustained |
+| Target | Group |

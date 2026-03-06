@@ -33,52 +33,49 @@ _Further Pale entries are withheld pending Scholar consensus on documentation pr
 
 **Fluxcollapse**
 Collapses the ambient Flux density of a defined area to zero, permanently — no sigil will function there, no Flux will flow, and nothing that depends on Flux to live will survive long.
-
-| Variable     | Value     |
-| ------------ | --------- |
-| Shape        | Circle    |
-| Hook         | Transform |
-| Mode         | Affect    |
-| Control Tier | T9        |
-| Discipline   | Raw       |
-| Output       | Raw       |
-| Pattern      | Field     |
-| Reach        | Long      |
-| Persistence  | Permanent |
-| Target       | Surface   |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Field |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Surface |
 
 ---
 
 **Soulflood**
 Saturates an entire area with raw Soul-frequency output at a level that overwrites the individual identity signatures of every living thing present — the effects on those who survive are permanent and not uniform.
-
-| Variable     | Value     |
-| ------------ | --------- |
-| Shape        | Circle    |
-| Hook         | Emit      |
-| Mode         | Affect    |
-| Control Tier | T9        |
-| Discipline   | Soul      |
-| Output       | Soul      |
-| Pattern      | Field     |
-| Reach        | Long      |
-| Persistence  | Permanent |
-| Target       | Group     |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Affect |
+| Control Tier | T9 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Field |
+| Reach | Long |
+| Persistence | Permanent |
+| Target | Group |
 
 ---
 
 **Voidpulse**
 Emits a single pulse of something that is not Flux — it carries no discipline, no output type, and no pattern the Scholar system can categorize — and everything it touches stops working for a period that varies with no known consistency.
-
-| Variable     | Value                   |
-| ------------ | ----------------------- |
-| Shape        | Circle                  |
-| Hook         | Emit                    |
-| Mode         | Create                  |
-| Control Tier | T9                      |
-| Discipline   | Raw                     |
-| Output       | Raw                     |
-| Pattern      | Sphere                  |
-| Reach        | Long                    |
-| Persistence  | _(default — Immediate)_ |
-| Target       | Group                   |
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T9 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Sphere |
+| Reach | Long |
+| Persistence | _(default — Immediate)_ |
+| Target | Group |
