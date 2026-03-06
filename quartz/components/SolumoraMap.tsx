@@ -179,11 +179,16 @@ export default (() => {
             </clipPath>
           </defs>
 
-          <path class="solumora-map-continent" d={CONTINENT_PATH} filter="url(#solumora-map-shadow)" />
+          <path
+            class="solumora-map-continent"
+            d={CONTINENT_PATH}
+            filter="url(#solumora-map-shadow)"
+          />
 
           <g class="solumora-zone-bands" clip-path="url(#solumora-continent-clip)">
             {ZONE_BANDS.map((zone) => (
               <rect
+                key={zone.id}
                 class={`solumora-zone solumora-zone--${zone.id}`}
                 x="140"
                 y={zone.y}
@@ -197,11 +202,18 @@ export default (() => {
             <line class="solumora-lat-line" x1="150" x2="850" y1="920" y2="920" />
           </g>
 
-          <path class="solumora-route solumora-route--zakros" d="M688 666 C668 744 670 840 684 906" />
+          <path
+            class="solumora-route solumora-route--zakros"
+            d="M688 666 C668 744 670 840 684 906"
+          />
 
           <g class="solumora-zone-labels">
             {ZONE_BANDS.map((zone) => (
-              <g class={`solumora-zone-tag solumora-zone-tag--${zone.id}`} transform={`translate(${zone.labelX} ${zone.labelY})`}>
+              <g
+                key={`${zone.id}-label`}
+                class={`solumora-zone-tag solumora-zone-tag--${zone.id}`}
+                transform={`translate(${zone.labelX} ${zone.labelY})`}
+              >
                 <rect x="-8" y="-23" width="274" height="36" rx="10" />
                 <text class="solumora-zone-label" x="129" y="1">
                   {zone.label}
@@ -218,7 +230,7 @@ export default (() => {
             const lineX1 = alignment === "left" ? -5 : 5
             const lineX2 = alignment === "left" ? -11 : 11
             return (
-              <g transform={`translate(${marker.x} ${marker.y})`}>
+              <g key={marker.id} transform={`translate(${marker.x} ${marker.y})`}>
                 <a
                   class={`solumora-map-marker solumora-map-marker--${alignment}`}
                   data-map-marker={marker.id}

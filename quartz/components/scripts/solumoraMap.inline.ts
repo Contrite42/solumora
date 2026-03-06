@@ -112,7 +112,7 @@ async function refreshMap(mapRoot: HTMLElement, currentSlug: FullSlug) {
   }
 
   if (status) {
-    status.textContent = `Synced ${stampNow()} · ${linkedCount}/${markers.length} map points resolved`
+    status.textContent = `Synced ${stampNow()} - ${linkedCount}/${markers.length} map points resolved`
   }
 }
 

@@ -91,3 +91,17 @@ He has been in this business long enough to know the difference between friction
 The direction has not been stated. The policy has not been announced. But the pattern is consistent enough that he has started building additional time into his crossing schedules and carrying backup documentation for shipments that should not require it. He is not yet sure which this is — friction or signal — but he is preparing for it to be signal, because the cost of being wrong about that is higher than the cost of extra preparation.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+The informal indicators [[Orre Cavlt]] reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. These are the signals he has learned to interpret over twenty-one years of cross-border trade, the small variations in routine that tell him when conditions are changing before the changes become official policy.
+
+Two of his longer relationships on the [[Auralis]] side have become careful. Not hostile, not suspicious, but careful in ways they were not before. Conversations that used to include casual information about upcoming policy changes or seasonal enforcement priorities now stick to immediate transaction details. Questions he could ask six months ago now receive responses that are technically accurate and completely uninformative.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. No paperwork indicating delay. No explanation of what additional review was required. The goods were eventually released with the same documentation they had arrived with, as if the delay had never happened. When he asked about the hold, he was told there had been no hold — which was technically true, since no hold had been formally logged.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random — delays that happen because someone is having a bad day, or because paperwork gets misfiled, or because inspection schedules are running behind. Signal is systematic — delays that happen because someone is looking for something, or because procedures have changed in ways that have not been announced, or because the relationship between the kingdoms is shifting in ways that affect trade before they affect anything else.
+
+This is not random. The pattern is too consistent, too directional. But it is not yet clear enough for him to know what he should be preparing for, or how.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*

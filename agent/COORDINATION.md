@@ -32,6 +32,7 @@
 - **History backbone package**: COMPLETE. Added/updated `History.md`, `The Ancient Civilization`, `The Desert Barrier`, `The Grimoire Tradition`, `The Cultural Divergence`, `The Persecution Era`, `The Northern Founding`, `The Southern Founding`, and `Solumora.md` timeline section. Added support page `Maren River.md` and fixed history aliases.
 - **Live map integration**: COMPLETE. Added `quartz/components/SolumoraMap.tsx` with supporting script/style files and layout injection in `quartz.layout.ts` so `Solumora` now shows a canonical-position continent map with periodic link-refresh sync.
 - **Canonical integrity cycle**: COMPLETE (Codex fallback). Reports updated; map marker resolution verified (10/10) and representative route/hub inbound-outbound counts remain healthy.
+- **Live map polish pass**: COMPLETE (Codex). Reworked map zone geometry to continent-clipped north/desert/south bands, repositioned labels/markers to prevent overlaps, and aligned point placement with canon geography notes (`Terravelle` uplands north, `Zakros` equatorial band, `Auralis` basin south, coast-facing hubs).
 
 ## Operator Role Assignment
 - Current control-plane operator (Codex): pipeline executor + queue/decision owner.

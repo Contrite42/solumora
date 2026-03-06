@@ -155,7 +155,15 @@ Blocked tasks are marked with their dependency.
   **Constraints:** Nobody in the party is strong enough to dispel it. The soul is genuinely distressed, not just malicious. The bound-soul mechanism should be consistent with existing lore (Flux, Binding discipline, Watts). End is unresolved â€” they leave it screaming. Tone: grounded, not comedic, slightly grim. Format: short fiction, 800â€“1200 words.
   **Output:** `content/Stories/The Screaming Shade.md`
   **Owner:** Copilot Auto
----
+- [ ] **Goal:** Fix the Solumora interactive map component for lore-accurate geography.
+  **Constraints:** Map shape must be South America-like (elongated north-south, narrowing at top, wider at bottom). Fix continent boundaries and positioning to match canon descriptions: Terravelle occupying northern uplands/temperate, Auralis in southern basin, equatorial Zakros barrier at middle, Wolfpoint at far northern coast. Update marker positions and visual bands accordingly.
+  **Output:** Updated `quartz/components/SolumoraMap.tsx`, revised coastline paths, adjusted latitude/longitude positioning logic, validate with `npx tsc --noEmit` and `npx quartz build -d content`.
+  **Owner:** `Copilot Auto`
+
+- [ ] **Goal:** Create additional adventurer stories across emotional and tonal range.
+  **Constraints:** Generate 6-8 new short stories (800-1200 words each) spanning mundane to dark: include at least one mundane slice-of-life, one happy/successful expedition, one informative/teaching story, one grim/dark outcome, and 2-3 mixed-tone stories. All must be canon-consistent with existing Solumora world state (Flux, grimoires, geography, factions). Each story should feature different characters/locations and include minimum 3 wikilinks plus See Also block.
+  **Output:** 6-8 new files in `content/Stories/` with varied emotional range.
+  **Owner:** `Copilot Auto`---
 
 ## IMMEDIATE (no decisions needed)
 
@@ -260,3 +268,5 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | People Web hub integration | Complete | Confirmed `People.md` cast coverage and appended `People in Motion` sections to `Solumora.md`, `Terravelle.md`, `Auralis.md`, `Wolfpoint.md`, and `Equatorial Desert.md`; touched-file links validated. |
 | 2026-03-05 | Integrity sweep | Complete | Ran vault-wide filtered link audit; applied low-impact alias fixes + added `Veld Dorv` and `WrittenWorks`; reduced meaningful missing targets to 12 and logged remainder in `agent/reports/inconsistencies.md`. |
 | 2026-03-05 | Integrity closure | Complete | Added 12 missing target pages from prior flagged list and re-ran filtered vault scan with zero unresolved targets. |
+| 2026-03-06 | Live map polish + pipeline cycle | Complete | Reworked Solumora map bands/labels/marker placement for canon geography clarity; fixed sync-status encoding; validated with `npx tsc --noEmit` and `npx quartz build -d content`; refreshed integrity reports. |
+| 2026-03-05 | Trade & Travel enrichment | Complete | Pipeline applied Business Climate appends to Doss Varn.md, Orre Cavlt.md, Cavel Dorst.md, plus Cassia "What She Knows" section. Missing canon aliases resolved (The Expansion Faction.md, Border Trade.md). |

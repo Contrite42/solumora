@@ -87,3 +87,17 @@ The travelers themselves seem normal. Same mix of merchants, expedition parties,
 He keeps the logs. He does his job. He watches for whatever it is that someone expects him to notice, even though no one has told him what that might be.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+His briefings have changed in tone over the past year. [[Doss Varn]] cannot point to a specific moment when the shift started, but the weekly security updates from [[Ashford]] command now include documentation protocols that were not there before. New forms for traveler verification. Additional fields in the crossing logs. Instructions to record details that previously would have been noted in passing or not noted at all.
+
+The changes arrived without explanation. No announcement that policy had shifted. No directive explaining why the additional documentation was necessary. The forms simply appeared in his weekly packet with instructions to implement immediately. When he asked his contact at the Ashford command post about the new requirements, she told him to log everything carefully — which she has never said before in the four years he has worked this posting.
+
+More travelers with [[Terravelle]] papers than he has seen before. Not dramatically more, but enough that he notices the pattern. The papers are legitimate — he knows how to verify them, and they pass inspection. But the frequency has shifted in ways that suggest something upstream has changed. People who would not normally have reason to cross are crossing. Business that would not normally require documentation is being documented.
+
+He is recording what he sees because that is what the new protocols require. Wait times at the checkpoint. Verification outcomes. Traveler origins and stated destinations. The tone of interactions with [[Auralis]] counterparts on the southern side of the crossing. All of it goes into the weekly reports that go up the chain to wherever weekly reports go.
+
+He does not know what it means. He knows that in his experience, when documentation requirements change without explanation, it is because someone expects to need the documentation later. For what purpose, he has not been told.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
