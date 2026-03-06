@@ -21,7 +21,7 @@ A resolution might call for [[Emberfall Expedition Registry]] to "accelerate res
 - A definition of "strategic priorities" that expedition coordinators can apply without re-litigating council politics.
 - A compliance metric the [[Council Compliance Directorate]] can use to evaluate success.
 
-The [[Culmination Faction]] wants aggressive interpretation. [[Expansion Faction]] wants resource commitments that don't exist. [[Cassia]]'s faction wants transparency that would expose how often the Registry has to invent details the council never specified.
+The [[The Culmination Faction|Culmination Faction]] wants aggressive interpretation. [[Expansion Faction]] wants resource commitments that don't exist. [[Cassia]]'s faction wants transparency that would expose how often the Registry has to invent details the council never specified.
 
 Vessa makes the call. She signs the order. If implementation fails six months later, her signature is the one the council sees.
 

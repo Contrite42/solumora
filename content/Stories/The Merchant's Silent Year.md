@@ -8,7 +8,7 @@ The fifth year provided no contingencies to manage.
 
 Crew rotation occurred exactly as planned. The first team departed with three tons of processed salt. Nothing unusual. No rift activity. No weather events. No mechanical failures or supply interruptions. They reached Solumora and returned with fresh provisions. The second team took their turn. Same conditions. Same success. Same quiet completion.
 
-Months passed. The second rotation happened. The third approached. And Vorn, who had been doing this for four years with clockwork regularity, noticed something: he had not made a single deviation. Not one equipment repair. Not one reroute. Not one negotiation with [[Crossing agents|local guides]] about rift activity. Not one payment to a T4 practitioner brought in because a lower tier wasn't sufficient. Four years, and the work had been mechanically perfect.
+Months passed. The second rotation happened. The third approached. And Vorn, who had been doing this for four years with clockwork regularity, noticed something: he had not made a single deviation. Not one equipment repair. Not one reroute. Not one negotiation with local guides about rift activity. Not one payment to a T4 practitioner brought in because a lower tier wasn't sufficient. Four years, and the work had been mechanically perfect.
 
 He pulled the contracts. He verified the numbers. Four years of identical cost, identical profit, identical routing. The Zakros crossing did not usually work that way. No crossing worked that way.
 

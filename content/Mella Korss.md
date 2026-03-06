@@ -2,7 +2,7 @@
 
 **Mella Korss** is a senior compliance officer at [[Council Compliance Directorate]], specializing in expedition infrastructure and desert operations oversight. She is thirty-nine years old, [[Control Tier|Tier 6]], and has worked at the Directorate for eleven years after spending six years as a field quartermaster for expedition teams operating out of [[Emberfall]].
 
-She knows what desert operations actually require. She inspects them anyway, using standards written by people who have never been to [[Desert Zakros]].
+She knows what desert operations actually require. She inspects them anyway, using standards written by people who have never been to [[Equatorial Desert|Desert Zakros]].
 
 ## The Inspection Problem
 

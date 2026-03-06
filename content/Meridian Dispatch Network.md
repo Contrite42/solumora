@@ -25,4 +25,4 @@ Both kingdoms tacitly understand this. The Meridian system's security is based o
 
 The Meridian system is reliable for specific, high-value communications. It is not reliable for coordinating across multiple weeks or for communicating information that both sides need to act on simultaneously. When the kingdom boundary begins to feel like open conflict, communication-at-scale breaks down because both sides begin to assume that the other side is manipulating the timing of delivery to gain advantage. The system persists in peacetime because delays of a few days do not matter much. In crisis, those delays become politically meaningful.
 
-_See also: [[Ashford-Halveth Courier Road]], [[Ashford]], [[Valdenmoor]], [[Solhaven]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Trade Guilds]], [[Control Tier]], [[Diplomatic Relations]]_
+_See also: [[Ashford-Halveth Courier Road]], [[Ashford]], [[Valdenmoor]], [[Solhaven]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Trade Guilds]], [[Control Tier]], diplomatic relations_

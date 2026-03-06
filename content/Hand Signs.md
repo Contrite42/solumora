@@ -74,7 +74,7 @@ They have no formal names. What follows are the names soldiers use.
 
 **Effect:** The caster's hands and fine motor control become preternaturally steady. Tremor, adrenaline response, fatigue shake, and pain-induced movement are suppressed entirely at the extremities. The rest of the body is unaffected.
 
-**Control Tier:** T2 **Duration:** Sustained while the sign is held. **Practical note:** Primary use is maintaining [[Sigils|sigil]] inscription or [[Hypertext]] writing under combat conditions or physical stress. [[The Voss Line|Voss]] soldier scholars consider this sign the reason [[hand signs]] and [[Hypertext]] belong together — The Still lets you write under conditions where writing would otherwise be impossible.
+**Control Tier:** T2 **Duration:** Sustained while the sign is held. **Practical note:** Primary use is maintaining [[Sigils|sigil]] inscription or [[Hypertext]] writing under combat conditions or physical stress. [[The Voss Line|Voss]] soldier scholars consider this sign the reason [[Hand Signs|hand signs]] and [[Hypertext]] belong together — The Still lets you write under conditions where writing would otherwise be impossible.
 
 ---
 

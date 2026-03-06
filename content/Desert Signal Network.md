@@ -16,4 +16,4 @@ The network operates in a deliberately ambiguous legal space. Both kingdoms publ
 
 The safety houses that provide rest and resupply for signal operators, guides, and travelers caught in emergency situations are scattered across the frontier. They are not officially part of any government institution. They are staffed by people who maintain dual citizenship or no official citizenship, creating a community that answers to the desert itself as much as to any kingdom authority.
 
-_See also: [[Halveth]], [[Life in Halveth]], [[Rift Incursions]], [[Equatorial Desert]], [[Ashford-Halveth Courier Road]], [[Charter Road Wardens]], [[Desert Edge Culture]], [[Terravelle]], [[Auralis]]_
+_See also: [[Halveth]], [[Life in Halveth]], [[Rift Incursions]], [[Equatorial Desert]], [[Ashford-Halveth Courier Road]], [[Charter Road Wardens]], desert edge culture, [[Terravelle]], [[Auralis]]_

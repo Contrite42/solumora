@@ -27,6 +27,6 @@ This creates a system where merchant houses are simultaneously tolerated as a us
 
 ## Known Participants
 
-Major merchant houses maintaining cross-border operations include [[Valdenmoor Trade Consortium]], houses based in [[Ashford]], [[Solhaven]] shipping consortiums, and independent merchant traders operating personal networks across the frontier. The scale is probably 15-25 significant actors with enough capital and continuity of operation to participate meaningfully in intelligence exchange.
+Major merchant houses maintaining cross-border operations include Valdenmoor Trade Consortium, houses based in [[Ashford]], [[Solhaven]] shipping consortiums, and independent merchant traders operating personal networks across the frontier. The scale is probably 15-25 significant actors with enough capital and continuity of operation to participate meaningfully in intelligence exchange.
 
-_See also: [[Merchant Houses]], [[Ashford]], [[Valdenmoor]], [[Solhaven]], [[Ashford-Halveth Courier Road]], [[Trade Guilds]], [[Commercial Networks]], [[Terravelle]], [[Auralis]], [[Economic Systems]]_
+_See also: merchant houses, [[Ashford]], [[Valdenmoor]], [[Solhaven]], [[Ashford-Halveth Courier Road]], [[Trade Guilds]], commercial networks, [[Terravelle]], [[Auralis]], economic systems_

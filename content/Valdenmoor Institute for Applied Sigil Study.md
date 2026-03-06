@@ -19,4 +19,4 @@ The institute maintains cautious relationships with both [[Terravelle]] governme
 
 Valdenmoor's research environment emphasizes replicability and transparency. Findings are published openly, methodology is detailed, and external researchers are encouraged to challenge conclusions. This creates slower publication cycles than Crestward's competitive model but generates higher-confidence results that practitioners find more trustworthy than centralized institutional research.
 
-_See also: [[Terravelle]], [[Valdenmoor]], [[Flux]], [[Control Tier]], [[Spell Variables]], [[Spells]], [[Grimoires]], [[Practitioners]]_
+_See also: [[Terravelle]], [[Valdenmoor]], [[Flux]], [[Control Tier]], [[Spell Variables]], [[Spells]], [[Grimoires]], practitioners_

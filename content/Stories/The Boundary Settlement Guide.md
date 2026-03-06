@@ -8,11 +8,11 @@ By day three, the client was dead-pulling her weight. By day eight, she was help
 
 The expedition's goal was to document three new ruin sites in [[Ancient Ruins|the broken territories]] toward the Zakros edge. Nothing remarkable. Enough interest to fund a follow-up expedition later. No expectation of major discovery.
 
-They found something better than discovery. They found good practice. On day water the team successfully navigated through a rift probability zone using a [[Raw]] discipline sensing spell that Tess had learned from a [[Keld Orun|T9 practitioner]] years ago. The theory was standard. The execution created something new — a sustained, overlapping detection pattern that allowed the team to identify zone boundaries without approaching them directly. They mapped seventeen kilometers in two days instead of the estimated five.
+They found something better than discovery. They found good practice. On day water the team successfully navigated through a rift probability zone using a raw discipline sensing spell that Tess had learned from a [[Keld Orun|T9 practitioner]] years ago. The theory was standard. The execution created something new — a sustained, overlapping detection pattern that allowed the team to identify zone boundaries without approaching them directly. They mapped seventeen kilometers in two days instead of the estimated five.
 
 The client recorded the method. Tess watched her mark down notation that was actually usable in field conditions, not just theoretically sound.
 
-By day twenty-three, the expedition reached the first ruin site. The location markers were three years out of date. The structures were in better condition than predicted. The team's [[Mind]] discipline practitioner, a cautious T2 who had spent the first week second-guessing everything, successfully detected and mapped spatial distortions that suggested internal chambers. Without forcing entry, without risk, knowing exactly what was there.
+By day twenty-three, the expedition reached the first ruin site. The location markers were three years out of date. The structures were in better condition than predicted. The team's mind discipline practitioner, a cautious T2 who had spent the first week second-guessing everything, successfully detected and mapped spatial distortions that suggested internal chambers. Without forcing entry, without risk, knowing exactly what was there.
 
 By day thirty, all three sites were documented. The team wanted to stay longer. The schedule said return. Tess made them stick to schedule, which was the right call, because doing so meant the expedition ended on success instead of exhaustion. Everyone wanted to come back. The client would fund a follow-up within six months.
 
@@ -26,4 +26,4 @@ Tess considered honesty. "You'll remember it for five years. Then it will fade b
 
 The practitioner thought about that for a long time. The expedition broke camp clean the next morning. Tess carried documentation and specimen maps. The team carried something harder to define: the memory of competence as something achievable. For a young practitioner, that might matter more than any discovery.
 
-_See also: [[Halveth]], [[Life in Halveth]], [[Maren Valley]], [[Equatorial Desert]], [[Ancient Ruins]], [[Control Tier]], [[Spells]], [[Flux Users]], [[Expedition Culture]], [[Solumora]]_
+_See also: [[Halveth]], [[Life in Halveth]], [[Maren Valley]], [[Equatorial Desert]], [[Ancient Ruins]], [[Control Tier]], [[Spells]], [[Flux Users]], expedition culture, [[Solumora]]_

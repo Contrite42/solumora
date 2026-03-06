@@ -4,7 +4,7 @@ The collapsed caravan created a problem for the regional trade infrastructure: f
 
 Specialist recovery teams exist for exactly these situations. Salven Kort's team had extracted eight stranded caravans from hostile terrain. They specialized in speed-oriented assessment and selective retrieval. They operated on margin, which meant successful recoveries covered their overhead and unsuccessful ones cost them sharply.
 
-The goods manifest in the collapsed caravan included three containers of [[Flux]] medicinal extracts, eighteen bars of trade-standard gold, and documentation of intellectual property for a specific [[Alchemy]] compression technique. The merchant had insured the documentation but not the extracts. The gold was significant but replaceable. The extracts, however, were produced in a specialized facility in the north and were worth three times the merchant's current willingness to pay for the recovery. If Salven could extract them, the recovery would be wildly profitable.
+The goods manifest in the collapsed caravan included three containers of [[Flux]] medicinal extracts, eighteen bars of trade-standard gold, and documentation of intellectual property for a specific alchemy compression technique. The merchant had insured the documentation but not the extracts. The gold was significant but replaceable. The extracts, however, were produced in a specialized facility in the north and were worth three times the merchant's current willingness to pay for the recovery. If Salven could extract them, the recovery would be wildly profitable.
 
 Salven assessed the site: the goods were 4.2 kilometers into Zakros. The rift incursion pattern was stable at time of survey. The route had been traversed seventeen times in the past three cycles without major incidents. The caravan had collapsed due to equipment failure and driver error, not environmental hostility. On paper, the recovery was high-confidence.
 
@@ -36,4 +36,4 @@ Salven published findings. The regional recovery guild incorporated the new info
 
 The next unscheduled team that left a recovery attempt might not have the margin that Salven's decision-making had generated.
 
-_See also: [[Equatorial Desert]], [[Rift Incursions]], [[Flux]], [[Zakros Rim Caravan Loop]], [[Alchemy]], [[Solumora]]_
+_See also: [[Equatorial Desert]], [[Rift Incursions]], [[Flux]], [[Zakros Rim Caravan Loop]], alchemy, [[Solumora]]_

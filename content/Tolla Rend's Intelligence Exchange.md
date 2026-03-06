@@ -29,4 +29,4 @@ Tolla is not a spy. She does not have access to confidential documents or encryp
 
 This makes her information less classified but more useful to people making decisions in the present moment. A merchant considering expansion into border trade wants to know whether institutional policy is shifting. A expedition company wants to understand garrison staffing changes. A practitioner wants to know whether cities are in growth phase or contraction phase. Tolla sells these things.
 
-_See also: [[Solhaven]], [[Ashford]], [[Ashford-Halveth Courier Road]], [[Intelligence and Espionage]], [[Terravelle]], [[Auralis]], [[Control Tier]], [[Trade Guilds]], [[Merchant Houses]]_
+_See also: [[Solhaven]], [[Ashford]], [[Ashford-Halveth Courier Road]], intelligence and espionage, [[Terravelle]], [[Auralis]], [[Control Tier]], [[Trade Guilds]], merchant houses_

@@ -56,7 +56,7 @@ This creates a recurring pattern: the Directorate documents failures, institutio
 The Directorate operates from a dedicated office building in [[Solhaven]], near the [[Council Orders Registry]] but institutionally separate. It employs:
 - Twenty-three field inspectors (rotating assignments across [[Auralis]]'s districts and key operational sites).
 - Six compliance analysts who translate inspection data into trend reports.
-- Three senior officers ([[Torn Hess]], [[Mella Korss]], [[Dren Valt]]) who handle high-stakes cases and council-facing reporting.
+- Three senior officers ([[Torn Hess]], [[Mella Korss]], Dren Valt) who handle high-stakes cases and council-facing reporting.
 
 Field inspectors are drawn from former guild administrators, ex-military logistics officers, and mid-tier casters with technical expertise in the domains they inspect. They are trained to document accurately, not to solve problems. The Directorate's credibility depends on neutral observation.
 
@@ -77,4 +77,4 @@ The Directorate sees patterns the council does not discuss:
 
 Torn Hess includes these patterns in annual summary reports. The council reads them. Policy does not shift to address the underlying resource gaps. The Directorate continues documenting the slow drift toward structural failure.
 
-_See also: [[The Council of Auralis]], [[Auralis]], [[Solhaven]], [[Council Orders Registry]], [[Torn Hess]], [[Mella Korss]], [[Dren Valt]], [[Basin Grain Allocation Board]], [[Emberfall Expedition Registry]], [[Solhaven Elevation Works Office]], [[The Culmination Faction]], [[Expansion Faction]]_
+_See also: [[The Council of Auralis]], [[Auralis]], [[Solhaven]], [[Council Orders Registry]], [[Torn Hess]], [[Mella Korss]], Dren Valt, [[Basin Grain Allocation Board]], [[Emberfall Expedition Registry]], [[Solhaven Elevation Works Office]], [[The Culmination Faction]], [[Expansion Faction]]_

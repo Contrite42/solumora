@@ -18,10 +18,10 @@ The Board operates as a buffer between the council's high-level decisions and th
 
 The Review Board is composed of five permanent members appointed by the council for three-year terms:
 - [[Helva Drost]] (Board Chair) — former district administrator from [[Hedun]], thirty-two years in governance roles.
-- [[Soren Velk]] — ex-guild auditor, specialist in budget constraint analysis.
-- [[Lenna Torv]] — expedition logistics coordinator, fifteen years at [[Emberfall]].
-- [[Rett Massen]] — legal specialist in administrative procedure and institutional authority boundaries.
-- [[Kess Varn]] — mid-tier caster with technical expertise in [[Flux]]-dependent infrastructure systems.
+- Soren Velk — ex-guild auditor, specialist in budget constraint analysis.
+- Lenna Torv — expedition logistics coordinator, fifteen years at [[Emberfall]].
+- Rett Massen — legal specialist in administrative procedure and institutional authority boundaries.
+- Kess Varn — mid-tier caster with technical expertise in [[Flux]]-dependent infrastructure systems.
 
 Cases come to the Board through formal petition. An institution files a review request, submits documentation of the disputed issue, and the Board schedules a hearing. Most cases are resolved in closed session without the full council's involvement. High-impact cases — where the Board's decision would affect multiple institutions or set precedent for future disputes — are elevated to council review with the Board's recommendation attached.
 
@@ -87,4 +87,4 @@ The Board's existence is proof that the council's governance model does not work
 
 She writes careful reports. She grants careful exceptions. She schedules the next hearing.
 
-_See also: [[The Council of Auralis]], [[Auralis]], [[Solhaven]], [[Council Compliance Directorate]], [[Council Orders Registry]], [[Helva Drost]], [[Soren Velk]], [[Lenna Torv]], [[Rett Massen]], [[Kess Varn]], [[Basin Grain Allocation Board]], [[Emberfall Expedition Registry]], [[Solhaven Elevation Works Office]], [[The Culmination Faction]]_
+_See also: [[The Council of Auralis]], [[Auralis]], [[Solhaven]], [[Council Compliance Directorate]], [[Council Orders Registry]], [[Helva Drost]], Soren Velk, Lenna Torv, Rett Massen, Kess Varn, [[Basin Grain Allocation Board]], [[Emberfall Expedition Registry]], [[Solhaven Elevation Works Office]], [[The Culmination Faction]]_

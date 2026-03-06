@@ -21,4 +21,4 @@ The work is difficult because spell corruption is highly variable. Thermal damag
 
 Additionally, the research sometimes produces results that make practitioners uncomfortable: occasionally, corrupted spells can be modified into something functional that is not the original spell. This creates questions about whether the practitioner should attempt salvage or pursue a known-good alternative. Ossan's work does not answer this question — it simply illuminates the technical possibility space.
 
-_See also: [[Valdenmoor Institute for Applied Sigil Study]], [[Terravelle]], [[Flux]], [[Control Tier]], [[Spell Variables]], [[Grimoires]], [[Spells]], [[Spell Composition]]_
+_See also: [[Valdenmoor Institute for Applied Sigil Study]], [[Terravelle]], [[Flux]], [[Control Tier]], [[Spell Variables]], [[Grimoires]], [[Spells]], spell composition_

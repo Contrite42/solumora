@@ -30,7 +30,7 @@ On day twelve, the team emerged from Zakros with acceptable margins in remaining
 
 Six months later, Elann received a secondary contract offer: to join a research expedition documenting Zakros rift phenomena and environmental pattern variation. The contract valued her at T3 rates despite official tier classification as T2. The work was dangerous in different ways — not crossing danger, but the danger of encountering incursion patterns inadequately understood and insufficient to prevent.
 
-She accepted. Over three years, she became the field expert on transitional Flux zone effects — the spaces between rift incursions and standard environment where Flux behavior becomes irregular but not immediately catastrophic. She published two papers in the Solumora Academy's quarterly. She developed a new classification system for oscillation patterns that the Academy later formally adopted.
+She accepted. Over three years, she became the field expert on transitional Flux zone effects — the spaces between rift incursions and standard environment where Flux behavior becomes irregular but not immediately catastrophic. She published two papers in the Solumora Academy quarterly. She developed a new classification system for oscillation patterns that the Academy later formally adopted.
 
 She did not return to standard contract work. She did not have the capacity to. Her tier remained officially T2, but her actual expertise had become specialized. She could not teach basic practitioner work anymore — she thought in terms of oscillation patterns and transitional behavior. She could not perform standard environmental casting the way she had before — it felt crude to her now, because she understood that standard environments were vastly more complex than the tier classifications acknowledged.
 
@@ -38,4 +38,4 @@ The Zakros crossing had not made her stronger. It had modified what she paid att
 
 She returned to Zakros periodically, working on research teams that studied rift boundaries. She never crossed back through again. The desert had done sufficient work.
 
-_See also: [[Equatorial Desert]], [[Zakros Rim Caravan Loop]], [[Rift Incursions]], [[Control Tier]], [[Flux]], [[Solumora]], [[Solumora Academy]]_
+_See also: [[Equatorial Desert]], [[Zakros Rim Caravan Loop]], [[Rift Incursions]], [[Control Tier]], [[Flux]], [[Solumora]], Solumora Academy_

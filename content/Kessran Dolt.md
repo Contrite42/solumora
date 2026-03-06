@@ -20,4 +20,4 @@ However, the work is also politically sensitive. If cross-discipline synthesis p
 
 Much of Kessran's work remains theoretical. She has identified several promising synergy patterns but has not yet reliably replicated them across multiple attempts. The mechanisms underlying successful synergies are not fully understood, which limits her ability to predict which synergies might generalize and which are artifacts of specific experimental conditions.
 
-_See also: [[Crestward Flux Institute]], [[Auralis]], [[Flux]], [[Binding]], [[Heat]], [[Control Tier]], [[Spell Variables]], [[Flux Disciplines]], [[Spells]]_
+_See also: [[Crestward Flux Institute]], [[Auralis]], [[Flux]], [[Binding]], [[Heat]], [[Control Tier]], [[Spell Variables]], Flux disciplines, [[Spells]]_

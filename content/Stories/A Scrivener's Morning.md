@@ -8,7 +8,7 @@ This morning she is copying "Warmbloom," a common [[Heat]] spell from the [[Comm
 
 The scriptorum is quiet. The other scribes are working at adjacent desks, the sound of their nibs on parchment creating a rhythm that Maren has learned to work inside. Copy, check, mark the margin with her certification sigil, move to the next page. The spell requires four pages. She will finish three pages this morning, one after the midday meal.
 
-A [[Control Tier|T2]] practitioner enters the scriptorum looking for a copy of "Ghostpath," a [[Mind]] discipline spell for navigation through complex spaces. It is rare enough that stock is low. The apprentice who handles supply checks the inventory, shakes her head. Maren watches the practitioner's disappointment ripple across his face and watches it settle into quiet acceptance.
+A [[Control Tier|T2]] practitioner enters the scriptorum looking for a copy of "Ghostpath," a mind discipline spell for navigation through complex spaces. It is rare enough that stock is low. The apprentice who handles supply checks the inventory, shakes her head. Maren watches the practitioner's disappointment ripple across his face and watches it settle into quiet acceptance.
 
 After the practitioner leaves, the apprentice brings a requisition to Maren's station. High priority. A practitioner in [[Life in Halveth|Halveth]] has specifically requested that Maren copy her "Ghostpath" commission. The request mentions her by name. The requisition includes overage payment for expedited work.
 
@@ -22,4 +22,4 @@ The practitioner in Halveth will receive this copy in three weeks, if the courie
 
 She continues writing.
 
-_See also: [[Valdenmoor]], [[Flux Users]], [[Common Grimoire]], [[Control Tier]], [[Spells]], [[Heat]], [[Mind]], [[Solumora]]_
+_See also: [[Valdenmoor]], [[Flux Users]], [[Common Grimoire]], [[Control Tier]], [[Spells]], [[Heat]], mind discipline, [[Solumora]]_
