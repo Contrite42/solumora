@@ -56,6 +56,11 @@ Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` cu
 Tasks in priority order. Check off when done. Add next steps as discovered.
 Blocked tasks are marked with their dependency.
 
+- [x] **Goal:** Normalize tiered grimoire spell quality and retire per-spell pages.
+      **Constraints:** Remove malformed auto-generated spell entries, standardize spell-entry table formatting across [[Common Grimoire]], [[Uncommon Grimoire]], [[Rare Grimoire]], [[Legendary Grimoire]], [[Mythic Grimoire]], and [[Pale Grimoire]], and delete `content/Spells/*.md` pages. Going forward, tiered grimoires are the canonical spell reference source.
+      **Output:** Cleaned tiered grimoire files, updated `content/Spells.md` to tiered references only, removed generated index noise from `content/All Grimoire.md`, deleted all files in `content/Spells/`.
+      **Owner:** `Codex`
+
 - [x] **Goal:** Create the **Trade & Travel spine** of Solumora (routes, nodes, risks, costs).
       **Constraints:** Must explain how people move goods/info between [[Terravelle]], [[Auralis]], [[Wolfpoint]], and around [[Desert Zakros]]. Include courier, river, coastal, and overland systems. Everyone is mid-journey.
       **Output:** 10 new notes (routes + hubs) + update [[Solumora]] + update [[World Primer]] with a â€œHow people moveâ€ section.
@@ -347,3 +352,4 @@ These tasks expand the world's texture without adding new structural elements. T
 | 2026-03-06 | Live map polish + pipeline cycle | Complete                               | Reworked Solumora map bands/labels/marker placement for canon geography clarity; fixed sync-status encoding; validated with `npx tsc --noEmit` and `npx quartz build -d content`; refreshed integrity reports.                                                                                                                                                                                      |
 | 2026-03-05 | Trade & Travel enrichment        | Complete                               | Pipeline applied Business Climate appends to Doss Varn.md, Orre Cavlt.md, Cavel Dorst.md, plus Cassia "What She Knows" section. Missing canon aliases resolved (The Expansion Faction.md, Border Trade.md).                                                                                                                                                                                         |
 | 2026-03-06 | Codex pipeline integrity run     | Complete                               | Audited recent vault files for dead links and canon drift, normalized/removed unresolved recent-file wikilinks, verified Halveth/Narrows/Approaches consistency, and revalidated with `npx tsc --noEmit` + `npx quartz build -d content`.                                                                                                                                                           |
+| 2026-03-06 | Grimoire spell cleanup policy    | Complete                               | Removed malformed generated spell entries from tiered grimoires, standardized entry formatting markers, removed `Sigil Maker` index sections from hubs, deleted all `content/Spells/*.md` spell pages, and set tiered grimoires as canonical reference path.                                                                                                                                         |
