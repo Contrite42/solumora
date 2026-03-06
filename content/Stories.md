@@ -18,6 +18,14 @@ The following accounts provide narrative context for the world's systems, constr
 
 [[Stories/Ashford False Papers]] — A person attempts to establish formal registries in a city where informal identity systems dominate, navigating pressure from settlement administrators, registry officials, and the logistical inadequacy of formal systems for populations that have historically operated outside them. Documents institutional pressure and individual survival strategies.
 
+[[Stories/The Day the Crestward Did Not Burn]] — A false alarm at the Crestward archive triggers full preservation protocol and reveals how institutional resilience is built from routine preparation rather than dramatic heroics.
+
+## Logistics and Trade Operations
+
+[[Stories/The Courier Who Refused the Shortcut]] — A road courier chooses chain-of-custody reliability over speed and prevents a forged routing packet from entering the Halveth dispatch system. Focuses on procedural discipline and communication integrity under pressure.
+
+[[Stories/The Winter Ledger at Wolfpoint]] — Winter reserve balancing at Wolfpoint shows how quiet accounting decisions prevent visible crisis. A low-drama, high-stakes account of seasonal trade resilience.
+
 ## Miscellaneous 
 
 [[Stories/A Scrivener's Morning]] — A professional scrivener's routine encounter with a customer reveals the social complexity of trade labor and the skills required to navigate informal economic networks. A study in small-scale professional competence.

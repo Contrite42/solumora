@@ -1,5 +1,5 @@
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
-import { FullSlug, resolveRelative } from "../../util/path"
+import { FullSlug, getFullSlug, resolveRelative } from "../../util/path"
 
 type ContentIndex = Record<string, ContentDetails>
 type MapLinkElement = SVGAElement & {
@@ -140,4 +140,9 @@ function setupMaps(currentSlug: FullSlug) {
 
 document.addEventListener("nav", (e: CustomEventMap["nav"]) => {
   setupMaps(e.detail.url)
+})
+
+document.addEventListener("DOMContentLoaded", () => {
+  const currentSlug = getFullSlug(window)
+  setupMaps(currentSlug)
 })
