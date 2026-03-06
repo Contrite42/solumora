@@ -77,3 +77,19 @@ He maintains three sets of records now: the official compliance documentation re
 The audit that hasn't come will arrive when someone decides it should arrive. When it does, his house will be ready. The question he cannot answer is what the audit will be looking for, and whether being ready for an audit is the same as being ready for whatever the audit is designed to accomplish.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*
+
+## The Audit That Hasn't Come
+
+Guild documentation requirements have shifted three times in eight months, each time in the direction of more granular reporting on cross-border shipments. His contacts at the guild say the changes come from Auralis-side regulatory pressure, though they use careful language about this. He has updated his compliance protocols ahead of each change because he learned years ago that being prepared for an audit that never comes costs less than being unprepared for one that does.
+
+The changes have a direction. The direction has not been stated. He has documented what he observes.
+
+The first shift required detailed manifests for any shipment crossing into [[Auralis]] territory — not just value and category, but origin point, intermediate handlers, and final destination if known. The second required documentation of the Terravelle-side contacts involved in arranging cross-border transactions — names, guild affiliations, and established relationship duration. The third added a requirement for quarterly summaries of cross-border volume patterns, with specific attention to seasonal variations and any shipments that deviated from established routes.
+
+Each requirement arrived with explanations that made sense in isolation. Better record-keeping improves dispute resolution. More detailed manifests reduce customs delays. Relationship documentation helps verify legitimate trade partnerships. The explanations are reasonable. The pattern underneath them is not random.
+
+Cavel has been managing cross-border commerce for eleven years. He knows the difference between regulatory adjustment and systematic preparation. These changes are not about improving routine operations. They are about creating a paper trail that will support conclusions someone has already reached. He does not know what those conclusions are, but he has structured his documentation to demonstrate that his house's operations are exactly what they appear to be — legitimate trade conducted through established channels with documented partners.
+
+His counterparts in [[Valdenmoor]] report similar shifts in their guild requirements. The changes are not unique to [[Ashford]]. They are not unique to his merchant house. They are systematic, coordinated, and building toward something that has not been announced.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]*

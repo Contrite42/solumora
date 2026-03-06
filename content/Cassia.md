@@ -117,3 +117,19 @@ Her cipher is simple enough to use quickly and complex enough that casual inspec
 The pattern says that the Expansion Faction believes something is going to happen soon enough that they need to be ready for it. Whether they are preparing to cause it or to respond to it is not clear from her observations. Either way, they are preparing.
 
 *See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*
+
+## What She Knows
+
+Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
+
+What she knows: The [[Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
+
+What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
+
+She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
+
+The cipher is simple enough that she can write in it quickly during Council sessions without drawing attention, complex enough that casual observation would read it as personal shorthand rather than systematic documentation. She has been using it for six years. The accumulated record shows patterns that the official minutes do not capture — who defers to whom, which topics produce which kinds of careful language, how voting coalitions shift when different issues are under discussion.
+
+She knows that Drest has been building something for longer than three years. She knows that the Expansion Faction's current composition is not its final form. She knows that [[The Council of Auralis]] is moving toward decisions that will not be presented as decisions until they have already been implemented. She writes this down because someone should have a record of what actually happened, even if that someone is only herself.
+
+*See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]*

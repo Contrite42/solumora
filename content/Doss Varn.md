@@ -101,3 +101,17 @@ He is recording what he sees because that is what the new protocols require. Wai
 He does not know what it means. He knows that in his experience, when documentation requirements change without explanation, it is because someone expects to need the documentation later. For what purpose, he has not been told.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+The briefings have changed. Not the schedule — Doss still receives his weekly updates at the same time, in the same format, from the same administrative chain. But the tone has shifted in ways that he notices because he has been doing this work for six years and has developed an ear for when something is different.
+
+New documentation protocols arrived three months ago without explanation. Every traveler with Terravelle papers now requires a secondary verification step that was not required before. The forms are different — more fields, more specific questions about origin point and intended destination. His supervisor told him to implement the changes but did not tell him why the changes were necessary. This is unusual. Normally when procedures change, there is context. A policy reason. An incident that drove the modification.
+
+He has been seeing more travelers with Terravelle papers than he has in previous years. Not dramatically more, but enough that he notices. They are not different in any way he can identify — same mix of merchants, guild representatives, occasional independent travelers. Same documentation quality. Same stated business. But the volume has increased, and the increase coincides with the new verification requirements in a way that suggests someone anticipated it.
+
+One of his contacts at the [[Ashford]] command post — someone who has worked the border longer than he has — told him to log everything carefully. She has never said this before. When he asked why, she said the administrative climate was shifting and that detailed records would be important. She did not specify important for what, or to whom, or when. But she was serious about it in a way that made him take the advice.
+
+He is recording what he sees. Traveler volumes, documentation patterns, the frequency of verification delays, the reasons given when delays occur. He does not know what it means, but he knows that something is in motion that he is not being told about directly. The patterns are there. Someone is managing them. He is documenting them because that is what he was advised to do, and because six years of border work has taught him that when experienced people tell you to keep careful records, you keep careful records.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
