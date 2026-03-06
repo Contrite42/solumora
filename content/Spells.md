@@ -28,3 +28,16 @@ Use the tiered grimoires as canonical spell references:
 - [[Pale Grimoire]]
 
 
+
+## Sigil Maker Generated Spells
+
+- [[Spells/Barrier Ring|Barrier Ring]] - 3944 W - T5 (Rare)
+- [[Spells/Aurapulse|Aurapulse]] - 8925 W - T6 (Rare)
+- [[Spells/Mistfilter|Mistfilter]] - 135 W - T3 (Uncommon)
+- [[Spells/Blindingbeam|Blindingbeam]] - 53 W - T2 (Common)
+- [[Spells/Shockcone|Shockcone]] - 612 W - T4 (Uncommon)
+- [[Spells/Barrierplane|Barrierplane]] - 120 W - T2 (Common)
+- [[Spells/Chemiclash|Chemiclash]] - 495 W - T4 (Uncommon)
+- [[Spells/Cushioncone|Cushioncone]] - 229 W - T3 (Uncommon)
+- [[Spells/Cushioncone 2|Cushioncone 2]] - 61 W - T2 (Common)
+- [[Spells/Sigilbeam|Sigilbeam]] - 11 W - T1 (Common)

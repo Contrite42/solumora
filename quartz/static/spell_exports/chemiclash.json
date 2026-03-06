@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Chemiclash",
+    "summary": "Creates a powerful shockwave of chemical energy that intensifies and radiates outward from a marked point, instantly affecting everything within a wide area.",
+    "effect_description": "Creates a powerful shockwave of chemical energy that intensifies and radiates outward from a marked point, instantly affecting everything within a wide area. A pentagon amplify/affect recipe that channels chemical discipline into shock output. It applies a field pattern against marked across long reach with immediate persistence.",
+    "hook": "Amplify",
+    "mode": "Affect",
+    "shape": "Pentagon",
+    "discipline": "Chemical",
+    "output_mode": "Shock",
+    "pattern": "Field",
+    "reach": "Long",
+    "persistence": "Immediate",
+    "target_spec": "Marked",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 20,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 100,
+    "pattern_w": 60,
+    "reach_w": 40,
+    "persistence_w": 0,
+    "target_w": 15,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 225,
+    "hook_mode_multiplier": 2.2,
+    "hook_mode_flat_w": 0,
+    "total_w": 495,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Chemiclash** | Pentagon | Amplify | Affect | T4 | Chemical | Shock | Field | Long | Immediate | Marked |"
+}

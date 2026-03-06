@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mistfilter",
+    "summary": "Releases a reactive chemical mist that instantly filters and purifies the air within a defined square area around the caster.",
+    "effect_description": "Releases a reactive chemical mist that instantly filters and purifies the air within a defined square area around the caster. A square emit/control recipe that channels chemical discipline into reactive output. It applies a plane pattern against filter across self reach with immediate persistence.",
+    "hook": "Emit",
+    "mode": "Control",
+    "shape": "Square",
+    "discipline": "Chemical",
+    "output_mode": "Reactive",
+    "pattern": "Plane",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Filter",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 5,
+    "core_discipline_w": 40,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 60,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 100,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "total_w": 135,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Mistfilter** | Square | Emit | Control | T3 | Chemical | Reactive | Plane | Self | Immediate | Filter |"
+}

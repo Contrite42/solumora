@@ -479,3 +479,39 @@ A spell that amplifies effects using binding magic.
 | Persistence | Timed (Long) |
 | Target | Group |
 
+
+---
+
+**Barrier Ring**
+Releases a shimmering barrier of ethereal energy that momentarily repels any negative influence directed at an object.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Counter |
+| Mode | Affect |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Ring |
+| Reach | Anchored |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Aurapulse**
+Temporarily enhances an object with a vibrant aura that resonates with the essence of its soul, allowing it to emit a soft, ethereal glow.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T6 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Point |
+| Reach | Self |
+| Persistence | Timed (Short) |
+| Target | Object |
+

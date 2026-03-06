@@ -1,0 +1,18 @@
+{
+  "name": "Shockcone",
+  "summary": "Unleashes a wide cone of electric energy that jolts and temporarily paralyzes anything caught within its path.",
+  "effect_description": "Unleashes a wide cone of electric energy that jolts and temporarily paralyzes anything caught within its path. A circle transform/affect recipe that channels electric discipline into shock output. It applies a cone pattern against filter across medium reach with immediate persistence.",
+  "hook": "Transform",
+  "mode": "Affect",
+  "shape": "Circle",
+  "discipline": "Electric",
+  "output_mode": "Shock",
+  "pattern": "Cone",
+  "reach": "Medium",
+  "persistence": "Immediate",
+  "target_spec": "Filter",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.7,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

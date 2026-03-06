@@ -1302,3 +1302,75 @@ The spell creates a focused sonic blast emanating from the caster's body that af
 | Persistence | _(default - Immediate)_ |
 | Target | Surface |
 
+
+---
+
+**Blindingbeam**
+Unleashes a blinding beam of light that momentarily disorients anyone who looks directly at it.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Light |
+| Output | Sonic |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Barrierplane**
+Instantly generates a protective barrier around the caster that deflects incoming physical attacks.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Binding |
+| Output | Kinetic |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Cushioncone 2**
+Creates a brief, localized cushion of force that gently slows the impact of an object, preventing it from causing damage upon contact.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Dampen |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Force |
+| Output | Kinetic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Sigilbeam**
+Releases a concentrated beam of raw energy that instantly etches a glowing sigil into the surface it strikes.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T1 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

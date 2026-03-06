@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Cushioncone 2",
+    "summary": "Creates a brief, localized cushion of force that gently slows the impact of an object, preventing it from causing damage upon contact.",
+    "effect_description": "Creates a brief, localized cushion of force that gently slows the impact of an object, preventing it from causing damage upon contact. A square dampen/create recipe that channels force discipline into kinetic output. It applies a cone pattern against object across self reach with immediate persistence.",
+    "hook": "Dampen",
+    "mode": "Create",
+    "shape": "Square",
+    "discipline": "Force",
+    "output_mode": "Kinetic",
+    "pattern": "Cone",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Object",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 16,
+    "pattern_w": 10,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 2,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 28,
+    "hook_mode_multiplier": 2.1849999999999996,
+    "hook_mode_flat_w": 0,
+    "total_w": 61,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Cushioncone 2** | Square | Dampen | Create | T2 | Force | Kinetic | Cone | Self | Immediate | Object |"
+}

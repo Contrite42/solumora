@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Aurapulse",
+    "summary": "Temporarily enhances an object with a vibrant aura that resonates with the essence of its soul, allowing it to emit a soft, ethereal glow.",
+    "effect_description": "Temporarily enhances an object with a vibrant aura that resonates with the essence of its soul, allowing it to emit a soft, ethereal glow. A circle filter/control recipe that channels soul discipline into soul output. It applies a point pattern against object across self reach with timed short persistence.",
+    "hook": "Filter",
+    "mode": "Control",
+    "shape": "Circle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Point",
+    "reach": "Self",
+    "persistence": "Timed Short",
+    "target_spec": "Object",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 4125,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 5,
+    "target_w": 2,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 4132,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "total_w": 8925,
+    "required_tier": "T6",
+    "rarity": "Rare"
+  },
+  "all_grimoire_row": "| **Aurapulse** | Circle | Filter | Control | T6 | Soul | Soul | Point | Self | Timed Short | Object |"
+}

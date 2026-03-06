@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Blindingbeam",
+    "summary": "Unleashes a blinding beam of light that momentarily disorients anyone who looks directly at it.",
+    "effect_description": "Unleashes a blinding beam of light that momentarily disorients anyone who looks directly at it. A square emit/control recipe that channels light discipline into sonic output. It applies a beam pattern against self across self reach with immediate persistence.",
+    "hook": "Emit",
+    "mode": "Control",
+    "shape": "Square",
+    "discipline": "Light",
+    "output_mode": "Sonic",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Self",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 24,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 39,
+    "hook_mode_multiplier": 1.35,
+    "hook_mode_flat_w": 0,
+    "total_w": 53,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Blindingbeam** | Square | Emit | Control | T2 | Light | Sonic | Beam | Self | Immediate | Self |"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Cushioncone",
+  "summary": "Creates a temporary, soft cushion of energy that absorbs impact when landing on a surface.",
+  "effect_description": "Creates a temporary, soft cushion of energy that absorbs impact when landing on a surface. A square dampen/create recipe that channels binding discipline into kinetic output. It applies a cone pattern against surface across self reach with immediate persistence.",
+  "hook": "Dampen",
+  "mode": "Create",
+  "shape": "Square",
+  "discipline": "Binding",
+  "output_mode": "Kinetic",
+  "pattern": "Cone",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Surface",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.1849999999999996,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

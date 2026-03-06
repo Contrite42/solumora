@@ -1024,3 +1024,75 @@ The spell creates a triangular field of Mind energy at the location where it is 
 | Persistence | _(default - Immediate)_ |
 | Target | _(default - Where Written)_ |
 
+
+---
+
+**Mistfilter**
+Releases a reactive chemical mist that instantly filters and purifies the air within a defined square area around the caster.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Filter |
+
+
+---
+
+**Shockcone**
+Unleashes a wide cone of electric energy that jolts and temporarily paralyzes anything caught within its path.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Transform |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Cone |
+| Reach | Medium |
+| Persistence | Immediate |
+| Target | Filter |
+
+
+---
+
+**Chemiclash**
+Creates a powerful shockwave of chemical energy that intensifies and radiates outward from a marked point, instantly affecting everything within a wide area.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Chemical |
+| Output | Shock |
+| Pattern | Field |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Cushioncone**
+Creates a temporary, soft cushion of energy that absorbs impact when landing on a surface.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Dampen |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Binding |
+| Output | Kinetic |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+

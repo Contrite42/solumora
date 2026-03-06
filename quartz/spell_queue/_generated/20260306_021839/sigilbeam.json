@@ -1,0 +1,18 @@
+{
+  "name": "Sigilbeam",
+  "summary": "Releases a concentrated beam of raw energy that instantly etches a glowing sigil into the surface it strikes.",
+  "effect_description": "Releases a concentrated beam of raw energy that instantly etches a glowing sigil into the surface it strikes. A triangle emit/control recipe that channels raw discipline into raw output. It applies a beam pattern against where written across self reach with immediate persistence.",
+  "hook": "Emit",
+  "mode": "Control",
+  "shape": "Triangle",
+  "discipline": "Raw",
+  "output_mode": "Raw",
+  "pattern": "Beam",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.35,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}
