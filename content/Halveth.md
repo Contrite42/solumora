@@ -32,7 +32,7 @@ Wren's Binding range extends far enough south to give the village some warning. 
 
 [[Auralis]] expedition researchers who pass through Halveth and speak to Wren about rift conditions consistently report that she knows more than they do. None of them have successfully determined how.
 
-*See also: [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Flux]], [[Watts]], [[Birth Runes]], [[Rett Soln]], [[Equatorial Fauna]], [[Life in Halveth]], [[Cor Meln]], [[Ossen Drel]], [[Selt Orvn]], [[Vorn Teld]]*
+_See also: [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Flux]], [[Watts]], [[Birth Runes]], [[Rett Soln]], [[Equatorial Fauna]], [[Life in Halveth]], [[Cor Meln]], [[Ossen Drel]], [[Selt Orvn]], [[Vorn Teld]]_
 
 ## Logistics Position
 
@@ -42,4 +42,4 @@ Seasonal heavy movement around the desert edge is handled through the [[Zakros R
 
 The road's reliability near Halveth depends as much on local knowledge and timing discipline as on formal contracts. In crossing season, this turns the village into a bottleneck people plan around months in advance.
 
-*See also: [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Ashford]], [[Auralis]], [[Terravelle]], [[Life in Halveth]], [[Halveth Cooperative]], [[The Northern Narrows]], [[Standard Guided Crossing]], [[Equatorial Desert]]*
+_See also: [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Ashford]], [[Auralis]], [[Terravelle]], [[Life in Halveth]], [[Halveth Cooperative]], [[The Northern Narrows]], [[Standard Guided Crossing]], [[Equatorial Desert]]_

@@ -10,7 +10,7 @@ Guide logs still use west, central, and east shorthand, but those labels describ
 
 Parties usually enter through the Narrows, commit to an interior lane profile, and only then transition into Southern Approaches movement bands. The value of the Approaches is pacing and angle control for final southbound objectives, not initial entry safety.
 
-This reclassification reduced planning errors created by older maps that implied a separate Halveth-origin network.
+This reclassification reduced planning errors created by older maps that implied a separate settlement-origin network.
 
 ## Seasonal Conditions
 
