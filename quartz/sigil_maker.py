@@ -55,6 +55,30 @@ HOOKS = {
 
 MODES = {"Create", "Affect", "Control"}
 
+HOOK_COMPLEXITY_MULTIPLIERS = {
+    "Emit": 1.0,
+    "Shape": 1.2,
+    "Bind": 1.6,
+    "Ward": 2.0,
+    "Trigger": 1.8,
+    "Transform": 1.7,
+    "Move": 1.5,
+    "Sense": 1.8,
+    "Filter": 1.6,
+    "Amplify": 2.2,
+    "Dampen": 1.9,
+    "Counter": 2.6,
+}
+
+MODE_COMPLEXITY_MULTIPLIERS = {"Create": 1.15, "Affect": 1.0, "Control": 1.35}
+
+SHAPE_CONTROL_SURFACE = {
+    "Triangle": ("discipline", "output_mode", "pattern"),
+    "Square": ("discipline", "output_mode", "pattern", "target_spec"),
+    "Pentagon": ("discipline", "output_mode", "pattern", "target_spec", "reach"),
+    "Circle": ("discipline", "output_mode", "pattern", "target_spec", "reach", "persistence"),
+}
+
 OUTPUT_MODES = {
     "Raw",
     "Thermal",
@@ -224,6 +248,14 @@ def canonicalize(value: str, valid: set[str], aliases: dict[str, str] | None = N
         if normalize_token(candidate) == key:
             return candidate
     raise ValueError(f"Unknown value '{value}'. Allowed: {sorted(valid)}")
+
+
+def explicit_outer_variables(shape: str) -> tuple[str, ...]:
+    return SHAPE_CONTROL_SURFACE[shape]
+
+
+def default_hook_mode_multiplier(hook: str, mode: str) -> float:
+    return HOOK_COMPLEXITY_MULTIPLIERS[hook] * MODE_COMPLEXITY_MULTIPLIERS[mode]
 
 
 def parse_spec(spec_data: dict[str, Any]) -> SpellSpec:
