@@ -19,4 +19,4 @@ Rift-linked hazards are less frequent than in deep-desert approach zones but sti
 
 Because the basin is a logistics zone rather than a conquest objective, no kingdom treats it as a formal jurisdiction priority. In practice, standards are enforced by contract reputation and by who can still move goods through it safely next season.
 
-*See also: [[Equatorial Desert]], [[Halveth]], [[Selt Orvn]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Rift Incursions]], [[The Southern Approaches]], [[Zakros Rim Caravan Loop]]*
+*See also: [[Equatorial Desert]], [[Halveth]], [[Selt Orvn]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Rift Incursions]], [[The Northern Narrows]], [[Zakros Rim Caravan Loop]]*

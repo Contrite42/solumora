@@ -18,7 +18,7 @@ He did not lead his third crossing until three months after the second. He consi
 
 ## Halveth and Wren
 
-Rett has a functional relationship with [[Wren]], built on the recognition that she knows things about the southern approaches that he cannot know from crossing records alone. He speaks to her before every expedition and takes her assessments seriously, which she reciprocates by being straightforwardly useful rather than cryptically advisory. He is aware that she knows more about the rift activity near the anomalous sites than he does. He is aware that she is not going to share all of it. He works with what she provides and does not push.
+Rett has a functional relationship with [[Wren]], built on the recognition that she knows things about the [[The Northern Narrows|Northern Narrows corridors]] that he cannot know from crossing records alone. He speaks to her before every expedition and takes her assessments seriously, which she reciprocates by being straightforwardly useful rather than cryptically advisory. He is aware that she knows more about the rift activity near the anomalous sites than he does. He is aware that she is not going to share all of it. He works with what she provides and does not push.
 
 He does not know what she is. He has noticed that she has not aged in ten years of their acquaintance in the way that a person his mother's age should age, and has filed this in the section of his mind where he puts things he cannot act on and does not need to understand to work with.
 

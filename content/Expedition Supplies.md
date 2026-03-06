@@ -4,4 +4,4 @@ Standard lists include water containment, preserved food, shelter materials, sig
 
 Supply quality matters more than quantity when replacement access is uncertain.
 
-*See also: [[Equatorial Desert]], [[Halveth]], [[The Southern Approaches]], [[Avel Coss]], [[Selt Orvn]], [[Relay-Stage Crossing]]*
+*See also: [[Equatorial Desert]], [[Halveth]], [[The Northern Narrows]], [[Avel Coss]], [[Selt Orvn]], [[Relay-Stage Crossing]]*

@@ -42,7 +42,7 @@ Crossings during midsummer are not recommended. They happen anyway, for cargo th
 
 The practical implication: party composition reviews by [[Halveth Cooperative]] guides assess total Flux coverage capacity against total party size. A five-person party with two T0 or T1 members and three T3 casters needs the three casters to cover five people's protection load, not three. Guides who conduct accurate assessments before departure account for this explicitly. Expedition leaders who assume low-tier members can handle some portion of their own desert protection needs are reliably wrong.
 
-*See also: [[Equatorial Desert]], [[Halveth Cooperative]], [[Halveth]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[Grimoires]], [[Avel Coss]], [[Selt Orvn]], [[The Southern Approaches]], [[The Northern Narrows]], [[Control Tier]]*
+*See also: [[Equatorial Desert]], [[Halveth Cooperative]], [[Halveth]], [[Express Route Crossing]], [[Relay-Stage Crossing]], [[Grimoires]], [[Avel Coss]], [[Selt Orvn]], [[The Northern Narrows]], [[Control Tier]]*
 
 ## Access Floor Constraint (Addendum)
 
@@ -50,4 +50,4 @@ At the Zakros entry zone, [[Control Tier|Tier 0]] and [[Control Tier|Tier 1]] ca
 
 The practical planning rule is unchanged but now explicit: crossing-critical casts are assigned to T2+ practitioners, with T3+ guide coverage preferred for route control under stress.
 
-*See also: [[Control Tier]], [[Equatorial Desert]], [[Halveth Cooperative]], [[The Southern Approaches]], [[The Northern Narrows]]*
+*See also: [[Control Tier]], [[Equatorial Desert]], [[Halveth Cooperative]], [[The Northern Narrows]]*
