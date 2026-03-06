@@ -215,7 +215,7 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "ashford",
     label: "Ashford",
-    x: 798,
+    x: 828,
     y: 640,
     keys: ["Ashford"],
     titles: ["Ashford"],
@@ -225,7 +225,7 @@ const MAP_MARKERS: MapMarker[] = [
     id: "halveth",
     label: "Halveth",
     x: 720,
-    y: 680,
+    y: 580,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
