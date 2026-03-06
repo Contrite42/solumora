@@ -64,3 +64,93 @@ Boosts binding constraint flux as a spherical envelope at self reach, targeting 
 | Target | Where Written |
 | Spell Page | [[Spells/Sphere Flux Anchor|Sphere Flux Anchor]] |
 
+
+---
+
+**Soul Ward Triangle**
+The spell creates a triangular ward that affects the caster's soul and can be immediately activated at the point where it is written.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Ward |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Soul |
+| Output | Constraint |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Amplified Electric Shock Wave**
+The spell amplifies and releases a concentrated electric shock over a long range in the shape of a sphere, targeting a group of individuals immediately.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Amplify |
+| Mode | Create |
+| Control Tier | T4 |
+| Discipline | Electric |
+| Output | Shock |
+| Pattern | Sphere |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Sound Field Square Form**
+This spell creates a field of sound that takes the shape of a square and affects only a marked target with immediate effects.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Shape |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Sound |
+| Output | Kinetic |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Amplify Thermal Output Mode**
+The spell amplifies sound to a thermal output mode at the point where it is written, persisting as long as it remains latched.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Amplify |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Sound |
+| Output | Thermal |
+| Pattern | Sphere |
+| Reach | Line-of-Sight |
+| Persistence | Latched |
+| Target | Where Written |
+
+
+---
+
+**Sonic Ring of Sound**
+The spell creates a sustained sonic ring of sound that affects the marked area over long reach, but only for an immediate duration.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Shape |
+| Mode | Affect |
+| Control Tier | T3 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Ring |
+| Reach | Long |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+

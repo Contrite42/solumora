@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Heat Wave Burst",
+    "summary": "The spell creates a localized burst of intense heat that affects all nearby targets, radiating outward in a square pattern before dissipating immediately.",
+    "effect_description": "The spell creates a localized burst of intense heat that affects all nearby targets, radiating outward in a square pattern before dissipating immediately. A square dampen/affect recipe that channels heat discipline into kinetic output. It applies a beam pattern against group across self reach with immediate persistence.",
+    "hook": "Dampen",
+    "mode": "Affect",
+    "shape": "Square",
+    "discipline": "Heat",
+    "output_mode": "Kinetic",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Group",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.9,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 8,
+    "discipline_multiplier": 2,
+    "core_discipline_w": 16,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 35,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 66,
+    "hook_mode_multiplier": 1.9,
+    "hook_mode_flat_w": 0,
+    "total_w": 125,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Heat Wave Burst** | Square | Dampen | Affect | T2 | Heat | Kinetic | Beam | Self | Immediate | Group |",
+  "ollama_interpretation": "**Spell Name:** Heat Wave Burst\n\n**Description:** Creates a localized burst of intense heat that affects all nearby targets in a square pattern.\n\n**Likely Use:** Clearing groups or clusters of enemies, or as an area denial tool against crowds.\n\n**Operational Constraint:** Can only be used within the caster's self-reach, limiting its effectiveness at long ranges."
+}

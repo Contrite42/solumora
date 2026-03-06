@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "name": "Resonant Sonic Barrier",
+    "summary": "This spell creates a ring-shaped sonic barrier that resonates at a specific sound frequency, affecting the area where it is written, with immediate effects.",
+    "effect_description": "This spell creates a ring-shaped sonic barrier that resonates at a specific sound frequency, affecting the area where it is written, with immediate effects. A triangle filter/control recipe that channels sound discipline into sonic output. It applies a ring pattern against where written across self reach with immediate persistence.",
+    "hook": "Filter",
+    "mode": "Control",
+    "shape": "Triangle",
+    "discipline": "Sound",
+    "output_mode": "Sonic",
+    "pattern": "Ring",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 4,
+    "core_discipline_w": 12,
+    "pattern_w": 15,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 27,
+    "hook_mode_multiplier": 2.16,
+    "hook_mode_flat_w": 0,
+    "total_w": 58,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Resonant Sonic Barrier** | Triangle | Filter | Control | T2 | Sound | Sonic | Ring | Self | Immediate | Where Written |",
+  "ollama_interpretation": "**Spell Note: Resonant Sonic Barrier**\n\nThis spell creates a ring-shaped sonic barrier that resonates at a specific sound frequency, affecting the area where it is written.\n\n**Likely Use:** Sound-based protection or offense in combat situations, such as creating a shockwave around oneself to repel enemies.\n\n**Operational Constraint:** Requires concentration and intentional focus on the target area to effectively resonate the sonic barrier."
+}

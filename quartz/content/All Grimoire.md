@@ -28,3 +28,17 @@
 | **Sphere Flux Anchor** | Triangle | Amplify | Affect | T3 | Binding | Constraint | Sphere | Self | Immediate | Where Written |
 | **Beam Anchor Amp** | Triangle | Amplify | Affect | T2 | Binding | Kinetic | Beam | Self | Immediate | Where Written |
 | **Amplify Binding Flux** | Triangle | Amplify | Affect | T2 | Binding | Kinetic | Cone | Self | Immediate | Where Written |
+
+## Sigil Maker Generated Index
+
+- [[Spells/Soul Ward Triangle|Soul Ward Triangle]] - 570 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Heat Wave Burst|Heat Wave Burst]] - 125 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Amplified Electric Shock Wave|Amplified Electric Shock Wave]] - 519 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Sound Field Square Form|Sound Field Square Form]] - 161 W - T3 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Amplify Thermal Output Mode|Amplify Thermal Output Mode]] - 880 W - T4 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Resonant Sonic Barrier|Resonant Sonic Barrier]] - 58 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Sound Wave Impact|Sound Wave Impact]] - 130 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Plane Creation|Plane Creation]] - 18 W - T1 - [[Common Grimoire|Common]]
+- [[Spells/Sonic Beam Manipulation|Sonic Beam Manipulation]] - 80 W - T2 - [[Common Grimoire|Common]]
+- [[Spells/Sonic Ring of Sound|Sonic Ring of Sound]] - 180 W - T3 - [[Uncommon Grimoire|Uncommon]]
+- [[Spells/Raw Bind Ring|Raw Bind Ring]] - 39 W - T1 - [[Common Grimoire|Common]]

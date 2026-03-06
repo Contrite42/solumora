@@ -1,0 +1,18 @@
+{
+  "name": "Sonic Beam Manipulation",
+  "summary": "This spell creates a sonic beam that emanates from the caster and persists for an immediate duration, potentially manipulating sound waves around them.",
+  "effect_description": "This spell creates a sonic beam that emanates from the caster and persists for an immediate duration, potentially manipulating sound waves around them. A square filter/control recipe that channels sound discipline into sonic output. It applies a beam pattern against self across self reach with immediate persistence.",
+  "hook": "Filter",
+  "mode": "Control",
+  "shape": "Square",
+  "discipline": "Sound",
+  "output_mode": "Sonic",
+  "pattern": "Beam",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Self",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.16,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

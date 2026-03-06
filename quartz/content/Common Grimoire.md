@@ -568,3 +568,111 @@ Boosts binding kinetic flux as a fan spread at self reach, targeting the inscrib
 | Target | Where Written |
 | Spell Page | [[Spells/Amplify Binding Flux|Amplify Binding Flux]] |
 
+
+---
+
+**Heat Wave Burst**
+The spell creates a localized burst of intense heat that affects all nearby targets, radiating outward in a square pattern before dissipating immediately.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Dampen |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Heat |
+| Output | Kinetic |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Resonant Sonic Barrier**
+This spell creates a ring-shaped sonic barrier that resonates at a specific sound frequency, affecting the area where it is written, with immediate effects.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Sound Wave Impact**
+The spell causes a resonant triangle-shaped sound wave to affect the caster's soul where they are written or marked, having an immediate effect with no sustained duration.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Sound |
+| Output | Soul |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Plane Creation**
+The spell creates a raw magical plane on the caster's surface that lasts only momentarily and is not sustained beyond its initial emission.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Emit |
+| Mode | Control |
+| Control Tier | T1 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Sonic Beam Manipulation**
+This spell creates a sonic beam that emanates from the caster and persists for an immediate duration, potentially manipulating sound waves around them.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Filter |
+| Mode | Control |
+| Control Tier | T2 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Self |
+
+
+---
+
+**Raw Bind Ring**
+Anchors raw flux as a ring perimeter at self reach, targeting the inscribed anchor with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Bind |
+| Mode | Control |
+| Control Tier | T1 |
+| Discipline | Raw |
+| Output | Raw |
+| Pattern | Ring |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

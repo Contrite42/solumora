@@ -1,0 +1,18 @@
+{
+  "name": "Sound Wave Impact",
+  "summary": "The spell causes a resonant triangle-shaped sound wave to affect the caster's soul where they are written or marked, having an immediate effect with no sustained duration.",
+  "effect_description": "The spell causes a resonant triangle-shaped sound wave to affect the caster's soul where they are written or marked, having an immediate effect with no sustained duration. A triangle move/affect recipe that channels sound discipline into soul output. It applies a ring pattern against where written across self reach with immediate persistence.",
+  "hook": "Move",
+  "mode": "Affect",
+  "shape": "Triangle",
+  "discipline": "Sound",
+  "output_mode": "Soul",
+  "pattern": "Ring",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.5,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

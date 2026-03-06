@@ -1,0 +1,18 @@
+{
+  "name": "Soul Ward Triangle",
+  "summary": "The spell creates a triangular ward that affects the caster's soul and can be immediately activated at the point where it is written.",
+  "effect_description": "The spell creates a triangular ward that affects the caster's soul and can be immediately activated at the point where it is written. A triangle ward/affect recipe that channels soul discipline into constraint output. It applies a point pattern against where written across self reach with immediate persistence.",
+  "hook": "Ward",
+  "mode": "Affect",
+  "shape": "Triangle",
+  "discipline": "Soul",
+  "output_mode": "Constraint",
+  "pattern": "Point",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.0,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}
