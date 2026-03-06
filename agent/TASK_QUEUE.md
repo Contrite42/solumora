@@ -115,10 +115,11 @@ These tasks expand the world's texture without adding new structural elements. T
   **Owner:** `Copilot Auto`
   **Status:** COMPLETE — 6 pages (Thel Reach, Dren Outpost, Seln Watch, Korst Station, Cross-Border Guide Network, Desert Watch) + Equatorial Desert hub integration.
 
-- [ ] **Goal:** Expand the **Maritime World** beyond documented trade routes.
+- [x] **Goal:** Expand the **Maritime World** beyond documented trade routes.
   **Constraints:** Coastal shipping exists but we have no fishing communities, coastal towns between major ports, maritime culture, or ship-building economy. Need at least 3 coastal settlements (2 in Auralis, 1 in Terravelle) that depend on the sea rather than just using it for transport. Must address how Flux interacts with deep-water navigation and storm management.
   **Output:** 5-6 notes (3 coastal towns + 2-3 maritime institutions/practices) + update [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Line]] with stopping points.
   **Owner:** `Copilot Auto`
+  **Status:** COMPLETE — 5 pages (Torst Bay, Keln Harbor, Brend Point, Maritime Storm Coordination, Coastal Settlement Network) + 2 hub integrations (Hedun-Solhaven Coastal Run, Outer Coast Packet Line).
 
 - [ ] **Goal:** Build the **Grimoire Underground** as operational reality.
   **Constraints:** Black market circulation is documented but no actual criminal organizations, smuggling routes through existing trade networks, or illicit practitioners who operate outside guild regulation. Need 3-4 underground institutions with names, methods, territories, and the people who run them. Must show how they interface with legitimate grimoire economy without replacing it.
