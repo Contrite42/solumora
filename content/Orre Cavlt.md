@@ -119,3 +119,17 @@ He has been in this business long enough to know the difference between friction
 He is not yet sure which this is. But it is not random. Someone is managing these changes in a coordinated way, and the coordination extends beyond what any single administrative unit would implement on its own initiative. He has started keeping more detailed records of his crossing times, his contact interactions, and the informal intelligence he normally relies on to predict trade conditions. If this is signal rather than friction, the records will show it. If it is friction, the records will show that too.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*
+
+## What He Cannot Model
+
+The informal indicators Orre reads — wait times, inspection tone, his contacts' candor — are shifting without a clear pattern. These are not the seasonal variations he has learned to anticipate over two decades of cross-border commerce. These are changes in the underlying system that he cannot map to any announced policy or documented procedure.
+
+Two of his longer relationships on the [[Auralis]] side have become careful. Not hostile, not suspicious, but careful in ways that suggest they are operating under guidance they cannot discuss. Conversations that used to be straightforward now include pauses where his contacts seem to be considering what they can say rather than simply answering his questions. The business gets done, but the ease that made these relationships valuable has been replaced by a formality that serves no one's interests.
+
+A shipment he expected to clear in one day sat for four without any formal hold applied. No paperwork was flagged. No irregularities were identified. No explanation was offered. The cargo simply remained in the inspection area while he waited for someone to tell him what the problem was, and when it was finally released, no one could tell him what had changed. The delay cost him a delivery window and forced him to renegotiate terms with his [[Ashford]] buyer, but the financial loss is less concerning than the unpredictability.
+
+He has been in this business long enough to know the difference between friction and signal. Friction is random — delays that happen because someone is having a bad day, because paperwork gets misfiled, because the normal flow of commerce hits obstacles that resolve themselves. Signal is systematic — changes that have a direction even when the direction is not stated, patterns that suggest someone has decided something without announcing what they decided.
+
+What he is seeing is signal. He is not yet sure what it means, but it is not random. The changes have a consistency that suggests coordination, and coordination suggests intent. He is documenting what he observes because he suspects that understanding the intent will become important, and he wants to have the data when it does.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]*

@@ -115,3 +115,17 @@ One of his contacts at the [[Ashford]] command post — someone who has worked t
 He is recording what he sees. Traveler volumes, documentation patterns, the frequency of verification delays, the reasons given when delays occur. He does not know what it means, but he knows that something is in motion that he is not being told about directly. The patterns are there. Someone is managing them. He is documenting them because that is what he was advised to do, and because six years of border work has taught him that when experienced people tell you to keep careful records, you keep careful records.
 
 *See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
+
+## The Shift
+
+Doss's briefings have changed in tone over the past year. The changes are not dramatic — no new policies announced, no emergency protocols implemented — but the emphasis has shifted in ways that he notices because he has been doing this work for six years and knows what normal sounds like.
+
+New documentation protocols arrived without explanation three months ago. Forms that used to be optional are now required. Information that was previously recorded in summary is now logged in detail. The briefing officer who delivered the new procedures said they came from Auralis command but offered no context about why the changes were necessary or what they were intended to accomplish.
+
+More travelers with [[Terravelle]] papers than he has seen before. Not dramatically more — the numbers are not alarming — but enough that he has started keeping a running count because the pattern feels significant. These are not merchants or traders whose presence he would expect to fluctuate with seasonal commerce. These are people with documentation indicating residence in Terravelle settlements he has never heard of, carrying travel papers that are technically valid but that he has no practical way to verify.
+
+One of his contacts at the [[Ashford]] command post told him to log everything carefully, which she has never said before. Not log everything differently — log everything carefully. The distinction matters. She has worked the border longer than he has, and her advice has always been practical rather than cautious. When she tells him to be careful about record-keeping, she is telling him that someone is paying attention to the records in ways that were not previously the case.
+
+He is recording what he sees. He does not know what it means. But he has learned that when experienced people start being careful about things they were not previously careful about, there is usually a reason that becomes clear later. He would prefer to understand the reason before it becomes clear.
+
+*See also: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Auralis]]*
