@@ -264,14 +264,24 @@ def parse_spec(spec_data: dict[str, Any]) -> SpellSpec:
     if missing:
         raise ValueError(f"Spec missing required keys: {missing}")
 
+    hook = canonicalize(str(spec_data["hook"]), HOOKS)
+    mode = canonicalize(str(spec_data["mode"]), MODES)
+    shape = canonicalize(str(spec_data["shape"]), set(SHAPES))
+    discipline = canonicalize(str(spec_data["discipline"]), set(DISCIPLINE_MULTIPLIERS))
+    hook_mode_multiplier = (
+        float(spec_data["hook_mode_multiplier"])
+        if "hook_mode_multiplier" in spec_data
+        else default_hook_mode_multiplier(hook, mode)
+    )
+
     return SpellSpec(
         name=str(spec_data["name"]).strip(),
         summary=str(spec_data["summary"]).strip(),
         effect_description=str(spec_data["effect_description"]).strip(),
-        hook=canonicalize(str(spec_data["hook"]), HOOKS),
-        mode=canonicalize(str(spec_data["mode"]), MODES),
-        shape=canonicalize(str(spec_data["shape"]), set(SHAPES)),
-        discipline=canonicalize(str(spec_data["discipline"]), set(DISCIPLINE_MULTIPLIERS)),
+        hook=hook,
+        mode=mode,
+        shape=shape,
+        discipline=discipline,
         output_mode=canonicalize(
             str(spec_data.get("output_mode", DEFAULTS["output_mode"])), OUTPUT_MODES
         ),
@@ -288,7 +298,7 @@ def parse_spec(spec_data: dict[str, Any]) -> SpellSpec:
             str(spec_data.get("target_spec", DEFAULTS["target_spec"])), set(TARGET_COSTS)
         ),
         sustained_minutes=int(spec_data.get("sustained_minutes", 0)),
-        hook_mode_multiplier=float(spec_data.get("hook_mode_multiplier", 1.0)),
+        hook_mode_multiplier=hook_mode_multiplier,
         hook_mode_flat_w=int(spec_data.get("hook_mode_flat_w", 0)),
         notes=str(spec_data.get("notes", "")).strip(),
     )
@@ -323,25 +333,44 @@ def persistence_cost(spec: SpellSpec) -> int:
 
 
 def validate_shape_slots(spec: SpellSpec) -> list[str]:
-    non_default_outer = []
-    if spec.output_mode != DEFAULTS["output_mode"]:
-        non_default_outer.append("output_mode")
-    if spec.pattern != DEFAULTS["pattern"]:
-        non_default_outer.append("pattern")
-    if spec.reach != DEFAULTS["reach"]:
-        non_default_outer.append("reach")
-    if spec.persistence != DEFAULTS["persistence"]:
-        non_default_outer.append("persistence")
-    if spec.target_spec != DEFAULTS["target_spec"]:
-        non_default_outer.append("target_spec")
+    explicit = set(explicit_outer_variables(spec.shape))
+    blocked_values = {
+        "output_mode": spec.output_mode,
+        "pattern": spec.pattern,
+        "target_spec": spec.target_spec,
+        "reach": spec.reach,
+        "persistence": spec.persistence,
+    }
+    blocked_defaults = {
+        "output_mode": DEFAULTS["output_mode"],
+        "pattern": DEFAULTS["pattern"],
+        "target_spec": DEFAULTS["target_spec"],
+        "reach": DEFAULTS["reach"],
+        "persistence": DEFAULTS["persistence"],
+    }
 
-    remaining_slots = SHAPES[spec.shape]["outer_slots"] - 1
-    if len(non_default_outer) > remaining_slots:
+    for key, value in blocked_values.items():
+        if key in explicit:
+            continue
+        if value != blocked_defaults[key]:
+            raise ValueError(
+                f"{spec.shape} does not expose '{key}' for explicit assignment. "
+                f"Use default '{blocked_defaults[key]}' or choose a higher-control shape."
+            )
+
+    if "persistence" not in explicit and spec.sustained_minutes > 0:
         raise ValueError(
-            f"{spec.shape} supports {remaining_slots} non-default outer variables, "
-            f"but spec uses {len(non_default_outer)}: {non_default_outer}"
+            f"{spec.shape} does not expose persistence, so sustained_minutes must be 0."
         )
-    return non_default_outer
+
+    assigned_explicit = []
+    for key in explicit:
+        if key == "discipline":
+            assigned_explicit.append(key)
+            continue
+        if blocked_values.get(key) != blocked_defaults.get(key):
+            assigned_explicit.append(key)
+    return sorted(assigned_explicit)
 
 
 def tier_for_cost(total_w: int) -> str:
@@ -436,6 +465,13 @@ def markdown_page(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
     if spec.persistence == "Sustained":
         sustained_note = f" ({spec.sustained_minutes} min planned active window)"
 
+    explicit = explicit_outer_variables(spec.shape)
+    implied_defaults = []
+    for key in ["output_mode", "pattern", "target_spec", "reach", "persistence"]:
+        if key in explicit:
+            continue
+        implied_defaults.append(f"{key}={DEFAULTS[key]}")
+
     ai_payload = {
         "name": spec.name,
         "summary": spec.summary,
@@ -480,6 +516,8 @@ def markdown_page(spec: SpellSpec, breakdown: SpellCostBreakdown) -> str:
 
 ## Cost Breakdown
 
+- Shape control surface: {spec.shape} explicit outer variables = {", ".join(explicit)}
+- Shape implied defaults: {", ".join(implied_defaults) if implied_defaults else "(none)"}
 - Core discipline cost: {breakdown.shape_base_w} * {breakdown.discipline_multiplier} = {breakdown.core_discipline_w} W
 - Pattern + Reach + Persistence + Target + Output premium:
   {breakdown.pattern_w} + {breakdown.reach_w} + {breakdown.persistence_w} + {breakdown.target_w} + {breakdown.output_mode_premium_w} = {breakdown.pattern_w + breakdown.reach_w + breakdown.persistence_w + breakdown.target_w + breakdown.output_mode_premium_w} W
