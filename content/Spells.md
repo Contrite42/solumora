@@ -19,3 +19,13 @@ _See also: [[Sigils]], [[Flux]], [[Flux Users]], [[Spell Variables]], [[All Grim
 
 ## Sigil Maker Generated Spells
 
+- [[Spells/Binding Dampen Point|Binding Dampen Point]] - 1140 W - T4 (Uncommon)
+- [[Spells/Electric Move Field|Electric Move Field]] - 172 W - T3 (Uncommon)
+- [[Spells/Light Dampen Field|Light Dampen Field]] - 295 W - T3 (Uncommon)
+- [[Spells/Light Trigger Beam|Light Trigger Beam]] - 50 W - T2 (Common)
+- [[Spells/Chemical Counter Field|Chemical Counter Field]] - 314 W - T3 (Uncommon)
+- [[Spells/Sound Filter Beam|Sound Filter Beam]] - 27 W - T1 (Common)
+- [[Spells/Soul Dampen Cone|Soul Dampen Cone]] - 1409 W - T5 (Rare)
+- [[Spells/Heat Emit Plane|Heat Emit Plane]] - 59 W - T2 (Common)
+- [[Spells/Mind Filter Point|Mind Filter Point]] - 138 W - T3 (Uncommon)
+- [[Spells/Binding Filter Point|Binding Filter Point]] - 48 W - T2 (Common)

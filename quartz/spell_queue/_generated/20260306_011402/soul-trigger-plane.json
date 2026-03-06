@@ -1,0 +1,18 @@
+{
+  "name": "Soul Trigger Plane",
+  "summary": "Arms soul flux as a planar spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.",
+  "effect_description": "Arms soul flux as a planar spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression. A triangle trigger/create recipe that channels soul discipline into soul output. It applies a plane pattern against where written across self reach with immediate persistence.",
+  "hook": "Trigger",
+  "mode": "Create",
+  "shape": "Triangle",
+  "discipline": "Soul",
+  "output_mode": "Soul",
+  "pattern": "Plane",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Where Written",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.07,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

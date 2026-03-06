@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Soul Trigger Plane",
+    "summary": "Arms soul flux as a planar spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Arms soul flux as a planar spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression. A triangle trigger/create recipe that channels soul discipline into soul output. It applies a plane pattern against where written across self reach with immediate persistence.",
+    "hook": "Trigger",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Soul",
+    "output_mode": "Soul",
+    "pattern": "Plane",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 75,
+    "core_discipline_w": 225,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 225,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "total_w": 466,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Soul Trigger Plane** | Triangle | Trigger | Create | T4 | Soul | Soul | Plane | Self | Immediate | Where Written |"
+}

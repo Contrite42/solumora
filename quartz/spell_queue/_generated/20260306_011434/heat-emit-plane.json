@@ -1,0 +1,18 @@
+{
+  "name": "Heat Emit Plane",
+  "summary": "Releases heat thermal flux as a planar spread at self reach, targeting a grouped cluster with immediate discharge by creating a fresh flux expression.",
+  "effect_description": "Releases heat thermal flux as a planar spread at self reach, targeting a grouped cluster with immediate discharge by creating a fresh flux expression. A square emit/create recipe that channels heat discipline into thermal output. It applies a plane pattern against group across self reach with immediate persistence.",
+  "hook": "Emit",
+  "mode": "Create",
+  "shape": "Square",
+  "discipline": "Heat",
+  "output_mode": "Thermal",
+  "pattern": "Plane",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Group",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.15,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

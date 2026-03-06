@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Light Trigger Beam",
+    "summary": "Arms light sonic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Arms light sonic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression. A triangle trigger/create recipe that channels light discipline into sonic output. It applies a beam pattern against where written across self reach with immediate persistence.",
+    "hook": "Trigger",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Light",
+    "output_mode": "Sonic",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 3,
+    "core_discipline_w": 9,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 24,
+    "hook_mode_multiplier": 2.07,
+    "hook_mode_flat_w": 0,
+    "total_w": 50,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Light Trigger Beam** | Triangle | Trigger | Create | T2 | Light | Sonic | Beam | Self | Immediate | Where Written |"
+}

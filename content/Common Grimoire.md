@@ -1313,3 +1313,75 @@ Boosts binding constraint flux as a directed line at self reach, targeting the i
 
 ---
 
+
+---
+
+**Light Trigger Beam**
+Arms light sonic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Trigger |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Light |
+| Output | Sonic |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Sound Filter Beam**
+Screens sound sonic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T1 |
+| Discipline | Sound |
+| Output | Sonic |
+| Pattern | Beam |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Heat Emit Plane**
+Releases heat thermal flux as a planar spread at self reach, targeting a grouped cluster with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Emit |
+| Mode | Create |
+| Control Tier | T2 |
+| Discipline | Heat |
+| Output | Thermal |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+
+
+---
+
+**Binding Filter Point**
+Screens binding constraint flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Filter |
+| Mode | Affect |
+| Control Tier | T2 |
+| Discipline | Binding |
+| Output | Constraint |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

@@ -1,0 +1,18 @@
+{
+  "name": "Chemical Counter Field",
+  "summary": "Disrupts chemical reactive flux as a field volume at self reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression.",
+  "effect_description": "Disrupts chemical reactive flux as a field volume at self reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression. A square counter/create recipe that channels chemical discipline into reactive output. It applies a field pattern against surface across self reach with immediate persistence.",
+  "hook": "Counter",
+  "mode": "Create",
+  "shape": "Square",
+  "discipline": "Chemical",
+  "output_mode": "Reactive",
+  "pattern": "Field",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Surface",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.9899999999999998,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

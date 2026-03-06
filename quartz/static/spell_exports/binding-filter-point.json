@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Binding Filter Point",
+    "summary": "Screens binding constraint flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.",
+    "effect_description": "Screens binding constraint flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions. A triangle filter/affect recipe that channels binding discipline into constraint output. It applies a point pattern against where written across self reach with immediate persistence.",
+    "hook": "Filter",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Binding",
+    "output_mode": "Constraint",
+    "pattern": "Point",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 30,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 30,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 48,
+    "required_tier": "T2",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Binding Filter Point** | Triangle | Filter | Affect | T2 | Binding | Constraint | Point | Self | Immediate | Where Written |"
+}

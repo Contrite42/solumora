@@ -1,0 +1,18 @@
+{
+  "name": "Electric Move Field",
+  "summary": "Repositions electric kinetic flux as a field volume at self reach, targeting a prepared surface with immediate discharge by changing existing conditions.",
+  "effect_description": "Repositions electric kinetic flux as a field volume at self reach, targeting a prepared surface with immediate discharge by changing existing conditions. A square move/affect recipe that channels electric discipline into kinetic output. It applies a field pattern against surface across self reach with immediate persistence.",
+  "hook": "Move",
+  "mode": "Affect",
+  "shape": "Square",
+  "discipline": "Electric",
+  "output_mode": "Kinetic",
+  "pattern": "Field",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Surface",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 1.5,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}

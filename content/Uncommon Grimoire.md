@@ -1000,3 +1000,129 @@ Projects a condensed electrical beam that punches through resistive material, by
 | Reach        | Medium                  |
 | Persistence  | _(default — Immediate)_ |
 | Target       | Individual              |
+
+---
+
+**Heat Dampen Sphere**
+Reduces heat soul flux as a spherical envelope at self reach, targeting one object with immediate discharge with active regulation while it runs.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Dampen |
+| Mode | Control |
+| Control Tier | T3 |
+| Discipline | Heat |
+| Output | Soul |
+| Pattern | Sphere |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Object |
+
+
+---
+
+**Soul Trigger Plane**
+Arms soul flux as a planar spread at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Trigger |
+| Mode | Create |
+| Control Tier | T4 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Plane |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+
+
+---
+
+**Binding Dampen Point**
+Reduces binding reactive flux as a point focus at anchored reach, targeting a marked signature with long timed hold by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Circle |
+| Hook | Dampen |
+| Mode | Affect |
+| Control Tier | T4 |
+| Discipline | Binding |
+| Output | Reactive |
+| Pattern | Point |
+| Reach | Anchored |
+| Persistence | Timed (Long) |
+| Target | Marked |
+
+
+---
+
+**Electric Move Field**
+Repositions electric kinetic flux as a field volume at self reach, targeting a prepared surface with immediate discharge by changing existing conditions.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Move |
+| Mode | Affect |
+| Control Tier | T3 |
+| Discipline | Electric |
+| Output | Kinetic |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Light Dampen Field**
+Reduces light photonic flux as a field volume at self reach, targeting a marked signature with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Pentagon |
+| Hook | Dampen |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Light |
+| Output | Photonic |
+| Pattern | Field |
+| Reach | Self |
+| Persistence | _(default - Immediate)_ |
+| Target | Marked |
+
+
+---
+
+**Chemical Counter Field**
+Disrupts chemical reactive flux as a field volume at self reach, targeting a prepared surface with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Counter |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Chemical |
+| Output | Reactive |
+| Pattern | Field |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Surface |
+
+
+---
+
+**Mind Filter Point**
+Screens mind neuro flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Triangle |
+| Hook | Filter |
+| Mode | Create |
+| Control Tier | T3 |
+| Discipline | Mind |
+| Output | Neuro |
+| Pattern | Point |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | _(default - Where Written)_ |
+

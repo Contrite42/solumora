@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Binding Dampen Point",
+    "summary": "Reduces binding reactive flux as a point focus at anchored reach, targeting a marked signature with long timed hold by changing existing conditions.",
+    "effect_description": "Reduces binding reactive flux as a point focus at anchored reach, targeting a marked signature with long timed hold by changing existing conditions. A circle dampen/affect recipe that channels binding discipline into reactive output. It applies a point pattern against marked across anchored reach with timed long persistence.",
+    "hook": "Dampen",
+    "mode": "Affect",
+    "shape": "Circle",
+    "discipline": "Binding",
+    "output_mode": "Reactive",
+    "pattern": "Point",
+    "reach": "Anchored",
+    "persistence": "Timed Long",
+    "target_spec": "Marked",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.9,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 55,
+    "discipline_multiplier": 10,
+    "core_discipline_w": 550,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 25,
+    "target_w": 15,
+    "output_mode_premium_w": 10,
+    "subtotal_outer_w": 600,
+    "hook_mode_multiplier": 1.9,
+    "hook_mode_flat_w": 0,
+    "total_w": 1140,
+    "required_tier": "T4",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Binding Dampen Point** | Circle | Dampen | Affect | T4 | Binding | Reactive | Point | Anchored | Timed Long | Marked |"
+}

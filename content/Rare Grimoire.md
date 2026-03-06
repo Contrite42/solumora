@@ -476,3 +476,21 @@ Sustains a crackling electrical storm field across a wide area, delivering conti
 | Reach        | Anchored  |
 | Persistence  | Sustained |
 | Target       | Group     |
+
+---
+
+**Soul Dampen Cone**
+Reduces soul flux as a fan spread at self reach, targeting a grouped cluster with immediate discharge by creating a fresh flux expression.
+| Variable | Value |
+|---|---|
+| Shape | Square |
+| Hook | Dampen |
+| Mode | Create |
+| Control Tier | T5 |
+| Discipline | Soul |
+| Output | Soul |
+| Pattern | Cone |
+| Reach | _(default - Self)_ |
+| Persistence | _(default - Immediate)_ |
+| Target | Group |
+

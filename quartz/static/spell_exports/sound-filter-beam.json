@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Sound Filter Beam",
+    "summary": "Screens sound sonic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions.",
+    "effect_description": "Screens sound sonic flux as a directed line at self reach, targeting the inscribed anchor with immediate discharge by changing existing conditions. A triangle filter/affect recipe that channels sound discipline into sonic output. It applies a beam pattern against where written across self reach with immediate persistence.",
+    "hook": "Filter",
+    "mode": "Affect",
+    "shape": "Triangle",
+    "discipline": "Sound",
+    "output_mode": "Sonic",
+    "pattern": "Beam",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 4,
+    "core_discipline_w": 12,
+    "pattern_w": 5,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 17,
+    "hook_mode_multiplier": 1.6,
+    "hook_mode_flat_w": 0,
+    "total_w": 27,
+    "required_tier": "T1",
+    "rarity": "Common"
+  },
+  "all_grimoire_row": "| **Sound Filter Beam** | Triangle | Filter | Affect | T1 | Sound | Sonic | Beam | Self | Immediate | Where Written |"
+}

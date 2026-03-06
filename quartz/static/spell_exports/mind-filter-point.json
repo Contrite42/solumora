@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "name": "Mind Filter Point",
+    "summary": "Screens mind neuro flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression.",
+    "effect_description": "Screens mind neuro flux as a point focus at self reach, targeting the inscribed anchor with immediate discharge by creating a fresh flux expression. A triangle filter/create recipe that channels mind discipline into neuro output. It applies a point pattern against where written across self reach with immediate persistence.",
+    "hook": "Filter",
+    "mode": "Create",
+    "shape": "Triangle",
+    "discipline": "Mind",
+    "output_mode": "Neuro",
+    "pattern": "Point",
+    "reach": "Self",
+    "persistence": "Immediate",
+    "target_spec": "Where Written",
+    "sustained_minutes": 0,
+    "hook_mode_multiplier": 1.8399999999999999,
+    "hook_mode_flat_w": 0,
+    "notes": "Generated automatically from randomized sigil variables."
+  },
+  "cost": {
+    "shape_base_w": 3,
+    "discipline_multiplier": 25,
+    "core_discipline_w": 75,
+    "pattern_w": 0,
+    "reach_w": 0,
+    "persistence_w": 0,
+    "target_w": 0,
+    "output_mode_premium_w": 0,
+    "subtotal_outer_w": 75,
+    "hook_mode_multiplier": 1.8399999999999999,
+    "hook_mode_flat_w": 0,
+    "total_w": 138,
+    "required_tier": "T3",
+    "rarity": "Uncommon"
+  },
+  "all_grimoire_row": "| **Mind Filter Point** | Triangle | Filter | Create | T3 | Mind | Neuro | Point | Self | Immediate | Where Written |"
+}

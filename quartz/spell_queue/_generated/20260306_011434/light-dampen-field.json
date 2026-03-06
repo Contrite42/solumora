@@ -1,0 +1,18 @@
+{
+  "name": "Light Dampen Field",
+  "summary": "Reduces light photonic flux as a field volume at self reach, targeting a marked signature with immediate discharge by creating a fresh flux expression.",
+  "effect_description": "Reduces light photonic flux as a field volume at self reach, targeting a marked signature with immediate discharge by creating a fresh flux expression. A pentagon dampen/create recipe that channels light discipline into photonic output. It applies a field pattern against marked across self reach with immediate persistence.",
+  "hook": "Dampen",
+  "mode": "Create",
+  "shape": "Pentagon",
+  "discipline": "Light",
+  "output_mode": "Photonic",
+  "pattern": "Field",
+  "reach": "Self",
+  "persistence": "Immediate",
+  "target_spec": "Marked",
+  "sustained_minutes": 0,
+  "hook_mode_multiplier": 2.1849999999999996,
+  "hook_mode_flat_w": 0,
+  "notes": "Generated automatically from randomized sigil variables."
+}
