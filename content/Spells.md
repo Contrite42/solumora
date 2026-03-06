@@ -27,7 +27,4 @@ Use the tiered grimoires as canonical spell references:
 - [[Mythic Grimoire]]
 - [[Pale Grimoire]]
 
-## Sigil Maker Generated Spells
-
-
 
