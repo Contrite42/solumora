@@ -20,6 +20,8 @@ The following accounts provide narrative context for the world's systems, constr
 
 [[Stories/The Day the Crestward Did Not Burn]] — A false alarm at the Crestward archive triggers full preservation protocol and reveals how institutional resilience is built from routine preparation rather than dramatic heroics.
 
+[[Stories/The Copy That Stayed Cheap]] — A Valdenmoor scrivener restructures production to keep a public-utility spell affordable for a lower-terrace workshop cooperative, showing how pricing decisions shape material survival outcomes as much as technical spell quality.
+
 ## Logistics and Trade Operations
 
 [[Stories/The Courier Who Refused the Shortcut]] — A road courier chooses chain-of-custody reliability over speed and prevents a forged routing packet from entering the Halveth dispatch system. Focuses on procedural discipline and communication integrity under pressure.
