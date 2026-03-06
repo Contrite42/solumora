@@ -29,7 +29,7 @@
 
 ## Open Items
 - Continue Trade & Travel phase 2 with 3-4 additional route/hub notes (river/coastal/relay coverage).
-- Append "How people move" summaries to `content/Solumora.md` and `content/World Primer.md` after phase 2 baseline exists.
+- Creator review pending for staged "How people move" appends to `content/Solumora.md` and `content/World Primer.md`.
 - `agent/staging/orchestrator.lock` may still reference stale PID; avoid destructive process commands.
 
 ## Next Operator Checklist

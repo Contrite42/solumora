@@ -10,15 +10,15 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 
 <!-- REVIEW_DECISION_START -->
 ## Active Review Decision
-- Batch: 2R1
-- Scope: `content/Cassia.md`
+- Batch: 3R1
+- Scope: `content/Solumora.md`, `content/World Primer.md`
 - Source: `agent/staging/PENDING_REVIEW.md`
 - Decision Owner: CREATOR
-- Status: APPROVED
-- Notes: Creator approved batch 2R1 for apply.
+- Status: PENDING
+- Notes: Trade & Travel hub appends staged; pending creator review.
 
 ### Escalation Reasons
-- Touches principal character page: `content/Cassia.md`.
+- Touches major world-structure pages: `content/Solumora.md`, `content/World Primer.md`.
 
 ### Creator Options
 - Option A: APPROVE batch as staged.
@@ -28,6 +28,7 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 ### Creator Action
 - Set `- Status:` to `APPROVED` or `REJECTED`.
 - If rejected, replace `- Notes:` with concise guidance and optional option label.
+<!-- REVIEW_DECISION_END -->
 
 ---
 

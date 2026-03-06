@@ -28,4 +28,6 @@ Ashford's trade volume depends on three movement systems that overlap without me
 
 Long-distance information and mixed cargo movement to northern settlements is handled through the [[Outer Coast Packet Line]]. The packet circuit is slower than local river movement but more resilient when inland routes are politically noisy.
 
-*See also: [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Outer Coast Packet Line]], [[Trade Guilds]], [[Life in Ashford]]*
+Seasonal expedition supply and recovery traffic around the desert edge runs through the [[Zakros Rim Caravan Loop]], which ties Ashford dispatch to [[Halveth]] staging windows.
+
+*See also: [[Maren Freight Chain]], [[Ashford-Halveth Courier Road]], [[Outer Coast Packet Line]], [[Zakros Rim Caravan Loop]], [[Trade Guilds]], [[Life in Ashford]]*

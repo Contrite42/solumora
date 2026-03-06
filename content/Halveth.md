@@ -38,6 +38,8 @@ Wren's Binding range extends far enough south to give the village some warning. 
 
 Halveth's practical role in cross-border movement is narrower than its reputation. The settlement is a handoff point on the [[Ashford-Halveth Courier Road]] for high-priority traffic and compact expedition-critical cargo, not a bulk trade center.
 
+Seasonal heavy movement around the desert edge is handled through the [[Zakros Rim Caravan Loop]], with Halveth functioning as the most important staging and resupply breakpoint on that circuit.
+
 The road's reliability near Halveth depends as much on local knowledge and timing discipline as on formal contracts. In crossing season, this turns the village into a bottleneck people plan around months in advance.
 
-*See also: [[Ashford-Halveth Courier Road]], [[Ashford]], [[Auralis]], [[Terravelle]], [[Life in Halveth]]*
+*See also: [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]], [[Ashford]], [[Auralis]], [[Terravelle]], [[Life in Halveth]]*

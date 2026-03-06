@@ -151,3 +151,5 @@ Blocked tasks are marked with their dependency.
 | 2026-03-05 | Pipeline run | All 4 batches approved | TASK-03/04/05/06 + FIX-1c complete. Ostal Mrev duplicate cleaned. |
 | 2026-03-05 | Pipeline run | TASK-01 + TASK-08 complete | Equatorial Desert expanded (Desert Edge + Rift Encounters). Life in Halveth: Selt Orvn + Vorn Teld in body. Duplicate See Also and misplaced paragraphs fixed manually. |
 | 2026-03-05 | Pipeline run | TASK-12/13/14/15 complete | Grimoire batch: Zakros Compendium, Fifteen Sigils, All Grimoire appended (4 spells), Ossal Meln Workshop Notes. Batch 2 rejected (planner dupe). claimed.md + planner constraint fix applied. |
+| 2026-03-05 | TASK-11 | Complete | Bren Ossve expanded with institutional pressure/refusal dynamics (`## The Requests`). |
+| 2026-03-05 | Trade & Travel spine | Phase 1-2 in progress | Added 6 route notes and inbound links across Ashford, Valdenmoor, Halveth, Wolfpoint, Hedun, Greyveil. Staged creator-gated Solumora/World Primer appends (Batch 3R1). |
