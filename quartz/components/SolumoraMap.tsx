@@ -18,12 +18,15 @@ interface MapMarker {
   labelDy?: number
 }
 
+const CONTINENT_PATH =
+  "M420 40 L575 40 L675 115 L760 250 L826 430 L853 630 L841 856 L804 1044 L756 1220 L672 1368 L572 1458 L432 1458 L322 1365 L250 1216 L196 1024 L157 854 L147 640 L174 444 L250 260 L335 120 Z"
+
 const MAP_MARKERS: MapMarker[] = [
   {
     id: "wolfpoint",
     label: "Wolfpoint",
-    x: 526,
-    y: 114,
+    x: 500,
+    y: 108,
     keys: ["Wolfpoint"],
     titles: ["Wolfpoint"],
     align: "right",
@@ -31,8 +34,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "greyveil",
     label: "Greyveil",
-    x: 454,
-    y: 272,
+    x: 390,
+    y: 268,
     keys: ["Greyveil"],
     titles: ["Greyveil"],
     align: "right",
@@ -40,8 +43,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "valdenmoor",
     label: "Valdenmoor",
-    x: 512,
-    y: 402,
+    x: 480,
+    y: 412,
     keys: ["Valdenmoor"],
     titles: ["Valdenmoor"],
     align: "right",
@@ -49,8 +52,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "ashford",
     label: "Ashford",
-    x: 756,
-    y: 468,
+    x: 748,
+    y: 498,
     keys: ["Ashford"],
     titles: ["Ashford"],
     align: "left",
@@ -58,8 +61,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "northern-narrows",
     label: "Northern Narrows",
-    x: 640,
-    y: 672,
+    x: 688,
+    y: 666,
     keys: ["The-Northern-Narrows", "Northern-Narrows"],
     titles: ["The Northern Narrows", "Northern Narrows"],
     align: "left",
@@ -67,18 +70,18 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "equatorial-desert",
     label: "Desert Zakros",
-    x: 620,
-    y: 786,
+    x: 628,
+    y: 790,
     keys: ["Equatorial-Desert"],
     titles: ["Equatorial Desert", "Desert Zakros"],
     align: "left",
-    labelDy: -6,
+    labelDy: -10,
   },
   {
     id: "southern-approaches",
     label: "Southern Approaches",
-    x: 642,
-    y: 920,
+    x: 684,
+    y: 906,
     keys: ["The-Southern-Approaches", "Southern-Approaches"],
     titles: ["The Southern Approaches", "Southern Approaches"],
     align: "left",
@@ -86,8 +89,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "halveth",
     label: "Halveth",
-    x: 632,
-    y: 982,
+    x: 690,
+    y: 980,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
@@ -95,8 +98,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "solhaven",
     label: "Solhaven",
-    x: 244,
-    y: 1164,
+    x: 232,
+    y: 1166,
     keys: ["Solhaven"],
     titles: ["Solhaven"],
     align: "right",
@@ -104,7 +107,7 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "hedun",
     label: "Hedun",
-    x: 192,
+    x: 188,
     y: 1280,
     keys: ["Hedun"],
     titles: ["Hedun"],
