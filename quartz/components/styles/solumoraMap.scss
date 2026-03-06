@@ -95,7 +95,10 @@
     fill: #cb5e26;
     stroke: var(--light);
     stroke-width: 2;
-    transition: transform 0.2s ease, fill 0.2s ease, opacity 0.2s ease;
+    transition:
+      transform 0.2s ease,
+      fill 0.2s ease,
+      opacity 0.2s ease;
     transform-origin: center;
   }
 

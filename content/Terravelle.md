@@ -33,3 +33,11 @@ The city's internal structure reflects its priorities. [[The Dock Wards]] run th
 Valdenmoor's agricultural supply base is [[Maren Valley]], the farming communities along the upper and middle Maren whose grain output and seasonal labor pool flow toward the capital through the Freight Chain's river logistics.
 
 *See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Terravelle Administration]], [[The Three Near-Wars]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Adventurers]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]]*
+
+## People in Motion
+
+Terravelle's continuity depends on people who keep movement reliable under pressure. [[Caven Torst]] keeps river crossings predictable at the local scale while [[Noll Drenk]] turns fluctuating grain flow into stable city supply. In the lower-cost labor layer, [[Trel Alvn]] and other T0/T1 workers absorb logistical shocks that never appear in official policy language.
+
+At the edge of cross-border tension, [[Cavel Dorst]] and [[Orre Cavlt]] watch documentation drift and route friction in real time. Their records often become the first practical indicator that political pressure is changing before formal declarations appear.
+
+*See also: [[People]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]], [[Cavel Dorst]], [[Orre Cavlt]], [[Valdenmoor]], [[Ashford]], [[Maren River]], [[Maren Freight Chain]]*

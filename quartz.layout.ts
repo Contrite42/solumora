@@ -32,25 +32,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
-      components: [
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
+      components: [{ Component: Component.Darkmode() }, { Component: Component.ReaderMode() }],
     }),
   ],
-  right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Graph(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Graph()],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

@@ -117,7 +117,9 @@ async function refreshMap(mapRoot: HTMLElement, currentSlug: FullSlug) {
 }
 
 function setupMaps(currentSlug: FullSlug) {
-  const mapRoots = document.querySelectorAll("[data-solumora-map='true']") as NodeListOf<HTMLElement>
+  const mapRoots = document.querySelectorAll(
+    "[data-solumora-map='true']",
+  ) as NodeListOf<HTMLElement>
   for (const mapRoot of mapRoots) {
     const refreshButton = mapRoot.querySelector(".solumora-map-refresh") as HTMLButtonElement | null
     const refreshFn = () => {

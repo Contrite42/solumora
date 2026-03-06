@@ -41,3 +41,11 @@ The strategic dimensions of this situation — why both kingdoms want Hypertext 
 What Wolfpoint actually sends out into the world — physical exports through the [[Outer Coast Packet Line]], and the knowledge exports that are its primary currency — is documented in [[Wolfpoint Exports]].
 
 *See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Mell Rask]], [[Cossa Vrend]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Keln Varost]], [[Outer Coast Packet Line]], [[Ashford]]*
+
+## People in Motion
+
+Wolfpoint's geopolitical weight is carried by a small number of highly connected people rather than by population size. [[Sera Voss]] controls pace and scope of formal Hypertext disclosure. [[Ysel Voss]] and [[Mira Solv]] shape internal interpretation and selective external release. [[Keln Varost]] translates Terravellian priorities into a sustained envoy relationship that avoids direct pressure but preserves access.
+
+Outside elite channels, practitioners and craftspeople such as [[Vel Sorvn]] and [[Renn Cald]] keep the settlement operational under climate and distance constraints. Their continuity work is what allows the Scholarium layer to focus on long-horizon development.
+
+*See also: [[People]], [[Sera Voss]], [[Ysel Voss]], [[Mira Solv]], [[Keln Varost]], [[Vel Sorvn]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[The Wolfpoint Question]], [[Outer Coast Packet Line]]*

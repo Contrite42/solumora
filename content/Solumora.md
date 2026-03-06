@@ -76,3 +76,11 @@ For the full historical hub, see [[History]].
 
 *See also: [[History]], [[History of Solumora]], [[The Ancient Civilization]], [[The Desert Barrier]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Isolation Period]], [[The Persecution Era]], [[The First Contact]], [[The Three Near-Wars]], [[The Fraying Peace]]*
 
+## People in Motion
+
+Large structures in Solumora are held together by recurring people who move between systems rather than staying inside one institution. [[Orre Cavlt]] tracks policy pressure through cargo paperwork in [[Ashford]]. [[Selt Orvn]] and [[Vorn Teld]] translate desert risk into practical decisions at [[Halveth]]. [[Dess Tannor]] records disruption patterns in Solhaven's harbor economy while [[Keln Varost]] carries north-south diplomatic intent through the Wolfpoint channel.
+
+These are not principal rulers, but they are often the first to notice that conditions have shifted. Their observations shape route choice, expedition behavior, procurement priorities, and who receives warning early enough to act.
+
+*See also: [[People]], [[Orre Cavlt]], [[Selt Orvn]], [[Vorn Teld]], [[Dess Tannor]], [[Keln Varost]], [[Ashford]], [[Halveth]], [[Wolfpoint]], [[Solhaven]]*
+

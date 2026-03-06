@@ -89,3 +89,11 @@ Near the Halveth-side frontier, crews use [[The Bone Sea]] as a controlled stagi
 Its fractured salt surface behaves differently from dune lanes and can fail under load shifts, so parties treat it as specialized logistics terrain. Work there is usually tied to [[Relay-Stage Crossing]] support, depot coordination in [[Halveth]], and salvage/survey near exposed debris fields.
 
 *See also: [[The Bone Sea]], [[Halveth]], [[Relay-Stage Crossing]], [[Ancient Ruins]], [[Zakros Rim Caravan Loop]]*
+
+## People in Motion
+
+Desert crossing is less about heroic capability than about role coverage across specialized people. [[Avel Coss]] provides route judgment and pacing logic for parties that would otherwise overcommit early. [[Selt Orvn]] and [[Vorn Teld]] convert post-incident memory into pre-departure preparation. [[Celn Vard]] and [[Wren]] represent the settlement-edge layer where local knowledge determines who should attempt a run at all.
+
+These links form the human infrastructure of Zakros movement: guide, supplier, survivor, local observer, and gatekeeper. When one role fails, crossing risk rises faster than equipment quality can compensate.
+
+*See also: [[People]], [[Avel Coss]], [[Selt Orvn]], [[Vorn Teld]], [[Celn Vard]], [[Wren]], [[Halveth]], [[The Southern Approaches]], [[Standard Guided Crossing]], [[Relay-Stage Crossing]]*

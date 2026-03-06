@@ -140,9 +140,30 @@ export default (() => {
             filter="url(#solumora-map-shadow)"
           />
 
-          <rect class="solumora-zone solumora-zone--north" x="220" y="154" width="560" height="452" rx="26" />
-          <rect class="solumora-zone solumora-zone--desert" x="194" y="618" width="610" height="304" rx="26" />
-          <rect class="solumora-zone solumora-zone--south" x="196" y="936" width="590" height="452" rx="26" />
+          <rect
+            class="solumora-zone solumora-zone--north"
+            x="220"
+            y="154"
+            width="560"
+            height="452"
+            rx="26"
+          />
+          <rect
+            class="solumora-zone solumora-zone--desert"
+            x="194"
+            y="618"
+            width="610"
+            height="304"
+            rx="26"
+          />
+          <rect
+            class="solumora-zone solumora-zone--south"
+            x="196"
+            y="936"
+            width="590"
+            height="452"
+            rx="26"
+          />
 
           <text class="solumora-zone-label" x="500" y="222">
             Terravelle Uplands
@@ -159,20 +180,21 @@ export default (() => {
             const textAnchor = alignment === "left" ? "end" : "start"
             const textX = alignment === "left" ? -14 : 14
             return (
-              <a
-                class={`solumora-map-marker solumora-map-marker--${alignment}`}
-                data-map-marker={marker.id}
-                data-map-keys={marker.keys.join("|")}
-                data-map-titles={marker.titles.join("|")}
-                data-map-label={marker.label}
-                transform={`translate(${marker.x} ${marker.y})`}
-                href="#"
-              >
-                <circle r="8" />
-                <text x={textX} y="4" text-anchor={textAnchor}>
-                  {marker.label}
-                </text>
-              </a>
+              <g transform={`translate(${marker.x} ${marker.y})`}>
+                <a
+                  class={`solumora-map-marker solumora-map-marker--${alignment}`}
+                  data-map-marker={marker.id}
+                  data-map-keys={marker.keys.join("|")}
+                  data-map-titles={marker.titles.join("|")}
+                  data-map-label={marker.label}
+                  href="#"
+                >
+                  <circle r="8" />
+                  <text x={textX} y="4" text-anchor={textAnchor}>
+                    {marker.label}
+                  </text>
+                </a>
+              </g>
             )
           })}
         </svg>

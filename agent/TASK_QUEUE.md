@@ -119,7 +119,7 @@ Blocked tasks are marked with their dependency.
   **Output:** Low-impact link fixes across touched files + report entry in `agent/reports/inconsistencies.md`.
   **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Make â€œeveryone mid-journeyâ€ structurally real: create **People Web Index** + minimum viable cast.
+- [x] **Goal:** Make â€œeveryone mid-journeyâ€ structurally real: create **People Web Index** + minimum viable cast.
   **Constraints:** 30 people. Every person must link to 3â€“6 others. Include smugglers, copyists, guards, farmers, priests, couriers, and 2â€“3 high-tier isolates.
   **Output:** [[People]] hub + 30 people notes + update 5 major hubs with â€œPeople in Motionâ€ sections.
   **Owner:** `Copilot Auto` (temporary while Claude offline)
@@ -249,3 +249,4 @@ Blocked tasks are marked with their dependency.
 | 2026-03-06 | DECISIONS normalization | Complete | Repaired duplicate Active Review blocks and restored a single valid `REVIEW_DECISION` marker pair to keep orchestrator parsing stable. |
 | 2026-03-06 | CLAIMED sync | Complete | Added 21 existing content paths missing from `agent/staging/CLAIMED.md` (stories, written works, Terravelle/Wolfpoint/history package files). |
 | 2026-03-05 | Alias stabilization pass | Complete | Normalized legacy links (`Culmination Faction`, `Persecution Era`, `Isolation Period`, `Advancement Corps`) to canonical targets and mapped unresolved references (`Crestward Research Nexus`, `Ashford Blockade`) to existing canon pages. |
+| 2026-03-05 | People Web hub integration | Complete | Confirmed `People.md` cast coverage and appended `People in Motion` sections to `Solumora.md`, `Terravelle.md`, `Auralis.md`, `Wolfpoint.md`, and `Equatorial Desert.md`; touched-file links validated. |
