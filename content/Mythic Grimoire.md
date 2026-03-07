@@ -4,7 +4,7 @@ _Return to [[All Grimoire]]_
 
 ***
 
-**CapturThread**
+**SoulBurst**
 Projects soul-signature flux as a wrapped radius around the mark anywhere in line of sight across a grouped set of targets, delivering its effect as an active release, and once stabilized it remains as a permanent working.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -20,7 +20,7 @@ Projects soul-signature flux as a wrapped radius around the mark anywhere in lin
 
 ***
 
-**PaleNet**
+**MindShift**
 Channels mind flux to produce its effect. Fills an enclosed volume, hitting multiple targets. The effect becomes permanent once established.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -36,7 +36,7 @@ Channels mind flux to produce its effect. Fills an enclosed volume, hitting mult
 
 ***
 
-**ColdPath**
+**SoulNull**
 Disrupts and negates soul effects. Expands in all directions from the center, anywhere visible.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -52,7 +52,7 @@ Disrupts and negates soul effects. Expands in all directions from the center, an
 
 ***
 
-**AncientPath**
+**SoulDomain**
 Channels soul flux to produce its effect. Fills an enclosed volume, anywhere visible. Requires continuous concentration to sustain.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -68,7 +68,7 @@ Channels soul flux to produce its effect. Fills an enclosed volume, anywhere vis
 
 ***
 
-**GentleTouch**
+**MindNull**
 Disrupts and negates mind effects. Expands in all directions from the center, anywhere visible.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -84,7 +84,7 @@ Disrupts and negates mind effects. Expands in all directions from the center, an
 
 ***
 
-**PiercTouch**
+**MindMorph**
 Reshapes the target using mind flux. Expands in all directions from the center, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -100,7 +100,7 @@ Reshapes the target using mind flux. Expands in all directions from the center, 
 
 ***
 
-**FallMirror**
+**MindBend**
 Reshapes the target using mind flux. Fills an enclosed volume, anywhere visible. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -116,7 +116,7 @@ Reshapes the target using mind flux. Fills an enclosed volume, anywhere visible.
 
 ***
 
-**SolidPath**
+**SoulWard**
 Channels soul flux to produce its effect. Expands in all directions from the center, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -132,7 +132,7 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 
 ***
 
-**FreshHeart**
+**SoulGuard**
 Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -148,7 +148,7 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 
 ***
 
-**ShatterBrand**
+**SoulPulse**
 Releases soul-flux that resonates with targets' metaphysical essence. Expands in all directions from the center, affecting a single person.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -164,7 +164,7 @@ Releases soul-flux that resonates with targets' metaphysical essence. Expands in
 
 ***
 
-**FierceWard**
+**SoulAnchor**
 Anchors soul-energy to the marked location, creating a metaphysical binding. Expands in all directions from the center, anywhere visible. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -180,7 +180,7 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. Exp
 
 ***
 
-**RisCalm**
+**SoulBeam**
 Releases soul-flux that resonates with targets' metaphysical essence. Fills an enclosed volume, hitting multiple targets. Requires continuous concentration to sustain.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -196,7 +196,7 @@ Releases soul-flux that resonates with targets' metaphysical essence. Fills an e
 
 ***
 
-**PaleDoor**
+**SoulMorph**
 Reshapes the target using soul flux. Expands in all directions from the center, anywhere visible. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -212,7 +212,7 @@ Reshapes the target using soul flux. Expands in all directions from the center, 
 
 ***
 
-**ReleaseBond**
+**SoulScan**
 Detects soul-signatures and binding marks, revealing metaphysical connections. Fills an enclosed volume. Requires continuous concentration to sustain.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -228,7 +228,7 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. F
 
 ***
 
-**WeaveBlessing**
+**MindBind**
 Locks mental patterns in place, preventing thought divergence. Fills an enclosed volume, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -244,7 +244,7 @@ Locks mental patterns in place, preventing thought divergence. Fills an enclosed
 
 ***
 
-**ReleasBridge**
+**MindFlow**
 Reshapes the target using mind flux. Fills an enclosed volume. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -260,7 +260,7 @@ Reshapes the target using mind flux. Fills an enclosed volume. Persists until a 
 
 ***
 
-**BurSpirit**
+**MindFilter**
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Expands in all directions from the center, hitting multiple targets. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -276,7 +276,7 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 
 ***
 
-**StraightHand**
+**SoulEmit**
 Releases soul-flux that resonates with targets' metaphysical essence. Expands in all directions from the center, anywhere visible.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -292,7 +292,7 @@ Releases soul-flux that resonates with targets' metaphysical essence. Expands in
 
 ***
 
-**CalmDream**
+**SoulFlow**
 Releases soul-flux that resonates with targets' metaphysical essence. Fills an enclosed volume. Requires continuous concentration to sustain.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -308,7 +308,7 @@ Releases soul-flux that resonates with targets' metaphysical essence. Fills an e
 
 ***
 
-**AnchorFrost**
+**MindPulse**
 Projects psychic force that penetrates mental defenses and influences thought patterns. Expands in all directions from the center, anywhere visible. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -324,7 +324,7 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 
 ***
 
-**TransformBreath**
+**SoulCancel**
 Disrupts and negates soul effects. Fills an enclosed volume, hitting multiple targets. The effect becomes permanent once established.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -340,7 +340,7 @@ Disrupts and negates soul effects. Fills an enclosed volume, hitting multiple ta
 
 ***
 
-**HardyCore**
+**SoulScreen**
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Fills an enclosed volume, anywhere visible. Requires continuous concentration to sustain.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -356,7 +356,7 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 
 ***
 
-**NakedRoot**
+**MindWard**
 Channels mind flux to produce its effect. Fills an enclosed volume, hitting multiple targets. Requires continuous concentration to sustain.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -372,7 +372,7 @@ Channels mind flux to produce its effect. Fills an enclosed volume, hitting mult
 
 ***
 
-**RiseMark**
+**SoulShift**
 Channels soul flux to produce its effect. Fills an enclosed volume, hitting multiple targets.
 | Wattage | 130001 W |
 | Shape | Circle |
@@ -388,7 +388,7 @@ Channels soul flux to produce its effect. Fills an enclosed volume, hitting mult
 
 ***
 
-**DriftFrost**
+**SoulControl**
 Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible. Persists until a specified condition triggers its release.
 | Wattage | 130001 W |
 | Shape | Circle |
