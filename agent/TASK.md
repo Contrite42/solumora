@@ -1,64 +1,37 @@
 # Current Task: EXPANSION-015 — Flux Research Institutions
 
-**Status:** In Progress  
+**Status:** COMPLETE  
 **Owner:** Copilot Auto  
-**Started:** 2026-03-07
+**Completed:** 2026-03-07
 
-## Goal
+## Deliverables ✓
 
-Document institutional research into Flux in both Auralis and Terravelle, showing kingdom philosophical differences in how they approach the same questions. Build ground-level detail showing research priorities, grant mechanisms, and how military pressure is reshaping research agendas.
+**Research Institutions (4 documented):**
+- [[Crestward Flux Institute]] (Auralis) — 80-100 staff, cost-reduction focus, military coordination
+- [[Emberfall]] (Auralis) — Specialist obsessive research with individual scholar focus
+- [[Northern Terravelle Academy]] (Terravelle) — Rift mechanics and settlement applications
+- [[Solhaven Flux Practical Research Collective]] (Terravelle) — NEW: Distributed independent network, 12-18 practitioners, non-hierarchical governance
 
-## Constraints
+**Researcher NPCs (4):**
+- [[Casten Miel]] — T4 Crestward director (NEW), age 58, managing institutional/scholar balance
+- [[Vestra Veln]] — T5 Emberfall sigil miniaturization specialist, age 35, career decision point
+- [[Meln Corst]] — T4 Northern Terravelle rift mechanics researcher, age 47, field-grounded
+- [[Kedn Rast]] — T3 independent cross-kingdom research bridge, age 42, Solhaven-based
 
-1. **Kingdom philosophical differences:** Auralis treats Flux as technical problem to solve; Terravelle approaches it as natural phenomenon to understand
-2. **Institutional pressure:** Both kingdoms redirecting research toward military applications, creating internal institutional conflict
-3. **Research institutions (4 minimum):**
-   - 2 Auralis research centers (centralized institutional control, military coordination)
-   - 2 Terravelle research centers (distributed, guild-affiliated, more autonomy)
-4. **Multiple research perspectives:**
-   - Pure theoretical researcher focused on fundamental Flux principles
-   - Empirical/applied researcher developing practical applications
-   - Researcher facing institutional pressure to militarize their work
-   - Researcher resisting militarization of their research
+**Hub Integration:**
+- [[Flux]] "Contemporary Research" section expanded to 480+ lines
+- Integrated wartime pressure impacts: practitioner conscription, funding redirection, material scarcity, research freedom tensions
+- Cross-linked all institutions and researchers
 
-## Output Target
-
-6-8 notes total:
-- 4 research institution notes (2 Auralis, 2 Terravelle) with funding models, research focus, internal tensions
-- 3-4 researcher NPC profiles (T3-T5) showing different research paths and institutional relationships
-- 1 update to [[Flux]] hub with "Contemporary Research Directions" section
-- Cross-links to [[Grimoires]], [[Education]], [[Economy]], [[The Council of Auralis]], [[Trade Guilds]]
-
-## Key Research Questions
-
-1. What is Auralis researching? (Applications: weapons, industrial efficiency, precision control, military grade materials)
-2. What is Terravelle researching? (Understanding: natural principles, sustainability, experimental alternatives, guild-safe applications)
-3. How is research funded? (Auralis: Council grants, military contracts; Terravelle: guild contributions, merchant patronage, apprenticeship fees)
-4. What institutional relationships shape research? (Military contracts, institutional autonomy, publication restrictions, researcher freedom)
-5. What research questions are forbidden or restricted? (Equatorial barrier mechanisms, consciousness aspects of Flux, alternative Flux sources, reverse-engineering pre-collapse artifacts)
-
-## Execution Plan
-
-1. Read [[Flux]] to understand current framework and identify research gaps
-2. Research existing Crestward content (what Auralis research is already documented)
-3. Identify Terravelle research center anchors (guilds, institutions, individuals)
-4. Create 2 Auralis research institution notes with military coordination detail
-5. Create 2 Terravelle research institution notes with guild-federation structure
-6. Create 3-4 researcher NPC profiles showing diverse research approaches
-7. Update [[Flux]] hub with "Contemporary Research Directions" section linking all institutions
-8. Cross-link from [[Grimoires]], [[Education]], [[The Council of Auralis]], [[Trade Guilds]]
-9. Refresh navigation artifacts
-10. Mark complete in TASK_QUEUE.md
-
-## Current Step
-
-Beginning research phase: reading Flux framework and existing research documentation...
+**Navigation:**
+- Concept-graph: 669 nodes, 6929 edges, 563 pages
+- Context-index: 563 pages
 
 ---
 
-## PERMANENT TASK - Keep AI Navigation Artifacts Current
+## Next Task
 
-Use cached navigation as the default method for agent work. This is the token-efficient path and should be used before any full markdown scan.
+Ready for next task assignment. Check USER_INPUT.md or TASK_QUEUE.md for next expansion priority.
 
 Default navigation method (run from repo root):
 
