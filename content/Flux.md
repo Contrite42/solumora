@@ -8,14 +8,40 @@ Those who work with Flux are organized into a broad hierarchy detailed on the [[
 
 ## Contemporary Research
 
-Current [[Flux]] research is dominated by two philosophical approaches that reflect the kingdoms' different priorities:
+Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations.
 
-**Auralis Research focuses on optimization and scaled access.** The [[Crestward Flux Institute]] pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier teams. The strategic goal is expanding Flux-based agency to practitioners currently constrained by or excluded from individual high-tier casting. Research emphasis is on force multiplication and institutional scalability.
+### Auralis Research Institutions
 
-**Terravelle Research emphasizes robustness and adaptability.** The [[Valdenmoor Institute for Applied Sigil Study]] investigates fault diagnosis, field salvage, sustained casting physiology, and how Flux systems function in contexts of limited practitioner access. The emphasis is on methods that work reliably in field conditions with present resources, rather than optimized laboratory conditions.
+**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. The strategic goal is expanding [[Flux]] access to practitioners currently constrained by individual high-tier casting requirements. Research emphasis is on force multiplication and institutional scalability. Additionally: [[Vestra Veln]] leads sigil miniaturization efforts, attempting to reduce physical footprint and tier requirements for complex spell patterns.
 
-**Emergent frontier:** Cross-discipline Flux synthesis research attempts to understand how spells from different magical traditions can interact. Early work by researchers including [[Kessran Dolt]] at Crestward suggests that synergies between [[Binding]] and [[Heat]] disciplines, and possibly other combinations, may produce novel effects not available through single-discipline approaches. The implications remain uncertain and the underlying mechanisms are poorly understood.
+**[[Emberfall]]** focuses on intensive, narrowly-specialized sigil development and theoretical advancement. Scholar-driven research pursues understanding of specific [[Sigils|sigils]], phenomena, or discipline-specific applications with resources and freedom to pursue long-term investigation. Research has practical applications but is organized around scholarly obsession rather than strategic objectives.
 
-Current open questions include: whether spell effects are fundamentally limited to their component disciplines or whether novel cross-discipline combinations can reliably produce new effects; whether Flux capacity has theoretical limits or practical limits; and whether sustained Flux use produces permanent physiological changes in practitioners that accumulate over time.
+### Terravelle Research Institutions
 
-_See also: [[Control Tier]], [[Sigils]], [[Spell Variables]], [[Flux Users]], [[Spells]], [[Crestward Flux Institute]], [[Valdenmoor Institute for Applied Sigil Study]], [[Vera Kolt]], [[Ossan Vert]], [[Kessran Dolt]]_
+**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding diversification) and explicitly avoids weapons-focused research. Major research directions include rift formation prevention, [[Flux Demons|demon]] behavior study, and applied systems for communities. [[Meln Corst]] leads rift mechanics research with field-grounded methodology emphasizing practical implementation over theoretical elegance.
+
+### Cross-Border Research
+
+**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] exemplifies this emerging institutional model, conducting field system integration research and serving as bridge between [[Terravelle]] and [[Auralis]] research traditions. This independent model is viable for scholars with portable expertise and successful funding negotiation, though it lacks the institutional security or resource scale of kingdom-based research.
+
+### Open Research Questions
+
+Current investigation focuses on several frontiers:
+
+- **Cross-discipline synthesis:** Whether spells from different [[Discipline|disciplines]] can be combined reliably to produce novel effects, or whether such combinations are fundamentally incoherent. [[Crestward Flux Institute]] actively pursues this. [[Emberfall]] has researchers investigating specific discipline interactions. [[Northern Terravelle Academy]] remains skeptical and focuses on single-discipline applications.
+- **Rift mechanics:** Causes of [[Rift Incursions|rift formation]], prevention strategies, and whether rifts can be deliberately controlled or closed. This is the primary research focus of the [[Northern Terravelle Academy|Academy]].
+- **Flux capacity limits:** Whether individual [[Control Tier|tier]] capacity has theoretical maximum or only practical limits; whether sustained use produces permanent physiological change; whether capacity can be increased through training or is static.
+- **Demon nature and communication:** What [[Flux Demons|demons]] are, whether they can be negotiated with or deterred, and whether demon behavior is predictable. [[Northern Terravelle Academy|Academy]] researchers pursue this; [[Auralis]] largely avoids publication in this area.
+
+### Institutional Differences
+
+The two kingdoms' research traditions reflect different philosophical priorities:
+
+- **Access vs. Depth:** [[Auralis]] institutions emphasize scaling research (broader access, more practitioners). [[Terravelle]] institutions emphasize depth (understanding specific domains thoroughly within resource constraints).
+- **Strategic orientation:** [[Auralis]] research serves kingdom expansion and military capability. [[Terravelle]] research explicitly avoids such service and emphasizes community stability.
+- **Publication vs. Implementation:** [[Auralis]] institutions produce high publication output and theoretical advancement. [[Terravelle]] institutions emphasize field-tested, practically implementable findings.
+- **Competitive vs. Collaborative:** [[Auralis]] research operates in competitive resource-allocation environments. [[Terravelle]] research emphasizes knowledge-sharing and collaborative problem-solving.
+
+Neither approach is objectively superior. They produce different kinds of advancement and reflect different cultural values about what research is for.
+
+_See also: [[Control Tier]], [[Sigils]], [[Spell Variables]], [[Flux Users]], [[Spells]], [[Crestward Flux Institute]], [[Emberfall]], [[Northern Terravelle Academy]], [[Meln Corst]], [[Vestra Veln]], [[Kedn Rast]], [[Rift Incursions]], [[Flux Demons]], [[Discipline]]_

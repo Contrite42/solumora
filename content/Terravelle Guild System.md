@@ -70,4 +70,4 @@ Neither system is objectively superior. They optimize for different goals: [[Aur
 
 When practitioners from both systems work together — as occasionally happens in cross-border trade, desert crossing expeditions, or joint [[Flux]] research — the differences are immediately visible. The Auralis practitioner has better theoretical grounding and follows safety protocols rigorously. The Terravelle practitioner adapts faster to unexpected conditions and knows how to improvise without supervision. Both recognize the other's strengths. Both notice the other's weaknesses.
 
-_See also: [[Flux Users]], [[Control Tier]], [[Terravelle]], [[Grimoires]], [[Sigils]], [[Aldrane Academy]], [[Dren Velt]], [[Grimoire Apprenticeship Contracts]], [[Trade Guilds]], [[Wolfpoint]], [[Solhaven]]_
+_See also: [[Flux Users]], [[Control Tier]], [[Terravelle]], [[Grimoires]], [[Sigils]], [[Aldrane Academy]], [[Dren Velt]], [[Grimoire Apprenticeship Contracts]], [[Trade Guilds]], [[Wolfpoint]], [[Solhaven]], [[Flux Research and Scholarship]], [[Northern Terravelle Academy]], [[Meln Corst]]_

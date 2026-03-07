@@ -12,4 +12,4 @@ This focus satisfies multiple strategic interests simultaneously: it appears to 
 
 The research environment is externally collaborative but internally competitive. Teams compete for funding and publication prominence, creating rapid innovation cycles but also territorial disputes over credit, methodology, and priority access to materials. This competition is tolerated by council overseers because it drives output velocity.
 
-_See also: [[Auralis]], [[The Council of Auralis]], [[Flux]], [[Control Tier]], [[Flux Users]], [[Spell Variables]], [[Watts]], [[Rare Grimoire]]_
+_See also: [[Auralis]], [[The Council of Auralis]], [[Flux]], [[Control Tier]], [[Flux Users]], [[Spell Variables]], [[Watts]], [[Rare Grimoire]], [[Flux Research and Scholarship]], [[Emberfall]], [[Northern Terravelle Academy]], [[Vestra Veln]], [[Kedn Rast]]_

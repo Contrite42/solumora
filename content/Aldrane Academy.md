@@ -53,4 +53,4 @@ The Academy's formal structure also produces a specific kind of blind spot: stud
 
 This trade-off is known and accepted. [[Auralis]] values the Academy's ability to produce safe, reliable practitioners at scale. [[Terravelle]] views Aldrane graduates as technically correct but dangerously rigid. Both assessments are accurate.
 
-_See also: [[Flux Users]], [[Control Tier]], [[Grimoires]], [[Sigils]], [[Auralis]], [[Valdenmoor]], [[Vessa Korst]], [[Terravelle Guild System]], [[Grimoire Apprenticeship Contracts]], [[Scholar Training]]_
+_See also: [[Flux Users]], [[Control Tier]], [[Grimoires]], [[Sigils]], [[Auralis]], [[Valdenmoor]], [[Vessa Korst]], [[Terravelle Guild System]], [[Grimoire Apprenticeship Contracts]], [[Scholar Training]], [[Flux Research and Scholarship]], [[Crestward Flux Institute]], [[Emberfall]], [[Northern Terravelle Academy]]_
