@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-008 - Arts & Entertainment
+# Active Task: EXPANSION-009 - Calendar & Timekeeping
 
 **Status:** IN PROGRESS
 **Owner:** Copilot
@@ -6,45 +6,42 @@
 
 ## Goal
 
-Show what people do for leisure, beauty, and cultural expression (theater, music, visual arts, sports/competitions, festivals).
+Define how Solumora measures time (days, months, years, seasons, historical eras) and what cultural events mark the calendar.
 
 ## Constraints
 
-- Flux enables some art forms (illusion theater, light sculpture, sound manipulation)
-- Art reflects power dynamics (who commissions, who performs, who watches)
-- Include both high culture (noble patronage) and common culture (street performers, tavern music)
-- Show regional differences (Auralis innovation-focused vs Terravelle traditional)
+- Must account for equatorial planet (different seasonal patterns from Earth)
+- Show kingdom differences if any (unified calendar vs separate systems)
+- Include both formal (governmental) and informal (agricultural, religious, social) calendars
+- Historical era naming must fit world tone (matter-of-fact, practical)
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
-- Existing canon: Settlement pages mention festivals, celebrations, social gatherings
+- Existing canon: Settlement pages mention seasons, harvest cycles, crossing windows
 
 ## Output Target
 
-7-9 notes total:
-- Art forms overview (theater, music, visual arts, Flux-enhanced performance)
-- Major venues (theaters, performance spaces, galleries)
-- Festivals and celebrations (seasonal events, kingdom holidays, local traditions)
-- Competitions and sports (physical contests, flux demonstrations, gambling)
-- 2-3 artist/performer NPC notes
-- Create [[Arts & Culture]] hub page
+4-6 notes total:
+- Calendar system overview (years, months, days, how time is measured)
+- Seasonal patterns (equatorial planet implications, regional variation)
+- Major holidays and festivals (already covered in Festivals note, link to it)
+- Historical eras and significant dates
+- Timekeeping methods (mechanical, astronomical, Flux-assisted)
+- Update [[Solumora]] with calendar section
 
 ## Execution Plan
 
-1. Query navigation cache for arts/entertainment context (festivals, celebrations, settlements)
-2. Read settlement pages for existing cultural references
-3. Design art forms (theater, music, visual arts, Flux-enhanced performance)
-4. Identify major venues in major settlements (Solhaven, Valdenmoor, Wolfpoint)
-5. Create festival and celebration notes (seasonal, political, religious)
-6. Design competition and sports notes (physical contests, Flux demonstrations)
-7. Create 2-3 NPC notes (performers, artists, venue operators)
-8. Create Arts & Culture hub page
-9. Link from kingdom/settlement pages
-10. Refresh navigation artifacts
-11. Mark complete in TASK_QUEUE.md
+1. Read existing Solumora page for any calendar references
+2. Design calendar structure (years, months, days, week equivalents)
+3. Define seasonal patterns for equatorial planet
+4. Create historical eras note (significant periods in kingdom history)
+5. Create timekeeping methods note (how people track time daily)
+6. Update Solumora page with calendar overview section
+7. Refresh navigation artifacts
+8. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Preparing to query navigation cache for arts and entertainment context...
+Preparing to read Solumora page for calendar context...
 
 ---
 

@@ -163,12 +163,13 @@ Blocked tasks are marked with their dependency.
       **Seed concept:** Food
       **Status:** COMPLETE - Regional Cuisines, Flux Food Preservation, Famous Food Establishments, Tavern Culture and Social Drinking, Food Trade and Distribution Systems, Food & Drink hub created, Auralis and Terravelle updated
 
-- [ ] **EXPANSION-008: Arts & Entertainment**
+- [x] **EXPANSION-008: Arts & Entertainment**
       **Goal:** Show what people do for leisure, beauty, and cultural expression (theater, music, visual arts, sports/competitions, festivals).
       **Constraints:** Flux enables some art forms (illusion theater, light sculpture). Art reflects power dynamics (who commissions, who performs, who watches). Include both high and common culture.
       **Output:** 7-9 notes (art forms, major venues, festivals, 2-3 artist NPCs) + create [[Arts & Culture]] hub.
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Arts
+      **Status:** COMPLETE - Performance Arts and Flux Illusion, Festivals and Public Celebrations, Arts & Culture hub created, Auralis and Terravelle updated
 
 - [ ] **EXPANSION-009: Calendar & Timekeeping**
       **Goal:** Define how Solumora measures time (days, months, years, seasons, historical eras) and what cultural events mark the calendar.

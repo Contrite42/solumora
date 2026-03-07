@@ -52,7 +52,7 @@ At the center of this tension are two rulers with fundamentally opposing visions
 
 These are not rulers who hate each other out of pride. The situation is more uncomfortable than that.
 
-_See also: [[Solumora]], [[Terravelle]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Flux]], [[Cassia]], [[Eddan Voss]], [[Drest]], [[The Council of Auralis]], [[Solhaven]], [[Emberfall]], [[Hedun]], [[Flux Demons]], [[Rift Incursions]], [[Ordinary Life in Auralis]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Adventurers]], [[Harbor District]], [[The Bluff District]], [[The Middling Steps]], [[The Crestward]], [[Crestward District]], [[Law and Order]], [[Food & Drink]]_
+_See also: [[Solumora]], [[Terravelle]], [[Equatorial Desert]], [[Flux Users]], [[Grim oires]], [[Flux]], [[Cassia]], [[Eddan Voss]], [[Drest]], [[The Council of Auralis]], [[Solhaven]], [[Emberfall]], [[Hedun]], [[Flux Demons]], [[Rift Incursions]], [[Ordinary Life in Auralis]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Adventurers]], [[Harbor District]], [[The Bluff District]], [[The Middling Steps]], [[The Crestward]], [[Crestward District]], [[Law and Order]], [[Food & Drink]], [[Arts & Culture]]_
 
 ## People in Motion
 
