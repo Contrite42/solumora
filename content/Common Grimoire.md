@@ -4,7 +4,7 @@ _Return to [[All Grimoire]]_
 
 ***
 
-**PierceLock**
+**ForceClamp**
 Pins kinetic force across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -20,7 +20,7 @@ Pins kinetic force across the inscribed face at touch range across a chosen surf
 
 ***
 
-**ReleaseShadow**
+**FluxBurst**
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 30 W |
 | Shape | Square |
@@ -36,7 +36,7 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 
 ***
 
-**SolidCage**
+**ForceScreen**
 Screens force flux, blocking unwanted elements while allowing valid ones through. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -52,7 +52,7 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 
 ***
 
-**DriftTide**
+**PhotonWave**
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 44 W |
 | Shape | Triangle |
@@ -68,7 +68,7 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 
 ***
 
-**SweepBond**
+**ChemSweep**
 Channels chemical flux to produce its effect. Spreads in a widening arc, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 29 W |
 | Shape | Triangle |
@@ -84,7 +84,7 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, at poin
 
 ***
 
-**DarkVeil**
+**ChemFlow**
 Channels chemical flux to produce its effect. Spreads in a widening arc. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 37 W |
 | Shape | Triangle |
@@ -100,7 +100,7 @@ Channels chemical flux to produce its effect. Spreads in a widening arc. Must be
 
 ***
 
-**SweepStrike**
+**ForceBarrier**
 Channels force flux to produce its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -116,7 +116,7 @@ Channels force flux to produce its effect. Extends across a flat surface, within
 
 ***
 
-**WeaveLight**
+**HeatAnchor**
 Anchors heat flux to the target, holding it in place. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 48 W |
 | Shape | Square |
@@ -132,7 +132,7 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 
 ***
 
-**FreezAura**
+**ForceFilter**
 Screens force flux, blocking unwanted elements while allowing valid ones through. at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 45 W |
 | Shape | Square |
@@ -148,7 +148,7 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 
 ***
 
-**FreezWard**
+**ConstraintLock**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 90 W |
 | Shape | Square |
@@ -164,7 +164,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**LoudWeb**
+**ForceMorph**
 Reshapes the target using force flux. Extends across a flat surface, at point of contact. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -180,7 +180,7 @@ Reshapes the target using force flux. Extends across a flat surface, at point of
 
 ***
 
-**BurBoon**
+**ForceGrip**
 Anchors force flux to the target, holding it in place. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -196,7 +196,7 @@ Anchors force flux to the target, holding it in place. Must be actively maintain
 
 ***
 
-**BindSong**
+**FluxFilter**
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 25 W |
 | Shape | Square |
@@ -212,7 +212,7 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 
 ***
 
-**LightHand**
+**PhotonSheet**
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 39 W |
 | Shape | Triangle |
@@ -228,7 +228,7 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 
 ***
 
-**TwistMark**
+**HeatWard**
 Channels heat flux to produce its effect. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 23 W |
 | Shape | Triangle |
@@ -244,7 +244,7 @@ Channels heat flux to produce its effect. at point of contact. Must be actively 
 
 ***
 
-**HeavyCurse**
+**ConstraintSense**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 45 W |
 | Shape | Triangle |
@@ -260,7 +260,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**DriftScar**
+**PhotonShift**
 Channels light flux to produce its effect. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 56 W |
 | Shape | Square |
@@ -276,7 +276,7 @@ Channels light flux to produce its effect. at point of contact. Persists for sev
 
 ***
 
-**BindLight**
+**ShockBarrier**
 Channels electric flux to produce its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 60 W |
 | Shape | Square |
@@ -292,7 +292,7 @@ Channels electric flux to produce its effect. Extends across a flat surface, wit
 
 ***
 
-**PierceBreath**
+**PhotonHold**
 Anchors light flux to the target, holding it in place. Extends across a flat surface. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 51 W |
 | Shape | Square |
@@ -308,7 +308,7 @@ Anchors light flux to the target, holding it in place. Extends across a flat sur
 
 ***
 
-**BurShell**
+**FluxWall**
 Channels raw flux to produce its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -324,7 +324,7 @@ Channels raw flux to produce its effect. Extends across a flat surface, within 1
 
 ***
 
-**HollowRing**
+**ChemMorph**
 Induces chemical transformation, altering molecular structure and material composition. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -340,7 +340,7 @@ Induces chemical transformation, altering molecular structure and material compo
 
 ***
 
-**ReleasMirror**
+**ShockTrace**
 Detects electric-related phenomena and gathers information. within 10 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 55 W |
 | Shape | Square |
@@ -356,7 +356,7 @@ Detects electric-related phenomena and gathers information. within 10 feet. Last
 
 ***
 
-**TransformFlame**
+**ConstraintScreen**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -372,7 +372,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**FreezCurse**
+**PhotonFilter**
 Screens light flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Square |
@@ -388,7 +388,7 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 
 ***
 
-**PierceDream**
+**FluxScan**
 Detects raw-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Square |
@@ -404,7 +404,7 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 
 ***
 
-**PureWeb**
+**ConstraintBind**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 60 W |
 | Shape | Triangle |
@@ -420,7 +420,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**SweepHalo**
+**ChemBurst**
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Spreads in a widening arc. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 57 W |
 | Shape | Square |
@@ -436,7 +436,7 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 
 ***
 
-**TameVoice**
+**ShockAnchor**
 Anchors electric flux to the target, holding it in place. Extends across a flat surface. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 70 W |
 | Shape | Square |
@@ -452,7 +452,7 @@ Anchors electric flux to the target, holding it in place. Extends across a flat 
 
 ***
 
-**FreshMark**
+**PhotonShield**
 Screens light flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 31 W |
 | Shape | Square |
@@ -468,7 +468,7 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 
 ***
 
-**BrightCalm**
+**HeatFlow**
 Channels heat flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -484,7 +484,7 @@ Channels heat flux to produce its effect. Extends across a flat surface, within 
 
 ***
 
-**RiseTouch**
+**ShockMorph**
 Reshapes the target using electric flux. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Triangle |
@@ -500,7 +500,7 @@ Reshapes the target using electric flux. Extends across a flat surface, within 1
 
 ***
 
-**BurWeb**
+**ConstraintHold**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 92 W |
 | Shape | Square |
@@ -516,7 +516,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**FallAura**
+**ForceSense**
 Detects force-related phenomena and gathers information. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 30 W |
 | Shape | Square |
@@ -532,7 +532,7 @@ Detects force-related phenomena and gathers information. at point of contact. Mu
 
 ***
 
-**AnchoredPath**
+**ShockDefend**
 Channels electric flux to produce its effect. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -548,7 +548,7 @@ Channels electric flux to produce its effect. Extends across a flat surface. Las
 
 ***
 
-**CalmBridge**
+**ShockWard**
 Channels electric flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Square |
@@ -564,7 +564,7 @@ Channels electric flux to produce its effect. Extends across a flat surface, wit
 
 ***
 
-**DriftBoon**
+**ChemBind**
 Anchors chemical flux to the target, holding it in place. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -580,7 +580,7 @@ Anchors chemical flux to the target, holding it in place. Extends across a flat 
 
 ***
 
-**CalmBoon**
+**ConstraintShift**
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 62 W |
 | Shape | Triangle |
@@ -596,7 +596,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 
 ***
 
-**FlowSilence**
+**HeatTrace**
 Detects heat-related phenomena and gathers information. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -612,7 +612,7 @@ Detects heat-related phenomena and gathers information. Extends across a flat su
 
 ***
 
-**ChillBond**
+**FluxAnchor**
 Anchors raw flux to the target, creating a volatile binding. at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 37 W |
 | Shape | Square |
@@ -628,7 +628,7 @@ Anchors raw flux to the target, creating a volatile binding. at point of contact
 
 ***
 
-**RisRune**
+**FluxFlow**
 Channels raw flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -6399,5 +6399,4 @@ Projects kinetic force that delivers crushing impact. Extends across a flat surf
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Self |
-| Persistence | Sustained |
-| Target | Surface |
+| Persistence | Sustained |
