@@ -32,7 +32,7 @@ The moment goods or services cross into quality-of-life territory the price clim
 
 [[Flux Users|Channeler]]-tier [[Sigils|sigil]] work — anything at [[Rare Grimoire|Rare]] and above — is not really priced like a service. It is priced like access to something that most of the world will never be able to replicate, because that is exactly what it is.
 
-_See also: [[World Primer]], [[Kingdoms]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Flux]], [[Flux Users]], [[History of Solumora]], [[Geography]], [[Ordinary Life]]_
+_See also: [[World Primer]], [[Kingdoms]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Flux]], [[Flux Users]], [[Economy]], [[History of Solumora]], [[Geography]], [[Ordinary Life]]_
 
 ## How People Move
 

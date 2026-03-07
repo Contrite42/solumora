@@ -207,12 +207,13 @@ Blocked tasks are marked with their dependency.
 
 ### Priority Track: Economic Detail
 
-- [ ] **EXPANSION-013: Currency & Banking**
+- [x] **EXPANSION-013: Currency & Banking**
       **Goal:** Define money systems, banking institutions, credit mechanisms, and cross-kingdom financial exchange.
       **Constraints:** Two kingdoms may have different currencies. Show how Flux affects finance (detection, verification, transportation security). Include both formal banks and informal lending.
       **Output:** 5-7 notes (currency systems, banks, exchange mechanisms, debt collection, 1-2 financier NPCs) + create [[Economy]] hub.
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Currency
+      **Status:** COMPLETE - Eight content files created: Watts as Currency (unified Flux-based currency with Flux-marked denomination system, verification standards, contemporary inflation pressure 2-3% annually), Banking Institutions (Auralis centralized Council model with regional banks/preferential military lending vs. Terravelle decentralized guild-federation banking houses with distributed decision-making), Cross-Kingdom Financial Exchange (inter-bank settlement mechanisms, merchant-house intermediaries, exchange rate volatility, hedging strategies, settlement delays from practitioner scarcity), Informal Lending Systems (debt-bonding mechanisms, community money-lenders, specialized lending for practitioners, predatory lending patterns, debt-trading networks), Morna Vest institutional banker NPC (Auralis T3 commercial lending officer managing civilian-military lending compression tension), Kels Morna independent operator NPC (Terravelle T1 money-lender maintaining ethical lending despite institutional competition), Economy synthesis hub (integrating all financial content with broader resource extraction/production/commerce infrastructure analysis, sector breakdown, elite/middle/low-tier economic stratification, sustainability challenges from war preparation, institutional response mechanisms, post-war economic scenarios). Solumora, Auralis, and Terravelle pages updated with [[Economy]] and [[Banking Institutions]] links. Navigation cache refreshed 624→642 nodes, 6489→6591 edges, 533→540 pages.
 
 - [ ] **EXPANSION-014: Resource Extraction & Refinement**
       **Goal:** Show how raw materials are gathered and processed (mining, logging, quarrying, rare material trade).

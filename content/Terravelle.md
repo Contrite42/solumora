@@ -32,7 +32,7 @@ The city's internal structure reflects its priorities. [[The Dock Wards]] run th
 
 Valdenmoor's agricultural supply base is [[Maren Valley]], the farming communities along the upper and middle Maren whose grain output and seasonal labor pool flow toward the capital through the Freight Chain's river logistics.
 
-_See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Terravelle Administration]], [[The Three Near-Wars]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Adventurers]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]], [[Law and Order]], [[Food & Drink]], [[Arts & Culture]], [[The Solumoran Calendar]], [[Timekeeping Technology]]_
+_See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Terravelle Administration]], [[The Three Near-Wars]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Banking Institutions]], [[Trade Guilds]], [[Economy]], [[Adventurers]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]], [[Law and Order]], [[Food & Drink]], [[Arts & Culture]], [[The Solumoran Calendar]], [[Timekeeping Technology]]_
 
 ## People in Motion
 

@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-013 - Currency & Banking
+# Active Task: EXPANSION-014 - Resource Extraction & Refinement
 
 **Status:** NOT STARTED
 **Owner:** Copilot
@@ -6,45 +6,48 @@
 
 ## Goal
 
-Define money systems, banking institutions, credit mechanisms, and cross-kingdom financial exchange. Show how Flux affects finance (detection, verification, transportation security). Include both formal banks and informal lending.
+Show how raw materials are gathered and processed throughout Solumora — mining operations, logging, quarrying, creature-product trade, specialized material processing, and the supply chains that move extracted resources toward processing centers and end-use markets.
 
 ## Constraints
 
-- Two kingdoms may have different currencies
-- Flux affects financial systems (protective measures, verification, security)
-- Show both institutional (banks, formal credit) and informal (lending, debt-bonding) systems
-- Financial systems under war preparation pressure: institutional funding crises, currency instability, credit system strain, institutional prioritization of military funding over economic support
+- Some resources require Flux for safe extraction (deep mining, hazardous material handling, dangerous creature harvesting)
+- Show labor conditions and tier stratification in extraction industries
+- Include environmental impacts and sustainable practices
+- Illustrate supply chains from extraction sites through processing/refinement to markets and institutional use
+- Document resource conflicts and institutional monopolization pressures
+- Contemporary war pressure: military resource requisitions, extraction acceleration beyond sustainable levels, practitioner conscription affecting extraction capacity, institutional prioritization of military-grade materials
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic descriptors)
-- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, practical operational focus)
-- Contemporary war pressure: military requisitions straining institutional funding, institutional lending predatory toward civilian ventures, currency instability from military resource exploitation, credit collateral demands inflated from institutional competition
+- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, operational focus)
 
 ## Output Target
 
-5-7 notes total:
-- 1-2 currency system notes defining money types, denominations, verification mechanisms
-- 1-2 banking institution notes (formal banks, institutional structures, credit mechanisms)
-- 1-2 informal lending/credit system notes (debt-bonding, money-lenders, alternative financing)
-- 1-2 financier/banker NPCs showing different relationship approaches to institutional/civilian economy
-- Create [[Economy]] hub synthesizing financial systems with broader resource management
-- Update [[Solumora]], [[Auralis]], [[Terravelle]] with financial infrastructure references
+6-8 notes total:
+- 1-2 resource-extraction industry categories (mining, logging/timber, creature-product trade) with operational details
+- 1-2 major extraction sites (showing geographic distribution and production scales)
+- 1-2 refinement/processing notes (material processing, crafting resource specialization)
+- 2-3 extraction-sector NPC profiles showing labor hierarchy and tier stratification
+- 1-2 notes on resource conflicts and institutional resource-monopolization mechanisms
+- Update [[Economy]] hub with resource-sector integration
+- Cross-link to [[Food & Drink]], [[Grimoire Economy]], [[Trade Guilds]], [[Creatures]], extraction-site pages
 
 ## Execution Plan
 
-1. Query navigation cache for Currency, Banking, Economy context
-2. Read [[Grimoire Economy]] and [[Trade & Travel]] for existing financial infrastructure foundation
-3. Grep search for existing banker/merchant/wealth references
-4. Create 1-2 currency system notes (denominations, verification, Flux security, cross-kingdom exchange)
-5. Create 1-2 banking institution notes (formal banks, credit structures, institutional relationships)
-6. Create 1-2 informal lending notes (alternative financing, debt systems, protection mechanisms)
-7. Create 1-2 financier NPC profiles showing institutional vs. civilian economy positioning
-8. Create [[Economy]] hub synthesizing all financial content with broader economic systems
-9. Update [[Solumora]], [[Auralis]], [[Terravelle]] with finance/banking references
-10. Refresh navigation artifacts
-11. Mark complete in TASK_QUEUE.md
+1. Query navigation cache for Resource, Extraction, Mining concepts
+2. Read [[Economy]] and [[Creatures]] pages for existing resource context
+3. Grep search for mining/logging/extraction references in existing content
+4. Create 1-2 extraction-industry category notes (operations, labor, safety, contemporary pressure)
+5. Create 1-2 major extraction-site notes (geographic location, resource types, production scale, NPC site leaders
+6. Create 1-2 refinement/processing notes (how raw materials become usable products)
+7. Create 2-3 extraction-sector NPC profiles (ranging from low-tier laborer to mid-tier site manager)
+8. Create resource-conflict note (institutional monopolization, environmental pressure, labor disputes)
+9. Update [[Economy]] hub with resource-sector contribution and war-pressure analysis
+10. Link from [[Food & Drink]] (preserved creature products), [[Creatures]] (hunting/harvesting), [[Grimoire Economy]] (material components)
+11. Refresh navigation artifacts
+12. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Ready to query navigation cache for Currency/Banking context...
+Ready to query navigation cache for Resource/Extraction/Mining context...
 
 ---
 
