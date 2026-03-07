@@ -1,0 +1,44 @@
+Python Script Hub
+=================
+
+Single access point:
+  python scripts/python/pyhub.py list
+  python scripts/python/pyhub.py run <script-name> [args...]
+
+Hub scripts in this folder are prefixed with "hub:" in the registry.
+Example:
+  python scripts/python/pyhub.py run hub:concept_links -- index
+
+Concept-link tool (agent-friendly JSON by default):
+  python scripts/python/concept_links.py index
+  python scripts/python/concept_links.py backlinks Grimoires
+  python scripts/python/concept_links.py related Grimoires --top 15
+  python scripts/python/concept_links.py path Grimoires "Common Grimoire"
+
+Full graph export for offline agent use:
+  python scripts/python/concept_graph_export.py --pretty
+  python scripts/python/concept_graph_export.py --output tmp/concept-graph.json
+  python scripts/python/pyhub.py run hub:concept_graph_export -- --pretty
+
+Build detail-preserving context index (section line ranges + previews):
+  python scripts/python/build_context_index.py --pretty
+  python scripts/python/pyhub.py run hub:build_context_index -- --pretty
+
+Fast query over cached files (no markdown rescan):
+  python scripts/python/concept_cache_query.py stats
+  python scripts/python/pyhub.py run hub:concept_cache_query -- related Grimoires --top 10
+
+Focused world navigation pack (top pages + read plan ranges):
+  python scripts/python/world_nav_query.py Grimoires --top-pages 10 --sections-per-page 4
+  python scripts/python/pyhub.py run hub:world_nav_query -- Grimoires --output tmp/nav-grimoires.json
+
+Text output mode:
+  python scripts/python/concept_links.py --format text backlinks Grimoires
+
+Design goals for other agentic AIs:
+- Stable subcommands and arguments
+- JSON-first output for parsing
+- No external dependencies
+- Works directly against ./content wiki-links
+- Cached-query path to avoid repeated markdown scanning
+- Detail pointers (file paths + section line ranges) for targeted deep reads

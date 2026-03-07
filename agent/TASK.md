@@ -56,6 +56,35 @@ Policy now active for pipeline work:
 
 ---
 
+## PERMANENT TASK - Keep AI Navigation Artifacts Current
+
+Use cached navigation as the default method for agent work. This is the token-efficient path and should be used before any full markdown scan.
+
+Default navigation method (run from repo root):
+
+1. `python scripts/python/pyhub.py run hub:concept_cache_query -- related <Concept> --top 20`
+2. `python scripts/python/pyhub.py run hub:world_nav_query -- <Concept> --output tmp/nav-<concept>.json`
+
+Refresh artifacts only when `content/` changed in the current cycle (new page, deleted page, or material edit).
+
+Required refresh steps after content changes:
+
+1. `python scripts/python/pyhub.py run hub:concept_graph_export -- --output tmp/concept-graph.json`
+2. `python scripts/python/pyhub.py run hub:build_context_index -- --output tmp/context-index.json`
+
+Verification requirement:
+
+- Confirm both cache files exist and parse after refresh: `tmp/concept-graph.json`, `tmp/context-index.json`.
+- For active tasks, generate at least one task-scoped nav pack: `tmp/nav-<concept>.json`.
+- If refresh fails, stop pipeline handoff and record failure details in `agent/reports/last_error.txt`.
+
+Operational rule:
+
+- No task that changes `content/` is complete until navigation artifacts are refreshed in the same work cycle.
+- No agent should run full-vault content traversal if cache-based navigation answers the task.
+
+---
+
 ## Archived Batch Notes (Do Not Execute)
 
 Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]

@@ -1,5 +1,16 @@
 ﻿# Task Queue
 
+## USER QUEUE (Pipeline Intake)
+
+Add creator/user-requested work items here first. `agent/TASK.md` should always mirror the next unchecked item from this section when a new cycle starts.
+
+- [ ] **USER-001 — Next Expansion Round Seed**
+      **Source:** `agent/USER_INPUT.md`
+      **Goal:** Convert current user request into executable batch plan.
+      **Required outputs:** task-scoped nav pack in `tmp/nav-<concept>.json`, updated `agent/TASK.md`, and queue status update.
+
+---
+
 Permanant Task: The World Always Needs More. There is Always something to add a new adventure to play out in this world, a new friend, a new town, a new spell, a new description. There will always be more.
 
 Whenever human interaction is needed, pop open a GUI that I can respond in
