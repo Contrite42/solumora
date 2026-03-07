@@ -46,6 +46,6 @@ The two paths produce different kinds of people. [[Terravelle]] adventurers tend
 
 ## Field Accounts
 
-Case narratives circulate informally among experienced adventurers as caution material and psychological preparation tools. One frequently copied account is [[Stories/The Screaming Shade|The Screaming Shade]], documenting a bound-soul encounter near [[Halveth]] where no member of the party had sufficient tier to resolve the bind.
+Case narratives circulate informally among experienced adventurers as caution material and psychological preparation tools. [[Adventurer Support Network]] documents the infrastructure enabling expeditions to function reliably. One frequently copied account is [[Stories/The Screaming Shade|The Screaming Shade]], documenting a bound-soul encounter near [[Halveth]] where no member of the party had sufficient tier to resolve the bind.
 
-_See also: [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[The Advancement Corps]], [[Ancient Ruins]], [[Flux]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Demons]], [[Rift Incursions]], [[Toven Ral]], [[Renne Osl]], [[Avel Coss]], [[Stories/The Screaming Shade]]_
+_See also: [[Adventurer Support Network]], [[Specialized Equipment Vendors]], [[Intelligence Brokers and Cartographic Services]], [[Rescue and Recovery Services]], [[Terravelle]], [[Auralis]], [[The Council of Auralis]], [[The Advancement Corps]], [[Ancient Ruins]], [[Flux]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Demons]], [[Rift Incursions]], [[Toven Ral]], [[Renne Osl]], [[Avel Coss]], [[Stories/The Screaming Shade]]_
