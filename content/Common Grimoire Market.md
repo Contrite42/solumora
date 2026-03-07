@@ -10,6 +10,10 @@ The price structure rewards volume purchase. Scribes who sell individual spells 
 
 The most commercially successful Common spells are the ones with the clearest, most repeatable utility in daily working life: lighting, heating, cold preservation, surface maintenance, basic security. [[Common Grimoire#Hearthlight|Hearthlight]], [[Common Grimoire#Coldbox Seal|Coldbox Seal]], [[Common Grimoire#Lockward|Lockward]], [[Common Grimoire#Dustsweep|Dustsweep]], [[Common Grimoire#Rustblock|Rustblock]] — these are not glamorous spells. They are the spells that save time, prevent spoilage, and reduce physical labor in ways that compound over a working life.
 
+Design conventions in this market are explicitly user-centric. Common buyers favor spells that are easy to keep running, predictable under imperfect conditions, and written with clear activation language. Recipes that prioritize broad targeting methods — especially Self, [[Filter]], Where Written, and general surface/object targeting — consistently outperform narrow, high-maintenance alternatives.
+
+A representative quality-of-life pattern is the sustained support sigil that keeps a user's grimoire floating nearby while they work. Sellers advertise these as Watt-efficient "hands-free" utility spells because they reduce friction in every other task that depends on reading, copying, or cross-checking sigils.
+
 The market for combat or protection spells at Common tier is smaller than people expect. [[Common Grimoire#Hardenskin|Hardenskin]], [[Common Grimoire#Forcepulse|Forcepulse]], [[Common Grimoire#Shockloop|Shockloop]] — these exist and sell, but they are niche purchases compared to utility applications. Most Common buyers are not thinking about threat response. They are thinking about whether their supply of [[Common Grimoire#Hearthlight|Hearthlight]] cards will last through winter.
 
 ## Distribution Channels

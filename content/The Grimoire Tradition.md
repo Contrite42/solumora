@@ -24,8 +24,12 @@ This convergence was not coordination. It was two populations who arrived at the
 
 The current grimoire market reflects the full complexity that five centuries of copying culture, guild regulation, Path institutional control, and market competition have produced. [[Common Grimoire|Common-tier texts]] are widely available through the [[Guild Scrivener Network]] equivalent operations in both kingdoms. [[Uncommon Grimoire|Uncommon texts]] require more effort and expense to obtain. [[Rare Grimoire|Rare texts]] and above are effectively institutional — held in guild archives, Path libraries, and private collections, and accessible only through specific relationships or significant expenditure.
 
+One mature outcome of that market is a user-first design culture in published grimoires. High-circulation texts are compiled around usability: low Watt draw, straightforward activation flow, and recipes that remain stable under ordinary working conditions. A common benchmark example is a sustained support sigil that keeps the user's grimoire floating nearby while both hands remain free for other work.
+
+As this design culture matured, recipe conventions in practical grimoires shifted toward broad, low-friction control choices. Everyday compilations increasingly favor targets and methods like Self, [[Filter]], and Where Written because those patterns reduce failure rates and support repeatable quality-of-life use.
+
 The distribution infrastructure is detailed in [[Grimoire Distribution]], [[Grimoire Economy]], and adjacent pages. The copying trade is documented in [[Grimoire Copyists]].
 
 What is worth noting at the historical level is that the grimoire tradition is the primary reason Flux use is genuinely widespread rather than confined to a hereditary elite. The ability to copy and sell Flux knowledge created a market that, whatever its inequalities, distributed that knowledge further than person-to-person transmission ever could have.
 
-_See also: [[History]], [[Grimoires]], [[Grimoire Economy]], [[Grimoire Distribution]], [[Grimoire Copyists]], [[Sigils]], [[Spell Variables]], [[Control Tier]], [[Flux]], [[Terravelle]], [[Auralis]], [[Ascendant Path]], [[Trade Guilds]]_
+_See also: [[History]], [[Grimoires]], [[Grimoire Economy]], [[Grimoire Distribution]], [[Grimoire Copyists]], [[Common Grimoire Market]], [[Personal Working Grimoire]], [[Sigils]], [[Spell Variables]], [[Control Tier]], [[Flux]], [[Terravelle]], [[Auralis]], [[Ascendant Path]], [[Trade Guilds]]_

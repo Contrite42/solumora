@@ -6,6 +6,10 @@ The grimoire economy is the system by which [[Flux]] capability is distributed a
 
 The result is that society optimizes around the low-tier end. Most daily Flux use by most people is T1–T2 work: lighting, heating, cooling, maintenance, basic security. The [[Common Grimoire Market]] serves this need at prices that make the spells genuinely accessible. This is not philanthropy; it is the outcome of a high-volume, low-margin market that has competed its prices down to what the demand will bear.
 
+The same market pressure shapes how spells are packaged inside grimoires. Practical compilations are designed for operator convenience: cohesive recipes, low sustain cost, and targeting choices that fit ordinary use without constant retuning. In commercial terms, user-friendly spell architecture sells better than technically elegant but fragile constructions.
+
+That is why quality-of-life spells are disproportionately represented in high-volume catalogs. A sustained, Watt-efficient sigil that keeps a grimoire floating in read position while the user works is economically more valuable than a flashy but situational spell, because the former gets used every day.
+
 The grimoire economy does not eliminate the advantage of high-tier practitioners. It limits the gap. A T5 practitioner can do things a T1 practitioner cannot do regardless of what grimoires the T1 practitioner holds. But the T1 practitioner, with a good Common collection, has access to dozens of reliable useful spells — and that access comes from the market, not from birth.
 
 ## Key Institutions

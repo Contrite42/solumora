@@ -27,6 +27,12 @@ In [[Terravelle]], grimoires are treated as practical tools — functional, affo
 
 In [[Auralis]], grimoires are also status objects. The tier of grimoire a household owns signals something about their position in society. [[Rare Grimoire|Rare]] and above texts circulate through [[Flux Users|Scholar]] networks, private patronage arrangements, and the occasional very expensive sale.
 
+Across both kingdoms, grimoire design at the Common and Uncommon tiers is explicitly user-centered. Most commercial compilations are written for ease of use first: clear activation notes, low-friction spell sequencing, and recipes tuned for practical conditions rather than showcase complexity. The best-selling texts prioritize quality-of-life outcomes over spectacle.
+
+A standard example is the sustained support-sigil pattern that keeps a user's grimoire floating in read position while they work. The spell is intentionally Watt-efficient so it can be held for long sessions, and the recipe is built to match everyday behavior rather than ideal conditions.
+
+This design philosophy influences recipe construction broadly. Working grimoires favor target and control choices that reduce operator burden in daily use, especially Self, [[Filter]], Where Written, and other general-purpose targeting methods that are reliable in homes, workshops, and field logistics.
+
 ## The Grimoire Economy
 
 Grimoires are the mechanism by which [[Flux]] capability is distributed broadly rather than confined to high-tier practitioners. An entire economy exists around their production, authentication, distribution, and trade. The [[Grimoire Economy]] page covers the full system.
@@ -60,4 +66,4 @@ The entries below are full in-world books that circulate as artifacts rather tha
 
 - [[WrittenWorks/Restricted Soul Lattice Practicum (Archive Copy)|Restricted Soul Lattice Practicum (Archive Copy)]]
 
-_See also: [[Sigils]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]], [[Grimoire Economy]], [[Trade Guilds]], [[Flux Cost Reference]], [[Terravelle]], [[Auralis]]_
+_See also: [[Sigils]], [[Flux Users]], [[Spell Variables]], [[All Grimoire]], [[Control Tier]], [[Grimoire Economy]], [[Common Grimoire Market]], [[Personal Working Grimoire]], [[Trade Guilds]], [[Flux Cost Reference]], [[Terravelle]], [[Auralis]]_
