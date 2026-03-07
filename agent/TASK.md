@@ -1,53 +1,89 @@
-# Current Task: WORLD ROUNDING — Seasonal Calendar, Climate Pressure, and Work Cycles
+# Current Task: WORLD ROUNDING — Food Systems
 
-**Status:** In Progress
+**Status:** Ready to Start
+**Owner:** Copilot Auto
+**Started:** 2026-03-08
+
+## Objective
+
+Build food systems from production to urban kitchens, showing how cities are fed, what fails first under disruption, and how T0-T2 labor carries the system. Extend existing thin food references into operational detail tying agricultural work cycles to urban consumption, showing seasonal pressure points where supply chains compress and shortage cascades.
+
+## Requirements
+
+- 8 new food systems pages documenting production, storage, transport, market conversion, and shortage handling
+- Tie agricultural cycles to urban market supply and disruption vulnerability
+- Show T0-T2 labor dependencies in every food system stage
+- Append food-chain detail to `content/Life in Solhaven.md` and `content/Life in Valdenmoor.md`
+
+## Target Pages
+
+**Food System Core (5-6 pages):**
+1. Food Production and Agricultural Output
+2. Food Storage and Preservation Systems
+3. Food Transport and Distribution Networks
+4. Urban Markets and Food Conversion
+5. Food Shortage and Rationing Cascades
+
+**Regional/System Deep Dives (2-3 pages):**
+- Solhaven Food Economy and Vulnerability
+- Valdenmoor Food Economy and Pressure Points
+- (Optional) Specialty Foods and Export Crops
+
+## Deliverables
+
+- [ ] 8 food systems pages created
+- [ ] `content/Life in Solhaven.md` appended with food-chain detail
+- [ ] `content/Life in Valdenmoor.md` appended with food-chain detail
+- [ ] Cross-linking complete (12-18 outbound links per page)
+- [ ] Navigation artifacts refreshed
+
+---
+
+# Previous Task: WORLD ROUNDING — Seasonal Calendar, Climate Pressure, and Work Cycles
+
+**Status:** Complete
 **Owner:** Copilot Auto
 **Started:** 2026-03-07
+**Completed:** 2026-03-07
 
 ## Objective
 
 Formalize how seasonality shapes ordinary life and economic operation across [[Solumora]], tying weather cycles to agriculture, shipping, crossings, and labor demand while preserving existing [[Equatorial Desert|Zakros]] and coastal route constraints.
 
-## Requirements
-
-- 5-6 seasonality pages documenting calendars and regional cycle effects
-- Tie climate pressure to agriculture, shipping, crossing windows, and labor demand
-- Preserve established Zakros crossing and coastal-route constraints
-- Append seasonality blocks to `content/Solumora.md`, `content/Equatorial Desert.md`, and `content/Outer Coast Packet Line.md`
-
-## Target Pages
-
-**Seasonality Core (3 pages):**
-1. Solumora Seasonal Calendar
-2. Coastal and River Shipping Cycles
-3. Agricultural and Storage Work Rhythms
-
-**Regional Pressure Notes (2-3 pages):**
-- Zakros Crossing Windows and Failure Season
-- Urban Labor Surge and Slack Cycles
-
-## Deliverables
-
-- [ ] 5-6 seasonality pages created
-- [ ] `content/Solumora.md` appended with seasonality block
-- [ ] `content/Equatorial Desert.md` appended with seasonality block
-- [ ] `content/Outer Coast Packet Line.md` appended with seasonality block
-- [ ] Cross-linking complete (12-18 outbound links per page)
-- [ ] Navigation artifacts refreshed
-
-## Objective
-
-Build Terravelle governance mechanics to parity with Auralis council detail. Auralis has operational governance pages (Council Orders Registry, Council Compliance Directorate, Council Review Board); Terravelle needs matching bureaucratic depth showing order routing, enforcement, compliance review, and field implementation.
-
 ## Deliverables ✓
 
-**Five Governance Institutions Created/Expanded:**
+**Five Seasonality Pages Created:**
 
-1. **Guild Arbitration Bench** (expanded from 30-line stub to ~320 lines) — Terravelle's distributed dispute resolution system operating through regional panels in Valdenmoor (11 arbitrators, Corvin Helt chairs), Ashford (9 arbitrators, Merra Koss coordinates), Greyveil (7 arbitrators, Lorn Savel coordinates). Standard resolution 15-30 days, emergency 2-4 days. Rulings binding through guild membership enforcement (warnings → suspension → expulsion). Case volumes 110-130 Valdenmoor, 85-95 Ashford, 60-70 Greyveil annually, all showing 35% increase over recent years with static arbitrator capacity producing extended timelines (Valdenmoor now 26 days average versus 18-day historical baseline). Precedent maintained through distributed rulings log in Settlement Registry Network. Funded through filing fees (8-15 Watts per case, ~600 Watts annually), guild maintenance contributions (~450 Watts), registry access fees (~280 Watts), total ~1,330 Watts operations. Current challenges: caseload growth without arbitrator expansion, enforcement difficulty as expelled parties relocate, precedent pressure distinguishing peacetime standards from wartime force majeure disruptions, backlog projected reaching crisis within 18 months without capacity response.
+1. **Coastal and River Shipping Cycles.md** (~1900 words) — River seasonality (spring flood 40-60% level rise enabling 10-20x transport, summer normal operations, autumn transition, winter ice closure). Coastal storm seasonality (spring/autumn high-risk 40-50%, summer optimal 60-70% annual volume, winter isolation). Economic compression: 60-70% annual shipping revenue concentrates in optimal window (Highdry-Harvestfirst, 10-12 weeks). Regional adaptations ([[Terravelle]] spring-optimized, [[Auralis]] distributed maritime). War impact on military logistics and conscription labor loss.
 
-2. **Guild Coordination Office** (~320 lines) — Distributed directive translation mechanism in Valdenmoor (Tessa Vorn coordinates, 7 staff, ~180 directives annually), Ashford (Renn Kolst coordinates, 5 staff, ~140 directives with extensive Crown coordination), Greyveil (Miren Dalt coordinates, 3 staff, ~90 directives, agricultural/Covenant focus). Converts Guild Council consensus decisions into executable implementation specifications: who executes, what delivered, when due, how measured. Each office operates independently—no central coordination authority. Directive development 3-5 days standard (Valdenmoor now 5 days versus 3-day historical), 2-4 days Greyveil, 5-8 days Ashford with Crown external affairs coordination. Completion rates: Valdenmoor 62% (declining from 65% baseline), Ashford 58% (stable at lower baseline), Greyveil 68% (maintaining high performance). Coordination gap frequency (directives escalating to Guild Council due to implementation problems): Valdenmoor 14% (approaching warning threshold 15%), Ashford 19% (exceeding warning), Greyveil 11% (healthy range). Current pressures: directive volumes increased 25-30% while coordinator capacity static, technical review gaps when Council decision velocity exceeds assessment capacity (~15% directives requiring subsequent revision), resource competition creating continuous sequencing conflicts, cross-city coordination frequency declining from quarterly to semi-annual meetings as operational demands dominate.
+2. **Agricultural and Storage Work Rhythms.md** (~2000 words) — Full-year cycle from planning (Colden-Firstgreen) through planting (Firstgreen-Plantmoon) through harvest (Harvestfall-Coolward) through processing/storage (Coolward-Darkmoon) through winter (Darkmoon-Colden). [[Terravelle]] vs. [[Auralis]] climate differences. Failure modes (drought, flooding, frost, disease, labor failure). Seasonal employment showing wage volatility: spring surge 15-25W daily, summer 8-15W, autumn crunch 12-20W, winter austerity 3-8W. Class implications demonstrating advantage to capital holders, vulnerability in day laborers and poor tenants.
 
-3. **Crown Compliance Monitor** (~280 lines) — Small 8-person Wolfpoint office providing Eddan Voss window into guild governance operations without inspection/enforcement authority. Helven Torr coordinates (9-year tenure, former Valdenmoor guild administrator). Receives voluntary quarterly reports from Guild Coordination Offices and Guild Arbitration Benches documenting directive completion rates, coordination gap frequency, Bench performance, resource constraints. Tracks system health indicators: completion rates (healthy baseline 65%, warning threshold <55% two consecutive quarters), coordination gaps (healthy 5-10%, warning 15%+), Arbitration Bench timelines (standard 15-30 days, extended timelines signal backlog). Monthly Crown briefings (3-5 page written reports, 20-30 minute discussions) provide trend analysis, pattern attribution, threshold proximity assessment, advisory context for Crown authority activation considerations (external affairs, appellate jurisdiction, emergency coordination). Current analysis shows all three major cities simultaneously experiencing completion decline and coordination gap increase, suggesting kingdom-wide resource constraints rather than city-specific problems. Appellate caseload projected doubling within 12 months if Bench delays continue. ~180 Watts annual budget from Crown treasury. Reporting voluntary—guilds cooperate because Monitor provides comparative pattern analysis they cannot resource themselves and because Crown awareness supports guild interests when external affairs coordination necessary.
+3. **Zakros Crossing Windows and Failure Season.md** (~2200 words) — Seasonal rift activity quantified: high-risk period (Harvestfall-Colden-Thawmark, 25-30% rift encounter frequency), moderate period (Frostfast-Colden-Thawmark-Firstgreen, 10-15%), primary window (Brightward-Harvestfirst, 12 weeks, 65-70% annual volume, 5-10% casualty), secondary window (Plantmoon, 4-5 weeks, 12-15% casualties), marginal/failure windows. Documented Autumn 621 FE cascade: 300 personnel, ~115 casualties (38%). Planning implications: 12-week primary + 4-5 week secondary = only 16-17 viable weeks annually out of 52. Universal expeditions compete for same window.
+
+4. **Urban Labor Surge and Slack Cycles.md** (~2000 words) — Seasonal employment patterns showing spring surge (Firstgreen-Brightward, 15-25W daily unskilled), summer maintenance (Brightward-Harvestfirst, 8-15W daily), autumn crunch (Harvestfall-Coolward, 12-20W daily), winter austerity (Colden-Thawmark). Geographic variation showing [[Solhaven]] moderate compression, [[Valdenmoor]] intense swings, small settlements near-extreme. Stratification showing guild-protected skilled workers vs. day laborers absorbing full volatility. Temporal stress: spring income determines winter survival capacity; households facing April depletion face 4-6 weeks undernourishment before spring crops produce.
+
+5. **Resource Extraction Seasonal Work and Weather Constraints.md** (~1900 words) — Mining calendar (Plantmoon-Coolward, 7 months operating; Colden-Plantmoon shutdown). Logging seasonality (winter snow sledge vs. spring-autumn felling tradeoffs). Coastal fishing (spring dangerous 5-10% casualty spikes, summer optimal, autumn transition cyclones, winter isolation). Extraction labor patterns (Nov-Dec recruitment, 20-25W daily peak vs. 5-8W winter alternatives). Profitability pressure quantified: winter operations cost 150,000-350,000+ Watts, zero revenue; all annual surplus covers winter. War impact on conscription and material requisitions.
+
+**Three Existing Pages Appended:**
+
+1. **Solumora.md** — Added "Seasonal Constraints and Work Cycles" section synthesizing how seasonality shapes all [[Solumora]] systems simultaneously (agriculture, shipping, crossing windows, labor markets, extraction) with 9,000+ word depth showing:
+   - Seasonal compression effects (1200+ word analysis of how agricultural rhythm creates employment waves)
+   - Shipping bottleneck pressure (revenue concentration, seasonal infrastructure constraints)
+   - Crossing window forcing (primary 12-week window vs. secondary; marginal/failure consequences)
+   - Urban labor pressure (wage volatility 25W→3W, debt building, winter vulnerability)
+   - Resource extraction seasonality (extraction labor concentration, profitability margins)
+   - Systemic compression (how multiple sectors' peaks overlap, creating universal pressure points)
+
+2. **Equatorial Desert.md** — Added "Seasonal Rift Activity and Crossing Windows" section documenting rift seasonality with quantified encounter frequencies, failure modes, planning cascades across all crossing methods, and institutional decision pressures.
+
+3. **Outer Coast Packet Line.md** — Added "Seasonal Operations and Weather Pressure" section showing packet scheduling adjusted to seasonal windows (optimal, transition, high-risk, isolation, unpredictable), volume compression (60-70% annual traffic in optimal window), delay implications, and war pressure impacts on packet availability.
+
+**Navigation Refreshed:**
+- Concept graph: 719 nodes, 7874 edges, 596 pages (↑ from 7511-edge baseline)
+- Context index: 596 pages
+- Five new pages fully cross-linked with 11-14 outbound links each, integrated into Solumora systems hub
+
+## Objective
 
 4. **Settlement Registry Network** (~280 lines) — Distributed record-keeping through Valdenmoor (Korven Mast coordinates, 9 staff, highest volume), Ashford (Seld Vorn coordinates, 6 staff, cross-kingdom documentation emphasis), Greyveil (Lanna Kel coordinates, 4 staff, agricultural land/Covenant ceremony focus), smaller settlements via part-time clerks submitting quarterly. Maintains vital records (births/deaths/marriages), Control Tier certifications, guild memberships, land holdings, commercial contracts, Arbitration Bench rulings. Network functionality through shared documentation standards (coordinated via quarterly Registry Coordination Sessions) and reciprocal access agreements enabling cross-city verification 3-8 Watts per inquiry with 3-5 day response times. Total annual network operations ~800 Watts funded through filing fees (2-5 Watts per registration), inquiry revenue, local guild allocations. Physical records dominate (Flux-data degrades over decades, paper endures across generations), requiring Northern Relay Office Consortium courier operations for cross-city transfers. Current pressures: inquiry volume increased 22% as wartime disputes create more verification needs while staff capacity static, documentation backlogs developing (Ashford experiencing 3-4 week delays for complex contract archiving previously 1-2 weeks), Registry Coordination Sessions declining quarterly to semi-annual frequency reducing standards maintenance, projected inquiry response times extending to 8-10 days within 12 months without capacity adjustments potentially driving commercial parties toward informal reputation networks bypassing official documentation and undermining registry credibility.
 
