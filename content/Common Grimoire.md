@@ -6399,4 +6399,5 @@ Projects kinetic force that delivers crushing impact. Extends across a flat surf
 | Output | Kinetic |
 | Pattern | Plane |
 | Reach | Self |
-| Persistence | Sustained |
+| Persistence | Sustained |
+| Target | Surface |
