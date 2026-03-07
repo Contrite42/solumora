@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-011 - Wilderness & Creatures
+# Active Task: EXPANSION-012 - Adventurer Support Network
 
 **Status:** NOT STARTED
 **Owner:** Copilot
@@ -6,44 +6,44 @@
 
 ## Goal
 
-Build ecosystem layer with dangerous/useful creatures beyond [[Equatorial Fauna]] showing Flux effects on wildlife and creature-based economy (hunter culture, creature product trade, symbiotic relationships).
+Detail commercial infrastructure serving [[Adventurers]] — vendors, guides, service providers, and institutional supports that enable expeditions to function (gear suppliers, map makers, intelligence brokers, rescue services, death documentation).
 
 ## Constraints
 
-- Show Flux's effect on wildlife (mutations, behaviors, flux-beast category)
-- Include both threats and resources (creature products: hides, organs, venom, etc.)
-- Creatures visible across different biomes ([[Maren Valley]], [[Wolfpoint]] northern territories, [[Equatorial Desert]])
+- Adventuring is dangerous business with high failure/casualty rates
+- Support infrastructure profits from risk-takers but varies widely in reliability and honesty
+- Include failure modes (scams, fraudulent vendors, abandoned contracts, bad intelligence)
+- Show how support networks vary between settlements and kingdoms
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic descriptors)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, practical focus)
-- Contemporary war preparation pressure: hunting pressure increasing, creature products becoming strategic resources, traditional hunting territories requisitioned for military use
+- Contemporary war preparation pressure: vendor networks disrupted by military requisitions, contract reliability unpredictable, support service costs inflated by institutional competition for resources
 
 ## Output Target
 
-8-10 notes total:
-- 4-6 specific creature types (different biomes, threat levels, resource value)
-- 2 hunter/naturalist NPCs (showing professional hunter culture, knowledge specialization)
-- 1-2 creature-product trade/hunting culture notes (equipment, safety, economics, contemporary pressures)
-- Create [[Creatures]] hub synthesizing ecosystem and hunting cultures
-- Link from [[Equatorial Fauna]], [[Maren Valley]], [[Wolfpoint]], settlement pages
+6-8 notes total:
+- 2-3 categories of support services (gear suppliers, intelligence networks, rescue/recovery operations)
+- 2-3 major vendor/service provider NPCs (showing different business models and reliability profiles)
+- 1-2 notes on infrastructure and institutional structures enabling adventurer economy
+- Create [[Adventurer Support Network]] hub synthesizing all services and economic logic
+- Link from [[Adventurers]], settlement pages, expedition infrastructure pages
 
 ## Execution Plan
 
-1. Query navigation cache for Equatorial Fauna context
-2. Read Equatorial Fauna page for existing foundation
-3. Grep search for existing creature/fauna/hunting references
-4. Create 4-6 specific creature type notes (varied biomes, threat levels, products)
-5. Create 2 hunter/naturalist NPC profiles (showing field specialization)
-6. Create hunting culture note (practical operations, safety, communities)
-7. Create creature-product trade note (markets, economics, contemporary pressures)
-8. Create [[Creatures]] hub synthesizing ecosystem and human interaction
-9. Update Equatorial Fauna with new creature links
-10. Link from settlement pages, [[Maren Valley]], [[Wolfpoint]], adventure infrastructure pages
-11. Refresh navigation artifacts
-12. Mark complete in TASK_QUEUE.md
+1. Query navigation cache for Adventurers context
+2. Read [[Adventurers]] page for existing foundation
+3. Grep search for existing vendor/service provider references
+4. Create 2-3 specific service category notes (detailed vendor operations, pricing, reliability, failures)
+5. Create 2-3 vendor/service provider NPC profiles
+6. Create infrastructure and institutional note (guild structures, regulation, contemporary pressures)
+7. Create [[Adventurer Support Network]] hub synthesizing all content
+8. Update [[Adventurers]] page with new service links
+9. Link from settlement pages, expedition infrastructure pages
+10. Refresh navigation artifacts
+11. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Preparing to query navigation cache for Equatorial Fauna context...
+Preparing to query navigation cache for Adventurers context...
 
 ---
 
