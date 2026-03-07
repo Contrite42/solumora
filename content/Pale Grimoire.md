@@ -4,6 +4,7 @@ _Return to [[All Grimoire]]_
 **SweepBreath**
 Pins soul-signature flux as a wrapped radius around the mark anywhere in line of sight on a single person, creating a clamp-like hold that resists motion or change, and once stabilized it remains as a permanent working.
 | Wattage | 498339 W |
+|---|---|
 | Shape | Circle |
 | Hook | Bind |
 | Mode | Control |
@@ -22,6 +23,7 @@ Pins soul-signature flux as a wrapped radius around the mark anywhere in line of
 **FierceAura**
 Releases soul-flux that resonates with targets' metaphysical essence. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 203008 W |
+|---|---|
 | Shape | Circle |
 | Hook | Emit |
 | Mode | Control |
@@ -36,6 +38,7 @@ Releases soul-flux that resonates with targets' metaphysical essence. Fills an e
 **SwiftDoor**
 Detects soul-signatures and binding marks, revealing metaphysical connections. Fills an enclosed volume, anywhere visible.
 | Wattage | 216179 W |
+|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Control |
@@ -50,6 +53,7 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. F
 **KindlFlame**
 Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible.
 | Wattage | 244940 W |
+|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Create |
@@ -64,6 +68,7 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 **GuardShroud**
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 226953 W |
+|---|---|
 | Shape | Circle |
 | Hook | Filter |
 | Mode | Control |
@@ -78,6 +83,7 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 **TwinBridge**
 Channels soul flux to produce its effect. Fills an enclosed volume, hitting multiple targets.
 | Wattage | 382824 W |
+|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -92,6 +98,7 @@ Channels soul flux to produce its effect. Fills an enclosed volume, hitting mult
 **FallWeb**
 Detects soul-signatures and binding marks, revealing metaphysical connections. Expands in all directions from the center, affecting a single person. The effect becomes permanent once established.
 | Wattage | 445675 W |
+|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -106,6 +113,7 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. E
 **BurningGlyph**
 Detects soul-signatures and binding marks, revealing metaphysical connections. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 481260 W |
+|---|---|
 | Shape | Circle |
 | Hook | Sense |
 | Mode | Create |
@@ -120,6 +128,7 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. F
 **SlowSilence**
 Channels soul flux to produce its effect. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 457377 W |
+|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Affect |
@@ -134,6 +143,7 @@ Channels soul flux to produce its effect. Fills an enclosed volume, anywhere vis
 **StillGate**
 Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible.
 | Wattage | 367727 W |
+|---|---|
 | Shape | Circle |
 | Hook | Move |
 | Mode | Control |
@@ -148,6 +158,7 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 **DissolveScar**
 Channels soul flux to produce its effect. Fills an enclosed volume, affecting a single person. The effect becomes permanent once established.
 | Wattage | 283512 W |
+|---|---|
 | Shape | Circle |
 | Hook | Ward |
 | Mode | Create |
@@ -162,6 +173,7 @@ Channels soul flux to produce its effect. Fills an enclosed volume, affecting a 
 **CalmBond**
 Reshapes the target using soul flux. Expands in all directions from the center, anywhere visible. The effect becomes permanent once established.
 | Wattage | 206135 W |
+|---|---|
 | Shape | Circle |
 | Hook | Transform |
 | Mode | Control |
