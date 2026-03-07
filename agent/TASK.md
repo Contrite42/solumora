@@ -1,47 +1,50 @@
-# Active Task: EXPANSION-009 - Calendar & Timekeeping
+# Active Task: EXPANSION-010 - Ruins & Ancient Sites
 
-**Status:** IN PROGRESS
+**Status:** NOT STARTED
 **Owner:** Copilot
 **Started:** 2026-03-07
 
 ## Goal
 
-Define how Solumora measures time (days, months, years, seasons, historical eras) and what cultural events mark the calendar.
+Expand [[Ancient Ruins]] with 4-6 specific sites showing different ruin types, dangers, and why people explore them (treasure, knowledge, Flux research, survival resources).
 
 ## Constraints
 
-- Must account for equatorial planet (different seasonal patterns from Earth)
-- Show kingdom differences if any (unified calendar vs separate systems)
-- Include both formal (governmental) and informal (agricultural, religious, social) calendars
-- Historical era naming must fit world tone (matter-of-fact, practical)
-- Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
-- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
-- Existing canon: Settlement pages mention seasons, harvest cycles, crossing windows
+- Pre-Flux civilization mystery must be preserved (no definitive answers about what happened, who they were)
+- Each ruin needs: specific location in [[Desert Zakros]], known dangers (Flux distortions, environmental hazards, structural instability), what's been found (artifacts, grimoires, anomalies), who explores (researchers, adventurers, scavengers), unresolved questions
+- Include at least one "total loss" expedition (entire team disappeared/killed, documented failure)
+- [[Rift Incursions]] are connected to ancient ruins (flux anomalies near ruins worse)
+- Must connect to existing expedition infrastructure ([[Vren Waystation]], [[Korvel Deep Station]], [[Trest Forward]])
+- Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic, geographic descriptors)
+- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, no melodrama)
+- Contemporary war preparation pressure: expeditions more militarized, civilian access reducing, research diverted to military applications
 
 ## Output Target
 
-4-6 notes total:
-- Calendar system overview (years, months, days, how time is measured)
-- Seasonal patterns (equatorial planet implications, regional variation)
-- Major holidays and festivals (already covered in Festivals note, link to it)
-- Historical eras and significant dates
-- Timekeeping methods (mechanical, astronomical, Flux-assisted)
-- Update [[Solumora]] with calendar section
+6-8 notes total:
+- 4-6 specific ruin sites (different types: buried structures, surface anomalies, deep chambers, etc.)
+- 1-2 explorer/researcher NPCs (showing different motivations: academic, profit, military)
+- 1 ruin-delving culture note (equipment, survival strategies, knowledge sharing/hoarding, expedition economics)
+- Update [[Ancient Ruins]] with links to all new sites
+- Link from [[Desert Zakros]], [[Auralis]] (primary exploration sponsor), expedition infrastructure pages
 
 ## Execution Plan
 
-1. Read existing Solumora page for any calendar references
-2. Design calendar structure (years, months, days, week equivalents)
-3. Define seasonal patterns for equatorial planet
-4. Create historical eras note (significant periods in kingdom history)
-5. Create timekeeping methods note (how people track time daily)
-6. Update Solumora page with calendar overview section
-7. Refresh navigation artifacts
-8. Mark complete in TASK_QUEUE.md
+1. Query navigation cache for Ancient Ruins context
+2. Read Ancient Ruins page for existing foundation
+3. Read Desert Zakros page for geographic context
+4. Grep search for existing ruin/expedition references
+5. Create 4-6 specific ruin site notes (varied types, dangers, discoveries)
+6. Create 1-2 explorer/researcher NPCs (showing different expedition cultures)
+7. Create ruin-delving culture note (practical operations, economics, contemporary pressures)
+8. Update Ancient Ruins page with new site links
+9. Link from Desert Zakros, Auralis, expedition infrastructure pages
+10. Refresh navigation artifacts
+11. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Preparing to read Solumora page for calendar context...
+Preparing to query navigation cache for Ancient Ruins context...
 
 ---
 

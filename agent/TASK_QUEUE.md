@@ -171,12 +171,13 @@ Blocked tasks are marked with their dependency.
       **Seed concept:** Arts
       **Status:** COMPLETE - Performance Arts and Flux Illusion, Festivals and Public Celebrations, Arts & Culture hub created, Auralis and Terravelle updated
 
-- [ ] **EXPANSION-009: Calendar & Timekeeping**
+- [x] **EXPANSION-009: Calendar & Timekeeping**
       **Goal:** Define how Solumora measures time (days, months, years, seasons, historical eras) and what cultural events mark the calendar.
       **Constraints:** Must account for equatorial planet (different seasonal patterns), show kingdom differences if any. Include both formal (governmental) and informal (agricultural, religious, social) calendars.
       **Output:** 4-6 notes (calendar system, major holidays/festivals, historical eras, timekeeping methods) + update [[Solumora]].
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Calendar
+      **Status:** COMPLETE - The Solumoran Calendar (comprehensive calendar structure with 365-day year, 12 months of 30 days + 5 Turndays, 6-day weeks, month names, seasonal patterns for equatorial/temperate/northern zones, historical eras with Foundation Era dating system 623 FE, significant historical dates), Timekeeping Technology (astronomical methods: sundials/lunar/stars, mechanical methods: water clocks 150-300W/mechanical clocks 800-2000W/personal watches 2000-5000W, Flux-assisted: oscillation counters 50-100W per hour/time-bind sigils 10-30W/flux-preserved markers, informal methods: shadow estimation/work rhythms/natural indicators, class stratification detailed, contemporary crisis: practitioner/clockmaker conscription, institutional funding collapse), Time and Daily Life hub (synthesis integrating calendar and timekeeping with practical use in agriculture/maritime/expeditions/legal/personal contexts, calendar maintenance institutions, social consequences of timekeeping infrastructure deterioration), Solumora.md updated with Calendar and Time section, Auralis.md and Terravelle.md updated with calendar links, navigation cache refreshed 582→586 nodes, 6110→6217 edges, 512→515 pages
 
 ### Priority Track: Adventure Infrastructure
 
