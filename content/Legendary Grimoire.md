@@ -16,9 +16,10 @@ Screens binding tension as a held field over the area within two hundred feet on
 | Target | Individual |
 
 
+
 ---
 **VastGate**
-Reshapes radiant energy, producing its effect. The effect becomes permanent once established.
+Reshapes radiant energy in a circular perimeter anywhere within line of sight at the designated point, alters the target's properties. The effect becomes permanent once established.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -32,7 +33,7 @@ Reshapes radiant energy, producing its effect. The effect becomes permanent once
 | Target | Marked |
 ---
 **DissolvBridge**
-Projects flux energy, producing its effect.
+Projects flux anywhere within line of sight on a single person, delivering its effect.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -46,7 +47,7 @@ Projects flux energy, producing its effect.
 | Target | Individual |
 ---
 **SurgePulse**
-Reshapes soul-bound flux as a widening cone at extended range, producing its effect. The effect becomes permanent once established.
+Reshapes soul-bound flux as a widening cone at up to 200 feet affecting multiple targets, alters the target's properties. The effect becomes permanent once established.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -60,7 +61,7 @@ Reshapes soul-bound flux as a widening cone at extended range, producing its eff
 | Target | Group |
 ---
 **GentleCalm**
-Channels psychic force in a spherical burst at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels psychic force in a spherical burst at up to 200 feet on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -74,7 +75,7 @@ Channels psychic force in a spherical burst at extended range, producing its eff
 | Target | Individual |
 ---
 **KindleFlame**
-Reshapes kinetic force at extended range, producing its effect. The effect becomes permanent once established.
+Reshapes kinetic force at up to 200 feet on a single person, delivers destructive impact. The effect becomes permanent once established. Effective for ranged combat or eliminating distant threats.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -88,7 +89,7 @@ Reshapes kinetic force at extended range, producing its effect. The effect becom
 | Target | Individual |
 ---
 **SteadyCharm**
-Channels radiant energy, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels radiant energy in a circular perimeter anywhere within line of sight on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -102,7 +103,7 @@ Channels radiant energy, producing its effect. Must be actively maintained, but 
 | Target | Individual |
 ---
 **PierceScar**
-Reshapes kinetic force within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Reshapes kinetic force as a contained field within 50 feet on a single person, delivers destructive impact. Must be actively sustained. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -116,7 +117,7 @@ Reshapes kinetic force within 50 feet, producing its effect. Must be actively ma
 | Target | Individual |
 ---
 **VastGlyph**
-Channels flux energy, producing its effect.
+Channels flux in a circular perimeter anywhere within line of sight on a single person, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -130,7 +131,7 @@ Channels flux energy, producing its effect.
 | Target | Individual |
 ---
 **GuardThread**
-Anchors kinetic force within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Anchors kinetic force in a circular perimeter within 50 feet on a single person, delivers destructive impact. Must be actively sustained. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -144,7 +145,7 @@ Anchors kinetic force within 50 feet, producing its effect. Must be actively mai
 | Target | Individual |
 ---
 **BrightSeal**
-Detects flux energy, producing its effect.
+Detects flux anywhere within line of sight affecting multiple targets, gathers environmental information.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -158,7 +159,7 @@ Detects flux energy, producing its effect.
 | Target | Group |
 ---
 **SteadyRoot**
-Reshapes flux energy as a widening cone, producing its effect. The effect becomes permanent once established.
+Reshapes flux as a widening cone anywhere within line of sight at the designated point, alters the target's properties. The effect becomes permanent once established.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -172,7 +173,7 @@ Reshapes flux energy as a widening cone, producing its effect. The effect become
 | Target | Marked |
 ---
 **FreezeBond**
-Detects flux energy at extended range, producing its effect.
+Detects flux as a contained field at up to 200 feet, gathers environmental information.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -186,7 +187,7 @@ Detects flux energy at extended range, producing its effect.
 | Target | Filter |
 ---
 **SweepBond**
-Detects psychic force within 50 feet, producing its effect. The effect becomes permanent once established.
+Detects psychic force in a circular perimeter within 50 feet at the designated point, gathers environmental information. The effect becomes permanent once established.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -200,7 +201,7 @@ Detects psychic force within 50 feet, producing its effect. The effect becomes p
 | Target | Marked |
 ---
 **SurPulse**
-Anchors flux energy as a widening cone at extended range, immobilizing the target. Persists for several minutes without further attention.
+Anchors binding tension as a widening cone at up to 200 feet, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -214,7 +215,7 @@ Anchors flux energy as a widening cone at extended range, immobilizing the targe
 | Target | Filter |
 ---
 **WeavPath**
-Channels flux energy, immobilizing the target.
+Channels binding tension anywhere within line of sight on a single person, pins limbs and restricts physical action. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -228,7 +229,7 @@ Channels flux energy, immobilizing the target.
 | Target | Individual |
 ---
 **DriftBond**
-Anchors flux energy as a widening cone, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Anchors flux as a widening cone anywhere within line of sight at the designated point, anchors targets in a fixed state. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -242,7 +243,7 @@ Anchors flux energy as a widening cone, producing its effect. Must be actively m
 | Target | Marked |
 ---
 **BurnWay**
-Reshapes kinetic force as a widening cone, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Reshapes kinetic force as a widening cone anywhere within line of sight affecting multiple targets, sends enemies and objects flying backward. Must be actively sustained. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -256,7 +257,7 @@ Reshapes kinetic force as a widening cone, producing its effect. Must be activel
 | Target | Group |
 ---
 **BurnFrost**
-Disrupts flux energy in a spherical burst at extended range, producing its effect.
+Disrupts flux in a spherical burst at up to 200 feet, delivering its effect.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -270,7 +271,7 @@ Disrupts flux energy in a spherical burst at extended range, producing its effec
 | Target | Filter |
 ---
 **WeavWard**
-Channels radiant energy as a widening cone at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels radiant energy as a widening cone at up to 200 feet, delivering its effect. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -284,7 +285,7 @@ Channels radiant energy as a widening cone at extended range, producing its effe
 | Target | Filter |
 ---
 **FreezHalo**
-Disrupts flux energy, producing its effect.
+Disrupts flux anywhere within line of sight affecting multiple targets, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -298,7 +299,7 @@ Disrupts flux energy, producing its effect.
 | Target | Group |
 ---
 **ReleasFrost**
-Channels flux energy as a widening cone, immobilizing the target.
+Channels binding tension as a widening cone anywhere within line of sight on a single person, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -312,7 +313,7 @@ Channels flux energy as a widening cone, immobilizing the target.
 | Target | Individual |
 ---
 **BreakStorm**
-Reshapes flux energy, immobilizing the target. Persists for several minutes without further attention.
+Reshapes binding tension anywhere within line of sight affecting multiple targets, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -326,7 +327,7 @@ Reshapes flux energy, immobilizing the target. Persists for several minutes with
 | Target | Group |
 ---
 **StraightWeb**
-Projects kinetic force within 50 feet, producing its effect. The effect becomes permanent once established.
+Projects kinetic force within 50 feet on a single person, delivers destructive impact. The effect becomes permanent once established. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -340,7 +341,7 @@ Projects kinetic force within 50 feet, producing its effect. The effect becomes 
 | Target | Individual |
 ---
 **CalmFrost**
-Channels flux energy in a spherical burst within 50 feet, producing its effect.
+Channels flux in a spherical burst within 50 feet at the designated point, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -354,7 +355,7 @@ Channels flux energy in a spherical burst within 50 feet, producing its effect.
 | Target | Marked |
 ---
 **FierceHalo**
-Channels kinetic force at extended range, producing its effect. Persists for several minutes without further attention.
+Channels kinetic force as a contained field at up to 200 feet at the designated point, delivers destructive impact. Persists for several minutes without further attention. Effective for ranged combat or eliminating distant threats.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -368,7 +369,7 @@ Channels kinetic force at extended range, producing its effect. Persists for sev
 | Target | Marked |
 ---
 **StillGate**
-Channels flux energy as a widening cone, producing its effect.
+Channels flux as a widening cone anywhere within line of sight, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -382,7 +383,7 @@ Channels flux energy as a widening cone, producing its effect.
 | Target | Filter |
 ---
 **HardyNet**
-Channels flux energy as a widening cone at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels flux as a widening cone at up to 200 feet on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -396,7 +397,7 @@ Channels flux energy as a widening cone at extended range, producing its effect.
 | Target | Individual |
 ---
 **FreezGate**
-Anchors flux energy in a spherical burst at extended range, immobilizing the target. Persists for several minutes without further attention.
+Anchors binding tension in a spherical burst at up to 200 feet, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -410,7 +411,7 @@ Anchors flux energy in a spherical burst at extended range, immobilizing the tar
 | Target | Filter |
 ---
 **BreakRoad**
-Channels flux energy, producing its effect.
+Screens flux anywhere within line of sight on a single person, delivering its effect.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -424,7 +425,7 @@ Channels flux energy, producing its effect.
 | Target | Individual |
 ---
 **LoudNet**
-Disrupts flux energy, immobilizing the target. The effect becomes permanent once established.
+Disrupts binding tension anywhere within line of sight, pins limbs and restricts physical action. The effect becomes permanent once established. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -438,7 +439,7 @@ Disrupts flux energy, immobilizing the target. The effect becomes permanent once
 | Target | Filter |
 ---
 **FierceSigil**
-Reshapes psychic force as a widening cone at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Reshapes psychic force as a widening cone at up to 200 feet affecting multiple targets, alters the target's properties. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -452,7 +453,7 @@ Reshapes psychic force as a widening cone at extended range, producing its effec
 | Target | Group |
 ---
 **WeavBond**
-Channels flux energy in a spherical burst, producing its effect.
+Channels flux in a spherical burst anywhere within line of sight, delivering its effect.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -466,7 +467,7 @@ Channels flux energy in a spherical burst, producing its effect.
 | Target | Filter |
 ---
 **CapturStorm**
-Channels kinetic force as a widening cone, producing its effect. The effect becomes permanent once established.
+Screens kinetic force as a widening cone anywhere within line of sight at the designated point, sends enemies and objects flying backward. The effect becomes permanent once established. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -480,7 +481,7 @@ Channels kinetic force as a widening cone, producing its effect. The effect beco
 | Target | Marked |
 ---
 **FlowSpirit**
-Disrupts flux energy within 50 feet, producing its effect. Persists for several minutes without further attention.
+Disrupts flux as a contained field within 50 feet at the designated point, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -494,7 +495,7 @@ Disrupts flux energy within 50 feet, producing its effect. Persists for several 
 | Target | Marked |
 ---
 **AncientKnot**
-Channels flux energy within 50 feet, producing its effect. Persists for several minutes without further attention.
+Channels flux within 50 feet on a single person, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -508,7 +509,7 @@ Channels flux energy within 50 feet, producing its effect. Persists for several 
 | Target | Individual |
 ---
 **StillSilence**
-Reshapes soul-bound flux, producing its effect.
+Reshapes soul-bound flux anywhere within line of sight affecting multiple targets, alters the target's properties. Persists until the specified condition triggers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -522,7 +523,7 @@ Reshapes soul-bound flux, producing its effect.
 | Target | Group |
 ---
 **ClearVeil**
-Disrupts psychic force in a spherical burst, producing its effect. The effect becomes permanent once established.
+Disrupts psychic force in a spherical burst anywhere within line of sight at the designated point, delivering its effect. The effect becomes permanent once established.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -536,7 +537,7 @@ Disrupts psychic force in a spherical burst, producing its effect. The effect be
 | Target | Marked |
 ---
 **SweepStorm**
-Channels flux energy in a spherical burst within 50 feet, producing its effect.
+Screens flux in a spherical burst within 50 feet at the designated point, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -550,7 +551,7 @@ Channels flux energy in a spherical burst within 50 feet, producing its effect.
 | Target | Marked |
 ---
 **SlowSeal**
-Channels radiant energy, producing its effect.
+Channels radiant energy as a contained field anywhere within line of sight, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -564,7 +565,7 @@ Channels radiant energy, producing its effect.
 | Target | Filter |
 ---
 **AnchorCrown**
-Channels flux energy in a spherical burst within 50 feet, producing its effect. Persists for several minutes without further attention.
+Channels flux in a spherical burst within 50 feet affecting multiple targets, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -578,7 +579,7 @@ Channels flux energy in a spherical burst within 50 feet, producing its effect. 
 | Target | Group |
 ---
 **BurBond**
-Disrupts flux energy at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Disrupts flux in a circular perimeter at up to 200 feet, delivering its effect. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -592,7 +593,7 @@ Disrupts flux energy at extended range, producing its effect. Must be actively m
 | Target | Filter |
 ---
 **RisGate**
-Channels flux energy, producing its effect. Persists for several minutes without further attention.
+Channels flux as a contained field anywhere within line of sight on a single person, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -606,7 +607,7 @@ Channels flux energy, producing its effect. Persists for several minutes without
 | Target | Individual |
 ---
 **TransformShadow**
-Channels flux energy at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels flux as a contained field at up to 200 feet affecting multiple targets, delivering its effect. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -620,7 +621,7 @@ Channels flux energy at extended range, producing its effect. Must be actively m
 | Target | Group |
 ---
 **SolidSoul**
-Channels kinetic force at extended range, producing its effect.
+Channels kinetic force in a circular perimeter at up to 200 feet on a single person, delivers destructive impact. Persists until the specified condition triggers. Effective for ranged combat or eliminating distant threats.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -634,7 +635,7 @@ Channels kinetic force at extended range, producing its effect.
 | Target | Individual |
 ---
 **FallVoid**
-Channels psychic force in a spherical burst, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels psychic force in a spherical burst anywhere within line of sight, delivering its effect. Must be actively sustained.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -648,7 +649,7 @@ Channels psychic force in a spherical burst, producing its effect. Must be activ
 | Target | Filter |
 ---
 **ShatterBrand**
-Channels radiant energy within 50 feet, producing its effect. The effect becomes permanent once established.
+Channels radiant energy as a contained field within 50 feet affecting multiple targets, delivering its effect. The effect becomes permanent once established.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -662,7 +663,7 @@ Channels radiant energy within 50 feet, producing its effect. The effect becomes
 | Target | Group |
 ---
 **FlowKnot**
-Projects flux energy in a spherical burst at extended range, producing its effect. Persists for several minutes without further attention.
+Projects flux in a spherical burst at up to 200 feet affecting multiple targets, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -676,7 +677,7 @@ Projects flux energy in a spherical burst at extended range, producing its effec
 | Target | Group |
 ---
 **BreakCurse**
-Anchors kinetic force, producing its effect.
+Anchors kinetic force as a contained field anywhere within line of sight at the designated point, delivers destructive impact. Persists until the specified condition triggers. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -690,7 +691,7 @@ Anchors kinetic force, producing its effect.
 | Target | Marked |
 ---
 **CaptureThought**
-Channels kinetic force, producing its effect. Persists for several minutes without further attention.
+Channels kinetic force anywhere within line of sight on a single person, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13001 W |
 | Shape | Circle |
 | Hook | Move |

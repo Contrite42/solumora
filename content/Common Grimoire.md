@@ -17,9 +17,10 @@ Pins kinetic force across the inscribed face at touch range across a chosen surf
 | Target | Surface |
 
 
+
 ---
 **ReleaseShadow**
-Projects flux energy as a widening cone within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects raw flux as a widening cone within 10 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Emit |
@@ -33,7 +34,7 @@ Projects flux energy as a widening cone within arm's reach on objects, producing
 | Target | Object |
 ---
 **SolidCage**
-Channels kinetic force at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens kinetic force at point of contact targeting objects, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -47,7 +48,7 @@ Channels kinetic force at point of contact on objects, producing its effect. Mus
 | Target | Object |
 ---
 **DriftTide**
-Projects radiant energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Projects radiant energy within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 44 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -61,7 +62,7 @@ Projects radiant energy within arm's reach across surfaces, producing its effect
 | Target | Surface |
 ---
 **SweepBond**
-Channels flux energy as a widening cone at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux as a widening cone at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 29 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -75,7 +76,7 @@ Channels flux energy as a widening cone at point of contact on objects, producin
 | Target | Object |
 ---
 **DarkVeil**
-Channels flux energy as a widening cone on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux as a widening cone targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -89,7 +90,7 @@ Channels flux energy as a widening cone on objects, producing its effect. Must b
 | Target | Object |
 ---
 **SweepStrike**
-Channels kinetic force within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane within 10 feet at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -103,7 +104,7 @@ Channels kinetic force within arm's reach at the marked location, producing its 
 | Target | Where Written |
 ---
 **WeaveLight**
-Anchors flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane within 10 feet targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 48 W |
 | Shape | Square |
 | Hook | Bind |
@@ -117,7 +118,7 @@ Anchors flux energy within arm's reach on objects, producing its effect. Persist
 | Target | Object |
 ---
 **FreezAura**
-Channels kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force at point of contact targeting objects, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Filter |
@@ -131,7 +132,7 @@ Channels kinetic force at point of contact on objects, producing its effect. Per
 | Target | Object |
 ---
 **FreezWard**
-Channels flux energy within arm's reach across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
+Channels binding tension across a flat plane within 10 feet across surfaces, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Move |
@@ -145,7 +146,7 @@ Channels flux energy within arm's reach across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **LoudWeb**
-Reshapes kinetic force at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane at point of contact across surfaces, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -159,7 +160,7 @@ Reshapes kinetic force at point of contact across surfaces, producing its effect
 | Target | Surface |
 ---
 **BurBoon**
-Anchors kinetic force across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors kinetic force across surfaces, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -173,7 +174,7 @@ Anchors kinetic force across surfaces, producing its effect. Must be actively ma
 | Target | Surface |
 ---
 **BindSong**
-Channels flux energy as a widening cone within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens raw flux as a widening cone within 10 feet targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Filter |
@@ -187,7 +188,7 @@ Channels flux energy as a widening cone within arm's reach on objects, producing
 | Target | Object |
 ---
 **LightHand**
-Projects radiant energy across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Projects radiant energy across a flat plane across surfaces, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -201,7 +202,7 @@ Projects radiant energy across surfaces, producing its effect. Persists for seve
 | Target | Surface |
 ---
 **TwistMark**
-Channels flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux at point of contact across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -215,7 +216,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **HeavyCurse**
-Detects flux energy within arm's reach at the marked location, immobilizing the target. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects binding tension across a flat plane within 10 feet at the marked location, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -229,7 +230,7 @@ Detects flux energy within arm's reach at the marked location, immobilizing the 
 | Target | Where Written |
 ---
 **DriftScar**
-Channels radiant energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels radiant energy at point of contact across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 56 W |
 | Shape | Square |
 | Hook | Move |
@@ -243,7 +244,7 @@ Channels radiant energy at point of contact across surfaces, producing its effec
 | Target | Surface |
 ---
 **BindLight**
-Channels flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Channels flux across a flat plane within 10 feet across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 60 W |
 | Shape | Square |
 | Hook | Ward |
@@ -257,7 +258,7 @@ Channels flux energy within arm's reach across surfaces, producing its effect. M
 | Target | Surface |
 ---
 **PierceBreath**
-Anchors radiant energy on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors radiant energy across a flat plane targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Bind |
@@ -271,7 +272,7 @@ Anchors radiant energy on objects, producing its effect. Persists for several mi
 | Target | Object |
 ---
 **BurShell**
-Channels flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane within 10 feet targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -285,7 +286,7 @@ Channels flux energy within arm's reach on objects, producing its effect. Must b
 | Target | Object |
 ---
 **HollowRing**
-Reshapes flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes flux across a flat plane within 10 feet targeting objects, alters the target's properties. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -299,7 +300,7 @@ Reshapes flux energy within arm's reach on objects, producing its effect. Must b
 | Target | Object |
 ---
 **ReleasMirror**
-Detects flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Detects flux within 10 feet across surfaces, gathers environmental information. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Sense |
@@ -313,7 +314,7 @@ Detects flux energy within arm's reach across surfaces, producing its effect. Ru
 | Target | Surface |
 ---
 **TransformFlame**
-Channels flux energy within arm's reach at the marked location, immobilizing the target. The minimal flux drain makes it practical for repeated use.
+Screens binding tension across a flat plane within 10 feet at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -327,7 +328,7 @@ Channels flux energy within arm's reach at the marked location, immobilizing the
 | Target | Where Written |
 ---
 **FreezCurse**
-Channels radiant energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens radiant energy across a flat plane at point of contact targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Filter |
@@ -341,7 +342,7 @@ Channels radiant energy at point of contact on objects, producing its effect. Ru
 | Target | Object |
 ---
 **PierceDream**
-Detects flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects raw flux across a flat plane within 10 feet targeting objects, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Sense |
@@ -355,7 +356,7 @@ Detects flux energy within arm's reach on objects, producing its effect. The min
 | Target | Object |
 ---
 **PureWeb**
-Anchors flux energy across surfaces, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors binding tension across a flat plane across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 60 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -369,7 +370,7 @@ Anchors flux energy across surfaces, immobilizing the target. Persists for sever
 | Target | Surface |
 ---
 **SweepHalo**
-Projects flux energy as a widening cone on objects, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Projects flux as a widening cone targeting objects, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Emit |
@@ -383,7 +384,7 @@ Projects flux energy as a widening cone on objects, producing its effect. Runs f
 | Target | Object |
 ---
 **TameVoice**
-Anchors flux energy across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors flux across a flat plane across surfaces, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 70 W |
 | Shape | Square |
 | Hook | Bind |
@@ -397,7 +398,7 @@ Anchors flux energy across surfaces, producing its effect. Persists for several 
 | Target | Surface |
 ---
 **FreshMark**
-Channels radiant energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens radiant energy across a flat plane within 10 feet targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Filter |
@@ -411,7 +412,7 @@ Channels radiant energy within arm's reach on objects, producing its effect. The
 | Target | Object |
 ---
 **BrightCalm**
-Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -425,7 +426,7 @@ Channels flux energy within arm's reach on objects, producing its effect. The mi
 | Target | Object |
 ---
 **RiseTouch**
-Reshapes flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes flux across a flat plane within 10 feet targeting objects, alters the target's properties. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -439,7 +440,7 @@ Reshapes flux energy within arm's reach on objects, producing its effect. Persis
 | Target | Object |
 ---
 **BurWeb**
-Anchors flux energy at point of contact at the marked location, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Anchors binding tension across a flat plane at point of contact at the marked location, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Bind |
@@ -453,7 +454,7 @@ Anchors flux energy at point of contact at the marked location, immobilizing the
 | Target | Where Written |
 ---
 **FallAura**
-Detects kinetic force at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects kinetic force at point of contact targeting objects, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -467,7 +468,7 @@ Detects kinetic force at point of contact on objects, producing its effect. Must
 | Target | Object |
 ---
 **AnchoredPath**
-Channels flux energy at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -481,7 +482,7 @@ Channels flux energy at the marked location, producing its effect. Runs for roug
 | Target | Where Written |
 ---
 **CalmBridge**
-Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Ward |
@@ -495,7 +496,7 @@ Channels flux energy within arm's reach on objects, producing its effect. The mi
 | Target | Object |
 ---
 **DriftBoon**
-Anchors flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane at point of contact across surfaces, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -509,7 +510,7 @@ Anchors flux energy at point of contact across surfaces, producing its effect. M
 | Target | Surface |
 ---
 **CalmBoon**
-Channels flux energy within arm's reach on objects, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels binding tension within 10 feet targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 62 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -523,7 +524,7 @@ Channels flux energy within arm's reach on objects, immobilizing the target. Per
 | Target | Object |
 ---
 **FlowSilence**
-Detects flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane at point of contact at the marked location, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -537,7 +538,7 @@ Detects flux energy at point of contact at the marked location, producing its ef
 | Target | Where Written |
 ---
 **ChillBond**
-Anchors flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Anchors raw flux at point of contact targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 37 W |
 | Shape | Square |
 | Hook | Bind |
@@ -551,7 +552,7 @@ Anchors flux energy at point of contact on objects, producing its effect. Persis
 | Target | Object |
 ---
 **RisRune**
-Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -565,7 +566,7 @@ Channels flux energy at point of contact on objects, producing its effect. Persi
 | Target | Object |
 ---
 **CalmBond**
-Projects radiant energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects radiant energy across a flat plane across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 34 W |
 | Shape | Square |
 | Hook | Emit |
@@ -579,7 +580,7 @@ Projects radiant energy across surfaces, producing its effect. Runs for roughly 
 | Target | Surface |
 ---
 **DriftFlame**
-Channels flux energy at the marked location, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Screens binding tension across a flat plane at the marked location, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 55 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -593,7 +594,7 @@ Channels flux energy at the marked location, immobilizing the target. Persists f
 | Target | Where Written |
 ---
 **GrandCore**
-Projects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects raw flux across a flat plane across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -607,7 +608,7 @@ Projects flux energy across surfaces, producing its effect. Must be actively mai
 | Target | Surface |
 ---
 **ReleasChain**
-Channels flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens flux across a flat plane at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Filter |
@@ -621,7 +622,7 @@ Channels flux energy at the marked location, producing its effect. The minimal f
 | Target | Where Written |
 ---
 **ChillBreath**
-Channels kinetic force within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane within 10 feet targeting objects, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -635,7 +636,7 @@ Channels kinetic force within arm's reach on objects, producing its effect. Pers
 | Target | Object |
 ---
 **ShatterShell**
-Channels flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens flux across a flat plane at point of contact across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -649,7 +650,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **ReleaseFlame**
-Channels flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention.
+Channels binding tension within 10 feet across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 115 W |
 | Shape | Square |
 | Hook | Ward |
@@ -663,7 +664,7 @@ Channels flux energy within arm's reach across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **SweepRing**
-Anchors flux energy at point of contact across surfaces, immobilizing the target. The minimal flux drain makes it practical for repeated use.
+Anchors binding tension across a flat plane at point of contact across surfaces, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -677,7 +678,7 @@ Anchors flux energy at point of contact across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **SolidGlyph**
-Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens flux at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -691,7 +692,7 @@ Channels flux energy at point of contact on objects, producing its effect. Persi
 | Target | Object |
 ---
 **BurCharm**
-Channels flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Move |
@@ -705,7 +706,7 @@ Channels flux energy on objects, producing its effect. Runs for roughly a minute
 | Target | Object |
 ---
 **SweepBlessing**
-Channels kinetic force at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force at point of contact targeting objects, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Ward |
@@ -719,7 +720,7 @@ Channels kinetic force at point of contact on objects, producing its effect. The
 | Target | Object |
 ---
 **DriftGate**
-Channels radiant energy across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane across surfaces, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -733,7 +734,7 @@ Channels radiant energy across surfaces, producing its effect. Persists for seve
 | Target | Surface |
 ---
 **TransformChain**
-Detects flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention.
+Detects binding tension within 10 feet across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 115 W |
 | Shape | Square |
 | Hook | Sense |
@@ -747,7 +748,7 @@ Detects flux energy within arm's reach across surfaces, immobilizing the target.
 | Target | Surface |
 ---
 **WhirlingRoot**
-Detects radiant energy at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects radiant energy at point of contact at the marked location, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Sense |
@@ -761,7 +762,7 @@ Detects radiant energy at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **TwinBond**
-Anchors radiant energy on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors radiant energy targeting objects, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Bind |
@@ -775,7 +776,7 @@ Anchors radiant energy on objects, producing its effect. Must be actively mainta
 | Target | Object |
 ---
 **CapturRune**
-Anchors flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors flux within 10 feet across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -789,7 +790,7 @@ Anchors flux energy within arm's reach across surfaces, producing its effect. Ru
 | Target | Surface |
 ---
 **BurWall**
-Channels radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens radiant energy at point of contact at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Filter |
@@ -803,7 +804,7 @@ Channels radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **TaintedCharm**
-Reshapes flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Reshapes flux across a flat plane targeting objects, alters the target's properties. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Transform |
@@ -817,7 +818,7 @@ Reshapes flux energy on objects, producing its effect. Must be actively maintain
 | Target | Object |
 ---
 **KindlVoid**
-Anchors flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -831,7 +832,7 @@ Anchors flux energy across surfaces, producing its effect. Runs for roughly a mi
 | Target | Surface |
 ---
 **WeavMark**
-Projects radiant energy as a widening cone across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects radiant energy as a widening cone across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -845,7 +846,7 @@ Projects radiant energy as a widening cone across surfaces, producing its effect
 | Target | Surface |
 ---
 **WeaveThought**
-Detects flux energy at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Detects flux at the marked location, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Sense |
@@ -859,7 +860,7 @@ Detects flux energy at the marked location, producing its effect. Must be active
 | Target | Where Written |
 ---
 **SwiftTouch**
-Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -873,7 +874,7 @@ Channels flux energy across surfaces, producing its effect. Runs for roughly a m
 | Target | Surface |
 ---
 **KindleFlame**
-Detects flux energy on objects, immobilizing the target. The minimal flux drain makes it practical for repeated use.
+Detects binding tension across a flat plane targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -887,7 +888,7 @@ Detects flux energy on objects, immobilizing the target. The minimal flux drain 
 | Target | Object |
 ---
 **DissolvHeart**
-Channels flux energy as a widening cone across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Channels flux as a widening cone across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 65 W |
 | Shape | Square |
 | Hook | Move |
@@ -901,7 +902,7 @@ Channels flux energy as a widening cone across surfaces, producing its effect. M
 | Target | Surface |
 ---
 **ChillPulse**
-Reshapes flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Reshapes flux across a flat plane within 10 feet at the marked location, alters the target's properties. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Transform |
@@ -915,7 +916,7 @@ Reshapes flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **ReleasCrown**
-Channels kinetic force as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels kinetic force as a widening cone at point of contact at the marked location, sends enemies and objects flying backward. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 38 W |
 | Shape | Square |
 | Hook | Ward |
@@ -929,7 +930,7 @@ Channels kinetic force as a widening cone at point of contact at the marked loca
 | Target | Where Written |
 ---
 **BreakNet**
-Reshapes flux energy as a widening cone within arm's reach on objects, immobilizing the target. Persists for several minutes without further attention.
+Reshapes binding tension as a widening cone within 10 feet targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 122 W |
 | Shape | Square |
 | Hook | Transform |
@@ -943,7 +944,7 @@ Reshapes flux energy as a widening cone within arm's reach on objects, immobiliz
 | Target | Object |
 ---
 **SlowHalo**
-Detects radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects radiant energy across a flat plane at point of contact at the marked location, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -957,7 +958,7 @@ Detects radiant energy at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **TwistGlyph**
-Channels kinetic force as a widening cone at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens kinetic force as a widening cone at point of contact across surfaces, sends enemies and objects flying backward. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -971,7 +972,7 @@ Channels kinetic force as a widening cone at point of contact across surfaces, p
 | Target | Surface |
 ---
 **PureWall**
-Channels flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens flux across a flat plane within 10 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -985,7 +986,7 @@ Channels flux energy within arm's reach across surfaces, producing its effect. R
 | Target | Surface |
 ---
 **PaleCore**
-Channels radiant energy on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens radiant energy across a flat plane targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -999,7 +1000,7 @@ Channels radiant energy on objects, producing its effect. Must be actively maint
 | Target | Object |
 ---
 **WeakCage**
-Anchors flux energy within arm's reach at the marked location, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Anchors binding tension across a flat plane within 10 feet at the marked location, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1013,7 +1014,7 @@ Anchors flux energy within arm's reach at the marked location, immobilizing the 
 | Target | Where Written |
 ---
 **ReleasTouch**
-Anchors kinetic force as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors kinetic force as a widening cone within 10 feet across surfaces, sends enemies and objects flying backward in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1027,7 +1028,7 @@ Anchors kinetic force as a widening cone within arm's reach across surfaces, pro
 | Target | Surface |
 ---
 **FreshWisp**
-Reshapes flux energy across surfaces, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Reshapes binding tension across a flat plane across surfaces, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1041,7 +1042,7 @@ Reshapes flux energy across surfaces, immobilizing the target. Must be actively 
 | Target | Surface |
 ---
 **GentleHand**
-Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens flux across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1055,7 +1056,7 @@ Channels flux energy across surfaces, producing its effect. Runs for roughly a m
 | Target | Surface |
 ---
 **FallStrike**
-Reshapes flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Reshapes flux across a flat plane within 10 feet across surfaces, alters the target's properties. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1069,7 +1070,7 @@ Reshapes flux energy within arm's reach across surfaces, producing its effect. P
 | Target | Surface |
 ---
 **BurnMark**
-Channels flux energy as a widening cone at point of contact on objects, immobilizing the target. The affordable flux cost allows frequent casting.
+Channels binding tension as a widening cone at point of contact targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1083,7 +1084,7 @@ Channels flux energy as a widening cone at point of contact on objects, immobili
 | Target | Object |
 ---
 **SweepHand**
-Channels radiant energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane at point of contact at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Move |
@@ -1097,7 +1098,7 @@ Channels radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **ShatterSeal**
-Channels flux energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -1111,7 +1112,7 @@ Channels flux energy within arm's reach across surfaces, producing its effect. T
 | Target | Surface |
 ---
 **BreakPulse**
-Anchors flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux as a widening cone within 10 feet targeting objects, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1125,7 +1126,7 @@ Anchors flux energy as a widening cone within arm's reach on objects, producing 
 | Target | Object |
 ---
 **SurCurse**
-Anchors radiant energy across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors radiant energy across a flat plane across surfaces, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1139,7 +1140,7 @@ Anchors radiant energy across surfaces, producing its effect. Persists for sever
 | Target | Surface |
 ---
 **LoudCharm**
-Reshapes flux energy as a widening cone within arm's reach at the marked location, immobilizing the target. Runs for roughly a minute before dissipating.
+Reshapes binding tension as a widening cone within 10 feet at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 100 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1153,7 +1154,7 @@ Reshapes flux energy as a widening cone within arm's reach at the marked locatio
 | Target | Where Written |
 ---
 **GuardVeil**
-Channels flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Channels flux targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1167,7 +1168,7 @@ Channels flux energy on objects, producing its effect. Must be actively maintain
 | Target | Object |
 ---
 **SurCore**
-Channels kinetic force within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels kinetic force within 10 feet at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1181,7 +1182,7 @@ Channels kinetic force within arm's reach at the marked location, producing its 
 | Target | Where Written |
 ---
 **CalmSight**
-Projects flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane at point of contact targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1195,7 +1196,7 @@ Projects flux energy at point of contact on objects, producing its effect. Runs 
 | Target | Object |
 ---
 **GuardGate**
-Anchors flux energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors flux within 10 feet across surfaces, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1209,7 +1210,7 @@ Anchors flux energy within arm's reach across surfaces, producing its effect. Th
 | Target | Surface |
 ---
 **HiddenGlyph**
-Anchors flux energy as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Anchors flux as a widening cone at point of contact at the marked location, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 62 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1223,7 +1224,7 @@ Anchors flux energy as a widening cone at point of contact at the marked locatio
 | Target | Where Written |
 ---
 **DriftingSigil**
-Projects flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane within 10 feet targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1237,7 +1238,7 @@ Projects flux energy within arm's reach on objects, producing its effect. Must b
 | Target | Object |
 ---
 **SwiftWall**
-Channels kinetic force at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane at the marked location, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1251,7 +1252,7 @@ Channels kinetic force at the marked location, producing its effect. Persists fo
 | Target | Where Written |
 ---
 **NakedMark**
-Channels kinetic force at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force at point of contact across surfaces, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1265,7 +1266,7 @@ Channels kinetic force at point of contact across surfaces, producing its effect
 | Target | Surface |
 ---
 **ReleasCalm**
-Channels radiant energy as a widening cone within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy as a widening cone within 10 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 49 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1279,7 +1280,7 @@ Channels radiant energy as a widening cone within arm's reach across surfaces, p
 | Target | Surface |
 ---
 **ShatterSilence**
-Projects flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects raw flux across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1293,7 +1294,7 @@ Projects flux energy across surfaces, producing its effect. The minimal flux dra
 | Target | Surface |
 ---
 **ChillRing**
-Channels flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux within 10 feet targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -1307,7 +1308,7 @@ Channels flux energy within arm's reach on objects, producing its effect. Must b
 | Target | Object |
 ---
 **TwistWisp**
-Channels radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels radiant energy across a flat plane at point of contact at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Move |
@@ -1321,7 +1322,7 @@ Channels radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **DriftMark**
-Channels flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels binding tension targeting objects, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1335,7 +1336,7 @@ Channels flux energy on objects, immobilizing the target. Runs for roughly a min
 | Target | Object |
 ---
 **ClearGate**
-Anchors flux energy as a widening cone within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors flux as a widening cone within 10 feet at the marked location, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1349,7 +1350,7 @@ Anchors flux energy as a widening cone within arm's reach at the marked location
 | Target | Where Written |
 ---
 **SweepBreath**
-Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens kinetic force at point of contact at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1363,7 +1364,7 @@ Channels kinetic force at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **VastPath**
-Detects flux energy as a widening cone at point of contact at the marked location, immobilizing the target. Persists for several minutes without further attention.
+Detects binding tension as a widening cone at point of contact at the marked location, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 117 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1377,7 +1378,7 @@ Detects flux energy as a widening cone at point of contact at the marked locatio
 | Target | Where Written |
 ---
 **FlowEye**
-Channels kinetic force as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force as a widening cone at point of contact targeting objects, sends enemies and objects flying backward. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1391,7 +1392,7 @@ Channels kinetic force as a widening cone at point of contact on objects, produc
 | Target | Object |
 ---
 **TwistLight**
-Detects radiant energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Detects radiant energy across a flat plane within 10 feet targeting objects, gathers environmental information. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 41 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1405,7 +1406,7 @@ Detects radiant energy within arm's reach on objects, producing its effect. Pers
 | Target | Object |
 ---
 **SwiftDoor**
-Anchors kinetic force on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors kinetic force across a flat plane targeting objects, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1419,7 +1420,7 @@ Anchors kinetic force on objects, producing its effect. Runs for roughly a minut
 | Target | Object |
 ---
 **SlowDoor**
-Reshapes radiant energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy across a flat plane across surfaces, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1433,7 +1434,7 @@ Reshapes radiant energy across surfaces, producing its effect. The minimal flux 
 | Target | Surface |
 ---
 **PierceWay**
-Detects flux energy as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux as a widening cone within 10 feet across surfaces, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1447,7 +1448,7 @@ Detects flux energy as a widening cone within arm's reach across surfaces, produ
 | Target | Surface |
 ---
 **GuardFrost**
-Channels flux energy at point of contact on objects, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Screens binding tension at point of contact targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 59 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1461,7 +1462,7 @@ Channels flux energy at point of contact on objects, immobilizing the target. Pe
 | Target | Object |
 ---
 **SurShell**
-Channels flux energy as a widening cone at the marked location, producing its effect. The affordable flux cost allows frequent casting.
+Channels flux as a widening cone at the marked location, delivering its effect in a single instant. Affordable enough for routine use without draining reserves.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Move |
@@ -1475,7 +1476,7 @@ Channels flux energy as a widening cone at the marked location, producing its ef
 | Target | Where Written |
 ---
 **LoudPulse**
-Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens kinetic force at point of contact at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1489,7 +1490,7 @@ Channels kinetic force at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **CaptureFrost**
-Channels flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels raw flux within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1503,7 +1504,7 @@ Channels flux energy within arm's reach across surfaces, producing its effect. P
 | Target | Surface |
 ---
 **PierceTide**
-Detects flux energy at point of contact on objects, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects binding tension at point of contact targeting objects, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1517,7 +1518,7 @@ Detects flux energy at point of contact on objects, immobilizing the target. Run
 | Target | Object |
 ---
 **SlowBond**
-Anchors flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Anchors flux targeting objects, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1531,7 +1532,7 @@ Anchors flux energy on objects, producing its effect. Must be actively maintaine
 | Target | Object |
 ---
 **FreezGate**
-Detects flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects flux across surfaces, gathers environmental information. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1545,7 +1546,7 @@ Detects flux energy across surfaces, producing its effect. Runs for roughly a mi
 | Target | Surface |
 ---
 **TaintedHalo**
-Anchors kinetic force as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors kinetic force as a widening cone targeting objects, sends enemies and objects flying backward. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 53 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1559,7 +1560,7 @@ Anchors kinetic force as a widening cone on objects, producing its effect. Persi
 | Target | Object |
 ---
 **FallBoon**
-Detects flux energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects flux within 10 feet targeting objects, gathers environmental information. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1573,7 +1574,7 @@ Detects flux energy within arm's reach on objects, producing its effect. Runs fo
 | Target | Object |
 ---
 **SurMark**
-Reshapes flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes flux across a flat plane at the marked location, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1587,7 +1588,7 @@ Reshapes flux energy at the marked location, producing its effect. The minimal f
 | Target | Where Written |
 ---
 **TaintedCurse**
-Detects flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Detects flux across a flat plane targeting objects, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1601,7 +1602,7 @@ Detects flux energy on objects, producing its effect. Must be actively maintaine
 | Target | Object |
 ---
 **HeavyShell**
-Channels flux energy as a widening cone on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels raw flux as a widening cone targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1615,7 +1616,7 @@ Channels flux energy as a widening cone on objects, producing its effect. The mi
 | Target | Object |
 ---
 **BreakSoul**
-Channels flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux as a widening cone within 10 feet targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Move |
@@ -1629,7 +1630,7 @@ Channels flux energy as a widening cone within arm's reach on objects, producing
 | Target | Object |
 ---
 **ReleasBoon**
-Reshapes flux energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes raw flux across a flat plane within 10 feet targeting objects, alters the target's properties. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1643,7 +1644,7 @@ Reshapes flux energy within arm's reach on objects, producing its effect. Runs f
 | Target | Object |
 ---
 **HeavyWard**
-Detects flux energy as a widening cone at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects raw flux as a widening cone at point of contact targeting objects, gathers environmental information. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1657,7 +1658,7 @@ Detects flux energy as a widening cone at point of contact on objects, producing
 | Target | Object |
 ---
 **CaptureMark**
-Detects flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Detects flux across a flat plane within 10 feet across surfaces, gathers environmental information. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 75 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1671,7 +1672,7 @@ Detects flux energy within arm's reach across surfaces, producing its effect. Pe
 | Target | Surface |
 ---
 **ChillDance**
-Detects flux energy as a widening cone at point of contact on objects, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Detects binding tension as a widening cone at point of contact targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 69 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1685,7 +1686,7 @@ Detects flux energy as a widening cone at point of contact on objects, immobiliz
 | Target | Object |
 ---
 **FallVeil**
-Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels raw flux within 10 feet targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1699,7 +1700,7 @@ Channels flux energy within arm's reach on objects, producing its effect. The mi
 | Target | Object |
 ---
 **CalmVeil**
-Channels flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux at point of contact at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1713,7 +1714,7 @@ Channels flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **FlowLight**
-Projects flux energy as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Projects raw flux as a widening cone at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1727,7 +1728,7 @@ Projects flux energy as a widening cone at point of contact on objects, producin
 | Target | Object |
 ---
 **SurTouch**
-Reshapes flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes flux within 10 feet at the marked location, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -1741,7 +1742,7 @@ Reshapes flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **MurkyGlyph**
-Detects kinetic force on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects kinetic force across a flat plane targeting objects, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1755,7 +1756,7 @@ Detects kinetic force on objects, producing its effect. Must be actively maintai
 | Target | Object |
 ---
 **NakedShroud**
-Reshapes kinetic force as a widening cone across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force as a widening cone across surfaces, sends enemies and objects flying backward in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -1769,7 +1770,7 @@ Reshapes kinetic force as a widening cone across surfaces, producing its effect.
 | Target | Surface |
 ---
 **BindHalo**
-Channels flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels flux at point of contact across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 72 W |
 | Shape | Square |
 | Hook | Move |
@@ -1783,7 +1784,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **VividFrost**
-Reshapes flux energy as a widening cone within arm's reach across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
+Reshapes binding tension as a widening cone within 10 feet across surfaces, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -1797,7 +1798,7 @@ Reshapes flux energy as a widening cone within arm's reach across surfaces, immo
 | Target | Surface |
 ---
 **GuardPulse**
-Detects flux energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane at point of contact targeting objects, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1811,7 +1812,7 @@ Detects flux energy at point of contact on objects, producing its effect. Must b
 | Target | Object |
 ---
 **TransformTide**
-Channels radiant energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -1825,7 +1826,7 @@ Channels radiant energy at the marked location, producing its effect. Persists f
 | Target | Where Written |
 ---
 **PiercVeil**
-Detects kinetic force across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects kinetic force across surfaces, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1839,7 +1840,7 @@ Detects kinetic force across surfaces, producing its effect. Must be actively ma
 | Target | Surface |
 ---
 **BurHand**
-Channels flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens flux across a flat plane within 10 feet targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1853,7 +1854,7 @@ Channels flux energy within arm's reach on objects, producing its effect. Persis
 | Target | Object |
 ---
 **KindleMark**
-Anchors flux energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors raw flux across a flat plane at point of contact targeting objects, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 17 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1867,7 +1868,7 @@ Anchors flux energy at point of contact on objects, producing its effect. Must b
 | Target | Object |
 ---
 **KindlHeart**
-Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels flux across a flat plane at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 69 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1881,7 +1882,7 @@ Channels flux energy at point of contact on objects, producing its effect. Persi
 | Target | Object |
 ---
 **PaleGate**
-Reshapes radiant energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy at point of contact across surfaces, alters the target's properties. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -1895,7 +1896,7 @@ Reshapes radiant energy at point of contact across surfaces, producing its effec
 | Target | Surface |
 ---
 **TwistFlame**
-Channels radiant energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane at point of contact across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Move |
@@ -1909,7 +1910,7 @@ Channels radiant energy at point of contact across surfaces, producing its effec
 | Target | Surface |
 ---
 **CalmScar**
-Reshapes flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes raw flux within 10 feet across surfaces, alters the target's properties. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -1923,7 +1924,7 @@ Reshapes flux energy within arm's reach across surfaces, producing its effect. M
 | Target | Surface |
 ---
 **CalmTouch**
-Projects flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects flux at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1937,7 +1938,7 @@ Projects flux energy at point of contact on objects, producing its effect. The m
 | Target | Object |
 ---
 **TwistScar**
-Projects flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1951,7 +1952,7 @@ Projects flux energy on objects, producing its effect. Runs for roughly a minute
 | Target | Object |
 ---
 **FlowVeil**
-Anchors radiant energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors radiant energy across a flat plane at point of contact targeting objects, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1965,7 +1966,7 @@ Anchors radiant energy at point of contact on objects, producing its effect. The
 | Target | Object |
 ---
 **WeakAura**
-Channels flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens raw flux across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1979,7 +1980,7 @@ Channels flux energy across surfaces, producing its effect. The minimal flux dra
 | Target | Surface |
 ---
 **SolidMirror**
-Detects radiant energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Detects radiant energy across a flat plane at the marked location, gathers environmental information. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1993,7 +1994,7 @@ Detects radiant energy at the marked location, producing its effect. Persists fo
 | Target | Where Written |
 ---
 **FiercePulse**
-Detects radiant energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects radiant energy across a flat plane within 10 feet targeting objects, gathers environmental information. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2007,7 +2008,7 @@ Detects radiant energy within arm's reach on objects, producing its effect. Runs
 | Target | Object |
 ---
 **ReleasStorm**
-Projects radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Projects radiant energy across a flat plane at point of contact at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2021,7 +2022,7 @@ Projects radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **DullWall**
-Channels radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane at point of contact at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2035,7 +2036,7 @@ Channels radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **TwinKnot**
-Detects flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane across surfaces, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2049,7 +2050,7 @@ Detects flux energy across surfaces, producing its effect. The minimal flux drai
 | Target | Surface |
 ---
 **KindlCrown**
-Reshapes kinetic force within arm's reach across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane within 10 feet across surfaces, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2063,7 +2064,7 @@ Reshapes kinetic force within arm's reach across surfaces, producing its effect.
 | Target | Surface |
 ---
 **DeepCurse**
-Channels flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2077,7 +2078,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **SolidBoon**
-Channels flux energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane at point of contact across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2091,7 +2092,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **CalmThought**
-Detects kinetic force as a widening cone at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects kinetic force as a widening cone at point of contact at the marked location, sends enemies and objects flying backward in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2105,7 +2106,7 @@ Detects kinetic force as a widening cone at point of contact at the marked locat
 | Target | Where Written |
 ---
 **SweepTide**
-Detects kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects kinetic force at point of contact targeting objects, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2119,7 +2120,7 @@ Detects kinetic force at point of contact on objects, producing its effect. Runs
 | Target | Object |
 ---
 **DeepBridge**
-Channels flux energy as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux as a widening cone within 10 feet across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2133,7 +2134,7 @@ Channels flux energy as a widening cone within arm's reach across surfaces, prod
 | Target | Surface |
 ---
 **AnchorWay**
-Detects flux energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects raw flux across a flat plane within 10 feet across surfaces, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2147,7 +2148,7 @@ Detects flux energy within arm's reach across surfaces, producing its effect. Th
 | Target | Surface |
 ---
 **RiseWay**
-Channels radiant energy as a widening cone at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy as a widening cone at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2161,7 +2162,7 @@ Channels radiant energy as a widening cone at the marked location, producing its
 | Target | Where Written |
 ---
 **QuietKnot**
-Reshapes flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes flux across a flat plane at point of contact at the marked location, alters the target's properties. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2175,7 +2176,7 @@ Reshapes flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **ReleasShroud**
-Reshapes flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes flux across a flat plane across surfaces, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 11 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2189,7 +2190,7 @@ Reshapes flux energy across surfaces, producing its effect. The minimal flux dra
 | Target | Surface |
 ---
 **FreezHeart**
-Detects radiant energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects radiant energy across a flat plane within 10 feet across surfaces, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2203,7 +2204,7 @@ Detects radiant energy within arm's reach across surfaces, producing its effect.
 | Target | Surface |
 ---
 **SurBreath**
-Detects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux within 10 feet at the marked location, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2217,7 +2218,7 @@ Detects flux energy within arm's reach at the marked location, producing its eff
 | Target | Where Written |
 ---
 **WarmRing**
-Channels flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Screens flux within 10 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2231,7 +2232,7 @@ Channels flux energy within arm's reach across surfaces, producing its effect. R
 | Target | Surface |
 ---
 **TwistVoice**
-Anchors flux energy at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Anchors binding tension across a flat plane at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2245,7 +2246,7 @@ Anchors flux energy at the marked location, immobilizing the target. Runs for ro
 | Target | Where Written |
 ---
 **SteadyEye**
-Channels kinetic force as a widening cone at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force as a widening cone at point of contact targeting objects, sends enemies and objects flying backward. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2259,7 +2260,7 @@ Channels kinetic force as a widening cone at point of contact on objects, produc
 | Target | Object |
 ---
 **SlowWeb**
-Channels kinetic force within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force across a flat plane within 10 feet across surfaces, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2273,7 +2274,7 @@ Channels kinetic force within arm's reach across surfaces, producing its effect.
 | Target | Surface |
 ---
 **TransformCharm**
-Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2287,7 +2288,7 @@ Channels flux energy at point of contact on objects, producing its effect. The m
 | Target | Object |
 ---
 **FlowBond**
-Reshapes flux energy as a widening cone at point of contact on objects, immobilizing the target. The affordable flux cost allows frequent casting.
+Reshapes binding tension as a widening cone at point of contact targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2301,7 +2302,7 @@ Reshapes flux energy as a widening cone at point of contact on objects, immobili
 | Target | Object |
 ---
 **PiercSilence**
-Detects flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane at point of contact targeting objects, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2315,7 +2316,7 @@ Detects flux energy at point of contact on objects, producing its effect. The mi
 | Target | Object |
 ---
 **TwistBond**
-Reshapes flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes flux at the marked location, alters the target's properties. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2329,7 +2330,7 @@ Reshapes flux energy at the marked location, producing its effect. Must be activ
 | Target | Where Written |
 ---
 **FragileCurse**
-Reshapes kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2343,7 +2344,7 @@ Reshapes kinetic force at point of contact on objects, producing its effect. Per
 | Target | Object |
 ---
 **TransformDance**
-Channels flux energy as a widening cone at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels raw flux as a widening cone at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2357,7 +2358,7 @@ Channels flux energy as a widening cone at the marked location, producing its ef
 | Target | Where Written |
 ---
 **ShatterLight**
-Channels flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels raw flux within 10 feet at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2371,7 +2372,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **SolidFrost**
-Channels flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels flux at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2385,7 +2386,7 @@ Channels flux energy at the marked location, producing its effect. Persists for 
 | Target | Where Written |
 ---
 **FierceThread**
-Channels flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens raw flux at point of contact across surfaces, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2399,7 +2400,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **WeavEcho**
-Detects flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane across surfaces, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2413,7 +2414,7 @@ Detects flux energy across surfaces, producing its effect. The minimal flux drai
 | Target | Surface |
 ---
 **WildKey**
-Channels kinetic force at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force at the marked location, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2427,7 +2428,7 @@ Channels kinetic force at the marked location, producing its effect. The minimal
 | Target | Where Written |
 ---
 **ShatterFlame**
-Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels flux targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Move |
@@ -2441,7 +2442,7 @@ Channels flux energy on objects, producing its effect. Persists for several minu
 | Target | Object |
 ---
 **ReleaseBreath**
-Channels flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Screens flux within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2455,7 +2456,7 @@ Channels flux energy within arm's reach across surfaces, producing its effect. P
 | Target | Surface |
 ---
 **ShatterNet**
-Channels kinetic force at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane at point of contact at the marked location, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2469,7 +2470,7 @@ Channels kinetic force at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **TaintedPulse**
-Reshapes flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes raw flux across a flat plane targeting objects, alters the target's properties. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2483,7 +2484,7 @@ Reshapes flux energy on objects, producing its effect. Persists for several minu
 | Target | Object |
 ---
 **PiercBridge**
-Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2497,7 +2498,7 @@ Channels flux energy on objects, producing its effect. Persists for several minu
 | Target | Object |
 ---
 **CurvedWard**
-Reshapes radiant energy as a widening cone at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy as a widening cone at the marked location, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2511,7 +2512,7 @@ Reshapes radiant energy as a widening cone at the marked location, producing its
 | Target | Where Written |
 ---
 **RisNet**
-Channels flux energy at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
+Screens binding tension across a flat plane at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2525,7 +2526,7 @@ Channels flux energy at the marked location, immobilizing the target. The afford
 | Target | Where Written |
 ---
 **TransformBreath**
-Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2539,7 +2540,7 @@ Channels flux energy on objects, producing its effect. Persists for several minu
 | Target | Object |
 ---
 **CalmPath**
-Anchors flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane at point of contact at the marked location, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2553,7 +2554,7 @@ Anchors flux energy at point of contact at the marked location, producing its ef
 | Target | Where Written |
 ---
 **DissolveLight**
-Reshapes flux energy across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
+Reshapes binding tension across a flat plane across surfaces, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2567,7 +2568,7 @@ Reshapes flux energy across surfaces, immobilizing the target. The affordable fl
 | Target | Surface |
 ---
 **HeavyCalm**
-Channels flux energy as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels raw flux as a widening cone targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2581,7 +2582,7 @@ Channels flux energy as a widening cone on objects, producing its effect. Persis
 | Target | Object |
 ---
 **RestlessRoot**
-Projects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane within 10 feet at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 11 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2595,7 +2596,7 @@ Projects flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **RisCurse**
-Detects flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Detects raw flux across a flat plane within 10 feet targeting objects, gathers environmental information. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2609,7 +2610,7 @@ Detects flux energy within arm's reach on objects, producing its effect. Persist
 | Target | Object |
 ---
 **GuardStorm**
-Channels flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels binding tension across a flat plane within 10 feet across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 65 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2623,7 +2624,7 @@ Channels flux energy within arm's reach across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **ColdEcho**
-Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens raw flux across a flat plane targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2637,7 +2638,7 @@ Channels flux energy on objects, producing its effect. Persists for several minu
 | Target | Object |
 ---
 **SurRoot**
-Detects radiant energy at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects radiant energy at the marked location, gathers environmental information. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2651,7 +2652,7 @@ Detects radiant energy at the marked location, producing its effect. Runs for ro
 | Target | Where Written |
 ---
 **SweepAura**
-Anchors flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2665,7 +2666,7 @@ Anchors flux energy on objects, producing its effect. Persists for several minut
 | Target | Object |
 ---
 **DissolveMark**
-Detects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane targeting objects, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2679,7 +2680,7 @@ Detects flux energy on objects, producing its effect. The minimal flux drain mak
 | Target | Object |
 ---
 **FlowShadow**
-Reshapes flux energy as a widening cone at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes flux as a widening cone at point of contact at the marked location, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2693,7 +2694,7 @@ Reshapes flux energy as a widening cone at point of contact at the marked locati
 | Target | Where Written |
 ---
 **RisMirror**
-Channels flux energy as a widening cone within arm's reach on objects, producing its effect. The affordable flux cost allows frequent casting.
+Channels flux as a widening cone within 10 feet targeting objects, delivering its effect in a single instant. Affordable enough for routine use without draining reserves.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Move |
@@ -2707,7 +2708,7 @@ Channels flux energy as a widening cone within arm's reach on objects, producing
 | Target | Object |
 ---
 **PiercCore**
-Channels kinetic force across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force across surfaces, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2721,7 +2722,7 @@ Channels kinetic force across surfaces, producing its effect. The minimal flux d
 | Target | Surface |
 ---
 **LoudKnot**
-Channels kinetic force at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force across a flat plane at point of contact across surfaces, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2735,7 +2736,7 @@ Channels kinetic force at point of contact across surfaces, producing its effect
 | Target | Surface |
 ---
 **FreezShroud**
-Channels radiant energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels radiant energy within 10 feet at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2749,7 +2750,7 @@ Channels radiant energy within arm's reach at the marked location, producing its
 | Target | Where Written |
 ---
 **DissolvShell**
-Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 12 W |
 | Shape | Square |
 | Hook | Move |
@@ -2763,7 +2764,7 @@ Channels flux energy at point of contact on objects, producing its effect. The m
 | Target | Object |
 ---
 **FallBridge**
-Anchors radiant energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors radiant energy within 10 feet targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 56 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2777,7 +2778,7 @@ Anchors radiant energy within arm's reach on objects, producing its effect. Pers
 | Target | Object |
 ---
 **SurgeScar**
-Detects kinetic force at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects kinetic force at point of contact across surfaces, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2791,7 +2792,7 @@ Detects kinetic force at point of contact across surfaces, producing its effect.
 | Target | Surface |
 ---
 **AnchoredVoid**
-Channels flux energy as a widening cone at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux as a widening cone at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2805,7 +2806,7 @@ Channels flux energy as a widening cone at the marked location, producing its ef
 | Target | Where Written |
 ---
 **FreezChain**
-Projects radiant energy within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects radiant energy across a flat plane within 10 feet at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2819,7 +2820,7 @@ Projects radiant energy within arm's reach at the marked location, producing its
 | Target | Where Written |
 ---
 **SweepMirror**
-Reshapes flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Reshapes flux across a flat plane at point of contact across surfaces, alters the target's properties. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 72 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2833,7 +2834,7 @@ Reshapes flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **SurgeLight**
-Detects flux energy as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Detects flux as a widening cone at point of contact targeting objects, gathers environmental information. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 79 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2847,7 +2848,7 @@ Detects flux energy as a widening cone at point of contact on objects, producing
 | Target | Object |
 ---
 **HardyBond**
-Channels radiant energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2861,7 +2862,7 @@ Channels radiant energy on objects, producing its effect. Runs for roughly a min
 | Target | Object |
 ---
 **RisPulse**
-Channels flux energy on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens flux across a flat plane targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2875,7 +2876,7 @@ Channels flux energy on objects, producing its effect. Must be actively maintain
 | Target | Object |
 ---
 **ShallowKnot**
-Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Square |
 | Hook | Move |
@@ -2889,7 +2890,7 @@ Channels flux energy on objects, producing its effect. Persists for several minu
 | Target | Object |
 ---
 **GuardBlessing**
-Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Screens kinetic force across a flat plane at point of contact at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2903,7 +2904,7 @@ Channels kinetic force at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **RiseShadow**
-Channels radiant energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Move |
@@ -2917,7 +2918,7 @@ Channels radiant energy at point of contact on objects, producing its effect. Th
 | Target | Object |
 ---
 **WhirlingTouch**
-Anchors flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane within 10 feet targeting objects, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2931,7 +2932,7 @@ Anchors flux energy within arm's reach on objects, producing its effect. Must be
 | Target | Object |
 ---
 **FallKnot**
-Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2945,7 +2946,7 @@ Projects flux energy on objects, producing its effect. The minimal flux drain ma
 | Target | Object |
 ---
 **QuietTouch**
-Anchors flux energy as a widening cone within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors flux as a widening cone within 10 feet at the marked location, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2959,7 +2960,7 @@ Anchors flux energy as a widening cone within arm's reach at the marked location
 | Target | Where Written |
 ---
 **SolidRing**
-Channels radiant energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane at point of contact across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2973,7 +2974,7 @@ Channels radiant energy at point of contact across surfaces, producing its effec
 | Target | Surface |
 ---
 **BindWeb**
-Channels flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Channels binding tension across a flat plane targeting objects, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2987,7 +2988,7 @@ Channels flux energy on objects, immobilizing the target. Runs for roughly a min
 | Target | Object |
 ---
 **TransformGlyph**
-Reshapes flux energy within arm's reach on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Reshapes binding tension within 10 feet targeting objects, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 97 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3001,7 +3002,7 @@ Reshapes flux energy within arm's reach on objects, immobilizing the target. Mus
 | Target | Object |
 ---
 **SurgeSight**
-Reshapes flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes flux within 10 feet across surfaces, alters the target's properties. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3015,7 +3016,7 @@ Reshapes flux energy within arm's reach across surfaces, producing its effect. R
 | Target | Surface |
 ---
 **BindThread**
-Channels flux energy as a widening cone at point of contact on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Screens flux as a widening cone at point of contact targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 64 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3029,7 +3030,7 @@ Channels flux energy as a widening cone at point of contact on objects, producin
 | Target | Object |
 ---
 **SolidVeil**
-Reshapes kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3043,7 +3044,7 @@ Reshapes kinetic force at point of contact on objects, producing its effect. Per
 | Target | Object |
 ---
 **GuardMirror**
-Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at point of contact targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3057,7 +3058,7 @@ Channels flux energy at point of contact on objects, producing its effect. Runs 
 | Target | Object |
 ---
 **BurCage**
-Channels flux energy within arm's reach on objects, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Channels binding tension across a flat plane within 10 feet targeting objects, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3071,7 +3072,7 @@ Channels flux energy within arm's reach on objects, immobilizing the target. Run
 | Target | Object |
 ---
 **FierceHalo**
-Detects flux energy across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Detects flux across surfaces, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3085,7 +3086,7 @@ Detects flux energy across surfaces, producing its effect. Must be actively main
 | Target | Surface |
 ---
 **KindleRoad**
-Channels flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3099,7 +3100,7 @@ Channels flux energy at the marked location, producing its effect. The minimal f
 | Target | Where Written |
 ---
 **KindleDream**
-Projects radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects radiant energy across a flat plane at point of contact at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3113,7 +3114,7 @@ Projects radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **CaptureLight**
-Channels flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3127,7 +3128,7 @@ Channels flux energy at the marked location, producing its effect. Must be activ
 | Target | Where Written |
 ---
 **BreakMark**
-Projects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3141,7 +3142,7 @@ Projects flux energy across surfaces, producing its effect. Must be actively mai
 | Target | Surface |
 ---
 **RiseDream**
-Reshapes flux energy across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes flux across a flat plane across surfaces, alters the target's properties. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3155,7 +3156,7 @@ Reshapes flux energy across surfaces, producing its effect. Persists for several
 | Target | Surface |
 ---
 **PureCore**
-Reshapes flux energy across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes binding tension across a flat plane across surfaces, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3169,7 +3170,7 @@ Reshapes flux energy across surfaces, immobilizing the target. Runs for roughly 
 | Target | Surface |
 ---
 **SwiftBreath**
-Detects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects raw flux across a flat plane across surfaces, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3183,7 +3184,7 @@ Detects flux energy across surfaces, producing its effect. Must be actively main
 | Target | Surface |
 ---
 **BreakHand**
-Anchors flux energy as a widening cone at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Anchors flux as a widening cone at point of contact at the marked location, anchors targets in a fixed state. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3197,7 +3198,7 @@ Anchors flux energy as a widening cone at point of contact at the marked locatio
 | Target | Where Written |
 ---
 **VastBoon**
-Channels flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels raw flux at point of contact at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3211,7 +3212,7 @@ Channels flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **ShatterVoid**
-Channels flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at point of contact at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3225,7 +3226,7 @@ Channels flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **BindBreath**
-Projects radiant energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects radiant energy as a widening cone within 10 feet targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 36 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3239,7 +3240,7 @@ Projects radiant energy as a widening cone within arm's reach on objects, produc
 | Target | Object |
 ---
 **BindStorm**
-Anchors flux energy across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Anchors flux across a flat plane across surfaces, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 70 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3253,7 +3254,7 @@ Anchors flux energy across surfaces, producing its effect. Persists for several 
 | Target | Surface |
 ---
 **DriftRune**
-Detects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux targeting objects, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3267,7 +3268,7 @@ Detects flux energy on objects, producing its effect. The minimal flux drain mak
 | Target | Object |
 ---
 **BreakShadow**
-Projects flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects raw flux across a flat plane targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3281,7 +3282,7 @@ Projects flux energy on objects, producing its effect. Runs for roughly a minute
 | Target | Object |
 ---
 **FreezePulse**
-Channels kinetic force at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane at point of contact across surfaces, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 48 W |
 | Shape | Square |
 | Hook | Move |
@@ -3295,7 +3296,7 @@ Channels kinetic force at point of contact across surfaces, producing its effect
 | Target | Surface |
 ---
 **FlowRoad**
-Reshapes radiant energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy at point of contact targeting objects, alters the target's properties. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3309,7 +3310,7 @@ Reshapes radiant energy at point of contact on objects, producing its effect. Mu
 | Target | Object |
 ---
 **SweepSight**
-Projects kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3323,7 +3324,7 @@ Projects kinetic force at point of contact on objects, producing its effect. Run
 | Target | Object |
 ---
 **ShatterFrost**
-Channels flux energy at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux at point of contact at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Move |
@@ -3337,7 +3338,7 @@ Channels flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **BindHand**
-Reshapes flux energy within arm's reach at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
+Reshapes binding tension across a flat plane within 10 feet at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3351,7 +3352,7 @@ Reshapes flux energy within arm's reach at the marked location, immobilizing the
 | Target | Where Written |
 ---
 **DriftingBond**
-Channels flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane within 10 feet at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 13 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3365,7 +3366,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **StraightBond**
-Channels flux energy at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Screens binding tension across a flat plane at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3379,7 +3380,7 @@ Channels flux energy at the marked location, immobilizing the target. Runs for r
 | Target | Where Written |
 ---
 **BurnDream**
-Detects flux energy on objects, immobilizing the target. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects binding tension targeting objects, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3393,7 +3394,7 @@ Detects flux energy on objects, immobilizing the target. Must be actively mainta
 | Target | Object |
 ---
 **CurvedRing**
-Channels flux energy on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Channels binding tension across a flat plane targeting objects, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3407,7 +3408,7 @@ Channels flux energy on objects, immobilizing the target. Must be actively maint
 | Target | Object |
 ---
 **ReleaseSight**
-Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane at point of contact at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Move |
@@ -3421,7 +3422,7 @@ Channels kinetic force at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **HeavyVeil**
-Anchors flux energy across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Anchors flux across a flat plane across surfaces, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3435,7 +3436,7 @@ Anchors flux energy across surfaces, producing its effect. Must be actively main
 | Target | Surface |
 ---
 **TwinThread**
-Reshapes kinetic force at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force at point of contact across surfaces, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3449,7 +3450,7 @@ Reshapes kinetic force at point of contact across surfaces, producing its effect
 | Target | Surface |
 ---
 **CalmStorm**
-Anchors flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane across surfaces, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3463,7 +3464,7 @@ Anchors flux energy across surfaces, producing its effect. The minimal flux drai
 | Target | Surface |
 ---
 **WildFrost**
-Channels flux energy as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels flux as a widening cone targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 77 W |
 | Shape | Square |
 | Hook | Move |
@@ -3477,7 +3478,7 @@ Channels flux energy as a widening cone on objects, producing its effect. Persis
 | Target | Object |
 ---
 **TransformBrand**
-Channels flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux at point of contact at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3491,7 +3492,7 @@ Channels flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **DullPulse**
-Detects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane within 10 feet at the marked location, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3505,7 +3506,7 @@ Detects flux energy within arm's reach at the marked location, producing its eff
 | Target | Where Written |
 ---
 **PiercHand**
-Channels flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens raw flux at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3519,7 +3520,7 @@ Channels flux energy at the marked location, producing its effect. Persists for 
 | Target | Where Written |
 ---
 **AnchorBreath**
-Detects flux energy as a widening cone at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects flux as a widening cone at point of contact targeting objects, gathers environmental information. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3533,7 +3534,7 @@ Detects flux energy as a widening cone at point of contact on objects, producing
 | Target | Object |
 ---
 **CapturPath**
-Channels flux energy as a widening cone at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
+Screens binding tension as a widening cone at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3547,7 +3548,7 @@ Channels flux energy as a widening cone at the marked location, immobilizing the
 | Target | Where Written |
 ---
 **VastWeb**
-Channels flux energy within arm's reach at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Screens flux within 10 feet at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3561,7 +3562,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **BrightRing**
-Projects kinetic force on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects kinetic force across a flat plane targeting objects, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3575,7 +3576,7 @@ Projects kinetic force on objects, producing its effect. Must be actively mainta
 | Target | Object |
 ---
 **LightNet**
-Projects flux energy as a widening cone at point of contact on objects, immobilizing the target. The minimal flux drain makes it practical for repeated use.
+Projects binding tension as a widening cone at point of contact targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 44 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3589,7 +3590,7 @@ Projects flux energy as a widening cone at point of contact on objects, immobili
 | Target | Object |
 ---
 **FreezeFlame**
-Channels flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane at point of contact across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3603,7 +3604,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **TwistWay**
-Channels radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels radiant energy at point of contact at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3617,7 +3618,7 @@ Channels radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **TameThread**
-Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects raw flux across a flat plane targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3631,7 +3632,7 @@ Projects flux energy on objects, producing its effect. The minimal flux drain ma
 | Target | Object |
 ---
 **FallCore**
-Projects flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Projects flux across a flat plane within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3645,7 +3646,7 @@ Projects flux energy within arm's reach across surfaces, producing its effect. P
 | Target | Surface |
 ---
 **VastBond**
-Anchors flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Anchors raw flux across a flat plane at point of contact across surfaces, anchors targets in a fixed state. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -3659,7 +3660,7 @@ Anchors flux energy at point of contact across surfaces, producing its effect. P
 | Target | Surface |
 ---
 **HeavySeal**
-Channels flux energy as a widening cone within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux as a widening cone within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3673,7 +3674,7 @@ Channels flux energy as a widening cone within arm's reach at the marked locatio
 | Target | Where Written |
 ---
 **RiseTide**
-Channels flux energy as a widening cone within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels flux as a widening cone within 10 feet targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 57 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3687,7 +3688,7 @@ Channels flux energy as a widening cone within arm's reach on objects, producing
 | Target | Object |
 ---
 **TwistBreath**
-Detects radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Detects radiant energy at point of contact at the marked location, gathers environmental information. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3701,7 +3702,7 @@ Detects radiant energy at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **RisEcho**
-Projects radiant energy as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects radiant energy as a widening cone at point of contact at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 31 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3715,7 +3716,7 @@ Projects radiant energy as a widening cone at point of contact at the marked loc
 | Target | Where Written |
 ---
 **NakedEcho**
-Channels flux energy at point of contact at the marked location, immobilizing the target. The minimal flux drain makes it practical for repeated use.
+Channels binding tension across a flat plane at point of contact at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3729,7 +3730,7 @@ Channels flux energy at point of contact at the marked location, immobilizing th
 | Target | Where Written |
 ---
 **BurBreath**
-Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels raw flux at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 12 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3743,7 +3744,7 @@ Channels flux energy at point of contact on objects, producing its effect. The m
 | Target | Object |
 ---
 **ReleaseStrike**
-Projects flux energy at point of contact at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Projects binding tension at point of contact at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3757,7 +3758,7 @@ Projects flux energy at point of contact at the marked location, immobilizing th
 | Target | Where Written |
 ---
 **PalePulse**
-Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens raw flux across a flat plane across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -3771,7 +3772,7 @@ Channels flux energy across surfaces, producing its effect. Runs for roughly a m
 | Target | Surface |
 ---
 **ReleasRing**
-Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3785,7 +3786,7 @@ Projects flux energy on objects, producing its effect. The minimal flux drain ma
 | Target | Object |
 ---
 **ReleaseSong**
-Projects flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects raw flux within 10 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3799,7 +3800,7 @@ Projects flux energy within arm's reach across surfaces, producing its effect. R
 | Target | Surface |
 ---
 **PiercRing**
-Channels flux energy as a widening cone at point of contact on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Screens binding tension as a widening cone at point of contact targeting objects, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 54 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -3813,7 +3814,7 @@ Channels flux energy as a widening cone at point of contact on objects, immobili
 | Target | Object |
 ---
 **WarmNet**
-Anchors flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Anchors flux targeting objects, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3827,7 +3828,7 @@ Anchors flux energy on objects, producing its effect. Must be actively maintaine
 | Target | Object |
 ---
 **SweepSoul**
-Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens flux at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 44 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3841,7 +3842,7 @@ Channels flux energy at point of contact on objects, producing its effect. The m
 | Target | Object |
 ---
 **QuietAura**
-Channels flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3855,7 +3856,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **HiddenCharm**
-Anchors radiant energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors radiant energy across a flat plane within 10 feet targeting objects, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -3869,7 +3870,7 @@ Anchors radiant energy within arm's reach on objects, producing its effect. Runs
 | Target | Object |
 ---
 **ColdShell**
-Channels radiant energy as a widening cone at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Screens radiant energy as a widening cone at point of contact across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 66 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3883,7 +3884,7 @@ Channels radiant energy as a widening cone at point of contact across surfaces, 
 | Target | Surface |
 ---
 **TaintedAura**
-Reshapes flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes raw flux across a flat plane targeting objects, alters the target's properties. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3897,7 +3898,7 @@ Reshapes flux energy on objects, producing its effect. Runs for roughly a minute
 | Target | Object |
 ---
 **CurvedCrown**
-Detects radiant energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Detects radiant energy across a flat plane within 10 feet at the marked location, gathers environmental information. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3911,7 +3912,7 @@ Detects radiant energy within arm's reach at the marked location, producing its 
 | Target | Where Written |
 ---
 **MurkyMark**
-Projects flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects flux at point of contact at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3925,7 +3926,7 @@ Projects flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **PureSpirit**
-Reshapes radiant energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy across a flat plane at point of contact at the marked location, alters the target's properties. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3939,7 +3940,7 @@ Reshapes radiant energy at point of contact at the marked location, producing it
 | Target | Where Written |
 ---
 **KindleWay**
-Channels flux energy as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels flux as a widening cone at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 79 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3953,7 +3954,7 @@ Channels flux energy as a widening cone at point of contact on objects, producin
 | Target | Object |
 ---
 **FallRing**
-Channels flux energy at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
+Channels binding tension at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3967,7 +3968,7 @@ Channels flux energy at the marked location, immobilizing the target. The afford
 | Target | Where Written |
 ---
 **ReleaseLight**
-Projects flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects flux at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3981,7 +3982,7 @@ Projects flux energy at the marked location, producing its effect. Must be activ
 | Target | Where Written |
 ---
 **FragileShroud**
-Detects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects flux across surfaces, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3995,7 +3996,7 @@ Detects flux energy across surfaces, producing its effect. Must be actively main
 | Target | Surface |
 ---
 **DriftVeil**
-Anchors flux energy as a widening cone within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux as a widening cone within 10 feet at the marked location, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4009,7 +4010,7 @@ Anchors flux energy as a widening cone within arm's reach at the marked location
 | Target | Where Written |
 ---
 **SharpFlame**
-Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects raw flux targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4023,7 +4024,7 @@ Projects flux energy on objects, producing its effect. The minimal flux drain ma
 | Target | Object |
 ---
 **TransformBoon**
-Channels flux energy at point of contact on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Screens binding tension at point of contact targeting objects, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4037,7 +4038,7 @@ Channels flux energy at point of contact on objects, immobilizing the target. Mu
 | Target | Object |
 ---
 **TwistChain**
-Anchors flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors flux within 10 feet at the marked location, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4051,7 +4052,7 @@ Anchors flux energy within arm's reach at the marked location, producing its eff
 | Target | Where Written |
 ---
 **PiercRoot**
-Channels kinetic force as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Screens kinetic force as a widening cone targeting objects, sends enemies and objects flying backward. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 53 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4065,7 +4066,7 @@ Channels kinetic force as a widening cone on objects, producing its effect. Pers
 | Target | Object |
 ---
 **DriftingTouch**
-Channels radiant energy as a widening cone at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Screens radiant energy as a widening cone at point of contact at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 61 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4079,7 +4080,7 @@ Channels radiant energy as a widening cone at point of contact at the marked loc
 | Target | Where Written |
 ---
 **StraightPath**
-Detects flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Detects raw flux across a flat plane at the marked location, gathers environmental information. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 28 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4093,7 +4094,7 @@ Detects flux energy at the marked location, producing its effect. Persists for s
 | Target | Where Written |
 ---
 **FallCharm**
-Reshapes flux energy as a widening cone at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Reshapes flux as a widening cone at point of contact across surfaces, alters the target's properties. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4107,7 +4108,7 @@ Reshapes flux energy as a widening cone at point of contact across surfaces, pro
 | Target | Surface |
 ---
 **StillCurse**
-Projects kinetic force across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Projects kinetic force across surfaces, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4121,7 +4122,7 @@ Projects kinetic force across surfaces, producing its effect. Persists for sever
 | Target | Surface |
 ---
 **KindleTide**
-Anchors flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane at point of contact at the marked location, anchors targets in a fixed state. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4135,7 +4136,7 @@ Anchors flux energy at point of contact at the marked location, producing its ef
 | Target | Where Written |
 ---
 **ShatterMirror**
-Projects flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Projects flux across a flat plane within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4149,7 +4150,7 @@ Projects flux energy within arm's reach across surfaces, producing its effect. P
 | Target | Surface |
 ---
 **RisCalm**
-Reshapes flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes raw flux across a flat plane within 10 feet targeting objects, alters the target's properties. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4163,7 +4164,7 @@ Reshapes flux energy within arm's reach on objects, producing its effect. Must b
 | Target | Object |
 ---
 **BurnFrost**
-Anchors flux energy at point of contact across surfaces, immobilizing the target. Persists for several minutes without further attention.
+Anchors binding tension across a flat plane at point of contact across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 112 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4177,7 +4178,7 @@ Anchors flux energy at point of contact across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **SweepWeb**
-Channels kinetic force within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force across a flat plane within 10 feet at the marked location, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4191,7 +4192,7 @@ Channels kinetic force within arm's reach at the marked location, producing its 
 | Target | Where Written |
 ---
 **FrozenMark**
-Anchors flux energy at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane at point of contact at the marked location, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4205,7 +4206,7 @@ Anchors flux energy at point of contact at the marked location, producing its ef
 | Target | Where Written |
 ---
 **BurShroud**
-Reshapes radiant energy as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy as a widening cone targeting objects, alters the target's properties. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 46 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4219,7 +4220,7 @@ Reshapes radiant energy as a widening cone on objects, producing its effect. Per
 | Target | Object |
 ---
 **ShallowCage**
-Channels flux energy within arm's reach across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
+Channels binding tension within 10 feet across surfaces, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4233,7 +4234,7 @@ Channels flux energy within arm's reach across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **TransformRune**
-Anchors flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors raw flux across a flat plane at point of contact at the marked location, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4247,7 +4248,7 @@ Anchors flux energy at point of contact at the marked location, producing its ef
 | Target | Where Written |
 ---
 **WarmCore**
-Anchors flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux at the marked location, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4261,7 +4262,7 @@ Anchors flux energy at the marked location, producing its effect. Must be active
 | Target | Where Written |
 ---
 **TransformSong**
-Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4275,7 +4276,7 @@ Channels flux energy within arm's reach on objects, producing its effect. The mi
 | Target | Object |
 ---
 **FiercePath**
-Reshapes flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Reshapes binding tension across a flat plane within 10 feet across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 65 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4289,7 +4290,7 @@ Reshapes flux energy within arm's reach across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **DarkCore**
-Projects flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Projects flux at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 65 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4303,7 +4304,7 @@ Projects flux energy at the marked location, producing its effect. Persists for 
 | Target | Where Written |
 ---
 **FragileNet**
-Projects flux energy at point of contact at the marked location, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Projects binding tension across a flat plane at point of contact at the marked location, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4317,7 +4318,7 @@ Projects flux energy at point of contact at the marked location, immobilizing th
 | Target | Where Written |
 ---
 **CaptureFlame**
-Reshapes radiant energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy across a flat plane targeting objects, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4331,7 +4332,7 @@ Reshapes radiant energy on objects, producing its effect. The minimal flux drain
 | Target | Object |
 ---
 **CalmFlame**
-Anchors flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane across surfaces, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4345,7 +4346,7 @@ Anchors flux energy across surfaces, producing its effect. The minimal flux drai
 | Target | Surface |
 ---
 **AnchorBrand**
-Reshapes flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes raw flux across a flat plane within 10 feet at the marked location, alters the target's properties. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4359,7 +4360,7 @@ Reshapes flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **WeavVoid**
-Anchors flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors raw flux across a flat plane within 10 feet across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4373,7 +4374,7 @@ Anchors flux energy within arm's reach across surfaces, producing its effect. Ru
 | Target | Surface |
 ---
 **CalmLock**
-Channels flux energy at point of contact across surfaces, immobilizing the target. Persists for several minutes without further attention.
+Screens binding tension at point of contact across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 112 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4387,7 +4388,7 @@ Channels flux energy at point of contact across surfaces, immobilizing the targe
 | Target | Surface |
 ---
 **KindlPath**
-Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -4401,7 +4402,7 @@ Channels flux energy across surfaces, producing its effect. Runs for roughly a m
 | Target | Surface |
 ---
 **TwinSigil**
-Reshapes kinetic force as a widening cone across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force as a widening cone across surfaces, sends enemies and objects flying backward. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4415,7 +4416,7 @@ Reshapes kinetic force as a widening cone across surfaces, producing its effect.
 | Target | Surface |
 ---
 **BindKnot**
-Channels kinetic force at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force across a flat plane at point of contact at the marked location, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4429,7 +4430,7 @@ Channels kinetic force at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **DullFrost**
-Detects flux energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane at point of contact across surfaces, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4443,7 +4444,7 @@ Detects flux energy at point of contact across surfaces, producing its effect. T
 | Target | Surface |
 ---
 **StillGlyph**
-Channels radiant energy as a widening cone on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels radiant energy as a widening cone targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4457,7 +4458,7 @@ Channels radiant energy as a widening cone on objects, producing its effect. Mus
 | Target | Object |
 ---
 **BurThread**
-Detects flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects raw flux across a flat plane within 10 feet across surfaces, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4471,7 +4472,7 @@ Detects flux energy within arm's reach across surfaces, producing its effect. Mu
 | Target | Surface |
 ---
 **FrozenMirror**
-Channels flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Screens flux across a flat plane within 10 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4485,7 +4486,7 @@ Channels flux energy within arm's reach across surfaces, producing its effect. R
 | Target | Surface |
 ---
 **DriftBrand**
-Detects flux energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Detects flux at point of contact targeting objects, gathers environmental information. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4499,7 +4500,7 @@ Detects flux energy at point of contact on objects, producing its effect. Must b
 | Target | Object |
 ---
 **BurRune**
-Anchors flux energy across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Anchors flux across a flat plane across surfaces, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4513,7 +4514,7 @@ Anchors flux energy across surfaces, producing its effect. Must be actively main
 | Target | Surface |
 ---
 **TransformMark**
-Reshapes flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes flux across surfaces, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4527,7 +4528,7 @@ Reshapes flux energy across surfaces, producing its effect. The minimal flux dra
 | Target | Surface |
 ---
 **ShatterWay**
-Channels flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens raw flux across a flat plane within 10 feet at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -4541,7 +4542,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **FierceWall**
-Anchors flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux as a widening cone within 10 feet targeting objects, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4555,7 +4556,7 @@ Anchors flux energy as a widening cone within arm's reach on objects, producing 
 | Target | Object |
 ---
 **QuietVoice**
-Reshapes flux energy as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes flux as a widening cone within 10 feet across surfaces, alters the target's properties in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4569,7 +4570,7 @@ Reshapes flux energy as a widening cone within arm's reach across surfaces, prod
 | Target | Surface |
 ---
 **WeaveFlame**
-Anchors flux energy across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Anchors binding tension across surfaces, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4583,7 +4584,7 @@ Anchors flux energy across surfaces, immobilizing the target. Runs for roughly a
 | Target | Surface |
 ---
 **FlowRune**
-Projects flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects flux as a widening cone within 10 feet targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4597,7 +4598,7 @@ Projects flux energy as a widening cone within arm's reach on objects, producing
 | Target | Object |
 ---
 **BurTouch**
-Channels flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens flux at point of contact at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4611,7 +4612,7 @@ Channels flux energy at point of contact at the marked location, producing its e
 | Target | Where Written |
 ---
 **LoneAura**
-Projects flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Projects flux across a flat plane at point of contact across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4625,7 +4626,7 @@ Projects flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **PiercKnot**
-Anchors flux energy within arm's reach across surfaces, producing its effect. The affordable flux cost allows frequent casting.
+Anchors flux across a flat plane within 10 feet across surfaces, anchors targets in a fixed state in a single instant. Affordable enough for routine use without draining reserves.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4639,7 +4640,7 @@ Anchors flux energy within arm's reach across surfaces, producing its effect. Th
 | Target | Surface |
 ---
 **ClearShroud**
-Anchors flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane targeting objects, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4653,7 +4654,7 @@ Anchors flux energy on objects, producing its effect. The minimal flux drain mak
 | Target | Object |
 ---
 **CapturEcho**
-Channels flux energy within arm's reach at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
+Screens binding tension within 10 feet at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4667,7 +4668,7 @@ Channels flux energy within arm's reach at the marked location, immobilizing the
 | Target | Where Written |
 ---
 **TransformGate**
-Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -4681,7 +4682,7 @@ Channels flux energy within arm's reach on objects, producing its effect. The mi
 | Target | Object |
 ---
 **HumbleGlyph**
-Detects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Detects raw flux across a flat plane within 10 feet at the marked location, gathers environmental information in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 13 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4695,7 +4696,7 @@ Detects flux energy within arm's reach at the marked location, producing its eff
 | Target | Where Written |
 ---
 **FrozenNet**
-Channels flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane within 10 feet targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -4709,7 +4710,7 @@ Channels flux energy within arm's reach on objects, producing its effect. Must b
 | Target | Object |
 ---
 **BindVeil**
-Channels radiant energy as a widening cone within arm's reach across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Screens radiant energy as a widening cone within 10 feet across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4723,7 +4724,7 @@ Channels radiant energy as a widening cone within arm's reach across surfaces, p
 | Target | Surface |
 ---
 **SwiftCage**
-Projects flux energy as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects flux as a widening cone at point of contact at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4737,7 +4738,7 @@ Projects flux energy as a widening cone at point of contact at the marked locati
 | Target | Where Written |
 ---
 **KindleSong**
-Channels radiant energy as a widening cone within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy as a widening cone within 10 feet at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -4751,7 +4752,7 @@ Channels radiant energy as a widening cone within arm's reach at the marked loca
 | Target | Where Written |
 ---
 **SurgeBreath**
-Reshapes kinetic force within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane within 10 feet targeting objects, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4765,7 +4766,7 @@ Reshapes kinetic force within arm's reach on objects, producing its effect. Runs
 | Target | Object |
 ---
 **ReleaseBlessing**
-Projects kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Projects kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4779,7 +4780,7 @@ Projects kinetic force at point of contact on objects, producing its effect. Per
 | Target | Object |
 ---
 **PureStorm**
-Channels flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at point of contact across surfaces, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -4793,7 +4794,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **ShatterDance**
-Channels flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Screens flux within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -4807,7 +4808,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **SlowGate**
-Projects flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Projects binding tension across a flat plane targeting objects, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4821,7 +4822,7 @@ Projects flux energy on objects, immobilizing the target. Runs for roughly a min
 | Target | Object |
 ---
 **AnchorVeil**
-Anchors flux energy as a widening cone within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors flux as a widening cone within 10 feet targeting objects, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4835,7 +4836,7 @@ Anchors flux energy as a widening cone within arm's reach on objects, producing 
 | Target | Object |
 ---
 **ShatterKey**
-Projects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Projects raw flux across a flat plane within 10 feet at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4849,7 +4850,7 @@ Projects flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **LoneSilence**
-Reshapes kinetic force at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4863,7 +4864,7 @@ Reshapes kinetic force at point of contact on objects, producing its effect. The
 | Target | Object |
 ---
 **VastRoot**
-Channels flux energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Screens flux across a flat plane within 10 feet at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4877,7 +4878,7 @@ Channels flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **KindlChain**
-Reshapes kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4891,7 +4892,7 @@ Reshapes kinetic force at point of contact on objects, producing its effect. Run
 | Target | Object |
 ---
 **HumbleHeart**
-Detects flux energy on objects, immobilizing the target. The affordable flux cost allows frequent casting.
+Detects binding tension across a flat plane targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4905,7 +4906,7 @@ Detects flux energy on objects, immobilizing the target. The affordable flux cos
 | Target | Object |
 ---
 **BrightAura**
-Detects flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Detects flux across a flat plane at point of contact at the marked location, gathers environmental information. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4919,7 +4920,7 @@ Detects flux energy at point of contact at the marked location, producing its ef
 | Target | Where Written |
 ---
 **ChillScar**
-Reshapes radiant energy as a widening cone across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy as a widening cone across surfaces, alters the target's properties. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 49 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4933,7 +4934,7 @@ Reshapes radiant energy as a widening cone across surfaces, producing its effect
 | Target | Surface |
 ---
 **SolidBond**
-Reshapes radiant energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes radiant energy at point of contact targeting objects, alters the target's properties. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4947,7 +4948,7 @@ Reshapes radiant energy at point of contact on objects, producing its effect. Ru
 | Target | Object |
 ---
 **BreakBrand**
-Reshapes kinetic force as a widening cone within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force as a widening cone within 10 feet at the marked location, sends enemies and objects flying backward in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4961,7 +4962,7 @@ Reshapes kinetic force as a widening cone within arm's reach at the marked locat
 | Target | Where Written |
 ---
 **FreezCharm**
-Channels flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Channels flux across a flat plane at point of contact across surfaces, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Move |
@@ -4975,7 +4976,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **BreakEcho**
-Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane at point of contact targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 12 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -4989,7 +4990,7 @@ Channels flux energy at point of contact on objects, producing its effect. Runs 
 | Target | Object |
 ---
 **BurnShadow**
-Reshapes flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Reshapes flux across a flat plane at the marked location, alters the target's properties. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5003,7 +5004,7 @@ Reshapes flux energy at the marked location, producing its effect. Persists for 
 | Target | Where Written |
 ---
 **SurgeDance**
-Channels kinetic force at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens kinetic force across a flat plane at the marked location, delivers destructive impact in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 6 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5017,7 +5018,7 @@ Channels kinetic force at the marked location, producing its effect. The minimal
 | Target | Where Written |
 ---
 **ChillWard**
-Channels kinetic force at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5031,7 +5032,7 @@ Channels kinetic force at the marked location, producing its effect. Must be act
 | Target | Where Written |
 ---
 **PiercFrost**
-Projects flux energy within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects raw flux within 10 feet at the marked location, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5045,7 +5046,7 @@ Projects flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **AncientVoice**
-Channels flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at point of contact across surfaces, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5059,7 +5060,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **WeaveWay**
-Channels flux energy within arm's reach across surfaces, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Channels binding tension across a flat plane within 10 feet across surfaces, pins limbs and restricts physical action. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5073,7 +5074,7 @@ Channels flux energy within arm's reach across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **SurSoul**
-Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
+Channels flux at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
 | Wattage | 69 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5087,7 +5088,7 @@ Channels flux energy at point of contact on objects, producing its effect. Persi
 | Target | Object |
 ---
 **DriftRoot**
-Channels radiant energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 24 W |
 | Shape | Square |
 | Hook | Move |
@@ -5101,7 +5102,7 @@ Channels radiant energy at the marked location, producing its effect. The minima
 | Target | Where Written |
 ---
 **BreakBreath**
-Channels flux energy within arm's reach across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Channels binding tension within 10 feet across surfaces, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5115,7 +5116,7 @@ Channels flux energy within arm's reach across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **PiercVoice**
-Detects flux energy as a widening cone at point of contact across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Detects binding tension as a widening cone at point of contact across surfaces, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 52 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5129,7 +5130,7 @@ Detects flux energy as a widening cone at point of contact across surfaces, immo
 | Target | Surface |
 ---
 **BindKey**
-Detects flux energy on objects, immobilizing the target. The affordable flux cost allows frequent casting.
+Detects binding tension targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5143,7 +5144,7 @@ Detects flux energy on objects, immobilizing the target. The affordable flux cos
 | Target | Object |
 ---
 **BindFrost**
-Reshapes kinetic force as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force as a widening cone within 10 feet across surfaces, sends enemies and objects flying backward in a single instant. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5157,7 +5158,7 @@ Reshapes kinetic force as a widening cone within arm's reach across surfaces, pr
 | Target | Surface |
 ---
 **SweepPulse**
-Channels kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5171,7 +5172,7 @@ Channels kinetic force at point of contact on objects, producing its effect. Run
 | Target | Object |
 ---
 **FallDance**
-Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at point of contact targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5185,7 +5186,7 @@ Channels flux energy at point of contact on objects, producing its effect. Runs 
 | Target | Object |
 ---
 **SurgeStorm**
-Channels radiant energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels radiant energy across a flat plane within 10 feet across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5199,7 +5200,7 @@ Channels radiant energy within arm's reach across surfaces, producing its effect
 | Target | Surface |
 ---
 **AnchorVoid**
-Projects flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane across surfaces, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5213,7 +5214,7 @@ Projects flux energy across surfaces, producing its effect. Runs for roughly a m
 | Target | Surface |
 ---
 **CurvedWisp**
-Channels flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels flux at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5227,7 +5228,7 @@ Channels flux energy at the marked location, producing its effect. Persists for 
 | Target | Where Written |
 ---
 **BindFlame**
-Projects flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5241,7 +5242,7 @@ Projects flux energy at point of contact on objects, producing its effect. Persi
 | Target | Object |
 ---
 **TameCore**
-Channels flux energy as a widening cone at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels flux as a widening cone at point of contact at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Move |
@@ -5255,7 +5256,7 @@ Channels flux energy as a widening cone at point of contact at the marked locati
 | Target | Where Written |
 ---
 **FragileCalm**
-Anchors flux energy at point of contact at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
+Anchors binding tension across a flat plane at point of contact at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5269,7 +5270,7 @@ Anchors flux energy at point of contact at the marked location, immobilizing the
 | Target | Where Written |
 ---
 **PiercSpirit**
-Projects flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects flux across a flat plane targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5283,7 +5284,7 @@ Projects flux energy on objects, producing its effect. Runs for roughly a minute
 | Target | Object |
 ---
 **ShatterBridge**
-Reshapes flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Reshapes binding tension targeting objects, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5297,7 +5298,7 @@ Reshapes flux energy on objects, immobilizing the target. Runs for roughly a min
 | Target | Object |
 ---
 **ShatterCrown**
-Anchors flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Anchors flux at point of contact at the marked location, anchors targets in a fixed state. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -5311,7 +5312,7 @@ Anchors flux energy at point of contact at the marked location, producing its ef
 | Target | Where Written |
 ---
 **HumbleWall**
-Channels flux energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens raw flux across a flat plane at point of contact across surfaces, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5325,7 +5326,7 @@ Channels flux energy at point of contact across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **ShatterCalm**
-Anchors flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane at point of contact across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -5339,7 +5340,7 @@ Anchors flux energy at point of contact across surfaces, producing its effect. R
 | Target | Surface |
 ---
 **LightVoid**
-Detects kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects kinetic force across a flat plane at point of contact targeting objects, delivers destructive impact. Runs for roughly a minute before dissipating. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5353,7 +5354,7 @@ Detects kinetic force at point of contact on objects, producing its effect. Runs
 | Target | Object |
 ---
 **FallShadow**
-Channels flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
+Channels flux across a flat plane at the marked location, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5367,7 +5368,7 @@ Channels flux energy at the marked location, producing its effect. The minimal f
 | Target | Where Written |
 ---
 **GentleWisp**
-Anchors flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Anchors raw flux across a flat plane within 10 feet targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5381,7 +5382,7 @@ Anchors flux energy within arm's reach on objects, producing its effect. Persist
 | Target | Object |
 ---
 **FreezeStorm**
-Anchors flux energy at point of contact across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
+Anchors binding tension at point of contact across surfaces, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5395,7 +5396,7 @@ Anchors flux energy at point of contact across surfaces, immobilizing the target
 | Target | Surface |
 ---
 **SweepFlame**
-Anchors flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane at point of contact across surfaces, anchors targets in a fixed state. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -5409,7 +5410,7 @@ Anchors flux energy at point of contact across surfaces, producing its effect. M
 | Target | Surface |
 ---
 **BreakTouch**
-Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Screens raw flux at point of contact targeting objects, delivering its effect in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 7 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5423,7 +5424,7 @@ Channels flux energy at point of contact on objects, producing its effect. The m
 | Target | Object |
 ---
 **VastHeart**
-Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Channels raw flux across a flat plane at point of contact targeting objects, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 12 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5437,7 +5438,7 @@ Channels flux energy at point of contact on objects, producing its effect. Runs 
 | Target | Object |
 ---
 **HumbleChain**
-Projects flux energy as a widening cone on objects, immobilizing the target. The affordable flux cost allows frequent casting.
+Projects binding tension as a widening cone targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5451,7 +5452,7 @@ Projects flux energy as a widening cone on objects, immobilizing the target. The
 | Target | Object |
 ---
 **FallCurse**
-Anchors flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors raw flux across a flat plane across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5465,7 +5466,7 @@ Anchors flux energy across surfaces, producing its effect. Runs for roughly a mi
 | Target | Surface |
 ---
 **TwinRoot**
-Detects flux energy as a widening cone within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Detects flux as a widening cone within 10 feet at the marked location, gathers environmental information. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5479,7 +5480,7 @@ Detects flux energy as a widening cone within arm's reach at the marked location
 | Target | Where Written |
 ---
 **WeavSigil**
-Reshapes kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Reshapes kinetic force across a flat plane at point of contact at the marked location, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5493,7 +5494,7 @@ Reshapes kinetic force at point of contact at the marked location, producing its
 | Target | Where Written |
 ---
 **FreezEye**
-Anchors flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
+Anchors flux across a flat plane within 10 feet targeting objects, anchors targets in a fixed state in a single instant. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5507,7 +5508,7 @@ Anchors flux energy within arm's reach on objects, producing its effect. The min
 | Target | Object |
 ---
 **RiseScar**
-Channels kinetic force at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels kinetic force across a flat plane at point of contact across surfaces, delivers destructive impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5521,7 +5522,7 @@ Channels kinetic force at point of contact across surfaces, producing its effect
 | Target | Surface |
 ---
 **DriftPulse**
-Channels flux energy as a widening cone at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Channels raw flux as a widening cone at point of contact at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5535,7 +5536,7 @@ Channels flux energy as a widening cone at point of contact at the marked locati
 | Target | Where Written |
 ---
 **ChillBrand**
-Channels flux energy as a widening cone on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
+Screens flux as a widening cone targeting objects, delivering its effect. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Affordable enough for routine use without draining reserves.
 | Wattage | 62 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5549,7 +5550,7 @@ Channels flux energy as a widening cone on objects, producing its effect. Must b
 | Target | Object |
 ---
 **BindPulse**
-Projects radiant energy at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Projects radiant energy at the marked location, delivering its effect. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5563,7 +5564,7 @@ Projects radiant energy at the marked location, producing its effect. Runs for r
 | Target | Where Written |
 ---
 **DeepPath**
-Projects flux energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
+Projects raw flux within 10 feet at the marked location, delivering its effect. Persists for several minutes without further attention. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5577,7 +5578,7 @@ Projects flux energy within arm's reach at the marked location, producing its ef
 | Target | Where Written |
 ---
 **AnchorFlame**
-Anchors radiant energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
+Anchors radiant energy across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating. The minimal flux cost makes it practical for extended or repeated use.
 | Wattage | 34 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5591,7 +5592,7 @@ Anchors radiant energy across surfaces, producing its effect. Runs for roughly a
 | Target | Surface |
 ---
 **DriftingVoid**
-Projects kinetic force across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
+Projects kinetic force across a flat plane across surfaces, delivers destructive impact. Must be actively sustained, but the flux drain is minimal, making it practical for extended use. Suitable for close-quarters combat or breaching barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Emit |

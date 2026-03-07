@@ -16,9 +16,10 @@ Screens soul-signature flux across the inscribed face within fifty feet across o
 | Target | Filter |
 
 
+
 ---
 **AnchorShadow**
-Anchors soul-bound flux as a widening cone at extended range, producing its effect.
+Anchors soul-bound flux as a widening cone at up to 200 feet affecting multiple targets, anchors targets in a fixed state. Persists until the specified condition triggers.
 | Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -32,7 +33,7 @@ Anchors soul-bound flux as a widening cone at extended range, producing its effe
 | Target | Group |
 ---
 **GuardSeal**
-Projects psychic force as a focused beam within arm's reach on objects, producing its effect.
+Projects psychic force as a focused beam within 10 feet targeting objects, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 1407 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -46,7 +47,7 @@ Projects psychic force as a focused beam within arm's reach on objects, producin
 | Target | Object |
 ---
 **SurgeFrost**
-Anchors soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
+Anchors soul-bound flux at up to 200 feet targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 4212 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -60,7 +61,7 @@ Anchors soul-bound flux at extended range on objects, producing its effect. Pers
 | Target | Object |
 ---
 **CalmSigil**
-Disrupts soul-bound flux in a spherical burst at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Disrupts soul-bound flux in a spherical burst at up to 200 feet on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -74,7 +75,7 @@ Disrupts soul-bound flux in a spherical burst at extended range, producing its e
 | Target | Individual |
 ---
 **ChillFrost**
-Channels soul-bound flux within arm's reach across surfaces, producing its effect.
+Screens soul-bound flux across a flat plane within 10 feet across surfaces, delivering its effect.
 | Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -88,7 +89,7 @@ Channels soul-bound flux within arm's reach across surfaces, producing its effec
 | Target | Surface |
 ---
 **SurgeDream**
-Reshapes soul-bound flux as a widening cone at extended range on objects, producing its effect. Runs for roughly a minute before dissipating.
+Reshapes soul-bound flux as a widening cone at up to 200 feet targeting objects, alters the target's properties. Runs for roughly a minute before dissipating.
 | Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -102,7 +103,7 @@ Reshapes soul-bound flux as a widening cone at extended range on objects, produc
 | Target | Object |
 ---
 **LoneFlame**
-Disrupts psychic force within 50 feet, producing its effect. The effect becomes permanent once established.
+Disrupts psychic force across a flat plane within 50 feet affecting multiple targets, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1825 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -116,7 +117,7 @@ Disrupts psychic force within 50 feet, producing its effect. The effect becomes 
 | Target | Group |
 ---
 **BreakScar**
-Channels soul-bound flux in a spherical burst within arm's reach on objects, producing its effect.
+Channels soul-bound flux in a spherical burst within 10 feet targeting objects, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -130,7 +131,7 @@ Channels soul-bound flux in a spherical burst within arm's reach on objects, pro
 | Target | Object |
 ---
 **PiercBreath**
-Channels psychic force as a focused beam within arm's reach, producing its effect.
+Channels psychic force as a focused beam within 10 feet on a single person, delivering its effect.
 | Wattage | 1433 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -144,7 +145,7 @@ Channels psychic force as a focused beam within arm's reach, producing its effec
 | Target | Individual |
 ---
 **PierceBrand**
-Channels soul-bound flux within 50 feet, producing its effect. The effect becomes permanent once established.
+Channels soul-bound flux within 50 feet, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -158,7 +159,7 @@ Channels soul-bound flux within 50 feet, producing its effect. The effect become
 | Target | Filter |
 ---
 **WildGate**
-Channels psychic force within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
+Screens psychic force across a flat plane within 50 feet across surfaces, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1795 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -172,7 +173,7 @@ Channels psychic force within 50 feet across surfaces, producing its effect. The
 | Target | Surface |
 ---
 **FlowThought**
-Channels soul-bound flux as a focused beam at extended range on objects, producing its effect. The effect becomes permanent once established.
+Channels soul-bound flux as a focused beam at up to 200 feet targeting objects, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1947 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -186,7 +187,7 @@ Channels soul-bound flux as a focused beam at extended range on objects, produci
 | Target | Object |
 ---
 **LoudVoid**
-Channels soul-bound flux within arm's reach, producing its effect.
+Channels soul-bound flux across a flat plane within 10 feet, delivering its effect.
 | Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -200,7 +201,7 @@ Channels soul-bound flux within arm's reach, producing its effect.
 | Target | Filter |
 ---
 **AnchorPulse**
-Reshapes soul-bound flux as a focused beam within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
+Reshapes soul-bound flux as a focused beam within 10 feet, alters the target's properties. Runs for roughly a minute before dissipating.
 | Wattage | 4200 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -214,7 +215,7 @@ Reshapes soul-bound flux as a focused beam within arm's reach, producing its eff
 | Target | Filter |
 ---
 **DissolvPath**
-Anchors soul-bound flux within arm's reach, producing its effect. Persists for several minutes without further attention.
+Anchors soul-bound flux within 10 feet affecting multiple targets, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -228,7 +229,7 @@ Anchors soul-bound flux within arm's reach, producing its effect. Persists for s
 | Target | Group |
 ---
 **ShatterBrand**
-Anchors psychic force within 50 feet across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Anchors psychic force in a circular perimeter within 50 feet across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating.
 | Wattage | 1415 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -242,7 +243,7 @@ Anchors psychic force within 50 feet across surfaces, producing its effect. Runs
 | Target | Surface |
 ---
 **LightGlyph**
-Channels psychic force in a spherical burst within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating.
+Channels psychic force in a spherical burst within 10 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1417 W |
 | Shape | Circle |
 | Hook | Move |
@@ -256,7 +257,7 @@ Channels psychic force in a spherical burst within arm's reach on objects, produ
 | Target | Object |
 ---
 **AnchorFlame**
-Channels soul-bound flux as a widening cone within arm's reach, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Screens soul-bound flux as a widening cone within 10 feet on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 4158 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -270,7 +271,7 @@ Channels soul-bound flux as a widening cone within arm's reach, producing its ef
 | Target | Individual |
 ---
 **SurgeMark**
-Reshapes soul-bound flux as a widening cone at extended range, producing its effect. Runs for roughly a minute before dissipating.
+Reshapes soul-bound flux as a widening cone at up to 200 feet on a single person, alters the target's properties. Runs for roughly a minute before dissipating.
 | Wattage | 1563 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -284,7 +285,7 @@ Reshapes soul-bound flux as a widening cone at extended range, producing its eff
 | Target | Individual |
 ---
 **TransformPulse**
-Detects soul-bound flux as a widening cone at extended range across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Detects soul-bound flux as a widening cone at up to 200 feet across surfaces, gathers environmental information. Must be actively sustained.
 | Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -298,7 +299,7 @@ Detects soul-bound flux as a widening cone at extended range across surfaces, pr
 | Target | Surface |
 ---
 **CaptureLight**
-Disrupts soul-bound flux within arm's reach, producing its effect. Persists for several minutes without further attention.
+Disrupts soul-bound flux across a flat plane within 10 feet affecting multiple targets, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -312,7 +313,7 @@ Disrupts soul-bound flux within arm's reach, producing its effect. Persists for 
 | Target | Group |
 ---
 **CurvedKey**
-Disrupts psychic force as a widening cone at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Disrupts psychic force as a widening cone at up to 200 feet, delivering its effect. Must be actively sustained.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -326,7 +327,7 @@ Disrupts psychic force as a widening cone at extended range, producing its effec
 | Target | Filter |
 ---
 **FreezeFlame**
-Projects soul-bound flux as a focused beam within 50 feet, producing its effect.
+Projects soul-bound flux as a focused beam within 50 feet affecting multiple targets, delivering its effect.
 | Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -340,7 +341,7 @@ Projects soul-bound flux as a focused beam within 50 feet, producing its effect.
 | Target | Group |
 ---
 **TransformDance**
-Detects soul-bound flux in a spherical burst at extended range, producing its effect.
+Detects soul-bound flux in a spherical burst at up to 200 feet affecting multiple targets, gathers environmental information.
 | Wattage | 4270 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -354,7 +355,7 @@ Detects soul-bound flux in a spherical burst at extended range, producing its ef
 | Target | Group |
 ---
 **SurSeal**
-Disrupts psychic force as a focused beam at extended range, producing its effect.
+Disrupts psychic force as a focused beam at up to 200 feet affecting multiple targets, delivering its effect.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -368,7 +369,7 @@ Disrupts psychic force as a focused beam at extended range, producing its effect
 | Target | Group |
 ---
 **HeavyRoot**
-Detects psychic force as a focused beam within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating.
+Detects psychic force as a focused beam within 10 feet targeting objects, gathers environmental information. Runs for roughly a minute before dissipating.
 | Wattage | 1392 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -382,7 +383,7 @@ Detects psychic force as a focused beam within arm's reach on objects, producing
 | Target | Object |
 ---
 **DriftBridge**
-Channels psychic force at extended range, producing its effect. Persists for several minutes without further attention.
+Channels psychic force at up to 200 feet affecting multiple targets, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Move |
@@ -396,7 +397,7 @@ Channels psychic force at extended range, producing its effect. Persists for sev
 | Target | Group |
 ---
 **PierceShadow**
-Anchors soul-bound flux within arm's reach on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Anchors soul-bound flux in a circular perimeter within 10 feet targeting objects, anchors targets in a fixed state. Must be actively sustained.
 | Wattage | 1532 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -410,7 +411,7 @@ Anchors soul-bound flux within arm's reach on objects, producing its effect. Mus
 | Target | Object |
 ---
 **ReleasMark**
-Channels soul-bound flux as a widening cone within 50 feet, producing its effect. Persists for several minutes without further attention.
+Channels soul-bound flux as a widening cone within 50 feet on a single person, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 4183 W |
 | Shape | Circle |
 | Hook | Move |
@@ -424,7 +425,7 @@ Channels soul-bound flux as a widening cone within 50 feet, producing its effect
 | Target | Individual |
 ---
 **AncientFrost**
-Anchors psychic force as a focused beam within arm's reach, producing its effect. Persists for several minutes without further attention.
+Anchors psychic force as a focused beam within 10 feet on a single person, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1418 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -438,7 +439,7 @@ Anchors psychic force as a focused beam within arm's reach, producing its effect
 | Target | Individual |
 ---
 **FreezeDance**
-Channels soul-bound flux in a spherical burst within arm's reach, producing its effect. The effect becomes permanent once established.
+Channels soul-bound flux in a spherical burst within 10 feet, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -452,7 +453,7 @@ Channels soul-bound flux in a spherical burst within arm's reach, producing its 
 | Target | Filter |
 ---
 **CalmScar**
-Channels soul-bound flux in a spherical burst within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
+Channels soul-bound flux in a spherical burst within 50 feet across surfaces, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -466,7 +467,7 @@ Channels soul-bound flux in a spherical burst within 50 feet across surfaces, pr
 | Target | Surface |
 ---
 **HiddenLock**
-Channels psychic force in a spherical burst within arm's reach, producing its effect.
+Channels psychic force in a spherical burst within 10 feet affecting multiple targets, delivering its effect.
 | Wattage | 1485 W |
 | Shape | Circle |
 | Hook | Control |
@@ -480,7 +481,7 @@ Channels psychic force in a spherical burst within arm's reach, producing its ef
 | Target | Group |
 ---
 **PierceBreath**
-Disrupts soul-bound flux at extended range, producing its effect. The effect becomes permanent once established.
+Disrupts soul-bound flux across a flat plane at up to 200 feet on a single person, delivering its effect. The effect becomes permanent once established.
 | Wattage | 4573 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -494,7 +495,7 @@ Disrupts soul-bound flux at extended range, producing its effect. The effect bec
 | Target | Individual |
 ---
 **SweepFlame**
-Channels psychic force within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Channels psychic force within 10 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Control |
@@ -508,7 +509,7 @@ Channels psychic force within arm's reach across surfaces, producing its effect.
 | Target | Surface |
 ---
 **BurWisp**
-Channels soul-bound flux within arm's reach on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels soul-bound flux across a flat plane within 10 feet targeting objects, delivering its effect. Must be actively sustained.
 | Wattage | 4142 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -522,7 +523,7 @@ Channels soul-bound flux within arm's reach on objects, producing its effect. Mu
 | Target | Object |
 ---
 **AncientSilence**
-Anchors psychic force within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
+Anchors psychic force in a circular perimeter within 10 feet across surfaces, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -536,7 +537,7 @@ Anchors psychic force within arm's reach across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **SteadyGate**
-Disrupts soul-bound flux as a widening cone within 50 feet across surfaces, producing its effect.
+Disrupts soul-bound flux as a widening cone within 50 feet across surfaces, delivering its effect.
 | Wattage | 1570 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -550,7 +551,7 @@ Disrupts soul-bound flux as a widening cone within 50 feet across surfaces, prod
 | Target | Surface |
 ---
 **BindSight**
-Reshapes soul-bound flux in a spherical burst within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Reshapes soul-bound flux in a spherical burst within 50 feet affecting multiple targets, alters the target's properties. Must be actively sustained.
 | Wattage | 4215 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -564,7 +565,7 @@ Reshapes soul-bound flux in a spherical burst within 50 feet, producing its effe
 | Target | Group |
 ---
 **PureMirror**
-Anchors soul-bound flux as a focused beam within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Anchors soul-bound flux as a focused beam within 10 feet across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating.
 | Wattage | 4145 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -578,7 +579,7 @@ Anchors soul-bound flux as a focused beam within arm's reach across surfaces, pr
 | Target | Surface |
 ---
 **FreezeLight**
-Anchors soul-bound flux as a focused beam within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Anchors soul-bound flux as a focused beam within 50 feet on a single person, anchors targets in a fixed state. Must be actively sustained.
 | Wattage | 1538 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -592,7 +593,7 @@ Anchors soul-bound flux as a focused beam within 50 feet, producing its effect. 
 | Target | Individual |
 ---
 **DullLock**
-Channels soul-bound flux as a focused beam within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
+Channels soul-bound flux as a focused beam within 10 feet on a single person, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4148 W |
 | Shape | Circle |
 | Hook | Move |
@@ -606,7 +607,7 @@ Channels soul-bound flux as a focused beam within arm's reach, producing its eff
 | Target | Individual |
 ---
 **ShatterBlessing**
-Channels soul-bound flux at extended range, producing its effect. Runs for roughly a minute before dissipating.
+Channels soul-bound flux across a flat plane at up to 200 feet on a single person, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1553 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -620,7 +621,7 @@ Channels soul-bound flux at extended range, producing its effect. Runs for rough
 | Target | Individual |
 ---
 **SweepDoor**
-Projects psychic force in a spherical burst at extended range on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Projects psychic force in a spherical burst at up to 200 feet targeting objects, delivering its effect. Must be actively sustained.
 | Wattage | 1457 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -634,7 +635,7 @@ Projects psychic force in a spherical burst at extended range on objects, produc
 | Target | Object |
 ---
 **ShatterEcho**
-Detects soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
+Detects soul-bound flux in a circular perimeter at up to 200 feet targeting objects, gathers environmental information. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -648,7 +649,7 @@ Detects soul-bound flux at extended range on objects, producing its effect. Pers
 | Target | Object |
 ---
 **SweepMark**
-Disrupts soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
+Disrupts soul-bound flux in a circular perimeter at up to 200 feet targeting objects, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -662,7 +663,7 @@ Disrupts soul-bound flux at extended range on objects, producing its effect. Per
 | Target | Object |
 ---
 **ColdBreath**
-Channels soul-bound flux at extended range, producing its effect.
+Channels soul-bound flux at up to 200 feet, delivering its effect.
 | Wattage | 1660 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -676,7 +677,7 @@ Channels soul-bound flux at extended range, producing its effect.
 | Target | Filter |
 ---
 **PiercMirror**
-Anchors psychic force within 50 feet on objects, producing its effect. The effect becomes permanent once established.
+Anchors psychic force across a flat plane within 50 feet targeting objects, anchors targets in a fixed state. The effect becomes permanent once established.
 | Wattage | 1792 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -690,7 +691,7 @@ Anchors psychic force within 50 feet on objects, producing its effect. The effec
 | Target | Object |
 ---
 **FallStrike**
-Detects soul-bound flux as a focused beam at extended range across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Detects soul-bound flux as a focused beam at up to 200 feet across surfaces, gathers environmental information. Must be actively sustained.
 | Wattage | 1560 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -704,7 +705,7 @@ Detects soul-bound flux as a focused beam at extended range across surfaces, pro
 | Target | Surface |
 ---
 **StrongSigil**
-Reshapes psychic force as a focused beam within arm's reach across surfaces, producing its effect. The effect becomes permanent once established.
+Reshapes psychic force as a focused beam within 10 feet across surfaces, alters the target's properties. The effect becomes permanent once established.
 | Wattage | 1790 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -718,7 +719,7 @@ Reshapes psychic force as a focused beam within arm's reach across surfaces, pro
 | Target | Surface |
 ---
 **LightVeil**
-Disrupts psychic force within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Disrupts psychic force across a flat plane within 50 feet, delivering its effect. Must be actively sustained.
 | Wattage | 1460 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -732,7 +733,7 @@ Disrupts psychic force within 50 feet, producing its effect. Must be actively ma
 | Target | Filter |
 ---
 **TwistDream**
-Channels psychic force within 50 feet, producing its effect. The effect becomes permanent once established.
+Screens psychic force across a flat plane within 50 feet, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1850 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -746,7 +747,7 @@ Channels psychic force within 50 feet, producing its effect. The effect becomes 
 | Target | Filter |
 ---
 **DissolvFrost**
-Channels psychic force in a spherical burst within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Screens psychic force in a spherical burst within 50 feet on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 1438 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -760,7 +761,7 @@ Channels psychic force in a spherical burst within 50 feet, producing its effect
 | Target | Individual |
 ---
 **WeakVeil**
-Detects soul-bound flux in a spherical burst within 50 feet on objects, producing its effect.
+Detects soul-bound flux in a spherical burst within 50 feet targeting objects, gathers environmental information.
 | Wattage | 1587 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -774,7 +775,7 @@ Detects soul-bound flux in a spherical burst within 50 feet on objects, producin
 | Target | Object |
 ---
 **BurnRoad**
-Channels psychic force at extended range across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Channels psychic force across a flat plane at up to 200 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -788,7 +789,7 @@ Channels psychic force at extended range across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **TransformRing**
-Channels soul-bound flux within arm's reach, producing its effect. The effect becomes permanent once established.
+Screens soul-bound flux within 10 feet on a single person, delivering its effect. The effect becomes permanent once established.
 | Wattage | 4558 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -802,7 +803,7 @@ Channels soul-bound flux within arm's reach, producing its effect. The effect be
 | Target | Individual |
 ---
 **FallThought**
-Detects soul-bound flux as a widening cone at extended range on objects, producing its effect. Persists for several minutes without further attention.
+Detects soul-bound flux as a widening cone at up to 200 feet targeting objects, gathers environmental information. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1577 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -816,7 +817,7 @@ Detects soul-bound flux as a widening cone at extended range on objects, produci
 | Target | Object |
 ---
 **StillVoid**
-Projects soul-bound flux in a spherical burst at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Projects soul-bound flux in a spherical burst at up to 200 feet on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -830,7 +831,7 @@ Projects soul-bound flux in a spherical burst at extended range, producing its e
 | Target | Individual |
 ---
 **ChillRoad**
-Anchors psychic force within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Anchors psychic force within 10 feet across surfaces, anchors targets in a fixed state. Runs for roughly a minute before dissipating.
 | Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -844,7 +845,7 @@ Anchors psychic force within arm's reach across surfaces, producing its effect. 
 | Target | Surface |
 ---
 **StillBreath**
-Projects soul-bound flux as a focused beam at extended range, producing its effect.
+Projects soul-bound flux as a focused beam at up to 200 feet affecting multiple targets, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -858,7 +859,7 @@ Projects soul-bound flux as a focused beam at extended range, producing its effe
 | Target | Group |
 ---
 **BreakFlame**
-Channels psychic force as a focused beam at extended range, producing its effect. Persists for several minutes without further attention.
+Screens psychic force as a focused beam at up to 200 feet on a single person, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1453 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -872,7 +873,7 @@ Channels psychic force as a focused beam at extended range, producing its effect
 | Target | Individual |
 ---
 **DissolvGlyph**
-Disrupts soul-bound flux as a focused beam within arm's reach, producing its effect.
+Disrupts soul-bound flux as a focused beam within 10 feet, delivering its effect.
 | Wattage | 4235 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -886,7 +887,7 @@ Disrupts soul-bound flux as a focused beam within arm's reach, producing its eff
 | Target | Filter |
 ---
 **VastGlyph**
-Channels soul-bound flux as a focused beam within 50 feet, producing its effect.
+Channels soul-bound flux as a focused beam within 50 feet, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Control |
@@ -900,7 +901,7 @@ Channels soul-bound flux as a focused beam within 50 feet, producing its effect.
 | Target | Filter |
 ---
 **DarkBond**
-Reshapes soul-bound flux as a widening cone within 50 feet on objects, producing its effect.
+Reshapes soul-bound flux as a widening cone within 50 feet targeting objects, alters the target's properties.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -914,7 +915,7 @@ Reshapes soul-bound flux as a widening cone within 50 feet on objects, producing
 | Target | Object |
 ---
 **WildSpirit**
-Channels soul-bound flux as a focused beam within 50 feet, producing its effect.
+Channels soul-bound flux as a focused beam within 50 feet affecting multiple targets, delivering its effect.
 | Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -928,7 +929,7 @@ Channels soul-bound flux as a focused beam within 50 feet, producing its effect.
 | Target | Group |
 ---
 **BreakWay**
-Channels soul-bound flux as a focused beam within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
+Screens soul-bound flux as a focused beam within 10 feet affecting multiple targets, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1550 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -942,7 +943,7 @@ Channels soul-bound flux as a focused beam within arm's reach, producing its eff
 | Target | Group |
 ---
 **TwistTouch**
-Channels soul-bound flux within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels soul-bound flux across a flat plane within 50 feet, delivering its effect. Must be actively sustained.
 | Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -956,7 +957,7 @@ Channels soul-bound flux within 50 feet, producing its effect. Must be actively 
 | Target | Filter |
 ---
 **WhirlingSigil**
-Disrupts soul-bound flux within 50 feet, producing its effect. The effect becomes permanent once established.
+Disrupts soul-bound flux across a flat plane within 50 feet affecting multiple targets, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -970,7 +971,7 @@ Disrupts soul-bound flux within 50 feet, producing its effect. The effect become
 | Target | Group |
 ---
 **AncientGlyph**
-Anchors soul-bound flux as a widening cone at extended range, producing its effect.
+Anchors soul-bound flux as a widening cone at up to 200 feet on a single person, anchors targets in a fixed state.
 | Wattage | 1598 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -984,7 +985,7 @@ Anchors soul-bound flux as a widening cone at extended range, producing its effe
 | Target | Individual |
 ---
 **StillSpirit**
-Channels soul-bound flux as a focused beam at extended range across surfaces, producing its effect.
+Screens soul-bound flux as a focused beam at up to 200 feet across surfaces, delivering its effect.
 | Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -998,7 +999,7 @@ Channels soul-bound flux as a focused beam at extended range across surfaces, pr
 | Target | Surface |
 ---
 **BindMark**
-Channels soul-bound flux within arm's reach across surfaces, producing its effect.
+Channels soul-bound flux across a flat plane within 10 feet across surfaces, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 4155 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1012,7 +1013,7 @@ Channels soul-bound flux within arm's reach across surfaces, producing its effec
 | Target | Surface |
 ---
 **ColdVoid**
-Detects soul-bound flux within arm's reach, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Detects soul-bound flux across a flat plane within 10 feet affecting multiple targets, gathers environmental information. Must be actively sustained.
 | Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1026,7 +1027,7 @@ Detects soul-bound flux within arm's reach, producing its effect. Must be active
 | Target | Group |
 ---
 **SweepCore**
-Anchors psychic force as a widening cone within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
+Anchors psychic force as a widening cone within 10 feet affecting multiple targets, anchors targets in a fixed state. Runs for roughly a minute before dissipating.
 | Wattage | 1430 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -1040,7 +1041,7 @@ Anchors psychic force as a widening cone within arm's reach, producing its effec
 | Target | Group |
 ---
 **ShatterBreath**
-Detects soul-bound flux in a spherical burst within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
+Detects soul-bound flux in a spherical burst within 50 feet across surfaces, gathers environmental information. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1054,7 +1055,7 @@ Detects soul-bound flux in a spherical burst within 50 feet across surfaces, pro
 | Target | Surface |
 ---
 **DriftLock**
-Reshapes soul-bound flux at extended range, producing its effect. Persists for several minutes without further attention.
+Reshapes soul-bound flux in a circular perimeter at up to 200 feet on a single person, alters the target's properties. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1588 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1068,7 +1069,7 @@ Reshapes soul-bound flux at extended range, producing its effect. Persists for s
 | Target | Individual |
 ---
 **ColdSoul**
-Channels psychic force as a widening cone at extended range across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Channels psychic force as a widening cone at up to 200 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1435 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1082,7 +1083,7 @@ Channels psychic force as a widening cone at extended range across surfaces, pro
 | Target | Surface |
 ---
 **BindWard**
-Channels psychic force at extended range on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels psychic force in a circular perimeter at up to 200 feet targeting objects, delivering its effect. Must be actively sustained.
 | Wattage | 1442 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -1096,7 +1097,7 @@ Channels psychic force at extended range on objects, producing its effect. Must 
 | Target | Object |
 ---
 **FreezeTide**
-Channels soul-bound flux at extended range on objects, producing its effect.
+Screens soul-bound flux at up to 200 feet targeting objects, delivering its effect.
 | Wattage | 1602 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1110,7 +1111,7 @@ Channels soul-bound flux at extended range on objects, producing its effect.
 | Target | Object |
 ---
 **SlowCrown**
-Channels soul-bound flux at extended range on objects, producing its effect. The effect becomes permanent once established.
+Channels soul-bound flux in a circular perimeter at up to 200 feet targeting objects, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1957 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1124,7 +1125,7 @@ Channels soul-bound flux at extended range on objects, producing its effect. The
 | Target | Object |
 ---
 **PierceFrost**
-Channels psychic force within arm's reach, producing its effect.
+Screens psychic force in a circular perimeter within 10 feet on a single person, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 1423 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1138,7 +1139,7 @@ Channels psychic force within arm's reach, producing its effect.
 | Target | Individual |
 ---
 **DissolvCurse**
-Channels soul-bound flux within 50 feet on objects, producing its effect. The effect becomes permanent once established.
+Screens soul-bound flux in a circular perimeter within 50 feet targeting objects, delivering its effect. The effect becomes permanent once established.
 | Wattage | 4557 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1152,7 +1153,7 @@ Channels soul-bound flux within 50 feet on objects, producing its effect. The ef
 | Target | Object |
 ---
 **LoudBond**
-Disrupts soul-bound flux within 50 feet across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Disrupts soul-bound flux in a circular perimeter within 50 feet across surfaces, delivering its effect. Must be actively sustained.
 | Wattage | 1545 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1166,7 +1167,7 @@ Disrupts soul-bound flux within 50 feet across surfaces, producing its effect. M
 | Target | Surface |
 ---
 **GuardRoot**
-Detects psychic force at extended range across surfaces, producing its effect.
+Detects psychic force in a circular perimeter at up to 200 feet across surfaces, gathers environmental information.
 | Wattage | 1475 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1180,7 +1181,7 @@ Detects psychic force at extended range across surfaces, producing its effect.
 | Target | Surface |
 ---
 **WeavHand**
-Projects psychic force as a focused beam within arm's reach, producing its effect.
+Projects psychic force as a focused beam within 10 feet on a single person, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 1413 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -1194,7 +1195,7 @@ Projects psychic force as a focused beam within arm's reach, producing its effec
 | Target | Individual |
 ---
 **SolidStorm**
-Channels soul-bound flux at extended range on objects, producing its effect. Runs for roughly a minute before dissipating.
+Screens soul-bound flux at up to 200 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1208,7 +1209,7 @@ Channels soul-bound flux at extended range on objects, producing its effect. Run
 | Target | Object |
 ---
 **ShallowHalo**
-Channels soul-bound flux in a spherical burst at extended range, producing its effect. Runs for roughly a minute before dissipating.
+Channels soul-bound flux in a spherical burst at up to 200 feet on a single person, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4208 W |
 | Shape | Circle |
 | Hook | Move |
@@ -1222,7 +1223,7 @@ Channels soul-bound flux in a spherical burst at extended range, producing its e
 | Target | Individual |
 ---
 **TwinFrost**
-Anchors soul-bound flux as a widening cone at extended range, producing its effect.
+Anchors soul-bound flux as a widening cone at up to 200 feet, anchors targets in a fixed state.
 | Wattage | 4275 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -1236,7 +1237,7 @@ Anchors soul-bound flux as a widening cone at extended range, producing its effe
 | Target | Filter |
 ---
 **ClearCurse**
-Channels psychic force as a widening cone at extended range on objects, producing its effect.
+Screens psychic force as a widening cone at up to 200 feet targeting objects, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 1447 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1250,7 +1251,7 @@ Channels psychic force as a widening cone at extended range on objects, producin
 | Target | Object |
 ---
 **BindFlame**
-Disrupts psychic force as a focused beam within 50 feet, producing its effect.
+Disrupts psychic force as a focused beam within 50 feet affecting multiple targets, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 1450 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1264,7 +1265,7 @@ Disrupts psychic force as a focused beam within 50 feet, producing its effect.
 | Target | Group |
 ---
 **AnchoredGate**
-Detects soul-bound flux in a spherical burst at extended range across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Detects soul-bound flux in a spherical burst at up to 200 feet across surfaces, gathers environmental information. Runs for roughly a minute before dissipating.
 | Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1278,7 +1279,7 @@ Detects soul-bound flux in a spherical burst at extended range across surfaces, 
 | Target | Surface |
 ---
 **TwistNet**
-Channels soul-bound flux at extended range across surfaces, producing its effect. Persists for several minutes without further attention.
+Channels soul-bound flux at up to 200 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1292,7 +1293,7 @@ Channels soul-bound flux at extended range across surfaces, producing its effect
 | Target | Surface |
 ---
 **AnchorCalm**
-Channels psychic force as a focused beam within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Channels psychic force as a focused beam within 10 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1395 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1306,7 +1307,7 @@ Channels psychic force as a focused beam within arm's reach across surfaces, pro
 | Target | Surface |
 ---
 **SweepPulse**
-Anchors soul-bound flux within 50 feet, producing its effect. Runs for roughly a minute before dissipating.
+Anchors soul-bound flux across a flat plane within 50 feet affecting multiple targets, anchors targets in a fixed state. Runs for roughly a minute before dissipating.
 | Wattage | 1555 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1320,7 +1321,7 @@ Anchors soul-bound flux within 50 feet, producing its effect. Runs for roughly a
 | Target | Group |
 ---
 **CaptureCurse**
-Channels soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
+Screens soul-bound flux across a flat plane at up to 200 feet targeting objects, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1334,7 +1335,7 @@ Channels soul-bound flux at extended range on objects, producing its effect. Per
 | Target | Object |
 ---
 **AnchorSeal**
-Detects soul-bound flux as a widening cone within 50 feet, producing its effect.
+Detects soul-bound flux as a widening cone within 50 feet affecting multiple targets, gathers environmental information. Persists until the specified condition triggers.
 | Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1348,7 +1349,7 @@ Detects soul-bound flux as a widening cone within 50 feet, producing its effect.
 | Target | Group |
 ---
 **FreezChain**
-Disrupts soul-bound flux within 50 feet across surfaces, producing its effect. Runs for roughly a minute before dissipating.
+Disrupts soul-bound flux within 50 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1362,7 +1363,7 @@ Disrupts soul-bound flux within 50 feet across surfaces, producing its effect. R
 | Target | Surface |
 ---
 **FallCurse**
-Channels psychic force as a widening cone at extended range on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels psychic force as a widening cone at up to 200 feet targeting objects, delivering its effect. Must be actively sustained.
 | Wattage | 1437 W |
 | Shape | Circle |
 | Hook | Move |
@@ -1376,7 +1377,7 @@ Channels psychic force as a widening cone at extended range on objects, producin
 | Target | Object |
 ---
 **GentleKnot**
-Channels soul-bound flux in a spherical burst within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
+Channels soul-bound flux in a spherical burst within 50 feet across surfaces, delivering its effect. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -1390,7 +1391,7 @@ Channels soul-bound flux in a spherical burst within 50 feet across surfaces, pr
 | Target | Surface |
 ---
 **SweepPath**
-Channels soul-bound flux as a widening cone within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
+Channels soul-bound flux as a widening cone within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
 | Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Ward |

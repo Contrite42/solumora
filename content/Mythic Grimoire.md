@@ -16,9 +16,10 @@ Projects soul-signature flux as a wrapped radius around the mark anywhere in lin
 | Target | Group |
 
 
+
 ---
 **PaleNet**
-Channels psychic force, producing its effect. The effect becomes permanent once established.
+Channels psychic force as a contained field affecting multiple targets, delivering its effect. The effect becomes permanent once established.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -32,7 +33,7 @@ Channels psychic force, producing its effect. The effect becomes permanent once 
 | Target | Group |
 ---
 **ColdPath**
-Disrupts soul-bound flux in a spherical burst, producing its effect.
+Disrupts soul-bound flux in a spherical burst anywhere within line of sight on a single person, delivering its effect.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -46,7 +47,7 @@ Disrupts soul-bound flux in a spherical burst, producing its effect.
 | Target | Individual |
 ---
 **AncientPath**
-Channels soul-bound flux, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels soul-bound flux as a contained field anywhere within line of sight affecting multiple targets, delivering its effect. Must be actively sustained.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Control |
@@ -60,7 +61,7 @@ Channels soul-bound flux, producing its effect. Must be actively maintained, but
 | Target | Group |
 ---
 **GentleTouch**
-Disrupts psychic force in a spherical burst, producing its effect.
+Disrupts psychic force in a spherical burst anywhere within line of sight, delivering its effect.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -74,7 +75,7 @@ Disrupts psychic force in a spherical burst, producing its effect.
 | Target | Filter |
 ---
 **PiercTouch**
-Reshapes psychic force in a spherical burst, producing its effect.
+Reshapes psychic force in a spherical burst on a single person, alters the target's properties. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -88,7 +89,7 @@ Reshapes psychic force in a spherical burst, producing its effect.
 | Target | Individual |
 ---
 **FallMirror**
-Reshapes psychic force, producing its effect.
+Reshapes psychic force as a contained field anywhere within line of sight on a single person, alters the target's properties. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -102,7 +103,7 @@ Reshapes psychic force, producing its effect.
 | Target | Individual |
 ---
 **SolidPath**
-Channels soul-bound flux in a spherical burst, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels soul-bound flux in a spherical burst on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -116,7 +117,7 @@ Channels soul-bound flux in a spherical burst, producing its effect. Must be act
 | Target | Individual |
 ---
 **FreshHeart**
-Channels soul-bound flux in a spherical burst, producing its effect.
+Channels soul-bound flux in a spherical burst anywhere within line of sight, delivering its effect.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -130,7 +131,7 @@ Channels soul-bound flux in a spherical burst, producing its effect.
 | Target | Filter |
 ---
 **ShatterBrand**
-Projects soul-bound flux in a spherical burst, producing its effect.
+Projects soul-bound flux in a spherical burst on a single person, delivering its effect.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -144,7 +145,7 @@ Projects soul-bound flux in a spherical burst, producing its effect.
 | Target | Individual |
 ---
 **FierceWard**
-Anchors soul-bound flux in a spherical burst, producing its effect.
+Anchors soul-bound flux in a spherical burst anywhere within line of sight on a single person, anchors targets in a fixed state. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -158,7 +159,7 @@ Anchors soul-bound flux in a spherical burst, producing its effect.
 | Target | Individual |
 ---
 **RisCalm**
-Projects soul-bound flux, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Projects soul-bound flux as a contained field affecting multiple targets, delivering its effect. Must be actively sustained.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -172,7 +173,7 @@ Projects soul-bound flux, producing its effect. Must be actively maintained, but
 | Target | Group |
 ---
 **PaleDoor**
-Reshapes soul-bound flux in a spherical burst, producing its effect.
+Reshapes soul-bound flux in a spherical burst anywhere within line of sight affecting multiple targets, alters the target's properties. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -186,7 +187,7 @@ Reshapes soul-bound flux in a spherical burst, producing its effect.
 | Target | Group |
 ---
 **ReleaseBond**
-Detects soul-bound flux, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Detects soul-bound flux as a contained field, gathers environmental information. Must be actively sustained.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -200,7 +201,7 @@ Detects soul-bound flux, producing its effect. Must be actively maintained, but 
 | Target | Filter |
 ---
 **WeaveBlessing**
-Anchors psychic force, producing its effect.
+Anchors psychic force as a contained field on a single person, anchors targets in a fixed state. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -214,7 +215,7 @@ Anchors psychic force, producing its effect.
 | Target | Individual |
 ---
 **ReleasBridge**
-Reshapes psychic force, producing its effect.
+Reshapes psychic force as a contained field, alters the target's properties. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -228,7 +229,7 @@ Reshapes psychic force, producing its effect.
 | Target | Filter |
 ---
 **BurSpirit**
-Channels psychic force in a spherical burst, producing its effect.
+Screens psychic force in a spherical burst affecting multiple targets, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -242,7 +243,7 @@ Channels psychic force in a spherical burst, producing its effect.
 | Target | Group |
 ---
 **StraightHand**
-Projects soul-bound flux in a spherical burst, producing its effect.
+Projects soul-bound flux in a spherical burst anywhere within line of sight on a single person, delivering its effect.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -256,7 +257,7 @@ Projects soul-bound flux in a spherical burst, producing its effect.
 | Target | Individual |
 ---
 **CalmDream**
-Projects soul-bound flux, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Projects soul-bound flux as a contained field, delivering its effect. Must be actively sustained.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -270,7 +271,7 @@ Projects soul-bound flux, producing its effect. Must be actively maintained, but
 | Target | Filter |
 ---
 **AnchorFrost**
-Projects psychic force in a spherical burst, producing its effect.
+Projects psychic force in a spherical burst anywhere within line of sight affecting multiple targets, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -284,7 +285,7 @@ Projects psychic force in a spherical burst, producing its effect.
 | Target | Group |
 ---
 **TransformBreath**
-Disrupts soul-bound flux, producing its effect. The effect becomes permanent once established.
+Disrupts soul-bound flux as a contained field affecting multiple targets, delivering its effect. The effect becomes permanent once established.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -298,7 +299,7 @@ Disrupts soul-bound flux, producing its effect. The effect becomes permanent onc
 | Target | Group |
 ---
 **HardyCore**
-Channels soul-bound flux, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Screens soul-bound flux as a contained field anywhere within line of sight on a single person, delivering its effect. Must be actively sustained.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -312,7 +313,7 @@ Channels soul-bound flux, producing its effect. Must be actively maintained, but
 | Target | Individual |
 ---
 **NakedRoot**
-Channels psychic force, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
+Channels psychic force as a contained field affecting multiple targets, delivering its effect. Must be actively sustained.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -326,7 +327,7 @@ Channels psychic force, producing its effect. Must be actively maintained, but t
 | Target | Group |
 ---
 **RiseMark**
-Channels soul-bound flux, producing its effect.
+Channels soul-bound flux as a contained field affecting multiple targets, delivering its effect.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Move |
@@ -340,7 +341,7 @@ Channels soul-bound flux, producing its effect.
 | Target | Group |
 ---
 **DriftFrost**
-Channels soul-bound flux in a spherical burst, producing its effect.
+Channels soul-bound flux in a spherical burst anywhere within line of sight affecting multiple targets, delivering its effect. Persists until the specified condition triggers.
 | Wattage | 130001 W |
 | Shape | Circle |
 | Hook | Control |
