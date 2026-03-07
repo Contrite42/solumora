@@ -29,6 +29,15 @@ function normalize(input: string): string {
   return input.toLowerCase().replace(/[^a-z0-9]/g, "")
 }
 
+function slugifyCandidate(input: string): string {
+  return input
+    .trim()
+    .toLowerCase()
+    .replace(/['"]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+}
+
 async function fetchLatestIndex(currentSlug: FullSlug): Promise<ContentIndex> {
   const fallback = await fetchData
   const indexPath = `${resolveRelative(currentSlug, "static/contentIndex" as FullSlug)}.json`
@@ -51,9 +60,28 @@ function findEntry(
   titleCandidates: string[],
 ): [string, ContentDetails] | undefined {
   for (const key of keyCandidates) {
-    const entry = index[key]
-    if (entry) {
-      return [key, entry]
+    const variants = new Set<string>([
+      key,
+      key.toLowerCase(),
+      slugifyCandidate(key),
+      key.replace(/\s+/g, "-"),
+      key.replace(/\s+/g, "-").toLowerCase(),
+    ])
+
+    for (const variant of variants) {
+      const entry = index[variant]
+      if (entry) {
+        return [variant, entry]
+      }
+    }
+  }
+
+  if (keyCandidates.length > 0) {
+    const normalizedKeySet = new Set(keyCandidates.map((key) => normalize(key)))
+    for (const [slug, details] of Object.entries(index)) {
+      if (normalizedKeySet.has(normalize(slug))) {
+        return [slug, details]
+      }
     }
   }
 

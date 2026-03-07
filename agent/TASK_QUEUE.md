@@ -4,21 +4,63 @@
 
 Add creator/user-requested work items here first. `agent/TASK.md` should always mirror the next unchecked item from this section when a new cycle starts.
 
-- [ ] **USER-001 — Next Expansion Round Seed**
-      **Source:** `agent/USER_INPUT.md`
-      **Goal:** Convert current user request into executable batch plan.
-      **Required outputs:** task-scoped nav pack in `tmp/nav-<concept>.json`, updated `agent/TASK.md`, and queue status update.
+- [x] **USER-001 — Next Expansion Round Seed**
+      **Source:** Direct user request (2026-03-07)
+      **Goal:** Convert request into an executable, prioritized expansion batch.
+      **Completed outputs:** prioritized USER-002 through USER-007 backlog, active-task handoff in `agent/TASK.md`, and task-scoped nav seed.
+
+- [ ] **USER-002 — Near-War Flashpoint Incident Ladder (Phase 1)**
+      **Source:** World pressure from `[[The Three Near-Wars]]`, `[[Border Trade]]`, `[[Cross-Border Trade]]`
+      **Goal:** Add concrete incidents showing how escalation happens before open war.
+      **Scope:** 4-6 notes (incident registry, port inspection crisis, courier interception case, de-escalation protocol, one responder NPC if needed)
+      **Required outputs:** new content notes + updates to `content/The Three Near-Wars.md` and one border hub page.
+      **Status note:** IN PROGRESS (4 notes + 2 hub updates completed on 2026-03-07)
+
+- [ ] **USER-003 — Civilian Continuity Under Strain (Food, Care, Shelter)**
+      **Source:** Capacity degradation signals across Terravelle/Auralis civic systems
+      **Goal:** Show what ordinary households do when institutions are functional but thinning.
+      **Scope:** 5-7 notes (queue systems, ration substitutions, care triage workflows, temporary housing pressure, local coordinator roles)
+      **Required outputs:** new notes + updates to `content/Clinical Care Systems.md` and `content/Ordinary Life in Terravelle.md`.
+
+- [ ] **USER-004 — Black-Market Grimoire Risk Chain**
+      **Source:** Existing black-market references without full risk pipeline detail
+      **Goal:** Build end-to-end chain from source, transport, laundering, enforcement response, and fallout.
+      **Scope:** 5-6 notes (supply chain nodes, counterfeit verification failures, seizure process, one case study)
+      **Required outputs:** new notes + updates to `content/Black Market Grimoires.md` and `content/Grimoires.md`.
+
+- [ ] **USER-005 — Desert Crossing Insurance and Death Ledger Economy**
+      **Source:** Adventure/crossing risk economy needs operational finance depth
+      **Goal:** Explain who underwrites high-risk expeditions and how death compensation actually works.
+      **Scope:** 4-6 notes (underwriters, claim adjudication, fraud patterns, survivor-benefit contracts)
+      **Required outputs:** new notes + updates to `content/Adventurer Support Network.md` and one economy/banking hub.
+
+- [ ] **USER-006 — Municipal Friction in Greyveil (Scale vs. Governance)**
+      **Source:** New Greyveil expansion pages indicate governance strain without formal city authority
+      **Goal:** Detail recurring civic failures and patchwork fixes at district boundaries.
+      **Scope:** 4-5 notes (waste/water breakdown episodes, district mediation routine, emergency work crews, budget conflict)
+      **Required outputs:** new notes + updates to `content/Greyveil.md` and `content/Greyveil Civic Coordination.md`.
+
+- [ ] **USER-007 — Story Bundle: Five Days Before the Breakpoint**
+      **Source:** Narrative demand for character-level perspective during systemic escalation
+      **Goal:** Produce 3 tightly linked short stories across different social layers (operator, merchant, household).
+      **Scope:** 3 stories in `content/Stories/` anchored to current canon tensions.
+      **Required outputs:** 3 story files + one index-style link update in a relevant hub page.
 
 ---
 
-Permanant Task: The World Always Needs More. There is Always something to add a new adventure to play out in this world, a new friend, a new town, a new spell, a new description. There will always be more.
+**Permanent Tasks:**
 
-Whenever human interaction is needed, pop open a GUI that I can respond in
+- The World Always Needs More. There is always something to add: a new adventure to play out in this world, a new friend, a new town, a new spell, a new description. There will always be more.
+- Whenever human interaction is needed, pop open a GUI that I can respond in.
+- Develop a method of file traversal more AI efficient that all three high level agents can use.
+- Develop efficiencies for the current pipeline leaning towards time and token cost. Do not allow quality to drop in final outputs.
+- **Clean up completed tasks:** When tasks are marked complete, delete their detailed content from `agent/TASK.md` to keep the file focused on current/active work. Completed task summaries belong in task queue status updates, not in the active task file.
+- **Clean up resolved decisions:** When decisions are resolved (APPROVED, REJECTED, or RESOLVED status), delete their detailed content from `agent/DECISIONS.md` to keep the file focused on pending/active decisions. Resolved decision summaries can be archived elsewhere if needed for reference.
+- **Git push after big changes:** After completing significant content expansions, navigation rebuilds, or component updates, commit and push changes to the repository to preserve progress and enable backup/collaboration.
 
-develop a method of file traversal more AI efficient that All three High level Agents can use.
+---
 
-develop efficiencies for the current pipeline leaning towards time, token cost. Do not allow quality to drop in final outputs.
-e## CONCURRENT AGENT OWNERSHIP (ACTIVE)
+## CONCURRENT AGENT OWNERSHIP (ACTIVE)
 
 Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` currently offline).
 
@@ -389,15 +431,17 @@ These tasks expand the world's texture without adding new structural elements. T
       **Constraints:** Nobody in the party is strong enough to dispel it. The soul is genuinely distressed, not just malicious. The bound-soul mechanism should be consistent with existing lore (Flux, Binding discipline, Watts). End is unresolved â€” they leave it screaming. Tone: grounded, not comedic, slightly grim. Format: short fiction, 800â€“1200 words.
       **Output:** `content/Stories/The Screaming Shade.md`
       **Owner:** Copilot Auto
-- [ ] **Goal:** Fix the Solumora interactive map component for lore-accurate geography.
+- [x] **Goal:** Fix the Solumora interactive map component for lore-accurate geography.
       **Constraints:** Map shape must be South America-like (elongated north-south, narrowing at top, wider at bottom). Fix continent boundaries and positioning to match canon descriptions: Terravelle occupying northern uplands/temperate, Auralis in southern basin, equatorial Zakros barrier at middle, Wolfpoint at far northern coast. Update marker positions and visual bands accordingly.
       **Output:** Updated `quartz/components/SolumoraMap.tsx`, revised coastline paths, adjusted latitude/longitude positioning logic, validate with `npx tsc --noEmit` and `npx quartz build -d content`.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE - Continent path redesigned to match canon "wider at middle, narrowing at both ends", all zone bands and markers repositioned, TypeScript validation passed.
 
-- [ ] **Goal:** Create additional adventurer stories across emotional and tonal range.
+- [x] **Goal:** Create additional adventurer stories across emotional and tonal range.
       **Constraints:** Generate 6-8 new short stories (800-1200 words each) spanning mundane to dark: include at least one mundane slice-of-life, one happy/successful expedition, one informative/teaching story, one grim/dark outcome, and 2-3 mixed-tone stories. All must be canon-consistent with existing Solumora world state (Flux, grimoires, geography, factions). Each story should feature different characters/locations and include minimum 3 wikilinks plus See Also block.
       **Output:** 6-8 new files in `content/Stories/` with varied emotional range.
-      **Owner:** `Copilot Auto`---
+      **Owner:** `Copilot Auto`
+      **Status:** COMPLETE - 8 stories created spanning full emotional range: The Routine Inspection (mundane), First Light on the Ridge (happy/successful), The Three Principles (teaching), Cache Mark Seventeen (grim), The Late Payment (mixed), Thaw Season Transit (mixed), The Unmarked Ledger (mixed/informative), Home Before Dark (mundane/positive). All stories 800-1200 words, feature different characters/locations, include 3+ wikilinks and See Also blocks, canon-consistent.---
 
 ## IMMEDIATE (no decisions needed)
 

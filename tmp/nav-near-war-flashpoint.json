@@ -1,0 +1,456 @@
+{
+  "concept": "The Three Near-Wars",
+  "top_pages": [
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 39,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 39,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 668,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 639,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 465,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Equatorial Desert",
+      "path": "content/Equatorial Desert.md",
+      "title": "Geography",
+      "why": "seed_outlink",
+      "score": 459,
+      "line_count": 151,
+      "outlink_count": 47,
+      "read_plan": [
+        {
+          "section": "Geography",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Zakros sits directly on Solumora's equator, a belt of hostile terrain several weeks wide for any traveler moving north to south. It is not a single uniform landscape \u00e2\u20ac\u201d dune fields, cracked salt flats, exposed rock shel"
+        },
+        {
+          "section": "Crossing",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "There are better routes and worse ones. No route is safe. The better paths \u00e2\u20ac\u201d known to experienced guides, jealously kept, and sold for considerable [[Solumora|Watts]] \u00e2\u20ac\u201d reduce crossing time and offer slightly more pr"
+        },
+        {
+          "section": "Tier Access Limits",
+          "start_line": 19,
+          "end_line": 26,
+          "preview": "The desert's ambient [[Flux]] distortion is the hard constraint on who can survive a crossing without specialist support. [[Control Tier|T0]] practitioners have no Flux capacity and cannot cast any of the protection effe"
+        },
+        {
+          "section": "Fauna",
+          "start_line": 27,
+          "end_line": 34,
+          "preview": "Zakros is not lifeless. Its ecosystem is built almost entirely on insects and arachnids, most of which are [[Flux]]-fueled \u00e2\u20ac\u201d drawing ambient energy from the desert rather than relying solely on biological food chains. "
+        }
+      ]
+    },
+    {
+      "id": "The Council of Auralis",
+      "path": "content/The Council of Auralis.md",
+      "title": "Structure and Factions",
+      "why": "seed_outlink",
+      "score": 448,
+      "line_count": 92,
+      "outlink_count": 51,
+      "read_plan": [
+        {
+          "section": "Structure and Factions",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "The twenty members divide into three factions with distinct and occasionally competing goals. Alliances shift on specific votes but the factions themselves are stable \u2014 they represent genuine differences in what council "
+        },
+        {
+          "section": "The Culmination Faction",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "The largest faction, eleven members, organized around the council's defining long-term goal: the recovery and completion of whatever the pre-modern civilization in [[Equatorial Desert|Desert Zakros]] was building. The fa"
+        },
+        {
+          "section": "The Expansion Faction",
+          "start_line": 15,
+          "end_line": 20,
+          "preview": "Six members, organized around the straightforward goal of growing [[Auralis]]'s territory, population, and economic base. They are the most conventionally political faction \u2014 interested in trade routes, border security, "
+        },
+        {
+          "section": "Cassia's Faction",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Three members who back [[Cassia]] with genuine loyalty: [[Maren Sollis]], an older woman who served under the previous queen and transferred her allegiance to the infant who survived her; [[Tovan Ashce]], a mid-tier cast"
+        }
+      ]
+    },
+    {
+      "id": "Trade Guilds",
+      "path": "content/Trade Guilds.md",
+      "title": "How Certification Works",
+      "why": "seed_outlink",
+      "score": 442,
+      "line_count": 50,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "How Certification Works",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "Guild certification follows a standard three-stage progression: apprenticeship, journeyman work, and certification assessment. The stages vary in length by trade and in difficulty by the tier grade being sought."
+        },
+        {
+          "section": "Tier Grades and Certification",
+          "start_line": 15,
+          "end_line": 27,
+          "preview": "Most trades have multiple certification grades tied to [[Control Tier]] capability. The grades are trade-specific rather than universal: a T3 certification in structural sigil application means something different from a"
+        },
+        {
+          "section": "The Documentation Standard",
+          "start_line": 28,
+          "end_line": 35,
+          "preview": "Guild documentation requirements are not optional conditions on certification \u2014 they are themselves part of what is being certified. A practitioner who can perform the work but cannot maintain accurate field records duri"
+        },
+        {
+          "section": "Social Function",
+          "start_line": 36,
+          "end_line": 43,
+          "preview": "Guild membership in [[Terravelle]] carries weight beyond trade certification. The guilds provide dispute resolution, wage standards, seasonal assistance funds, apprenticeship placement, housing recommendations, and the i"
+        }
+      ]
+    },
+    {
+      "id": "Ashford",
+      "path": "content/Ashford.md",
+      "title": "Character",
+      "why": "seed_outlink",
+      "score": 439,
+      "line_count": 33,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Character",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Ashford is rougher than [[Valdenmoor]] in the way that port cities tend to be \u2014 more transient, more tolerant of the irregular, more oriented toward the transaction than the institution. [[Flux]] use here leans heavily t"
+        },
+        {
+          "section": "The Northern Territory",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "The coastal territory north of Ashford \u2014 absorbed into [[Terravelle]] during the campaign in which Eddan's elder son died \u2014 has never fully settled into the kingdom's administration. The independent coastal communities t"
+        },
+        {
+          "section": "Strategic Importance",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Eddan considers Ashford one of the three non-negotiables of Terravellian security. Losing control of the eastern coast would cut off trade revenue that funds a significant portion of the kingdom's military and administra"
+        },
+        {
+          "section": "Movement Infrastructure",
+          "start_line": 25,
+          "end_line": 33,
+          "preview": "Ashford's trade volume depends on three movement systems that overlap without merging cleanly. Bulk cargo arrives through the [[Maren Freight Chain]] and is redistributed through dock districts that can absorb schedule s"
+        }
+      ]
+    },
+    {
+      "id": "Ancient Ruins",
+      "path": "content/Ancient Ruins.md",
+      "title": "What Has Been Found",
+      "why": "seed_outlink",
+      "score": 382,
+      "line_count": 91,
+      "outlink_count": 36,
+      "read_plan": [
+        {
+          "section": "What Has Been Found",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "Surface ruins only. Broken foundations, partially buried structural elements, fragments of inscription on materials of unknown composition. The buildings, where they can be reconstructed from their remnants, were large a"
+        },
+        {
+          "section": "What Has Not Been Found",
+          "start_line": 15,
+          "end_line": 20,
+          "preview": "No migration evidence. No record of where the population went. No graves. The absence of bodies is considered by most researchers to be the most significant single fact about the ruins \u2014 a civilization this large and thi"
+        },
+        {
+          "section": "The Three Anomalous Sites",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Among the dozens of ruin sites catalogued across the desert, three are categorically different from the rest. They are not simply broken-down structures \u2014 they are areas where the [[Flux]] field itself behaves abnormally"
+        },
+        {
+          "section": "[[Drendmark Flux Well]]",
+          "start_line": 29,
+          "end_line": 40,
+          "preview": "**Location:** Eleven days south of [[Halveth]], ~4 degrees north latitude."
+        }
+      ]
+    },
+    {
+      "id": "Drest",
+      "path": "content/Drest.md",
+      "title": "Background",
+      "why": "seed_outlink",
+      "score": 354,
+      "line_count": 37,
+      "outlink_count": 19,
+      "read_plan": [
+        {
+          "section": "Background",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "Drest was close to the queen who preceded [[Cassia]] \u2014 close enough that when she died in childbirth, he was the person who moved first. Whether that movement came from grief, from love, from a sense of obligation, or fr"
+        },
+        {
+          "section": "The Question",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "[[Cassia]] suspects Drest is her father. She has never confirmed it. She will never confirm it \u2014 there is no path to confirmation that does not cost more than the answer is worth, and the answer would not change anything"
+        },
+        {
+          "section": "On the Council",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Drest leads the Culmination Faction within [[The Council of Auralis]] \u2014 the faction pursuing the recovery of whatever the ancient civilization in [[Equatorial Desert|Desert Zakros]] built. He believes, with the particula"
+        },
+        {
+          "section": "Relationship with Cassia",
+          "start_line": 29,
+          "end_line": 37,
+          "preview": "Drest is one of three council members who back [[Cassia]] \u2014 and he is the loud one, which means his support is visible and therefore complicated. When he advocates for her in council chambers it draws attention to the fa"
+        }
+      ]
+    },
+    {
+      "id": "Expansion Faction",
+      "path": "content/Expansion Faction.md",
+      "title": "What They Want",
+      "why": "seed_outlink",
+      "score": 332,
+      "line_count": 27,
+      "outlink_count": 13,
+      "read_plan": [
+        {
+          "section": "What They Want",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Expansion Faction members are not unified by any single belief about the ancient civilization or the nature of [[Flux]]. They are unified by the assessment that [[Auralis]]'s current position relative to [[Terravelle]] r"
+        },
+        {
+          "section": "Relationship to the Culmination Faction",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "The Expansion Faction and the [[The Culmination Faction|Culmination Faction]] vote together on most major Council decisions and against each other on almost none. This is not ideological alignment \u2014 they want different t"
+        },
+        {
+          "section": "History",
+          "start_line": 19,
+          "end_line": 27,
+          "preview": "The Ashford Blockade, approximately forty-five years ago, was the Expansion Faction's most ambitious early action \u2014 a systematic program of trade restrictions designed to extract strategic concessions from [[Terravelle]]"
+        }
+      ]
+    },
+    {
+      "id": "Eddan Voss",
+      "path": "content/Eddan Voss.md",
+      "title": "Reign",
+      "why": "seed_outlink",
+      "score": 329,
+      "line_count": 41,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Reign",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "Eddan has been king long enough to have watched [[Auralis]] cycle through two queens and a regent before its current ruler settled in. He has outlasted advisors, survived three separate attempts to destabilize Terravelle"
+        },
+        {
+          "section": "The Council",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "Eddan governs with a council he does not fully trust. This is not naivety \u2014 he is aware of their limitations and has mapped most of their competing interests with reasonable accuracy. Several have Auralis-adjacent sympat"
+        },
+        {
+          "section": "Family",
+          "start_line": 19,
+          "end_line": 28,
+          "preview": "Eddan's wife died some years ago. He has not remarried and shows no inclination to."
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 29,
+          "end_line": 34,
+          "preview": "Eddan's assessment of [[Cassia|Queen Cassia of Auralis]] is respectful and, he believes, accurate: she is patient, she is competent, and she wants things that are incompatible with [[Terravelle]]'s continued independence"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Border Coordination Offices",
+      "Border Trade",
+      "Communication Speed and Reliability",
+      "Council Dynamics",
+      "Cross-Border Commerce",
+      "Cross-Border Information Flow",
+      "Cross-Border Trade",
+      "Drest",
+      "Expansion Faction",
+      "Helven Torr",
+      "History",
+      "History of Solumora",
+      "Kingdoms",
+      "Political Dynamics",
+      "Political Intelligence",
+      "Solumora",
+      "Terravelle",
+      "Terravelle Administration",
+      "The Council of Auralis",
+      "The First Contact",
+      "The Fraying Peace",
+      "The Solumoran Calendar",
+      "Time and Daily Life",
+      "Trade & Travel",
+      "Vren Holst",
+      "index"
+    ],
+    "outlinks": [
+      "Ancient Ruins",
+      "Ashford",
+      "Auralis",
+      "Drest",
+      "Eddan Voss",
+      "Equatorial Desert",
+      "Expansion Faction",
+      "History of Solumora",
+      "Terravelle",
+      "The Council of Auralis",
+      "Trade Guilds"
+    ]
+  }
+}

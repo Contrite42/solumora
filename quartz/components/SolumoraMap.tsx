@@ -56,53 +56,58 @@ interface RegionLink {
 
 /**
  * CONTINENT_PATH: South America-inspired continental outline
- * - Northernmost point: ~y40 (Wolfpoint peaks)
- * - Southernmost point: ~y1458 (Auralis southern coast)
- * - Widest point: ~x706 (eastern plateau around y700)
- * - Narrowest point: ~x370 (southern tip, Hedun region)
+ * Canon description: "runs roughly north to south, wider at its middle than at either end"
+ * Shape: narrow at northern extremes (Wolfpoint), widest at equatorial middle (Desert Zakros),
+ * narrowing toward southern coast (but not as narrow as north)
+ * - Northernmost point: ~y50 (Wolfpoint peaks)
+ * - Southernmost point: ~y1450 (Auralis southern coast)
+ * - Widest point: ~x750 (equatorial Desert Zakros region, y~650-800)
+ * - Northern narrow: width ~200-220
+ * - Southern moderate: width ~350-380
  */
 const CONTINENT_PATH =
-  "M420 40 L575 40 L675 115 L760 250 L826 430 L853 630 L841 856 L804 1044 L756 1220 L672 1368 L572 1458 L432 1458 L322 1365 L250 1216 L196 1024 L157 854 L147 640 L174 444 L250 260 L335 120 Z"
+  "M400 50 L600 50 L650 120 L710 220 L780 380 L840 580 L870 750 L860 920 L820 1080 L750 1240 L650 1360 L560 1450 L440 1450 L340 1360 L250 1240 L190 1080 L150 920 L140 750 L160 580 L220 380 L290 220 L350 120 Z"
 
 /**
  * Climate/Political zones displayed as colored bands across the continent
  * Each zone represents distinct ecological and political regions
+ * Adjusted for corrected continent shape (wider at middle, narrowing at both ends)
  */
 const ZONE_BANDS: ZoneBand[] = [
   {
     id: "north",
     label: "Terravelle Uplands",
     y: 150,
-    height: 430,
-    labelX: 218,
-    labelY: 292,
+    height: 450,
+    labelX: 220,
+    labelY: 310,
     labelWidth: 258,
   },
   {
     id: "frontier",
-    label: "Disputed Desert Edge",
-    y: 580,
-    height: 66,
-    labelX: 220,
-    labelY: 616,
-    labelWidth: 250,
+    label: "Border Settlement Network",
+    y: 600,
+    height: 70,
+    labelX: 196,
+    labelY: 635,
+    labelWidth: 324,
   },
   {
     id: "desert",
     label: "Desert Zakros (Equatorial Belt)",
-    y: 646,
-    height: 286,
+    y: 670,
+    height: 280,
     labelX: 194,
-    labelY: 790,
+    labelY: 810,
     labelWidth: 336,
   },
   {
     id: "south",
     label: "Auralis Basin",
-    y: 932,
-    height: 488,
+    y: 950,
+    height: 470,
     labelX: 232,
-    labelY: 1086,
+    labelY: 1100,
     labelWidth: 226,
   },
 ]
@@ -110,42 +115,43 @@ const ZONE_BANDS: ZoneBand[] = [
 /**
  * Named regions representing trade corridors, strategic areas, and political zones
  * Each region is defined as an interactive SVG polygon path
+ * Adjusted for corrected continent shape
  */
 const REGION_LINKS: RegionLink[] = [
   {
     id: "zakros-region",
     label: "Zakros Crossing Belt",
-    path: "M156 648 L846 648 L842 930 L160 930 Z",
+    path: "M150 670 L870 670 L860 950 L150 950 Z",
     keys: ["Equatorial-Desert"],
     titles: ["Equatorial Desert", "Desert Zakros"],
     labelX: 500,
-    labelY: 782,
+    labelY: 810,
     labelAnchor: "middle",
     showLabel: false,
   },
   {
     id: "northern-narrows-region",
-    label: "Northern Narrows Corridors",
-    // Positioned to contain Ashford (798,640) and Halveth (720,680)
-    // Right wall at x780, left/bottom corridor-shaped
-    path: "M700 600 L780 600 L740 740 L680 740 Z",
+    label: "The Northern Narrows",
+    // Positioned to contain Ashford (780,640) and Halveth (680,640)
+    // Eastern corridor region near border
+    path: "M650 600 L800 600 L780 700 L660 700 Z",
     keys: ["The-Northern-Narrows", "Northern-Narrows"],
     titles: ["The Northern Narrows", "Northern Narrows"],
-    labelX: 748,
-    labelY: 676,
+    labelX: 740,
+    labelY: 662,
     labelAnchor: "end",
     showLabel: true,
   },
   {
     id: "southern-approaches-region",
-    label: "Southern Approaches Network",
-    // Positioned to contain Solhaven (460,1000) and Hedun (280,1140)
-    // Forms triangular/trapezoidal approach zone in southwest
-    path: "M550 850 L720 850 L540 1060 L380 1060 Z",
+    label: "The Southern Approaches",
+    // Positioned to contain Solhaven (380,1000) and approaches to Hedun
+    // Represents interior southbound lanes after Narrows entry
+    path: "M550 880 L730 880 L560 1080 L340 1080 Z",
     keys: ["The-Southern-Approaches", "Southern-Approaches"],
     titles: ["The Southern Approaches", "Southern Approaches"],
-    labelX: 630,
-    labelY: 950,
+    labelX: 618,
+    labelY: 968,
     labelAnchor: "end",
     showLabel: true,
   },
@@ -153,34 +159,35 @@ const REGION_LINKS: RegionLink[] = [
 
 /**
  * Terrain Features: Mountains, rivers, trade routes, terraces
+ * Adjusted for corrected continent shape
  */
 const MOUNTAIN_RIDGES = [
-  "M404 112 L448 82 L494 112 L538 76 L584 112",
-  "M430 148 L474 122 L518 148 L564 116 L610 148",
+  "M380 100 L430 70 L480 100 L530 80 L580 100",
+  "M400 140 L450 110 L500 140 L550 120 L600 140",
 ]
 
 const MAREN_RIVER_PATH =
-  "M404 250 C430 356 452 438 486 504 C554 566 660 598 744 626 C776 638 800 644 820 646"
+  "M380 240 C420 340 460 440 500 520 C570 590 670 620 760 640"
 
-const EAST_ESTUARY_PATH = "M820 646 C832 648 842 646 852 642"
+const EAST_ESTUARY_PATH = "M760 640 C800 645 840 643 870 640"
 
-// West Coast Route: connects Solhaven (460,1000) to Hedun (280,1140) via coastal valley
-const WEST_COAST_ROUTE_PATH = "M460 1000 C406 1050 350 1090 280 1140"
+// West Coast Route: connects Solhaven (380,1000) to Hedun (280,1140) via coastal valley
+const WEST_COAST_ROUTE_PATH = "M380 1000 C340 1050 310 1090 280 1140"
 
 const WEST_TERRACE_PATHS = [
-  "M204 1090 C286 1060 346 1080 402 1128",
-  "M194 1136 C278 1110 344 1128 414 1172",
-  "M184 1182 C274 1158 344 1174 426 1212",
+  "M200 1100 C280 1070 340 1090 400 1135",
+  "M190 1150 C270 1120 330 1140 400 1180",
+  "M180 1200 C260 1170 320 1190 390 1230",
 ]
 
 /**
  * City Markers: All settlements positioned canonically on the map
  *
- * Key adjustment notes from design iteration:
- * - Ashford & Halveth: Positioned on Northern Narrows right edge (x~700-800)
- *   to reflect their role as border fortifications and trade access points
- * - Solhaven & Hedun: Positioned in southwest approaches zone
- *   Solhaven on central west coast route, Hedun as western valley terminus
+ * Adjusted for corrected continent shape (wider at equatorial middle, narrowing at both ends):
+ * - Wolfpoint: Far northern peak (narrow northern extremes)
+ * - Greyveil, Valdenmoor: Terravelle uplands (northern settled belt)
+ * - Ashford & Halveth: Northern Narrows border region (eastern edge approaching desert)
+ * - Solhaven, Hedun, Emberfall: Auralis basin (southern regions)
  * - Label alignment: right-aligned labels extend from eastern cities,
  *   left-aligned labels extend from western cities
  */
@@ -188,8 +195,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "wolfpoint",
     label: "Wolfpoint",
-    x: 498,
-    y: 108,
+    x: 500,
+    y: 100,
     keys: ["Wolfpoint"],
     titles: ["Wolfpoint"],
     align: "right",
@@ -197,8 +204,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "greyveil",
     label: "Greyveil",
-    x: 392,
-    y: 318,
+    x: 380,
+    y: 300,
     keys: ["Greyveil"],
     titles: ["Greyveil"],
     align: "right",
@@ -206,8 +213,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "valdenmoor",
     label: "Valdenmoor",
-    x: 484,
-    y: 504,
+    x: 500,
+    y: 490,
     keys: ["Valdenmoor"],
     titles: ["Valdenmoor"],
     align: "right",
@@ -215,7 +222,7 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "ashford",
     label: "Ashford",
-    x: 828,
+    x: 780,
     y: 640,
     keys: ["Ashford"],
     titles: ["Ashford"],
@@ -224,8 +231,8 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "halveth",
     label: "Halveth",
-    x: 720,
-    y: 630,
+    x: 680,
+    y: 640,
     keys: ["Halveth"],
     titles: ["Halveth"],
     align: "left",
@@ -233,7 +240,7 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "solhaven",
     label: "Solhaven",
-    x: 460,
+    x: 380,
     y: 1000,
     keys: ["Solhaven"],
     titles: ["Solhaven"],
@@ -243,7 +250,7 @@ const MAP_MARKERS: MapMarker[] = [
   {
     id: "emberfall",
     label: "Emberfall",
-    x: 548,
+    x: 520,
     y: 1140,
     keys: ["Emberfall"],
     titles: ["Emberfall"],
@@ -313,9 +320,9 @@ export default (() => {
             ))}
 
             {/* Zone Latitude Dividers */}
-            <line class="solumora-lat-line" x1="150" x2="850" y1="580" y2="580" />
-            <line class="solumora-lat-line" x1="150" x2="850" y1="646" y2="646" />
-            <line class="solumora-lat-line" x1="150" x2="850" y1="932" y2="932" />
+            <line class="solumora-lat-line" x1="140" x2="870" y1="600" y2="600" />
+            <line class="solumora-lat-line" x1="140" x2="870" y1="670" y2="670" />
+            <line class="solumora-lat-line" x1="140" x2="870" y1="950" y2="950" />
           </g>
 
           {/* Terrain Features Layer */}

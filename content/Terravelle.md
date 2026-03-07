@@ -32,7 +32,14 @@ The city's internal structure reflects its priorities. [[The Dock Wards]] run th
 
 Valdenmoor's agricultural supply base is [[Maren Valley]], the farming communities along the upper and middle Maren whose grain output and seasonal labor pool flow toward the capital through the Freight Chain's river logistics.
 
-_See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Terravelle Administration]], [[The Three Near-Wars]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Banking Institutions]], [[Trade Guilds]], [[Economy]], [[Adventurers]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]], [[Law and Order]], [[Food & Drink]], [[Arts & Culture]], [[The Solumoran Calendar]], [[Timekeeping Technology]]_
+
+### Greyveil
+
+[[Greyveil]] is Terravelle's northern anchor — 85,000 people at the settlement belt's edge, coordinating agricultural supply from forty-two rural communities through distributed merchant networks rather than formal civic governance. The [[Greyveil Trade Quarter]] manages daily grain auctions and strategic reserves declining under population growth pressure. The [[Greyveil Relay District]] processes kingdom administration and courier logistics linking north to [[Valdenmoor]]. The [[Greyveil Settlement Belt]] rings urban core with semi-rural households, craft operations, and seasonal labor housing.
+
+Greyveil's supply base is the [[Northern Grain Corridor]] — twenty-eight farming settlements producing 4-5 million pounds annually through cooperative harvest coordination and three processing mills operating at capacity limits. Coordinators like [[Trell Orvन]] (urban market), [[Kess Talmor]] (mill operations), and [[Mira Keld]] (settlement representative) maintain agricultural-urban connection through informal agreements strained by climate volatility and infrastructure inadequacy. [[Greyveil Civic Coordination]] operates without municipal government, relying on merchant house councils and neighborhood networks adapting slowly to systematic pressures.
+
+_See also: [[Solumora]], [[Auralis]], [[Equatorial Desert]], [[Flux Users]], [[Grimoires]], [[Eddan Voss]], [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[History of Solumora]], [[Terravelle Administration]], [[The Three Near-Wars]], [[Ordinary Life in Terravelle]], [[Life in Valdenmoor]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Banking Institutions]], [[Trade Guilds]], [[Economy]], [[Adventurers]], [[The Dock Wards]], [[Guild Quarter]], [[The Outer Wards]], [[Maren Valley]], [[Caven Torst]], [[Noll Drenk]], [[Trel Alvn]], [[Law and Order]], [[Food & Drink]], [[Arts & Culture]], [[The Solumoran Calendar]], [[Timekeeping Technology]], [[Northern Grain Corridor]], [[Greyveil Trade Quarter]], [[Greyveil Relay District]], [[Greyveil Settlement Belt]], [[Greyveil Civic Coordination]], [[Trell Orvन]], [[Kess Talmor]], [[Mira Keld]]_
 
 ## People in Motion
 

@@ -36,4 +36,12 @@ Auralis threatened naval enforcement of the inspection requirements. This would 
 
 The Ashford Blockade's failure shaped the Expansion Faction for the following generation. [[Drest]], who was a junior Faction member during the blockade and rose to leadership in its aftermath, drew explicit lessons from it: economic pressure without military credibility is not leverage, and military credibility requires genuine deployment capability across the desert, not the threat of it. The two decades of quiet strategic erosion that followed — the border friction, the desert research, the accumulation of crossing capability — are the Expansion Faction operating with the patience the blockade failed to maintain.
 
-_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]]_
+## Contemporary Incident Ladder
+
+Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation.
+
+Recent events used as training references include the [[Halveth Customs Seizure Incident]] and the [[Ashford Courier Intercept Case]], both of which remained administratively reversible while still producing durable confidence damage and throughput loss.
+
+Current response capacity depends on [[Border De-Escalation Protocols]] that attempt to preserve technical correction windows before narrative escalation hardens reciprocal posture.
+
+_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]]_
