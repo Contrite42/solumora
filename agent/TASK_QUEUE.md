@@ -197,12 +197,13 @@ Blocked tasks are marked with their dependency.
       **Seed concept:** Creatures
       **Status:** COMPLETE - Six creatures created across three biome types (Bloodshrike northern aerial predator, Flux Scorpion desert apex Flux-adapted predator, Ripplecat temperate semi-aquatic feline, Prowlpack northern pack predator, Boneshell Crab coastal scavenger), [[Equatorial Fauna]] expanded with new creature references, 2 specialized NPCs (Dorn Sels institutional ecology researcher, Kels Vorn professional bloodshrike specialist and predator-control coordinator), [[Creatures]] synthesis hub integrating hunting culture framework and contemporary war pressure impacts (personnel requisitions, territorial displacement, commodity surge, sustainability tensions). Navigation cache refreshed 592→613 nodes, 6327→6418 edges, 519→527 pages.
 
-- [ ] **EXPANSION-012: Adventurer Support Network**
+- [x] **EXPANSION-012: Adventurer Support Network**
       **Goal:** Detail the commercial infrastructure serving [[Adventurers]] (gear suppliers, map makers, information brokers, rescue services, death documentation).
       **Constraints:** Adventuring is dangerous business. Show how support systems profit from risk-takers. Include failure modes (scams, bad intel, abandoned contracts).
       **Output:** 6-8 notes (support services, major vendors, contracts, 2-3 service provider NPCs) + update [[Adventurers]].
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Adventurers
+      **Status:** COMPLETE - Six support-infrastructure files created: Specialized Equipment Vendors (guild/independent/institutional vendor models, quality verification, war material scarcity 30-40%, pricing surge 25-40%), Intelligence Brokers and Cartographic Services (merchant networks vs. specialist operators, Zakros Cartography Incident case study 618 FE with fraud documented, institutional intelligence restriction, war intelligence monopolization pressure), Rescue and Recovery Services (expedition rescue 60-70% success, body recovery/forensics, death documentation with institutional delays 4-12 weeks, example vendor Issen Vord T1 age 51), Vren Kost (guild equipment vendor NPC T3 age 48, 24 years experience, quality enforcement, institutional contract tensions, dual-mode water container innovation), Meln Rast (independent intelligence specialist NPC T0 age 43, 19 years experience, 80-120 source network, ethical non-deception framework, institutional monopoly pressure), Adventurer Support Network synthesis hub (economic drivers, institutional entanglement, war pressure impacts quantified: 25-40% material decline, 30-50% pricing inflation, vendor consolidation toward institutional relationships, casualty rate increases, vendor sustainability concerns, failure/fraud framework, ecosystem interdependencies). Adventurers.md updated with [[Adventurer Support Network]] link and 6 new See also links. Navigation cache refreshed 613→624 nodes, 6418→6489 edges, 527→533 pages.
 
 ### Priority Track: Economic Detail
 

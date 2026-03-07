@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-012 - Adventurer Support Network
+# Active Task: EXPANSION-013 - Currency & Banking
 
 **Status:** NOT STARTED
 **Owner:** Copilot
@@ -6,44 +6,45 @@
 
 ## Goal
 
-Detail commercial infrastructure serving [[Adventurers]] — vendors, guides, service providers, and institutional supports that enable expeditions to function (gear suppliers, map makers, intelligence brokers, rescue services, death documentation).
+Define money systems, banking institutions, credit mechanisms, and cross-kingdom financial exchange. Show how Flux affects finance (detection, verification, transportation security). Include both formal banks and informal lending.
 
 ## Constraints
 
-- Adventuring is dangerous business with high failure/casualty rates
-- Support infrastructure profits from risk-takers but varies widely in reliability and honesty
-- Include failure modes (scams, fraudulent vendors, abandoned contracts, bad intelligence)
-- Show how support networks vary between settlements and kingdoms
+- Two kingdoms may have different currencies
+- Flux affects financial systems (protective measures, verification, security)
+- Show both institutional (banks, formal credit) and informal (lending, debt-bonding) systems
+- Financial systems under war preparation pressure: institutional funding crises, currency instability, credit system strain, institutional prioritization of military funding over economic support
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic descriptors)
-- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, practical focus)
-- Contemporary war preparation pressure: vendor networks disrupted by military requisitions, contract reliability unpredictable, support service costs inflated by institutional competition for resources
+- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, practical operational focus)
+- Contemporary war pressure: military requisitions straining institutional funding, institutional lending predatory toward civilian ventures, currency instability from military resource exploitation, credit collateral demands inflated from institutional competition
 
 ## Output Target
 
-6-8 notes total:
-- 2-3 categories of support services (gear suppliers, intelligence networks, rescue/recovery operations)
-- 2-3 major vendor/service provider NPCs (showing different business models and reliability profiles)
-- 1-2 notes on infrastructure and institutional structures enabling adventurer economy
-- Create [[Adventurer Support Network]] hub synthesizing all services and economic logic
-- Link from [[Adventurers]], settlement pages, expedition infrastructure pages
+5-7 notes total:
+- 1-2 currency system notes defining money types, denominations, verification mechanisms
+- 1-2 banking institution notes (formal banks, institutional structures, credit mechanisms)
+- 1-2 informal lending/credit system notes (debt-bonding, money-lenders, alternative financing)
+- 1-2 financier/banker NPCs showing different relationship approaches to institutional/civilian economy
+- Create [[Economy]] hub synthesizing financial systems with broader resource management
+- Update [[Solumora]], [[Auralis]], [[Terravelle]] with financial infrastructure references
 
 ## Execution Plan
 
-1. Query navigation cache for Adventurers context
-2. Read [[Adventurers]] page for existing foundation
-3. Grep search for existing vendor/service provider references
-4. Create 2-3 specific service category notes (detailed vendor operations, pricing, reliability, failures)
-5. Create 2-3 vendor/service provider NPC profiles
-6. Create infrastructure and institutional note (guild structures, regulation, contemporary pressures)
-7. Create [[Adventurer Support Network]] hub synthesizing all content
-8. Update [[Adventurers]] page with new service links
-9. Link from settlement pages, expedition infrastructure pages
+1. Query navigation cache for Currency, Banking, Economy context
+2. Read [[Grimoire Economy]] and [[Trade & Travel]] for existing financial infrastructure foundation
+3. Grep search for existing banker/merchant/wealth references
+4. Create 1-2 currency system notes (denominations, verification, Flux security, cross-kingdom exchange)
+5. Create 1-2 banking institution notes (formal banks, credit structures, institutional relationships)
+6. Create 1-2 informal lending notes (alternative financing, debt systems, protection mechanisms)
+7. Create 1-2 financier NPC profiles showing institutional vs. civilian economy positioning
+8. Create [[Economy]] hub synthesizing all financial content with broader economic systems
+9. Update [[Solumora]], [[Auralis]], [[Terravelle]] with finance/banking references
 10. Refresh navigation artifacts
 11. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Preparing to query navigation cache for Adventurers context...
+Ready to query navigation cache for Currency/Banking context...
 
 ---
 
