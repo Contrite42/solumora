@@ -20,19 +20,63 @@ The leading theories are: rapid departure by unknown means, a catastrophic event
 
 ## The Three Anomalous Sites
 
-Among the dozens of ruin sites catalogued across the desert, three are categorically different from the rest. They are not simply broken-down structures — they are areas where the [[Flux]] field itself behaves abnormally. Sigils malfunction or produce unexpected effects within these zones. [[Flux Users|Channelers]] report disorientation and difficulty maintaining precision. Ambient Flux readings, where they can be taken, show densities that do not correspond to any known natural or artificial cause.
+Among the dozens of ruin sites catalogued across the desert, three are categorically different from the rest. They are not simply broken-down structures — they are areas where the [[Flux]] field itself behaves abnormally. [[Sigils|Sigil]] work malfunction or produce unexpected effects within these zones. [[Flux Users|Channelers]] report disorientation and difficulty maintaining precision. Ambient Flux readings, where they can be taken, show densities or spatial properties that do not correspond to any known natural or artificial cause.
 
 These three sites are believed to be the locations of Tier 9 [[Control Tier|casting failures]] — places where the ancient civilization attempted something at or beyond the apex of Flux manipulation and the attempt went wrong in ways that have not normalized in the centuries since.
 
-This interpretation is not universally accepted. The alternative — that the sites are not failure sites but success sites, and the anomalous Flux behavior is the _result_ of what was accomplished there rather than the aftermath of what went wrong — is a minority position in academic circles and the majority position within [[Drest|Drest's]] faction. What neither interpretation accounts for is the correlation between the anomalous sites and rift formation: all three sites are active rift zones, and the [[Flux Demons]] that emerge through them range outward into inhabited territory. Whether the rifts are a consequence of the original Flux event or a separate phenomenon enabled by the ongoing field distortion is an open question that [[Auralis]] expedition researchers have not yet formally posed, because doing so would require acknowledging the incursion problem in academic documentation.
+This interpretation is not universally accepted. The alternative — that the sites are not failure sites but success sites, and the anomalous properties are the _result_ of what was accomplished there rather than the aftermath of what went wrong — is a minority position in academic circles and the majority position within [[Drest|Drest's]] faction. What neither interpretation accounts for is the correlation between the anomalous sites and rift formation: all three sites are active rift zones, and the [[Flux Demons]] that emerge through them range outward into inhabited territory. Whether the rifts are a consequence of the original Flux event or a separate phenomenon enabled by the ongoing field distortion is an open question that [[Auralis]] expedition researchers have not yet formally posed, because doing so would require acknowledging the incursion problem in academic documentation.
 
-## Expedition History
+### [[Drendmark Flux Well]]
 
-[[Auralis]] has funded formal expeditions to the ruins for approximately eighty years. [[Terravelle]] has funded two, both early in the period and neither returning much of value. Independent expeditions exist but are rare — the desert is dangerous enough that survival requires resources that most independent scholars cannot access.
+**Location:** Eleven days south of [[Halveth]], ~4 degrees north latitude.
 
-The attrition rate for Auralis expeditions is high. Approximately one in three does not return. The ones that do return rarely bring back more than fragments, and the fragments rarely yield immediate insight. The research progress is real but slow — incremental advances in partial translation, improved understanding of the structural geography, better maps of the anomalous sites.
+**Distinguishing feature:** Elevated [[Flux]] density in localized well-shaped depression. Density increases dramatically from site periphery toward well center, reaching immeasurable levels.
 
-[[Drest]] funds expeditions beyond the official council budget. The Reach Academy in [[Emberfall]] trains expedition members. The work continues.
+**Primary research question:** What caused Flux density gradient and why do current channeling attempts trigger [[Rift Incursions|rift cascade]] formation?
+
+**Strategic significance:** Represents possible evidence of pre-collapse dimensional boundary manipulation. [[The Culmination Faction]] interests. Highest-priority anomalous site for current Council research.
+
+**Hazard level:** Maximum among all ruins sites. Approximately 1 in 3 expeditions experiences casualty. Current protocols attempt to minimize casualties while limiting research output.
+
+### [[Solden Archive]]
+
+**Location:** Seven days south of [[Halveth]], ~6 degrees north latitude.
+
+**Distinguishing feature:** Pre-collapse [[Sigils|inscriptions]] continue operating functionally, producing persistent light emission and audible sounds without detectable power source or maintenance.
+
+**Primary research question:** What information does the Active Array encode and how can it be translated?
+
+**Strategic significance:** Represents evidence of self-sustaining [[Flux]] systems. If construction mechanism can be determined, revolutionary advancement in energy management applications possible. Lower military interest than [[Drendmark Flux Well]].
+
+**Hazard level:** Lowest among anomalous sites. Standard [[Flux Demons|rift frequency]], no spatial disruption, no extreme Flux effects. Psychological "Listening Effect" (feeling observed) unsettling but not debilitating.
+
+### [[The Korden Loop]]
+
+**Location:** Nineteen days south of [[Halveth]], ~1 degree south latitude.
+
+**Distinguishing feature:** Spatial geometry violations. Navigation produces unreliable results with distances varying unpredictably and directional walking producing circular paths.
+
+**Primary research question:** What causes spatial distortion and can it be modeled or reversed?
+
+**Strategic significance:** Direct military applications unclear. Academic interest in understanding pre-collapse spatial manipulation capabilities. Low Council priority.
+
+**Hazard level:** Moderate. Personnel navigational failure and separation risk. Two documented deaths from expedition separation. Current protocols require physical tether-linking to prevent personnel loss.
+
+## Significant Non-Anomalous Sites
+
+Notable for exceptional inscription preservation, architectural clarity, or research findings despite lacking anomalous Flux/spatial properties.
+
+### [[The Corfeld Inscriptions]]
+
+**Location:** Thirteen days south of [[Halveth]].
+
+**Distinguishing feature:** Extensive floor surface covered with densely inscribed text in systematic grid pattern. Approximately 2000-3000 character sequences — largest text repository at any single ruins site.
+
+**Research output:** Source of most translation progress toward pre-collapse language decoding. Fragmentary translations suggest technical reference work (possibly grimoire collection or instruction manual) rather than narrative text.
+
+**Operational characteristics:** Non-anomalous site. Standard Flux density, normal navigation, manageable [[Rift Incursions|rift frequency]]. Supports extended research stays (teams routinely 3-4 weeks, record 9 weeks). Semi-permanent infrastructure cached for linguistic expeditions.
+
+**Strategic value:** Long-term knowledge investment. Successful translation would reveal pre-collapse civilization's technical capabilities and philosophy. Currently declining priority as war preparation accelerates.
 
 ## Expedition Infrastructure
 
@@ -44,4 +88,4 @@ The practical effect is uneven but measurable: fewer missions depart with unreso
 
 This infrastructure does not solve the core ruins problem. It keeps the research effort from resetting to zero after every bad quarter.
 
-_See also: [[Equatorial Desert]], [[The Council of Auralis]], [[The Culmination Faction]], [[The Advancement Corps]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Tessel Dran]], [[Emberfall Expedition Registry]], [[Crestward Field Company]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[Nessa Keld]], [[Toren Vass]], [[Sera Nolt]]_
+_See also: [[Equatorial Desert]], [[Drendmark Flux Well]], [[Solden Archive]], [[The Korden Loop]], [[The Corfeld Inscriptions]], [[The Council of Auralis]], [[The Culmination Faction]], [[The Advancement Corps]], [[Drest]], [[Emberfall]], [[Flux Users]], [[Flux Demons]], [[Rift Incursions]], [[The Flux Dimension]], [[Rett Soln]], [[Aldric Mourne]], [[Sera Keln]], [[Tessel Dran]], [[Emberfall Expedition Registry]], [[Crestward Field Company]], [[Halveth Guide Bureau]], [[Zakros Loss Table]], [[Nessa Keld]], [[Toren Vass]], [[Sera Nolt]], [[Osven Keld]], [[Vren Kost]]_
