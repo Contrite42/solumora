@@ -28,6 +28,8 @@ This development record is undervalued commercially and overvalued academically.
 
 Most practitioners maintain both: a personal working grimoire for active development and reference, and commercial copies of spells they use regularly. The commercial copies are the ones they activate in the field — cleaner, verified, produced by someone else. The personal grimoire is the one they write in.
 
+In day-to-day practice, working grimoires are also built around ease of use. Practitioners consistently favor Watt-efficient quality-of-life patterns and cohesive recipes that reduce cognitive load during repeated casting. A common example is a sustained support sigil that keeps the grimoire floating nearby while the caster works, leaving both hands free for tools, marking, or secondary sigil setup. For the same reason, practical notebooks often prioritize broad low-friction targeting choices such as Self, Filter, and Where Written when a spell can be configured more than one way.
+
 [[Vel Sorvn]]'s practice notes represent the working grimoire of a T3 practitioner who is actively testing hand sign variants against equivalent sigil configurations — the kind of personal research that no commercial publisher would produce and that the practitioner is doing primarily because they find it interesting.
 
 _See also: [[Grimoires]], [[Grimoire Copyists]], [[Grimoire Inheritance]], [[Ostal Mrev's Consultation Notes]], [[Vel Sorvn's Practice Notes]], [[Ossal Meln]], [[The Advancement Corps]], [[Sigils]], [[Flux]]_

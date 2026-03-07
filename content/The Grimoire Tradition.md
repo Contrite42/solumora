@@ -26,7 +26,7 @@ The current grimoire market reflects the full complexity that five centuries of 
 
 One mature outcome of that market is a user-first design culture in published grimoires. High-circulation texts are compiled around usability: low Watt draw, straightforward activation flow, and recipes that remain stable under ordinary working conditions. A common benchmark example is a sustained support sigil that keeps the user's grimoire floating nearby while both hands remain free for other work.
 
-As this design culture matured, recipe conventions in practical grimoires shifted toward broad, low-friction control choices. Everyday compilations increasingly favor targets and methods like Self, [[Filter]], and Where Written because those patterns reduce failure rates and support repeatable quality-of-life use.
+As this design culture matured, recipe conventions in practical grimoires shifted toward broad, low-friction control choices. Everyday compilations increasingly favor targets and methods like Self, Filter, and Where Written because those patterns reduce failure rates and support repeatable quality-of-life use.
 
 The distribution infrastructure is detailed in [[Grimoire Distribution]], [[Grimoire Economy]], and adjacent pages. The copying trade is documented in [[Grimoire Copyists]].
 

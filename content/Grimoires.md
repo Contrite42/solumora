@@ -31,7 +31,7 @@ Across both kingdoms, grimoire design at the Common and Uncommon tiers is explic
 
 A standard example is the sustained support-sigil pattern that keeps a user's grimoire floating in read position while they work. The spell is intentionally Watt-efficient so it can be held for long sessions, and the recipe is built to match everyday behavior rather than ideal conditions.
 
-This design philosophy influences recipe construction broadly. Working grimoires favor target and control choices that reduce operator burden in daily use, especially Self, [[Filter]], Where Written, and other general-purpose targeting methods that are reliable in homes, workshops, and field logistics.
+This design philosophy influences recipe construction broadly. Working grimoires favor target and control choices that reduce operator burden in daily use, especially Self, Filter, Where Written, and other general-purpose targeting methods that are reliable in homes, workshops, and field logistics.
 
 ## The Grimoire Economy
 
