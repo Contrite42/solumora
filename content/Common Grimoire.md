@@ -61,7 +61,7 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
+
 **SweepBond**
 Channels chemical flux to produce its effect. Spreads in a widening arc, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 29 W |
