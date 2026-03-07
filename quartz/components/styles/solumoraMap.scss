@@ -255,10 +255,8 @@
     stroke: #ffffff;
     stroke-width: 2.5;
     transition:
-      transform 0.2s ease,
       fill 0.2s ease,
       filter 0.2s ease;
-    transform-origin: center;
     filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
   }
 
@@ -274,7 +272,6 @@
 
   &:hover circle {
     fill: #38b579;
-    transform: scale(1.2);
     filter: drop-shadow(0 3px 8px rgba(0, 0, 0, 0.25));
   }
 
