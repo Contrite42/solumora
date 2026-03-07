@@ -1,53 +1,58 @@
-# Active Task: EXPANSION-014 - Resource Extraction & Refinement
+# Current Task: EXPANSION-015 — Flux Research Institutions
 
-**Status:** NOT STARTED
-**Owner:** Copilot
+**Status:** In Progress  
+**Owner:** Copilot Auto  
 **Started:** 2026-03-07
 
 ## Goal
 
-Show how raw materials are gathered and processed throughout Solumora — mining operations, logging, quarrying, creature-product trade, specialized material processing, and the supply chains that move extracted resources toward processing centers and end-use markets.
+Document institutional research into Flux in both Auralis and Terravelle, showing kingdom philosophical differences in how they approach the same questions. Build ground-level detail showing research priorities, grant mechanisms, and how military pressure is reshaping research agendas.
 
 ## Constraints
 
-- Some resources require Flux for safe extraction (deep mining, hazardous material handling, dangerous creature harvesting)
-- Show labor conditions and tier stratification in extraction industries
-- Include environmental impacts and sustainable practices
-- Illustrate supply chains from extraction sites through processing/refinement to markets and institutional use
-- Document resource conflicts and institutional monopolization pressures
-- Contemporary war pressure: military resource requisitions, extraction acceleration beyond sustainable levels, practitioner conscription affecting extraction capacity, institutional prioritization of military-grade materials
-- Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic descriptors)
-- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, operational focus)
+1. **Kingdom philosophical differences:** Auralis treats Flux as technical problem to solve; Terravelle approaches it as natural phenomenon to understand
+2. **Institutional pressure:** Both kingdoms redirecting research toward military applications, creating internal institutional conflict
+3. **Research institutions (4 minimum):**
+   - 2 Auralis research centers (centralized institutional control, military coordination)
+   - 2 Terravelle research centers (distributed, guild-affiliated, more autonomy)
+4. **Multiple research perspectives:**
+   - Pure theoretical researcher focused on fundamental Flux principles
+   - Empirical/applied researcher developing practical applications
+   - Researcher facing institutional pressure to militarize their work
+   - Researcher resisting militarization of their research
 
 ## Output Target
 
 6-8 notes total:
-- 1-2 resource-extraction industry categories (mining, logging/timber, creature-product trade) with operational details
-- 1-2 major extraction sites (showing geographic distribution and production scales)
-- 1-2 refinement/processing notes (material processing, crafting resource specialization)
-- 2-3 extraction-sector NPC profiles showing labor hierarchy and tier stratification
-- 1-2 notes on resource conflicts and institutional resource-monopolization mechanisms
-- Update [[Economy]] hub with resource-sector integration
-- Cross-link to [[Food & Drink]], [[Grimoire Economy]], [[Trade Guilds]], [[Creatures]], extraction-site pages
+- 4 research institution notes (2 Auralis, 2 Terravelle) with funding models, research focus, internal tensions
+- 3-4 researcher NPC profiles (T3-T5) showing different research paths and institutional relationships
+- 1 update to [[Flux]] hub with "Contemporary Research Directions" section
+- Cross-links to [[Grimoires]], [[Education]], [[Economy]], [[The Council of Auralis]], [[Trade Guilds]]
+
+## Key Research Questions
+
+1. What is Auralis researching? (Applications: weapons, industrial efficiency, precision control, military grade materials)
+2. What is Terravelle researching? (Understanding: natural principles, sustainability, experimental alternatives, guild-safe applications)
+3. How is research funded? (Auralis: Council grants, military contracts; Terravelle: guild contributions, merchant patronage, apprenticeship fees)
+4. What institutional relationships shape research? (Military contracts, institutional autonomy, publication restrictions, researcher freedom)
+5. What research questions are forbidden or restricted? (Equatorial barrier mechanisms, consciousness aspects of Flux, alternative Flux sources, reverse-engineering pre-collapse artifacts)
 
 ## Execution Plan
 
-1. Query navigation cache for Resource, Extraction, Mining concepts
-2. Read [[Economy]] and [[Creatures]] pages for existing resource context
-3. Grep search for mining/logging/extraction references in existing content
-4. Create 1-2 extraction-industry category notes (operations, labor, safety, contemporary pressure)
-5. Create 1-2 major extraction-site notes (geographic location, resource types, production scale, NPC site leaders
-6. Create 1-2 refinement/processing notes (how raw materials become usable products)
-7. Create 2-3 extraction-sector NPC profiles (ranging from low-tier laborer to mid-tier site manager)
-8. Create resource-conflict note (institutional monopolization, environmental pressure, labor disputes)
-9. Update [[Economy]] hub with resource-sector contribution and war-pressure analysis
-10. Link from [[Food & Drink]] (preserved creature products), [[Creatures]] (hunting/harvesting), [[Grimoire Economy]] (material components)
-11. Refresh navigation artifacts
-12. Mark complete in TASK_QUEUE.md
+1. Read [[Flux]] to understand current framework and identify research gaps
+2. Research existing Crestward content (what Auralis research is already documented)
+3. Identify Terravelle research center anchors (guilds, institutions, individuals)
+4. Create 2 Auralis research institution notes with military coordination detail
+5. Create 2 Terravelle research institution notes with guild-federation structure
+6. Create 3-4 researcher NPC profiles showing diverse research approaches
+7. Update [[Flux]] hub with "Contemporary Research Directions" section linking all institutions
+8. Cross-link from [[Grimoires]], [[Education]], [[The Council of Auralis]], [[Trade Guilds]]
+9. Refresh navigation artifacts
+10. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Ready to query navigation cache for Resource/Extraction/Mining context...
+Beginning research phase: reading Flux framework and existing research documentation...
 
 ---
 
