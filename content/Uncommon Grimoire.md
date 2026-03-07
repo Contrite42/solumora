@@ -4,7 +4,7 @@ _Return to [[All Grimoire]]_
 
 ***
 
-**CurvedRing**
+**MindCone**
 Projects cognitive signal as a widening forward spread within fifty feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 535 W |
 | Shape | Pentagon |
@@ -20,7 +20,7 @@ Projects cognitive signal as a widening forward spread within fifty feet on the 
 
 ***
 
-**WarmCurse**
+**ChemTrace**
 Detects chemical-related phenomena and gathers information. within 50 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 153 W |
 | Shape | Pentagon |
@@ -36,7 +36,7 @@ Detects chemical-related phenomena and gathers information. within 50 feet, affe
 
 ***
 
-**StrongBond**
+**ConstraintMold**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 230 W |
 | Shape | Pentagon |
@@ -52,7 +52,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**PierceFlame**
+**ShockBreak**
 Disrupts and negates electric effects. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -68,7 +68,7 @@ Disrupts and negates electric effects. within 50 feet. Lasts roughly a minute be
 
 ***
 
-**BurShroud**
+**MindShield**
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 515 W |
 | Shape | Pentagon |
@@ -84,7 +84,7 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 
 ***
 
-**ReleasSigil**
+**MindGuard**
 Channels mind flux to produce its effect. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 250 W |
 | Shape | Square |
@@ -100,7 +100,7 @@ Channels mind flux to produce its effect. at point of contact, affecting a singl
 
 ***
 
-**SurgeRoad**
+**MindProbe**
 Reads surface thoughts and current mental states. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 555 W |
 | Shape | Pentagon |
@@ -116,7 +116,7 @@ Reads surface thoughts and current mental states. within 10 feet. Persists for s
 
 ***
 
-**SweepSpirit**
+**ShockNull**
 Disrupts and negates electric effects. at point of contact. Requires continuous concentration to sustain.
 | Wattage | 137 W |
 | Shape | Pentagon |
@@ -132,7 +132,7 @@ Disrupts and negates electric effects. at point of contact. Requires continuous 
 
 ***
 
-**VividThread**
+**ConstraintWave**
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 240 W |
 | Shape | Pentagon |
@@ -148,7 +148,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 
 ***
 
-**ShallowLock**
+**MindScreen**
 Filters psychic input, protecting against mental intrusion while allowing benign contact. within 50 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 553 W |
 | Shape | Pentagon |
@@ -164,7 +164,7 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 
 ***
 
-**AnchorLock**
+**ChemFilter**
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. within 10 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 153 W |
 | Shape | Pentagon |
@@ -180,7 +180,7 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 
 ***
 
-**SolidWisp**
+**MindShift**
 Channels mind flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention.
 | Wattage | 532 W |
 | Shape | Pentagon |
@@ -196,7 +196,7 @@ Channels mind flux to produce its effect. Extends across a flat surface, at poin
 
 ***
 
-**SolidSigil**
+**ConstraintBarrier**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 207 W |
 | Shape | Pentagon |
@@ -212,7 +212,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**KindleWay**
+**ChemBreak**
 Disrupts and negates chemical effects. at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
@@ -228,7 +228,7 @@ Disrupts and negates chemical effects. at point of contact. Persists until a spe
 
 ***
 
-**CaptureDance**
+**ConstraintProbe**
 Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 242 W |
 | Shape | Pentagon |
@@ -244,7 +244,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 
 ***
 
-**KindleStorm**
+**ConstraintDefend**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 218 W |
 | Shape | Pentagon |
@@ -260,7 +260,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**TwistMark**
+**ShockCounter**
 Disrupts and negates electric effects. within 50 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 168 W |
 | Shape | Pentagon |
@@ -276,7 +276,7 @@ Disrupts and negates electric effects. within 50 feet, affecting a single person
 
 ***
 
-**PaleWard**
+**MindLock**
 Locks mental patterns in place, preventing thought divergence. within 10 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 558 W |
 | Shape | Pentagon |
@@ -292,7 +292,7 @@ Locks mental patterns in place, preventing thought divergence. within 10 feet, a
 
 ***
 
-**RiseStorm**
+**ChemScan**
 Detects chemical-related phenomena and gathers information. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 150 W |
 | Shape | Pentagon |
@@ -308,7 +308,7 @@ Detects chemical-related phenomena and gathers information. within 10 feet. Pers
 
 ***
 
-**PiercPulse**
+**ChemBind**
 Anchors chemical flux to the target, holding it in place. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -324,7 +324,7 @@ Anchors chemical flux to the target, holding it in place. within 50 feet. Takes 
 
 ***
 
-**TwistStorm**
+**ChemDefend**
 Channels chemical flux to produce its effect. Spreads in a widening arc, within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 133 W |
 | Shape | Pentagon |
@@ -340,7 +340,7 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, within 
 
 ***
 
-**TwistVeil**
+**ChemWard**
 Channels chemical flux to produce its effect. within 10 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 147 W |
 | Shape | Pentagon |
@@ -356,7 +356,7 @@ Channels chemical flux to produce its effect. within 10 feet. Persists until a s
 
 ***
 
-**HeavyKnot**
+**MindRead**
 Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating.
 | Wattage | 525 W |
 | Shape | Pentagon |
@@ -372,7 +372,7 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, at 
 
 ***
 
-**DissolveStorm**
+**MindAnchor**
 Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
@@ -388,7 +388,7 @@ Locks mental patterns in place, preventing thought divergence. Spreads in a wide
 
 ***
 
-**DissolveLight**
+**ChemScreen**
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. Travels in a straight line, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
@@ -404,7 +404,7 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 
 ***
 
-**SurEcho**
+**MindStrike**
 Projects psychic force that penetrates mental defenses and influences thought patterns. Spreads in a widening arc, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 230 W |
 | Shape | Square |
@@ -420,7 +420,7 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 
 ***
 
-**CaptureBlessing**
+**ShockNull**
 Disrupts and negates electric effects. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 152 W |
 | Shape | Pentagon |
@@ -436,7 +436,7 @@ Disrupts and negates electric effects. within 10 feet. Persists for several minu
 
 ***
 
-**BindRune**
+**MindBreak**
 Disrupts and negates mind effects. at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 242 W |
 | Shape | Square |
@@ -452,7 +452,7 @@ Disrupts and negates mind effects. at point of contact. Persists until a specifi
 
 ***
 
-**PierceWay**
+**MindFlow**
 Channels mind flux to produce its effect. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 548 W |
 | Shape | Pentagon |
@@ -468,7 +468,7 @@ Channels mind flux to produce its effect. Spreads in a widening arc, within 10 f
 
 ***
 
-**PierceSight**
+**ShockScreen**
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 145 W |
 | Shape | Pentagon |
@@ -484,7 +484,7 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 
 ***
 
-**AnchorSigil**
+**ShockCancel**
 Disrupts and negates electric effects. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
@@ -500,7 +500,7 @@ Disrupts and negates electric effects. within 10 feet. Persists for several minu
 
 ***
 
-**BreakVeil**
+**ConstraintBeam**
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 228 W |
 | Shape | Pentagon |
@@ -516,7 +516,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 
 ***
 
-**SteadyVoid**
+**ConstraintSweep**
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 222 W |
 | Shape | Pentagon |
@@ -532,7 +532,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 
 ***
 
-**ChillShadow**
+**MindPulse**
 Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 242 W |
 | Shape | Square |
@@ -548,7 +548,7 @@ Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute
 
 ***
 
-**KindleMark**
+**ConstraintFilter**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 214 W |
 | Shape | Pentagon |
@@ -564,7 +564,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**RestlessCurse**
+**MindClamp**
 Locks mental patterns in place, preventing thought divergence. within 50 feet. Persists for several minutes without further attention.
 | Wattage | 557 W |
 | Shape | Pentagon |
@@ -580,7 +580,7 @@ Locks mental patterns in place, preventing thought divergence. within 50 feet. P
 
 ***
 
-**LoudAura**
+**ShockFilter**
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -596,7 +596,7 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 
 ***
 
-**RiseBrand**
+**MindDrift**
 Channels mind flux to produce its effect. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 545 W |
 | Shape | Pentagon |
@@ -612,7 +612,7 @@ Channels mind flux to produce its effect. within 10 feet. Persists until a speci
 
 ***
 
-**WildVoid**
+**ChemBlock**
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. at point of contact. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
@@ -628,7 +628,7 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 
 ***
 
-**PierceDream**
+**ConstraintBurst**
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
@@ -644,7 +644,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 
 ***
 
-**SweepShroud**
+**MindWard**
 Channels mind flux to produce its effect. within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 257 W |
 | Shape | Square |
@@ -660,7 +660,7 @@ Channels mind flux to produce its effect. within 50 feet. Persists until a speci
 
 ***
 
-**BurningRune**
+**MindScan**
 Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Takes effect in a single instant.
 | Wattage | 212 W |
 | Shape | Square |
@@ -676,7 +676,7 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, at 
 
 ***
 
-**CalmCurse**
+**MindProbe**
 Reads surface thoughts and current mental states. Spreads in a widening arc, within 50 feet. Takes effect in a single instant.
 | Wattage | 227 W |
 | Shape | Square |
@@ -692,7 +692,7 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, wit
 
 ***
 
-**HeavyVoice**
+**ChemGuard**
 Channels chemical flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -708,7 +708,7 @@ Channels chemical flux to produce its effect. within 50 feet. Lasts roughly a mi
 
 ***
 
-**DriftingCharm**
+**MindVeil**
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 520 W |
 | Shape | Pentagon |
@@ -724,7 +724,7 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 
 ***
 
-**FrozenBreath**
+**MindStream**
 Channels mind flux to produce its effect. Travels in a straight line, at point of contact. Persists for several minutes without further attention.
 | Wattage | 540 W |
 | Shape | Pentagon |
@@ -740,7 +740,7 @@ Channels mind flux to produce its effect. Travels in a straight line, at point o
 
 ***
 
-**PiercePulse**
+**ShockBarrier**
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -756,7 +756,7 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 
 ***
 
-**HeavyAura**
+**ChemFlow**
 Channels chemical flux to produce its effect. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -772,7 +772,7 @@ Channels chemical flux to produce its effect. within 50 feet. Takes effect in a 
 
 ***
 
-**TaintedGate**
+**MindBarrier**
 Channels mind flux to produce its effect. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 517 W |
 | Shape | Pentagon |
@@ -788,7 +788,7 @@ Channels mind flux to produce its effect. Travels in a straight line, within 10 
 
 ***
 
-**GuardBrand**
+**ConstraintCounter**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 237 W |
 | Shape | Pentagon |
@@ -804,7 +804,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**KindlMark**
+**MindNull**
 Disrupts and negates mind effects. Travels in a straight line, within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 227 W |
 | Shape | Square |
@@ -820,7 +820,7 @@ Disrupts and negates mind effects. Travels in a straight line, within 50 feet. L
 
 ***
 
-**AncientWard**
+**MindDetect**
 Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Takes effect in a single instant.
 | Wattage | 215 W |
 | Shape | Square |
@@ -836,7 +836,7 @@ Reads surface thoughts and current mental states. Travels in a straight line, wi
 
 ***
 
-**ReleaseStorm**
+**ConstraintBreak**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 202 W |
 | Shape | Pentagon |
@@ -852,7 +852,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**BurPath**
+**MindCancel**
 Disrupts and negates mind effects. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 550 W |
 | Shape | Pentagon |
@@ -868,7 +868,7 @@ Disrupts and negates mind effects. at point of contact, affecting a single perso
 
 ***
 
-**ChillDream**
+**ConstraintGuard**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 204 W |
 | Shape | Pentagon |
@@ -884,7 +884,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**BindThought**
+**MindBlast**
 Projects psychic force that penetrates mental defenses and influences thought patterns. Travels in a straight line, at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 529 W |
 | Shape | Pentagon |
@@ -900,7 +900,7 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 
 ***
 
-**BurnCurse**
+**MindGrip**
 Locks mental patterns in place, preventing thought divergence. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
@@ -916,7 +916,7 @@ Locks mental patterns in place, preventing thought divergence. Travels in a stra
 
 ***
 
-**DriftHeart**
+**MindMorph**
 Reshapes the target using mind flux. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 520 W |
 | Shape | Pentagon |
@@ -932,7 +932,7 @@ Reshapes the target using mind flux. Travels in a straight line, within 10 feet.
 
 ***
 
-**ClearCharm**
+**ConstraintAnchor**
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 225 W |
 | Shape | Pentagon |
@@ -948,7 +948,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 
 ***
 
-**GuardTide**
+**ChemDetect**
 Detects chemical-related phenomena and gathers information. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -964,7 +964,7 @@ Detects chemical-related phenomena and gathers information. within 50 feet. Last
 
 ***
 
-**StraightShell**
+**ConstraintLance**
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 230 W |
 | Shape | Pentagon |
@@ -980,7 +980,7 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 
 ***
 
-**ReleasEcho**
+**MindProbe**
 Reads surface thoughts and current mental states. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 237 W |
 | Shape | Square |
