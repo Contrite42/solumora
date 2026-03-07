@@ -89,4 +89,4 @@ The Academy's independence and practical focus create structural limitations:
 
 Despite these constraints, the Academy has maintained reputation as the primary authority on rift mechanics and has produced practical settlement-scale [[Flux]] solutions that would not emerge from [[Auralis]]'s more centralized research approaches.
 
-_See also: [[Terravelle]], [[Valdenmoor]], [[Flux Users]], [[Flux]], [[Rift Incursions]], [[Flux Demons]], [[Sigils]], [[Northern Lens]], [[Terravelle Guild System]], [[Control Tier]], [[Halveth]], [[Desert Watch]], [[Crestward Flux Institute]], [[Emberfall]]_
+_See also: [[Terravelle]], [[Valdenmoor]], [[Flux Users]], [[Flux]], [[Rift Incursions]], [[Flux Demons]], [[Sigils]], [[Northern Lens]], [[Terravelle Guild System]], [[Control Tier]], [[Halveth]], [[Desert Watch]], [[Crestward Flux Institute]], [[Emberfall]], [[Solhaven Flux Practical Research Collective]], [[Kedn Rast]], [[Resource Extraction Conflicts]]_
