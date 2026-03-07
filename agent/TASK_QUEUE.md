@@ -98,6 +98,133 @@ Blocked tasks are marked with their dependency.
 
 - [x] **Goal:** Clarify Zakros crossing access limits for low tiers in world-facing pages.
       **Constraints:** Establish explicitly that [[Control Tier|Tier 1]] and [[Control Tier|Tier 0]] travelers cannot break into the active Flux zone around [[Desert Zakros]], which is one reason crossings require specialist support. Keep all existing crossing methods canon-consistent. No new factions, characters, or named locations.
+
+---
+
+## NEXT EXPANSION CYCLE (READY TO EXECUTE)
+
+### Priority Track: Geographic Depth
+
+- [x] **EXPANSION-001: Terravelle Capital + Districts**
+      **Goal:** Build Terravelle's capital city with 3-4 districts showing daily life, governance, and cultural contrast with Auralis.
+      **Constraints:** Northern kingdom aesthetic (less Flux-engineered, more traditional/organic growth). Show governance tensions between expansion/conservative factions. Each district needs economy + social dynamics + recurring NPCs.
+      **Output:** 8-10 notes (capital + districts + 3-4 people) + update [[Terravelle]].
+      **Owner:** Copilot
+      **Seed concept:** Terravelle
+      **Status:** COMPLETE - Valdenmoor with 3 districts, 5 NPCs, Terravelle updated
+
+- [ ] **EXPANSION-002: Wolfpoint as Living Hub**
+      **Goal:** Expand [[Wolfpoint]] from reference to operational crossroads.
+      **Constraints:** Northern trade nexus, frontier energy, mixed-tier grimoire access. Show what flows through (goods, people, information) and who profits from position.
+      **Output:** 6-8 notes (port districts, trade houses, 2-3 key NPCs, 1-2 courier operations) + update [[Wolfpoint]].
+      **Owner:** TBD
+      **Seed concept:** Wolfpoint
+
+- [ ] **EXPANSION-003: Desert Zakros Settlement Layer**
+      **Goal:** Create 2-3 permanent/semi-permanent settlements in [[Desert Zakros]] showing survival strategies.
+      **Constraints:** Heat/flux challenges require grimoire support. Show who lives there (research, crossing support, resource extraction). Include failure modes (abandoned sites, deaths, resource collapse).
+      **Output:** 5-7 notes (settlements + survival systems + 2 NPCs) + update [[Desert Zakros]].
+      **Owner:** TBD
+      **Seed concept:** Desert Zakros
+
+### Priority Track: Social Systems
+
+- [ ] **EXPANSION-004: Education & Apprenticeship Systems**
+      **Goal:** Show how Flux knowledge and grimoire use spread through society (formal schools, apprenticeships, family traditions).
+      **Constraints:** Must reflect tier stratification. Common people learn differently than mages. Show both kingdom approaches (Auralis vs Terravelle cultural differences).
+      **Output:** 8-10 notes (institutions, teaching methods, famous teachers, apprenticeship contracts, learning costs) + update [[Flux Users]].
+      **Owner:** TBD
+      **Seed concept:** Flux Users
+
+- [ ] **EXPANSION-005: Law & Justice Systems**
+      **Goal:** Build operational legal systems showing how crimes involving Flux are prosecuted, judged, and punished in both kingdoms.
+      **Constraints:** Flux crimes are different (detection needs T3+, evidence manipulation possible, jurisdiction questions at border). Show how non-mages face mage criminals.
+      **Output:** 6-8 notes (courts, enforcement, 2-3 cases, punishment methods, cross-border jurisdiction) + create [[Law and Order]] hub.
+      **Owner:** TBD
+      **Seed concept:** Law and Order
+
+- [ ] **EXPANSION-006: Communication Networks**
+      **Goal:** Detail how information moves across Solumora (courier guilds, message systems, information brokers, news propagation).
+      **Constraints:** No instant communication (Flux doesn't do that). Show speed/cost/reliability trade-offs. Include misinformation and intelligence gathering.
+      **Output:** 7-9 notes (courier systems, codes/encryption, brokers, news distribution, 2-3 NPCs in information trade) + update [[Trade & Travel]].
+      **Owner:** TBD
+      **Seed concept:** Communication
+
+### Priority Track: Cultural Depth
+
+- [ ] **EXPANSION-007: Food & Drink Culture**
+      **Goal:** Ground the world in daily sensory experience through cuisine, preservation methods, Flux-assisted cooking, and regional specialties.
+      **Constraints:** Climate zones affect available ingredients. Show how Flux changes food (preservation, exotic dishes, waste reduction). Include social aspects (taverns, feast traditions, food taboos).
+      **Output:** 8-10 notes (regional cuisines, famous establishments, preservation grimoires, 2-3 chef/innkeeper NPCs) + create [[Food & Drink]] hub.
+      **Owner:** TBD
+      **Seed concept:** Food
+
+- [ ] **EXPANSION-008: Arts & Entertainment**
+      **Goal:** Show what people do for leisure, beauty, and cultural expression (theater, music, visual arts, sports/competitions, festivals).
+      **Constraints:** Flux enables some art forms (illusion theater, light sculpture). Art reflects power dynamics (who commissions, who performs, who watches). Include both high and common culture.
+      **Output:** 7-9 notes (art forms, major venues, festivals, 2-3 artist NPCs) + create [[Arts & Culture]] hub.
+      **Owner:** TBD
+      **Seed concept:** Arts
+
+- [ ] **EXPANSION-009: Calendar & Timekeeping**
+      **Goal:** Define how Solumora measures time (days, months, years, seasons, historical eras) and what cultural events mark the calendar.
+      **Constraints:** Must account for equatorial planet (different seasonal patterns), show kingdom differences if any. Include both formal (governmental) and informal (agricultural, religious, social) calendars.
+      **Output:** 4-6 notes (calendar system, major holidays/festivals, historical eras, timekeeping methods) + update [[Solumora]].
+      **Owner:** TBD
+      **Seed concept:** Calendar
+
+### Priority Track: Adventure Infrastructure
+
+- [ ] **EXPANSION-010: Ruins & Ancient Sites**
+      **Goal:** Expand [[Ancient Ruins]] with 4-6 specific sites showing different ruin types, dangers, and why people explore them.
+      **Constraints:** Pre-Flux civilization mystery preserved. Each ruin needs: location, known dangers, what's been found, who explores, unresolved questions. Include at least one "total loss" expedition.
+      **Output:** 6-8 notes (specific ruin sites + 1-2 explorer NPCs + ruin-delving culture) + update [[Ancient Ruins]].
+      **Owner:** TBD
+      **Seed concept:** Ancient Ruins
+
+- [ ] **EXPANSION-011: Wilderness & Creatures**
+      **Goal:** Build ecosystem layer with dangerous/useful creatures beyond [[Equatorial Fauna]].
+      **Constraints:** Show Flux's effect on wildlife (mutations, behaviors, flux-beast category). Include both threats and resources (creature products, symbiotic relationships).
+      **Output:** 8-10 notes (creature types, habitats, hunter culture, creature product trade, 1-2 naturalist NPCs) + create [[Creatures]] hub.
+      **Owner:** TBD
+      **Seed concept:** Creatures
+
+- [ ] **EXPANSION-012: Adventurer Support Network**
+      **Goal:** Detail the commercial infrastructure serving [[Adventurers]] (gear suppliers, map makers, information brokers, rescue services, death documentation).
+      **Constraints:** Adventuring is dangerous business. Show how support systems profit from risk-takers. Include failure modes (scams, bad intel, abandoned contracts).
+      **Output:** 6-8 notes (support services, major vendors, contracts, 2-3 service provider NPCs) + update [[Adventurers]].
+      **Owner:** TBD
+      **Seed concept:** Adventurers
+
+### Priority Track: Economic Detail
+
+- [ ] **EXPANSION-013: Currency & Banking**
+      **Goal:** Define money systems, banking institutions, credit mechanisms, and cross-kingdom financial exchange.
+      **Constraints:** Two kingdoms may have different currencies. Show how Flux affects finance (detection, verification, transportation security). Include both formal banks and informal lending.
+      **Output:** 5-7 notes (currency systems, banks, exchange mechanisms, debt collection, 1-2 financier NPCs) + create [[Economy]] hub.
+      **Owner:** TBD
+      **Seed concept:** Currency
+
+- [ ] **EXPANSION-014: Resource Extraction & Refinement**
+      **Goal:** Show how raw materials are gathered and processed (mining, logging, quarrying, rare material trade).
+      **Constraints:** Some resources require Flux for safe extraction. Show labor conditions, environmental impacts, supply chain to cities, conflicts over resources.
+      **Output:** 6-8 notes (industries, major extraction sites, refining processes, 2-3 industry NPCs, 1 resource conflict) + update [[Economy]] hub.
+      **Owner:** TBD
+      **Seed concept:** Resources
+
+### Optional Extensions (Lower Priority)
+
+- [ ] **EXTENSION-001: Historical Deep Dive**
+      **Goal:** Expand timeline with 3-4 major historical events showing how current power structures formed.
+      **Note:** Only pursue if historical events naturally emerge from priority track work.
+
+- [ ] **EXTENSION-002: Minor Settlements Network**
+      **Goal:** Create 5-8 villages/towns between major hubs showing rural life and local governance.
+      **Note:** Good for filling geographic gaps discovered during priority track.
+
+- [ ] **EXTENSION-003: Specialist Professions**
+      **Goal:** Detail 4-6 specialized careers showing expertise layers (sigil crafters, flux physicians, grimoire binders, etc).
+      **Note:** Pursue when systems need human faces.
       **Output:** Append clarifying language to existing desert crossing pages (minimum: [[Equatorial Desert]] plus two crossing-method/site notes) and add/verify at least one hub backlink.
       **Escalation note:** If scope expands to `content/Solumora.md` or `content/World Primer.md`, create a `agent/DECISIONS.md` escalation entry first.
       **Owner:** `Claude Code`

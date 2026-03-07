@@ -1,0 +1,403 @@
+{
+  "concept": "Terravelle",
+  "top_pages": [
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 43,
+      "outlink_count": 36,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "seed_outlink",
+      "score": 583,
+      "line_count": 199,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 550,
+      "line_count": 63,
+      "outlink_count": 33,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "seed_outlink",
+      "score": 479,
+      "line_count": 21,
+      "outlink_count": 15,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 21,
+          "preview": "Current [[Flux]] research is dominated by two philosophical approaches that reflect the kingdoms' different priorities:"
+        }
+      ]
+    },
+    {
+      "id": "Flux Users",
+      "path": "content/Flux Users.md",
+      "title": "Scribes",
+      "why": "seed_outlink",
+      "score": 431,
+      "line_count": 25,
+      "outlink_count": 12,
+      "read_plan": [
+        {
+          "section": "Scribes",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "Scribes copy and reproduce existing [[Sigils]] and [[Grimoires]] for mass distribution. Their work is exacting \u2014 a misdrawn [[Sigils|sigil]] fails or misfires \u2014 and a skilled Scribe is commercially valuable regardless of"
+        },
+        {
+          "section": "Formulists",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Formulist is the general term for anyone actively practicing [[Flux]] use in daily life. Most working casters fall here \u2014 the blacksmith with a [[Common Grimoire#Warmstone|Warmstone]] sigil on his forge, the courier carr"
+        },
+        {
+          "section": "Channelers",
+          "start_line": 13,
+          "end_line": 16,
+          "preview": "Channeler is reserved for those who can operate safely at [[Control Tier]] 5 and above. At this threshold, the exponential nature of [[Flux]] scaling means a Channeler is not simply a stronger Formulist \u2014 they are catego"
+        },
+        {
+          "section": "Scholars",
+          "start_line": 17,
+          "end_line": 20,
+          "preview": "A Scholar is anyone whose primary pursuit is the creation and development of new [[Sigils]] and spell structures. [[Control Tier]] ceiling is irrelevant \u2014 a Tier 1 caster can spend a lifetime designing [[Sigils|sigils]] "
+        }
+      ]
+    },
+    {
+      "id": "Equatorial Desert",
+      "path": "content/Equatorial Desert.md",
+      "title": "Geography",
+      "why": "seed_outlink",
+      "score": 414,
+      "line_count": 117,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Geography",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Zakros sits directly on Solumora's equator, a belt of hostile terrain several weeks wide for any traveler moving north to south. It is not a single uniform landscape \u00e2\u20ac\u201d dune fields, cracked salt flats, exposed rock shel"
+        },
+        {
+          "section": "Crossing",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "There are better routes and worse ones. No route is safe. The better paths \u00e2\u20ac\u201d known to experienced guides, jealously kept, and sold for considerable [[Solumora|Watts]] \u00e2\u20ac\u201d reduce crossing time and offer slightly more pr"
+        },
+        {
+          "section": "Tier Access Limits",
+          "start_line": 19,
+          "end_line": 26,
+          "preview": "The desert's ambient [[Flux]] distortion is the hard constraint on who can survive a crossing without specialist support. [[Control Tier|T0]] practitioners have no Flux capacity and cannot cast any of the protection effe"
+        },
+        {
+          "section": "Fauna",
+          "start_line": 27,
+          "end_line": 34,
+          "preview": "Zakros is not lifeless. Its ecosystem is built almost entirely on insects and arachnids, most of which are [[Flux]]-fueled \u00e2\u20ac\u201d drawing ambient energy from the desert rather than relying solely on biological food chains. "
+        }
+      ]
+    },
+    {
+      "id": "The Council of Auralis",
+      "path": "content/The Council of Auralis.md",
+      "title": "Structure and Factions",
+      "why": "seed_outlink",
+      "score": 404,
+      "line_count": 92,
+      "outlink_count": 51,
+      "read_plan": [
+        {
+          "section": "Structure and Factions",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "The twenty members divide into three factions with distinct and occasionally competing goals. Alliances shift on specific votes but the factions themselves are stable \u2014 they represent genuine differences in what council "
+        },
+        {
+          "section": "The Culmination Faction",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "The largest faction, eleven members, organized around the council's defining long-term goal: the recovery and completion of whatever the pre-modern civilization in [[Equatorial Desert|Desert Zakros]] was building. The fa"
+        },
+        {
+          "section": "The Expansion Faction",
+          "start_line": 15,
+          "end_line": 20,
+          "preview": "Six members, organized around the straightforward goal of growing [[Auralis]]'s territory, population, and economic base. They are the most conventionally political faction \u2014 interested in trade routes, border security, "
+        },
+        {
+          "section": "Cassia's Faction",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Three members who back [[Cassia]] with genuine loyalty: [[Maren Sollis]], an older woman who served under the previous queen and transferred her allegiance to the infant who survived her; [[Tovan Ashce]], a mid-tier cast"
+        }
+      ]
+    },
+    {
+      "id": "Valdenmoor",
+      "path": "content/Valdenmoor.md",
+      "title": "Layout and Architecture",
+      "why": "seed_outlink",
+      "score": 400,
+      "line_count": 37,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Layout and Architecture",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Valdenmoor follows the Terravellian architectural instinct without compromise \u2014 the city spreads outward rather than upward, a sprawl of single and double-story buildings connected by wide roads designed to move goods ef"
+        },
+        {
+          "section": "Population and Character",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "Valdenmoor is the largest city in [[Terravelle]] and one of the largest in [[Solumora]], with a population somewhere above half a million. It draws from every region of the kingdom \u2014 merchants, [[Flux Users|Scribes]], cr"
+        },
+        {
+          "section": "The Maren River",
+          "start_line": 17,
+          "end_line": 20,
+          "preview": "The Maren River runs through the center of the city and has been the reason for Valdenmoor's location since the original settlement. River trade along the Maren connects the capital to the eastern and western coasts, and"
+        },
+        {
+          "section": "Relevance to Current Events",
+          "start_line": 21,
+          "end_line": 26,
+          "preview": "[[Cael]] grew up in Valdenmoor and spends most of his time here. The parties, the sympathetic [[Flux Users|Formulists]] he questions about channeling cost, the social world he moves through \u2014 all of it is Valdenmoor. Edd"
+        }
+      ]
+    },
+    {
+      "id": "Ashford",
+      "path": "content/Ashford.md",
+      "title": "Character",
+      "why": "seed_outlink",
+      "score": 380,
+      "line_count": 33,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Character",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Ashford is rougher than [[Valdenmoor]] in the way that port cities tend to be \u2014 more transient, more tolerant of the irregular, more oriented toward the transaction than the institution. [[Flux]] use here leans heavily t"
+        },
+        {
+          "section": "The Northern Territory",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "The coastal territory north of Ashford \u2014 absorbed into [[Terravelle]] during the campaign in which Eddan's elder son died \u2014 has never fully settled into the kingdom's administration. The independent coastal communities t"
+        },
+        {
+          "section": "Strategic Importance",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Eddan considers Ashford one of the three non-negotiables of Terravellian security. Losing control of the eastern coast would cut off trade revenue that funds a significant portion of the kingdom's military and administra"
+        },
+        {
+          "section": "Movement Infrastructure",
+          "start_line": 25,
+          "end_line": 33,
+          "preview": "Ashford's trade volume depends on three movement systems that overlap without merging cleanly. Bulk cargo arrives through the [[Maren Freight Chain]] and is redistributed through dock districts that can absorb schedule s"
+        }
+      ]
+    },
+    {
+      "id": "Solumora",
+      "path": "content/Solumora.md",
+      "title": "Economy",
+      "why": "seed_outlink",
+      "score": 368,
+      "line_count": 91,
+      "outlink_count": 53,
+      "read_plan": [
+        {
+          "section": "Economy",
+          "start_line": 7,
+          "end_line": 10,
+          "preview": "The economy of Solumora follows a pattern familiar to anyone who has tried to survive in it: the things you need to stay alive are within reach, and everything that makes life worth living will cost you dearly."
+        },
+        {
+          "section": "Currency \u2014 [[Watts]]",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "The currency of Solumora is the **Watt**. [[Watts]] are not coins, notes, or physical objects. They are entries on a distributed ledger written into the ambient [[Flux]] field itself, verified by every transaction in the"
+        },
+        {
+          "section": "The Birth Rune",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "A [[Birth Runes|birth rune]] is a personal [[Sigils|sigil]] that registers an individual within the ledger and serves as their financial identity. It is an address, not a container \u2014 the rune identifies who you are withi"
+        },
+        {
+          "section": "Price Structure",
+          "start_line": 25,
+          "end_line": 36,
+          "preview": "The Solumoran economy splits cleanly along one line: survival is cheap, comfort is not."
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Adventurers",
+      "Ancient Ruins",
+      "Ashford",
+      "Ashford Dock Compact",
+      "Ashford Supply Contract",
+      "Ashford-Halveth Courier Road",
+      "Auralis",
+      "Biological Transformation",
+      "Birth Runes",
+      "Black Market Grimoire Circulation",
+      "Black Market Grimoires",
+      "Bone Road Consortium",
+      "Border Guards",
+      "Border Trade",
+      "Breck Tor",
+      "Bren Ossve",
+      "Brend Point",
+      "Brendt Lineage",
+      "Brennan Solce",
+      "Brenne Kalt",
+      "Cadell Mors",
+      "Cael",
+      "Cassia",
+      "Castor Helme",
+      "Cavel Dorst",
+      "Celd Arren",
+      "Charter Road Wardens",
+      "Coastal Settlement Network",
+      "Common Grimoire Market",
+      "Cors Lineage"
+    ],
+    "outlinks": [
+      "Adventurers",
+      "Ashford",
+      "Auralis",
+      "Cassia",
+      "Cavel Dorst",
+      "Caven Torst",
+      "Control Tier",
+      "Discipline",
+      "Eddan Voss",
+      "Equatorial Desert",
+      "Flux",
+      "Flux Users",
+      "Greyveil",
+      "Grimoires",
+      "Guild Quarter",
+      "History of Solumora",
+      "Life in Greyveil",
+      "Life in Rural Terravelle",
+      "Life in Valdenmoor",
+      "Maren Freight Chain",
+      "Maren River",
+      "Maren Valley",
+      "Noll Drenk",
+      "Ordinary Life in Terravelle",
+      "Orre Cavlt",
+      "People",
+      "Solumora",
+      "Terravelle",
+      "Terravelle Administration",
+      "The Council of Auralis"
+    ]
+  }
+}

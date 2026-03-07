@@ -1,6 +1,9 @@
 Python Script Hub
 =================
 
+ALL project Python scripts are consolidated in scripts/python/.
+Use pyhub.py as the single entry point for script discovery and execution.
+
 Single access point:
   python scripts/python/pyhub.py list
   python scripts/python/pyhub.py run <script-name> [args...]

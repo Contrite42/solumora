@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Central launcher for Python utilities in this repo.
 
+All Python scripts are consolidated in scripts/python/.
 This script provides one stable entry point for humans and agentic tools.
 """
 
@@ -17,16 +18,8 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 SCRIPT_DIR = Path(__file__).resolve().parent
 
 
-def discover_legacy_scripts() -> dict[str, Path]:
-    scripts: dict[str, Path] = {}
-    for path in sorted(REPO_ROOT.glob("*.py")):
-        if path.name.startswith("_"):
-            continue
-        scripts[path.stem] = path
-    return scripts
-
-
-def discover_hub_scripts() -> dict[str, Path]:
+def discover_scripts() -> dict[str, Path]:
+    """Discover all Python scripts in scripts/python/ directory."""
     scripts: dict[str, Path] = {}
     for path in sorted(SCRIPT_DIR.glob("*.py")):
         if path.name in {"pyhub.py", "__init__.py"}:
@@ -36,20 +29,20 @@ def discover_hub_scripts() -> dict[str, Path]:
 
 
 def build_registry() -> dict[str, Path]:
+    """Build script registry with hub: prefix for all scripts."""
     registry: dict[str, Path] = {}
-    registry.update(discover_legacy_scripts())
-    for name, path in discover_hub_scripts().items():
+    for name, path in discover_scripts().items():
         registry[f"hub:{name}"] = path
     return registry
 
 
 def cmd_list(args: argparse.Namespace) -> int:
+    """List all available scripts."""
     registry = build_registry()
     payload = [
         {
             "name": name,
             "path": str(path.relative_to(REPO_ROOT)),
-            "scope": "hub" if name.startswith("hub:") else "legacy",
         }
         for name, path in sorted(registry.items())
     ]
@@ -57,7 +50,7 @@ def cmd_list(args: argparse.Namespace) -> int:
         print(json.dumps(payload, indent=2))
     else:
         for item in payload:
-            print(f"{item['name']:<30} {item['scope']:<7} {item['path']}")
+            print(f"{item['name']:<30} {item['path']}")
     return 0
 
 

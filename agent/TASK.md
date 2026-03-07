@@ -1,58 +1,46 @@
-# Task: High Demon Layer Expansion (ESCALATION REQUIRED)
+# Active Task: EXPANSION-002 - Wolfpoint as Living Hub
+
+**Status:** IN PROGRESS
+**Owner:** Copilot
+**Started:** 2026-03-06
 
 ## Goal
 
-Expand the **High Demon Layer** with operational detail showing what the five High Demons (Sorath, Selvane, Fennick, Mave, Wren) actually do day-to-day.
+Expand Wolfpoint from reference to operational crossroads showing northern trade nexus with frontier energy and mixed-tier grimoire access.
 
 ## Constraints
 
-- Five High Demons exist but their daily activities, territorial boundaries, detection avoidance, conflicts/alliances need detail
-- Must preserve "nobody knows they exist" constraint while showing operational reality
-- This is **sensitive canon** — escalate any structural additions to [[DECISIONS.md]] before content creation
-- 5-8 notes total: demon territories/routines + detection-avoidance methods + 2-3 near-miss incidents
-- Update [[High Demons]] page (if exists) or relevant demon pages with behavioral patterns
-
-## Escalation Note
-
-**This task requires creator approval via DECISIONS.md before content creation begins.**
-
-Research and planning activities are permitted:
-- Reading existing demon documentation
-- Identifying canon gaps
-- Drafting expansion options for creator review
-
-Content creation (new demon pages, behavioral detail, near-miss incidents) requires explicit creator approval in agent/DECISIONS.md.
+- Far north location, constant 45°F cold, wind-resistant architecture
+- Voss family leadership and Hypertext development center (do not modify core canon)
+- Existing economic operations: Cold-Forge Works (Trel Vann), Mountain Game Collective (Dren Vass, Morra Keld), Upland Herding Network (Lenna Tors)
+- Small permanent population (few hundred) with rotating practitioners
+- Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
+- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
 
 ## Output Target
 
-5-8 notes showing demon operational reality + behavioral patterns integration (AFTER creator approval)
+6-8 notes total:
+- 2-3 port/trade district notes (showing what flows through)
+- 2-3 trade house/merchant operation notes (who profits from position)
+- 2-3 NPC notes (merchants, operators, frontier characters)
+- 1-2 courier operation notes (information movement)
+- Update [[Wolfpoint]] with operational detail
 
 ## Execution Plan
 
-1. **FIRST:** Review existing High Demon documentation (Sorath, Selvane, Fennick, Mave, Wren pages)
-2. **SECOND:** Draft expansion options (A/B/C) for creator review in agent/DECISIONS.md
-3. **THIRD:** Wait for creator decision before proceeding with content creation
-4. **IF APPROVED:** Create demon territory/routine notes, detection-avoidance systems, near-miss incidents
-5. **IF APPROVED:** Update demon pages with behavioral integration
-6. **IF APPROVED:** Run canon/link integrity check
+1. Read existing Wolfpoint page fully
+2. Identify gaps in operational detail (port structure, trade houses, couriers)
+3. Design 2-3 districts/areas showing trade flow
+4. Design 2-3 merchant operations and 2-3 NPCs
+5. Design 1-2 courier/information operations
+6. Write all content notes
+7. Update Wolfpoint page with links
+8. Refresh navigation artifacts
+9. Mark complete in TASK_QUEUE.md
 
-## Status
+## Current Step
 
-COMPLETE - Decision E approved (`APPROVED (C)`), scoped operational notes and near-miss integrations are present in content.
-
----
-
-## Operator Override Completed (2026-03-06)
-
-Grimoire hygiene pass completed outside High Demon scope:
-- Removed malformed/low-quality generated spell entries from tiered grimoires.
-- Normalized spell-entry formatting across `Common`, `Uncommon`, `Rare`, `Legendary`, `Mythic`, and `Pale` grimoires.
-- Removed all individual spell pages under `content/Spells/`.
-- Updated hubs so spell references now point to tiered grimoires as canonical lookup sources.
-
-Policy now active for pipeline work:
-- Do not create new `content/Spells/*.md` pages.
-- Add and maintain spells only inside tiered grimoire files.
+Reading Wolfpoint canon...
 
 ---
 
@@ -76,7 +64,6 @@ Verification requirement:
 
 - Confirm both cache files exist and parse after refresh: `tmp/concept-graph.json`, `tmp/context-index.json`.
 - For active tasks, generate at least one task-scoped nav pack: `tmp/nav-<concept>.json`.
-- If refresh fails, stop pipeline handoff and record failure details in `agent/reports/last_error.txt`.
 
 Operational rule:
 
@@ -85,19 +72,12 @@ Operational rule:
 
 ---
 
-## Archived Batch Notes (Do Not Execute)
+## Policy: Grimoire Spell Management
 
-Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Terravelle]], [[Auralis]]
-
-**Cavel Dorst** — merchant house manager, Ashford. T3, 44 years old.
-Append section titled `## The Audit That Hasn't Come`. Guild documentation requirements have shifted three times in eight months, each time in the direction of more granular reporting on cross-border shipments. His contacts at the guild say the changes come from Auralis-side regulatory pressure, though they use careful language about this. He has updated his compliance protocols ahead of each change because he learned years ago that being prepared for an audit that never comes costs less than being unprepared for one that does. The changes have a direction. The direction has not been stated. He has documented what he observes.
-Outbound links: [[Ashford]], [[Expansion Faction]], [[Life in Ashford]], [[Valdenmoor]], [[Trade Guilds]], [[Auralis]]
-
----
-
-## TASK-10: APPEND to content/Cassia.md
-
-Append section titled `## What She Knows`.
+Active policy for all spell-related work:
+- Do not create new `content/Spells/*.md` pages.
+- Add and maintain spells only inside tiered grimoire files.
+- Tiered grimoires are the canonical spell reference source.
 
 Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
 
