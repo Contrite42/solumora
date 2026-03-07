@@ -1,7 +1,13 @@
 Rare spells require [[Control Tier]] T5–T6 and are the exclusive territory of Channelers. At this level the exponential nature of [[Flux]] scaling means these casters are categorically different from the population below them. Rare spells are not found in mass-market [[Grimoires]] — they circulate through Scholars, private collections, and controlled institutional libraries. In [[Auralis]] some are openly studied; in [[Terravelle]] most require formal justification to possess.
 
 _Return to [[All Grimoire]]_
-**FallTouch**
+
+***
+
+FallTouch
+
+***
+
 Screens soul-signature flux across the inscribed face within fifty feet across only targets that match the filter, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
 | Wattage | 1600 W |
 | Shape | Pentagon |
@@ -15,11 +21,18 @@ Screens soul-signature flux across the inscribed face within fifty feet across o
 | Persistence | Timed (Long) |
 | Target | Filter |
 
+\n\n
 
+***
 
+*\n\n
 
----
-**AnchorShadow**
+***
+
+AnchorShadow
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. Spreads in a widening arc, at up to 200 feet. Persists until a specified condition triggers its release.
 | Wattage | 1605 W |
 | Shape | Pentagon |
@@ -32,8 +45,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. Spr
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
----
-**GuardSeal**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardSeal
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Travels in a straight line, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 1407 W |
 | Shape | Circle |
@@ -46,8 +69,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**SurgeFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeFrost
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. at up to 200 feet. Persists for several minutes without further attention.
 | Wattage | 4212 W |
 | Shape | Circle |
@@ -60,8 +93,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. at 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**CalmSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmSigil
+
+***
+
 Disrupts and negates soul effects. Expands in all directions from the center, at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 4213 W |
 | Shape | Circle |
@@ -74,8 +117,18 @@ Disrupts and negates soul effects. Expands in all directions from the center, at
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**ChillFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillFrost
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Extends across a flat surface, within 10 feet.
 | Wattage | 4175 W |
 | Shape | Circle |
@@ -88,8 +141,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Surface |
----
-**SurgeDream**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeDream
+
+***
+
 Reshapes the target using soul flux. Spreads in a widening arc, at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1557 W |
 | Shape | Pentagon |
@@ -102,8 +165,18 @@ Reshapes the target using soul flux. Spreads in a widening arc, at up to 200 fee
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**LoneFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LoneFlame
+
+***
+
 Disrupts and negates mind effects. Extends across a flat surface, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1825 W |
 | Shape | Circle |
@@ -116,8 +189,18 @@ Disrupts and negates mind effects. Extends across a flat surface, within 50 feet
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
----
-**BreakScar**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakScar
+
+***
+
 Channels soul flux to produce its effect. Expands in all directions from the center, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 1557 W |
 | Shape | Pentagon |
@@ -130,8 +213,18 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**PiercBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercBreath
+
+***
+
 Channels mind flux to produce its effect. Travels in a straight line, within 10 feet.
 | Wattage | 1433 W |
 | Shape | Circle |
@@ -144,8 +237,18 @@ Channels mind flux to produce its effect. Travels in a straight line, within 10 
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Individual |
----
-**PierceBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceBrand
+
+***
+
 Channels soul flux to produce its effect. within 50 feet. The effect becomes permanent once established.
 | Wattage | 1995 W |
 | Shape | Pentagon |
@@ -158,8 +261,18 @@ Channels soul flux to produce its effect. within 50 feet. The effect becomes per
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
----
-**WildGate**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WildGate
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Extends across a flat surface, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1795 W |
 | Shape | Circle |
@@ -172,8 +285,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
----
-**FlowThought**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowThought
+
+***
+
 Channels soul flux to produce its effect. Travels in a straight line, at up to 200 feet. The effect becomes permanent once established.
 | Wattage | 1947 W |
 | Shape | Pentagon |
@@ -186,8 +309,18 @@ Channels soul flux to produce its effect. Travels in a straight line, at up to 2
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
----
-**LoudVoid**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LoudVoid
+
+***
+
 Channels soul flux to produce its effect. Extends across a flat surface, within 10 feet.
 | Wattage | 1605 W |
 | Shape | Pentagon |
@@ -200,8 +333,18 @@ Channels soul flux to produce its effect. Extends across a flat surface, within 
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
----
-**AnchorPulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorPulse
+
+***
+
 Reshapes the target using soul flux. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 4200 W |
 | Shape | Circle |
@@ -214,8 +357,18 @@ Reshapes the target using soul flux. Travels in a straight line, within 10 feet.
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Filter |
----
-**DissolvPath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvPath
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. within 10 feet, hitting multiple targets. Persists for several minutes without further attention.
 | Wattage | 1585 W |
 | Shape | Pentagon |
@@ -228,8 +381,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. wit
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
----
-**ShatterBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterBrand
+
+***
+
 Locks mental patterns in place, preventing thought divergence. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1415 W |
 | Shape | Circle |
@@ -242,8 +405,18 @@ Locks mental patterns in place, preventing thought divergence. within 50 feet. L
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**LightGlyph**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LightGlyph
+
+***
+
 Channels mind flux to produce its effect. Expands in all directions from the center, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1417 W |
 | Shape | Circle |
@@ -256,8 +429,18 @@ Channels mind flux to produce its effect. Expands in all directions from the cen
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**AnchorFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorFlame
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Spreads in a widening arc, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 4158 W |
 | Shape | Circle |
@@ -270,8 +453,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**SurgeMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeMark
+
+***
+
 Reshapes the target using soul flux. Spreads in a widening arc, at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1563 W |
 | Shape | Pentagon |
@@ -284,8 +477,18 @@ Reshapes the target using soul flux. Spreads in a widening arc, at up to 200 fee
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**TransformPulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformPulse
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Spreads in a widening arc, at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 1565 W |
 | Shape | Pentagon |
@@ -298,8 +501,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. S
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**CaptureLight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureLight
+
+***
+
 Disrupts and negates soul effects. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 1565 W |
 | Shape | Pentagon |
@@ -312,8 +525,18 @@ Disrupts and negates soul effects. Extends across a flat surface, within 10 feet
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
----
-**CurvedKey**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CurvedKey
+
+***
+
 Disrupts and negates mind effects. Spreads in a widening arc, at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 1495 W |
 | Shape | Circle |
@@ -326,8 +549,18 @@ Disrupts and negates mind effects. Spreads in a widening arc, at up to 200 feet.
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Filter |
----
-**FreezeFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeFlame
+
+***
+
 Releases soul-flux that resonates with targets' metaphysical essence. Travels in a straight line, within 50 feet.
 | Wattage | 1595 W |
 | Shape | Pentagon |
@@ -340,8 +573,18 @@ Releases soul-flux that resonates with targets' metaphysical essence. Travels in
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
----
-**TransformDance**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformDance
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Expands in all directions from the center, at up to 200 feet.
 | Wattage | 4270 W |
 | Shape | Circle |
@@ -354,8 +597,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. E
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
----
-**SurSeal**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurSeal
+
+***
+
 Disrupts and negates mind effects. Travels in a straight line, at up to 200 feet.
 | Wattage | 1495 W |
 | Shape | Circle |
@@ -368,8 +621,18 @@ Disrupts and negates mind effects. Travels in a straight line, at up to 200 feet
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
----
-**HeavyRoot**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyRoot
+
+***
+
 Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1392 W |
 | Shape | Circle |
@@ -382,8 +645,18 @@ Reads surface thoughts and current mental states. Travels in a straight line, wi
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**DriftBridge**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftBridge
+
+***
+
 Channels mind flux to produce its effect. at up to 200 feet, hitting multiple targets. Persists for several minutes without further attention.
 | Wattage | 1495 W |
 | Shape | Circle |
@@ -396,8 +669,18 @@ Channels mind flux to produce its effect. at up to 200 feet, hitting multiple ta
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
----
-**PierceShadow**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceShadow
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 1532 W |
 | Shape | Pentagon |
@@ -410,8 +693,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. wit
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**ReleasMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasMark
+
+***
+
 Channels soul flux to produce its effect. Spreads in a widening arc, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 4183 W |
 | Shape | Circle |
@@ -424,8 +717,18 @@ Channels soul flux to produce its effect. Spreads in a widening arc, within 50 f
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**AncientFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AncientFrost
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Travels in a straight line, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 1418 W |
 | Shape | Circle |
@@ -438,8 +741,18 @@ Locks mental patterns in place, preventing thought divergence. Travels in a stra
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**FreezeDance**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeDance
+
+***
+
 Channels soul flux to produce its effect. Expands in all directions from the center, within 10 feet. The effect becomes permanent once established.
 | Wattage | 1995 W |
 | Shape | Pentagon |
@@ -452,8 +765,18 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Filter |
----
-**CalmScar**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmScar
+
+***
+
 Channels soul flux to produce its effect. Expands in all directions from the center, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
@@ -466,8 +789,18 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
----
-**HiddenLock**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HiddenLock
+
+***
+
 Channels mind flux to produce its effect. Expands in all directions from the center, within 10 feet.
 | Wattage | 1485 W |
 | Shape | Circle |
@@ -480,8 +813,18 @@ Channels mind flux to produce its effect. Expands in all directions from the cen
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Group |
----
-**PierceBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceBreath
+
+***
+
 Disrupts and negates soul effects. Extends across a flat surface, at up to 200 feet. The effect becomes permanent once established.
 | Wattage | 4573 W |
 | Shape | Circle |
@@ -494,8 +837,18 @@ Disrupts and negates soul effects. Extends across a flat surface, at up to 200 f
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Individual |
----
-**SweepFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepFlame
+
+***
+
 Channels mind flux to produce its effect. within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1410 W |
 | Shape | Circle |
@@ -508,8 +861,18 @@ Channels mind flux to produce its effect. within 10 feet. Lasts roughly a minute
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**BurWisp**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurWisp
+
+***
+
 Channels soul flux to produce its effect. Extends across a flat surface, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 4142 W |
 | Shape | Circle |
@@ -522,8 +885,18 @@ Channels soul flux to produce its effect. Extends across a flat surface, within 
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**AncientSilence**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AncientSilence
+
+***
+
 Locks mental patterns in place, preventing thought divergence. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 1425 W |
 | Shape | Circle |
@@ -536,8 +909,18 @@ Locks mental patterns in place, preventing thought divergence. within 10 feet. P
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**SteadyGate**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SteadyGate
+
+***
+
 Disrupts and negates soul effects. Spreads in a widening arc, within 50 feet.
 | Wattage | 1570 W |
 | Shape | Pentagon |
@@ -550,8 +933,18 @@ Disrupts and negates soul effects. Spreads in a widening arc, within 50 feet.
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Surface |
----
-**BindSight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindSight
+
+***
+
 Reshapes the target using soul flux. Expands in all directions from the center, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 4215 W |
 | Shape | Circle |
@@ -564,8 +957,18 @@ Reshapes the target using soul flux. Expands in all directions from the center, 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Group |
----
-**PureMirror**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PureMirror
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 4145 W |
 | Shape | Circle |
@@ -578,8 +981,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. Tra
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**FreezeLight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeLight
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. Travels in a straight line, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 1538 W |
 | Shape | Pentagon |
@@ -592,8 +1005,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. Tra
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**DullLock**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DullLock
+
+***
+
 Channels soul flux to produce its effect. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 4148 W |
 | Shape | Circle |
@@ -606,8 +1029,18 @@ Channels soul flux to produce its effect. Travels in a straight line, within 10 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**ShatterBlessing**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterBlessing
+
+***
+
 Channels soul flux to produce its effect. Extends across a flat surface, at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1553 W |
 | Shape | Pentagon |
@@ -620,8 +1053,18 @@ Channels soul flux to produce its effect. Extends across a flat surface, at up t
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**SweepDoor**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepDoor
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Expands in all directions from the center, at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 1457 W |
 | Shape | Circle |
@@ -634,8 +1077,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**ShatterEcho**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterEcho
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. at up to 200 feet. Persists for several minutes without further attention.
 | Wattage | 1582 W |
 | Shape | Pentagon |
@@ -648,8 +1101,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. a
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**SweepMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepMark
+
+***
+
 Disrupts and negates soul effects. at up to 200 feet. Persists for several minutes without further attention.
 | Wattage | 1582 W |
 | Shape | Pentagon |
@@ -662,8 +1125,18 @@ Disrupts and negates soul effects. at up to 200 feet. Persists for several minut
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**ColdBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ColdBreath
+
+***
+
 Channels soul flux to produce its effect. at up to 200 feet.
 | Wattage | 1660 W |
 | Shape | Pentagon |
@@ -676,8 +1149,18 @@ Channels soul flux to produce its effect. at up to 200 feet.
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
----
-**PiercMirror**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercMirror
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Extends across a flat surface, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1792 W |
 | Shape | Circle |
@@ -690,8 +1173,18 @@ Locks mental patterns in place, preventing thought divergence. Extends across a 
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
----
-**FallStrike**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FallStrike
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Travels in a straight line, at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 1560 W |
 | Shape | Pentagon |
@@ -704,8 +1197,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. T
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**StrongSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StrongSigil
+
+***
+
 Reshapes the target using mind flux. Travels in a straight line, within 10 feet. The effect becomes permanent once established.
 | Wattage | 1790 W |
 | Shape | Circle |
@@ -718,8 +1221,18 @@ Reshapes the target using mind flux. Travels in a straight line, within 10 feet.
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Surface |
----
-**LightVeil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LightVeil
+
+***
+
 Disrupts and negates mind effects. Extends across a flat surface, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 1460 W |
 | Shape | Circle |
@@ -732,8 +1245,18 @@ Disrupts and negates mind effects. Extends across a flat surface, within 50 feet
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
----
-**TwistDream**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistDream
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Extends across a flat surface, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1850 W |
 | Shape | Circle |
@@ -746,8 +1269,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
----
-**DissolvFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvFrost
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Expands in all directions from the center, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 1438 W |
 | Shape | Circle |
@@ -760,8 +1293,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**WeakVeil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WeakVeil
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Expands in all directions from the center, within 50 feet.
 | Wattage | 1587 W |
 | Shape | Pentagon |
@@ -774,8 +1317,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. E
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
----
-**BurnRoad**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurnRoad
+
+***
+
 Channels mind flux to produce its effect. Extends across a flat surface, at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1425 W |
 | Shape | Circle |
@@ -788,8 +1341,18 @@ Channels mind flux to produce its effect. Extends across a flat surface, at up t
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**TransformRing**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformRing
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. within 10 feet, affecting a single person. The effect becomes permanent once established.
 | Wattage | 4558 W |
 | Shape | Circle |
@@ -802,8 +1365,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Individual |
----
-**FallThought**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FallThought
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Spreads in a widening arc, at up to 200 feet. Persists for several minutes without further attention.
 | Wattage | 1577 W |
 | Shape | Pentagon |
@@ -816,8 +1389,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. S
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**StillVoid**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StillVoid
+
+***
+
 Releases soul-flux that resonates with targets' metaphysical essence. Expands in all directions from the center, at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 4213 W |
 | Shape | Circle |
@@ -830,8 +1413,18 @@ Releases soul-flux that resonates with targets' metaphysical essence. Expands in
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**ChillRoad**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillRoad
+
+***
+
 Locks mental patterns in place, preventing thought divergence. within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1410 W |
 | Shape | Circle |
@@ -844,8 +1437,18 @@ Locks mental patterns in place, preventing thought divergence. within 10 feet. L
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**StillBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StillBreath
+
+***
+
 Releases soul-flux that resonates with targets' metaphysical essence. Travels in a straight line, at up to 200 feet. Persists until a specified condition triggers its release.
 | Wattage | 4225 W |
 | Shape | Circle |
@@ -858,8 +1461,18 @@ Releases soul-flux that resonates with targets' metaphysical essence. Travels in
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
----
-**BreakFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakFlame
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, at up to 200 feet. Persists for several minutes without further attention.
 | Wattage | 1453 W |
 | Shape | Circle |
@@ -872,8 +1485,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**DissolvGlyph**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvGlyph
+
+***
+
 Disrupts and negates soul effects. Travels in a straight line, within 10 feet.
 | Wattage | 4235 W |
 | Shape | Circle |
@@ -886,8 +1509,18 @@ Disrupts and negates soul effects. Travels in a straight line, within 10 feet.
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
----
-**VastGlyph**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+VastGlyph
+
+***
+
 Channels soul flux to produce its effect. Travels in a straight line, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 4225 W |
 | Shape | Circle |
@@ -900,8 +1533,18 @@ Channels soul flux to produce its effect. Travels in a straight line, within 50 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Filter |
----
-**DarkBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DarkBond
+
+***
+
 Reshapes the target using soul flux. Spreads in a widening arc, within 50 feet.
 | Wattage | 1567 W |
 | Shape | Pentagon |
@@ -914,8 +1557,18 @@ Reshapes the target using soul flux. Spreads in a widening arc, within 50 feet.
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
----
-**WildSpirit**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WildSpirit
+
+***
+
 Channels soul flux to produce its effect. Travels in a straight line, within 50 feet.
 | Wattage | 1595 W |
 | Shape | Pentagon |
@@ -928,8 +1581,18 @@ Channels soul flux to produce its effect. Travels in a straight line, within 50 
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
----
-**BreakWay**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakWay
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1550 W |
 | Shape | Pentagon |
@@ -942,8 +1605,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
----
-**TwistTouch**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistTouch
+
+***
+
 Channels soul flux to produce its effect. Extends across a flat surface, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 1585 W |
 | Shape | Pentagon |
@@ -956,8 +1629,18 @@ Channels soul flux to produce its effect. Extends across a flat surface, within 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
----
-**WhirlingSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WhirlingSigil
+
+***
+
 Disrupts and negates soul effects. Extends across a flat surface, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
@@ -970,8 +1653,18 @@ Disrupts and negates soul effects. Extends across a flat surface, within 50 feet
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
----
-**AncientGlyph**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AncientGlyph
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. Spreads in a widening arc, at up to 200 feet.
 | Wattage | 1598 W |
 | Shape | Pentagon |
@@ -984,8 +1677,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. Spr
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Individual |
----
-**StillSpirit**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StillSpirit
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Travels in a straight line, at up to 200 feet.
 | Wattage | 1590 W |
 | Shape | Pentagon |
@@ -998,8 +1701,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
----
-**BindMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindMark
+
+***
+
 Channels soul flux to produce its effect. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 4155 W |
 | Shape | Circle |
@@ -1012,8 +1725,18 @@ Channels soul flux to produce its effect. Extends across a flat surface, within 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**ColdVoid**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ColdVoid
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Extends across a flat surface, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 4175 W |
 | Shape | Circle |
@@ -1026,8 +1749,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. E
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Group |
----
-**SweepCore**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepCore
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1430 W |
 | Shape | Circle |
@@ -1040,8 +1773,18 @@ Locks mental patterns in place, preventing thought divergence. Spreads in a wide
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
----
-**ShatterBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterBreath
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Expands in all directions from the center, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
@@ -1054,8 +1797,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. E
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
----
-**DriftLock**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftLock
+
+***
+
 Reshapes the target using soul flux. at up to 200 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 1588 W |
 | Shape | Pentagon |
@@ -1068,8 +1821,18 @@ Reshapes the target using soul flux. at up to 200 feet, affecting a single perso
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**ColdSoul**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ColdSoul
+
+***
+
 Channels mind flux to produce its effect. Spreads in a widening arc, at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1435 W |
 | Shape | Circle |
@@ -1082,8 +1845,18 @@ Channels mind flux to produce its effect. Spreads in a widening arc, at up to 20
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**BindWard**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindWard
+
+***
+
 Channels mind flux to produce its effect. at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 1442 W |
 | Shape | Circle |
@@ -1096,8 +1869,18 @@ Channels mind flux to produce its effect. at up to 200 feet. Requires continuous
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**FreezeTide**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeTide
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. at up to 200 feet.
 | Wattage | 1602 W |
 | Shape | Pentagon |
@@ -1110,8 +1893,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Object |
----
-**SlowCrown**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowCrown
+
+***
+
 Channels soul flux to produce its effect. at up to 200 feet. The effect becomes permanent once established.
 | Wattage | 1957 W |
 | Shape | Pentagon |
@@ -1124,8 +1917,18 @@ Channels soul flux to produce its effect. at up to 200 feet. The effect becomes 
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
----
-**PierceFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceFrost
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. within 10 feet, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 1423 W |
 | Shape | Circle |
@@ -1138,8 +1941,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
----
-**DissolvCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvCurse
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. within 50 feet. The effect becomes permanent once established.
 | Wattage | 4557 W |
 | Shape | Circle |
@@ -1152,8 +1965,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
----
-**LoudBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LoudBond
+
+***
+
 Disrupts and negates soul effects. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 1545 W |
 | Shape | Pentagon |
@@ -1166,8 +1989,18 @@ Disrupts and negates soul effects. within 50 feet. Requires continuous concentra
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**GuardRoot**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardRoot
+
+***
+
 Reads surface thoughts and current mental states. at up to 200 feet.
 | Wattage | 1475 W |
 | Shape | Circle |
@@ -1180,8 +2013,18 @@ Reads surface thoughts and current mental states. at up to 200 feet.
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
----
-**WeavHand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavHand
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Travels in a straight line, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 1413 W |
 | Shape | Circle |
@@ -1194,8 +2037,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
----
-**SolidStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidStorm
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1567 W |
 | Shape | Pentagon |
@@ -1208,8 +2061,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**ShallowHalo**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShallowHalo
+
+***
+
 Channels soul flux to produce its effect. Expands in all directions from the center, at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 4208 W |
 | Shape | Circle |
@@ -1222,8 +2085,18 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**TwinFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwinFrost
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. Spreads in a widening arc, at up to 200 feet.
 | Wattage | 4275 W |
 | Shape | Circle |
@@ -1236,8 +2109,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. Spr
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
----
-**ClearCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ClearCurse
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Spreads in a widening arc, at up to 200 feet. Persists until a specified condition triggers its release.
 | Wattage | 1447 W |
 | Shape | Circle |
@@ -1250,8 +2133,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**BindFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindFlame
+
+***
+
 Disrupts and negates mind effects. Travels in a straight line, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 1450 W |
 | Shape | Circle |
@@ -1264,8 +2157,18 @@ Disrupts and negates mind effects. Travels in a straight line, within 50 feet. P
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
----
-**AnchoredGate**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchoredGate
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Expands in all directions from the center, at up to 200 feet. Lasts roughly a minute before dissipating.
 | Wattage | 4205 W |
 | Shape | Circle |
@@ -1278,8 +2181,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. E
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**TwistNet**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistNet
+
+***
+
 Channels soul flux to produce its effect. at up to 200 feet. Persists for several minutes without further attention.
 | Wattage | 1590 W |
 | Shape | Pentagon |
@@ -1292,8 +2205,18 @@ Channels soul flux to produce its effect. at up to 200 feet. Persists for severa
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**AnchorCalm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorCalm
+
+***
+
 Channels mind flux to produce its effect. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1395 W |
 | Shape | Circle |
@@ -1306,8 +2229,18 @@ Channels mind flux to produce its effect. Travels in a straight line, within 10 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**SweepPulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepPulse
+
+***
+
 Anchors soul-energy to the marked location, creating a metaphysical binding. Extends across a flat surface, within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 1555 W |
 | Shape | Pentagon |
@@ -1320,8 +2253,18 @@ Anchors soul-energy to the marked location, creating a metaphysical binding. Ext
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
----
-**CaptureCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureCurse
+
+***
+
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Extends across a flat surface, at up to 200 feet. Persists for several minutes without further attention.
 | Wattage | 1567 W |
 | Shape | Pentagon |
@@ -1334,8 +2277,18 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**AnchorSeal**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorSeal
+
+***
+
 Detects soul-signatures and binding marks, revealing metaphysical connections. Spreads in a widening arc, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 4205 W |
 | Shape | Circle |
@@ -1348,8 +2301,18 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. S
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
----
-**FreezChain**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezChain
+
+***
+
 Disrupts and negates soul effects. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 4170 W |
 | Shape | Circle |
@@ -1362,8 +2325,18 @@ Disrupts and negates soul effects. within 50 feet. Lasts roughly a minute before
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**FallCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FallCurse
+
+***
+
 Channels mind flux to produce its effect. Spreads in a widening arc, at up to 200 feet. Requires continuous concentration to sustain.
 | Wattage | 1437 W |
 | Shape | Circle |
@@ -1376,8 +2349,18 @@ Channels mind flux to produce its effect. Spreads in a widening arc, at up to 20
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**GentleKnot**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GentleKnot
+
+***
+
 Channels soul flux to produce its effect. Expands in all directions from the center, within 50 feet. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
@@ -1390,8 +2373,18 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
----
-**SweepPath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepPath
+
+***
+
 Channels soul flux to produce its effect. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 4170 W |
 | Shape | Circle |

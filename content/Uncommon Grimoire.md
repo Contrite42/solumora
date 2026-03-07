@@ -1,7 +1,13 @@
 Uncommon spells require [[Control Tier]] T3–T4 and represent the threshold where casual Flux use ends and deliberate craft begins. A skilled Formulist can manage these, but they demand real training and precision. Most combat-ready spells live here, as do the first serious warding and detection tools.
 
 _Return to [[All Grimoire]]_
-**CurvedRing**
+
+***
+
+CurvedRing
+
+***
+
 Projects cognitive signal as a widening forward spread within fifty feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
 | Wattage | 535 W |
 | Shape | Pentagon |
@@ -15,11 +21,18 @@ Projects cognitive signal as a widening forward spread within fifty feet on the 
 | Persistence | Sustained |
 | Target | Where Written |
 
+\n\n
 
+***
 
+*\n\n
 
----
-**WarmCurse**
+***
+
+WarmCurse
+
+***
+
 Detects chemical-related phenomena and gathers information. within 50 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 153 W |
 | Shape | Pentagon |
@@ -32,8 +45,18 @@ Detects chemical-related phenomena and gathers information. within 50 feet, affe
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**StrongBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StrongBond
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 230 W |
 | Shape | Pentagon |
@@ -46,8 +69,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**PierceFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceFlame
+
+***
+
 Disrupts and negates electric effects. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -60,8 +93,18 @@ Disrupts and negates electric effects. within 50 feet. Lasts roughly a minute be
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**BurShroud**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurShroud
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 515 W |
 | Shape | Pentagon |
@@ -74,8 +117,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**ReleasSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasSigil
+
+***
+
 Channels mind flux to produce its effect. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 250 W |
 | Shape | Square |
@@ -88,8 +141,18 @@ Channels mind flux to produce its effect. at point of contact, affecting a singl
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
----
-**SurgeRoad**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeRoad
+
+***
+
 Reads surface thoughts and current mental states. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 555 W |
 | Shape | Pentagon |
@@ -102,8 +165,18 @@ Reads surface thoughts and current mental states. within 10 feet. Persists for s
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**SweepSpirit**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepSpirit
+
+***
+
 Disrupts and negates electric effects. at point of contact. Requires continuous concentration to sustain.
 | Wattage | 137 W |
 | Shape | Pentagon |
@@ -116,8 +189,18 @@ Disrupts and negates electric effects. at point of contact. Requires continuous 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
----
-**VividThread**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+VividThread
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 240 W |
 | Shape | Pentagon |
@@ -130,8 +213,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**ShallowLock**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShallowLock
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. within 50 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 553 W |
 | Shape | Pentagon |
@@ -144,8 +237,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**AnchorLock**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorLock
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. within 10 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 153 W |
 | Shape | Pentagon |
@@ -158,8 +261,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**SolidWisp**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidWisp
+
+***
+
 Channels mind flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention.
 | Wattage | 532 W |
 | Shape | Pentagon |
@@ -172,8 +285,18 @@ Channels mind flux to produce its effect. Extends across a flat surface, at poin
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**SolidSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidSigil
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 207 W |
 | Shape | Pentagon |
@@ -186,8 +309,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**KindleWay**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleWay
+
+***
+
 Disrupts and negates chemical effects. at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
@@ -200,8 +333,18 @@ Disrupts and negates chemical effects. at point of contact. Persists until a spe
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**CaptureDance**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureDance
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 242 W |
 | Shape | Pentagon |
@@ -214,8 +357,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**KindleStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleStorm
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 218 W |
 | Shape | Pentagon |
@@ -228,8 +381,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**TwistMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistMark
+
+***
+
 Disrupts and negates electric effects. within 50 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 168 W |
 | Shape | Pentagon |
@@ -242,8 +405,18 @@ Disrupts and negates electric effects. within 50 feet, affecting a single person
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**PaleWard**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PaleWard
+
+***
+
 Locks mental patterns in place, preventing thought divergence. within 10 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 558 W |
 | Shape | Pentagon |
@@ -256,8 +429,18 @@ Locks mental patterns in place, preventing thought divergence. within 10 feet, a
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**RiseStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseStorm
+
+***
+
 Detects chemical-related phenomena and gathers information. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 150 W |
 | Shape | Pentagon |
@@ -270,8 +453,18 @@ Detects chemical-related phenomena and gathers information. within 10 feet. Pers
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**PiercPulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercPulse
+
+***
+
 Anchors chemical flux to the target, holding it in place. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -284,8 +477,18 @@ Anchors chemical flux to the target, holding it in place. within 50 feet. Takes 
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
----
-**TwistStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistStorm
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc, within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 133 W |
 | Shape | Pentagon |
@@ -298,8 +501,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, within 
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**TwistVeil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistVeil
+
+***
+
 Channels chemical flux to produce its effect. within 10 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 147 W |
 | Shape | Pentagon |
@@ -312,8 +525,18 @@ Channels chemical flux to produce its effect. within 10 feet. Persists until a s
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**HeavyKnot**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyKnot
+
+***
+
 Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating.
 | Wattage | 525 W |
 | Shape | Pentagon |
@@ -326,8 +549,18 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, at 
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**DissolveStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolveStorm
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
@@ -340,8 +573,18 @@ Locks mental patterns in place, preventing thought divergence. Spreads in a wide
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**DissolveLight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolveLight
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. Travels in a straight line, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
@@ -354,8 +597,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**SurEcho**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurEcho
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Spreads in a widening arc, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 230 W |
 | Shape | Square |
@@ -368,8 +621,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**CaptureBlessing**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureBlessing
+
+***
+
 Disrupts and negates electric effects. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 152 W |
 | Shape | Pentagon |
@@ -382,8 +645,18 @@ Disrupts and negates electric effects. within 10 feet. Persists for several minu
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**BindRune**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindRune
+
+***
+
 Disrupts and negates mind effects. at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 242 W |
 | Shape | Square |
@@ -396,8 +669,18 @@ Disrupts and negates mind effects. at point of contact. Persists until a specifi
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**PierceWay**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceWay
+
+***
+
 Channels mind flux to produce its effect. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 548 W |
 | Shape | Pentagon |
@@ -410,8 +693,18 @@ Channels mind flux to produce its effect. Spreads in a widening arc, within 10 f
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**PierceSight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceSight
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 145 W |
 | Shape | Pentagon |
@@ -424,8 +717,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**AnchorSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorSigil
+
+***
+
 Disrupts and negates electric effects. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
@@ -438,8 +741,18 @@ Disrupts and negates electric effects. within 10 feet. Persists for several minu
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**BreakVeil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakVeil
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 228 W |
 | Shape | Pentagon |
@@ -452,8 +765,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**SteadyVoid**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SteadyVoid
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 222 W |
 | Shape | Pentagon |
@@ -466,8 +789,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**ChillShadow**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillShadow
+
+***
+
 Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 242 W |
 | Shape | Square |
@@ -480,8 +813,18 @@ Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**KindleMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleMark
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 214 W |
 | Shape | Pentagon |
@@ -494,8 +837,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
----
-**RestlessCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RestlessCurse
+
+***
+
 Locks mental patterns in place, preventing thought divergence. within 50 feet. Persists for several minutes without further attention.
 | Wattage | 557 W |
 | Shape | Pentagon |
@@ -508,8 +861,18 @@ Locks mental patterns in place, preventing thought divergence. within 50 feet. P
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**LoudAura**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LoudAura
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -522,8 +885,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
----
-**RiseBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseBrand
+
+***
+
 Channels mind flux to produce its effect. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 545 W |
 | Shape | Pentagon |
@@ -536,8 +909,18 @@ Channels mind flux to produce its effect. within 10 feet. Persists until a speci
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**WildVoid**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WildVoid
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. at point of contact. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
@@ -550,8 +933,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**PierceDream**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceDream
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
@@ -564,8 +957,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
----
-**SweepShroud**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepShroud
+
+***
+
 Channels mind flux to produce its effect. within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 257 W |
 | Shape | Square |
@@ -578,8 +981,18 @@ Channels mind flux to produce its effect. within 50 feet. Persists until a speci
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**BurningRune**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurningRune
+
+***
+
 Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Takes effect in a single instant.
 | Wattage | 212 W |
 | Shape | Square |
@@ -592,8 +1005,18 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, at 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**CalmCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmCurse
+
+***
+
 Reads surface thoughts and current mental states. Spreads in a widening arc, within 50 feet. Takes effect in a single instant.
 | Wattage | 227 W |
 | Shape | Square |
@@ -606,8 +1029,18 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, wit
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Object |
----
-**HeavyVoice**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyVoice
+
+***
+
 Channels chemical flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -620,8 +1053,18 @@ Channels chemical flux to produce its effect. within 50 feet. Lasts roughly a mi
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**DriftingCharm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftingCharm
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 520 W |
 | Shape | Pentagon |
@@ -634,8 +1077,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**FrozenBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FrozenBreath
+
+***
+
 Channels mind flux to produce its effect. Travels in a straight line, at point of contact. Persists for several minutes without further attention.
 | Wattage | 540 W |
 | Shape | Pentagon |
@@ -648,8 +1101,18 @@ Channels mind flux to produce its effect. Travels in a straight line, at point o
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**PiercePulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercePulse
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -662,8 +1125,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**HeavyAura**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyAura
+
+***
+
 Channels chemical flux to produce its effect. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -676,8 +1149,18 @@ Channels chemical flux to produce its effect. within 50 feet. Takes effect in a 
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
----
-**TaintedGate**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedGate
+
+***
+
 Channels mind flux to produce its effect. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 517 W |
 | Shape | Pentagon |
@@ -690,8 +1173,18 @@ Channels mind flux to produce its effect. Travels in a straight line, within 10 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**GuardBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardBrand
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 237 W |
 | Shape | Pentagon |
@@ -704,8 +1197,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**KindlMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindlMark
+
+***
+
 Disrupts and negates mind effects. Travels in a straight line, within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 227 W |
 | Shape | Square |
@@ -718,8 +1221,18 @@ Disrupts and negates mind effects. Travels in a straight line, within 50 feet. L
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**AncientWard**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AncientWard
+
+***
+
 Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Takes effect in a single instant.
 | Wattage | 215 W |
 | Shape | Square |
@@ -732,8 +1245,18 @@ Reads surface thoughts and current mental states. Travels in a straight line, wi
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
----
-**ReleaseStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseStorm
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 202 W |
 | Shape | Pentagon |
@@ -746,8 +1269,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**BurPath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurPath
+
+***
+
 Disrupts and negates mind effects. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 550 W |
 | Shape | Pentagon |
@@ -760,8 +1293,18 @@ Disrupts and negates mind effects. at point of contact, affecting a single perso
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
----
-**ChillDream**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillDream
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 204 W |
 | Shape | Pentagon |
@@ -774,8 +1317,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
----
-**BindThought**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindThought
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Travels in a straight line, at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 529 W |
 | Shape | Pentagon |
@@ -788,8 +1341,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Object |
----
-**BurnCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurnCurse
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
@@ -802,8 +1365,18 @@ Locks mental patterns in place, preventing thought divergence. Travels in a stra
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**DriftHeart**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftHeart
+
+***
+
 Reshapes the target using mind flux. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 520 W |
 | Shape | Pentagon |
@@ -816,8 +1389,18 @@ Reshapes the target using mind flux. Travels in a straight line, within 10 feet.
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**ClearCharm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ClearCharm
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 225 W |
 | Shape | Pentagon |
@@ -830,8 +1413,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**GuardTide**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardTide
+
+***
+
 Detects chemical-related phenomena and gathers information. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -844,8 +1437,18 @@ Detects chemical-related phenomena and gathers information. within 50 feet. Last
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**StraightShell**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StraightShell
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 230 W |
 | Shape | Pentagon |
@@ -858,8 +1461,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**ReleasEcho**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasEcho
+
+***
+
 Reads surface thoughts and current mental states. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 237 W |
 | Shape | Square |
@@ -872,8 +1485,18 @@ Reads surface thoughts and current mental states. Extends across a flat surface,
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**GuardScar**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardScar
+
+***
+
 Channels electric flux to produce its effect. Spreads in a widening arc, within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -886,8 +1509,18 @@ Channels electric flux to produce its effect. Spreads in a widening arc, within 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**KindleTouch**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleTouch
+
+***
+
 Reshapes the target using mind flux. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 230 W |
 | Shape | Square |
@@ -900,8 +1533,18 @@ Reshapes the target using mind flux. Extends across a flat surface, within 10 fe
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**SweepBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepBrand
+
+***
+
 Reads surface thoughts and current mental states. Extends across a flat surface, within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 220 W |
 | Shape | Square |
@@ -914,8 +1557,18 @@ Reads surface thoughts and current mental states. Extends across a flat surface,
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**TaintedVoice**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedVoice
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 240 W |
 | Shape | Pentagon |
@@ -928,8 +1581,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**KindleBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleBrand
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 237 W |
 | Shape | Pentagon |
@@ -942,8 +1605,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**GrandWard**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GrandWard
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 243 W |
 | Shape | Pentagon |
@@ -956,8 +1629,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**GuardCore**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardCore
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
@@ -970,8 +1653,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**StraightFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StraightFrost
+
+***
+
 Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 224 W |
 | Shape | Square |
@@ -984,8 +1677,18 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, at 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
----
-**BreakPath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakPath
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 225 W |
 | Shape | Pentagon |
@@ -998,8 +1701,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**TameRune**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TameRune
+
+***
+
 Reads surface thoughts and current mental states. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
@@ -1012,8 +1725,18 @@ Reads surface thoughts and current mental states. Travels in a straight line, wi
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**ClearDoor**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ClearDoor
+
+***
+
 Reads surface thoughts and current mental states. within 50 feet. Takes effect in a single instant.
 | Wattage | 230 W |
 | Shape | Square |
@@ -1026,8 +1749,18 @@ Reads surface thoughts and current mental states. within 50 feet. Takes effect i
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**SharpBoon**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SharpBoon
+
+***
+
 Detects electric-related phenomena and gathers information. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 150 W |
 | Shape | Pentagon |
@@ -1040,8 +1773,18 @@ Detects electric-related phenomena and gathers information. Travels in a straigh
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**FreezChain**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezChain
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet, affecting a single person. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 133 W |
 | Shape | Square |
@@ -1054,8 +1797,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**StraightRune**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StraightRune
+
+***
+
 Detects electric-related phenomena and gathers information. within 50 feet. Persists for several minutes without further attention.
 | Wattage | 165 W |
 | Shape | Pentagon |
@@ -1068,8 +1821,18 @@ Detects electric-related phenomena and gathers information. within 50 feet. Pers
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**BrightKnot**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BrightKnot
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Spreads in a widening arc, within 50 feet. Takes effect in a single instant.
 | Wattage | 533 W |
 | Shape | Pentagon |
@@ -1082,8 +1845,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**BurningWeb**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurningWeb
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. within 10 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 145 W |
 | Shape | Pentagon |
@@ -1096,8 +1869,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**CapturNet**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CapturNet
+
+***
+
 Reads surface thoughts and current mental states. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 245 W |
 | Shape | Square |
@@ -1110,8 +1893,18 @@ Reads surface thoughts and current mental states. within 10 feet. Persists until
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**BindBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindBrand
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 225 W |
 | Shape | Pentagon |
@@ -1124,8 +1917,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**ShallowDoor**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShallowDoor
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 245 W |
 | Shape | Pentagon |
@@ -1138,8 +1941,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**DriftDance**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftDance
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
@@ -1152,8 +1965,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**TwistShell**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistShell
+
+***
+
 Disrupts and negates mind effects. at point of contact, affecting a single person. Lasts roughly a minute before dissipating.
 | Wattage | 235 W |
 | Shape | Square |
@@ -1166,8 +1989,18 @@ Disrupts and negates mind effects. at point of contact, affecting a single perso
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**DarkCage**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DarkCage
+
+***
+
 Channels mind flux to produce its effect. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 250 W |
 | Shape | Square |
@@ -1180,8 +2013,18 @@ Channels mind flux to produce its effect. within 50 feet. Requires continuous co
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**DissolveRoad**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolveRoad
+
+***
+
 Reshapes the target using mind flux. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 237 W |
 | Shape | Square |
@@ -1194,8 +2037,18 @@ Reshapes the target using mind flux. within 50 feet. Lasts roughly a minute befo
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**DriftBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftBrand
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 242 W |
 | Shape | Pentagon |
@@ -1208,8 +2061,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**TaintedStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedStorm
+
+***
+
 Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Takes effect in a single instant.
 | Wattage | 215 W |
 | Shape | Square |
@@ -1222,8 +2085,18 @@ Reads surface thoughts and current mental states. Travels in a straight line, wi
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
----
-**BurningCharm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurningCharm
+
+***
+
 Channels mind flux to produce its effect. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 543 W |
 | Shape | Pentagon |
@@ -1236,8 +2109,18 @@ Channels mind flux to produce its effect. Extends across a flat surface, within 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
----
-**ShatterSeal**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterSeal
+
+***
+
 Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention.
 | Wattage | 537 W |
 | Shape | Pentagon |
@@ -1250,8 +2133,18 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, at 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**GuardWard**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardWard
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 220 W |
 | Shape | Pentagon |
@@ -1264,8 +2157,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**TransformSight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformSight
+
+***
+
 Channels electric flux to produce its effect. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 144 W |
 | Shape | Pentagon |
@@ -1278,8 +2181,18 @@ Channels electric flux to produce its effect. at point of contact. Persists for 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**RiseStrike**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseStrike
+
+***
+
 Anchors chemical flux to the target, holding it in place. within 50 feet, affecting a single person. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 138 W |
 | Shape | Pentagon |
@@ -1292,8 +2205,18 @@ Anchors chemical flux to the target, holding it in place. within 50 feet, affect
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**RisBoon**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RisBoon
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 249 W |
 | Shape | Pentagon |
@@ -1306,8 +2229,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**ShatterBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterBond
+
+***
+
 Reads surface thoughts and current mental states. Spreads in a widening arc, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 250 W |
 | Shape | Square |
@@ -1320,8 +2253,18 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, wit
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**WeavePulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavePulse
+
+***
+
 Reshapes the target using mind flux. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 550 W |
 | Shape | Pentagon |
@@ -1334,8 +2277,18 @@ Reshapes the target using mind flux. at point of contact, affecting a single per
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
----
-**ReleaseTide**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseTide
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 212 W |
 | Shape | Pentagon |
@@ -1348,8 +2301,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**GuardSpirit**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardSpirit
+
+***
+
 Reads surface thoughts and current mental states. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 530 W |
 | Shape | Pentagon |
@@ -1362,8 +2325,18 @@ Reads surface thoughts and current mental states. Extends across a flat surface,
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**TwistSpirit**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistSpirit
+
+***
+
 Detects chemical-related phenomena and gathers information. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 143 W |
 | Shape | Pentagon |
@@ -1376,8 +2349,18 @@ Detects chemical-related phenomena and gathers information. Extends across a fla
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
----
-**BreakBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakBreath
+
+***
+
 Channels mind flux to produce its effect. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 525 W |
 | Shape | Pentagon |
@@ -1390,8 +2373,18 @@ Channels mind flux to produce its effect. Extends across a flat surface, within 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**FreezeStrike**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeStrike
+
+***
+
 Disrupts and negates mind effects. within 10 feet. Takes effect in a single instant.
 | Wattage | 225 W |
 | Shape | Square |
@@ -1404,8 +2397,18 @@ Disrupts and negates mind effects. within 10 feet. Takes effect in a single inst
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**AnchorVeil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorVeil
+
+***
+
 Detects chemical-related phenomena and gathers information. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
@@ -1418,8 +2421,18 @@ Detects chemical-related phenomena and gathers information. within 10 feet. Pers
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**ChillCrown**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillCrown
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 547 W |
 | Shape | Pentagon |
@@ -1432,8 +2445,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**BurnRoad**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurnRoad
+
+***
+
 Anchors electric flux to the target, holding it in place. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 145 W |
 | Shape | Pentagon |
@@ -1446,8 +2469,18 @@ Anchors electric flux to the target, holding it in place. within 50 feet. Requir
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**GuardLight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardLight
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. Travels in a straight line, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 143 W |
 | Shape | Pentagon |
@@ -1460,8 +2493,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**DissolveFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolveFlame
+
+***
+
 Disrupts and negates chemical effects. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -1474,8 +2517,18 @@ Disrupts and negates chemical effects. within 50 feet. Takes effect in a single 
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**DeepSeal**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DeepSeal
+
+***
+
 Reshapes the target using mind flux. Extends across a flat surface, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 242 W |
 | Shape | Square |
@@ -1488,8 +2541,18 @@ Reshapes the target using mind flux. Extends across a flat surface, within 50 fe
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**ChillPulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillPulse
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 235 W |
 | Shape | Square |
@@ -1502,8 +2565,18 @@ Locks mental patterns in place, preventing thought divergence. Spreads in a wide
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**DullMirror**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DullMirror
+
+***
+
 Channels mind flux to produce its effect. at point of contact. Requires continuous concentration to sustain.
 | Wattage | 529 W |
 | Shape | Pentagon |
@@ -1516,8 +2589,18 @@ Channels mind flux to produce its effect. at point of contact. Requires continuo
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
----
-**RestlessSeal**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RestlessSeal
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. within 10 feet, affecting a single person. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 138 W |
 | Shape | Pentagon |
@@ -1530,8 +2613,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**SweepBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepBond
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 243 W |
 | Shape | Pentagon |
@@ -1544,8 +2637,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
----
-**ShatterVoice**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterVoice
+
+***
+
 Projects electric energy outward, delivering its effect. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 137 W |
 | Shape | Pentagon |
@@ -1558,8 +2661,18 @@ Projects electric energy outward, delivering its effect. Spreads in a widening a
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
----
-**QuietCore**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietCore
+
+***
+
 Reads surface thoughts and current mental states. at point of contact, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 550 W |
 | Shape | Pentagon |
@@ -1572,8 +2685,18 @@ Reads surface thoughts and current mental states. at point of contact, affecting
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**PaleBreath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PaleBreath
+
+***
+
 Reshapes the target using mind flux. at point of contact. Takes effect in a single instant.
 | Wattage | 524 W |
 | Shape | Pentagon |
@@ -1586,8 +2709,18 @@ Reshapes the target using mind flux. at point of contact. Takes effect in a sing
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
----
-**BrightPath**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BrightPath
+
+***
+
 Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 217 W |
 | Shape | Square |
@@ -1600,8 +2733,18 @@ Reads surface thoughts and current mental states. Travels in a straight line, wi
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**GuardDance**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardDance
+
+***
+
 Reshapes the target using mind flux. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 220 W |
 | Shape | Square |
@@ -1614,8 +2757,18 @@ Reshapes the target using mind flux. Spreads in a widening arc, within 10 feet. 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**DissolvGlyph**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvGlyph
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 242 W |
 | Shape | Pentagon |
@@ -1628,8 +2781,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**TwistFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistFlame
+
+***
+
 Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 537 W |
 | Shape | Pentagon |
@@ -1642,8 +2805,18 @@ Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**QuietHalo**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietHalo
+
+***
+
 Channels mind flux to produce its effect. Spreads in a widening arc, within 50 feet. Takes effect in a single instant.
 | Wattage | 525 W |
 | Shape | Pentagon |
@@ -1656,8 +2829,18 @@ Channels mind flux to produce its effect. Spreads in a widening arc, within 50 f
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**QuietGate**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietGate
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. at point of contact. Lasts roughly a minute before dissipating.
 | Wattage | 227 W |
 | Shape | Square |
@@ -1670,8 +2853,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**PierceBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceBrand
+
+***
+
 Projects electric energy outward, delivering its effect. Spreads in a widening arc, within 10 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -1684,8 +2877,18 @@ Projects electric energy outward, delivering its effect. Spreads in a widening a
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**BreakRing**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakRing
+
+***
+
 Reshapes the target using mind flux. within 10 feet. Takes effect in a single instant.
 | Wattage | 230 W |
 | Shape | Square |
@@ -1698,8 +2901,18 @@ Reshapes the target using mind flux. within 10 feet. Takes effect in a single in
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
----
-**WarmWeb**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WarmWeb
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 210 W |
 | Shape | Pentagon |
@@ -1712,8 +2925,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Individual |
----
-**WhirlingKey**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WhirlingKey
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Extends across a flat surface, within 10 feet. Takes effect in a single instant.
 | Wattage | 207 W |
 | Shape | Square |
@@ -1726,8 +2949,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
----
-**CalmRoad**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmRoad
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 255 W |
 | Shape | Square |
@@ -1740,8 +2973,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**KindleDream**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleDream
+
+***
+
 Disrupts and negates mind effects. at point of contact. Takes effect in a single instant.
 | Wattage | 519 W |
 | Shape | Pentagon |
@@ -1754,8 +2997,18 @@ Disrupts and negates mind effects. at point of contact. Takes effect in a single
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
----
-**WarmBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WarmBond
+
+***
+
 Disrupts and negates mind effects. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 550 W |
 | Shape | Pentagon |
@@ -1768,8 +3021,18 @@ Disrupts and negates mind effects. Travels in a straight line, within 50 feet. P
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**MurkyRing**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+MurkyRing
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 228 W |
 | Shape | Pentagon |
@@ -1782,8 +3045,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**HiddenWard**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HiddenWard
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -1796,8 +3069,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, within 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**FlowTouch**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowTouch
+
+***
+
 Reads surface thoughts and current mental states. Extends across a flat surface, within 50 feet. Takes effect in a single instant.
 | Wattage | 215 W |
 | Shape | Square |
@@ -1810,8 +3093,18 @@ Reads surface thoughts and current mental states. Extends across a flat surface,
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**ReleasFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 222 W |
 | Shape | Pentagon |
@@ -1824,8 +3117,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
----
-**DarkVoid**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DarkVoid
+
+***
+
 Disrupts and negates mind effects. within 10 feet. Takes effect in a single instant.
 | Wattage | 230 W |
 | Shape | Square |
@@ -1838,8 +3141,18 @@ Disrupts and negates mind effects. within 10 feet. Takes effect in a single inst
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
----
-**HiddenFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HiddenFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 237 W |
 | Shape | Pentagon |
@@ -1852,8 +3165,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
----
-**WildCrown**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WildCrown
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 522 W |
 | Shape | Pentagon |
@@ -1866,8 +3189,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
----
-**WarmRing**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WarmRing
+
+***
+
 Detects electric-related phenomena and gathers information. within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 155 W |
 | Shape | Pentagon |
@@ -1880,8 +3213,18 @@ Detects electric-related phenomena and gathers information. within 50 feet. Pers
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**DissolvSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvSigil
+
+***
+
 Reads surface thoughts and current mental states. within 50 feet, affecting a single person. Takes effect in a single instant.
 | Wattage | 538 W |
 | Shape | Pentagon |
@@ -1894,8 +3237,18 @@ Reads surface thoughts and current mental states. within 50 feet, affecting a si
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**SteadyMirror**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SteadyMirror
+
+***
+
 Anchors chemical flux to the target, holding it in place. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -1908,8 +3261,18 @@ Anchors chemical flux to the target, holding it in place. Spreads in a widening 
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
----
-**DullNet**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DullNet
+
+***
+
 Projects electric energy outward, delivering its effect. Travels in a straight line, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 138 W |
 | Shape | Pentagon |
@@ -1922,8 +3285,18 @@ Projects electric energy outward, delivering its effect. Travels in a straight l
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**FreezBoon**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezBoon
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. within 50 feet, affecting a single person. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 138 W |
 | Shape | Pentagon |
@@ -1936,8 +3309,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**VastSoul**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+VastSoul
+
+***
+
 Detects electric-related phenomena and gathers information. at point of contact. Requires continuous concentration to sustain.
 | Wattage | 132 W |
 | Shape | Pentagon |
@@ -1950,8 +3333,18 @@ Detects electric-related phenomena and gathers information. at point of contact.
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**BurVoice**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BurVoice
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 260 W |
 | Shape | Pentagon |
@@ -1964,8 +3357,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**ChillRoad**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillRoad
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Extends across a flat surface, within 50 feet. Takes effect in a single instant.
 | Wattage | 523 W |
 | Shape | Pentagon |
@@ -1978,8 +3381,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**BrightDoor**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BrightDoor
+
+***
+
 Channels electric flux to produce its effect. within 10 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 143 W |
 | Shape | Pentagon |
@@ -1992,8 +3405,18 @@ Channels electric flux to produce its effect. within 10 feet, affecting a single
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
----
-**HiddenHand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HiddenHand
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. at point of contact, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
@@ -2006,8 +3429,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**VastBoon**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+VastBoon
+
+***
+
 Reshapes the target using mind flux. Travels in a straight line, at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 232 W |
 | Shape | Square |
@@ -2020,8 +3453,18 @@ Reshapes the target using mind flux. Travels in a straight line, at point of con
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
----
-**PiercAura**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercAura
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 510 W |
 | Shape | Pentagon |
@@ -2034,8 +3477,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**GuardPulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardPulse
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 247 W |
 | Shape | Pentagon |
@@ -2048,8 +3501,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**SlowCrown**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowCrown
+
+***
+
 Disrupts and negates mind effects. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 235 W |
 | Shape | Square |
@@ -2062,8 +3525,18 @@ Disrupts and negates mind effects. Extends across a flat surface, within 10 feet
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**AnchorMark**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorMark
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Travels in a straight line, within 50 feet. Takes effect in a single instant.
 | Wattage | 225 W |
 | Shape | Square |
@@ -2076,8 +3549,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
----
-**ReleaseDream**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseDream
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 219 W |
 | Shape | Pentagon |
@@ -2090,8 +3573,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
----
-**BindChain**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindChain
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 133 W |
 | Shape | Square |
@@ -2104,8 +3597,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**FreezeFlame**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 253 W |
 | Shape | Pentagon |
@@ -2118,8 +3621,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**FlowThread**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowThread
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 235 W |
 | Shape | Pentagon |
@@ -2132,8 +3645,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**CalmWisp**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmWisp
+
+***
+
 Anchors chemical flux to the target, holding it in place. at point of contact, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -2146,8 +3669,18 @@ Anchors chemical flux to the target, holding it in place. at point of contact, a
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Individual |
----
-**AnchorScar**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorScar
+
+***
+
 Disrupts and negates chemical effects. Travels in a straight line, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 134 W |
 | Shape | Pentagon |
@@ -2160,8 +3693,18 @@ Disrupts and negates chemical effects. Travels in a straight line, at point of c
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**SlowKnot**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowKnot
+
+***
+
 Channels mind flux to produce its effect. Travels in a straight line, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 522 W |
 | Shape | Pentagon |
@@ -2174,8 +3717,18 @@ Channels mind flux to produce its effect. Travels in a straight line, at point o
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
----
-**ReleasMirror**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasMirror
+
+***
+
 Detects electric-related phenomena and gathers information. within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -2188,8 +3741,18 @@ Detects electric-related phenomena and gathers information. within 10 feet. Requ
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**KindleCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleCurse
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 240 W |
 | Shape | Square |
@@ -2202,8 +3765,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**DissolvHeart**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvHeart
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Extends across a flat surface, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 245 W |
 | Shape | Square |
@@ -2216,8 +3789,18 @@ Locks mental patterns in place, preventing thought divergence. Extends across a 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**StillVoice**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StillVoice
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 235 W |
 | Shape | Pentagon |
@@ -2230,8 +3813,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**DriftShadow**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftShadow
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Spreads in a widening arc, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 535 W |
 | Shape | Pentagon |
@@ -2244,8 +3837,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**SweepRune**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepRune
+
+***
+
 Channels mind flux to produce its effect. Travels in a straight line, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 230 W |
 | Shape | Square |
@@ -2258,8 +3861,18 @@ Channels mind flux to produce its effect. Travels in a straight line, within 50 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**WeavBridge**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavBridge
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 230 W |
 | Shape | Square |
@@ -2272,8 +3885,18 @@ Locks mental patterns in place, preventing thought divergence. Extends across a 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
----
-**ChillBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillBond
+
+***
+
 Anchors electric flux to the target, holding it in place. at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
@@ -2286,8 +3909,18 @@ Anchors electric flux to the target, holding it in place. at point of contact. P
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
----
-**TransformShadow**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformShadow
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -2300,8 +3933,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
----
-**BindTide**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindTide
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Extends across a flat surface, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 514 W |
 | Shape | Pentagon |
@@ -2314,8 +3957,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
----
-**QuietVoid**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietVoid
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 518 W |
 | Shape | Pentagon |
@@ -2328,8 +3981,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**FreezeThought**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeThought
+
+***
+
 Reads surface thoughts and current mental states. Extends across a flat surface, within 10 feet. Takes effect in a single instant.
 | Wattage | 205 W |
 | Shape | Square |
@@ -2342,8 +4005,18 @@ Reads surface thoughts and current mental states. Extends across a flat surface,
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**ReleaseLight**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseLight
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 240 W |
 | Shape | Pentagon |
@@ -2356,8 +4029,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**TransformVeil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformVeil
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 228 W |
 | Shape | Pentagon |
@@ -2370,8 +4053,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
----
-**HollowCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+HollowCurse
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 135 W |
 | Shape | Square |
@@ -2384,8 +4077,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**TransformSeal**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformSeal
+
+***
+
 Projects psychic force that penetrates mental defenses and influences thought patterns. within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 232 W |
 | Shape | Square |
@@ -2398,8 +4101,18 @@ Projects psychic force that penetrates mental defenses and influences thought pa
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
----
-**FreezeTide**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeTide
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
@@ -2412,8 +4125,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
----
-**LoneTouch**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LoneTouch
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 212 W |
 | Shape | Pentagon |
@@ -2426,8 +4149,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Trave
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
----
-**RisDoor**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RisDoor
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 515 W |
 | Shape | Pentagon |
@@ -2440,8 +4173,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**DeepHeart**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DeepHeart
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 214 W |
 | Shape | Pentagon |
@@ -2454,8 +4197,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
----
-**RiseVeil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseVeil
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 220 W |
 | Shape | Square |
@@ -2468,8 +4221,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**PiercCrown**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercCrown
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
@@ -2482,8 +4245,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
----
-**DriftingEye**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftingEye
+
+***
+
 Channels chemical flux to produce its effect. at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
@@ -2496,8 +4269,18 @@ Channels chemical flux to produce its effect. at point of contact. Persists unti
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**CapturCrown**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CapturCrown
+
+***
+
 Reshapes the target using mind flux. at point of contact. Persists for several minutes without further attention.
 | Wattage | 242 W |
 | Shape | Square |
@@ -2510,8 +4293,18 @@ Reshapes the target using mind flux. at point of contact. Persists for several m
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**RisePulse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+RisePulse
+
+***
+
 Disrupts and negates mind effects. within 50 feet, affecting a single person. Takes effect in a single instant.
 | Wattage | 238 W |
 | Shape | Square |
@@ -2524,8 +4317,18 @@ Disrupts and negates mind effects. within 50 feet, affecting a single person. Ta
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
----
-**PureMirror**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PureMirror
+
+***
+
 Anchors chemical flux to the target, holding it in place. Spreads in a widening arc, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 152 W |
 | Shape | Pentagon |
@@ -2538,8 +4341,18 @@ Anchors chemical flux to the target, holding it in place. Spreads in a widening 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**CalmTide**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmTide
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 215 W |
 | Shape | Pentagon |
@@ -2552,8 +4365,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
----
-**TwinSigil**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+TwinSigil
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 138 W |
 | Shape | Square |
@@ -2566,8 +4389,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**SlowStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowStorm
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. within 50 feet. Persists for several minutes without further attention.
 | Wattage | 160 W |
 | Shape | Pentagon |
@@ -2580,8 +4413,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
----
-**AncientShroud**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+AncientShroud
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact, affecting a single person. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 250 W |
 | Shape | Pentagon |
@@ -2594,8 +4437,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
----
-**KindlGate**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+KindlGate
+
+***
+
 Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 540 W |
 | Shape | Pentagon |
@@ -2608,8 +4461,18 @@ Filters psychic input, protecting against mental intrusion while allowing benign
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
----
-**ShatterWall**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterWall
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 148 W |
 | Shape | Pentagon |
@@ -2622,8 +4485,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, within 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
----
-**GrandVoice**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+GrandVoice
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, at point of contact. Takes effect in a single instant.
 | Wattage | 214 W |
 | Shape | Square |
@@ -2636,8 +4509,18 @@ Locks mental patterns in place, preventing thought divergence. Spreads in a wide
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
----
-**SurgeBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeBrand
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
@@ -2650,8 +4533,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
----
-**LightBond**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+LightBond
+
+***
+
 Disrupts and negates chemical effects. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 140 W |
 | Shape | Pentagon |
@@ -2664,8 +4557,18 @@ Disrupts and negates chemical effects. within 50 feet. Requires continuous conce
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
----
-**PureFrost**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+PureFrost
+
+***
+
 Locks mental patterns in place, preventing thought divergence. Travels in a straight line, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 230 W |
 | Shape | Square |
@@ -2678,8 +4581,18 @@ Locks mental patterns in place, preventing thought divergence. Travels in a stra
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**SweepStorm**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepStorm
+
+***
+
 Locks mental patterns in place, preventing thought divergence. within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 225 W |
 | Shape | Square |
@@ -2692,8 +4605,18 @@ Locks mental patterns in place, preventing thought divergence. within 10 feet. L
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
----
-**WeavAura**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavAura
+
+***
+
 Reshapes the target using electric flux. at point of contact, affecting a single person. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 145 W |
 | Shape | Pentagon |
@@ -2706,8 +4629,18 @@ Reshapes the target using electric flux. at point of contact, affecting a single
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
----
-**BindWisp**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindWisp
+
+***
+
 Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 532 W |
 | Shape | Pentagon |
@@ -2720,8 +4653,18 @@ Reads surface thoughts and current mental states. Spreads in a widening arc, at 
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
----
-**CalmBrand**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmBrand
+
+***
+
 Detects chemical-related phenomena and gathers information. Spreads in a widening arc, within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
@@ -2734,8 +4677,18 @@ Detects chemical-related phenomena and gathers information. Spreads in a widenin
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
----
-**BindWay**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BindWay
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 244 W |
 | Shape | Pentagon |
@@ -2748,8 +4701,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Object |
----
-**StraightBoon**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+StraightBoon
+
+***
+
 Anchors chemical flux to the target, holding it in place. within 50 feet, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 158 W |
 | Shape | Pentagon |
@@ -2762,8 +4725,18 @@ Anchors chemical flux to the target, holding it in place. within 50 feet, affect
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
----
-**BreakShell**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakShell
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 229 W |
 | Shape | Pentagon |
@@ -2776,8 +4749,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
----
-**CalmTouch**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmTouch
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 50 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
@@ -2790,8 +4773,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Object |
----
-**SurCurse**
+\n\n
+
+***
+
+*\n\n
+
+***
+
+SurCurse
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 215 W |
 | Shape | Pentagon |

@@ -2,7 +2,12 @@ Common spells require [[Control Tier]] T1–T2 and represent the backbone of eve
 
 _Return to [[All Grimoire]]_
 
-**PierceLock**
+***
+
+PierceLock
+
+***
+
 Pins kinetic force across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -16,11 +21,18 @@ Pins kinetic force across the inscribed face at touch range across a chosen surf
 | Persistence | Immediate |
 | Target | Surface |
 
+\n\n
 
+***
 
+*\n\n
 
----
-**ReleaseShadow**
+***
+
+ReleaseShadow
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 30 W |
 | Shape | Square |
@@ -32,9 +44,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**SolidCage**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidCage
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -46,9 +67,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**DriftTide**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftTide
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 44 W |
 | Shape | Triangle |
@@ -62,7 +92,12 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Persistence | Timed (Long) |
 | Target | Surface |
 
-**SweepBond**
+***
+
+SweepBond
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 29 W |
 | Shape | Triangle |
@@ -74,9 +109,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, at poin
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**DarkVeil**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DarkVeil
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 37 W |
 | Shape | Triangle |
@@ -88,9 +132,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc. Must be
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**SweepStrike**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepStrike
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -102,9 +155,18 @@ Channels force flux to produce its effect. Extends across a flat surface, within
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**WeaveLight**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeaveLight
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 48 W |
 | Shape | Square |
@@ -116,9 +178,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**FreezAura**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezAura
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 45 W |
 | Shape | Square |
@@ -130,9 +201,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**FreezWard**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezWard
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 90 W |
 | Shape | Square |
@@ -144,9 +224,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**LoudWeb**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+LoudWeb
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, at point of contact. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -158,9 +247,18 @@ Reshapes the target using force flux. Extends across a flat surface, at point of
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**BurBoon**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurBoon
+
+***
+
 Anchors force flux to the target, holding it in place. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -172,9 +270,18 @@ Anchors force flux to the target, holding it in place. Must be actively maintain
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**BindSong**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindSong
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 25 W |
 | Shape | Square |
@@ -186,9 +293,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**LightHand**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+LightHand
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 39 W |
 | Shape | Triangle |
@@ -200,9 +316,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**TwistMark**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistMark
+
+***
+
 Channels heat flux to produce its effect. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 23 W |
 | Shape | Triangle |
@@ -214,9 +339,18 @@ Channels heat flux to produce its effect. at point of contact. Must be actively 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**HeavyCurse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyCurse
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 45 W |
 | Shape | Triangle |
@@ -228,9 +362,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**DriftScar**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftScar
+
+***
+
 Channels light flux to produce its effect. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 56 W |
 | Shape | Square |
@@ -242,9 +385,18 @@ Channels light flux to produce its effect. at point of contact. Persists for sev
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**BindLight**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindLight
+
+***
+
 Channels electric flux to produce its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 60 W |
 | Shape | Square |
@@ -256,9 +408,18 @@ Channels electric flux to produce its effect. Extends across a flat surface, wit
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Surface |
----
-**PierceBreath**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceBreath
+
+***
+
 Anchors light flux to the target, holding it in place. Extends across a flat surface. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 51 W |
 | Shape | Square |
@@ -270,9 +431,18 @@ Anchors light flux to the target, holding it in place. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**BurShell**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurShell
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -284,9 +454,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, within 1
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**HollowRing**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+HollowRing
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -298,9 +477,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**ReleasMirror**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasMirror
+
+***
+
 Detects electric-related phenomena and gathers information. within 10 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 55 W |
 | Shape | Square |
@@ -312,9 +500,18 @@ Detects electric-related phenomena and gathers information. within 10 feet. Last
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**TransformFlame**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -326,9 +523,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**FreezCurse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezCurse
+
+***
+
 Screens light flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Square |
@@ -340,9 +546,18 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**PierceDream**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceDream
+
+***
+
 Detects raw-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Square |
@@ -354,9 +569,18 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**PureWeb**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+PureWeb
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 60 W |
 | Shape | Triangle |
@@ -368,9 +592,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**SweepHalo**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepHalo
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Spreads in a widening arc. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 57 W |
 | Shape | Square |
@@ -382,9 +615,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**TameVoice**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TameVoice
+
+***
+
 Anchors electric flux to the target, holding it in place. Extends across a flat surface. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 70 W |
 | Shape | Square |
@@ -396,9 +638,18 @@ Anchors electric flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**FreshMark**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreshMark
+
+***
+
 Screens light flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 31 W |
 | Shape | Square |
@@ -410,9 +661,18 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**BrightCalm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BrightCalm
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -424,9 +684,18 @@ Channels heat flux to produce its effect. Extends across a flat surface, within 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**RiseTouch**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseTouch
+
+***
+
 Reshapes the target using electric flux. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Triangle |
@@ -438,9 +707,18 @@ Reshapes the target using electric flux. Extends across a flat surface, within 1
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**BurWeb**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurWeb
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 92 W |
 | Shape | Square |
@@ -452,9 +730,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**FallAura**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallAura
+
+***
+
 Detects force-related phenomena and gathers information. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 30 W |
 | Shape | Square |
@@ -466,9 +753,18 @@ Detects force-related phenomena and gathers information. at point of contact. Mu
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**AnchoredPath**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchoredPath
+
+***
+
 Channels electric flux to produce its effect. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -480,9 +776,18 @@ Channels electric flux to produce its effect. Extends across a flat surface. Las
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**CalmBridge**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmBridge
+
+***
+
 Channels electric flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Square |
@@ -494,9 +799,18 @@ Channels electric flux to produce its effect. Extends across a flat surface, wit
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**DriftBoon**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftBoon
+
+***
+
 Anchors chemical flux to the target, holding it in place. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -508,9 +822,18 @@ Anchors chemical flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**CalmBoon**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmBoon
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 62 W |
 | Shape | Triangle |
@@ -522,9 +845,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**FlowSilence**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowSilence
+
+***
+
 Detects heat-related phenomena and gathers information. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -536,9 +868,18 @@ Detects heat-related phenomena and gathers information. Extends across a flat su
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**ChillBond**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillBond
+
+***
+
 Anchors raw flux to the target, creating a volatile binding. at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 37 W |
 | Shape | Square |
@@ -550,9 +891,18 @@ Anchors raw flux to the target, creating a volatile binding. at point of contact
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**RisRune**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+RisRune
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -564,9 +914,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, at point
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**CalmBond**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmBond
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 34 W |
 | Shape | Square |
@@ -578,9 +937,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**DriftFlame**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 55 W |
 | Shape | Triangle |
@@ -592,9 +960,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**GrandCore**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+GrandCore
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -606,9 +983,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**ReleasChain**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasChain
+
+***
+
 Screens heat flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 16 W |
 | Shape | Square |
@@ -620,9 +1006,18 @@ Screens heat flux, blocking unwanted elements while allowing valid ones through.
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**ChillBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillBreath
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 38 W |
 | Shape | Triangle |
@@ -634,9 +1029,18 @@ Channels force flux to produce its effect. Extends across a flat surface, within
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**ShatterShell**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterShell
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 27 W |
 | Shape | Triangle |
@@ -648,9 +1052,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**ReleaseFlame**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 115 W |
 | Shape | Square |
@@ -662,9 +1075,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**SweepRing**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepRing
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 37 W |
 | Shape | Triangle |
@@ -676,9 +1098,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**SolidGlyph**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidGlyph
+
+***
+
 Screens heat flux, blocking unwanted elements while allowing valid ones through. at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -690,9 +1121,18 @@ Screens heat flux, blocking unwanted elements while allowing valid ones through.
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**BurCharm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurCharm
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 23 W |
 | Shape | Square |
@@ -704,9 +1144,18 @@ Channels heat flux to produce its effect. Extends across a flat surface. Lasts r
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**SweepBlessing**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepBlessing
+
+***
+
 Channels force flux to produce its effect. at point of contact. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 20 W |
 | Shape | Square |
@@ -718,9 +1167,18 @@ Channels force flux to produce its effect. at point of contact. Takes effect in 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**DriftGate**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftGate
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 39 W |
 | Shape | Triangle |
@@ -732,9 +1190,18 @@ Channels light flux to produce its effect. Extends across a flat surface. Persis
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**TransformChain**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformChain
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 115 W |
 | Shape | Square |
@@ -746,9 +1213,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**WhirlingRoot**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WhirlingRoot
+
+***
+
 Detects light-related phenomena and gathers information. at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -760,9 +1236,18 @@ Detects light-related phenomena and gathers information. at point of contact. Ta
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**TwinBond**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwinBond
+
+***
+
 Anchors light flux to the target, holding it in place. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 36 W |
 | Shape | Square |
@@ -774,9 +1259,18 @@ Anchors light flux to the target, holding it in place. Must be actively maintain
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**CapturRune**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CapturRune
+
+***
+
 Anchors heat flux to the target, holding it in place. within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -788,9 +1282,18 @@ Anchors heat flux to the target, holding it in place. within 10 feet. Lasts roug
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**BurWall**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurWall
+
+***
+
 Screens light flux, blocking unwanted elements while allowing valid ones through. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 36 W |
 | Shape | Square |
@@ -802,9 +1305,18 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**TaintedCharm**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedCharm
+
+***
+
 Reshapes the target using electric flux. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 52 W |
 | Shape | Square |
@@ -816,9 +1328,18 @@ Reshapes the target using electric flux. Extends across a flat surface. Must be 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**KindlVoid**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindlVoid
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 16 W |
 | Shape | Triangle |
@@ -830,9 +1351,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**WeavMark**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavMark
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Spreads in a widening arc. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 24 W |
 | Shape | Triangle |
@@ -844,9 +1374,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**WeaveThought**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeaveThought
+
+***
+
 Detects electric-related phenomena and gathers information. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 50 W |
 | Shape | Square |
@@ -858,9 +1397,18 @@ Detects electric-related phenomena and gathers information. Must be actively mai
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**SwiftTouch**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SwiftTouch
+
+***
+
 Channels electric flux to produce its effect. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 25 W |
 | Shape | Triangle |
@@ -872,9 +1420,18 @@ Channels electric flux to produce its effect. Lasts roughly a minute before diss
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**KindleFlame**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -886,9 +1443,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**DissolvHeart**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvHeart
+
+***
+
 Channels electric flux to produce its effect. Spreads in a widening arc. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 65 W |
 | Shape | Square |
@@ -900,9 +1466,18 @@ Channels electric flux to produce its effect. Spreads in a widening arc. Must be
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**ChillPulse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillPulse
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 50 W |
 | Shape | Square |
@@ -914,9 +1489,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**ReleasCrown**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasCrown
+
+***
+
 Channels force flux to produce its effect. Spreads in a widening arc, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 38 W |
 | Shape | Square |
@@ -928,9 +1512,18 @@ Channels force flux to produce its effect. Spreads in a widening arc, at point o
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**BreakNet**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakNet
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 122 W |
 | Shape | Square |
@@ -942,9 +1535,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**SlowHalo**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowHalo
+
+***
+
 Detects light-related phenomena and gathers information. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -956,9 +1558,18 @@ Detects light-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**TwistGlyph**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistGlyph
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 33 W |
 | Shape | Triangle |
@@ -970,9 +1581,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**PureWall**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PureWall
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 30 W |
 | Shape | Triangle |
@@ -984,9 +1604,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**PaleCore**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PaleCore
+
+***
+
 Screens light flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -998,9 +1627,18 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**WeakCage**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeakCage
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 95 W |
 | Shape | Square |
@@ -1012,9 +1650,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**ReleasTouch**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasTouch
+
+***
+
 Anchors force flux to the target, holding it in place. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 26 W |
 | Shape | Triangle |
@@ -1026,9 +1673,18 @@ Anchors force flux to the target, holding it in place. Spreads in a widening arc
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**FreshWisp**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreshWisp
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 95 W |
 | Shape | Square |
@@ -1040,9 +1696,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**GentleHand**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+GentleHand
+
+***
+
 Screens heat flux, blocking unwanted elements while allowing valid ones through. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -1054,9 +1719,18 @@ Screens heat flux, blocking unwanted elements while allowing valid ones through.
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**FallStrike**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallStrike
+
+***
+
 Reshapes the target using heat flux. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 51 W |
 | Shape | Square |
@@ -1068,9 +1742,18 @@ Reshapes the target using heat flux. Extends across a flat surface, within 10 fe
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**BurnMark**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurnMark
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 94 W |
 | Shape | Square |
@@ -1082,9 +1765,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**SweepHand**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepHand
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 31 W |
 | Shape | Square |
@@ -1096,9 +1788,18 @@ Channels light flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**ShatterSeal**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterSeal
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 16 W |
 | Shape | Triangle |
@@ -1110,9 +1811,18 @@ Channels heat flux to produce its effect. Extends across a flat surface, within 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**BreakPulse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakPulse
+
+***
+
 Anchors heat flux to the target, holding it in place. Spreads in a widening arc, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 33 W |
 | Shape | Triangle |
@@ -1124,9 +1834,18 @@ Anchors heat flux to the target, holding it in place. Spreads in a widening arc,
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**SurCurse**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurCurse
+
+***
+
 Anchors light flux to the target, holding it in place. Extends across a flat surface. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 54 W |
 | Shape | Square |
@@ -1138,9 +1857,18 @@ Anchors light flux to the target, holding it in place. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**LoudCharm**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+LoudCharm
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 100 W |
 | Shape | Square |
@@ -1152,9 +1880,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**GuardVeil**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardVeil
+
+***
+
 Channels electric flux to produce its effect. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 52 W |
 | Shape | Square |
@@ -1166,9 +1903,18 @@ Channels electric flux to produce its effect. Must be actively maintained, but t
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**SurCore**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurCore
+
+***
+
 Channels force flux to produce its effect. within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 31 W |
 | Shape | Square |
@@ -1180,9 +1926,18 @@ Channels force flux to produce its effect. within 10 feet. Must be actively main
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**CalmSight**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmSight
+
+***
+
 Projects heat energy outward, delivering its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 25 W |
 | Shape | Square |
@@ -1194,9 +1949,18 @@ Projects heat energy outward, delivering its effect. Extends across a flat surfa
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**GuardGate**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardGate
+
+***
+
 Anchors heat flux to the target, holding it in place. within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -1208,9 +1972,18 @@ Anchors heat flux to the target, holding it in place. within 10 feet. Takes effe
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**HiddenGlyph**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+HiddenGlyph
+
+***
+
 Anchors electric flux to the target, holding it in place. Spreads in a widening arc, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 62 W |
 | Shape | Square |
@@ -1222,9 +1995,18 @@ Anchors electric flux to the target, holding it in place. Spreads in a widening 
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**DriftingSigil**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftingSigil
+
+***
+
 Projects electric energy outward, delivering its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -1236,9 +2018,18 @@ Projects electric energy outward, delivering its effect. Extends across a flat s
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**SwiftWall**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SwiftWall
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 41 W |
 | Shape | Square |
@@ -1250,9 +2041,18 @@ Channels force flux to produce its effect. Extends across a flat surface. Persis
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**NakedMark**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+NakedMark
+
+***
+
 Channels force flux to produce its effect. at point of contact. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 23 W |
 | Shape | Square |
@@ -1264,9 +2064,18 @@ Channels force flux to produce its effect. at point of contact. Takes effect in 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**ReleasCalm**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasCalm
+
+***
+
 Channels light flux to produce its effect. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 49 W |
 | Shape | Square |
@@ -1278,9 +2087,18 @@ Channels light flux to produce its effect. Spreads in a widening arc, within 10 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**ShatterSilence**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterSilence
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -1292,9 +2110,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**ChillRing**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillRing
+
+***
+
 Channels chemical flux to produce its effect. within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -1306,9 +2133,18 @@ Channels chemical flux to produce its effect. within 10 feet. Must be actively m
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**TwistWisp**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistWisp
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 51 W |
 | Shape | Square |
@@ -1320,9 +2156,18 @@ Channels light flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**DriftMark**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftMark
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 37 W |
 | Shape | Triangle |
@@ -1334,9 +2179,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Lasts
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**ClearGate**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ClearGate
+
+***
+
 Anchors electric flux to the target, holding it in place. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 80 W |
 | Shape | Square |
@@ -1348,9 +2202,18 @@ Anchors electric flux to the target, holding it in place. Spreads in a widening 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**SweepBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepBreath
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 28 W |
 | Shape | Square |
@@ -1362,9 +2225,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**VastPath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+VastPath
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 117 W |
 | Shape | Square |
@@ -1376,9 +2248,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**FlowEye**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowEye
+
+***
+
 Channels force flux to produce its effect. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 45 W |
 | Shape | Triangle |
@@ -1390,9 +2271,18 @@ Channels force flux to produce its effect. Spreads in a widening arc, at point o
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**TwistLight**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistLight
+
+***
+
 Detects light-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 41 W |
 | Shape | Triangle |
@@ -1404,9 +2294,18 @@ Detects light-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**SwiftDoor**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SwiftDoor
+
+***
+
 Anchors force flux to the target, holding it in place. Extends across a flat surface. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 23 W |
 | Shape | Square |
@@ -1418,9 +2317,18 @@ Anchors force flux to the target, holding it in place. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**SlowDoor**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowDoor
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 29 W |
 | Shape | Square |
@@ -1432,9 +2340,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**PierceWay**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceWay
+
+***
+
 Detects electric-related phenomena and gathers information. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -1446,9 +2363,18 @@ Detects electric-related phenomena and gathers information. Spreads in a widenin
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**GuardFrost**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardFrost
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 59 W |
 | Shape | Triangle |
@@ -1460,9 +2386,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**SurShell**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurShell
+
+***
+
 Channels electric flux to produce its effect. Spreads in a widening arc. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 50 W |
 | Shape | Square |
@@ -1474,9 +2409,18 @@ Channels electric flux to produce its effect. Spreads in a widening arc. Takes e
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**LoudPulse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+LoudPulse
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -1488,9 +2432,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**CaptureFrost**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureFrost
+
+***
+
 Channels raw flux to produce its effect. within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 43 W |
 | Shape | Square |
@@ -1502,9 +2455,18 @@ Channels raw flux to produce its effect. within 10 feet. Persists for several mi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**PierceTide**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PierceTide
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 39 W |
 | Shape | Triangle |
@@ -1516,9 +2478,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**SlowBond**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowBond
+
+***
+
 Anchors electric flux to the target, holding it in place. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 52 W |
 | Shape | Square |
@@ -1530,9 +2501,18 @@ Anchors electric flux to the target, holding it in place. Must be actively maint
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**FreezGate**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezGate
+
+***
+
 Detects heat-related phenomena and gathers information. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -1544,9 +2524,18 @@ Detects heat-related phenomena and gathers information. Lasts roughly a minute b
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**TaintedHalo**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedHalo
+
+***
+
 Anchors force flux to the target, holding it in place. Spreads in a widening arc. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 53 W |
 | Shape | Square |
@@ -1558,9 +2547,18 @@ Anchors force flux to the target, holding it in place. Spreads in a widening arc
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**FallBoon**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallBoon
+
+***
+
 Detects electric-related phenomena and gathers information. within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 27 W |
 | Shape | Triangle |
@@ -1572,9 +2570,18 @@ Detects electric-related phenomena and gathers information. within 10 feet. Last
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**SurMark**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurMark
+
+***
+
 Reshapes the target using heat flux. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 16 W |
 | Shape | Square |
@@ -1586,9 +2593,18 @@ Reshapes the target using heat flux. Extends across a flat surface. Takes effect
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**TaintedCurse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedCurse
+
+***
+
 Detects electric-related phenomena and gathers information. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 52 W |
 | Shape | Square |
@@ -1600,9 +2616,18 @@ Detects electric-related phenomena and gathers information. Extends across a fla
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**HeavyShell**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyShell
+
+***
+
 Channels raw flux to produce its effect. Spreads in a widening arc. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Triangle |
@@ -1614,9 +2639,18 @@ Channels raw flux to produce its effect. Spreads in a widening arc. Takes effect
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**BreakSoul**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakSoul
+
+***
+
 Channels heat flux to produce its effect. Spreads in a widening arc, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 43 W |
 | Shape | Square |
@@ -1628,9 +2662,18 @@ Channels heat flux to produce its effect. Spreads in a widening arc, within 10 f
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**ReleasBoon**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasBoon
+
+***
+
 Channels raw flux to induce fundamental transformation. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 20 W |
 | Shape | Square |
@@ -1642,9 +2685,18 @@ Channels raw flux to induce fundamental transformation. Extends across a flat su
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**HeavyWard**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyWard
+
+***
+
 Detects raw-related phenomena and gathers information. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 22 W |
 | Shape | Triangle |
@@ -1656,9 +2708,18 @@ Detects raw-related phenomena and gathers information. Spreads in a widening arc
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**CaptureMark**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureMark
+
+***
+
 Detects chemical-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 75 W |
 | Shape | Square |
@@ -1670,9 +2731,18 @@ Detects chemical-related phenomena and gathers information. Extends across a fla
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**ChillDance**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillDance
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 69 W |
 | Shape | Triangle |
@@ -1684,9 +2754,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**FallVeil**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallVeil
+
+***
+
 Channels raw flux to produce its effect. within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Square |
@@ -1698,9 +2777,18 @@ Channels raw flux to produce its effect. within 10 feet. Takes effect in a singl
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**CalmVeil**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmVeil
+
+***
+
 Channels heat flux to produce its effect. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -1712,9 +2800,18 @@ Channels heat flux to produce its effect. at point of contact. Must be actively 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**FlowLight**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowLight
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 42 W |
 | Shape | Triangle |
@@ -1726,9 +2823,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**SurTouch**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurTouch
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -1740,9 +2846,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**MurkyGlyph**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+MurkyGlyph
+
+***
+
 Detects force-related phenomena and gathers information. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 28 W |
 | Shape | Square |
@@ -1754,9 +2869,18 @@ Detects force-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**NakedShroud**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+NakedShroud
+
+***
+
 Reshapes the target using force flux. Spreads in a widening arc. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -1768,9 +2892,18 @@ Reshapes the target using force flux. Spreads in a widening arc. Takes effect in
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**BindHalo**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindHalo
+
+***
+
 Channels electric flux to produce its effect. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 72 W |
 | Shape | Square |
@@ -1782,9 +2915,18 @@ Channels electric flux to produce its effect. at point of contact. Persists for 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**VividFrost**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+VividFrost
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 50 W |
 | Shape | Triangle |
@@ -1796,9 +2938,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**GuardPulse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardPulse
+
+***
+
 Detects heat-related phenomena and gathers information. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 30 W |
 | Shape | Square |
@@ -1810,9 +2961,18 @@ Detects heat-related phenomena and gathers information. Extends across a flat su
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**TransformTide**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformTide
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 34 W |
 | Shape | Triangle |
@@ -1824,9 +2984,18 @@ Channels light flux to produce its effect. Extends across a flat surface. Persis
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**PiercVeil**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercVeil
+
+***
+
 Detects force-related phenomena and gathers information. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 31 W |
 | Shape | Square |
@@ -1838,9 +3007,18 @@ Detects force-related phenomena and gathers information. Must be actively mainta
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**BurHand**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurHand
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Triangle |
@@ -1852,9 +3030,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**KindleMark**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleMark
+
+***
+
 Anchors raw flux to the target, creating a volatile binding. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 17 W |
 | Shape | Triangle |
@@ -1866,9 +3053,18 @@ Anchors raw flux to the target, creating a volatile binding. Extends across a fl
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**KindlHeart**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindlHeart
+
+***
+
 Channels electric flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 69 W |
 | Shape | Square |
@@ -1880,9 +3076,18 @@ Channels electric flux to produce its effect. Extends across a flat surface, at 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**PaleGate**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+PaleGate
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 26 W |
 | Shape | Triangle |
@@ -1894,9 +3099,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**TwistFlame**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistFlame
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 36 W |
 | Shape | Square |
@@ -1908,9 +3122,18 @@ Channels light flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**CalmScar**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmScar
+
+***
+
 Channels raw flux to induce fundamental transformation. within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 23 W |
 | Shape | Triangle |
@@ -1922,9 +3145,18 @@ Channels raw flux to induce fundamental transformation. within 10 feet. Must be 
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Surface |
----
-**CalmTouch**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmTouch
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 19 W |
 | Shape | Triangle |
@@ -1936,9 +3168,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**TwistScar**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistScar
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 22 W |
 | Shape | Triangle |
@@ -1950,9 +3191,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**FlowVeil**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowVeil
+
+***
+
 Anchors light flux to the target, holding it in place. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -1964,9 +3214,18 @@ Anchors light flux to the target, holding it in place. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**WeakAura**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeakAura
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -1978,9 +3237,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**SolidMirror**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidMirror
+
+***
+
 Detects light-related phenomena and gathers information. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 34 W |
 | Shape | Triangle |
@@ -1992,9 +3260,18 @@ Detects light-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**FiercePulse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FiercePulse
+
+***
+
 Detects light-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 36 W |
 | Shape | Square |
@@ -2006,9 +3283,18 @@ Detects light-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**ReleasStorm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasStorm
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 51 W |
 | Shape | Square |
@@ -2020,9 +3306,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**DullWall**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DullWall
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -2034,9 +3329,18 @@ Channels light flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**TwinKnot**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwinKnot
+
+***
+
 Detects electric-related phenomena and gathers information. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -2048,9 +3352,18 @@ Detects electric-related phenomena and gathers information. Extends across a fla
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**KindlCrown**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindlCrown
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 36 W |
 | Shape | Square |
@@ -2062,9 +3375,18 @@ Reshapes the target using force flux. Extends across a flat surface, within 10 f
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Surface |
----
-**DeepCurse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DeepCurse
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -2076,9 +3398,18 @@ Channels heat flux to produce its effect. Extends across a flat surface, within 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**SolidBoon**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidBoon
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Triangle |
@@ -2090,9 +3421,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, at point
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**CalmThought**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmThought
+
+***
+
 Detects force-related phenomena and gathers information. Spreads in a widening arc, at point of contact. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -2104,9 +3444,18 @@ Detects force-related phenomena and gathers information. Spreads in a widening a
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**SweepTide**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepTide
+
+***
+
 Detects force-related phenomena and gathers information. at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 25 W |
 | Shape | Square |
@@ -2118,9 +3467,18 @@ Detects force-related phenomena and gathers information. at point of contact. La
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**DeepBridge**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DeepBridge
+
+***
+
 Channels electric flux to produce its effect. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -2132,9 +3490,18 @@ Channels electric flux to produce its effect. Spreads in a widening arc, within 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**AnchorWay**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorWay
+
+***
+
 Detects raw-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Square |
@@ -2146,9 +3513,18 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**RiseWay**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseWay
+
+***
+
 Channels light flux to produce its effect. Spreads in a widening arc. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 24 W |
 | Shape | Triangle |
@@ -2160,9 +3536,18 @@ Channels light flux to produce its effect. Spreads in a widening arc. Lasts roug
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**QuietKnot**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietKnot
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 42 W |
 | Shape | Triangle |
@@ -2174,9 +3559,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**ReleasShroud**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasShroud
+
+***
+
 Reshapes the target using heat flux. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 11 W |
 | Shape | Triangle |
@@ -2188,9 +3582,18 @@ Reshapes the target using heat flux. Extends across a flat surface. Takes effect
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**FreezHeart**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezHeart
+
+***
+
 Detects light-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 19 W |
 | Shape | Triangle |
@@ -2202,9 +3605,18 @@ Detects light-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**SurBreath**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurBreath
+
+***
+
 Detects chemical-related phenomena and gathers information. within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 45 W |
 | Shape | Square |
@@ -2216,9 +3628,18 @@ Detects chemical-related phenomena and gathers information. within 10 feet. Take
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**WarmRing**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+WarmRing
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. within 10 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 55 W |
 | Shape | Square |
@@ -2230,9 +3651,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**TwistVoice**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistVoice
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 85 W |
 | Shape | Square |
@@ -2244,9 +3674,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**SteadyEye**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SteadyEye
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 25 W |
 | Shape | Triangle |
@@ -2258,9 +3697,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**SlowWeb**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowWeb
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 26 W |
 | Shape | Square |
@@ -2272,9 +3720,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**TransformCharm**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformCharm
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Triangle |
@@ -2286,9 +3743,18 @@ Channels heat flux to produce its effect. Extends across a flat surface, at poin
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**FlowBond**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowBond
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 94 W |
 | Shape | Square |
@@ -2300,9 +3766,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**PiercSilence**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercSilence
+
+***
+
 Detects heat-related phenomena and gathers information. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Triangle |
@@ -2314,9 +3789,18 @@ Detects heat-related phenomena and gathers information. Extends across a flat su
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**TwistBond**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistBond
+
+***
+
 Reshapes the target using heat flux. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 26 W |
 | Shape | Square |
@@ -2328,9 +3812,18 @@ Reshapes the target using heat flux. Must be actively maintained, but the flux d
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**FragileCurse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FragileCurse
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 45 W |
 | Shape | Square |
@@ -2342,9 +3835,18 @@ Reshapes the target using force flux. Extends across a flat surface, at point of
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**TransformDance**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformDance
+
+***
+
 Channels raw flux to produce its effect. Spreads in a widening arc. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -2356,9 +3858,18 @@ Channels raw flux to produce its effect. Spreads in a widening arc. Lasts roughl
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**ShatterLight**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterLight
+
+***
+
 Channels raw flux to produce its effect. within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -2370,9 +3881,18 @@ Channels raw flux to produce its effect. within 10 feet. Takes effect in a singl
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**SolidFrost**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidFrost
+
+***
+
 Channels heat flux to produce its effect. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 41 W |
 | Shape | Square |
@@ -2384,9 +3904,18 @@ Channels heat flux to produce its effect. Persists for several minutes without f
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**FierceThread**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FierceThread
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 40 W |
 | Shape | Square |
@@ -2398,9 +3927,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**WeavEcho**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavEcho
+
+***
+
 Detects chemical-related phenomena and gathers information. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 45 W |
 | Shape | Square |
@@ -2412,9 +3950,18 @@ Detects chemical-related phenomena and gathers information. Extends across a fla
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**WildKey**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WildKey
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 16 W |
 | Shape | Square |
@@ -2426,9 +3973,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**ShatterFlame**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterFlame
+
+***
+
 Channels heat flux to produce its effect. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 43 W |
 | Shape | Square |
@@ -2440,9 +3996,18 @@ Channels heat flux to produce its effect. Persists for several minutes without f
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**ReleaseBreath**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseBreath
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 50 W |
 | Shape | Triangle |
@@ -2454,9 +4019,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**ShatterNet**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterNet
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 23 W |
 | Shape | Square |
@@ -2468,9 +4042,18 @@ Channels force flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**TaintedPulse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedPulse
+
+***
+
 Channels raw flux to induce fundamental transformation. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Square |
@@ -2482,9 +4065,18 @@ Channels raw flux to induce fundamental transformation. Extends across a flat su
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**PiercBridge**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercBridge
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Triangle |
@@ -2496,9 +4088,18 @@ Channels heat flux to produce its effect. Extends across a flat surface. Persist
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**CurvedWard**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CurvedWard
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. Spreads in a widening arc. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 19 W |
 | Shape | Triangle |
@@ -2510,9 +4111,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**RisNet**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+RisNet
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 80 W |
 | Shape | Square |
@@ -2524,9 +4134,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**TransformBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformBreath
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Triangle |
@@ -2538,9 +4157,18 @@ Channels heat flux to produce its effect. Extends across a flat surface. Persist
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**CalmPath**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmPath
+
+***
+
 Anchors electric flux to the target, holding it in place. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 27 W |
 | Shape | Triangle |
@@ -2552,9 +4180,18 @@ Anchors electric flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**DissolveLight**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolveLight
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 85 W |
 | Shape | Square |
@@ -2566,9 +4203,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**HeavyCalm**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyCalm
+
+***
+
 Channels raw flux to produce its effect. Spreads in a widening arc. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 40 W |
 | Shape | Triangle |
@@ -2580,9 +4226,18 @@ Channels raw flux to produce its effect. Spreads in a widening arc. Persists for
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**RestlessRoot**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+RestlessRoot
+
+***
+
 Projects heat energy outward, delivering its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 11 W |
 | Shape | Triangle |
@@ -2594,9 +4249,18 @@ Projects heat energy outward, delivering its effect. Extends across a flat surfa
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**RisCurse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+RisCurse
+
+***
+
 Detects raw-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 40 W |
 | Shape | Square |
@@ -2608,9 +4272,18 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**GuardStorm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardStorm
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 65 W |
 | Shape | Triangle |
@@ -2622,9 +4295,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**ColdEcho**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ColdEcho
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 30 W |
 | Shape | Triangle |
@@ -2636,9 +4318,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**SurRoot**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurRoot
+
+***
+
 Detects light-related phenomena and gathers information. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 29 W |
 | Shape | Square |
@@ -2650,9 +4341,18 @@ Detects light-related phenomena and gathers information. Lasts roughly a minute 
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**SweepAura**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepAura
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Triangle |
@@ -2664,9 +4364,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**DissolveMark**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolveMark
+
+***
+
 Detects chemical-related phenomena and gathers information. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 42 W |
 | Shape | Square |
@@ -2678,9 +4387,18 @@ Detects chemical-related phenomena and gathers information. Extends across a fla
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**FlowShadow**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowShadow
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. Spreads in a widening arc, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 27 W |
 | Shape | Triangle |
@@ -2692,9 +4410,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**RisMirror**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+RisMirror
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 57 W |
 | Shape | Square |
@@ -2706,9 +4433,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, within 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**PiercCore**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercCore
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Square |
@@ -2720,9 +4456,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**LoudKnot**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+LoudKnot
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 38 W |
 | Shape | Triangle |
@@ -2734,9 +4479,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**FreezShroud**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezShroud
+
+***
+
 Channels light flux to produce its effect. within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 54 W |
 | Shape | Square |
@@ -2748,9 +4502,18 @@ Channels light flux to produce its effect. within 10 feet. Persists for several 
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**DissolvShell**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DissolvShell
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 12 W |
 | Shape | Square |
@@ -2762,9 +4525,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, at point
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**FallBridge**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallBridge
+
+***
+
 Anchors light flux to the target, holding it in place. within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 56 W |
 | Shape | Square |
@@ -2776,9 +4548,18 @@ Anchors light flux to the target, holding it in place. within 10 feet. Persists 
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**SurgeScar**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeScar
+
+***
+
 Detects force-related phenomena and gathers information. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 23 W |
 | Shape | Triangle |
@@ -2790,9 +4571,18 @@ Detects force-related phenomena and gathers information. at point of contact. Mu
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**AnchoredVoid**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchoredVoid
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 30 W |
 | Shape | Triangle |
@@ -2804,9 +4594,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc. Lasts r
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**FreezChain**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezChain
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 24 W |
 | Shape | Triangle |
@@ -2818,9 +4617,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**SweepMirror**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepMirror
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 72 W |
 | Shape | Square |
@@ -2832,9 +4640,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**SurgeLight**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeLight
+
+***
+
 Detects chemical-related phenomena and gathers information. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 79 W |
 | Shape | Square |
@@ -2846,9 +4663,18 @@ Detects chemical-related phenomena and gathers information. Spreads in a widenin
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**HardyBond**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+HardyBond
+
+***
+
 Channels light flux to produce its effect. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 16 W |
 | Shape | Triangle |
@@ -2860,9 +4686,18 @@ Channels light flux to produce its effect. Lasts roughly a minute before dissipa
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**RisPulse**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+RisPulse
+
+***
+
 Screens heat flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 28 W |
 | Shape | Square |
@@ -2874,9 +4709,18 @@ Screens heat flux, blocking unwanted elements while allowing valid ones through.
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**ShallowKnot**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShallowKnot
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Square |
@@ -2888,9 +4732,18 @@ Channels raw flux to produce its effect. Extends across a flat surface. Persists
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**GuardBlessing**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardBlessing
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 28 W |
 | Shape | Square |
@@ -2902,9 +4755,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**RiseShadow**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseShadow
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 28 W |
 | Shape | Square |
@@ -2916,9 +4778,18 @@ Channels light flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**WhirlingTouch**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+WhirlingTouch
+
+***
+
 Anchors chemical flux to the target, holding it in place. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -2930,9 +4801,18 @@ Anchors chemical flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**FallKnot**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallKnot
+
+***
+
 Projects heat energy outward, delivering its effect. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -2944,9 +4824,18 @@ Projects heat energy outward, delivering its effect. Extends across a flat surfa
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**QuietTouch**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietTouch
+
+***
+
 Anchors chemical flux to the target, holding it in place. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 80 W |
 | Shape | Square |
@@ -2958,9 +4847,18 @@ Anchors chemical flux to the target, holding it in place. Spreads in a widening 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**SolidRing**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidRing
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 16 W |
 | Shape | Triangle |
@@ -2972,9 +4870,18 @@ Channels light flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**BindWeb**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindWeb
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 87 W |
 | Shape | Square |
@@ -2986,9 +4893,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**TransformGlyph**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformGlyph
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 97 W |
 | Shape | Square |
@@ -3000,9 +4916,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**SurgeSight**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeSight
+
+***
+
 Reshapes the target using heat flux. within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 31 W |
 | Shape | Square |
@@ -3014,9 +4939,18 @@ Reshapes the target using heat flux. within 10 feet. Lasts roughly a minute befo
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**BindThread**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindThread
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 64 W |
 | Shape | Square |
@@ -3028,9 +4962,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**SolidVeil**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidVeil
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -3042,9 +4985,18 @@ Reshapes the target using force flux. Extends across a flat surface, at point of
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**GuardMirror**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+GuardMirror
+
+***
+
 Channels chemical flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 24 W |
 | Shape | Triangle |
@@ -3056,9 +5008,18 @@ Channels chemical flux to produce its effect. Extends across a flat surface, at 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**BurCage**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurCage
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 92 W |
 | Shape | Square |
@@ -3070,9 +5031,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**FierceHalo**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FierceHalo
+
+***
+
 Detects electric-related phenomena and gathers information. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 55 W |
 | Shape | Square |
@@ -3084,9 +5054,18 @@ Detects electric-related phenomena and gathers information. Must be actively mai
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**KindleRoad**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleRoad
+
+***
+
 Channels chemical flux to produce its effect. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Triangle |
@@ -3098,9 +5077,18 @@ Channels chemical flux to produce its effect. Extends across a flat surface. Tak
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**KindleDream**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleDream
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 36 W |
 | Shape | Square |
@@ -3112,9 +5100,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**CaptureLight**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureLight
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 26 W |
 | Shape | Square |
@@ -3126,9 +5123,18 @@ Channels heat flux to produce its effect. Extends across a flat surface. Must be
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**BreakMark**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakMark
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 30 W |
 | Shape | Triangle |
@@ -3140,9 +5146,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**RiseDream**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseDream
+
+***
+
 Reshapes the target using electric flux. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 45 W |
 | Shape | Triangle |
@@ -3154,9 +5169,18 @@ Reshapes the target using electric flux. Extends across a flat surface. Persists
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**PureCore**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PureCore
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 40 W |
 | Shape | Triangle |
@@ -3168,9 +5192,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**SwiftBreath**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SwiftBreath
+
+***
+
 Detects raw-related phenomena and gathers information. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -3182,9 +5215,18 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**BreakHand**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakHand
+
+***
+
 Anchors electric flux to the target, holding it in place. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 57 W |
 | Shape | Square |
@@ -3196,9 +5238,18 @@ Anchors electric flux to the target, holding it in place. Spreads in a widening 
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**VastBoon**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+VastBoon
+
+***
+
 Channels raw flux to produce its effect. at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Triangle |
@@ -3210,9 +5261,18 @@ Channels raw flux to produce its effect. at point of contact. Lasts roughly a mi
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**ShatterVoid**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterVoid
+
+***
+
 Channels electric flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 42 W |
 | Shape | Triangle |
@@ -3224,9 +5284,18 @@ Channels electric flux to produce its effect. Extends across a flat surface, at 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**BindBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindBreath
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Spreads in a widening arc, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 36 W |
 | Shape | Triangle |
@@ -3238,9 +5307,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**BindStorm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindStorm
+
+***
+
 Anchors chemical flux to the target, holding it in place. Extends across a flat surface. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 70 W |
 | Shape | Square |
@@ -3252,9 +5330,18 @@ Anchors chemical flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**DriftRune**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftRune
+
+***
+
 Detects electric-related phenomena and gathers information. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 42 W |
 | Shape | Square |
@@ -3266,9 +5353,18 @@ Detects electric-related phenomena and gathers information. Takes effect in a si
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**BreakShadow**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakShadow
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Square |
@@ -3280,9 +5376,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**FreezePulse**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezePulse
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 48 W |
 | Shape | Square |
@@ -3294,9 +5399,18 @@ Channels force flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**FlowRoad**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowRoad
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 23 W |
 | Shape | Triangle |
@@ -3308,9 +5422,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**SweepSight**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepSight
+
+***
+
 Projects kinetic force that delivers crushing impact. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
@@ -3322,9 +5445,18 @@ Projects kinetic force that delivers crushing impact. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**ShatterFrost**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterFrost
+
+***
+
 Channels electric flux to produce its effect. at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 42 W |
 | Shape | Square |
@@ -3336,9 +5468,18 @@ Channels electric flux to produce its effect. at point of contact. Takes effect 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**BindHand**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindHand
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 85 W |
 | Shape | Square |
@@ -3350,9 +5491,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**DriftingBond**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftingBond
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Square |
@@ -3364,9 +5514,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, within 1
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**StraightBond**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+StraightBond
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 85 W |
 | Shape | Square |
@@ -3378,9 +5537,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**BurnDream**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurnDream
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 42 W |
 | Shape | Triangle |
@@ -3392,9 +5560,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Must 
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**CurvedRing**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CurvedRing
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 92 W |
 | Shape | Square |
@@ -3406,9 +5583,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**ReleaseSight**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseSight
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 28 W |
 | Shape | Square |
@@ -3420,9 +5606,18 @@ Channels force flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**HeavyVeil**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavyVeil
+
+***
+
 Anchors chemical flux to the target, holding it in place. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 55 W |
 | Shape | Square |
@@ -3434,9 +5629,18 @@ Anchors chemical flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**TwinThread**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwinThread
+
+***
+
 Reshapes the target using force flux. at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -3448,9 +5652,18 @@ Reshapes the target using force flux. at point of contact. Lasts roughly a minut
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**CalmStorm**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmStorm
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 21 W |
 | Shape | Square |
@@ -3462,9 +5675,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**WildFrost**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WildFrost
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 77 W |
 | Shape | Square |
@@ -3476,9 +5698,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc. Persist
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**TransformBrand**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformBrand
+
+***
+
 Channels electric flux to produce its effect. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 27 W |
 | Shape | Triangle |
@@ -3490,9 +5721,18 @@ Channels electric flux to produce its effect. at point of contact. Must be activ
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**DullPulse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DullPulse
+
+***
+
 Detects chemical-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 45 W |
 | Shape | Square |
@@ -3504,9 +5744,18 @@ Detects chemical-related phenomena and gathers information. Extends across a fla
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**PiercHand**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercHand
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Square |
@@ -3518,9 +5767,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**AnchorBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorBreath
+
+***
+
 Detects chemical-related phenomena and gathers information. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 34 W |
 | Shape | Triangle |
@@ -3532,9 +5790,18 @@ Detects chemical-related phenomena and gathers information. Spreads in a widenin
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**CapturPath**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CapturPath
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 90 W |
 | Shape | Square |
@@ -3546,9 +5813,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**VastWeb**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+VastWeb
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 55 W |
 | Shape | Square |
@@ -3560,9 +5836,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**BrightRing**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BrightRing
+
+***
+
 Projects kinetic force that delivers crushing impact. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 28 W |
 | Shape | Square |
@@ -3574,9 +5859,18 @@ Projects kinetic force that delivers crushing impact. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**LightNet**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+LightNet
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 44 W |
 | Shape | Triangle |
@@ -3588,9 +5882,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**FreezeFlame**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeFlame
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Triangle |
@@ -3602,9 +5905,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, at point
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**TwistWay**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistWay
+
+***
+
 Channels light flux to produce its effect. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 51 W |
 | Shape | Square |
@@ -3616,9 +5928,18 @@ Channels light flux to produce its effect. at point of contact. Persists for sev
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**TameThread**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TameThread
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Square |
@@ -3630,9 +5951,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**FallCore**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallCore
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 50 W |
 | Shape | Triangle |
@@ -3644,9 +5974,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**VastBond**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+VastBond
+
+***
+
 Anchors raw flux to the target, creating a volatile binding. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -3658,9 +5997,18 @@ Anchors raw flux to the target, creating a volatile binding. Extends across a fl
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**HeavySeal**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+HeavySeal
+
+***
+
 Channels heat flux to produce its effect. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Triangle |
@@ -3672,9 +6020,18 @@ Channels heat flux to produce its effect. Spreads in a widening arc, within 10 f
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**RiseTide**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseTide
+
+***
+
 Channels chemical flux to produce its effect. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 57 W |
 | Shape | Triangle |
@@ -3686,9 +6043,18 @@ Channels chemical flux to produce its effect. Spreads in a widening arc, within 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**TwistBreath**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistBreath
+
+***
+
 Detects light-related phenomena and gathers information. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 51 W |
 | Shape | Square |
@@ -3700,9 +6066,18 @@ Detects light-related phenomena and gathers information. at point of contact. Pe
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**RisEcho**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+RisEcho
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Spreads in a widening arc, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 31 W |
 | Shape | Triangle |
@@ -3714,9 +6089,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**NakedEcho**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+NakedEcho
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -3728,9 +6112,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**BurBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurBreath
+
+***
+
 Channels raw flux to produce its effect. at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 12 W |
 | Shape | Square |
@@ -3742,9 +6135,18 @@ Channels raw flux to produce its effect. at point of contact. Takes effect in a 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**ReleaseStrike**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseStrike
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 87 W |
 | Shape | Square |
@@ -3756,9 +6158,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**PalePulse**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+PalePulse
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -3770,9 +6181,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**ReleasRing**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleasRing
+
+***
+
 Projects heat energy outward, delivering its effect. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -3784,9 +6204,18 @@ Projects heat energy outward, delivering its effect. Extends across a flat surfa
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**ReleaseSong**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseSong
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -3798,9 +6227,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**PiercRing**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercRing
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 54 W |
 | Shape | Triangle |
@@ -3812,9 +6250,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**WarmNet**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+WarmNet
+
+***
+
 Anchors electric flux to the target, holding it in place. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 52 W |
 | Shape | Square |
@@ -3826,9 +6273,18 @@ Anchors electric flux to the target, holding it in place. Must be actively maint
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**SweepSoul**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepSoul
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 44 W |
 | Shape | Square |
@@ -3840,9 +6296,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**QuietAura**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietAura
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -3854,9 +6319,18 @@ Channels heat flux to produce its effect. Extends across a flat surface, within 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**HiddenCharm**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+HiddenCharm
+
+***
+
 Anchors light flux to the target, holding it in place. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -3868,9 +6342,18 @@ Anchors light flux to the target, holding it in place. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**ColdShell**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ColdShell
+
+***
+
 Screens light flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 66 W |
 | Shape | Square |
@@ -3882,9 +6365,18 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**TaintedAura**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TaintedAura
+
+***
+
 Channels raw flux to induce fundamental transformation. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Triangle |
@@ -3896,9 +6388,18 @@ Channels raw flux to induce fundamental transformation. Extends across a flat su
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**CurvedCrown**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CurvedCrown
+
+***
+
 Detects light-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 54 W |
 | Shape | Square |
@@ -3910,9 +6411,18 @@ Detects light-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**MurkyMark**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+MurkyMark
+
+***
+
 Projects electric energy outward, delivering its effect. at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 22 W |
 | Shape | Triangle |
@@ -3924,9 +6434,18 @@ Projects electric energy outward, delivering its effect. at point of contact. La
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**PureSpirit**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+PureSpirit
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 31 W |
 | Shape | Square |
@@ -3938,9 +6457,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**KindleWay**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleWay
+
+***
+
 Channels electric flux to produce its effect. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 79 W |
 | Shape | Square |
@@ -3952,9 +6480,18 @@ Channels electric flux to produce its effect. Spreads in a widening arc, at poin
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**FallRing**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallRing
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 80 W |
 | Shape | Square |
@@ -3966,9 +6503,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Takes
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**ReleaseLight**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseLight
+
+***
+
 Projects heat energy outward, delivering its effect. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 16 W |
 | Shape | Triangle |
@@ -3980,9 +6526,18 @@ Projects heat energy outward, delivering its effect. Must be actively maintained
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**FragileShroud**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FragileShroud
+
+***
+
 Detects heat-related phenomena and gathers information. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -3994,9 +6549,18 @@ Detects heat-related phenomena and gathers information. Must be actively maintai
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**DriftVeil**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftVeil
+
+***
+
 Anchors chemical flux to the target, holding it in place. Spreads in a widening arc, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 40 W |
 | Shape | Triangle |
@@ -4008,9 +6572,18 @@ Anchors chemical flux to the target, holding it in place. Spreads in a widening 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**SharpFlame**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SharpFlame
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Square |
@@ -4022,9 +6595,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**TransformBoon**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformBoon
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 94 W |
 | Shape | Square |
@@ -4036,9 +6618,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**TwistChain**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwistChain
+
+***
+
 Anchors heat flux to the target, holding it in place. within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -4050,9 +6641,18 @@ Anchors heat flux to the target, holding it in place. within 10 feet. Lasts roug
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**PiercRoot**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercRoot
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 53 W |
 | Shape | Square |
@@ -4064,9 +6664,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**DriftingTouch**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftingTouch
+
+***
+
 Screens light flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 61 W |
 | Shape | Square |
@@ -4078,9 +6687,18 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**StraightPath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+StraightPath
+
+***
+
 Detects raw-related phenomena and gathers information. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 28 W |
 | Shape | Triangle |
@@ -4092,9 +6710,18 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**FallCharm**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallCharm
+
+***
+
 Induces chemical transformation, altering molecular structure and material composition. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 82 W |
 | Shape | Square |
@@ -4106,9 +6733,18 @@ Induces chemical transformation, altering molecular structure and material compo
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**StillCurse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+StillCurse
+
+***
+
 Projects kinetic force that delivers crushing impact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 46 W |
 | Shape | Square |
@@ -4120,9 +6756,18 @@ Projects kinetic force that delivers crushing impact. Persists for several minut
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**KindleTide**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleTide
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 43 W |
 | Shape | Square |
@@ -4134,9 +6779,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**ShatterMirror**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterMirror
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 50 W |
 | Shape | Triangle |
@@ -4148,9 +6802,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**RisCalm**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+RisCalm
+
+***
+
 Channels raw flux to induce fundamental transformation. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 25 W |
 | Shape | Square |
@@ -4162,9 +6825,18 @@ Channels raw flux to induce fundamental transformation. Extends across a flat su
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**BurnFrost**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurnFrost
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 112 W |
 | Shape | Square |
@@ -4176,9 +6848,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**SweepWeb**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepWeb
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Square |
@@ -4190,9 +6871,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**FrozenMark**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FrozenMark
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -4204,9 +6894,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**BurShroud**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurShroud
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. Spreads in a widening arc. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 46 W |
 | Shape | Triangle |
@@ -4218,9 +6917,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**ShallowCage**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShallowCage
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 90 W |
 | Shape | Square |
@@ -4232,9 +6940,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**TransformRune**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformRune
+
+***
+
 Anchors raw flux to the target, creating a volatile binding. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 15 W |
 | Shape | Square |
@@ -4246,9 +6963,18 @@ Anchors raw flux to the target, creating a volatile binding. Extends across a fl
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**WarmCore**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+WarmCore
+
+***
+
 Anchors chemical flux to the target, holding it in place. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 25 W |
 | Shape | Triangle |
@@ -4260,9 +6986,18 @@ Anchors chemical flux to the target, holding it in place. Must be actively maint
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**TransformSong**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformSong
+
+***
+
 Channels electric flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Square |
@@ -4274,9 +7009,18 @@ Channels electric flux to produce its effect. Extends across a flat surface, wit
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**FiercePath**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FiercePath
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 65 W |
 | Shape | Triangle |
@@ -4288,9 +7032,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**DarkCore**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DarkCore
+
+***
+
 Projects electric energy outward, delivering its effect. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 65 W |
 | Shape | Square |
@@ -4302,9 +7055,18 @@ Projects electric energy outward, delivering its effect. Persists for several mi
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**FragileNet**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FragileNet
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 92 W |
 | Shape | Square |
@@ -4316,9 +7078,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**CaptureFlame**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+CaptureFlame
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 26 W |
 | Shape | Square |
@@ -4330,9 +7101,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**CalmFlame**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmFlame
+
+***
+
 Anchors chemical flux to the target, holding it in place. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 20 W |
 | Shape | Triangle |
@@ -4344,9 +7124,18 @@ Anchors chemical flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**AnchorBrand**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorBrand
+
+***
+
 Channels raw flux to induce fundamental transformation. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -4358,9 +7147,18 @@ Channels raw flux to induce fundamental transformation. Extends across a flat su
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**WeavVoid**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavVoid
+
+***
+
 Anchors raw flux to the target, creating a volatile binding. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -4372,9 +7170,18 @@ Anchors raw flux to the target, creating a volatile binding. Extends across a fl
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**CalmLock**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+CalmLock
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 112 W |
 | Shape | Square |
@@ -4386,9 +7193,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**KindlPath**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindlPath
+
+***
+
 Channels raw flux to produce its effect. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Triangle |
@@ -4400,9 +7216,18 @@ Channels raw flux to produce its effect. Lasts roughly a minute before dissipati
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**TwinSigil**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwinSigil
+
+***
+
 Reshapes the target using force flux. Spreads in a widening arc. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 36 W |
 | Shape | Square |
@@ -4414,9 +7239,18 @@ Reshapes the target using force flux. Spreads in a widening arc. Lasts roughly a
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**BindKnot**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindKnot
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, at point of contact. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 18 W |
 | Shape | Square |
@@ -4428,9 +7262,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**DullFrost**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DullFrost
+
+***
+
 Detects chemical-related phenomena and gathers information. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 22 W |
 | Shape | Triangle |
@@ -4442,9 +7285,18 @@ Detects chemical-related phenomena and gathers information. Extends across a fla
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**StillGlyph**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+StillGlyph
+
+***
+
 Channels light flux to produce its effect. Spreads in a widening arc. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 46 W |
 | Shape | Square |
@@ -4456,9 +7308,18 @@ Channels light flux to produce its effect. Spreads in a widening arc. Must be ac
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**BurThread**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurThread
+
+***
+
 Detects raw-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 28 W |
 | Shape | Square |
@@ -4470,9 +7331,18 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Surface |
----
-**FrozenMirror**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FrozenMirror
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 55 W |
 | Shape | Square |
@@ -4484,9 +7354,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**DriftBrand**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftBrand
+
+***
+
 Detects heat-related phenomena and gathers information. at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 30 W |
 | Shape | Square |
@@ -4498,9 +7377,18 @@ Detects heat-related phenomena and gathers information. at point of contact. Mus
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Object |
----
-**BurRune**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurRune
+
+***
+
 Anchors electric flux to the target, holding it in place. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 55 W |
 | Shape | Square |
@@ -4512,9 +7400,18 @@ Anchors electric flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Surface |
----
-**TransformMark**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformMark
+
+***
+
 Reshapes the target using electric flux. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 45 W |
 | Shape | Square |
@@ -4526,9 +7423,18 @@ Reshapes the target using electric flux. Takes effect in a single instant. The m
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Surface |
----
-**ShatterWay**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterWay
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -4540,9 +7446,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**FierceWall**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FierceWall
+
+***
+
 Anchors chemical flux to the target, holding it in place. Spreads in a widening arc, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 42 W |
 | Shape | Triangle |
@@ -4554,9 +7469,18 @@ Anchors chemical flux to the target, holding it in place. Spreads in a widening 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**QuietVoice**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+QuietVoice
+
+***
+
 Reshapes the target using electric flux. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -4568,9 +7492,18 @@ Reshapes the target using electric flux. Spreads in a widening arc, within 10 fe
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**WeaveFlame**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeaveFlame
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 90 W |
 | Shape | Square |
@@ -4582,9 +7515,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Lasts
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**FlowRune**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+FlowRune
+
+***
+
 Projects heat energy outward, delivering its effect. Spreads in a widening arc, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 43 W |
 | Shape | Square |
@@ -4596,9 +7538,18 @@ Projects heat energy outward, delivering its effect. Spreads in a widening arc, 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**BurTouch**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurTouch
+
+***
+
 Screens heat flux, blocking unwanted elements while allowing valid ones through. at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 23 W |
 | Shape | Square |
@@ -4610,9 +7561,18 @@ Screens heat flux, blocking unwanted elements while allowing valid ones through.
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**LoneAura**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+LoneAura
+
+***
+
 Projects electric energy outward, delivering its effect. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 57 W |
 | Shape | Square |
@@ -4624,9 +7584,18 @@ Projects electric energy outward, delivering its effect. Extends across a flat s
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**PiercKnot**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercKnot
+
+***
+
 Anchors chemical flux to the target, holding it in place. Extends across a flat surface, within 10 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 50 W |
 | Shape | Square |
@@ -4638,9 +7607,18 @@ Anchors chemical flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**ClearShroud**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ClearShroud
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Square |
@@ -4652,9 +7630,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**CapturEcho**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+CapturEcho
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 85 W |
 | Shape | Square |
@@ -4666,9 +7653,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**TransformGate**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+TransformGate
+
+***
+
 Channels chemical flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 22 W |
 | Shape | Triangle |
@@ -4680,9 +7676,18 @@ Channels chemical flux to produce its effect. Extends across a flat surface, wit
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**HumbleGlyph**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+HumbleGlyph
+
+***
+
 Detects raw-related phenomena and gathers information. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 13 W |
 | Shape | Square |
@@ -4694,9 +7699,18 @@ Detects raw-related phenomena and gathers information. Extends across a flat sur
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**FrozenNet**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FrozenNet
+
+***
+
 Channels chemical flux to produce its effect. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -4708,9 +7722,18 @@ Channels chemical flux to produce its effect. Extends across a flat surface, wit
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Object |
----
-**BindVeil**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindVeil
+
+***
+
 Screens light flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 54 W |
 | Shape | Square |
@@ -4722,9 +7745,18 @@ Screens light flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Surface |
----
-**SwiftCage**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SwiftCage
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Spreads in a widening arc, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 37 W |
 | Shape | Triangle |
@@ -4736,9 +7768,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**KindleSong**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindleSong
+
+***
+
 Channels light flux to produce its effect. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 24 W |
 | Shape | Triangle |
@@ -4750,9 +7791,18 @@ Channels light flux to produce its effect. Spreads in a widening arc, within 10 
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**SurgeBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeBreath
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 28 W |
 | Shape | Square |
@@ -4764,9 +7814,18 @@ Reshapes the target using force flux. Extends across a flat surface, within 10 f
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**ReleaseBlessing**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ReleaseBlessing
+
+***
+
 Projects kinetic force that delivers crushing impact. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -4778,9 +7837,18 @@ Projects kinetic force that delivers crushing impact. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**PureStorm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+PureStorm
+
+***
+
 Channels chemical flux to produce its effect. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -4792,9 +7860,18 @@ Channels chemical flux to produce its effect. Extends across a flat surface, at 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**ShatterDance**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterDance
+
+***
+
 Screens chemical flux, blocking unwanted elements while allowing valid ones through. within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 25 W |
 | Shape | Triangle |
@@ -4806,9 +7883,18 @@ Screens chemical flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**SlowGate**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SlowGate
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 87 W |
 | Shape | Square |
@@ -4820,9 +7906,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**AnchorVeil**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorVeil
+
+***
+
 Anchors heat flux to the target, holding it in place. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 23 W |
 | Shape | Triangle |
@@ -4834,9 +7929,18 @@ Anchors heat flux to the target, holding it in place. Spreads in a widening arc,
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**ShatterKey**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterKey
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 8 W |
 | Shape | Triangle |
@@ -4848,9 +7952,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**LoneSilence**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+LoneSilence
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, at point of contact. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 20 W |
 | Shape | Square |
@@ -4862,9 +7975,18 @@ Reshapes the target using force flux. Extends across a flat surface, at point of
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**VastRoot**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+VastRoot
+
+***
+
 Screens heat flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 46 W |
 | Shape | Square |
@@ -4876,9 +7998,18 @@ Screens heat flux, blocking unwanted elements while allowing valid ones through.
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**KindlChain**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+KindlChain
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
@@ -4890,9 +8021,18 @@ Reshapes the target using force flux. Extends across a flat surface, at point of
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**HumbleHeart**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+HumbleHeart
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 82 W |
 | Shape | Square |
@@ -4904,9 +8044,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**BrightAura**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BrightAura
+
+***
+
 Detects heat-related phenomena and gathers information. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Triangle |
@@ -4918,9 +8067,18 @@ Detects heat-related phenomena and gathers information. Extends across a flat su
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**ChillScar**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillScar
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. Spreads in a widening arc. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 49 W |
 | Shape | Triangle |
@@ -4932,9 +8090,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**SolidBond**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SolidBond
+
+***
+
 Manipulates light itself, bending rays, shifting colors, or creating optical effects. at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -4946,9 +8113,18 @@ Manipulates light itself, bending rays, shifting colors, or creating optical eff
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**BreakBrand**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakBrand
+
+***
+
 Reshapes the target using force flux. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
@@ -4960,9 +8136,18 @@ Reshapes the target using force flux. Spreads in a widening arc, within 10 feet.
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**FreezCharm**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezCharm
+
+***
+
 Channels electric flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 52 W |
 | Shape | Square |
@@ -4974,9 +8159,18 @@ Channels electric flux to produce its effect. Extends across a flat surface, at 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**BreakEcho**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakEcho
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 12 W |
 | Shape | Triangle |
@@ -4988,9 +8182,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, at point
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**BurnShadow**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BurnShadow
+
+***
+
 Reshapes the target using heat flux. Extends across a flat surface. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 41 W |
 | Shape | Square |
@@ -5002,9 +8205,18 @@ Reshapes the target using heat flux. Extends across a flat surface. Persists for
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**SurgeDance**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeDance
+
+***
+
 Screens force flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 6 W |
 | Shape | Triangle |
@@ -5016,9 +8228,18 @@ Screens force flux, blocking unwanted elements while allowing valid ones through
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**ChillWard**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillWard
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 26 W |
 | Shape | Square |
@@ -5030,9 +8251,18 @@ Channels force flux to produce its effect. Extends across a flat surface. Must b
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**PiercFrost**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercFrost
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 23 W |
 | Shape | Square |
@@ -5044,9 +8274,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**AncientVoice**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+AncientVoice
+
+***
+
 Channels chemical flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Triangle |
@@ -5058,9 +8297,18 @@ Channels chemical flux to produce its effect. Extends across a flat surface, at 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**WeaveWay**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeaveWay
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Must be actively maintained, but the flux drain is minimal, making extended use practical. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 50 W |
 | Shape | Triangle |
@@ -5072,9 +8320,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
-| Target | Surface |
----
-**SurSoul**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurSoul
+
+***
+
 Channels chemical flux to produce its effect. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 69 W |
 | Shape | Square |
@@ -5086,9 +8343,18 @@ Channels chemical flux to produce its effect. at point of contact. Persists for 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**DriftRoot**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftRoot
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 24 W |
 | Shape | Square |
@@ -5100,9 +8366,18 @@ Channels light flux to produce its effect. Extends across a flat surface. Takes 
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**BreakBreath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakBreath
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 95 W |
 | Shape | Square |
@@ -5114,9 +8389,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. withi
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**PiercVoice**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercVoice
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 52 W |
 | Shape | Triangle |
@@ -5128,9 +8412,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**BindKey**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindKey
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 82 W |
 | Shape | Square |
@@ -5142,9 +8435,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Takes
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**BindFrost**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindFrost
+
+***
+
 Reshapes the target using force flux. Spreads in a widening arc, within 10 feet. Takes effect in a single instant. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 36 W |
 | Shape | Square |
@@ -5156,9 +8458,18 @@ Reshapes the target using force flux. Spreads in a widening arc, within 10 feet.
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**SweepPulse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepPulse
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
@@ -5170,9 +8481,18 @@ Channels force flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**FallDance**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallDance
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 25 W |
 | Shape | Square |
@@ -5184,9 +8504,18 @@ Channels heat flux to produce its effect. Extends across a flat surface, at poin
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**SurgeStorm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+SurgeStorm
+
+***
+
 Channels light flux to produce its effect. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 19 W |
 | Shape | Triangle |
@@ -5198,9 +8527,18 @@ Channels light flux to produce its effect. Extends across a flat surface, within
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Surface |
----
-**AnchorVoid**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorVoid
+
+***
+
 Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 25 W |
 | Shape | Triangle |
@@ -5212,9 +8550,18 @@ Releases reactive flux that triggers chemical responses—corrosion, combustion,
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**CurvedWisp**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+CurvedWisp
+
+***
+
 Channels electric flux to produce its effect. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 40 W |
 | Shape | Triangle |
@@ -5226,9 +8573,18 @@ Channels electric flux to produce its effect. Persists for several minutes witho
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**BindFlame**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindFlame
+
+***
+
 Projects heat energy outward, delivering its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 35 W |
 | Shape | Triangle |
@@ -5240,9 +8596,18 @@ Projects heat energy outward, delivering its effect. Extends across a flat surfa
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**TameCore**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+TameCore
+
+***
+
 Channels heat flux to produce its effect. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Square |
@@ -5254,9 +8619,18 @@ Channels heat flux to produce its effect. Spreads in a widening arc, at point of
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**FragileCalm**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FragileCalm
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 87 W |
 | Shape | Square |
@@ -5268,9 +8642,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Exten
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**PiercSpirit**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+PiercSpirit
+
+***
+
 Projects electric energy outward, delivering its effect. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 22 W |
 | Shape | Triangle |
@@ -5282,9 +8665,18 @@ Projects electric energy outward, delivering its effect. Extends across a flat s
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**ShatterBridge**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterBridge
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 37 W |
 | Shape | Triangle |
@@ -5296,9 +8688,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Lasts
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**ShatterCrown**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterCrown
+
+***
+
 Anchors electric flux to the target, holding it in place. at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 42 W |
 | Shape | Triangle |
@@ -5310,9 +8711,18 @@ Anchors electric flux to the target, holding it in place. at point of contact. P
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**HumbleWall**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+HumbleWall
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 10 W |
 | Shape | Triangle |
@@ -5324,9 +8734,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**ShatterCalm**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+ShatterCalm
+
+***
+
 Anchors heat flux to the target, holding it in place. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -5338,9 +8757,18 @@ Anchors heat flux to the target, holding it in place. Extends across a flat surf
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**LightVoid**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+LightVoid
+
+***
+
 Detects force-related phenomena and gathers information. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 15 W |
 | Shape | Triangle |
@@ -5352,9 +8780,18 @@ Detects force-related phenomena and gathers information. Extends across a flat s
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**FallShadow**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallShadow
+
+***
+
 Channels heat flux to produce its effect. Extends across a flat surface. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 16 W |
 | Shape | Square |
@@ -5366,9 +8803,18 @@ Channels heat flux to produce its effect. Extends across a flat surface. Takes e
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Where Written |
----
-**GentleWisp**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+GentleWisp
+
+***
+
 Anchors raw flux to the target, creating a volatile binding. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 40 W |
 | Shape | Square |
@@ -5380,9 +8826,18 @@ Anchors raw flux to the target, creating a volatile binding. Extends across a fl
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Object |
----
-**FreezeStorm**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezeStorm
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 87 W |
 | Shape | Square |
@@ -5394,9 +8849,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. at po
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Surface |
----
-**SweepFlame**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+SweepFlame
+
+***
+
 Anchors electric flux to the target, holding it in place. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 32 W |
 | Shape | Triangle |
@@ -5408,9 +8872,18 @@ Anchors electric flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Surface |
----
-**BreakTouch**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+BreakTouch
+
+***
+
 Screens raw flux, blocking unwanted elements while allowing valid ones through. at point of contact. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 7 W |
 | Shape | Triangle |
@@ -5422,9 +8895,18 @@ Screens raw flux, blocking unwanted elements while allowing valid ones through. 
 | Pattern | Point |
 | Reach | Touch |
 | Persistence | Immediate |
-| Target | Object |
----
-**VastHeart**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+VastHeart
+
+***
+
 Channels raw flux to produce its effect. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 12 W |
 | Shape | Triangle |
@@ -5436,9 +8918,18 @@ Channels raw flux to produce its effect. Extends across a flat surface, at point
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Short) |
-| Target | Object |
----
-**HumbleChain**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+HumbleChain
+
+***
+
 Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 92 W |
 | Shape | Square |
@@ -5450,9 +8941,18 @@ Pins limbs and joints, restricting physical motion and forcing immobility. Sprea
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Immediate |
-| Target | Object |
----
-**FallCurse**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+FallCurse
+
+***
+
 Anchors raw flux to the target, creating a volatile binding. Extends across a flat surface. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 18 W |
 | Shape | Square |
@@ -5464,9 +8964,18 @@ Anchors raw flux to the target, creating a volatile binding. Extends across a fl
 | Pattern | Plane |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**TwinRoot**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+TwinRoot
+
+***
+
 Detects heat-related phenomena and gathers information. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 36 W |
 | Shape | Square |
@@ -5478,9 +8987,18 @@ Detects heat-related phenomena and gathers information. Spreads in a widening ar
 | Pattern | Cone |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**WeavSigil**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+WeavSigil
+
+***
+
 Reshapes the target using force flux. Extends across a flat surface, at point of contact. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 18 W |
 | Shape | Triangle |
@@ -5492,9 +9010,18 @@ Reshapes the target using force flux. Extends across a flat surface, at point of
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Sustained |
-| Target | Where Written |
----
-**FreezEye**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+FreezEye
+
+***
+
 Anchors electric flux to the target, holding it in place. Extends across a flat surface, within 10 feet. Takes effect in a single instant. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 47 W |
 | Shape | Square |
@@ -5506,9 +9033,18 @@ Anchors electric flux to the target, holding it in place. Extends across a flat 
 | Pattern | Plane |
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
-| Target | Object |
----
-**RiseScar**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+RiseScar
+
+***
+
 Channels force flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 38 W |
 | Shape | Triangle |
@@ -5520,9 +9056,18 @@ Channels force flux to produce its effect. Extends across a flat surface, at poi
 | Pattern | Plane |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Surface |
----
-**DriftPulse**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftPulse
+
+***
+
 Channels raw flux to produce its effect. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 40 W |
 | Shape | Triangle |
@@ -5534,9 +9079,18 @@ Channels raw flux to produce its effect. Spreads in a widening arc, at point of 
 | Pattern | Cone |
 | Reach | Touch |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**ChillBrand**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+ChillBrand
+
+***
+
 Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc. Must be actively maintained, but the flux drain is minimal, making extended use practical.
 | Wattage | 62 W |
 | Shape | Square |
@@ -5548,9 +9102,18 @@ Screens electric flux, blocking unwanted elements while allowing valid ones thro
 | Pattern | Cone |
 | Reach | Self |
 | Persistence | Sustained |
-| Target | Object |
----
-**BindPulse**
+| Target | Object |\n\n
+
+***
+
+*\n\n
+
+***
+
+BindPulse
+
+***
+
 Emits radiant light energy that illuminates, heats, or burns depending on intensity. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 29 W |
 | Shape | Square |
@@ -5562,9 +9125,18 @@ Emits radiant light energy that illuminates, heats, or burns depending on intens
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Where Written |
----
-**DeepPath**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+DeepPath
+
+***
+
 Releases unstructured flux energy in its rawest form—unpredictable and potent. within 10 feet. Persists for several minutes without further attention. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 33 W |
 | Shape | Triangle |
@@ -5576,9 +9148,18 @@ Releases unstructured flux energy in its rawest form—unpredictable and potent.
 | Pattern | Point |
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
-| Target | Where Written |
----
-**AnchorFlame**
+| Target | Where Written |\n\n
+
+***
+
+*\n\n
+
+***
+
+AnchorFlame
+
+***
+
 Anchors light flux to the target, holding it in place. Lasts roughly a minute before dissipating. The minimal flux cost allows frequent casting without exhausting reserves.
 | Wattage | 34 W |
 | Shape | Square |
@@ -5590,9 +9171,18 @@ Anchors light flux to the target, holding it in place. Lasts roughly a minute be
 | Pattern | Point |
 | Reach | Self |
 | Persistence | Timed (Short) |
-| Target | Surface |
----
-**DriftingVoid**
+| Target | Surface |\n\n
+
+***
+
+*\n\n
+
+***
+
+DriftingVoid
+
+***
+
 Projects kinetic force that delivers crushing impact. Extends across a flat surface. Must be actively maintained, but the flux drain is minimal, making extended use practical. Suitable for close-quarters combat or breaching physical barriers.
 | Wattage | 21 W |
 | Shape | Triangle |
