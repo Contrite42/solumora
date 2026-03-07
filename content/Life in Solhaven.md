@@ -36,4 +36,12 @@ A child who grows up in the middle terraces and is assessed at T4 or T5 will und
 
 The children who do not fit either framework — the T5 assessed in the harbor district, the T0 born into a middle-terrace family — carry something heavier than ambition or acceptance. They carry the sense that the city's system has made an error about them specifically, and this is correct, and the city will not adjust.
 
-_See also: [[Solhaven]], [[Auralis]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Users]], [[Cassia]], [[Fennick]], [[Selvane]], [[Mave]], [[Lenne Sosk]], [[Oryen Veld]], [[Neven Cors]], [[Tev Ols]], [[Miren Thask]], [[Vessa Oln]], [[Vend Aln]], [[Osten Reld]], [[Ren Valdh]], [[Ressa Dolt]], [[Avel Tors]], [[Essa Rolt]]_
+## Healthcare Access
+
+Solhaven has the kingdom's broadest medical ladder and still fails people for ordinary reasons: time, distance, and price. Harbor residents can usually reach first-contact care quickly through temple infirmaries and low-cost clinics, but continuity breaks after the first visit when workers cannot afford missed shifts. Middle terraces can sustain longer treatment cycles and specialist referrals. Crestward households bypass most delays through retained physicians.
+
+The city's healthcare inequality is less about whether treatment exists and more about who can remain in treatment long enough to recover properly. Harbor clinics see repeated returns from workers cleared early by necessity, while upper districts buy recovery time directly.
+
+Practitioners like [[Jorren Pell]] reduce harm by escalating abnormal recoveries early, especially for cases that may involve Flux pathway strain rather than ordinary injury. That judgment call is one of the few places where low-tier clinical discipline can partially offset structural inequality.
+
+_See also: [[Solhaven]], [[Auralis]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Ascendant Path]], [[Religion and Belief]], [[Flux Users]], [[Cassia]], [[Fennick]], [[Selvane]], [[Mave]], [[Lenne Sosk]], [[Oryen Veld]], [[Neven Cors]], [[Tev Ols]], [[Miren Thask]], [[Vessa Oln]], [[Vend Aln]], [[Osten Reld]], [[Ren Valdh]], [[Ressa Dolt]], [[Avel Tors]], [[Essa Rolt]], [[Clinical Care Systems]], [[Healers and Practitioners]], [[Flux-Related Medical]], [[Flux Medicine]], [[Jorren Pell]]_

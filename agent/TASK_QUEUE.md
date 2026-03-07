@@ -493,10 +493,11 @@ Additive backlog generated from a full-world thin-page and systems audit. These 
       **Output:** 7-9 notes (institutions + student pathways + family decision pressure) + update `content/Control Tier.md` and `content/Ordinary Life.md` with education trajectory summaries.
       **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Expand healthcare and public health systems across regions.
+- [x] **Goal:** Expand healthcare and public health systems across regions.
       **Constraints:** Distinguish routine care, trauma care, expedition medicine, and Flux-side effects treatment. Include resource constraints for rural and desert-edge communities.
       **Output:** 6-8 notes (clinics, medics, supply channels, referral patterns) + updates to `content/Flux Medicine.md`, `content/Life in Halveth.md`, and one urban life page.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — Six healthcare pages created: Clinical Care Systems (patient intake paths, clinic operations, cost bands, referral failures, local public-health habits), Healers and Practitioners (T0-T3 workforce structure, training routes, wages, bottlenecks, attrition), Expedition Medicine (pre-departure screening, field priorities, layered supply kits, evacuation protocols, desert-edge referral realities), Flux-Related Medical (overextension/pathway/anomaly/residue case categories, diagnostic ladder, treatment patterns, failure modes), Sera Meln (Halveth T2 field healer NPC operating expedition triage and referral discipline), Jorren Pell (Solhaven harbor T1 practitioner NPC managing high-throughput labor medicine and early escalation). Updated required existing pages: Flux Medicine.md (Healthcare Access and Referral Reality section), Life in Halveth.md (Healthcare Access section), Life in Solhaven.md (Healthcare Access section). Navigation refreshed: 700 nodes (+7 from 693), 7643 edges (+132 from 7511), 583 pages (+6 from 577). 2026-03-07.
 
 - [ ] **Goal:** Formalize seasonal calendar, climate pressure, and work cycles.
       **Constraints:** Tie weather and seasonality to agriculture, shipping, crossings, and labor demand; preserve established Zakros and coastal route constraints.

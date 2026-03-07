@@ -38,4 +38,12 @@ Flux pathway damage is the category of medical condition most specific to Flux m
 
 Pathway damage has multiple causes: overextension during casting, exposure to certain categories of Flux anomaly, specific types of injury in the vicinity of active sigil work, and congenital variations in pathway structure that produce instability. The symptoms range from reduced casting capacity to neurological effects that a practitioner without Flux diagnostic capability would misidentify entirely. Cases that require above-standard care are most commonly pathway cases — the condition that looks like something a T2 can handle but is not.
 
-_See also: [[Flux Users]], [[Control Tier]], [[Flux]], [[Trade Guilds]], [[Ascendant Path]], [[Ordinary Life]], [[Daven Lorn]], [[Bren Ossve]], [[Fen Orel]], [[Daven Lorn's Case Notes]], [[Sella Veld]]_
+## Healthcare Access and Referral Reality
+
+In practice, most pathway cases begin in ordinary clinics rather than specialist chapters. A patient with tremor, fatigue, or sensory distortion first sees a T1-T2 practitioner who treats likely common causes and watches response across several visits. This is often correct care. It is also where pathway cases are most often delayed.
+
+The key variable is referral timing. When lower-tier practitioners escalate quickly into specialist channels, outcomes are usually manageable. When escalation is delayed because the patient cannot pay, cannot travel, or cannot miss work, progression becomes harder to reverse. For poor households, the system's weakest point is not first contact. It is transfer continuity.
+
+For operational details, see [[Clinical Care Systems]], [[Healers and Practitioners]], and [[Flux-Related Medical]]. For desert-edge escalation patterns where transport delay is common, see [[Expedition Medicine]] and [[Life in Halveth]].
+
+_See also: [[Flux Users]], [[Control Tier]], [[Flux]], [[Trade Guilds]], [[Ascendant Path]], [[Ordinary Life]], [[Daven Lorn]], [[Bren Ossve]], [[Fen Orel]], [[Daven Lorn's Case Notes]], [[Sella Veld]], [[Clinical Care Systems]], [[Healers and Practitioners]], [[Flux-Related Medical]], [[Expedition Medicine]], [[Life in Halveth]], [[Sera Meln]], [[Jorren Pell]]_

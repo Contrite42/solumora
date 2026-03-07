@@ -68,4 +68,12 @@ What they are less good at, often, is being somewhere that doesn't need them in 
 
 The village is not a trap. People leave. People choose to stay. The choice is usually made gradually, and the moment when it became a choice rather than a temporary arrangement is rarely identifiable afterward. What is identifiable is that Halveth marks the people who remain in it — with competence, with a specific relationship to fear, with the knowledge of what the desert's edge looks like in every season — and that the marks are permanent whether or not the person is.
 
-_See also: [[Halveth]], [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Ordinary Life]], [[Life in Rural Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Cor Meln]], [[Ossen Drel]], [[Selt Orvn]], [[Vorn Teld]]_
+## Healthcare Access
+
+Medical care in Halveth is built for triage and stabilization, not complete recovery. During expedition season, temporary clinics handle dehydration collapse, infected cuts, heat injury, and panic episodes from rift-adjacent encounters. In off-season, the same practitioners become long-window caregivers for residents whose conditions would be routine in a city but difficult here because every referral requires transport planning.
+
+Most severe outcomes begin as manageable cases that were not escalated quickly enough. A patient can be stabilized locally by a T1-T2 healer, but pathway or deep-trauma cases still need higher-tier review in [[Ashford]] or [[Solhaven]]. The delay between "stable enough to move" and actual movement is where many recoveries fail.
+
+[[Sera Meln]] has become one of the village's practical safeguards by forcing pre-departure screenings and documenting return injuries in ways that make referral arguments harder for sponsors to avoid. Residents do not describe this as reform. They describe it as one more local habit required to survive at the edge.
+
+_See also: [[Halveth]], [[Wren]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Auralis]], [[Terravelle]], [[Ordinary Life]], [[Life in Rural Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Cor Meln]], [[Ossen Drel]], [[Selt Orvn]], [[Vorn Teld]], [[Clinical Care Systems]], [[Expedition Medicine]], [[Flux-Related Medical]], [[Healers and Practitioners]], [[Flux Medicine]], [[Sera Meln]]_
