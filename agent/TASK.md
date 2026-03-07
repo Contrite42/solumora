@@ -1,45 +1,39 @@
-# Current Task: WORLD ROUNDING — Terravelle Governance Mechanics
-
-# Current Task: WORLD ROUNDING — Healthcare and Public Health Systems
+# Current Task: WORLD ROUNDING — Seasonal Calendar, Climate Pressure, and Work Cycles
 
 **Status:** In Progress
-**Owner:** Copilot Auto  
+**Owner:** Copilot Auto
 **Started:** 2026-03-07
 
 ## Objective
 
-Build healthcare and public health systems across [[Solumora]] showing how ordinary people access medical care and what systems fail under stress. Distinguish routine care (injury, illness), trauma care (emergency response), expedition medicine (Zakros crossing), and Flux-side effects treatment. Include resource constraints for rural and desert-edge communities.
+Formalize how seasonality shapes ordinary life and economic operation across [[Solumora]], tying weather cycles to agriculture, shipping, crossings, and labor demand while preserving existing [[Equatorial Desert|Zakros]] and coastal route constraints.
 
 ## Requirements
 
-- 6-8 operational healthcare pages documenting systems, practitioners, institutions
-- Focus on practical operation showing patient pathways and treatment outcomes
-- Routine care: civilian clinics, herbalists, midwives, recovery timelines
-- Trauma care: emergency response, bleeding management, infection treatment
-- Expedition medicine: portable supplies, field treatment, evacuation protocols
-- Flux-side effects: poisoning diagnosis/treatment, practitioner-specific injuries
-- Rural healthcare gaps: limited access, practitioner shortage, higher mortality
-- Update existing pages: [[Flux Medicine.md]], [[Life in Halveth.md]], one urban life page
+- 5-6 seasonality pages documenting calendars and regional cycle effects
+- Tie climate pressure to agriculture, shipping, crossing windows, and labor demand
+- Preserve established Zakros crossing and coastal-route constraints
+- Append seasonality blocks to `content/Solumora.md`, `content/Equatorial Desert.md`, and `content/Outer Coast Packet Line.md`
 
 ## Target Pages
 
-**Systems/Institutions (4-5 operational pages):**
-1. **Clinical Care Systems** — Civilian clinics, patient pathways, treatment protocols, cost
-2. **Healers and Practitioners** — T0-T2 medical workers, training, income, specialization
-3. **Expedition Medicine** — Zkros crossing portable care, field treatment, evacuation
-4. **Flux-Related Medical** — Flux poisoning, practitioner injuries, specialized treatment
+**Seasonality Core (3 pages):**
+1. Solumora Seasonal Calendar
+2. Coastal and River Shipping Cycles
+3. Agricultural and Storage Work Rhythms
 
-**Implementer NPCs (2-3 pages):**
-- Healer characters showing daily medical work, patient outcomes, capacity constraints
+**Regional Pressure Notes (2-3 pages):**
+- Zakros Crossing Windows and Failure Season
+- Urban Labor Surge and Slack Cycles
 
 ## Deliverables
 
-- [ ] 6-8 healthcare operational pages created
-- [ ] Update Flux Medicine.md, Life in Halveth.md, city life page with "Healthcare access" sections
+- [ ] 5-6 seasonality pages created
+- [ ] `content/Solumora.md` appended with seasonality block
+- [ ] `content/Equatorial Desert.md` appended with seasonality block
+- [ ] `content/Outer Coast Packet Line.md` appended with seasonality block
 - [ ] Cross-linking complete (12-18 outbound links per page)
 - [ ] Navigation artifacts refreshed
-
-
 
 ## Objective
 

@@ -145,6 +145,18 @@ Control Tier measures Flux capacity and handling ceiling. It does not measure co
 
 Tier is a useful shorthand for what a caster can safely attempt. It is a poor shorthand for what a caster can actually do.
 
+## Education Trajectory Effects
+
+In everyday institutions, tier is first experienced as placement pressure rather than raw power. After [[Tier Assessment]], children are routed into different educational expectations that shape work entry years before adulthood.
+
+- T0-T1 are typically directed toward immediate employability tracks: local apprenticeship queues, practical literacy-numeracy reinforcement, and early labor integration.
+- T2-T3 are the main throughput for formal apprenticeship and mid-skill professional tracks.
+- T4+ receive disproportionate institutional attention, relocation pressure, and tighter behavior scrutiny.
+
+These pathways are not purely meritocratic. Family income stability, transport access, and sponsor reliability determine whether placement turns into completion. In practice, tier opens doors, but household resilience determines how long those doors stay open.
+
+For operational education pathways, see [[Childhood Learning Networks]], [[Tier Assessment and Placement Pathways]], [[Guild Apprenticeship Tracks]], [[Ascendant Path Education Tracks]], [[Specialist Training Routes]], [[Family Education Decision Pressure]], and [[T0 and Non-Flux Work Entry Outcomes]].
+
 ## Living at the Extremes
 
 Most social and institutional systems in [[Solumora]] are designed around T1-T4 practical range. People at the distribution edges adapt by building lives around constraint management rather than around the abstract meaning of their number.
@@ -177,7 +189,7 @@ Common adaptation patterns:
 
 The practical lesson at both ends is similar: extreme tier values amplify trade-offs. They do not remove them.
 
-_See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]], [[Varn Kest]], [[Sera Vond]], [[Keld Orun]], [[Hedd Norn]], [[Rell Vorn]], [[Niva Korr]]_
+_See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]], [[Varn Kest]], [[Sera Vond]], [[Keld Orun]], [[Hedd Norn]], [[Rell Vorn]], [[Niva Korr]], [[Childhood Learning Networks]], [[Tier Assessment and Placement Pathways]], [[Guild Apprenticeship Tracks]], [[Ascendant Path Education Tracks]], [[Specialist Training Routes]], [[Family Education Decision Pressure]], [[T0 and Non-Flux Work Entry Outcomes]], [[Ordinary Life]]_
 
 ## Watt Cost Ranges
 
