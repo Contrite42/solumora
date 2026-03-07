@@ -67,11 +67,13 @@ Contemporary pressure: Institutional reserves depleting for military financing, 
 
 **Resource Extraction Sector** — Harvesting of raw materials (minerals, salvaged materials, creature products):
 
-- Mining operations, logging, salt harvesting, hunting/creature harvesting, ruin salvage
+- [[Extraction Industries|Main operations]]: [[Mining Operations|Mining]], [[Logging Operations|Logging]], [[Salt Extraction|Salt harvesting]], [[Creature Harvesting|Hunting and creature harvesting]], [[Ruin Salvage Operations|ruin salvage]]
+- [[Resource Processing|Material refinement]] converting raw extraction output into usable products
 - Production scale: Small-scale individual efforts (40%), medium-scale operations (40%), large institutional extraction (20%)
 - Market structure: Specialty commodity markets (creature products command premium pricing, salvaged materials highly variable), institutional purchasing for military operations
 - Economic contribution: 5-10% of Watt volume but critical material supply for other sectors
 - Contemporary pressure: Military demand overwhelming sustainable supply levels, environmental degradation from extraction acceleration, institutional monopolization of high-value materials (Flux-reactive minerals, creature venom)
+- Critical conflicts: [[Resource Extraction Conflicts|Environmental sustainability incompatible with military production demand; labor scarcity incompatible with output demand; specialist-practitioner conscription removing specialized extraction capacity]]
 
 **Financial Services Sector** — Banking, currency management, lending, investment facilitation:
 
@@ -162,4 +164,4 @@ The economic system faces fundamental uncertainty about post-war stabilization:
 
 The economy's contemporary trajectory suggests one of these scenarios will manifest within 2-4 years. The specific outcome depends on military escalation decisions and institutional policy choices currently being made by political authorities. Merchants, practitioners, and institutional operators are simultaneously attempting to plan for continuity while recognizing that fundamental economic transformation appears probable.
 
-_See also: [[Solumora]], [[Watts as Currency]], [[Banking Institutions]], [[Cross-Kingdom Financial Exchange]], [[Informal Lending Systems]], [[Grimoire Economy]], [[Trade & Travel]], [[Control Tier]], [[Auralis]], [[Terravelle]], [[Resource Extraction]], [[Manufacturing Sector]], [[Agricultural Regions]], [[Morna Vest]], [[Kels Morna]]_
+_See also: [[Solumora]], [[Watts as Currency]], [[Banking Institutions]], [[Cross-Kingdom Financial Exchange]], [[Informal Lending Systems]], [[Grimoire Economy]], [[Trade & Travel]], [[Control Tier]], [[Auralis]], [[Terravelle]], [[Extraction Industries]], [[Mining Operations]], [[Logging Operations]], [[Salt Extraction]], [[Creature Harvesting]], [[Ruin Salvage Operations]], [[Resource Processing]], [[Resource Extraction Conflicts]], [[Morna Vest]], [[Kels Morna]], [[Keln Moss]], [[Dorven Kess]], [[Sorven Tal]]_
