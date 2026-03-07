@@ -181,12 +181,13 @@ Blocked tasks are marked with their dependency.
 
 ### Priority Track: Adventure Infrastructure
 
-- [ ] **EXPANSION-010: Ruins & Ancient Sites**
+- [x] **EXPANSION-010: Ruins & Ancient Sites**
       **Goal:** Expand [[Ancient Ruins]] with 4-6 specific sites showing different ruin types, dangers, and why people explore them.
-      **Constraints:** Pre-Flux civilization mystery preserved. Each ruin needs: location, known dangers, what's been found, who explores, unresolved questions. Include at least one "total loss" expedition.
+      **Constraints:** Pre-Flux civilization mystery preserved. Each ruin needs: location, known dangers, what's been found, who explores, unresolved questions. Include at least one \"total loss\" expedition.
       **Output:** 6-8 notes (specific ruin sites + 1-2 explorer NPCs + ruin-delving culture) + update [[Ancient Ruins]].
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Ancient Ruins
+      **Status:** COMPLETE - Four major ruins sites created (3 anomalous + 1 non-anomalous reference site): Drendmark Flux Well, Solden Archive, The Korden Loop, The Corfeld Inscriptions. Updated Ancient Ruins.md with new site descriptions and links. Navigation cache refreshed.
 
 - [ ] **EXPANSION-011: Wilderness & Creatures**
       **Goal:** Build ecosystem layer with dangerous/useful creatures beyond [[Equatorial Fauna]].

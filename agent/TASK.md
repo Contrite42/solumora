@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-010 - Ruins & Ancient Sites
+# Active Task: EXPANSION-011 - Wilderness & Creatures
 
 **Status:** NOT STARTED
 **Owner:** Copilot
@@ -6,45 +6,44 @@
 
 ## Goal
 
-Expand [[Ancient Ruins]] with 4-6 specific sites showing different ruin types, dangers, and why people explore them (treasure, knowledge, Flux research, survival resources).
+Build ecosystem layer with dangerous/useful creatures beyond [[Equatorial Fauna]] showing Flux effects on wildlife and creature-based economy (hunter culture, creature product trade, symbiotic relationships).
 
 ## Constraints
 
-- Pre-Flux civilization mystery must be preserved (no definitive answers about what happened, who they were)
-- Each ruin needs: specific location in [[Desert Zakros]], known dangers (Flux distortions, environmental hazards, structural instability), what's been found (artifacts, grimoires, anomalies), who explores (researchers, adventurers, scavengers), unresolved questions
-- Include at least one "total loss" expedition (entire team disappeared/killed, documented failure)
-- [[Rift Incursions]] are connected to ancient ruins (flux anomalies near ruins worse)
-- Must connect to existing expedition infrastructure ([[Vren Waystation]], [[Korvel Deep Station]], [[Trest Forward]])
-- Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic, geographic descriptors)
-- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, no melodrama)
-- Contemporary war preparation pressure: expeditions more militarized, civilian access reducing, research diverted to military applications
+- Show Flux's effect on wildlife (mutations, behaviors, flux-beast category)
+- Include both threats and resources (creature products: hides, organs, venom, etc.)
+- Creatures visible across different biomes ([[Maren Valley]], [[Wolfpoint]] northern territories, [[Equatorial Desert]])
+- Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic descriptors)
+- Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion, practical focus)
+- Contemporary war preparation pressure: hunting pressure increasing, creature products becoming strategic resources, traditional hunting territories requisitioned for military use
 
 ## Output Target
 
-6-8 notes total:
-- 4-6 specific ruin sites (different types: buried structures, surface anomalies, deep chambers, etc.)
-- 1-2 explorer/researcher NPCs (showing different motivations: academic, profit, military)
-- 1 ruin-delving culture note (equipment, survival strategies, knowledge sharing/hoarding, expedition economics)
-- Update [[Ancient Ruins]] with links to all new sites
-- Link from [[Desert Zakros]], [[Auralis]] (primary exploration sponsor), expedition infrastructure pages
+8-10 notes total:
+- 4-6 specific creature types (different biomes, threat levels, resource value)
+- 2 hunter/naturalist NPCs (showing professional hunter culture, knowledge specialization)
+- 1-2 creature-product trade/hunting culture notes (equipment, safety, economics, contemporary pressures)
+- Create [[Creatures]] hub synthesizing ecosystem and hunting cultures
+- Link from [[Equatorial Fauna]], [[Maren Valley]], [[Wolfpoint]], settlement pages
 
 ## Execution Plan
 
-1. Query navigation cache for Ancient Ruins context
-2. Read Ancient Ruins page for existing foundation
-3. Read Desert Zakros page for geographic context
-4. Grep search for existing ruin/expedition references
-5. Create 4-6 specific ruin site notes (varied types, dangers, discoveries)
-6. Create 1-2 explorer/researcher NPCs (showing different expedition cultures)
-7. Create ruin-delving culture note (practical operations, economics, contemporary pressures)
-8. Update Ancient Ruins page with new site links
-9. Link from Desert Zakros, Auralis, expedition infrastructure pages
-10. Refresh navigation artifacts
-11. Mark complete in TASK_QUEUE.md
+1. Query navigation cache for Equatorial Fauna context
+2. Read Equatorial Fauna page for existing foundation
+3. Grep search for existing creature/fauna/hunting references
+4. Create 4-6 specific creature type notes (varied biomes, threat levels, products)
+5. Create 2 hunter/naturalist NPC profiles (showing field specialization)
+6. Create hunting culture note (practical operations, safety, communities)
+7. Create creature-product trade note (markets, economics, contemporary pressures)
+8. Create [[Creatures]] hub synthesizing ecosystem and human interaction
+9. Update Equatorial Fauna with new creature links
+10. Link from settlement pages, [[Maren Valley]], [[Wolfpoint]], adventure infrastructure pages
+11. Refresh navigation artifacts
+12. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Preparing to query navigation cache for Ancient Ruins context...
+Preparing to query navigation cache for Equatorial Fauna context...
 
 ---
 
