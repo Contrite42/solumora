@@ -1,5 +1,5 @@
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
-import { FullSlug, getFullSlug, resolveRelative } from "../../util/path"
+import { FullSlug, resolveRelative } from "../../util/path"
 
 type ContentIndex = Record<string, ContentDetails>
 type MapLinkElement = SVGAElement & {
@@ -11,8 +11,6 @@ type MapLinkElement = SVGAElement & {
 }
 
 const REFRESH_INTERVAL_MS = 45000
-const refreshHandlers = new WeakMap<HTMLElement, () => void>()
-const refreshIntervals = new WeakMap<HTMLElement, number>()
 
 function splitList(raw: string | undefined): string[] {
   if (!raw) {
@@ -27,15 +25,6 @@ function splitList(raw: string | undefined): string[] {
 
 function normalize(input: string): string {
   return input.toLowerCase().replace(/[^a-z0-9]/g, "")
-}
-
-function slugifyCandidate(input: string): string {
-  return input
-    .trim()
-    .toLowerCase()
-    .replace(/['"]/g, "")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
 }
 
 async function fetchLatestIndex(currentSlug: FullSlug): Promise<ContentIndex> {
@@ -60,28 +49,9 @@ function findEntry(
   titleCandidates: string[],
 ): [string, ContentDetails] | undefined {
   for (const key of keyCandidates) {
-    const variants = new Set<string>([
-      key,
-      key.toLowerCase(),
-      slugifyCandidate(key),
-      key.replace(/\s+/g, "-"),
-      key.replace(/\s+/g, "-").toLowerCase(),
-    ])
-
-    for (const variant of variants) {
-      const entry = index[variant]
-      if (entry) {
-        return [variant, entry]
-      }
-    }
-  }
-
-  if (keyCandidates.length > 0) {
-    const normalizedKeySet = new Set(keyCandidates.map((key) => normalize(key)))
-    for (const [slug, details] of Object.entries(index)) {
-      if (normalizedKeySet.has(normalize(slug))) {
-        return [slug, details]
-      }
+    const entry = index[key]
+    if (entry) {
+      return [key, entry]
     }
   }
 
@@ -152,22 +122,9 @@ function setupMaps(currentSlug: FullSlug) {
   ) as NodeListOf<HTMLElement>
   for (const mapRoot of mapRoots) {
     const refreshButton = mapRoot.querySelector(".solumora-map-refresh") as HTMLButtonElement | null
-
-    const existingHandler = refreshHandlers.get(mapRoot)
-    if (refreshButton && existingHandler) {
-      refreshButton.removeEventListener("click", existingHandler)
-    }
-
-    const existingInterval = refreshIntervals.get(mapRoot)
-    if (existingInterval !== undefined) {
-      window.clearInterval(existingInterval)
-    }
-
     const refreshFn = () => {
       refreshMap(mapRoot, currentSlug)
     }
-
-    refreshHandlers.set(mapRoot, refreshFn)
 
     refreshFn()
 
@@ -177,16 +134,10 @@ function setupMaps(currentSlug: FullSlug) {
     }
 
     const intervalId = window.setInterval(refreshFn, REFRESH_INTERVAL_MS)
-    refreshIntervals.set(mapRoot, intervalId)
     window.addCleanup(() => window.clearInterval(intervalId))
   }
 }
 
 document.addEventListener("nav", (e: CustomEventMap["nav"]) => {
   setupMaps(e.detail.url)
-})
-
-document.addEventListener("DOMContentLoaded", () => {
-  const currentSlug = getFullSlug(window)
-  setupMaps(currentSlug)
 })
