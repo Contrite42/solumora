@@ -70,6 +70,20 @@ The system works because each settlement focuses on what it does well, shares in
 
 The network's effectiveness creates an interesting asymmetry: individual travelers preparing for crossings often believe they are working with independent settlement services, while the settlements themselves operate as nodes in a broader coordination infrastructure. This invisibility is partly intentional. Formalized institutional recognition would subject the network to kingdom oversight, jurisdictional disputes, and administrative overhead that would reduce rather than enhance operational effectiveness.
 
+## Desert Interior Settlements
+
+Beyond the border network, three settlements demonstrate the operational limits of sustained human presence in the deep desert. Each represents a distinct strategic purpose and a different relationship to the environment's constraints.
+
+[[Vren Waystation]] operates at six days south of [[Halveth]], positioned at a ruins site where structural remnants provide partial wind shelter. It functions as a mid-crossing resupply point for standard expedition routes, staffed by 4–6 rotating personnel on six-month contracts. [[Mern Vask]] leads operations â€" a [[Control Tier|T5]] practitioner with three completed rotations and the kind of judgment that comes from managing supply decisions where running short means deaths you cannot prevent.
+
+[[Korvel Deep Station]] sits sixteen days south at a ruins concentration zone. It is not a crossing waypoint. It is a research outpost studying pre-collapse architecture and dimensional boundary stability patterns at depth. [[Osven Keld]] directs a permanent rotation of 3–5 researchers on four-month contracts. He is a [[Control Tier|T4]] pre-collapse archaeology specialist who has completed six rotations and understands the productivity curve of extended isolation better than most institutional oversight would prefer.
+
+[[Trest Forward]] is the abandoned facility twenty-three days south that operated for fourteen months before evacuation ten years ago. It was established to test whether sustained operations were viable at extreme range. They were not. The facility remains in place as a visible marker of where operational sustainability breaks down under current Flux and supply constraints. Efforts to re-establish or salvage it have been discussed but not funded.
+
+These three points â€" operational waystation, functional research site, and abandoned failure â€" define the current practical limit of desert interior infrastructure. Vren Waystation survives because its position is reachable and its function is necessary. Korvel Deep survives because its research value justifies its operational cost. Trest Forward failed because justification and sustainability are not the same thing.
+
+_See also: [[Vren Waystation]], [[Korvel Deep Station]], [[Trest Forward]], [[Mern Vask]], [[Osven Keld]], [[Halveth]], [[Ancient Ruins]], [[Auralis]]_
+
 ## Rift Encounters
 
 When something comes through a rift near a crossing party, the experience is not dramatic in the way that official literature suggests. It is disorienting in ways that are harder to prepare for. A rift forming has a quality to the air â€” not visible, not audible, but present in a way that the desert's fauna register before humans do. The insects pull back. The arachnids go still. Experienced crossers learn to read this, not because they can prevent what comes next, but because thirty seconds of warning is better than no warning at all.

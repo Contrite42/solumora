@@ -121,12 +121,13 @@ Blocked tasks are marked with their dependency.
       **Seed concept:** Wolfpoint
       **Status:** COMPLETE - Wolfpoint Harbor, Workshop Quarter, Northern Signal Network, 3 NPCs (Bren Hask, Vess Nal, Olan Vren), Wolfpoint updated
 
-- [ ] **EXPANSION-003: Desert Zakros Settlement Layer**
+- [x] **EXPANSION-003: Desert Zakros Settlement Layer**
       **Goal:** Create 2-3 permanent/semi-permanent settlements in [[Desert Zakros]] showing survival strategies.
       **Constraints:** Heat/flux challenges require grimoire support. Show who lives there (research, crossing support, resource extraction). Include failure modes (abandoned sites, deaths, resource collapse).
       **Output:** 5-7 notes (settlements + survival systems + 2 NPCs) + update [[Desert Zakros]].
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Desert Zakros
+      **Status:** COMPLETE - Vren Waystation, Korvel Deep Station, Trest Forward, 2 NPCs (Mern Vask, Osven Keld), Equatorial Desert updated
 
 ### Priority Track: Social Systems
 
