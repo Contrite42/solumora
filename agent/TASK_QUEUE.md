@@ -139,7 +139,7 @@ Blocked tasks are marked with their dependency.
       **Seed concept:** Flux Users
       **Status:** COMPLETE - Aldrane Academy, Terravelle Guild System, Scholar Training, Grimoire Apprenticeship Contracts, Flux Education Costs, Family Flux Transmission, 2 NPCs (Vessa Korst, Dren Velt), Flux Users updated
 
-- [ ] **EXPANSION-005: Law & Justice Systems**
+- [x] **EXPANSION-005: Law & Justice Systems**
       **Goal:** Build operational legal systems showing how crimes involving Flux are prosecuted, judged, and punished in both kingdoms.
       **Constraints:** Flux crimes are different (detection needs T3+, evidence manipulation possible, jurisdiction questions at border). Show how non-mages face mage criminals.
       **Output:** 6-8 notes (courts, enforcement, 2-3 cases, punishment methods, cross-border jurisdiction) + create [[Law and Order]] hub.
