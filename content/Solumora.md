@@ -76,6 +76,42 @@ For the full historical hub, see [[History]].
 
 _See also: [[History]], [[History of Solumora]], [[The Ancient Civilization]], [[The Desert Barrier]], [[The Grimoire Tradition]], [[The Cultural Divergence]], [[The Isolation Period]], [[The Persecution Era]], [[The First Contact]], [[The Three Near-Wars]], [[The Fraying Peace]]_
 
+## Calendar and Time
+
+**[[The Solumoran Calendar]]** provides the unified timekeeping system used across both kingdoms for coordinating harvests, planning expeditions, scheduling commerce, and marking historical events. The calendar is not arbitrary cultural convention — accurate shared timekeeping prevents trade failures, missed meetings, and logistical disasters when coordination spans hundreds of miles and weeks of travel time.
+
+The system emerged from pre-Contact astronomical observations that both kingdoms independently developed and later discovered were functionally identical, which enabled immediate integration of time-based systems once Contact began.
+
+### Basic Structure
+
+**365 days** — One complete orbital cycle, divided into **12 months of 30 days each** (aligned with lunar cycle) plus **5 transition days** called Turndays at year-end.
+
+**Months:** Colden (mid-winter), Thawmark (late winter), Firstgreen (early spring), Plantmoon (mid-spring), Brightward (late spring), Highdry (early summer), Harvestfirst (mid-summer), Peaklite (late summer), Harvestfall (early autumn), Coolward (mid-autumn), Darkmoon (late autumn), Frostfast (early winter).
+
+**Weeks:** 6-day weeks with traditional work rhythms — Firstday through Longday working period, Marketday for trade coordination, Restday for rest and religious observance.
+
+**Current year:** 623 FE (Foundation Era) — years counted from arbitrary origin point established during Contact negotiations as compromise between kingdoms' previous incompatible dating systems.
+
+### Seasonal Patterns
+
+Solumora's equatorial desert creates distinct climate zones:
+
+**Equatorial region ([[Desert Zakros]]):** Consistent high heat year-round with minimal temperature variation. Dry and wet periods rather than traditional seasons. Crossing windows determined more by [[Rift Incursions|rift patterns]] than seasonal weather.
+
+**Temperate zones ([[Terravelle]], [[Auralis]]):** Moderate seasonal variation. [[Terravelle]] experiences colder winters (river ice, snow) while [[Auralis]] remains milder. Spring planting in [[Maren Valley]] begins Firstgreen through Plantmoon. Summer harvest Harvestfall through Coolward. Maritime activity peaks Highdry through Peaklite (lower storm frequency).
+
+**Northern extremes ([[Wolfpoint]]):** Harsh winters with extreme cold and heavy snow cause settlement isolation. Brief intense summers compress annual hunting, supply, and expedition activity into narrow window.
+
+### Timekeeping Methods
+
+**[[Timekeeping Technology]]** varies dramatically by class and wealth. Working-class populations rely on sundials (when available), shadow estimation, and natural indicators like meal times and work rhythms. Middle-class households own sundials and benefit from institutional water clocks maintained by [[Trade Guilds]] and [[Ascendant Path]] temples. Upper-class households possess expensive mechanical clocks (800-2000 [[Watts]]) or extremely rare personal watches (2000-5000 Watts).
+
+[[Flux]]-assisted timekeeping methods exist (oscillation counters, time-bind [[Sigils]]) but remain expensive and increasingly unavailable as practitioners are conscripted for military applications.
+
+Precise shared timekeeping infrastructure is currently deteriorating — clockmakers conscripted, institutional funding diverted to war preparation, cross-border calendar coordination declining. This degrades commerce coordination, maritime scheduling, and contract reliability.
+
+_See also: [[The Solumoran Calendar]], [[Timekeeping Technology]], [[Festivals and Public Celebrations]], [[Outer Coast Packet Line]], [[Maren Valley]], [[Desert Zakros]], [[Flux]], [[Trade Guilds]], [[Ascendant Path]]_
+
 ## People in Motion
 
 Large structures in Solumora are held together by recurring people who move between systems rather than staying inside one institution. [[Orre Cavlt]] tracks policy pressure through cargo paperwork in [[Ashford]]. [[Selt Orvn]] and [[Vorn Teld]] translate desert risk into practical decisions at [[Halveth]]. [[Dess Tannor]] records disruption patterns in Solhaven's harbor economy while [[Keln Varost]] carries north-south diplomatic intent through the Wolfpoint channel.
