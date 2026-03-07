@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-003 - Desert Zakros Settlement Layer
+# Active Task: EXPANSION-004 - Education & Apprenticeship Systems
 
 **Status:** IN PROGRESS
 **Owner:** Copilot
@@ -6,41 +6,45 @@
 
 ## Goal
 
-Create 2-3 permanent/semi-permanent settlements in Desert Zakros showing survival strategies under extreme heat/flux conditions.
+Show how Flux knowledge and grimoire use spread through society, with formal schools, apprenticeships, family traditions, and tier stratification.
 
 ## Constraints
 
-- Equatorial heat and flux challenges require constant grimoire support
-- Show who lives there: research stations, crossing support, resource extraction
-- Include failure modes: abandoned sites, deaths, resource collapse examples
+- Must reflect tier stratification (T0-T1 common people learn differently than T3+ mages)
+- Contrast Auralis institutional/formal approach vs Terravelle traditional/apprenticeship approach
+- Exponential Flux cost means most practical knowledge is low-tier (T0-T2 grimoires widespread)
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
-- Existing crossing systems: Standard Guided, Express Route, Relay-Stage established
-- Existing orgs: Halveth Cooperative, Relay Compact, Terravelle Desert Trade Office
+- Existing canon: Control Tier system (T0-T5), both kingdoms have different cultural approaches
+- Show educational access barriers: cost, talent, geography, social class
 
 ## Output Target
 
-5-7 notes total:
-- 2-3 settlement notes (different survival strategies/purposes)
-- 1-2 survival system notes (heat management, supply logistics if needed)
-- 2 NPC notes (researchers, crossing support workers, resource extractors)
-- Update [[Desert Zakros]] with settlement links
+8-10 notes total:
+- 2-3 institutional notes (Auralis schools, Terravelle guild systems)
+- 1-2 teaching method notes (formal instruction vs apprenticeship)
+- 1-2 notes on apprenticeship contracts, learning costs, certification
+- 2-3 NPC notes (famous teachers, masters, education administrators)
+- 1-2 notes on family transmission, informal learning
+- Update [[Flux Users]] page with education system links
 
 ## Execution Plan
 
-1. Read Desert Zakros page and related crossing pages
-2. Design 2-3 settlements with distinct purposes
-3. Design survival systems that enable habitation
-4. Create 2 NPCs showing desert life
-5. Include at least 1 failure mode example
-6. Write all content notes
-7. Update Desert Zakros page
-8. Refresh navigation artifacts
-9. Mark complete in TASK_QUEUE.md
+1. Query navigation cache for Flux Users related concepts
+2. Read Flux Users page and Control Tier page for canon grounding
+3. Design Auralis institutional education system (formal, engineered, meritocratic)
+4. Design Terravelle traditional education system (guilds, apprenticeships, family lines)
+5. Create teaching method notes showing practical differences
+6. Create 2-3 NPC notes (teachers showing different approaches)
+7. Create costs/contracts/certification notes
+8. Write all content notes
+9. Update Flux Users page with education section
+10. Refresh navigation artifacts
+11. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Reading Desert Zakros canon...
+Querying navigation cache for Flux Users...
 
 ---
 
