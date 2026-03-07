@@ -470,10 +470,11 @@ Additive backlog generated from a full-world thin-page and systems audit. These 
       **Output:** Clean `content/Spells/` directory state + policy note appended in `agent/reports/inconsistencies.md` and `agent/reports/links_applied.md`.
       **Owner:** `Codex`
 
-- [ ] **Goal:** Expand bridge concepts into operational reference notes.
+- [x] **Goal:** Expand bridge concepts into operational reference notes.
       **Constraints:** Upgrade thin bridge pages (`Kingdoms`, `Guilds`, `Infrastructure`, `Border Trade`, `Cross-Border Trade`, `Cross-Border Commerce`, `Political Dynamics`, `Political Intelligence`, `Council Dynamics`) from glossary-style stubs to practical system notes. Keep tone matter-of-fact and non-mythic.
       **Output:** 9 upgraded concept pages with concrete mechanisms, recurring actors, and failure modes; each with 5+ outbound links and cross-links between pages.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — All 9 pages expanded (Kingdoms ~230 lines, Guilds ~260 lines, Infrastructure ~280 lines, Border Trade ~320 lines, Cross-Border Trade ~340 lines, Cross-Border Commerce ~320 lines, Political Dynamics ~350 lines, Political Intelligence ~380 lines, Council Dynamics ~370 lines). Each includes concrete operational mechanisms, recurring actors (Sorn Veld, Cavel Dorst, Vessa Rolt, Torn Hess, Helva Drost, Cassia, Drest, Eddan Voss as examples), failure modes (cascade failures, capacity collapse, relationship breakdown, documentation gaps), and wartime pressure impacts matching historical near-war patterns. Cross-linking complete with 15-20 outbound links per page. Navigation refreshed: 671 nodes (+2), 7247 edges (+318), 563 pages. 2026-03-07.
 
 - [ ] **Goal:** Build Terravelle governance mechanics to parity with Auralis council detail.
       **Constraints:** Auralis has operational governance pages; Terravelle needs matching bureaucratic depth (order routing, enforcement, compliance review, field implementation). No principal-character retcons.
