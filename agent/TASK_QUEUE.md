@@ -113,12 +113,13 @@ Blocked tasks are marked with their dependency.
       **Seed concept:** Terravelle
       **Status:** COMPLETE - Valdenmoor with 3 districts, 5 NPCs, Terravelle updated
 
-- [ ] **EXPANSION-002: Wolfpoint as Living Hub**
+- [x] **EXPANSION-002: Wolfpoint as Living Hub**
       **Goal:** Expand [[Wolfpoint]] from reference to operational crossroads.
       **Constraints:** Northern trade nexus, frontier energy, mixed-tier grimoire access. Show what flows through (goods, people, information) and who profits from position.
       **Output:** 6-8 notes (port districts, trade houses, 2-3 key NPCs, 1-2 courier operations) + update [[Wolfpoint]].
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Wolfpoint
+      **Status:** COMPLETE - Wolfpoint Harbor, Workshop Quarter, Northern Signal Network, 3 NPCs (Bren Hask, Vess Nal, Olan Vren), Wolfpoint updated
 
 - [ ] **EXPANSION-003: Desert Zakros Settlement Layer**
       **Goal:** Create 2-3 permanent/semi-permanent settlements in [[Desert Zakros]] showing survival strategies.

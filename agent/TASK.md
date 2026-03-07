@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-002 - Wolfpoint as Living Hub
+# Active Task: EXPANSION-003 - Desert Zakros Settlement Layer
 
 **Status:** IN PROGRESS
 **Owner:** Copilot
@@ -6,41 +6,41 @@
 
 ## Goal
 
-Expand Wolfpoint from reference to operational crossroads showing northern trade nexus with frontier energy and mixed-tier grimoire access.
+Create 2-3 permanent/semi-permanent settlements in Desert Zakros showing survival strategies under extreme heat/flux conditions.
 
 ## Constraints
 
-- Far north location, constant 45°F cold, wind-resistant architecture
-- Voss family leadership and Hypertext development center (do not modify core canon)
-- Existing economic operations: Cold-Forge Works (Trel Vann), Mountain Game Collective (Dren Vass, Morra Keld), Upland Herding Network (Lenna Tors)
-- Small permanent population (few hundred) with rotating practitioners
+- Equatorial heat and flux challenges require constant grimoire support
+- Show who lives there: research stations, crossing support, resource extraction
+- Include failure modes: abandoned sites, deaths, resource collapse examples
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
+- Existing crossing systems: Standard Guided, Express Route, Relay-Stage established
+- Existing orgs: Halveth Cooperative, Relay Compact, Terravelle Desert Trade Office
 
 ## Output Target
 
-6-8 notes total:
-- 2-3 port/trade district notes (showing what flows through)
-- 2-3 trade house/merchant operation notes (who profits from position)
-- 2-3 NPC notes (merchants, operators, frontier characters)
-- 1-2 courier operation notes (information movement)
-- Update [[Wolfpoint]] with operational detail
+5-7 notes total:
+- 2-3 settlement notes (different survival strategies/purposes)
+- 1-2 survival system notes (heat management, supply logistics if needed)
+- 2 NPC notes (researchers, crossing support workers, resource extractors)
+- Update [[Desert Zakros]] with settlement links
 
 ## Execution Plan
 
-1. Read existing Wolfpoint page fully
-2. Identify gaps in operational detail (port structure, trade houses, couriers)
-3. Design 2-3 districts/areas showing trade flow
-4. Design 2-3 merchant operations and 2-3 NPCs
-5. Design 1-2 courier/information operations
+1. Read Desert Zakros page and related crossing pages
+2. Design 2-3 settlements with distinct purposes
+3. Design survival systems that enable habitation
+4. Create 2 NPCs showing desert life
+5. Include at least 1 failure mode example
 6. Write all content notes
-7. Update Wolfpoint page with links
+7. Update Desert Zakros page
 8. Refresh navigation artifacts
 9. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Reading Wolfpoint canon...
+Reading Desert Zakros canon...
 
 ---
 
