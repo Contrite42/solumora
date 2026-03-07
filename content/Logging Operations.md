@@ -8,6 +8,8 @@ Logging operations harvest timber from forest regions accessible to established 
 
 **Forest management** at established operations follows multi-year rotation cycles: designated timber zones are harvested over 2-3 year periods, then allowed 15-20 year recovery before re-harvesting. This rotation system maintains timber supply consistency while theoretically permitting forest regeneration.
 
+Sustainable example: [[Maren Timber Collective]] ([[Terravelle]] guild-coordinated cooperative) operates 25-year rotation cycles under [[Marn Drest|T2 lead coordinator]], deliberately limiting output to preserve long-term forest health despite institutional pressure for accelerated production. Represents alternative cooperative management model resisting institutional consolidation.
+
 **Tree selection** for harvesting follows timber-type requirements: hardwoods (oak, ash, birch) for construction and tool-handle materials; specialized woods (cherry, walnut) for fine craftswork; softwoods (pine, fir) for bulk construction and fuel. Tree size, quality, and species guide harvesting decisions.
 
 **Felling** is performed by experienced timber workers using hand tools (specialized axes, saws with team operation requirements). Felling a single large tree requires 1-2 days of skilled work and careful directional control to prevent costly damage.
@@ -60,4 +62,4 @@ Typical logging operation employs 30-50 core year-round staff plus 50-100 season
 
 Logging is transitioning from sustainable multi-generational enterprise to short-term extraction operation optimized for current military material demands without regard for long-term forest health.
 
-_See also: [[Extraction Industries]], [[Resource Processing]], [[Control Tier]], [[Solumora]], [[Economy]], [[Maren Valley]]_
+_See also: [[Maren Timber Collective]], [[Marn Drest]], [[Material Refinement]], [[Extraction Industries]], [[Resource Processing]], [[Control Tier]], [[Solumora]], [[Economy]], [[Maren Valley]], [[Resource Extraction Conflicts]]_

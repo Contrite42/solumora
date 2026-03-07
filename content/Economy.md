@@ -65,15 +65,54 @@ Contemporary pressure: Institutional reserves depleting for military financing, 
 - Economic contribution: 10-15% of economic activity by Watt volume, higher cultural contribution
 - Contemporary pressure: Practitioner conscription for military operations, institutional service prioritization toward military support, informal service growth where institutional service becomes unavailable
 
-**Resource Extraction Sector** — Harvesting of raw materials (minerals, salvaged materials, creature products):
+**Resource Extraction Sector** — Harvesting of raw materials (minerals, timber, salvaged materials, creature products):
 
-- [[Extraction Industries|Main operations]]: [[Mining Operations|Mining]], [[Logging Operations|Logging]], [[Salt Extraction|Salt harvesting]], [[Creature Harvesting|Hunting and creature harvesting]], [[Ruin Salvage Operations|ruin salvage]]
-- [[Resource Processing|Material refinement]] converting raw extraction output into usable products
-- Production scale: Small-scale individual efforts (40%), medium-scale operations (40%), large institutional extraction (20%)
-- Market structure: Specialty commodity markets (creature products command premium pricing, salvaged materials highly variable), institutional purchasing for military operations
-- Economic contribution: 5-10% of Watt volume but critical material supply for other sectors
-- Contemporary pressure: Military demand overwhelming sustainable supply levels, environmental degradation from extraction acceleration, institutional monopolization of high-value materials (Flux-reactive minerals, creature venom)
-- Critical conflicts: [[Resource Extraction Conflicts|Environmental sustainability incompatible with military production demand; labor scarcity incompatible with output demand; specialist-practitioner conscription removing specialized extraction capacity]]
+Primary operations include [[Mining Operations|Mining]], [[Logging Operations|Logging]], [[Salt Extraction|Salt harvesting]], [[Creature Harvesting|Hunting and creature harvesting]], and [[Ruin Salvage Operations|ruin salvage]]. Raw materials flow through [[Material Refinement|processing infrastructure]] (smelting, milling, preparation) before entering general markets or institutional supply chains.
+
+**Major Extraction Sites:**
+- [[Keln Ridge Mines]] ([[Auralis]]): Largest institutional mining complex, 200-250 workers, [[Voss Keld|T3 director]] managing under [[The Council of Auralis|Council]] oversight. Produces 750 tons iron ore + 150kg Flux-reactive minerals annually (up from sustainable 500 tons/80kg pre-war). Operations experience 36 casualties per 1000 workers (above 15 per 1000 acceptable threshold) due to practitioner understaffing and timber-support deficits. Below-market pricing (4 [[Watts]]/ton vs 8-10 market rate) suppresses profitability to fund military procurement.
+
+- [[Maren Timber Collective]] ([[Terravelle]]): Guild-coordinated cooperative managing sustainable logging, 80-120 workers, [[Marn Drest|T2 lead coordinator]]. Operates 25-year rotation cycle producing 2000-2500 m³ annual lumber output. Profit-sharing compensation structure (22-28 Watts/week vs 18-22 institutional wages elsewhere) supports long-term worker retention. Currently declining military contracts to preserve forest health despite premium pricing offered. Facing institutional seizure pressure if war escalation demands override sustainability principles.
+
+- Smaller operations: Distributed small-scale mining claims (individual prospectors, family operations), independent logging crews, salt-harvest operations along [[The Coastal Settlements|coastline]], and creature-hunting independent contractors.
+
+**Processing Infrastructure:**
+[[Material Refinement]] facilities convert raw extraction output into usable products:
+- **Iron smelting**: 100kg ore → 35-40kg refined ingots (value multiplication: 3 Watts/kg ore → 18 Watts/kg ingots → 60-150 Watts/kg finished tools)
+- **Sawmill operations**: 1m³ raw log → 0.6-0.7m³ finished lumber through milling, drying, grading processes
+- **Flux-reactive material processing**: Requires [[Control Tier|T3-T4]] practitioner supervision managing discharge volatility; practitioner shortage constraining processing capacity despite increased raw material supply
+- **Environmental consequences**: Slag accumulation contaminating water sources, air pollution from smelting operations, worker mortality 6-8 per 1000 (vs historical 3-4 per 1000) from accelerated operations
+
+**Production Scale Distribution:**
+- Small-scale individual/family efforts: 40% (independent prospectors, small logging crews, individual hunters/salvagers)
+- Medium-scale coordinated operations: 40% (cooperative logging like Maren Collective, medium mining claims, organized salvage expeditions)
+- Large institutional extraction: 20% (Keln Ridge Mines, Council-directed operations, military procurement sites)
+
+**Market Structure:**
+Specialty commodity markets dominate high-value extraction:
+- Creature products command premium pricing (Bloodshrike venom 200-400 Watts/dose, Dustskimmer membranes 80-120 Watts/unit) but supply approaching unsustainable levels (20-30% above sustainable yield)
+- Salvaged materials highly variable pricing depending on rarity, Flux-reactivity, and condition (common salvage 5-15 Watts/kg, rare Flux-reactive artifacts 500-2000+ Watts)
+- Bulk materials (iron ore, lumber, salt) operate through institutional purchasing or merchant-house wholesale distribution; smaller operators often forced to sell below market rate due to capital constraints preventing stockpiling
+- Military institutional purchasing increasingly monopolizing Flux-reactive minerals and creature products, suppressing civilian market availability
+
+**Key Personnel:**
+- [[Voss Keld]]: [[Control Tier|T3]] director, [[Keln Ridge Mines]] — Military logistics background managing institutional mining under direct Council pressure; implements unsustainable acceleration while maintaining comprehensive documentary record of safety failures and resource deficiencies
+- [[Marn Drest]]: [[Control Tier|T2]] coordinator, [[Maren Timber Collective]] — Multi-generational forestry family leading cooperative operations; resisting institutional acceleration pressure through sustainability principles and consensus-based governance
+- [[Lorn Kess]]: [[Control Tier|T2]] shaft foreman, Keln Ridge Shaft Beta — Managing day-to-day Flux-reactive mineral extraction under understaffing and resource constraints; witnesses preventable casualties while lacking authority to improve conditions
+
+**Economic Contribution:**
+5-10% of total Watt volume but critical material supply for all other sectors. Agricultural sector requires metal tools; craftwork requires raw materials and Flux-reactive substances; military operations depend on mineral extraction for weapons/equipment; construction requires timber and stone. Extraction-sector disruption cascades across entire economic system.
+
+**Contemporary Wartime Pressure:**
+- Military demand overwhelming sustainable supply levels across multiple resource categories
+- Environmental degradation from accelerated extraction (forest depletion, mine tailings contamination, over-hunting creature populations)
+- Institutional monopolization of high-value materials (Flux-reactive minerals, creature products) suppressing civilian market access
+- Labor conscription removing specialized extraction workers while simultaneously demanding increased output
+- Practitioner understaffing creating safety crises (Keln Ridge casualty rates, Flux-material processing capacity constraints)
+- Price suppression through institutional purchasing power exploiting extractor dependence on buyer markets
+- Institutional seizure threats against cooperative/sustainable operations refusing acceleration compliance
+
+**Critical Conflicts:** [[Resource Extraction Conflicts|Environmental sustainability fundamentally incompatible with military production acceleration; labor scarcity incompatible with output demand escalation; specialist-practitioner conscription removing precisely the capacity military operations require from extraction; short-term extraction maximization producing long-term resource-base depletion; institutional control competing with guild/cooperative management models; profit-driven acceleration versus sustainability-focused stewardship]]
 
 **Financial Services Sector** — Banking, currency management, lending, investment facilitation:
 

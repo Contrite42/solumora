@@ -22,6 +22,8 @@ Mining operations extract metal ores, Flux-reactive minerals, and specialty ston
 
 **Major institutional mining** (Auralis Council or merchant-house backed) operate at significant scale (30-80 workers, infrastructure investment of 5,000+ Watts) with professional management, safety equipment (where capacity permits), and systematic ore processing. These sites achieve 8-15 tons annual output and command preferential access to military purchasing.
 
+Primary example: [[Keln Ridge Mines]] ([[Auralis]]'s largest institutional mining complex, 200-250 workers) managed by [[Voss Keld|T3 director]] under direct [[The Council of Auralis|Council]] oversight. Operations target 750 tons iron ore + 150kg Flux-reactive minerals annually, operating above sustainable capacity with documented safety degradation. Shaft operations managed by mid-tier supervisors like [[Lorn Kess|T2 foreman]] coordinating day-to-day extraction under resource-constrained conditions.
+
 **Medium commercial mining** (independent merchants or guild-affiliated operations) operate at 10-30 worker scale with moderate capital investment and inconsistent safety standards. Output typically 2-5 tons annually. Increasingly pressured by institutional consolidation.
 
 **Small independent mining** (family operations or prospector teams) employ 1-6 workers on marginal deposits, achieve <1 ton annual output, face immediate underselling pressure from larger operations. Most independent mining is economically marginal and practiced out of necessity rather than profitability.
@@ -52,4 +54,4 @@ Work is typically 6 days weekly, 8-10 hours daily. Injury rates are high: broken
 
 Mining is transitioning from established labor sector to forced-production system optimized for short-term military material supply rather than sustainable resource extraction.
 
-_See also: [[Extraction Industries]], [[Resource Processing]], [[Control Tier]], [[Flux Users]], [[Solumora]], [[Economy]], [[Auralis]], [[Terravelle]]_
+_See also: [[Keln Ridge Mines]], [[Material Refinement]], [[Voss Keld]], [[Lorn Kess]], [[Extraction Industries]], [[Resource Processing]], [[Control Tier]], [[Flux Users]], [[Solumora]], [[Economy]], [[Auralis]], [[Terravelle]], [[Resource Extraction Conflicts]]_

@@ -41,7 +41,7 @@ Resource extraction sector conflicts emerge from structural misalignment between
 - Specialist-tier practitioners face conscription risk and professional redundancy
 - Operations facing choice between closing, consolidating, or accepting dramatic efficiency reduction
 
-**Recent example:** Mining operations near [[Ashford]] report 15-25% workforce reduction from conscription in past 12 months. Replacement workers are younger, less experienced, showing injury rates 30-40% higher than experienced-worker baseline.
+**Recent example:** [[Keln Ridge Mines]] ([[Auralis]]) reports casualty rates of 36 per 1000 workers (above 15 per 1000 acceptable threshold) due to practitioner understaffing and timber-support deficits caused by military resource prioritization. [[Lorn Kess|T2 shaft foreman]] documents persistent safety incidents resulting from operating at 750 tons annual iron ore output versus sustainable 500 tons, with inadequate personnel and equipment to maintain safety protocols. Mining operations near [[Ashford]] report 15-25% workforce reduction from conscription in past 12 months. Replacement workers are younger, less experienced, showing injury rates 30-40% higher than experienced-worker baseline.
 
 ### Specialist Scarcity vs. Specialized Material Demand
 
@@ -83,7 +83,7 @@ Current institutional response is attempting to satisfy military demand at the c
 
 **Worker-migration pressure:** Field workers are voluntarily departing extraction operations seeking lower-risk employment in agricultural, craftwork, or service sectors. Wage increases and safety-standard improvements would address this but are not being implemented (institutions prioritizing output over labor-market competition).
 
-**Sustainability compromise:** Operations are deliberately implementing unsustainable practices to meet short-term output targets. This is documented (Dorven Kess maintaining sustainability records; Sorven Tal documenting creature-population stress).
+**Sustainability compromise:** Operations are deliberately implementing unsustainable practices to meet short-term output targets. This is documented ([[Voss Keld]] at [[Keln Ridge Mines]] maintaining comprehensive incident reports establishing institutional directives override safety recommendations; [[Marn Drest]] at [[Maren Timber Collective]] refusing military acceleration contracts to preserve forest health despite institutional pressure).
 
 **Specialist-practitioner preservation:** T3+ practitioners in specialized roles are considering escape, career transition, or emigration options to avoid conscription. Institutional loss of knowledge and capability is probable.
 
