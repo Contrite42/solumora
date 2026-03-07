@@ -16,10 +16,10 @@ Pins kinetic force across the inscribed face at touch range across a chosen surf
 | Persistence | Immediate |
 | Target | Surface |
 
----
 
+---
 **ReleaseShadow**
-Projects raw flux as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy as a widening cone within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Emit |
@@ -31,11 +31,9 @@ Projects raw flux as a widening forward spread within ten feet on a chosen objec
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **SolidCage**
-Screens kinetic force at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels kinetic force at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -47,11 +45,9 @@ Screens kinetic force at a single marked point at touch range on a chosen object
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **DriftTide**
-Projects photonic flux at a single marked point within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
+Projects radiant energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 44 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -63,11 +59,9 @@ Projects photonic flux at a single marked point within ten feet across a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SweepBond**
-Drives reactive compounds as a widening forward spread at touch range on a chosen object, forcing displacement along the chosen direction of effect.
+Channels flux energy as a widening cone at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 29 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -79,11 +73,9 @@ Drives reactive compounds as a widening forward spread at touch range on a chose
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **DarkVeil**
-Drives reactive compounds as a widening forward spread at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -95,11 +87,9 @@ Drives reactive compounds as a widening forward spread at the sigil site on a ch
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SweepStrike**
-Raises a boundary against kinetic force across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels kinetic force within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -111,11 +101,9 @@ Raises a boundary against kinetic force across the inscribed face within ten fee
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **WeaveLight**
-Pins thermal flow across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 48 W |
 | Shape | Square |
 | Hook | Bind |
@@ -127,11 +115,9 @@ Pins thermal flow across the inscribed face within ten feet on a chosen object, 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **FreezAura**
-Screens kinetic force at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Filter |
@@ -143,11 +129,9 @@ Screens kinetic force at a single marked point at touch range on a chosen object
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **FreezWard**
-Drives binding tension across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect.
+Channels flux energy within arm's reach across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Move |
@@ -159,11 +143,9 @@ Drives binding tension across the inscribed face within ten feet across a chosen
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **LoudWeb**
-Reconfigures kinetic force across the inscribed face at touch range across a chosen surface, changing the target state in place.
+Reshapes kinetic force at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -175,11 +157,9 @@ Reconfigures kinetic force across the inscribed face at touch range across a cho
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **BurBoon**
-Pins kinetic force at a single marked point at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors kinetic force across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -191,11 +171,9 @@ Pins kinetic force at a single marked point at the sigil site across a chosen su
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **BindSong**
-Screens raw flux as a widening forward spread within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through.
+Channels flux energy as a widening cone within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Filter |
@@ -207,11 +185,9 @@ Screens raw flux as a widening forward spread within ten feet on a chosen object
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **LightHand**
-Projects photonic flux across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
+Projects radiant energy across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -223,11 +199,9 @@ Projects photonic flux across the inscribed face at the sigil site across a chos
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **TwistMark**
-Raises a boundary against thermal flow at a single marked point at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -239,11 +213,9 @@ Raises a boundary against thermal flow at a single marked point at touch range a
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **HeavyCurse**
-Reads binding tension across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy within arm's reach at the marked location, immobilizing the target. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -255,11 +227,9 @@ Reads binding tension across the inscribed face within ten feet on the inscribed
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **DriftScar**
-Drives photonic flux at a single marked point at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels radiant energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 56 W |
 | Shape | Square |
 | Hook | Move |
@@ -271,11 +241,9 @@ Drives photonic flux at a single marked point at touch range across a chosen sur
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **BindLight**
-Raises a boundary against electrical charge across the inscribed face within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 60 W |
 | Shape | Square |
 | Hook | Ward |
@@ -287,11 +255,9 @@ Raises a boundary against electrical charge across the inscribed face within ten
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **PierceBreath**
-Pins photonic flux across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors radiant energy on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Bind |
@@ -303,11 +269,9 @@ Pins photonic flux across the inscribed face at the sigil site on a chosen objec
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **BurShell**
-Raises a boundary against raw flux across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -319,11 +283,9 @@ Raises a boundary against raw flux across the inscribed face within ten feet on 
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **HollowRing**
-Reconfigures reactive compounds across the inscribed face within ten feet on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -335,11 +297,9 @@ Reconfigures reactive compounds across the inscribed face within ten feet on a c
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **ReleasMirror**
-Reads electrical charge at a single marked point within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Sense |
@@ -351,11 +311,9 @@ Reads electrical charge at a single marked point within ten feet across a chosen
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TransformFlame**
-Screens binding tension across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels flux energy within arm's reach at the marked location, immobilizing the target. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -367,11 +325,9 @@ Screens binding tension across the inscribed face within ten feet on the inscrib
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **FreezCurse**
-Screens photonic flux across the inscribed face at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels radiant energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Filter |
@@ -383,11 +339,9 @@ Screens photonic flux across the inscribed face at touch range on a chosen objec
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **PierceDream**
-Reads raw flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster.
+Detects flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Sense |
@@ -399,11 +353,9 @@ Reads raw flux across the inscribed face within ten feet on a chosen object, ret
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **PureWeb**
-Pins binding tension across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy across surfaces, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 60 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -415,11 +367,9 @@ Pins binding tension across the inscribed face at the sigil site across a chosen
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SweepHalo**
-Projects reactive compounds as a widening forward spread at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy as a widening cone on objects, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Emit |
@@ -431,11 +381,9 @@ Projects reactive compounds as a widening forward spread at the sigil site on a 
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **TameVoice**
-Pins electrical charge across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 70 W |
 | Shape | Square |
 | Hook | Bind |
@@ -447,11 +395,9 @@ Pins electrical charge across the inscribed face at the sigil site across a chos
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **FreshMark**
-Screens photonic flux across the inscribed face within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through.
+Channels radiant energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Filter |
@@ -463,11 +409,9 @@ Screens photonic flux across the inscribed face within ten feet on a chosen obje
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BrightCalm**
-Drives thermal flow across the inscribed face within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
+Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -479,11 +423,9 @@ Drives thermal flow across the inscribed face within ten feet on a chosen object
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **RiseTouch**
-Reconfigures electrical charge across the inscribed face within ten feet on a chosen object, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -495,11 +437,9 @@ Reconfigures electrical charge across the inscribed face within ten feet on a ch
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **BurWeb**
-Pins binding tension across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy at point of contact at the marked location, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Bind |
@@ -511,11 +451,9 @@ Pins binding tension across the inscribed face at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **FallAura**
-Reads kinetic force at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects kinetic force at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -527,11 +465,9 @@ Reads kinetic force at a single marked point at touch range on a chosen object, 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **AnchoredPath**
-Raises a boundary against electrical charge across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -543,11 +479,9 @@ Raises a boundary against electrical charge across the inscribed face at the sig
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **CalmBridge**
-Raises a boundary against electrical charge across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Ward |
@@ -559,11 +493,9 @@ Raises a boundary against electrical charge across the inscribed face within ten
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **DriftBoon**
-Pins reactive compounds across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -575,11 +507,9 @@ Pins reactive compounds across the inscribed face at touch range across a chosen
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **CalmBoon**
-Drives binding tension at a single marked point within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy within arm's reach on objects, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 62 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -591,11 +521,9 @@ Drives binding tension at a single marked point within ten feet on a chosen obje
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **FlowSilence**
-Reads thermal flow across the inscribed face at touch range on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -607,11 +535,9 @@ Reads thermal flow across the inscribed face at touch range on the inscribed loc
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **ChillBond**
-Pins raw flux at a single marked point at touch range on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 37 W |
 | Shape | Square |
 | Hook | Bind |
@@ -623,11 +549,9 @@ Pins raw flux at a single marked point at touch range on a chosen object, creati
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **RisRune**
-Drives raw flux across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -639,11 +563,9 @@ Drives raw flux across the inscribed face at touch range on a chosen object, for
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **CalmBond**
-Projects photonic flux across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
+Projects radiant energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 34 W |
 | Shape | Square |
 | Hook | Emit |
@@ -655,11 +577,9 @@ Projects photonic flux across the inscribed face at the sigil site across a chos
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **DriftFlame**
-Screens binding tension across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy at the marked location, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -671,11 +591,9 @@ Screens binding tension across the inscribed face at the sigil site on the inscr
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **GrandCore**
-Projects raw flux across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -687,11 +605,9 @@ Projects raw flux across the inscribed face at the sigil site across a chosen su
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **ReleasChain**
-Screens thermal flow across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Filter |
@@ -703,11 +619,9 @@ Screens thermal flow across the inscribed face at the sigil site on the inscribe
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **ChillBreath**
-Raises a boundary against kinetic force across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels kinetic force within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -719,11 +633,9 @@ Raises a boundary against kinetic force across the inscribed face within ten fee
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **ShatterShell**
-Screens reactive compounds across the inscribed face at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -735,11 +647,9 @@ Screens reactive compounds across the inscribed face at touch range across a cho
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **ReleaseFlame**
-Raises a boundary against binding tension at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 115 W |
 | Shape | Square |
 | Hook | Ward |
@@ -751,11 +661,9 @@ Raises a boundary against binding tension at a single marked point within ten fe
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SweepRing**
-Pins binding tension across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors flux energy at point of contact across surfaces, immobilizing the target. The minimal flux drain makes it practical for repeated use.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -767,11 +675,9 @@ Pins binding tension across the inscribed face at touch range across a chosen su
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **SolidGlyph**
-Screens thermal flow at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -783,11 +689,9 @@ Screens thermal flow at a single marked point at touch range on a chosen object,
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **BurCharm**
-Drives thermal flow across the inscribed face at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Move |
@@ -799,11 +703,9 @@ Drives thermal flow across the inscribed face at the sigil site on a chosen obje
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **SweepBlessing**
-Raises a boundary against kinetic force at a single marked point at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels kinetic force at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Ward |
@@ -815,11 +717,9 @@ Raises a boundary against kinetic force at a single marked point at touch range 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **DriftGate**
-Drives photonic flux across the inscribed face at the sigil site across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels radiant energy across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -831,11 +731,9 @@ Drives photonic flux across the inscribed face at the sigil site across a chosen
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **TransformChain**
-Reads binding tension at a single marked point within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 115 W |
 | Shape | Square |
 | Hook | Sense |
@@ -847,11 +745,9 @@ Reads binding tension at a single marked point within ten feet across a chosen s
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **WhirlingRoot**
-Reads photonic flux at a single marked point at touch range on the inscribed location, returning readable signal data to the caster.
+Detects radiant energy at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Sense |
@@ -863,11 +759,9 @@ Reads photonic flux at a single marked point at touch range on the inscribed loc
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **TwinBond**
-Pins photonic flux at a single marked point at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors radiant energy on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Bind |
@@ -879,11 +773,9 @@ Pins photonic flux at a single marked point at the sigil site on a chosen object
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **CapturRune**
-Pins thermal flow at a single marked point within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -895,11 +787,9 @@ Pins thermal flow at a single marked point within ten feet across a chosen surfa
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BurWall**
-Screens photonic flux at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Filter |
@@ -911,11 +801,9 @@ Screens photonic flux at a single marked point at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **TaintedCharm**
-Reconfigures electrical charge across the inscribed face at the sigil site on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Transform |
@@ -927,11 +815,9 @@ Reconfigures electrical charge across the inscribed face at the sigil site on a 
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **KindlVoid**
-Pins thermal flow across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -943,11 +829,9 @@ Pins thermal flow across the inscribed face at the sigil site across a chosen su
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **WeavMark**
-Projects photonic flux as a widening forward spread at the sigil site across a chosen surface, delivering its effect as an active release.
+Projects radiant energy as a widening cone across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -959,11 +843,9 @@ Projects photonic flux as a widening forward spread at the sigil site across a c
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **WeaveThought**
-Reads electrical charge at a single marked point at the sigil site on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Sense |
@@ -975,11 +857,9 @@ Reads electrical charge at a single marked point at the sigil site on the inscri
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **SwiftTouch**
-Raises a boundary against electrical charge at a single marked point at the sigil site across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -991,11 +871,9 @@ Raises a boundary against electrical charge at a single marked point at the sigi
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **KindleFlame**
-Reads binding tension across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster.
+Detects flux energy on objects, immobilizing the target. The minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1007,11 +885,9 @@ Reads binding tension across the inscribed face at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **DissolvHeart**
-Drives electrical charge as a widening forward spread at the sigil site across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 65 W |
 | Shape | Square |
 | Hook | Move |
@@ -1023,11 +899,9 @@ Drives electrical charge as a widening forward spread at the sigil site across a
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **ChillPulse**
-Reconfigures reactive compounds across the inscribed face within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1039,11 +913,9 @@ Reconfigures reactive compounds across the inscribed face within ten feet on the
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **ReleasCrown**
-Raises a boundary against kinetic force as a widening forward spread at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels kinetic force as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 38 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1055,11 +927,9 @@ Raises a boundary against kinetic force as a widening forward spread at touch ra
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **BreakNet**
-Reconfigures binding tension as a widening forward spread within ten feet on a chosen object, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy as a widening cone within arm's reach on objects, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 122 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1071,11 +941,9 @@ Reconfigures binding tension as a widening forward spread within ten feet on a c
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SlowHalo**
-Reads photonic flux across the inscribed face at touch range on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1087,11 +955,9 @@ Reads photonic flux across the inscribed face at touch range on the inscribed lo
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **TwistGlyph**
-Screens kinetic force as a widening forward spread at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels kinetic force as a widening cone at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1103,11 +969,9 @@ Screens kinetic force as a widening forward spread at touch range across a chose
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **PureWall**
-Screens reactive compounds across the inscribed face within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1119,11 +983,9 @@ Screens reactive compounds across the inscribed face within ten feet across a ch
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **PaleCore**
-Screens photonic flux across the inscribed face at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels radiant energy on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1135,11 +997,9 @@ Screens photonic flux across the inscribed face at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **WeakCage**
-Pins binding tension across the inscribed face within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy within arm's reach at the marked location, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1151,11 +1011,9 @@ Pins binding tension across the inscribed face within ten feet on the inscribed 
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **ReleasTouch**
-Pins kinetic force as a widening forward spread within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors kinetic force as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1167,11 +1025,9 @@ Pins kinetic force as a widening forward spread within ten feet across a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **FreshWisp**
-Reconfigures binding tension across the inscribed face at the sigil site across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy across surfaces, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1183,11 +1039,9 @@ Reconfigures binding tension across the inscribed face at the sigil site across 
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **GentleHand**
-Screens thermal flow at a single marked point at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1199,11 +1053,9 @@ Screens thermal flow at a single marked point at the sigil site across a chosen 
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **FallStrike**
-Reconfigures thermal flow across the inscribed face within ten feet across a chosen surface, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1215,11 +1067,9 @@ Reconfigures thermal flow across the inscribed face within ten feet across a cho
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **BurnMark**
-Raises a boundary against binding tension as a widening forward spread at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy as a widening cone at point of contact on objects, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1231,11 +1081,9 @@ Raises a boundary against binding tension as a widening forward spread at touch 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **SweepHand**
-Drives photonic flux across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels radiant energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Move |
@@ -1247,11 +1095,9 @@ Drives photonic flux across the inscribed face at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **ShatterSeal**
-Drives thermal flow across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect.
+Channels flux energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -1263,11 +1109,9 @@ Drives thermal flow across the inscribed face within ten feet across a chosen su
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **BreakPulse**
-Pins thermal flow as a widening forward spread within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -1279,11 +1123,9 @@ Pins thermal flow as a widening forward spread within ten feet on a chosen objec
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SurCurse**
-Pins photonic flux across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors radiant energy across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1295,11 +1137,9 @@ Pins photonic flux across the inscribed face at the sigil site across a chosen s
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **LoudCharm**
-Reconfigures binding tension as a widening forward spread within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy as a widening cone within arm's reach at the marked location, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 100 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1311,11 +1151,9 @@ Reconfigures binding tension as a widening forward spread within ten feet on the
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **GuardVeil**
-Raises a boundary against electrical charge at a single marked point at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1327,11 +1165,9 @@ Raises a boundary against electrical charge at a single marked point at the sigi
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SurCore**
-Raises a boundary against kinetic force at a single marked point within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels kinetic force within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1343,11 +1179,9 @@ Raises a boundary against kinetic force at a single marked point within ten feet
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **CalmSight**
-Projects thermal flow across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1359,11 +1193,9 @@ Projects thermal flow across the inscribed face at touch range on a chosen objec
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **GuardGate**
-Pins thermal flow at a single marked point within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors flux energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1375,11 +1207,9 @@ Pins thermal flow at a single marked point within ten feet across a chosen surfa
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **HiddenGlyph**
-Pins electrical charge as a widening forward spread at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 62 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1391,11 +1221,9 @@ Pins electrical charge as a widening forward spread at touch range on the inscri
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **DriftingSigil**
-Projects electrical charge across the inscribed face within ten feet on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1407,11 +1235,9 @@ Projects electrical charge across the inscribed face within ten feet on a chosen
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SwiftWall**
-Raises a boundary against kinetic force across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels kinetic force at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1423,11 +1249,9 @@ Raises a boundary against kinetic force across the inscribed face at the sigil s
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **NakedMark**
-Raises a boundary against kinetic force at a single marked point at touch range across a chosen surface, forming a defensive layer that rejects incoming influence.
+Channels kinetic force at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1439,11 +1263,9 @@ Raises a boundary against kinetic force at a single marked point at touch range 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **ReleasCalm**
-Raises a boundary against photonic flux as a widening forward spread within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels radiant energy as a widening cone within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 49 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1455,11 +1277,9 @@ Raises a boundary against photonic flux as a widening forward spread within ten 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **ShatterSilence**
-Projects raw flux at a single marked point at the sigil site across a chosen surface, delivering its effect as an active release.
+Projects flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1471,11 +1291,9 @@ Projects raw flux at a single marked point at the sigil site across a chosen sur
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **ChillRing**
-Drives reactive compounds at a single marked point within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -1487,11 +1305,9 @@ Drives reactive compounds at a single marked point within ten feet on a chosen o
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **TwistWisp**
-Drives photonic flux across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Move |
@@ -1503,11 +1319,9 @@ Drives photonic flux across the inscribed face at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **DriftMark**
-Raises a boundary against binding tension at a single marked point at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1519,11 +1333,9 @@ Raises a boundary against binding tension at a single marked point at the sigil 
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ClearGate**
-Pins electrical charge as a widening forward spread within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy as a widening cone within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1535,11 +1347,9 @@ Pins electrical charge as a widening forward spread within ten feet on the inscr
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **SweepBreath**
-Screens kinetic force at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1551,11 +1361,9 @@ Screens kinetic force at a single marked point at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **VastPath**
-Reads binding tension as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy as a widening cone at point of contact at the marked location, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 117 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1567,11 +1375,9 @@ Reads binding tension as a widening forward spread at touch range on the inscrib
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **FlowEye**
-Raises a boundary against kinetic force as a widening forward spread at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels kinetic force as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1583,11 +1389,9 @@ Raises a boundary against kinetic force as a widening forward spread at touch ra
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **TwistLight**
-Reads photonic flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
+Detects radiant energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 41 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1599,11 +1403,9 @@ Reads photonic flux across the inscribed face within ten feet on a chosen object
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SwiftDoor**
-Pins kinetic force across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors kinetic force on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1615,11 +1417,9 @@ Pins kinetic force across the inscribed face at the sigil site on a chosen objec
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **SlowDoor**
-Reconfigures photonic flux across the inscribed face at the sigil site across a chosen surface, changing the target state in place.
+Reshapes radiant energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1631,11 +1431,9 @@ Reconfigures photonic flux across the inscribed face at the sigil site across a 
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **PierceWay**
-Reads electrical charge as a widening forward spread within ten feet across a chosen surface, returning readable signal data to the caster.
+Detects flux energy as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1647,11 +1445,9 @@ Reads electrical charge as a widening forward spread within ten feet across a ch
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **GuardFrost**
-Screens binding tension at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy at point of contact on objects, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 59 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1663,11 +1459,9 @@ Screens binding tension at a single marked point at touch range on a chosen obje
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SurShell**
-Drives electrical charge as a widening forward spread at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect.
+Channels flux energy as a widening cone at the marked location, producing its effect. The affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Move |
@@ -1679,11 +1473,9 @@ Drives electrical charge as a widening forward spread at the sigil site on the i
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **LoudPulse**
-Screens kinetic force at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -1695,11 +1487,9 @@ Screens kinetic force at a single marked point at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **CaptureFrost**
-Raises a boundary against raw flux at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1711,11 +1501,9 @@ Raises a boundary against raw flux at a single marked point within ten feet acro
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **PierceTide**
-Reads binding tension at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy at point of contact on objects, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 39 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1727,11 +1515,9 @@ Reads binding tension at a single marked point at touch range on a chosen object
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **SlowBond**
-Pins electrical charge at a single marked point at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1743,11 +1529,9 @@ Pins electrical charge at a single marked point at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **FreezGate**
-Reads thermal flow at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1759,11 +1543,9 @@ Reads thermal flow at a single marked point at the sigil site across a chosen su
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TaintedHalo**
-Pins kinetic force as a widening forward spread at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors kinetic force as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 53 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1775,11 +1557,9 @@ Pins kinetic force as a widening forward spread at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **FallBoon**
-Reads electrical charge at a single marked point within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1791,11 +1571,9 @@ Reads electrical charge at a single marked point within ten feet on a chosen obj
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **SurMark**
-Reconfigures thermal flow across the inscribed face at the sigil site on the inscribed location, changing the target state in place.
+Reshapes flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1807,11 +1585,9 @@ Reconfigures thermal flow across the inscribed face at the sigil site on the ins
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **TaintedCurse**
-Reads electrical charge across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1823,11 +1599,9 @@ Reads electrical charge across the inscribed face at the sigil site on a chosen 
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **HeavyShell**
-Raises a boundary against raw flux as a widening forward spread at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy as a widening cone on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1839,11 +1613,9 @@ Raises a boundary against raw flux as a widening forward spread at the sigil sit
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BreakSoul**
-Drives thermal flow as a widening forward spread within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Move |
@@ -1855,11 +1627,9 @@ Drives thermal flow as a widening forward spread within ten feet on a chosen obj
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **ReleasBoon**
-Reconfigures raw flux across the inscribed face within ten feet on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1871,11 +1641,9 @@ Reconfigures raw flux across the inscribed face within ten feet on a chosen obje
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **HeavyWard**
-Reads raw flux as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy as a widening cone at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1887,11 +1655,9 @@ Reads raw flux as a widening forward spread at touch range on a chosen object, r
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **CaptureMark**
-Reads reactive compounds across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 75 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1903,11 +1669,9 @@ Reads reactive compounds across the inscribed face within ten feet across a chos
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **ChillDance**
-Reads binding tension as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy as a widening cone at point of contact on objects, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 69 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -1919,11 +1683,9 @@ Reads binding tension as a widening forward spread at touch range on a chosen ob
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **FallVeil**
-Raises a boundary against raw flux at a single marked point within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Ward |
@@ -1935,11 +1697,9 @@ Raises a boundary against raw flux at a single marked point within ten feet on a
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **CalmVeil**
-Raises a boundary against thermal flow at a single marked point at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -1951,11 +1711,9 @@ Raises a boundary against thermal flow at a single marked point at touch range o
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **FlowLight**
-Projects raw flux as a widening forward spread at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -1967,11 +1725,9 @@ Projects raw flux as a widening forward spread at touch range on a chosen object
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SurTouch**
-Reconfigures reactive compounds at a single marked point within ten feet on the inscribed location, changing the target state in place.
+Reshapes flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -1983,11 +1739,9 @@ Reconfigures reactive compounds at a single marked point within ten feet on the 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **MurkyGlyph**
-Reads kinetic force across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects kinetic force on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1999,11 +1753,9 @@ Reads kinetic force across the inscribed face at the sigil site on a chosen obje
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **NakedShroud**
-Reconfigures kinetic force as a widening forward spread at the sigil site across a chosen surface, changing the target state in place.
+Reshapes kinetic force as a widening cone across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2015,11 +1767,9 @@ Reconfigures kinetic force as a widening forward spread at the sigil site across
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **BindHalo**
-Drives electrical charge at a single marked point at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 72 W |
 | Shape | Square |
 | Hook | Move |
@@ -2031,11 +1781,9 @@ Drives electrical charge at a single marked point at touch range across a chosen
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **VividFrost**
-Reconfigures binding tension as a widening forward spread within ten feet across a chosen surface, changing the target state in place.
+Reshapes flux energy as a widening cone within arm's reach across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2047,11 +1795,9 @@ Reconfigures binding tension as a widening forward spread within ten feet across
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **GuardPulse**
-Reads thermal flow across the inscribed face at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2063,11 +1809,9 @@ Reads thermal flow across the inscribed face at touch range on a chosen object, 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **TransformTide**
-Drives photonic flux across the inscribed face at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels radiant energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2079,11 +1823,9 @@ Drives photonic flux across the inscribed face at the sigil site on the inscribe
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **PiercVeil**
-Reads kinetic force at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects kinetic force across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2095,11 +1837,9 @@ Reads kinetic force at a single marked point at the sigil site across a chosen s
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **BurHand**
-Screens electrical charge across the inscribed face within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2111,11 +1851,9 @@ Screens electrical charge across the inscribed face within ten feet on a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **KindleMark**
-Pins raw flux across the inscribed face at touch range on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 17 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2127,11 +1865,9 @@ Pins raw flux across the inscribed face at touch range on a chosen object, creat
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **KindlHeart**
-Raises a boundary against electrical charge across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 69 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2143,11 +1879,9 @@ Raises a boundary against electrical charge across the inscribed face at touch r
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **PaleGate**
-Reconfigures photonic flux at a single marked point at touch range across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes radiant energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2159,11 +1893,9 @@ Reconfigures photonic flux at a single marked point at touch range across a chos
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **TwistFlame**
-Drives photonic flux across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels radiant energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Move |
@@ -2175,11 +1907,9 @@ Drives photonic flux across the inscribed face at touch range across a chosen su
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **CalmScar**
-Reconfigures raw flux at a single marked point within ten feet across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2191,11 +1921,9 @@ Reconfigures raw flux at a single marked point within ten feet across a chosen s
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **CalmTouch**
-Projects reactive compounds at a single marked point at touch range on a chosen object, delivering its effect as an active release.
+Projects flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2207,11 +1935,9 @@ Projects reactive compounds at a single marked point at touch range on a chosen 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **TwistScar**
-Projects reactive compounds across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2223,11 +1949,9 @@ Projects reactive compounds across the inscribed face at the sigil site on a cho
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **FlowVeil**
-Pins photonic flux across the inscribed face at touch range on a chosen object, creating a clamp-like hold that resists motion or change.
+Anchors radiant energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2239,11 +1963,9 @@ Pins photonic flux across the inscribed face at touch range on a chosen object, 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **WeakAura**
-Screens raw flux at a single marked point at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through.
+Channels flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2255,11 +1977,9 @@ Screens raw flux at a single marked point at the sigil site across a chosen surf
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **SolidMirror**
-Reads photonic flux across the inscribed face at the sigil site on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects radiant energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2271,11 +1991,9 @@ Reads photonic flux across the inscribed face at the sigil site on the inscribed
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **FiercePulse**
-Reads photonic flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects radiant energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2287,11 +2005,9 @@ Reads photonic flux across the inscribed face within ten feet on a chosen object
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ReleasStorm**
-Projects photonic flux across the inscribed face at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one hour.
+Projects radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2303,11 +2019,9 @@ Projects photonic flux across the inscribed face at touch range on the inscribed
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **DullWall**
-Raises a boundary against photonic flux across the inscribed face at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2319,11 +2033,9 @@ Raises a boundary against photonic flux across the inscribed face at touch range
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **TwinKnot**
-Reads electrical charge across the inscribed face at the sigil site across a chosen surface, returning readable signal data to the caster.
+Detects flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2335,11 +2047,9 @@ Reads electrical charge across the inscribed face at the sigil site across a cho
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **KindlCrown**
-Reconfigures kinetic force across the inscribed face within ten feet across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes kinetic force within arm's reach across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2351,11 +2061,9 @@ Reconfigures kinetic force across the inscribed face within ten feet across a ch
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **DeepCurse**
-Raises a boundary against thermal flow across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2367,11 +2075,9 @@ Raises a boundary against thermal flow across the inscribed face within ten feet
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **SolidBoon**
-Drives raw flux across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect.
+Channels flux energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2383,11 +2089,9 @@ Drives raw flux across the inscribed face at touch range across a chosen surface
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **CalmThought**
-Reads kinetic force as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster.
+Detects kinetic force as a widening cone at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2399,11 +2103,9 @@ Reads kinetic force as a widening forward spread at touch range on the inscribed
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **SweepTide**
-Reads kinetic force at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2415,11 +2117,9 @@ Reads kinetic force at a single marked point at touch range on a chosen object, 
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **DeepBridge**
-Raises a boundary against electrical charge as a widening forward spread within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence.
+Channels flux energy as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2431,11 +2131,9 @@ Raises a boundary against electrical charge as a widening forward spread within 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **AnchorWay**
-Reads raw flux across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster.
+Detects flux energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2447,11 +2145,9 @@ Reads raw flux across the inscribed face within ten feet across a chosen surface
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **RiseWay**
-Drives photonic flux as a widening forward spread at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels radiant energy as a widening cone at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2463,11 +2159,9 @@ Drives photonic flux as a widening forward spread at the sigil site on the inscr
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **QuietKnot**
-Reconfigures reactive compounds across the inscribed face at touch range on the inscribed location, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2479,11 +2173,9 @@ Reconfigures reactive compounds across the inscribed face at touch range on the 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **ReleasShroud**
-Reconfigures thermal flow across the inscribed face at the sigil site across a chosen surface, changing the target state in place.
+Reshapes flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 11 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2495,11 +2187,9 @@ Reconfigures thermal flow across the inscribed face at the sigil site across a c
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **FreezHeart**
-Reads photonic flux across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster.
+Detects radiant energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2511,11 +2201,9 @@ Reads photonic flux across the inscribed face within ten feet across a chosen su
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **SurBreath**
-Reads reactive compounds at a single marked point within ten feet on the inscribed location, returning readable signal data to the caster.
+Detects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2527,11 +2215,9 @@ Reads reactive compounds at a single marked point within ten feet on the inscrib
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **WarmRing**
-Screens reactive compounds at a single marked point within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2543,11 +2229,9 @@ Screens reactive compounds at a single marked point within ten feet across a cho
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TwistVoice**
-Pins binding tension across the inscribed face at the sigil site on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2559,11 +2243,9 @@ Pins binding tension across the inscribed face at the sigil site on the inscribe
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **SteadyEye**
-Screens kinetic force as a widening forward spread at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels kinetic force as a widening cone at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2575,11 +2257,9 @@ Screens kinetic force as a widening forward spread at touch range on a chosen ob
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **SlowWeb**
-Screens kinetic force across the inscribed face within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through.
+Channels kinetic force within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2591,11 +2271,9 @@ Screens kinetic force across the inscribed face within ten feet across a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **TransformCharm**
-Drives thermal flow across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect.
+Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2607,11 +2285,9 @@ Drives thermal flow across the inscribed face at touch range on a chosen object,
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **FlowBond**
-Reconfigures binding tension as a widening forward spread at touch range on a chosen object, changing the target state in place.
+Reshapes flux energy as a widening cone at point of contact on objects, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2623,11 +2299,9 @@ Reconfigures binding tension as a widening forward spread at touch range on a ch
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **PiercSilence**
-Reads thermal flow across the inscribed face at touch range on a chosen object, returning readable signal data to the caster.
+Detects flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -2639,11 +2313,9 @@ Reads thermal flow across the inscribed face at touch range on a chosen object, 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **TwistBond**
-Reconfigures thermal flow at a single marked point at the sigil site on the inscribed location, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2655,11 +2327,9 @@ Reconfigures thermal flow at a single marked point at the sigil site on the insc
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **FragileCurse**
-Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place, and the working holds for about one hour.
+Reshapes kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2671,11 +2341,9 @@ Reconfigures kinetic force across the inscribed face at touch range on a chosen 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **TransformDance**
-Raises a boundary against raw flux as a widening forward spread at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy as a widening cone at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2687,11 +2355,9 @@ Raises a boundary against raw flux as a widening forward spread at the sigil sit
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **ShatterLight**
-Drives raw flux at a single marked point within ten feet on the inscribed location, forcing displacement along the chosen direction of effect.
+Channels flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2703,11 +2369,9 @@ Drives raw flux at a single marked point within ten feet on the inscribed locati
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **SolidFrost**
-Raises a boundary against thermal flow at a single marked point at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2719,11 +2383,9 @@ Raises a boundary against thermal flow at a single marked point at the sigil sit
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **FierceThread**
-Screens raw flux at a single marked point at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2735,11 +2397,9 @@ Screens raw flux at a single marked point at touch range across a chosen surface
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **WeavEcho**
-Reads reactive compounds across the inscribed face at the sigil site across a chosen surface, returning readable signal data to the caster.
+Detects flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2751,11 +2411,9 @@ Reads reactive compounds across the inscribed face at the sigil site across a ch
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **WildKey**
-Screens kinetic force at a single marked point at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels kinetic force at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2767,11 +2425,9 @@ Screens kinetic force at a single marked point at the sigil site on the inscribe
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **ShatterFlame**
-Drives thermal flow at a single marked point at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Move |
@@ -2783,11 +2439,9 @@ Drives thermal flow at a single marked point at the sigil site on a chosen objec
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **ReleaseBreath**
-Screens electrical charge at a single marked point within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -2799,11 +2453,9 @@ Screens electrical charge at a single marked point within ten feet across a chos
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **ShatterNet**
-Raises a boundary against kinetic force across the inscribed face at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels kinetic force at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Ward |
@@ -2815,11 +2467,9 @@ Raises a boundary against kinetic force across the inscribed face at touch range
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **TaintedPulse**
-Reconfigures raw flux across the inscribed face at the sigil site on a chosen object, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2831,11 +2481,9 @@ Reconfigures raw flux across the inscribed face at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **PiercBridge**
-Raises a boundary against thermal flow across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2847,11 +2495,9 @@ Raises a boundary against thermal flow across the inscribed face at the sigil si
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **CurvedWard**
-Reconfigures photonic flux as a widening forward spread at the sigil site on the inscribed location, changing the target state in place.
+Reshapes radiant energy as a widening cone at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -2863,11 +2509,9 @@ Reconfigures photonic flux as a widening forward spread at the sigil site on the
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **RisNet**
-Screens binding tension across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels flux energy at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2879,11 +2523,9 @@ Screens binding tension across the inscribed face at the sigil site on the inscr
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **TransformBreath**
-Raises a boundary against thermal flow across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2895,11 +2537,9 @@ Raises a boundary against thermal flow across the inscribed face at the sigil si
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **CalmPath**
-Pins electrical charge across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -2911,11 +2551,9 @@ Pins electrical charge across the inscribed face at touch range on the inscribed
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **DissolveLight**
-Reconfigures binding tension across the inscribed face at the sigil site across a chosen surface, changing the target state in place.
+Reshapes flux energy across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2927,11 +2565,9 @@ Reconfigures binding tension across the inscribed face at the sigil site across 
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **HeavyCalm**
-Drives raw flux as a widening forward spread at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -2943,11 +2579,9 @@ Drives raw flux as a widening forward spread at the sigil site on a chosen objec
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **RestlessRoot**
-Projects thermal flow across the inscribed face within ten feet on the inscribed location, delivering its effect as an active release.
+Projects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 11 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -2959,11 +2593,9 @@ Projects thermal flow across the inscribed face within ten feet on the inscribed
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **RisCurse**
-Reads raw flux across the inscribed face within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2975,11 +2607,9 @@ Reads raw flux across the inscribed face within ten feet on a chosen object, ret
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **GuardStorm**
-Raises a boundary against binding tension across the inscribed face within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 65 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -2991,11 +2621,9 @@ Raises a boundary against binding tension across the inscribed face within ten f
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **ColdEcho**
-Screens raw flux across the inscribed face at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -3007,11 +2635,9 @@ Screens raw flux across the inscribed face at the sigil site on a chosen object,
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SurRoot**
-Reads photonic flux at a single marked point at the sigil site on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
+Detects radiant energy at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3023,11 +2649,9 @@ Reads photonic flux at a single marked point at the sigil site on the inscribed 
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **SweepAura**
-Pins thermal flow across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -3039,11 +2663,9 @@ Pins thermal flow across the inscribed face at the sigil site on a chosen object
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **DissolveMark**
-Reads reactive compounds across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster.
+Detects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3055,11 +2677,9 @@ Reads reactive compounds across the inscribed face at the sigil site on a chosen
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **FlowShadow**
-Reconfigures reactive compounds as a widening forward spread at touch range on the inscribed location, changing the target state in place.
+Reshapes flux energy as a widening cone at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3071,11 +2691,9 @@ Reconfigures reactive compounds as a widening forward spread at touch range on t
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **RisMirror**
-Drives reactive compounds as a widening forward spread within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
+Channels flux energy as a widening cone within arm's reach on objects, producing its effect. The affordable flux cost allows frequent casting.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Move |
@@ -3087,11 +2705,9 @@ Drives reactive compounds as a widening forward spread within ten feet on a chos
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **PiercCore**
-Screens kinetic force at a single marked point at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through.
+Channels kinetic force across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3103,11 +2719,9 @@ Screens kinetic force at a single marked point at the sigil site across a chosen
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **LoudKnot**
-Screens kinetic force across the inscribed face at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels kinetic force at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -3119,11 +2733,9 @@ Screens kinetic force across the inscribed face at touch range across a chosen s
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **FreezShroud**
-Raises a boundary against photonic flux at a single marked point within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels radiant energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3135,11 +2747,9 @@ Raises a boundary against photonic flux at a single marked point within ten feet
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **DissolvShell**
-Drives raw flux across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect.
+Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 12 W |
 | Shape | Square |
 | Hook | Move |
@@ -3151,11 +2761,9 @@ Drives raw flux across the inscribed face at touch range on a chosen object, for
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **FallBridge**
-Pins photonic flux at a single marked point within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors radiant energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 56 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3167,11 +2775,9 @@ Pins photonic flux at a single marked point within ten feet on a chosen object, 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SurgeScar**
-Reads kinetic force at a single marked point at touch range across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects kinetic force at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3183,11 +2789,9 @@ Reads kinetic force at a single marked point at touch range across a chosen surf
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **AnchoredVoid**
-Drives reactive compounds as a widening forward spread at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels flux energy as a widening cone at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3199,11 +2803,9 @@ Drives reactive compounds as a widening forward spread at the sigil site on the 
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **FreezChain**
-Projects photonic flux across the inscribed face within ten feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects radiant energy within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3215,11 +2817,9 @@ Projects photonic flux across the inscribed face within ten feet on the inscribe
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **SweepMirror**
-Reconfigures reactive compounds across the inscribed face at touch range across a chosen surface, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 72 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3231,11 +2831,9 @@ Reconfigures reactive compounds across the inscribed face at touch range across 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SurgeLight**
-Reads reactive compounds as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 79 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3247,11 +2845,9 @@ Reads reactive compounds as a widening forward spread at touch range on a chosen
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **HardyBond**
-Raises a boundary against photonic flux at a single marked point at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels radiant energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3263,11 +2859,9 @@ Raises a boundary against photonic flux at a single marked point at the sigil si
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **RisPulse**
-Screens thermal flow across the inscribed face at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3279,11 +2873,9 @@ Screens thermal flow across the inscribed face at the sigil site on a chosen obj
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **ShallowKnot**
-Drives raw flux across the inscribed face at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Square |
 | Hook | Move |
@@ -3295,11 +2887,9 @@ Drives raw flux across the inscribed face at the sigil site on a chosen object, 
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **GuardBlessing**
-Screens kinetic force across the inscribed face at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3311,11 +2901,9 @@ Screens kinetic force across the inscribed face at touch range on the inscribed 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **RiseShadow**
-Drives photonic flux across the inscribed face at touch range on a chosen object, forcing displacement along the chosen direction of effect.
+Channels radiant energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Move |
@@ -3327,11 +2915,9 @@ Drives photonic flux across the inscribed face at touch range on a chosen object
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **WhirlingTouch**
-Pins reactive compounds across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -3343,11 +2929,9 @@ Pins reactive compounds across the inscribed face within ten feet on a chosen ob
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **FallKnot**
-Projects thermal flow across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release.
+Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3359,11 +2943,9 @@ Projects thermal flow across the inscribed face at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **QuietTouch**
-Pins reactive compounds as a widening forward spread within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy as a widening cone within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3375,11 +2957,9 @@ Pins reactive compounds as a widening forward spread within ten feet on the insc
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **SolidRing**
-Drives photonic flux across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect.
+Channels radiant energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3391,11 +2971,9 @@ Drives photonic flux across the inscribed face at touch range across a chosen su
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **BindWeb**
-Raises a boundary against binding tension across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3407,11 +2985,9 @@ Raises a boundary against binding tension across the inscribed face at the sigil
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **TransformGlyph**
-Reconfigures binding tension at a single marked point within ten feet on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy within arm's reach on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 97 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3423,11 +2999,9 @@ Reconfigures binding tension at a single marked point within ten feet on a chose
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SurgeSight**
-Reconfigures thermal flow at a single marked point within ten feet across a chosen surface, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3439,11 +3013,9 @@ Reconfigures thermal flow at a single marked point within ten feet across a chos
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BindThread**
-Screens electrical charge as a widening forward spread at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone at point of contact on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 64 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3455,11 +3027,9 @@ Screens electrical charge as a widening forward spread at touch range on a chose
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SolidVeil**
-Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place, and the working holds for about one hour.
+Reshapes kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3471,11 +3041,9 @@ Reconfigures kinetic force across the inscribed face at touch range on a chosen 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **GuardMirror**
-Raises a boundary against reactive compounds across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3487,11 +3055,9 @@ Raises a boundary against reactive compounds across the inscribed face at touch 
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **BurCage**
-Raises a boundary against binding tension across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy within arm's reach on objects, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3503,11 +3069,9 @@ Raises a boundary against binding tension across the inscribed face within ten f
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **FierceHalo**
-Reads electrical charge at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3519,11 +3083,9 @@ Reads electrical charge at a single marked point at the sigil site across a chos
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **KindleRoad**
-Raises a boundary against reactive compounds across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence.
+Channels flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3535,11 +3097,9 @@ Raises a boundary against reactive compounds across the inscribed face at the si
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **KindleDream**
-Projects photonic flux across the inscribed face at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects radiant energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3551,11 +3111,9 @@ Projects photonic flux across the inscribed face at touch range on the inscribed
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **CaptureLight**
-Raises a boundary against thermal flow across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3567,11 +3125,9 @@ Raises a boundary against thermal flow across the inscribed face at the sigil si
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **BreakMark**
-Projects reactive compounds across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3583,11 +3139,9 @@ Projects reactive compounds across the inscribed face at the sigil site across a
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **RiseDream**
-Reconfigures electrical charge across the inscribed face at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3599,11 +3153,9 @@ Reconfigures electrical charge across the inscribed face at the sigil site acros
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **PureCore**
-Reconfigures binding tension across the inscribed face at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3615,11 +3167,9 @@ Reconfigures binding tension across the inscribed face at the sigil site across 
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **SwiftBreath**
-Reads raw flux across the inscribed face at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3631,11 +3181,9 @@ Reads raw flux across the inscribed face at the sigil site across a chosen surfa
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **BreakHand**
-Pins electrical charge as a widening forward spread at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy as a widening cone at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3647,11 +3195,9 @@ Pins electrical charge as a widening forward spread at touch range on the inscri
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **VastBoon**
-Drives raw flux at a single marked point at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3663,11 +3209,9 @@ Drives raw flux at a single marked point at touch range on the inscribed locatio
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **ShatterVoid**
-Drives electrical charge across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -3679,11 +3223,9 @@ Drives electrical charge across the inscribed face at touch range on the inscrib
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **BindBreath**
-Projects photonic flux as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects radiant energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3695,11 +3237,9 @@ Projects photonic flux as a widening forward spread within ten feet on a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BindStorm**
-Pins reactive compounds across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 70 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3711,11 +3251,9 @@ Pins reactive compounds across the inscribed face at the sigil site across a cho
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **DriftRune**
-Reads electrical charge at a single marked point at the sigil site on a chosen object, returning readable signal data to the caster.
+Detects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3727,11 +3265,9 @@ Reads electrical charge at a single marked point at the sigil site on a chosen o
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BreakShadow**
-Projects raw flux across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Emit |
@@ -3743,11 +3279,9 @@ Projects raw flux across the inscribed face at the sigil site on a chosen object
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **FreezePulse**
-Drives kinetic force across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels kinetic force at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 48 W |
 | Shape | Square |
 | Hook | Move |
@@ -3759,11 +3293,9 @@ Drives kinetic force across the inscribed face at touch range across a chosen su
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **FlowRoad**
-Reconfigures photonic flux at a single marked point at touch range on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes radiant energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3775,11 +3307,9 @@ Reconfigures photonic flux at a single marked point at touch range on a chosen o
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SweepSight**
-Projects kinetic force across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -3791,11 +3321,9 @@ Projects kinetic force across the inscribed face at touch range on a chosen obje
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ShatterFrost**
-Drives electrical charge at a single marked point at touch range on the inscribed location, forcing displacement along the chosen direction of effect.
+Channels flux energy at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Square |
 | Hook | Move |
@@ -3807,11 +3335,9 @@ Drives electrical charge at a single marked point at touch range on the inscribe
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **BindHand**
-Reconfigures binding tension across the inscribed face within ten feet on the inscribed location, changing the target state in place.
+Reshapes flux energy within arm's reach at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Transform |
@@ -3823,11 +3349,9 @@ Reconfigures binding tension across the inscribed face within ten feet on the in
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **DriftingBond**
-Raises a boundary against raw flux across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence.
+Channels flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3839,11 +3363,9 @@ Raises a boundary against raw flux across the inscribed face within ten feet on 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **StraightBond**
-Screens binding tension across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Filter |
@@ -3855,11 +3377,9 @@ Screens binding tension across the inscribed face at the sigil site on the inscr
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **BurnDream**
-Reads binding tension at a single marked point at the sigil site on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy on objects, immobilizing the target. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -3871,11 +3391,9 @@ Reads binding tension at a single marked point at the sigil site on a chosen obj
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **CurvedRing**
-Raises a boundary against binding tension across the inscribed face at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Ward |
@@ -3887,11 +3405,9 @@ Raises a boundary against binding tension across the inscribed face at the sigil
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **ReleaseSight**
-Drives kinetic force across the inscribed face at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Move |
@@ -3903,11 +3419,9 @@ Drives kinetic force across the inscribed face at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **HeavyVeil**
-Pins reactive compounds across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3919,11 +3433,9 @@ Pins reactive compounds across the inscribed face at the sigil site across a cho
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **TwinThread**
-Reconfigures kinetic force at a single marked point at touch range across a chosen surface, changing the target state in place, and the working holds for about one minute.
+Reshapes kinetic force at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -3935,11 +3447,9 @@ Reconfigures kinetic force at a single marked point at touch range across a chos
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **CalmStorm**
-Pins thermal flow across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3951,11 +3461,9 @@ Pins thermal flow across the inscribed face at the sigil site across a chosen su
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **WildFrost**
-Drives reactive compounds as a widening forward spread at the sigil site on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 77 W |
 | Shape | Square |
 | Hook | Move |
@@ -3967,11 +3475,9 @@ Drives reactive compounds as a widening forward spread at the sigil site on a ch
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **TransformBrand**
-Raises a boundary against electrical charge at a single marked point at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 27 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -3983,11 +3489,9 @@ Raises a boundary against electrical charge at a single marked point at touch ra
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **DullPulse**
-Reads reactive compounds across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster.
+Detects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Sense |
@@ -3999,11 +3503,9 @@ Reads reactive compounds across the inscribed face within ten feet on the inscri
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **PiercHand**
-Screens raw flux at a single marked point at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4015,11 +3517,9 @@ Screens raw flux at a single marked point at the sigil site on the inscribed loc
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **AnchorBreath**
-Reads reactive compounds as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy as a widening cone at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 34 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4031,11 +3531,9 @@ Reads reactive compounds as a widening forward spread at touch range on a chosen
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **CapturPath**
-Screens binding tension as a widening forward spread at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels flux energy as a widening cone at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4047,11 +3545,9 @@ Screens binding tension as a widening forward spread at the sigil site on the in
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **VastWeb**
-Screens reactive compounds at a single marked point within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4063,11 +3559,9 @@ Screens reactive compounds at a single marked point within ten feet on the inscr
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **BrightRing**
-Projects kinetic force across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects kinetic force on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4079,11 +3573,9 @@ Projects kinetic force across the inscribed face at the sigil site on a chosen o
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **LightNet**
-Projects binding tension as a widening forward spread at touch range on a chosen object, delivering its effect as an active release.
+Projects flux energy as a widening cone at point of contact on objects, immobilizing the target. The minimal flux drain makes it practical for repeated use.
 | Wattage | 44 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4095,11 +3587,9 @@ Projects binding tension as a widening forward spread at touch range on a chosen
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **FreezeFlame**
-Raises a boundary against raw flux across the inscribed face at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -4111,11 +3601,9 @@ Raises a boundary against raw flux across the inscribed face at touch range acro
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TwistWay**
-Raises a boundary against photonic flux at a single marked point at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4127,11 +3615,9 @@ Raises a boundary against photonic flux at a single marked point at touch range 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **TameThread**
-Projects raw flux across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release.
+Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4143,11 +3629,9 @@ Projects raw flux across the inscribed face at the sigil site on a chosen object
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **FallCore**
-Projects reactive compounds across the inscribed face within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4159,11 +3643,9 @@ Projects reactive compounds across the inscribed face within ten feet across a c
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **VastBond**
-Pins raw flux across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4175,11 +3657,9 @@ Pins raw flux across the inscribed face at touch range across a chosen surface, 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **HeavySeal**
-Drives thermal flow as a widening forward spread within ten feet on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels flux energy as a widening cone within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -4191,11 +3671,9 @@ Drives thermal flow as a widening forward spread within ten feet on the inscribe
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **RiseTide**
-Drives reactive compounds as a widening forward spread within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy as a widening cone within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 57 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -4207,11 +3685,9 @@ Drives reactive compounds as a widening forward spread within ten feet on a chos
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **TwistBreath**
-Reads photonic flux at a single marked point at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects radiant energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 51 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4223,11 +3699,9 @@ Reads photonic flux at a single marked point at touch range on the inscribed loc
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **RisEcho**
-Projects photonic flux as a widening forward spread at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects radiant energy as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 31 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4239,11 +3713,9 @@ Projects photonic flux as a widening forward spread at touch range on the inscri
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **NakedEcho**
-Raises a boundary against binding tension across the inscribed face at touch range on the inscribed location, forming a defensive layer that rejects incoming influence.
+Channels flux energy at point of contact at the marked location, immobilizing the target. The minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -4255,11 +3727,9 @@ Raises a boundary against binding tension across the inscribed face at touch ran
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **BurBreath**
-Raises a boundary against raw flux at a single marked point at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 12 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4271,11 +3741,9 @@ Raises a boundary against raw flux at a single marked point at touch range on a 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **ReleaseStrike**
-Projects binding tension at a single marked point at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy at point of contact at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4287,11 +3755,9 @@ Projects binding tension at a single marked point at touch range on the inscribe
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **PalePulse**
-Screens raw flux across the inscribed face at the sigil site across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -4303,11 +3769,9 @@ Screens raw flux across the inscribed face at the sigil site across a chosen sur
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **ReleasRing**
-Projects thermal flow across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release.
+Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4319,11 +3783,9 @@ Projects thermal flow across the inscribed face at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **ReleaseSong**
-Projects raw flux at a single marked point within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4335,11 +3797,9 @@ Projects raw flux at a single marked point within ten feet across a chosen surfa
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **PiercRing**
-Screens binding tension as a widening forward spread at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone at point of contact on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 54 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -4351,11 +3811,9 @@ Screens binding tension as a widening forward spread at touch range on a chosen 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **WarmNet**
-Pins electrical charge at a single marked point at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4367,11 +3825,9 @@ Pins electrical charge at a single marked point at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **SweepSoul**
-Screens electrical charge at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through.
+Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 44 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4383,11 +3839,9 @@ Screens electrical charge at a single marked point at touch range on a chosen ob
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **QuietAura**
-Raises a boundary against thermal flow across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4399,11 +3853,9 @@ Raises a boundary against thermal flow across the inscribed face within ten feet
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **HiddenCharm**
-Pins photonic flux across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors radiant energy within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4415,11 +3867,9 @@ Pins photonic flux across the inscribed face within ten feet on a chosen object,
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ColdShell**
-Screens photonic flux as a widening forward spread at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels radiant energy as a widening cone at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 66 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4431,11 +3881,9 @@ Screens photonic flux as a widening forward spread at touch range across a chose
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **TaintedAura**
-Reconfigures raw flux across the inscribed face at the sigil site on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4447,11 +3895,9 @@ Reconfigures raw flux across the inscribed face at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **CurvedCrown**
-Reads photonic flux across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects radiant energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Sense |
@@ -4463,11 +3909,9 @@ Reads photonic flux across the inscribed face within ten feet on the inscribed l
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **MurkyMark**
-Projects electrical charge at a single marked point at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4479,11 +3923,9 @@ Projects electrical charge at a single marked point at touch range on the inscri
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **PureSpirit**
-Reconfigures photonic flux across the inscribed face at touch range on the inscribed location, changing the target state in place, and the working holds for about one minute.
+Reshapes radiant energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 31 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4495,11 +3937,9 @@ Reconfigures photonic flux across the inscribed face at touch range on the inscr
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **KindleWay**
-Raises a boundary against electrical charge as a widening forward spread at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy as a widening cone at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 79 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4511,11 +3951,9 @@ Raises a boundary against electrical charge as a widening forward spread at touc
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **FallRing**
-Raises a boundary against binding tension at a single marked point at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence.
+Channels flux energy at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 80 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4527,11 +3965,9 @@ Raises a boundary against binding tension at a single marked point at the sigil 
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **ReleaseLight**
-Projects thermal flow at a single marked point at the sigil site on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4543,11 +3979,9 @@ Projects thermal flow at a single marked point at the sigil site on the inscribe
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **FragileShroud**
-Reads thermal flow at a single marked point at the sigil site across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4559,11 +3993,9 @@ Reads thermal flow at a single marked point at the sigil site across a chosen su
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **DriftVeil**
-Pins reactive compounds as a widening forward spread within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy as a widening cone within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4575,11 +4007,9 @@ Pins reactive compounds as a widening forward spread within ten feet on the insc
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **SharpFlame**
-Projects raw flux at a single marked point at the sigil site on a chosen object, delivering its effect as an active release.
+Projects flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4591,11 +4021,9 @@ Projects raw flux at a single marked point at the sigil site on a chosen object,
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **TransformBoon**
-Screens binding tension at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy at point of contact on objects, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 94 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4607,11 +4035,9 @@ Screens binding tension at a single marked point at touch range on a chosen obje
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **TwistChain**
-Pins thermal flow at a single marked point within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4623,11 +4049,9 @@ Pins thermal flow at a single marked point within ten feet on the inscribed loca
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **PiercRoot**
-Screens kinetic force as a widening forward spread at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels kinetic force as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 53 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4639,11 +4063,9 @@ Screens kinetic force as a widening forward spread at the sigil site on a chosen
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **DriftingTouch**
-Screens photonic flux as a widening forward spread at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels radiant energy as a widening cone at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 61 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4655,11 +4077,9 @@ Screens photonic flux as a widening forward spread at touch range on the inscrib
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **StraightPath**
-Reads raw flux across the inscribed face at the sigil site on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -4671,11 +4091,9 @@ Reads raw flux across the inscribed face at the sigil site on the inscribed loca
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **FallCharm**
-Reconfigures reactive compounds as a widening forward spread at touch range across a chosen surface, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy as a widening cone at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4687,11 +4105,9 @@ Reconfigures reactive compounds as a widening forward spread at touch range acro
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **StillCurse**
-Projects kinetic force at a single marked point at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
+Projects kinetic force across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4703,11 +4119,9 @@ Projects kinetic force at a single marked point at the sigil site across a chose
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **KindleTide**
-Pins thermal flow across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4719,11 +4133,9 @@ Pins thermal flow across the inscribed face at touch range on the inscribed loca
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **ShatterMirror**
-Projects reactive compounds across the inscribed face within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -4735,11 +4147,9 @@ Projects reactive compounds across the inscribed face within ten feet across a c
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **RisCalm**
-Reconfigures raw flux across the inscribed face within ten feet on a chosen object, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4751,11 +4161,9 @@ Reconfigures raw flux across the inscribed face within ten feet on a chosen obje
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BurnFrost**
-Pins binding tension across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy at point of contact across surfaces, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 112 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4767,11 +4175,9 @@ Pins binding tension across the inscribed face at touch range across a chosen su
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SweepWeb**
-Screens kinetic force across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels kinetic force within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Square |
 | Hook | Filter |
@@ -4783,11 +4189,9 @@ Screens kinetic force across the inscribed face within ten feet on the inscribed
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **FrozenMark**
-Pins thermal flow across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change.
+Anchors flux energy at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4799,11 +4203,9 @@ Pins thermal flow across the inscribed face at touch range on the inscribed loca
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **BurShroud**
-Reconfigures photonic flux as a widening forward spread at the sigil site on a chosen object, changing the target state in place, and the working holds for about one hour.
+Reshapes radiant energy as a widening cone on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 46 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4815,11 +4217,9 @@ Reconfigures photonic flux as a widening forward spread at the sigil site on a c
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **ShallowCage**
-Raises a boundary against binding tension at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence.
+Channels flux energy within arm's reach across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4831,11 +4231,9 @@ Raises a boundary against binding tension at a single marked point within ten fe
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **TransformRune**
-Pins raw flux across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Square |
 | Hook | Bind |
@@ -4847,11 +4245,9 @@ Pins raw flux across the inscribed face at touch range on the inscribed location
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **WarmCore**
-Pins reactive compounds at a single marked point at the sigil site on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4863,11 +4259,9 @@ Pins reactive compounds at a single marked point at the sigil site on the inscri
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **TransformSong**
-Raises a boundary against electrical charge across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Ward |
@@ -4879,11 +4273,9 @@ Raises a boundary against electrical charge across the inscribed face within ten
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **FiercePath**
-Reconfigures binding tension across the inscribed face within ten feet across a chosen surface, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy within arm's reach across surfaces, immobilizing the target. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 65 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4895,11 +4287,9 @@ Reconfigures binding tension across the inscribed face within ten feet across a 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **DarkCore**
-Projects electrical charge at a single marked point at the sigil site on the inscribed location, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 65 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4911,11 +4301,9 @@ Projects electrical charge at a single marked point at the sigil site on the ins
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **FragileNet**
-Projects binding tension across the inscribed face at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy at point of contact at the marked location, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Emit |
@@ -4927,11 +4315,9 @@ Projects binding tension across the inscribed face at touch range on the inscrib
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **CaptureFlame**
-Reconfigures photonic flux across the inscribed face at the sigil site on a chosen object, changing the target state in place.
+Reshapes radiant energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Transform |
@@ -4943,11 +4329,9 @@ Reconfigures photonic flux across the inscribed face at the sigil site on a chos
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **CalmFlame**
-Pins reactive compounds across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4959,11 +4343,9 @@ Pins reactive compounds across the inscribed face at the sigil site across a cho
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **AnchorBrand**
-Reconfigures raw flux across the inscribed face within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -4975,11 +4357,9 @@ Reconfigures raw flux across the inscribed face within ten feet on the inscribed
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **WeavVoid**
-Pins raw flux across the inscribed face within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -4991,11 +4371,9 @@ Pins raw flux across the inscribed face within ten feet across a chosen surface,
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **CalmLock**
-Screens binding tension at a single marked point at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy at point of contact across surfaces, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 112 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5007,11 +4385,9 @@ Screens binding tension at a single marked point at touch range across a chosen 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **KindlPath**
-Raises a boundary against raw flux at a single marked point at the sigil site across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5023,11 +4399,9 @@ Raises a boundary against raw flux at a single marked point at the sigil site ac
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TwinSigil**
-Reconfigures kinetic force as a widening forward spread at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one minute.
+Reshapes kinetic force as a widening cone across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5039,11 +4413,9 @@ Reconfigures kinetic force as a widening forward spread at the sigil site across
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BindKnot**
-Screens kinetic force across the inscribed face at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels kinetic force at point of contact at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5055,11 +4427,9 @@ Screens kinetic force across the inscribed face at touch range on the inscribed 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **DullFrost**
-Reads reactive compounds across the inscribed face at touch range across a chosen surface, returning readable signal data to the caster.
+Detects flux energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5071,11 +4441,9 @@ Reads reactive compounds across the inscribed face at touch range across a chose
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **StillGlyph**
-Raises a boundary against photonic flux as a widening forward spread at the sigil site on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels radiant energy as a widening cone on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5087,11 +4455,9 @@ Raises a boundary against photonic flux as a widening forward spread at the sigi
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BurThread**
-Reads raw flux across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5103,11 +4469,9 @@ Reads raw flux across the inscribed face within ten feet across a chosen surface
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **FrozenMirror**
-Screens electrical charge across the inscribed face within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5119,11 +4483,9 @@ Screens electrical charge across the inscribed face within ten feet across a cho
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **DriftBrand**
-Reads thermal flow at a single marked point at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy at point of contact on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 30 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5135,11 +4497,9 @@ Reads thermal flow at a single marked point at touch range on a chosen object, r
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BurRune**
-Pins electrical charge across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 55 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5151,11 +4511,9 @@ Pins electrical charge across the inscribed face at the sigil site across a chos
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **TransformMark**
-Reconfigures electrical charge at a single marked point at the sigil site across a chosen surface, changing the target state in place.
+Reshapes flux energy across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 45 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5167,11 +4525,9 @@ Reconfigures electrical charge at a single marked point at the sigil site across
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **ShatterWay**
-Screens raw flux across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5183,11 +4539,9 @@ Screens raw flux across the inscribed face within ten feet on the inscribed loca
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **FierceWall**
-Pins reactive compounds as a widening forward spread within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -5199,11 +4553,9 @@ Pins reactive compounds as a widening forward spread within ten feet on a chosen
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **QuietVoice**
-Reconfigures electrical charge as a widening forward spread within ten feet across a chosen surface, changing the target state in place.
+Reshapes flux energy as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5215,11 +4567,9 @@ Reconfigures electrical charge as a widening forward spread within ten feet acro
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **WeaveFlame**
-Pins binding tension at a single marked point at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 90 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5231,11 +4581,9 @@ Pins binding tension at a single marked point at the sigil site across a chosen 
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **FlowRune**
-Projects thermal flow as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy as a widening cone within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 43 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5247,11 +4595,9 @@ Projects thermal flow as a widening forward spread within ten feet on a chosen o
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BurTouch**
-Screens thermal flow at a single marked point at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5263,11 +4609,9 @@ Screens thermal flow at a single marked point at touch range on the inscribed lo
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **LoneAura**
-Projects electrical charge across the inscribed face at touch range across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 57 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5279,11 +4623,9 @@ Projects electrical charge across the inscribed face at touch range across a cho
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **PiercKnot**
-Pins reactive compounds across the inscribed face within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors flux energy within arm's reach across surfaces, producing its effect. The affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5295,11 +4637,9 @@ Pins reactive compounds across the inscribed face within ten feet across a chose
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **ClearShroud**
-Pins thermal flow across the inscribed face at the sigil site on a chosen object, creating a clamp-like hold that resists motion or change.
+Anchors flux energy on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Bind |
@@ -5311,11 +4651,9 @@ Pins thermal flow across the inscribed face at the sigil site on a chosen object
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **CapturEcho**
-Screens binding tension at a single marked point within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels flux energy within arm's reach at the marked location, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 85 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5327,11 +4665,9 @@ Screens binding tension at a single marked point within ten feet on the inscribe
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **TransformGate**
-Drives reactive compounds across the inscribed face within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
+Channels flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5343,11 +4679,9 @@ Drives reactive compounds across the inscribed face within ten feet on a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **HumbleGlyph**
-Reads raw flux across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster.
+Detects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 13 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5359,11 +4693,9 @@ Reads raw flux across the inscribed face within ten feet on the inscribed locati
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **FrozenNet**
-Drives reactive compounds across the inscribed face within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach on objects, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5375,11 +4707,9 @@ Drives reactive compounds across the inscribed face within ten feet on a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BindVeil**
-Screens photonic flux as a widening forward spread within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels radiant energy as a widening cone within arm's reach across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 54 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5391,11 +4721,9 @@ Screens photonic flux as a widening forward spread within ten feet across a chos
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **SwiftCage**
-Projects reactive compounds as a widening forward spread at touch range on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy as a widening cone at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5407,11 +4735,9 @@ Projects reactive compounds as a widening forward spread at touch range on the i
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **KindleSong**
-Raises a boundary against photonic flux as a widening forward spread within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence.
+Channels radiant energy as a widening cone within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 24 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5423,11 +4749,9 @@ Raises a boundary against photonic flux as a widening forward spread within ten 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **SurgeBreath**
-Reconfigures kinetic force across the inscribed face within ten feet on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes kinetic force within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 28 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5439,11 +4763,9 @@ Reconfigures kinetic force across the inscribed face within ten feet on a chosen
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ReleaseBlessing**
-Projects kinetic force across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
+Projects kinetic force at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5455,11 +4777,9 @@ Projects kinetic force across the inscribed face at touch range on a chosen obje
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **PureStorm**
-Drives reactive compounds across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5471,11 +4791,9 @@ Drives reactive compounds across the inscribed face at touch range across a chos
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **ShatterDance**
-Screens reactive compounds at a single marked point within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5487,11 +4805,9 @@ Screens reactive compounds at a single marked point within ten feet on the inscr
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **SlowGate**
-Projects binding tension across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5503,11 +4819,9 @@ Projects binding tension across the inscribed face at the sigil site on a chosen
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **AnchorVeil**
-Pins thermal flow as a widening forward spread within ten feet on a chosen object, creating a clamp-like hold that resists motion or change.
+Anchors flux energy as a widening cone within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -5519,11 +4833,9 @@ Pins thermal flow as a widening forward spread within ten feet on a chosen objec
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **ShatterKey**
-Projects raw flux across the inscribed face within ten feet on the inscribed location, delivering its effect as an active release.
+Projects flux energy within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 8 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5535,11 +4847,9 @@ Projects raw flux across the inscribed face within ten feet on the inscribed loc
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **LoneSilence**
-Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place.
+Reshapes kinetic force at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 20 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5551,11 +4861,9 @@ Reconfigures kinetic force across the inscribed face at touch range on a chosen 
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **VastRoot**
-Screens thermal flow across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 46 W |
 | Shape | Square |
 | Hook | Filter |
@@ -5567,11 +4875,9 @@ Screens thermal flow across the inscribed face within ten feet on the inscribed 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **KindlChain**
-Reconfigures kinetic force across the inscribed face at touch range on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5583,11 +4889,9 @@ Reconfigures kinetic force across the inscribed face at touch range on a chosen 
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **HumbleHeart**
-Reads binding tension across the inscribed face at the sigil site on a chosen object, returning readable signal data to the caster.
+Detects flux energy on objects, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5599,11 +4903,9 @@ Reads binding tension across the inscribed face at the sigil site on a chosen ob
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BrightAura**
-Reads thermal flow across the inscribed face at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5615,11 +4917,9 @@ Reads thermal flow across the inscribed face at touch range on the inscribed loc
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **ChillScar**
-Reconfigures photonic flux as a widening forward spread at the sigil site across a chosen surface, changing the target state in place, and the working holds for about one hour.
+Reshapes radiant energy as a widening cone across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 49 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5631,11 +4931,9 @@ Reconfigures photonic flux as a widening forward spread at the sigil site across
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SolidBond**
-Reconfigures photonic flux at a single marked point at touch range on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes radiant energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5647,11 +4945,9 @@ Reconfigures photonic flux at a single marked point at touch range on a chosen o
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **BreakBrand**
-Reconfigures kinetic force as a widening forward spread within ten feet on the inscribed location, changing the target state in place.
+Reshapes kinetic force as a widening cone within arm's reach at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -5663,11 +4959,9 @@ Reconfigures kinetic force as a widening forward spread within ten feet on the i
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **FreezCharm**
-Drives electrical charge across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 52 W |
 | Shape | Square |
 | Hook | Move |
@@ -5679,11 +4973,9 @@ Drives electrical charge across the inscribed face at touch range across a chose
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BreakEcho**
-Raises a boundary against raw flux across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 12 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5695,11 +4987,9 @@ Raises a boundary against raw flux across the inscribed face at touch range on a
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **BurnShadow**
-Reconfigures thermal flow across the inscribed face at the sigil site on the inscribed location, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 41 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5711,11 +5001,9 @@ Reconfigures thermal flow across the inscribed face at the sigil site on the ins
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **SurgeDance**
-Screens kinetic force across the inscribed face at the sigil site on the inscribed location, blocking out unwanted components while allowing valid ones through.
+Channels kinetic force at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 6 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -5727,11 +5015,9 @@ Screens kinetic force across the inscribed face at the sigil site on the inscrib
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **ChillWard**
-Raises a boundary against kinetic force across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels kinetic force at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 26 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5743,11 +5029,9 @@ Raises a boundary against kinetic force across the inscribed face at the sigil s
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **PiercFrost**
-Projects raw flux at a single marked point within ten feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy within arm's reach at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 23 W |
 | Shape | Square |
 | Hook | Emit |
@@ -5759,11 +5043,9 @@ Projects raw flux at a single marked point within ten feet on the inscribed loca
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **AncientVoice**
-Raises a boundary against reactive compounds across the inscribed face at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 47 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5775,11 +5057,9 @@ Raises a boundary against reactive compounds across the inscribed face at touch 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **WeaveWay**
-Drives binding tension across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach across surfaces, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 50 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5791,11 +5071,9 @@ Drives binding tension across the inscribed face within ten feet across a chosen
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **SurSoul**
-Raises a boundary against reactive compounds at a single marked point at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The affordable flux cost allows frequent casting.
 | Wattage | 69 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5807,11 +5085,9 @@ Raises a boundary against reactive compounds at a single marked point at touch r
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **DriftRoot**
-Drives photonic flux across the inscribed face at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect.
+Channels radiant energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 24 W |
 | Shape | Square |
 | Hook | Move |
@@ -5823,11 +5099,9 @@ Drives photonic flux across the inscribed face at the sigil site on the inscribe
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **BreakBreath**
-Raises a boundary against binding tension at a single marked point within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy within arm's reach across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 95 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5839,11 +5113,9 @@ Raises a boundary against binding tension at a single marked point within ten fe
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **PiercVoice**
-Reads binding tension as a widening forward spread at touch range across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy as a widening cone at point of contact across surfaces, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 52 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -5855,11 +5127,9 @@ Reads binding tension as a widening forward spread at touch range across a chose
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BindKey**
-Reads binding tension at a single marked point at the sigil site on a chosen object, returning readable signal data to the caster.
+Detects flux energy on objects, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 82 W |
 | Shape | Square |
 | Hook | Sense |
@@ -5871,11 +5141,9 @@ Reads binding tension at a single marked point at the sigil site on a chosen obj
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BindFrost**
-Reconfigures kinetic force as a widening forward spread within ten feet across a chosen surface, changing the target state in place.
+Reshapes kinetic force as a widening cone within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Transform |
@@ -5887,11 +5155,9 @@ Reconfigures kinetic force as a widening forward spread within ten feet across a
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **SweepPulse**
-Raises a boundary against kinetic force across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -5903,11 +5169,9 @@ Raises a boundary against kinetic force across the inscribed face at touch range
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **FallDance**
-Raises a boundary against thermal flow across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Square |
 | Hook | Ward |
@@ -5919,11 +5183,9 @@ Raises a boundary against thermal flow across the inscribed face at touch range 
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **SurgeStorm**
-Drives photonic flux across the inscribed face within ten feet across a chosen surface, forcing displacement along the chosen direction of effect.
+Channels radiant energy within arm's reach across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 19 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5935,11 +5197,9 @@ Drives photonic flux across the inscribed face within ten feet across a chosen s
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **AnchorVoid**
-Projects reactive compounds across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 25 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5951,11 +5211,9 @@ Projects reactive compounds across the inscribed face at the sigil site across a
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **CurvedWisp**
-Drives electrical charge at a single marked point at the sigil site on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -5967,11 +5225,9 @@ Drives electrical charge at a single marked point at the sigil site on the inscr
 | Reach | Self |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **BindFlame**
-Projects thermal flow across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 35 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -5983,11 +5239,9 @@ Projects thermal flow across the inscribed face at touch range on a chosen objec
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **TameCore**
-Drives thermal flow as a widening forward spread at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels flux energy as a widening cone at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Square |
 | Hook | Move |
@@ -5999,11 +5253,9 @@ Drives thermal flow as a widening forward spread at touch range on the inscribed
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **FragileCalm**
-Pins binding tension across the inscribed face at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy at point of contact at the marked location, immobilizing the target. Runs for roughly a minute before dissipating. The affordable flux cost allows frequent casting.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6015,11 +5267,9 @@ Pins binding tension across the inscribed face at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **PiercSpirit**
-Projects electrical charge across the inscribed face at the sigil site on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 22 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -6031,11 +5281,9 @@ Projects electrical charge across the inscribed face at the sigil site on a chos
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ShatterBridge**
-Reconfigures binding tension at a single marked point at the sigil site on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy on objects, immobilizing the target. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 37 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -6047,11 +5295,9 @@ Reconfigures binding tension at a single marked point at the sigil site on a cho
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ShatterCrown**
-Pins electrical charge at a single marked point at touch range on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 42 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -6063,11 +5309,9 @@ Pins electrical charge at a single marked point at touch range on the inscribed 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **HumbleWall**
-Screens raw flux across the inscribed face at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through.
+Channels flux energy at point of contact across surfaces, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 10 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -6079,11 +5323,9 @@ Screens raw flux across the inscribed face at touch range across a chosen surfac
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **ShatterCalm**
-Pins thermal flow across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -6095,11 +5337,9 @@ Pins thermal flow across the inscribed face at touch range across a chosen surfa
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **LightVoid**
-Reads kinetic force across the inscribed face at touch range on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects kinetic force at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 15 W |
 | Shape | Triangle |
 | Hook | Sense |
@@ -6111,11 +5351,9 @@ Reads kinetic force across the inscribed face at touch range on a chosen object,
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **FallShadow**
-Raises a boundary against thermal flow across the inscribed face at the sigil site on the inscribed location, forming a defensive layer that rejects incoming influence.
+Channels flux energy at the marked location, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 16 W |
 | Shape | Square |
 | Hook | Ward |
@@ -6127,11 +5365,9 @@ Raises a boundary against thermal flow across the inscribed face at the sigil si
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **GentleWisp**
-Pins raw flux across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6143,11 +5379,9 @@ Pins raw flux across the inscribed face within ten feet on a chosen object, crea
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **FreezeStorm**
-Pins binding tension at a single marked point at touch range across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors flux energy at point of contact across surfaces, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 87 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6159,11 +5393,9 @@ Pins binding tension at a single marked point at touch range across a chosen sur
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **SweepFlame**
-Pins electrical charge across the inscribed face at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 32 W |
 | Shape | Triangle |
 | Hook | Bind |
@@ -6175,11 +5407,9 @@ Pins electrical charge across the inscribed face at touch range across a chosen 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **BreakTouch**
-Screens raw flux at a single marked point at touch range on a chosen object, blocking out unwanted components while allowing valid ones through.
+Channels flux energy at point of contact on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 7 W |
 | Shape | Triangle |
 | Hook | Filter |
@@ -6191,11 +5421,9 @@ Screens raw flux at a single marked point at touch range on a chosen object, blo
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **VastHeart**
-Raises a boundary against raw flux across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy at point of contact on objects, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 12 W |
 | Shape | Triangle |
 | Hook | Ward |
@@ -6207,11 +5435,9 @@ Raises a boundary against raw flux across the inscribed face at touch range on a
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **HumbleChain**
-Projects binding tension as a widening forward spread at the sigil site on a chosen object, delivering its effect as an active release.
+Projects flux energy as a widening cone on objects, immobilizing the target. The affordable flux cost allows frequent casting.
 | Wattage | 92 W |
 | Shape | Square |
 | Hook | Emit |
@@ -6223,11 +5449,9 @@ Projects binding tension as a widening forward spread at the sigil site on a cho
 | Reach | Self |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **FallCurse**
-Pins raw flux across the inscribed face at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors flux energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6239,11 +5463,9 @@ Pins raw flux across the inscribed face at the sigil site across a chosen surfac
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TwinRoot**
-Reads thermal flow as a widening forward spread within ten feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy as a widening cone within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 36 W |
 | Shape | Square |
 | Hook | Sense |
@@ -6255,11 +5477,9 @@ Reads thermal flow as a widening forward spread within ten feet on the inscribed
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **WeavSigil**
-Reconfigures kinetic force across the inscribed face at touch range on the inscribed location, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes kinetic force at point of contact at the marked location, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 18 W |
 | Shape | Triangle |
 | Hook | Transform |
@@ -6271,11 +5491,9 @@ Reconfigures kinetic force across the inscribed face at touch range on the inscr
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **FreezEye**
-Pins electrical charge across the inscribed face within ten feet on a chosen object, creating a clamp-like hold that resists motion or change.
+Anchors flux energy within arm's reach on objects, producing its effect. The minimal flux drain makes it practical for repeated use.
 | Wattage | 47 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6287,11 +5505,9 @@ Pins electrical charge across the inscribed face within ten feet on a chosen obj
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **RiseScar**
-Drives kinetic force across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels kinetic force at point of contact across surfaces, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 38 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -6303,11 +5519,9 @@ Drives kinetic force across the inscribed face at touch range across a chosen su
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **DriftPulse**
-Drives raw flux as a widening forward spread at touch range on the inscribed location, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels flux energy as a widening cone at point of contact at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 40 W |
 | Shape | Triangle |
 | Hook | Move |
@@ -6319,11 +5533,9 @@ Drives raw flux as a widening forward spread at touch range on the inscribed loc
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **ChillBrand**
-Screens electrical charge as a widening forward spread at the sigil site on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone on objects, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 62 W |
 | Shape | Square |
 | Hook | Filter |
@@ -6335,11 +5547,9 @@ Screens electrical charge as a widening forward spread at the sigil site on a ch
 | Reach | Self |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BindPulse**
-Projects photonic flux at a single marked point at the sigil site on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
+Projects radiant energy at the marked location, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 29 W |
 | Shape | Square |
 | Hook | Emit |
@@ -6351,11 +5561,9 @@ Projects photonic flux at a single marked point at the sigil site on the inscrib
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **DeepPath**
-Projects raw flux at a single marked point within ten feet on the inscribed location, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy within arm's reach at the marked location, producing its effect. Persists for several minutes without further attention. The minimal flux drain makes it practical for repeated use.
 | Wattage | 33 W |
 | Shape | Triangle |
 | Hook | Emit |
@@ -6367,11 +5575,9 @@ Projects raw flux at a single marked point within ten feet on the inscribed loca
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **AnchorFlame**
-Pins photonic flux at a single marked point at the sigil site across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors radiant energy across surfaces, producing its effect. Runs for roughly a minute before dissipating. The minimal flux drain makes it practical for repeated use.
 | Wattage | 34 W |
 | Shape | Square |
 | Hook | Bind |
@@ -6383,11 +5589,9 @@ Pins photonic flux at a single marked point at the sigil site across a chosen su
 | Reach | Self |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **DriftingVoid**
-Projects kinetic force across the inscribed face at the sigil site across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects kinetic force across surfaces, producing its effect. Must be actively maintained, but the minimal flux drain makes it practical for repeated use.
 | Wattage | 21 W |
 | Shape | Triangle |
 | Hook | Emit |

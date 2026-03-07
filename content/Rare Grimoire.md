@@ -15,10 +15,10 @@ Screens soul-signature flux across the inscribed face within fifty feet across o
 | Persistence | Timed (Long) |
 | Target | Filter |
 
----
 
+---
 **AnchorShadow**
-Pins soul-signature flux as a widening forward spread within two hundred feet across a grouped set of targets, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
+Anchors soul-bound flux as a widening cone at extended range, producing its effect.
 | Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -30,11 +30,9 @@ Pins soul-signature flux as a widening forward spread within two hundred feet ac
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
-
 ---
-
 **GuardSeal**
-Projects cognitive signal as a narrow directional line within ten feet on a chosen object, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects psychic force as a focused beam within arm's reach on objects, producing its effect.
 | Wattage | 1407 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -46,11 +44,9 @@ Projects cognitive signal as a narrow directional line within ten feet on a chos
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **SurgeFrost**
-Pins soul-signature flux as a standing column within two hundred feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 4212 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -62,11 +58,9 @@ Pins soul-signature flux as a standing column within two hundred feet on a chose
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **CalmSigil**
-Disrupts soul-signature flux as a wrapped radius around the mark within two hundred feet on a single person, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts soul-bound flux in a spherical burst at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -78,11 +72,9 @@ Disrupts soul-signature flux as a wrapped radius around the mark within two hund
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **ChillFrost**
-Screens soul-signature flux across the inscribed face within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and it stays latched until deliberately dismissed.
+Channels soul-bound flux within arm's reach across surfaces, producing its effect.
 | Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -94,11 +86,9 @@ Screens soul-signature flux across the inscribed face within ten feet across a c
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Surface |
-
 ---
-
 **SurgeDream**
-Reconfigures soul-signature flux as a widening forward spread within two hundred feet on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes soul-bound flux as a widening cone at extended range on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -110,11 +100,9 @@ Reconfigures soul-signature flux as a widening forward spread within two hundred
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **LoneFlame**
-Disrupts cognitive signal across the inscribed face within fifty feet across a grouped set of targets, breaking continuity in an existing or incoming effect, and once stabilized it remains as a permanent working.
+Disrupts psychic force within 50 feet, producing its effect. The effect becomes permanent once established.
 | Wattage | 1825 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -126,11 +114,9 @@ Disrupts cognitive signal across the inscribed face within fifty feet across a g
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
-
 ---
-
 **BreakScar**
-Actively modulates soul-signature flux as a wrapped radius around the mark within ten feet on a chosen object, continuously steering intensity and behavior while active, and it remains in place until its trigger condition is met.
+Channels soul-bound flux in a spherical burst within arm's reach on objects, producing its effect.
 | Wattage | 1557 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -142,11 +128,9 @@ Actively modulates soul-signature flux as a wrapped radius around the mark withi
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **PiercBreath**
-Raises a boundary against cognitive signal as a narrow directional line within ten feet on a single person, forming a defensive layer that rejects incoming influence, and it stays latched until deliberately dismissed.
+Channels psychic force as a focused beam within arm's reach, producing its effect.
 | Wattage | 1433 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -158,11 +142,9 @@ Raises a boundary against cognitive signal as a narrow directional line within t
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Individual |
-
 ---
-
 **PierceBrand**
-Actively modulates soul-signature flux as a standing column within fifty feet across only targets that match the filter, continuously steering intensity and behavior while active, and once stabilized it remains as a permanent working.
+Channels soul-bound flux within 50 feet, producing its effect. The effect becomes permanent once established.
 | Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -174,11 +156,9 @@ Actively modulates soul-signature flux as a standing column within fifty feet ac
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
-
 ---
-
 **WildGate**
-Screens cognitive signal across the inscribed face within fifty feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and once stabilized it remains as a permanent working.
+Channels psychic force within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
 | Wattage | 1795 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -190,11 +170,9 @@ Screens cognitive signal across the inscribed face within fifty feet across a ch
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-
 ---
-
 **FlowThought**
-Raises a boundary against soul-signature flux as a narrow directional line within two hundred feet on a chosen object, forming a defensive layer that rejects incoming influence, and once stabilized it remains as a permanent working.
+Channels soul-bound flux as a focused beam at extended range on objects, producing its effect. The effect becomes permanent once established.
 | Wattage | 1947 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -206,11 +184,9 @@ Raises a boundary against soul-signature flux as a narrow directional line withi
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
-
 ---
-
 **LoudVoid**
-Drives soul-signature flux across the inscribed face within ten feet across only targets that match the filter, forcing displacement along the chosen direction of effect, and it stays latched until deliberately dismissed.
+Channels soul-bound flux within arm's reach, producing its effect.
 | Wattage | 1605 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -222,11 +198,9 @@ Drives soul-signature flux across the inscribed face within ten feet across only
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
-
 ---
-
 **AnchorPulse**
-Reconfigures soul-signature flux as a narrow directional line within ten feet across only targets that match the filter, changing the target state in place, and the working holds for about one minute.
+Reshapes soul-bound flux as a focused beam within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4200 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -238,11 +212,9 @@ Reconfigures soul-signature flux as a narrow directional line within ten feet ac
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Filter |
-
 ---
-
 **DissolvPath**
-Pins soul-signature flux as a standing column within ten feet across a grouped set of targets, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors soul-bound flux within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -254,11 +226,9 @@ Pins soul-signature flux as a standing column within ten feet across a grouped s
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
-
 ---
-
 **ShatterBrand**
-Pins cognitive signal as a circular band around the mark within fifty feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors psychic force within 50 feet across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1415 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -270,11 +240,9 @@ Pins cognitive signal as a circular band around the mark within fifty feet acros
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **LightGlyph**
-Drives cognitive signal as a wrapped radius around the mark within ten feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels psychic force in a spherical burst within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1417 W |
 | Shape | Circle |
 | Hook | Move |
@@ -286,11 +254,9 @@ Drives cognitive signal as a wrapped radius around the mark within ten feet on a
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **AnchorFlame**
-Screens soul-signature flux as a widening forward spread within ten feet on a single person, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels soul-bound flux as a widening cone within arm's reach, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 4158 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -302,11 +268,9 @@ Screens soul-signature flux as a widening forward spread within ten feet on a si
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **SurgeMark**
-Reconfigures soul-signature flux as a widening forward spread within two hundred feet on a single person, changing the target state in place, and the working holds for about one minute.
+Reshapes soul-bound flux as a widening cone at extended range, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1563 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -318,11 +282,9 @@ Reconfigures soul-signature flux as a widening forward spread within two hundred
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **TransformPulse**
-Reads soul-signature flux as a widening forward spread within two hundred feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects soul-bound flux as a widening cone at extended range across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -334,11 +296,9 @@ Reads soul-signature flux as a widening forward spread within two hundred feet a
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **CaptureLight**
-Disrupts soul-signature flux across the inscribed face within ten feet across a grouped set of targets, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts soul-bound flux within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1565 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -350,11 +310,9 @@ Disrupts soul-signature flux across the inscribed face within ten feet across a 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
-
 ---
-
 **CurvedKey**
-Disrupts cognitive signal as a widening forward spread within two hundred feet across only targets that match the filter, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts psychic force as a widening cone at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -366,11 +324,9 @@ Disrupts cognitive signal as a widening forward spread within two hundred feet a
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Filter |
-
 ---
-
 **FreezeFlame**
-Projects soul-signature flux as a narrow directional line within fifty feet across a grouped set of targets, delivering its effect as an active release, and it stays latched until deliberately dismissed.
+Projects soul-bound flux as a focused beam within 50 feet, producing its effect.
 | Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -382,11 +338,9 @@ Projects soul-signature flux as a narrow directional line within fifty feet acro
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
-
 ---
-
 **TransformDance**
-Reads soul-signature flux as a wrapped radius around the mark within two hundred feet across a grouped set of targets, returning readable signal data to the caster, and it stays latched until deliberately dismissed.
+Detects soul-bound flux in a spherical burst at extended range, producing its effect.
 | Wattage | 4270 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -398,11 +352,9 @@ Reads soul-signature flux as a wrapped radius around the mark within two hundred
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
-
 ---
-
 **SurSeal**
-Disrupts cognitive signal as a narrow directional line within two hundred feet across a grouped set of targets, breaking continuity in an existing or incoming effect, and it stays latched until deliberately dismissed.
+Disrupts psychic force as a focused beam at extended range, producing its effect.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -414,11 +366,9 @@ Disrupts cognitive signal as a narrow directional line within two hundred feet a
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Group |
-
 ---
-
 **HeavyRoot**
-Reads cognitive signal as a narrow directional line within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects psychic force as a focused beam within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1392 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -430,11 +380,9 @@ Reads cognitive signal as a narrow directional line within ten feet on a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **DriftBridge**
-Drives cognitive signal as a standing column within two hundred feet across a grouped set of targets, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels psychic force at extended range, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1495 W |
 | Shape | Circle |
 | Hook | Move |
@@ -446,11 +394,9 @@ Drives cognitive signal as a standing column within two hundred feet across a gr
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Group |
-
 ---
-
 **PierceShadow**
-Pins soul-signature flux as a circular band around the mark within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors soul-bound flux within arm's reach on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1532 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -462,11 +408,9 @@ Pins soul-signature flux as a circular band around the mark within ten feet on a
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **ReleasMark**
-Drives soul-signature flux as a widening forward spread within fifty feet on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels soul-bound flux as a widening cone within 50 feet, producing its effect. Persists for several minutes without further attention.
 | Wattage | 4183 W |
 | Shape | Circle |
 | Hook | Move |
@@ -478,11 +422,9 @@ Drives soul-signature flux as a widening forward spread within fifty feet on a s
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **AncientFrost**
-Pins cognitive signal as a narrow directional line within ten feet on a single person, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors psychic force as a focused beam within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1418 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -494,11 +436,9 @@ Pins cognitive signal as a narrow directional line within ten feet on a single p
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **FreezeDance**
-Actively modulates soul-signature flux as a wrapped radius around the mark within ten feet across only targets that match the filter, continuously steering intensity and behavior while active, and once stabilized it remains as a permanent working.
+Channels soul-bound flux in a spherical burst within arm's reach, producing its effect. The effect becomes permanent once established.
 | Wattage | 1995 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -510,11 +450,9 @@ Actively modulates soul-signature flux as a wrapped radius around the mark withi
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Filter |
-
 ---
-
 **CalmScar**
-Actively modulates soul-signature flux as a wrapped radius around the mark within fifty feet across a chosen surface, continuously steering intensity and behavior while active, and once stabilized it remains as a permanent working.
+Channels soul-bound flux in a spherical burst within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -526,11 +464,9 @@ Actively modulates soul-signature flux as a wrapped radius around the mark withi
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-
 ---
-
 **HiddenLock**
-Actively modulates cognitive signal as a wrapped radius around the mark within ten feet across a grouped set of targets, continuously steering intensity and behavior while active, and it stays latched until deliberately dismissed.
+Channels psychic force in a spherical burst within arm's reach, producing its effect.
 | Wattage | 1485 W |
 | Shape | Circle |
 | Hook | Control |
@@ -542,11 +478,9 @@ Actively modulates cognitive signal as a wrapped radius around the mark within t
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Group |
-
 ---
-
 **PierceBreath**
-Disrupts soul-signature flux across the inscribed face within two hundred feet on a single person, breaking continuity in an existing or incoming effect, and once stabilized it remains as a permanent working.
+Disrupts soul-bound flux at extended range, producing its effect. The effect becomes permanent once established.
 | Wattage | 4573 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -558,11 +492,9 @@ Disrupts soul-signature flux across the inscribed face within two hundred feet o
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Individual |
-
 ---
-
 **SweepFlame**
-Actively modulates cognitive signal as a standing column within ten feet across a chosen surface, continuously steering intensity and behavior while active, and the working holds for about one minute.
+Channels psychic force within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Control |
@@ -574,11 +506,9 @@ Actively modulates cognitive signal as a standing column within ten feet across 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BurWisp**
-Raises a boundary against soul-signature flux across the inscribed face within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels soul-bound flux within arm's reach on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 4142 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -590,11 +520,9 @@ Raises a boundary against soul-signature flux across the inscribed face within t
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **AncientSilence**
-Pins cognitive signal as a circular band around the mark within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors psychic force within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -606,11 +534,9 @@ Pins cognitive signal as a circular band around the mark within ten feet across 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SteadyGate**
-Disrupts soul-signature flux as a widening forward spread within fifty feet across a chosen surface, breaking continuity in an existing or incoming effect, and it stays latched until deliberately dismissed.
+Disrupts soul-bound flux as a widening cone within 50 feet across surfaces, producing its effect.
 | Wattage | 1570 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -622,11 +548,9 @@ Disrupts soul-signature flux as a widening forward spread within fifty feet acro
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Surface |
-
 ---
-
 **BindSight**
-Reconfigures soul-signature flux as a wrapped radius around the mark within fifty feet across a grouped set of targets, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes soul-bound flux in a spherical burst within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 4215 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -638,11 +562,9 @@ Reconfigures soul-signature flux as a wrapped radius around the mark within fift
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Group |
-
 ---
-
 **PureMirror**
-Pins soul-signature flux as a narrow directional line within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors soul-bound flux as a focused beam within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4145 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -654,11 +576,9 @@ Pins soul-signature flux as a narrow directional line within ten feet across a c
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **FreezeLight**
-Pins soul-signature flux as a narrow directional line within fifty feet on a single person, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors soul-bound flux as a focused beam within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1538 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -670,11 +590,9 @@ Pins soul-signature flux as a narrow directional line within fifty feet on a sin
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **DullLock**
-Drives soul-signature flux as a narrow directional line within ten feet on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels soul-bound flux as a focused beam within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4148 W |
 | Shape | Circle |
 | Hook | Move |
@@ -686,11 +604,9 @@ Drives soul-signature flux as a narrow directional line within ten feet on a sin
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **ShatterBlessing**
-Drives soul-signature flux across the inscribed face within two hundred feet on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels soul-bound flux at extended range, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1553 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -702,11 +618,9 @@ Drives soul-signature flux across the inscribed face within two hundred feet on 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **SweepDoor**
-Projects cognitive signal as a wrapped radius around the mark within two hundred feet on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects psychic force in a spherical burst at extended range on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1457 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -718,11 +632,9 @@ Projects cognitive signal as a wrapped radius around the mark within two hundred
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **ShatterEcho**
-Reads soul-signature flux as a circular band around the mark within two hundred feet on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
+Detects soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -734,11 +646,9 @@ Reads soul-signature flux as a circular band around the mark within two hundred 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SweepMark**
-Disrupts soul-signature flux as a circular band around the mark within two hundred feet on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1582 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -750,11 +660,9 @@ Disrupts soul-signature flux as a circular band around the mark within two hundr
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **ColdBreath**
-Drives soul-signature flux as a standing column within two hundred feet across only targets that match the filter, forcing displacement along the chosen direction of effect, and it stays latched until deliberately dismissed.
+Channels soul-bound flux at extended range, producing its effect.
 | Wattage | 1660 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -766,11 +674,9 @@ Drives soul-signature flux as a standing column within two hundred feet across o
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
-
 ---
-
 **PiercMirror**
-Pins cognitive signal across the inscribed face within fifty feet on a chosen object, creating a clamp-like hold that resists motion or change, and once stabilized it remains as a permanent working.
+Anchors psychic force within 50 feet on objects, producing its effect. The effect becomes permanent once established.
 | Wattage | 1792 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -782,11 +688,9 @@ Pins cognitive signal across the inscribed face within fifty feet on a chosen ob
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
-
 ---
-
 **FallStrike**
-Reads soul-signature flux as a narrow directional line within two hundred feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects soul-bound flux as a focused beam at extended range across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1560 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -798,11 +702,9 @@ Reads soul-signature flux as a narrow directional line within two hundred feet a
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **StrongSigil**
-Reconfigures cognitive signal as a narrow directional line within ten feet across a chosen surface, changing the target state in place, and once stabilized it remains as a permanent working.
+Reshapes psychic force as a focused beam within arm's reach across surfaces, producing its effect. The effect becomes permanent once established.
 | Wattage | 1790 W |
 | Shape | Circle |
 | Hook | Transform |
@@ -814,11 +716,9 @@ Reconfigures cognitive signal as a narrow directional line within ten feet acros
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-
 ---
-
 **LightVeil**
-Disrupts cognitive signal across the inscribed face within fifty feet across only targets that match the filter, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts psychic force within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1460 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -830,11 +730,9 @@ Disrupts cognitive signal across the inscribed face within fifty feet across onl
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
-
 ---
-
 **TwistDream**
-Screens cognitive signal across the inscribed face within fifty feet across only targets that match the filter, blocking out unwanted components while allowing valid ones through, and once stabilized it remains as a permanent working.
+Channels psychic force within 50 feet, producing its effect. The effect becomes permanent once established.
 | Wattage | 1850 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -846,11 +744,9 @@ Screens cognitive signal across the inscribed face within fifty feet across only
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Filter |
-
 ---
-
 **DissolvFrost**
-Screens cognitive signal as a wrapped radius around the mark within fifty feet on a single person, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels psychic force in a spherical burst within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1438 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -862,11 +758,9 @@ Screens cognitive signal as a wrapped radius around the mark within fifty feet o
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **WeakVeil**
-Reads soul-signature flux as a wrapped radius around the mark within fifty feet on a chosen object, returning readable signal data to the caster, and it stays latched until deliberately dismissed.
+Detects soul-bound flux in a spherical burst within 50 feet on objects, producing its effect.
 | Wattage | 1587 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -878,11 +772,9 @@ Reads soul-signature flux as a wrapped radius around the mark within fifty feet 
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
-
 ---
-
 **BurnRoad**
-Raises a boundary against cognitive signal across the inscribed face within two hundred feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels psychic force at extended range across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1425 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -894,11 +786,9 @@ Raises a boundary against cognitive signal across the inscribed face within two 
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TransformRing**
-Screens soul-signature flux as a standing column within ten feet on a single person, blocking out unwanted components while allowing valid ones through, and once stabilized it remains as a permanent working.
+Channels soul-bound flux within arm's reach, producing its effect. The effect becomes permanent once established.
 | Wattage | 4558 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -910,11 +800,9 @@ Screens soul-signature flux as a standing column within ten feet on a single per
 | Reach | Short (10 ft) |
 | Persistence | Permanent |
 | Target | Individual |
-
 ---
-
 **FallThought**
-Reads soul-signature flux as a widening forward spread within two hundred feet on a chosen object, returning readable signal data to the caster, and the working holds for about one hour.
+Detects soul-bound flux as a widening cone at extended range on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1577 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -926,11 +814,9 @@ Reads soul-signature flux as a widening forward spread within two hundred feet o
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **StillVoid**
-Projects soul-signature flux as a wrapped radius around the mark within two hundred feet on a single person, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects soul-bound flux in a spherical burst at extended range, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 4213 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -942,11 +828,9 @@ Projects soul-signature flux as a wrapped radius around the mark within two hund
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **ChillRoad**
-Pins cognitive signal as a standing column within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors psychic force within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1410 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -958,11 +842,9 @@ Pins cognitive signal as a standing column within ten feet across a chosen surfa
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **StillBreath**
-Projects soul-signature flux as a narrow directional line within two hundred feet across a grouped set of targets, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects soul-bound flux as a focused beam at extended range, producing its effect.
 | Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -974,11 +856,9 @@ Projects soul-signature flux as a narrow directional line within two hundred fee
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Group |
-
 ---
-
 **BreakFlame**
-Screens cognitive signal as a narrow directional line within two hundred feet on a single person, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels psychic force as a focused beam at extended range, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1453 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -990,11 +870,9 @@ Screens cognitive signal as a narrow directional line within two hundred feet on
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **DissolvGlyph**
-Disrupts soul-signature flux as a narrow directional line within ten feet across only targets that match the filter, breaking continuity in an existing or incoming effect, and it stays latched until deliberately dismissed.
+Disrupts soul-bound flux as a focused beam within arm's reach, producing its effect.
 | Wattage | 4235 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1006,11 +884,9 @@ Disrupts soul-signature flux as a narrow directional line within ten feet across
 | Reach | Short (10 ft) |
 | Persistence | Latched |
 | Target | Filter |
-
 ---
-
 **VastGlyph**
-Actively modulates soul-signature flux as a narrow directional line within fifty feet across only targets that match the filter, continuously steering intensity and behavior while active, and it remains in place until its trigger condition is met.
+Channels soul-bound flux as a focused beam within 50 feet, producing its effect.
 | Wattage | 4225 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1022,11 +898,9 @@ Actively modulates soul-signature flux as a narrow directional line within fifty
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Filter |
-
 ---
-
 **DarkBond**
-Reconfigures soul-signature flux as a widening forward spread within fifty feet on a chosen object, changing the target state in place, and it stays latched until deliberately dismissed.
+Reshapes soul-bound flux as a widening cone within 50 feet on objects, producing its effect.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1038,11 +912,9 @@ Reconfigures soul-signature flux as a widening forward spread within fifty feet 
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Object |
-
 ---
-
 **WildSpirit**
-Drives soul-signature flux as a narrow directional line within fifty feet across a grouped set of targets, forcing displacement along the chosen direction of effect, and it stays latched until deliberately dismissed.
+Channels soul-bound flux as a focused beam within 50 feet, producing its effect.
 | Wattage | 1595 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1054,11 +926,9 @@ Drives soul-signature flux as a narrow directional line within fifty feet across
 | Reach | Medium (50 ft) |
 | Persistence | Latched |
 | Target | Group |
-
 ---
-
 **BreakWay**
-Screens soul-signature flux as a narrow directional line within ten feet across a grouped set of targets, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels soul-bound flux as a focused beam within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1550 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1070,11 +940,9 @@ Screens soul-signature flux as a narrow directional line within ten feet across 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
-
 ---
-
 **TwistTouch**
-Drives soul-signature flux across the inscribed face within fifty feet across only targets that match the filter, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels soul-bound flux within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1585 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1086,11 +954,9 @@ Drives soul-signature flux across the inscribed face within fifty feet across on
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Filter |
-
 ---
-
 **WhirlingSigil**
-Disrupts soul-signature flux across the inscribed face within fifty feet across a grouped set of targets, breaking continuity in an existing or incoming effect, and once stabilized it remains as a permanent working.
+Disrupts soul-bound flux within 50 feet, producing its effect. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1102,11 +968,9 @@ Disrupts soul-signature flux across the inscribed face within fifty feet across 
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Group |
-
 ---
-
 **AncientGlyph**
-Pins soul-signature flux as a widening forward spread within two hundred feet on a single person, creating a clamp-like hold that resists motion or change, and it stays latched until deliberately dismissed.
+Anchors soul-bound flux as a widening cone at extended range, producing its effect.
 | Wattage | 1598 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1118,11 +982,9 @@ Pins soul-signature flux as a widening forward spread within two hundred feet on
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Individual |
-
 ---
-
 **StillSpirit**
-Screens soul-signature flux as a narrow directional line within two hundred feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and it stays latched until deliberately dismissed.
+Channels soul-bound flux as a focused beam at extended range across surfaces, producing its effect.
 | Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1134,11 +996,9 @@ Screens soul-signature flux as a narrow directional line within two hundred feet
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
-
 ---
-
 **BindMark**
-Actively modulates soul-signature flux across the inscribed face within ten feet across a chosen surface, continuously steering intensity and behavior while active, and it remains in place until its trigger condition is met.
+Channels soul-bound flux within arm's reach across surfaces, producing its effect.
 | Wattage | 4155 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1150,11 +1010,9 @@ Actively modulates soul-signature flux across the inscribed face within ten feet
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **ColdVoid**
-Reads soul-signature flux across the inscribed face within ten feet across a grouped set of targets, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects soul-bound flux within arm's reach, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 4175 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1166,11 +1024,9 @@ Reads soul-signature flux across the inscribed face within ten feet across a gro
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Group |
-
 ---
-
 **SweepCore**
-Pins cognitive signal as a widening forward spread within ten feet across a grouped set of targets, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors psychic force as a widening cone within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1430 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -1182,11 +1038,9 @@ Pins cognitive signal as a widening forward spread within ten feet across a grou
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
-
 ---
-
 **ShatterBreath**
-Reads soul-signature flux as a wrapped radius around the mark within fifty feet across a chosen surface, returning readable signal data to the caster, and once stabilized it remains as a permanent working.
+Detects soul-bound flux in a spherical burst within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1198,11 +1052,9 @@ Reads soul-signature flux as a wrapped radius around the mark within fifty feet 
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-
 ---
-
 **DriftLock**
-Reconfigures soul-signature flux as a circular band around the mark within two hundred feet on a single person, changing the target state in place, and the working holds for about one hour.
+Reshapes soul-bound flux at extended range, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1588 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1214,11 +1066,9 @@ Reconfigures soul-signature flux as a circular band around the mark within two h
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **ColdSoul**
-Actively modulates cognitive signal as a widening forward spread within two hundred feet across a chosen surface, continuously steering intensity and behavior while active, and the working holds for about one minute.
+Channels psychic force as a widening cone at extended range across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1435 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1230,11 +1080,9 @@ Actively modulates cognitive signal as a widening forward spread within two hund
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BindWard**
-Raises a boundary against cognitive signal as a circular band around the mark within two hundred feet on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels psychic force at extended range on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1442 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -1246,11 +1094,9 @@ Raises a boundary against cognitive signal as a circular band around the mark wi
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **FreezeTide**
-Screens soul-signature flux as a standing column within two hundred feet on a chosen object, blocking out unwanted components while allowing valid ones through, and it stays latched until deliberately dismissed.
+Channels soul-bound flux at extended range on objects, producing its effect.
 | Wattage | 1602 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1262,11 +1108,9 @@ Screens soul-signature flux as a standing column within two hundred feet on a ch
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Object |
-
 ---
-
 **SlowCrown**
-Raises a boundary against soul-signature flux as a circular band around the mark within two hundred feet on a chosen object, forming a defensive layer that rejects incoming influence, and once stabilized it remains as a permanent working.
+Channels soul-bound flux at extended range on objects, producing its effect. The effect becomes permanent once established.
 | Wattage | 1957 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1278,11 +1122,9 @@ Raises a boundary against soul-signature flux as a circular band around the mark
 | Reach | Long (200 ft) |
 | Persistence | Permanent |
 | Target | Object |
-
 ---
-
 **PierceFrost**
-Screens cognitive signal as a circular band around the mark within ten feet on a single person, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels psychic force within arm's reach, producing its effect.
 | Wattage | 1423 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1294,11 +1136,9 @@ Screens cognitive signal as a circular band around the mark within ten feet on a
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **DissolvCurse**
-Screens soul-signature flux as a circular band around the mark within fifty feet on a chosen object, blocking out unwanted components while allowing valid ones through, and once stabilized it remains as a permanent working.
+Channels soul-bound flux within 50 feet on objects, producing its effect. The effect becomes permanent once established.
 | Wattage | 4557 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1310,11 +1150,9 @@ Screens soul-signature flux as a circular band around the mark within fifty feet
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Object |
-
 ---
-
 **LoudBond**
-Disrupts soul-signature flux as a circular band around the mark within fifty feet across a chosen surface, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts soul-bound flux within 50 feet across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1545 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1326,11 +1164,9 @@ Disrupts soul-signature flux as a circular band around the mark within fifty fee
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **GuardRoot**
-Reads cognitive signal as a circular band around the mark within two hundred feet across a chosen surface, returning readable signal data to the caster, and it stays latched until deliberately dismissed.
+Detects psychic force at extended range across surfaces, producing its effect.
 | Wattage | 1475 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1342,11 +1178,9 @@ Reads cognitive signal as a circular band around the mark within two hundred fee
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Surface |
-
 ---
-
 **WeavHand**
-Projects cognitive signal as a narrow directional line within ten feet on a single person, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects psychic force as a focused beam within arm's reach, producing its effect.
 | Wattage | 1413 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -1358,11 +1192,9 @@ Projects cognitive signal as a narrow directional line within ten feet on a sing
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **SolidStorm**
-Screens soul-signature flux as a standing column within two hundred feet on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels soul-bound flux at extended range on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1374,11 +1206,9 @@ Screens soul-signature flux as a standing column within two hundred feet on a ch
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ShallowHalo**
-Drives soul-signature flux as a wrapped radius around the mark within two hundred feet on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels soul-bound flux in a spherical burst at extended range, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4208 W |
 | Shape | Circle |
 | Hook | Move |
@@ -1390,11 +1220,9 @@ Drives soul-signature flux as a wrapped radius around the mark within two hundre
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **TwinFrost**
-Pins soul-signature flux as a widening forward spread within two hundred feet across only targets that match the filter, creating a clamp-like hold that resists motion or change, and it stays latched until deliberately dismissed.
+Anchors soul-bound flux as a widening cone at extended range, producing its effect.
 | Wattage | 4275 W |
 | Shape | Circle |
 | Hook | Bind |
@@ -1406,11 +1234,9 @@ Pins soul-signature flux as a widening forward spread within two hundred feet ac
 | Reach | Long (200 ft) |
 | Persistence | Latched |
 | Target | Filter |
-
 ---
-
 **ClearCurse**
-Screens cognitive signal as a widening forward spread within two hundred feet on a chosen object, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels psychic force as a widening cone at extended range on objects, producing its effect.
 | Wattage | 1447 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -1422,11 +1248,9 @@ Screens cognitive signal as a widening forward spread within two hundred feet on
 | Reach | Long (200 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **BindFlame**
-Disrupts cognitive signal as a narrow directional line within fifty feet across a grouped set of targets, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
+Disrupts psychic force as a focused beam within 50 feet, producing its effect.
 | Wattage | 1450 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1438,11 +1262,9 @@ Disrupts cognitive signal as a narrow directional line within fifty feet across 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
-
 ---
-
 **AnchoredGate**
-Reads soul-signature flux as a wrapped radius around the mark within two hundred feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
+Detects soul-bound flux in a spherical burst at extended range across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1454,11 +1276,9 @@ Reads soul-signature flux as a wrapped radius around the mark within two hundred
 | Reach | Long (200 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **TwistNet**
-Raises a boundary against soul-signature flux as a standing column within two hundred feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels soul-bound flux at extended range across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1590 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1470,11 +1290,9 @@ Raises a boundary against soul-signature flux as a standing column within two hu
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **AnchorCalm**
-Actively modulates cognitive signal as a narrow directional line within ten feet across a chosen surface, continuously steering intensity and behavior while active, and the working holds for about one minute.
+Channels psychic force as a focused beam within arm's reach across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1395 W |
 | Shape | Circle |
 | Hook | Control |
@@ -1486,11 +1304,9 @@ Actively modulates cognitive signal as a narrow directional line within ten feet
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **SweepPulse**
-Pins soul-signature flux across the inscribed face within fifty feet across a grouped set of targets, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors soul-bound flux within 50 feet, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 1555 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1502,11 +1318,9 @@ Pins soul-signature flux across the inscribed face within fifty feet across a gr
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Group |
-
 ---
-
 **CaptureCurse**
-Screens soul-signature flux across the inscribed face within two hundred feet on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels soul-bound flux at extended range on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 1567 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1518,11 +1332,9 @@ Screens soul-signature flux across the inscribed face within two hundred feet on
 | Reach | Long (200 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **AnchorSeal**
-Reads soul-signature flux as a widening forward spread within fifty feet across a grouped set of targets, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects soul-bound flux as a widening cone within 50 feet, producing its effect.
 | Wattage | 4205 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -1534,11 +1346,9 @@ Reads soul-signature flux as a widening forward spread within fifty feet across 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Group |
-
 ---
-
 **FreezChain**
-Disrupts soul-signature flux as a standing column within fifty feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one minute.
+Disrupts soul-bound flux within 50 feet across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Counter |
@@ -1550,11 +1360,9 @@ Disrupts soul-signature flux as a standing column within fifty feet across a cho
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **FallCurse**
-Drives cognitive signal as a widening forward spread within two hundred feet on a chosen object, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels psychic force as a widening cone at extended range on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 1437 W |
 | Shape | Circle |
 | Hook | Move |
@@ -1566,11 +1374,9 @@ Drives cognitive signal as a widening forward spread within two hundred feet on 
 | Reach | Long (200 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **GentleKnot**
-Actively modulates soul-signature flux as a wrapped radius around the mark within fifty feet across a chosen surface, continuously steering intensity and behavior while active, and once stabilized it remains as a permanent working.
+Channels soul-bound flux in a spherical burst within 50 feet across surfaces, producing its effect. The effect becomes permanent once established.
 | Wattage | 1950 W |
 | Shape | Pentagon |
 | Hook | Control |
@@ -1582,11 +1388,9 @@ Actively modulates soul-signature flux as a wrapped radius around the mark withi
 | Reach | Medium (50 ft) |
 | Persistence | Permanent |
 | Target | Surface |
-
 ---
-
 **SweepPath**
-Raises a boundary against soul-signature flux as a widening forward spread within ten feet across a chosen surface, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels soul-bound flux as a widening cone within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 4170 W |
 | Shape | Circle |
 | Hook | Ward |

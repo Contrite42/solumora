@@ -15,10 +15,10 @@ Projects cognitive signal as a widening forward spread within fifty feet on the 
 | Persistence | Sustained |
 | Target | Where Written |
 
----
 
+---
 **WarmCurse**
-Reads reactive compounds as a standing column within fifty feet on a single person, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy within 50 feet, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -30,11 +30,9 @@ Reads reactive compounds as a standing column within fifty feet on a single pers
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **StrongBond**
-Reconfigures binding tension across the inscribed face within ten feet across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes flux energy within arm's reach across surfaces, immobilizing the target.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -46,11 +44,9 @@ Reconfigures binding tension across the inscribed face within ten feet across a 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **PierceFlame**
-Disrupts electrical charge as a circular band around the mark within fifty feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one minute.
+Disrupts flux energy within 50 feet across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -62,11 +58,9 @@ Disrupts electrical charge as a circular band around the mark within fifty feet 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BurShroud**
-Screens cognitive signal as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels psychic force as a focused beam within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -78,11 +72,9 @@ Screens cognitive signal as a narrow directional line within ten feet on the ins
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **ReleasSigil**
-Raises a boundary against cognitive signal as a standing column at touch range on a single person, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
+Channels psychic force at point of contact, producing its effect.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Ward |
@@ -94,11 +86,9 @@ Raises a boundary against cognitive signal as a standing column at touch range o
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **SurgeRoad**
-Reads cognitive signal as a standing column within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
+Detects psychic force within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 555 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -110,11 +100,9 @@ Reads cognitive signal as a standing column within ten feet across a chosen surf
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SweepSpirit**
-Disrupts electrical charge as a standing column at touch range across a chosen surface, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts flux energy at point of contact across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -126,11 +114,9 @@ Disrupts electrical charge as a standing column at touch range across a chosen s
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **VividThread**
-Reconfigures binding tension as a widening forward spread within ten feet across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes flux energy as a widening cone within arm's reach across surfaces, immobilizing the target.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -142,11 +128,9 @@ Reconfigures binding tension as a widening forward spread within ten feet across
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **ShallowLock**
-Screens cognitive signal as a standing column within fifty feet on a single person, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels psychic force within 50 feet, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 553 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -158,11 +142,9 @@ Screens cognitive signal as a standing column within fifty feet on a single pers
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **AnchorLock**
-Screens reactive compounds as a circular band around the mark within ten feet on a single person, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -174,11 +156,9 @@ Screens reactive compounds as a circular band around the mark within ten feet on
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **SolidWisp**
-Drives cognitive signal across the inscribed face at touch range across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels psychic force at point of contact across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -190,11 +170,9 @@ Drives cognitive signal across the inscribed face at touch range across a chosen
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **SolidSigil**
-Screens binding tension across the inscribed face at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy at point of contact at the marked location, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 207 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -206,11 +184,9 @@ Screens binding tension across the inscribed face at touch range on the inscribe
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **KindleWay**
-Disrupts reactive compounds as a standing column at touch range on the inscribed location, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
+Disrupts flux energy at point of contact at the marked location, producing its effect.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -222,11 +198,9 @@ Disrupts reactive compounds as a standing column at touch range on the inscribed
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **CaptureDance**
-Reads binding tension as a circular band around the mark within fifty feet on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy within 50 feet on objects, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -238,11 +212,9 @@ Reads binding tension as a circular band around the mark within fifty feet on a 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **KindleStorm**
-Raises a boundary against binding tension across the inscribed face within ten feet on a single person, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy within arm's reach, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 218 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -254,11 +226,9 @@ Raises a boundary against binding tension across the inscribed face within ten f
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **TwistMark**
-Disrupts electrical charge as a standing column within fifty feet on a single person, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts flux energy within 50 feet, producing its effect. Persists for several minutes without further attention.
 | Wattage | 168 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -270,11 +240,9 @@ Disrupts electrical charge as a standing column within fifty feet on a single pe
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **PaleWard**
-Pins cognitive signal as a standing column within ten feet on a single person, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors psychic force within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 558 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -286,11 +254,9 @@ Pins cognitive signal as a standing column within ten feet on a single person, c
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **RiseStorm**
-Reads reactive compounds as a standing column within ten feet across a chosen surface, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects flux energy within arm's reach across surfaces, producing its effect.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -302,11 +268,9 @@ Reads reactive compounds as a standing column within ten feet across a chosen su
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **PiercPulse**
-Pins reactive compounds as a standing column within fifty feet across a chosen surface, creating a clamp-like hold that resists motion or change.
+Anchors flux energy within 50 feet across surfaces, producing its effect.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -318,11 +282,9 @@ Pins reactive compounds as a standing column within fifty feet across a chosen s
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **TwistStorm**
-Raises a boundary against reactive compounds as a widening forward spread within fifty feet on a single person, forming a defensive layer that rejects incoming influence.
+Channels flux energy as a widening cone within 50 feet, producing its effect.
 | Wattage | 133 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -334,11 +296,9 @@ Raises a boundary against reactive compounds as a widening forward spread within
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **TwistVeil**
-Raises a boundary against reactive compounds as a standing column within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
+Channels flux energy within arm's reach on objects, producing its effect.
 | Wattage | 147 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -350,11 +310,9 @@ Raises a boundary against reactive compounds as a standing column within ten fee
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **HeavyKnot**
-Reads cognitive signal as a widening forward spread at touch range on a single person, returning readable signal data to the caster, and the working holds for about one minute.
+Detects psychic force as a widening cone at point of contact, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -366,11 +324,9 @@ Reads cognitive signal as a widening forward spread at touch range on a single p
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **DissolveStorm**
-Pins cognitive signal as a widening forward spread within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors psychic force as a widening cone within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -382,11 +338,9 @@ Pins cognitive signal as a widening forward spread within ten feet across a chos
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **DissolveLight**
-Screens reactive compounds as a narrow directional line at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy as a focused beam at point of contact at the marked location, producing its effect. Persists for several minutes without further attention.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -398,11 +352,9 @@ Screens reactive compounds as a narrow directional line at touch range on the in
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **SurEcho**
-Projects cognitive signal as a widening forward spread within ten feet across a chosen surface, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects psychic force as a widening cone within arm's reach across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Emit |
@@ -414,11 +366,9 @@ Projects cognitive signal as a widening forward spread within ten feet across a 
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **CaptureBlessing**
-Disrupts electrical charge as a standing column within ten feet on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts flux energy within arm's reach on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -430,11 +380,9 @@ Disrupts electrical charge as a standing column within ten feet on a chosen obje
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **BindRune**
-Disrupts cognitive signal as a standing column at touch range on the inscribed location, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
+Disrupts psychic force at point of contact at the marked location, producing its effect.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Counter |
@@ -446,11 +394,9 @@ Disrupts cognitive signal as a standing column at touch range on the inscribed l
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **PierceWay**
-Drives cognitive signal as a widening forward spread within ten feet on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels psychic force as a widening cone within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 548 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -462,11 +408,9 @@ Drives cognitive signal as a widening forward spread within ten feet on a single
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **PierceSight**
-Screens electrical charge as a widening forward spread within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy as a widening cone within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -478,11 +422,9 @@ Screens electrical charge as a widening forward spread within ten feet across a 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **AnchorSigil**
-Disrupts electrical charge as a standing column within ten feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -494,11 +436,9 @@ Disrupts electrical charge as a standing column within ten feet across a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **BreakVeil**
-Reconfigures binding tension as a narrow directional line within ten feet on a single person, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy as a focused beam within arm's reach, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -510,11 +450,9 @@ Reconfigures binding tension as a narrow directional line within ten feet on a s
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **SteadyVoid**
-Reconfigures binding tension as a widening forward spread within ten feet on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy as a widening cone within arm's reach on objects, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -526,11 +464,9 @@ Reconfigures binding tension as a widening forward spread within ten feet on a c
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **ChillShadow**
-Drives cognitive signal as a standing column within fifty feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels psychic force within 50 feet on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Move |
@@ -542,11 +478,9 @@ Drives cognitive signal as a standing column within fifty feet on a chosen objec
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **KindleMark**
-Screens binding tension across the inscribed face at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy at point of contact on objects, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -558,11 +492,9 @@ Screens binding tension across the inscribed face at touch range on a chosen obj
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **RestlessCurse**
-Pins cognitive signal as a circular band around the mark within fifty feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors psychic force within 50 feet on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 557 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -574,11 +506,9 @@ Pins cognitive signal as a circular band around the mark within fifty feet on a 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **LoudAura**
-Screens electrical charge as a widening forward spread at touch range on a single person, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels flux energy as a widening cone at point of contact, producing its effect.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -590,11 +520,9 @@ Screens electrical charge as a widening forward spread at touch range on a singl
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **RiseBrand**
-Drives cognitive signal as a circular band around the mark within ten feet across a chosen surface, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
+Channels psychic force within arm's reach across surfaces, producing its effect.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -606,11 +534,9 @@ Drives cognitive signal as a circular band around the mark within ten feet acros
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **WildVoid**
-Screens reactive compounds as a standing column at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy at point of contact across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -622,11 +548,9 @@ Screens reactive compounds as a standing column at touch range across a chosen s
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **PierceDream**
-Projects binding tension as a standing column within ten feet on a chosen object, delivering its effect as an active release.
+Projects flux energy within arm's reach on objects, immobilizing the target.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -638,11 +562,9 @@ Projects binding tension as a standing column within ten feet on a chosen object
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **SweepShroud**
-Raises a boundary against cognitive signal as a standing column within fifty feet on a chosen object, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
+Channels psychic force within 50 feet on objects, producing its effect.
 | Wattage | 257 W |
 | Shape | Square |
 | Hook | Ward |
@@ -654,11 +576,9 @@ Raises a boundary against cognitive signal as a standing column within fifty fee
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **BurningRune**
-Reads cognitive signal as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster.
+Detects psychic force as a widening cone at point of contact at the marked location, producing its effect.
 | Wattage | 212 W |
 | Shape | Square |
 | Hook | Sense |
@@ -670,11 +590,9 @@ Reads cognitive signal as a widening forward spread at touch range on the inscri
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **CalmCurse**
-Reads cognitive signal as a widening forward spread within fifty feet on a chosen object, returning readable signal data to the caster.
+Detects psychic force as a widening cone within 50 feet on objects, producing its effect.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Sense |
@@ -686,11 +604,9 @@ Reads cognitive signal as a widening forward spread within fifty feet on a chose
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **HeavyVoice**
-Raises a boundary against reactive compounds as a circular band around the mark within fifty feet on the inscribed location, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels flux energy within 50 feet at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -702,11 +618,9 @@ Raises a boundary against reactive compounds as a circular band around the mark 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **DriftingCharm**
-Screens cognitive signal as a widening forward spread within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels psychic force as a widening cone within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -718,11 +632,9 @@ Screens cognitive signal as a widening forward spread within ten feet on the ins
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **FrozenBreath**
-Drives cognitive signal as a narrow directional line at touch range on a single person, forcing displacement along the chosen direction of effect, and the working holds for about one hour.
+Channels psychic force as a focused beam at point of contact, producing its effect. Persists for several minutes without further attention.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -734,11 +646,9 @@ Drives cognitive signal as a narrow directional line at touch range on a single 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **PiercePulse**
-Screens electrical charge across the inscribed face within fifty feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels flux energy within 50 feet at the marked location, producing its effect.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -750,11 +660,9 @@ Screens electrical charge across the inscribed face within fifty feet on the ins
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **HeavyAura**
-Drives reactive compounds as a standing column within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect.
+Channels flux energy within 50 feet across surfaces, producing its effect.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -766,11 +674,9 @@ Drives reactive compounds as a standing column within fifty feet across a chosen
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **TaintedGate**
-Raises a boundary against cognitive signal as a narrow directional line within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one minute.
+Channels psychic force as a focused beam within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 517 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -782,11 +688,9 @@ Raises a boundary against cognitive signal as a narrow directional line within t
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **GuardBrand**
-Disrupts binding tension across the inscribed face within fifty feet on a chosen object, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
+Disrupts flux energy within 50 feet on objects, immobilizing the target.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -798,11 +702,9 @@ Disrupts binding tension across the inscribed face within fifty feet on a chosen
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **KindlMark**
-Disrupts cognitive signal as a narrow directional line within fifty feet on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one minute.
+Disrupts psychic force as a focused beam within 50 feet on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Counter |
@@ -814,11 +716,9 @@ Disrupts cognitive signal as a narrow directional line within fifty feet on a ch
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **AncientWard**
-Reads cognitive signal as a narrow directional line within ten feet across a chosen surface, returning readable signal data to the caster.
+Detects psychic force as a focused beam within arm's reach across surfaces, producing its effect.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -830,11 +730,9 @@ Reads cognitive signal as a narrow directional line within ten feet across a cho
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **ReleaseStorm**
-Disrupts binding tension across the inscribed face at touch range on the inscribed location, breaking continuity in an existing or incoming effect.
+Disrupts flux energy at point of contact at the marked location, immobilizing the target.
 | Wattage | 202 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -846,11 +744,9 @@ Disrupts binding tension across the inscribed face at touch range on the inscrib
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **BurPath**
-Disrupts cognitive signal as a standing column at touch range on a single person, breaking continuity in an existing or incoming effect, and it remains in place until its trigger condition is met.
+Disrupts psychic force at point of contact, producing its effect.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -862,11 +758,9 @@ Disrupts cognitive signal as a standing column at touch range on a single person
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **ChillDream**
-Raises a boundary against binding tension across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy at point of contact on objects, immobilizing the target.
 | Wattage | 204 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -878,11 +772,9 @@ Raises a boundary against binding tension across the inscribed face at touch ran
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BindThought**
-Projects cognitive signal as a narrow directional line at touch range on a chosen object, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects psychic force as a focused beam at point of contact on objects, producing its effect.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -894,11 +786,9 @@ Projects cognitive signal as a narrow directional line at touch range on a chose
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **BurnCurse**
-Pins cognitive signal as a narrow directional line within fifty feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors psychic force as a focused beam within 50 feet at the marked location, producing its effect. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -910,11 +800,9 @@ Pins cognitive signal as a narrow directional line within fifty feet on the insc
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **DriftHeart**
-Reconfigures cognitive signal as a narrow directional line within ten feet on the inscribed location, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes psychic force as a focused beam within arm's reach at the marked location, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -926,11 +814,9 @@ Reconfigures cognitive signal as a narrow directional line within ten feet on th
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **ClearCharm**
-Pins binding tension across the inscribed face within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
+Anchors flux energy within arm's reach at the marked location, immobilizing the target.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -942,11 +828,9 @@ Pins binding tension across the inscribed face within ten feet on the inscribed 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **GuardTide**
-Reads reactive compounds as a standing column within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy within 50 feet at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -958,11 +842,9 @@ Reads reactive compounds as a standing column within fifty feet on the inscribed
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **StraightShell**
-Screens binding tension as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels flux energy as a focused beam within arm's reach at the marked location, immobilizing the target.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -974,11 +856,9 @@ Screens binding tension as a narrow directional line within ten feet on the insc
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **ReleasEcho**
-Reads cognitive signal across the inscribed face within fifty feet on a chosen object, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects psychic force within 50 feet on objects, producing its effect.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Sense |
@@ -990,11 +870,9 @@ Reads cognitive signal across the inscribed face within fifty feet on a chosen o
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **GuardScar**
-Drives electrical charge as a widening forward spread within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels flux energy as a widening cone within 50 feet across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1006,11 +884,9 @@ Drives electrical charge as a widening forward spread within fifty feet across a
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **KindleTouch**
-Reconfigures cognitive signal across the inscribed face within ten feet across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes psychic force within arm's reach across surfaces, producing its effect.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1022,11 +898,9 @@ Reconfigures cognitive signal across the inscribed face within ten feet across a
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **SweepBrand**
-Reads cognitive signal across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
+Detects psychic force within 50 feet at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1038,11 +912,9 @@ Reads cognitive signal across the inscribed face within fifty feet on the inscri
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **TaintedVoice**
-Reads binding tension as a narrow directional line within fifty feet on the inscribed location, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects flux energy as a focused beam within 50 feet at the marked location, immobilizing the target.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1054,11 +926,9 @@ Reads binding tension as a narrow directional line within fifty feet on the insc
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **KindleBrand**
-Screens binding tension as a standing column within ten feet on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach on objects, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1070,11 +940,9 @@ Screens binding tension as a standing column within ten feet on a chosen object,
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **GrandWard**
-Reads binding tension as a widening forward spread within fifty feet on a single person, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy as a widening cone within 50 feet, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1086,11 +954,9 @@ Reads binding tension as a widening forward spread within fifty feet on a single
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **GuardCore**
-Screens electrical charge as a standing column within fifty feet on a chosen object, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels flux energy within 50 feet on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1102,11 +968,9 @@ Screens electrical charge as a standing column within fifty feet on a chosen obj
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **StraightFrost**
-Reads cognitive signal as a widening forward spread at touch range on a chosen object, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects psychic force as a widening cone at point of contact on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 224 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1118,11 +982,9 @@ Reads cognitive signal as a widening forward spread at touch range on a chosen o
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **BreakPath**
-Reads binding tension as a narrow directional line within ten feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy as a focused beam within arm's reach across surfaces, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1134,11 +996,9 @@ Reads binding tension as a narrow directional line within ten feet across a chos
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **TameRune**
-Reads cognitive signal as a narrow directional line within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects psychic force as a focused beam within 50 feet at the marked location, producing its effect. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1150,11 +1010,9 @@ Reads cognitive signal as a narrow directional line within fifty feet on the ins
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **ClearDoor**
-Reads cognitive signal as a circular band around the mark within fifty feet on the inscribed location, returning readable signal data to the caster.
+Detects psychic force within 50 feet at the marked location, producing its effect.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1166,11 +1024,9 @@ Reads cognitive signal as a circular band around the mark within fifty feet on t
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **SharpBoon**
-Reads electrical charge as a narrow directional line within fifty feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy as a focused beam within 50 feet across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1182,11 +1038,9 @@ Reads electrical charge as a narrow directional line within fifty feet across a 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **FreezChain**
-Reconfigures binding tension as a standing column within fifty feet on a single person, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy within 50 feet, immobilizing the target. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1198,11 +1052,9 @@ Reconfigures binding tension as a standing column within fifty feet on a single 
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **StraightRune**
-Reads electrical charge as a standing column within fifty feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy within 50 feet across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 165 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1214,11 +1066,9 @@ Reads electrical charge as a standing column within fifty feet across a chosen s
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **BrightKnot**
-Projects cognitive signal as a widening forward spread within fifty feet on a single person, delivering its effect as an active release.
+Projects psychic force as a widening cone within 50 feet, producing its effect.
 | Wattage | 533 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1230,11 +1080,9 @@ Projects cognitive signal as a widening forward spread within fifty feet on a si
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **BurningWeb**
-Reconfigures reactive compounds as a standing column within ten feet on the inscribed location, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes flux energy within arm's reach at the marked location, producing its effect.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1246,11 +1094,9 @@ Reconfigures reactive compounds as a standing column within ten feet on the insc
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **CapturNet**
-Reads cognitive signal as a circular band around the mark within ten feet across a chosen surface, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects psychic force within arm's reach across surfaces, producing its effect.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1262,11 +1108,9 @@ Reads cognitive signal as a circular band around the mark within ten feet across
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **BindBrand**
-Reads binding tension across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy within 50 feet at the marked location, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1278,11 +1122,9 @@ Reads binding tension across the inscribed face within fifty feet on the inscrib
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **ShallowDoor**
-Drives binding tension as a narrow directional line within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
+Channels flux energy as a focused beam within 50 feet across surfaces, immobilizing the target.
 | Wattage | 245 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1294,11 +1136,9 @@ Drives binding tension as a narrow directional line within fifty feet across a c
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **DriftDance**
-Screens reactive compounds as a widening forward spread at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels flux energy as a widening cone at point of contact at the marked location, producing its effect.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1310,11 +1150,9 @@ Screens reactive compounds as a widening forward spread at touch range on the in
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **TwistShell**
-Disrupts cognitive signal as a standing column at touch range on a single person, breaking continuity in an existing or incoming effect, and the working holds for about one minute.
+Disrupts psychic force at point of contact, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1326,11 +1164,9 @@ Disrupts cognitive signal as a standing column at touch range on a single person
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **DarkCage**
-Drives cognitive signal as a standing column within fifty feet across a chosen surface, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels psychic force within 50 feet across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Move |
@@ -1342,11 +1178,9 @@ Drives cognitive signal as a standing column within fifty feet across a chosen s
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **DissolveRoad**
-Reconfigures cognitive signal as a circular band around the mark within fifty feet on a chosen object, changing the target state in place, and the working holds for about one minute.
+Reshapes psychic force within 50 feet on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1358,11 +1192,9 @@ Reconfigures cognitive signal as a circular band around the mark within fifty fe
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **DriftBrand**
-Projects binding tension as a widening forward spread within ten feet on a chosen object, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy as a widening cone within arm's reach on objects, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1374,11 +1206,9 @@ Projects binding tension as a widening forward spread within ten feet on a chose
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **TaintedStorm**
-Reads cognitive signal as a narrow directional line within ten feet across a chosen surface, returning readable signal data to the caster.
+Detects psychic force as a focused beam within arm's reach across surfaces, producing its effect.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1390,11 +1220,9 @@ Reads cognitive signal as a narrow directional line within ten feet across a cho
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **BurningCharm**
-Drives cognitive signal across the inscribed face within fifty feet on a single person, forcing displacement along the chosen direction of effect, and it remains in place until its trigger condition is met.
+Channels psychic force within 50 feet, producing its effect.
 | Wattage | 543 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1406,11 +1234,9 @@ Drives cognitive signal across the inscribed face within fifty feet on a single 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **ShatterSeal**
-Reads cognitive signal as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects psychic force as a widening cone at point of contact at the marked location, producing its effect. Persists for several minutes without further attention.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1422,11 +1248,9 @@ Reads cognitive signal as a widening forward spread at touch range on the inscri
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **GuardWard**
-Reads binding tension across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy within 50 feet at the marked location, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 220 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1438,11 +1262,9 @@ Reads binding tension across the inscribed face within fifty feet on the inscrib
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **TransformSight**
-Raises a boundary against electrical charge as a circular band around the mark at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy at point of contact on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 144 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1454,11 +1276,9 @@ Raises a boundary against electrical charge as a circular band around the mark a
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **RiseStrike**
-Pins reactive compounds as a circular band around the mark within fifty feet on a single person, creating a clamp-like hold that resists motion or change.
+Anchors flux energy within 50 feet, producing its effect.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1470,11 +1290,9 @@ Pins reactive compounds as a circular band around the mark within fifty feet on 
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **RisBoon**
-Disrupts binding tension as a standing column at touch range on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts flux energy at point of contact on objects, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 249 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1486,11 +1304,9 @@ Disrupts binding tension as a standing column at touch range on a chosen object,
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **ShatterBond**
-Reads cognitive signal as a widening forward spread within fifty feet on the inscribed location, returning readable signal data to the caster, and the working holds for about one hour.
+Detects psychic force as a widening cone within 50 feet at the marked location, producing its effect. Persists for several minutes without further attention.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1502,11 +1318,9 @@ Reads cognitive signal as a widening forward spread within fifty feet on the ins
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **WeavePulse**
-Reconfigures cognitive signal as a standing column at touch range on a single person, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes psychic force at point of contact, producing its effect.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1518,11 +1332,9 @@ Reconfigures cognitive signal as a standing column at touch range on a single pe
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **ReleaseTide**
-Projects binding tension as a narrow directional line at touch range on the inscribed location, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy as a focused beam at point of contact at the marked location, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1534,11 +1346,9 @@ Projects binding tension as a narrow directional line at touch range on the insc
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **GuardSpirit**
-Reads cognitive signal across the inscribed face within ten feet across a chosen surface, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects psychic force within arm's reach across surfaces, producing its effect.
 | Wattage | 530 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1550,11 +1360,9 @@ Reads cognitive signal across the inscribed face within ten feet across a chosen
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **TwistSpirit**
-Reads reactive compounds across the inscribed face within fifty feet on a single person, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects flux energy within 50 feet, producing its effect.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1566,11 +1374,9 @@ Reads reactive compounds across the inscribed face within fifty feet on a single
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **BreakBreath**
-Raises a boundary against cognitive signal across the inscribed face within ten feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
+Channels psychic force within arm's reach at the marked location, producing its effect.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1582,11 +1388,9 @@ Raises a boundary against cognitive signal across the inscribed face within ten 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **FreezeStrike**
-Disrupts cognitive signal as a standing column within ten feet on the inscribed location, breaking continuity in an existing or incoming effect.
+Disrupts psychic force within arm's reach at the marked location, producing its effect.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1598,11 +1402,9 @@ Disrupts cognitive signal as a standing column within ten feet on the inscribed 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **AnchorVeil**
-Reads reactive compounds as a standing column within ten feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1614,11 +1416,9 @@ Reads reactive compounds as a standing column within ten feet across a chosen su
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **ChillCrown**
-Projects cognitive signal as a standing column within ten feet on a chosen object, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects psychic force within arm's reach on objects, producing its effect.
 | Wattage | 547 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1630,11 +1430,9 @@ Projects cognitive signal as a standing column within ten feet on a chosen objec
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **BurnRoad**
-Pins electrical charge as a standing column within fifty feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy within 50 feet at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1646,11 +1444,9 @@ Pins electrical charge as a standing column within fifty feet on the inscribed l
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **GuardLight**
-Reconfigures reactive compounds as a narrow directional line within ten feet on a single person, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy as a focused beam within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1662,11 +1458,9 @@ Reconfigures reactive compounds as a narrow directional line within ten feet on 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **DissolveFlame**
-Disrupts reactive compounds as a standing column within fifty feet on the inscribed location, breaking continuity in an existing or incoming effect.
+Disrupts flux energy within 50 feet at the marked location, producing its effect.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1678,11 +1472,9 @@ Disrupts reactive compounds as a standing column within fifty feet on the inscri
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **DeepSeal**
-Reconfigures cognitive signal across the inscribed face within fifty feet on a chosen object, changing the target state in place, and the working holds for about one hour.
+Reshapes psychic force within 50 feet on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1694,11 +1486,9 @@ Reconfigures cognitive signal across the inscribed face within fifty feet on a c
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **ChillPulse**
-Pins cognitive signal as a widening forward spread within fifty feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors psychic force as a widening cone within 50 feet at the marked location, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1710,11 +1500,9 @@ Pins cognitive signal as a widening forward spread within fifty feet on the insc
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **DullMirror**
-Raises a boundary against cognitive signal as a circular band around the mark at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels psychic force at point of contact on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1726,11 +1514,9 @@ Raises a boundary against cognitive signal as a circular band around the mark at
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **RestlessSeal**
-Projects reactive compounds as a standing column within ten feet on a single person, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1742,11 +1528,9 @@ Projects reactive compounds as a standing column within ten feet on a single per
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **SweepBond**
-Projects binding tension across the inscribed face within fifty feet on a single person, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects flux energy within 50 feet, immobilizing the target.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1758,11 +1542,9 @@ Projects binding tension across the inscribed face within fifty feet on a single
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **ShatterVoice**
-Projects electrical charge as a widening forward spread at touch range across a chosen surface, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects flux energy as a widening cone at point of contact across surfaces, producing its effect.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1774,11 +1556,9 @@ Projects electrical charge as a widening forward spread at touch range across a 
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **QuietCore**
-Reads cognitive signal as a circular band around the mark at touch range on a single person, returning readable signal data to the caster, and the working holds for about one hour.
+Detects psychic force at point of contact, producing its effect. Persists for several minutes without further attention.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1790,11 +1570,9 @@ Reads cognitive signal as a circular band around the mark at touch range on a si
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **PaleBreath**
-Reconfigures cognitive signal as a standing column at touch range on a chosen object, changing the target state in place.
+Reshapes psychic force at point of contact on objects, producing its effect.
 | Wattage | 524 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1806,11 +1584,9 @@ Reconfigures cognitive signal as a standing column at touch range on a chosen ob
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BrightPath**
-Reads cognitive signal as a narrow directional line within ten feet on a chosen object, returning readable signal data to the caster, and the working holds for about one minute.
+Detects psychic force as a focused beam within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 217 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1822,11 +1598,9 @@ Reads cognitive signal as a narrow directional line within ten feet on a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **GuardDance**
-Reconfigures cognitive signal as a widening forward spread within ten feet on the inscribed location, changing the target state in place, and the working holds for about one minute.
+Reshapes psychic force as a widening cone within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1838,11 +1612,9 @@ Reconfigures cognitive signal as a widening forward spread within ten feet on th
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **DissolvGlyph**
-Disrupts binding tension as a circular band around the mark within fifty feet on a chosen object, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts flux energy within 50 feet on objects, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1854,11 +1626,9 @@ Disrupts binding tension as a circular band around the mark within fifty feet on
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **TwistFlame**
-Drives cognitive signal as a circular band around the mark within fifty feet on a chosen object, forcing displacement along the chosen direction of effect, and the working holds for about one minute.
+Channels psychic force within 50 feet on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1870,11 +1640,9 @@ Drives cognitive signal as a circular band around the mark within fifty feet on 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **QuietHalo**
-Drives cognitive signal as a widening forward spread within fifty feet on the inscribed location, forcing displacement along the chosen direction of effect.
+Channels psychic force as a widening cone within 50 feet at the marked location, producing its effect.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1886,11 +1654,9 @@ Drives cognitive signal as a widening forward spread within fifty feet on the in
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **QuietGate**
-Screens cognitive signal as a standing column at touch range on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels psychic force at point of contact at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1902,11 +1668,9 @@ Screens cognitive signal as a standing column at touch range on the inscribed lo
 | Reach | Touch |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **PierceBrand**
-Projects electrical charge as a widening forward spread within ten feet across a chosen surface, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects flux energy as a widening cone within arm's reach across surfaces, producing its effect.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1918,11 +1682,9 @@ Projects electrical charge as a widening forward spread within ten feet across a
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **BreakRing**
-Reconfigures cognitive signal as a standing column within ten feet across a chosen surface, changing the target state in place.
+Reshapes psychic force within arm's reach across surfaces, producing its effect.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1934,11 +1696,9 @@ Reconfigures cognitive signal as a standing column within ten feet across a chos
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **WarmWeb**
-Disrupts binding tension across the inscribed face at touch range on a single person, breaking continuity in an existing or incoming effect.
+Disrupts flux energy at point of contact, immobilizing the target.
 | Wattage | 210 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1950,11 +1710,9 @@ Disrupts binding tension across the inscribed face at touch range on a single pe
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **WhirlingKey**
-Projects cognitive signal across the inscribed face within ten feet on a chosen object, delivering its effect as an active release.
+Projects psychic force within arm's reach on objects, producing its effect.
 | Wattage | 207 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1966,11 +1724,9 @@ Projects cognitive signal across the inscribed face within ten feet on a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **CalmRoad**
-Projects cognitive signal as a circular band around the mark within fifty feet across a chosen surface, delivering its effect as an active release, and it remains in place until its trigger condition is met.
+Projects psychic force within 50 feet across surfaces, producing its effect.
 | Wattage | 255 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1982,11 +1738,9 @@ Projects cognitive signal as a circular band around the mark within fifty feet a
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **KindleDream**
-Disrupts cognitive signal as a circular band around the mark at touch range on a chosen object, breaking continuity in an existing or incoming effect.
+Disrupts psychic force at point of contact on objects, producing its effect.
 | Wattage | 519 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1998,11 +1752,9 @@ Disrupts cognitive signal as a circular band around the mark at touch range on a
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **WarmBond**
-Disrupts cognitive signal as a narrow directional line within fifty feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts psychic force as a focused beam within 50 feet across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2014,11 +1766,9 @@ Disrupts cognitive signal as a narrow directional line within fifty feet across 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **MurkyRing**
-Screens binding tension as a circular band around the mark within ten feet on a single person, blocking out unwanted components while allowing valid ones through.
+Channels flux energy within arm's reach, immobilizing the target.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2030,11 +1780,9 @@ Screens binding tension as a circular band around the mark within ten feet on a 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **HiddenWard**
-Raises a boundary against reactive compounds as a widening forward spread within fifty feet on the inscribed location, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone within 50 feet at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2046,11 +1794,9 @@ Raises a boundary against reactive compounds as a widening forward spread within
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **FlowTouch**
-Reads cognitive signal across the inscribed face within fifty feet on the inscribed location, returning readable signal data to the caster.
+Detects psychic force within 50 feet at the marked location, producing its effect.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2062,11 +1808,9 @@ Reads cognitive signal across the inscribed face within fifty feet on the inscri
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **ReleasFlame**
-Disrupts binding tension as a circular band around the mark within ten feet on a chosen object, breaking continuity in an existing or incoming effect.
+Disrupts flux energy within arm's reach on objects, immobilizing the target.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2078,11 +1822,9 @@ Disrupts binding tension as a circular band around the mark within ten feet on a
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **DarkVoid**
-Disrupts cognitive signal as a standing column within ten feet across a chosen surface, breaking continuity in an existing or incoming effect.
+Disrupts psychic force within arm's reach across surfaces, producing its effect.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2094,11 +1836,9 @@ Disrupts cognitive signal as a standing column within ten feet across a chosen s
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **HiddenFlame**
-Reconfigures binding tension across the inscribed face within fifty feet on a chosen object, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes flux energy within 50 feet on objects, immobilizing the target.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2110,11 +1850,9 @@ Reconfigures binding tension across the inscribed face within fifty feet on a ch
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **WildCrown**
-Screens cognitive signal as a narrow directional line at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels psychic force as a focused beam at point of contact across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2126,11 +1864,9 @@ Screens cognitive signal as a narrow directional line at touch range across a ch
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **WarmRing**
-Reads electrical charge as a standing column within fifty feet on the inscribed location, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects flux energy within 50 feet at the marked location, producing its effect.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2142,11 +1878,9 @@ Reads electrical charge as a standing column within fifty feet on the inscribed 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **DissolvSigil**
-Reads cognitive signal as a circular band around the mark within fifty feet on a single person, returning readable signal data to the caster.
+Detects psychic force within 50 feet, producing its effect.
 | Wattage | 538 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2158,11 +1892,9 @@ Reads cognitive signal as a circular band around the mark within fifty feet on a
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **SteadyMirror**
-Pins reactive compounds as a widening forward spread at touch range on a single person, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
+Anchors flux energy as a widening cone at point of contact, producing its effect.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2174,11 +1906,9 @@ Pins reactive compounds as a widening forward spread at touch range on a single 
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **DullNet**
-Projects electrical charge as a narrow directional line within fifty feet on a single person, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects flux energy as a focused beam within 50 feet, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2190,11 +1920,9 @@ Projects electrical charge as a narrow directional line within fifty feet on a s
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **FreezBoon**
-Reconfigures reactive compounds as a circular band around the mark within fifty feet on a single person, changing the target state in place.
+Reshapes flux energy within 50 feet, producing its effect.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2206,11 +1934,9 @@ Reconfigures reactive compounds as a circular band around the mark within fifty 
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **VastSoul**
-Reads electrical charge as a standing column at touch range on the inscribed location, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy at point of contact at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2222,11 +1948,9 @@ Reads electrical charge as a standing column at touch range on the inscribed loc
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **BurVoice**
-Reconfigures binding tension as a circular band around the mark within fifty feet across a chosen surface, changing the target state in place, and the working holds for about one hour.
+Reshapes flux energy within 50 feet across surfaces, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 260 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2238,11 +1962,9 @@ Reconfigures binding tension as a circular band around the mark within fifty fee
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **ChillRoad**
-Screens cognitive signal across the inscribed face within fifty feet on a single person, blocking out unwanted components while allowing valid ones through.
+Channels psychic force within 50 feet, producing its effect.
 | Wattage | 523 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2254,11 +1976,9 @@ Screens cognitive signal across the inscribed face within fifty feet on a single
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **BrightDoor**
-Raises a boundary against electrical charge as a standing column within ten feet on a single person, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy within arm's reach, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2270,11 +1990,9 @@ Raises a boundary against electrical charge as a standing column within ten feet
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **HiddenHand**
-Screens reactive compounds as a standing column at touch range on a single person, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy at point of contact, producing its effect. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2286,11 +2004,9 @@ Screens reactive compounds as a standing column at touch range on a single perso
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **VastBoon**
-Reconfigures cognitive signal as a narrow directional line at touch range across a chosen surface, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes psychic force as a focused beam at point of contact across surfaces, producing its effect.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2302,11 +2018,9 @@ Reconfigures cognitive signal as a narrow directional line at touch range across
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **PiercAura**
-Screens cognitive signal across the inscribed face within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels psychic force within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 510 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2318,11 +2032,9 @@ Screens cognitive signal across the inscribed face within ten feet on the inscri
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **GuardPulse**
-Pins binding tension as a circular band around the mark within ten feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy within arm's reach on objects, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 247 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2334,11 +2046,9 @@ Pins binding tension as a circular band around the mark within ten feet on a cho
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SlowCrown**
-Disrupts cognitive signal across the inscribed face within ten feet across a chosen surface, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts psychic force within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2350,11 +2060,9 @@ Disrupts cognitive signal across the inscribed face within ten feet across a cho
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **AnchorMark**
-Projects cognitive signal as a narrow directional line within fifty feet across a chosen surface, delivering its effect as an active release.
+Projects psychic force as a focused beam within 50 feet across surfaces, producing its effect.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2366,11 +2074,9 @@ Projects cognitive signal as a narrow directional line within fifty feet across 
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Surface |
-
 ---
-
 **ReleaseDream**
-Screens binding tension as a circular band around the mark at touch range on a chosen object, blocking out unwanted components while allowing valid ones through.
+Channels flux energy at point of contact on objects, immobilizing the target.
 | Wattage | 219 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2382,11 +2088,9 @@ Screens binding tension as a circular band around the mark at touch range on a c
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **BindChain**
-Reads binding tension as a circular band around the mark within ten feet on a single person, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy within arm's reach, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2398,11 +2102,9 @@ Reads binding tension as a circular band around the mark within ten feet on a si
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **FreezeFlame**
-Pins binding tension as a circular band around the mark within ten feet on a single person, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy within arm's reach, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 253 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2414,11 +2116,9 @@ Pins binding tension as a circular band around the mark within ten feet on a sin
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **FlowThread**
-Disrupts binding tension as a standing column within ten feet on the inscribed location, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts flux energy within arm's reach at the marked location, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2430,11 +2130,9 @@ Disrupts binding tension as a standing column within ten feet on the inscribed l
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **CalmWisp**
-Pins reactive compounds as a standing column at touch range on a single person, creating a clamp-like hold that resists motion or change, and it persists only while the caster keeps feeding it.
+Anchors flux energy at point of contact, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2446,11 +2144,9 @@ Pins reactive compounds as a standing column at touch range on a single person, 
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Individual |
-
 ---
-
 **AnchorScar**
-Disrupts reactive compounds as a narrow directional line at touch range on a chosen object, breaking continuity in an existing or incoming effect, and the working holds for about one hour.
+Disrupts flux energy as a focused beam at point of contact on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 134 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2462,11 +2158,9 @@ Disrupts reactive compounds as a narrow directional line at touch range on a cho
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **SlowKnot**
-Raises a boundary against cognitive signal as a narrow directional line at touch range across a chosen surface, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels psychic force as a focused beam at point of contact across surfaces, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2478,11 +2172,9 @@ Raises a boundary against cognitive signal as a narrow directional line at touch
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **ReleasMirror**
-Reads electrical charge as a circular band around the mark within ten feet across a chosen surface, returning readable signal data to the caster, and it persists only while the caster keeps feeding it.
+Detects flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2494,11 +2186,9 @@ Reads electrical charge as a circular band around the mark within ten feet acros
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **KindleCurse**
-Projects cognitive signal as a circular band around the mark within fifty feet on the inscribed location, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects psychic force within 50 feet at the marked location, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 240 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2510,11 +2200,9 @@ Projects cognitive signal as a circular band around the mark within fifty feet o
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **DissolvHeart**
-Pins cognitive signal across the inscribed face within fifty feet across a chosen surface, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors psychic force within 50 feet across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2526,11 +2214,9 @@ Pins cognitive signal across the inscribed face within fifty feet across a chose
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **StillVoice**
-Projects binding tension across the inscribed face at touch range on a single person, delivering its effect as an active release, and the working holds for about one hour.
+Projects flux energy at point of contact, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2542,11 +2228,9 @@ Projects binding tension across the inscribed face at touch range on a single pe
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **DriftShadow**
-Screens cognitive signal as a widening forward spread within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels psychic force as a widening cone within arm's reach at the marked location, producing its effect.
 | Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2558,11 +2242,9 @@ Screens cognitive signal as a widening forward spread within ten feet on the ins
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **SweepRune**
-Drives cognitive signal as a narrow directional line within fifty feet on the inscribed location, forcing displacement along the chosen direction of effect, and it persists only while the caster keeps feeding it.
+Channels psychic force as a focused beam within 50 feet at the marked location, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Move |
@@ -2574,11 +2256,9 @@ Drives cognitive signal as a narrow directional line within fifty feet on the in
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **WeavBridge**
-Pins cognitive signal across the inscribed face within ten feet across a chosen surface, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
+Anchors psychic force within arm's reach across surfaces, producing its effect.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2590,11 +2270,9 @@ Pins cognitive signal across the inscribed face within ten feet across a chosen 
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **ChillBond**
-Pins electrical charge as a circular band around the mark at touch range across a chosen surface, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
+Anchors flux energy at point of contact across surfaces, producing its effect.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2606,11 +2284,9 @@ Pins electrical charge as a circular band around the mark at touch range across 
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Surface |
-
 ---
-
 **TransformShadow**
-Reconfigures reactive compounds as a circular band around the mark within ten feet across a chosen surface, changing the target state in place, and it persists only while the caster keeps feeding it.
+Reshapes flux energy within arm's reach across surfaces, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2622,11 +2298,9 @@ Reconfigures reactive compounds as a circular band around the mark within ten fe
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **BindTide**
-Projects cognitive signal across the inscribed face at touch range on a chosen object, delivering its effect as an active release, and it persists only while the caster keeps feeding it.
+Projects psychic force at point of contact on objects, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 514 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2638,11 +2312,9 @@ Projects cognitive signal across the inscribed face at touch range on a chosen o
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **QuietVoid**
-Projects cognitive signal across the inscribed face within ten feet on a single person, delivering its effect as an active release, and the working holds for about one minute.
+Projects psychic force within arm's reach, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 518 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2654,11 +2326,9 @@ Projects cognitive signal across the inscribed face within ten feet on a single 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **FreezeThought**
-Reads cognitive signal across the inscribed face within ten feet on the inscribed location, returning readable signal data to the caster.
+Detects psychic force within arm's reach at the marked location, producing its effect.
 | Wattage | 205 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2670,11 +2340,9 @@ Reads cognitive signal across the inscribed face within ten feet on the inscribe
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **ReleaseLight**
-Screens binding tension as a widening forward spread within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy as a widening cone within arm's reach at the marked location, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2686,11 +2354,9 @@ Screens binding tension as a widening forward spread within ten feet on the insc
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **TransformVeil**
-Reconfigures binding tension as a widening forward spread within ten feet on a single person, changing the target state in place, and the working holds for about one minute.
+Reshapes flux energy as a widening cone within arm's reach, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2702,11 +2368,9 @@ Reconfigures binding tension as a widening forward spread within ten feet on a s
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Individual |
-
 ---
-
 **HollowCurse**
-Screens binding tension as a circular band around the mark within fifty feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy within 50 feet at the marked location, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 135 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2718,11 +2382,9 @@ Screens binding tension as a circular band around the mark within fifty feet on 
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **TransformSeal**
-Projects cognitive signal as a standing column within ten feet on a chosen object, delivering its effect as an active release, and the working holds for about one minute.
+Projects psychic force within arm's reach on objects, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2734,11 +2396,9 @@ Projects cognitive signal as a standing column within ten feet on a chosen objec
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Object |
-
 ---
-
 **FreezeTide**
-Drives binding tension as a standing column within ten feet on a chosen object, forcing displacement along the chosen direction of effect.
+Channels flux energy within arm's reach on objects, immobilizing the target.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -2750,11 +2410,9 @@ Drives binding tension as a standing column within ten feet on a chosen object, 
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **LoneTouch**
-Raises a boundary against binding tension as a narrow directional line within ten feet on a chosen object, forming a defensive layer that rejects incoming influence.
+Channels flux energy as a focused beam within arm's reach on objects, immobilizing the target.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2766,11 +2424,9 @@ Raises a boundary against binding tension as a narrow directional line within te
 | Reach | Short (10 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **RisDoor**
-Screens cognitive signal as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one minute.
+Channels psychic force as a focused beam within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2782,11 +2438,9 @@ Screens cognitive signal as a narrow directional line within ten feet on the ins
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **DeepHeart**
-Screens binding tension across the inscribed face at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy at point of contact on objects, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2798,11 +2452,9 @@ Screens binding tension across the inscribed face at touch range on a chosen obj
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **RiseVeil**
-Screens cognitive signal as a narrow directional line within ten feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels psychic force as a focused beam within arm's reach at the marked location, producing its effect. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2814,11 +2466,9 @@ Screens cognitive signal as a narrow directional line within ten feet on the ins
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **PiercCrown**
-Screens binding tension as a widening forward spread at touch range across a chosen surface, blocking out unwanted components while allowing valid ones through, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone at point of contact across surfaces, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2830,11 +2480,9 @@ Screens binding tension as a widening forward spread at touch range across a cho
 | Reach | Touch |
 | Persistence | Sustained |
 | Target | Surface |
-
 ---
-
 **DriftingEye**
-Raises a boundary against reactive compounds as a standing column at touch range on the inscribed location, forming a defensive layer that rejects incoming influence, and it remains in place until its trigger condition is met.
+Channels flux energy at point of contact at the marked location, producing its effect.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2846,11 +2494,9 @@ Raises a boundary against reactive compounds as a standing column at touch range
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **CapturCrown**
-Reconfigures cognitive signal as a circular band around the mark at touch range on the inscribed location, changing the target state in place, and the working holds for about one hour.
+Reshapes psychic force at point of contact at the marked location, producing its effect. Persists for several minutes without further attention.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2862,11 +2508,9 @@ Reconfigures cognitive signal as a circular band around the mark at touch range 
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **RisePulse**
-Disrupts cognitive signal as a circular band around the mark within fifty feet on a single person, breaking continuity in an existing or incoming effect.
+Disrupts psychic force within 50 feet, producing its effect.
 | Wattage | 238 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2878,11 +2522,9 @@ Disrupts cognitive signal as a circular band around the mark within fifty feet o
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Individual |
-
 ---
-
 **PureMirror**
-Pins reactive compounds as a widening forward spread within fifty feet on a chosen object, creating a clamp-like hold that resists motion or change, and the working holds for about one hour.
+Anchors flux energy as a widening cone within 50 feet on objects, producing its effect. Persists for several minutes without further attention.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2894,11 +2536,9 @@ Pins reactive compounds as a widening forward spread within fifty feet on a chos
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **CalmTide**
-Projects binding tension across the inscribed face within fifty feet on the inscribed location, delivering its effect as an active release.
+Projects flux energy within 50 feet at the marked location, immobilizing the target.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2910,11 +2550,9 @@ Projects binding tension across the inscribed face within fifty feet on the insc
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Where Written |
-
 ---
-
 **TwinSigil**
-Reads binding tension as a standing column within ten feet on a single person, returning readable signal data to the caster, and the working holds for about one hour.
+Detects flux energy within arm's reach, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 138 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2926,11 +2564,9 @@ Reads binding tension as a standing column within ten feet on a single person, r
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **SlowStorm**
-Screens electrical charge as a standing column within fifty feet on the inscribed location, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels flux energy within 50 feet at the marked location, producing its effect. Persists for several minutes without further attention.
 | Wattage | 160 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2942,11 +2578,9 @@ Screens electrical charge as a standing column within fifty feet on the inscribe
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Long) |
 | Target | Where Written |
-
 ---
-
 **AncientShroud**
-Reconfigures binding tension as a standing column at touch range on a single person, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes flux energy at point of contact, immobilizing the target.
 | Wattage | 250 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2958,11 +2592,9 @@ Reconfigures binding tension as a standing column at touch range on a single per
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **KindlGate**
-Screens cognitive signal as a narrow directional line within ten feet across a chosen surface, blocking out unwanted components while allowing valid ones through, and the working holds for about one hour.
+Channels psychic force as a focused beam within arm's reach across surfaces, producing its effect. Persists for several minutes without further attention.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2974,11 +2606,9 @@ Screens cognitive signal as a narrow directional line within ten feet across a c
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Surface |
-
 ---
-
 **ShatterWall**
-Raises a boundary against reactive compounds as a widening forward spread within ten feet on a single person, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy as a widening cone within arm's reach, producing its effect. Persists for several minutes without further attention.
 | Wattage | 148 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2990,11 +2620,9 @@ Raises a boundary against reactive compounds as a widening forward spread within
 | Reach | Short (10 ft) |
 | Persistence | Timed (Long) |
 | Target | Individual |
-
 ---
-
 **GrandVoice**
-Pins cognitive signal as a widening forward spread at touch range on a chosen object, creating a clamp-like hold that resists motion or change.
+Anchors psychic force as a widening cone at point of contact on objects, producing its effect.
 | Wattage | 214 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3006,11 +2634,9 @@ Pins cognitive signal as a widening forward spread at touch range on a chosen ob
 | Reach | Touch |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **SurgeBrand**
-Raises a boundary against binding tension as a widening forward spread within ten feet on a chosen object, forming a defensive layer that rejects incoming influence, and it persists only while the caster keeps feeding it.
+Channels flux energy as a widening cone within arm's reach on objects, immobilizing the target. Must be actively maintained, but the can be maintained as long as concentration holds.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -3022,11 +2648,9 @@ Raises a boundary against binding tension as a widening forward spread within te
 | Reach | Short (10 ft) |
 | Persistence | Sustained |
 | Target | Object |
-
 ---
-
 **LightBond**
-Disrupts reactive compounds as a circular band around the mark within fifty feet on the inscribed location, breaking continuity in an existing or incoming effect, and it persists only while the caster keeps feeding it.
+Disrupts flux energy within 50 feet at the marked location, producing its effect. Must be actively maintained, but the affordable flux cost allows frequent casting.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -3038,11 +2662,9 @@ Disrupts reactive compounds as a circular band around the mark within fifty feet
 | Reach | Medium (50 ft) |
 | Persistence | Sustained |
 | Target | Where Written |
-
 ---
-
 **PureFrost**
-Pins cognitive signal as a narrow directional line within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
+Anchors psychic force as a focused beam within arm's reach at the marked location, producing its effect.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3054,11 +2676,9 @@ Pins cognitive signal as a narrow directional line within ten feet on the inscri
 | Reach | Short (10 ft) |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **SweepStorm**
-Pins cognitive signal as a circular band around the mark within ten feet on the inscribed location, creating a clamp-like hold that resists motion or change, and the working holds for about one minute.
+Anchors psychic force within arm's reach at the marked location, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Bind |
@@ -3070,11 +2690,9 @@ Pins cognitive signal as a circular band around the mark within ten feet on the 
 | Reach | Short (10 ft) |
 | Persistence | Timed (Short) |
 | Target | Where Written |
-
 ---
-
 **WeavAura**
-Reconfigures electrical charge as a circular band around the mark at touch range on a single person, changing the target state in place, and it remains in place until its trigger condition is met.
+Reshapes flux energy at point of contact, producing its effect.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -3086,11 +2704,9 @@ Reconfigures electrical charge as a circular band around the mark at touch range
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **BindWisp**
-Reads cognitive signal as a widening forward spread at touch range on the inscribed location, returning readable signal data to the caster, and it remains in place until its trigger condition is met.
+Detects psychic force as a widening cone at point of contact at the marked location, producing its effect.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -3102,11 +2718,9 @@ Reads cognitive signal as a widening forward spread at touch range on the inscri
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Where Written |
-
 ---
-
 **CalmBrand**
-Reads reactive compounds as a widening forward spread within fifty feet across a chosen surface, returning readable signal data to the caster, and the working holds for about one minute.
+Detects flux energy as a widening cone within 50 feet across surfaces, producing its effect. Runs for roughly a minute before dissipating.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -3118,11 +2732,9 @@ Reads reactive compounds as a widening forward spread within fifty feet across a
 | Reach | Medium (50 ft) |
 | Persistence | Timed (Short) |
 | Target | Surface |
-
 ---
-
 **BindWay**
-Screens binding tension as a standing column at touch range on a chosen object, blocking out unwanted components while allowing valid ones through, and it remains in place until its trigger condition is met.
+Channels flux energy at point of contact on objects, immobilizing the target.
 | Wattage | 244 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -3134,11 +2746,9 @@ Screens binding tension as a standing column at touch range on a chosen object, 
 | Reach | Touch |
 | Persistence | Conditional |
 | Target | Object |
-
 ---
-
 **StraightBoon**
-Pins reactive compounds as a circular band around the mark within fifty feet on a single person, creating a clamp-like hold that resists motion or change, and it remains in place until its trigger condition is met.
+Anchors flux energy within 50 feet, producing its effect.
 | Wattage | 158 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -3150,11 +2760,9 @@ Pins reactive compounds as a circular band around the mark within fifty feet on 
 | Reach | Medium (50 ft) |
 | Persistence | Conditional |
 | Target | Individual |
-
 ---
-
 **BreakShell**
-Raises a boundary against binding tension across the inscribed face at touch range on a chosen object, forming a defensive layer that rejects incoming influence, and the working holds for about one hour.
+Channels flux energy at point of contact on objects, immobilizing the target. Persists for several minutes without further attention.
 | Wattage | 229 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -3166,11 +2774,9 @@ Raises a boundary against binding tension across the inscribed face at touch ran
 | Reach | Touch |
 | Persistence | Timed (Long) |
 | Target | Object |
-
 ---
-
 **CalmTouch**
-Disrupts binding tension as a widening forward spread within fifty feet on a chosen object, breaking continuity in an existing or incoming effect.
+Disrupts flux energy as a widening cone within 50 feet on objects, immobilizing the target.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -3182,11 +2788,9 @@ Disrupts binding tension as a widening forward spread within fifty feet on a cho
 | Reach | Medium (50 ft) |
 | Persistence | Immediate |
 | Target | Object |
-
 ---
-
 **SurCurse**
-Projects binding tension across the inscribed face within ten feet across a chosen surface, delivering its effect as an active release, and the working holds for about one minute.
+Projects flux energy within arm's reach across surfaces, immobilizing the target. Runs for roughly a minute before dissipating.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |
