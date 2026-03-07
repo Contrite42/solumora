@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-007 - Food & Drink Culture
+# Active Task: EXPANSION-008 - Arts & Entertainment
 
 **Status:** IN PROGRESS
 **Owner:** Copilot
@@ -6,46 +6,45 @@
 
 ## Goal
 
-Ground the world in daily sensory experience through cuisine, preservation methods, Flux-assisted cooking, and regional specialties.
+Show what people do for leisure, beauty, and cultural expression (theater, music, visual arts, sports/competitions, festivals).
 
 ## Constraints
 
-- Climate zones affect available ingredients (desert vs temperate vs coastal)
-- Show how Flux changes food (preservation, exotic dishes, waste reduction)
-- Include social aspects (taverns, feast traditions, food taboos)
-- Contrast Auralis formal dining vs Terravelle practical food culture
+- Flux enables some art forms (illusion theater, light sculpture, sound manipulation)
+- Art reflects power dynamics (who commissions, who performs, who watches)
+- Include both high culture (noble patronage) and common culture (street performers, tavern music)
+- Show regional differences (Auralis innovation-focused vs Terravelle traditional)
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
-- Existing canon: Maren Valley agriculture, desert crossing rations, coastal settlements
+- Existing canon: Settlement pages mention festivals, celebrations, social gatherings
 
 ## Output Target
 
-8-10 notes total:
-- Regional cuisines (Auralis urban, Terravelle agricultural, coastal, desert-edge)
-- Famous establishments (taverns, inns, specialty food sellers)
-- Preservation methods (Flux-assisted and traditional)
-- Food trade and distribution
-- Social food culture (feast traditions, tavern life, food hierarchies)
-- 2-3 chef/innkeeper NPC notes
-- Create [[Food & Drink]] hub page
+7-9 notes total:
+- Art forms overview (theater, music, visual arts, Flux-enhanced performance)
+- Major venues (theaters, performance spaces, galleries)
+- Festivals and celebrations (seasonal events, kingdom holidays, local traditions)
+- Competitions and sports (physical contests, flux demonstrations, gambling)
+- 2-3 artist/performer NPC notes
+- Create [[Arts & Culture]] hub page
 
 ## Execution Plan
 
-1. Query navigation cache for food-related concepts (settlements, agriculture, taverns)
-2. Read settlement pages for existing food/tavern references
-3. Design regional cuisine differences (climate, culture, resources)
-4. Create Flux-assisted food preservation and preparation methods
-5. Identify famous food establishments in major settlements
-6. Create food trade and distribution system notes
-7. Design social food culture notes (feast traditions, tavern culture)
-8. Create 2-3 NPC notes (chefs, innkeepers, food merchants)
-9. Create Food & Drink hub page
+1. Query navigation cache for arts/entertainment context (festivals, celebrations, settlements)
+2. Read settlement pages for existing cultural references
+3. Design art forms (theater, music, visual arts, Flux-enhanced performance)
+4. Identify major venues in major settlements (Solhaven, Valdenmoor, Wolfpoint)
+5. Create festival and celebration notes (seasonal, political, religious)
+6. Design competition and sports notes (physical contests, Flux demonstrations)
+7. Create 2-3 NPC notes (performers, artists, venue operators)
+8. Create Arts & Culture hub page
+9. Link from kingdom/settlement pages
 10. Refresh navigation artifacts
 11. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Querying navigation cache for food and settlement context...
+Preparing to query navigation cache for arts and entertainment context...
 
 ---
 
