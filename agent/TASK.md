@@ -1,49 +1,53 @@
-# Active Task: EXPANSION-005 - Law & Justice Systems
+# Active Task: EXPANSION-006 - Communication Networks
 
 **Status:** IN PROGRESS
 **Owner:** Copilot
-**Started:** 2026-03-06
+**Started:** 2026-03-07
 
 ## Goal
 
-Build operational legal systems showing how crimes involving Flux are prosecuted, judged, and punished in both kingdoms.
+Detail how information moves across Solumora (courier guilds, message systems, information brokers, news propagation).
 
 ## Constraints
 
-- Flux crimes have unique detection challenges (T3+ required, evidence can be manipulated)
-- Jurisdiction questions arise at kingdom borders and desert crossings
-- Show how non-Flux users face Flux-capable criminals (power asymmetry)
-- Contrast Auralis institutional justice (courts, formal law) vs Terravelle reputation-based justice (guild mediation, community accountability)
+- No instant communication (Flux doesn't do that)
+- Show speed/cost/reliability trade-offs
+- Include misinformation and intelligence gathering
+- Contrast Auralis formal courier systems vs Terravelle guild-based networks
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
-- Existing canon: Control Tier system, both kingdoms have different cultural/institutional approaches
+- Existing canon: Trade & Travel systems, desert crossings, river transport
 
 ## Output Target
 
-6-8 notes total:
-- 1 hub page: [[Law and Order]]
-- 2-3 institutional notes (Auralis courts, Terravelle guild justice, enforcement systems)
-- 2-3 case example notes (showing systems in action)
-- 2-3 NPC notes (judges, enforcers, legal specialists)
-- Link from [[Auralis]] and [[Terravelle]] pages to new law content
+7-9 notes total:
+- Courier guild systems (Auralis formal, Terravelle guild-based)
+- Message systems (speed/cost/reliability)
+- Codes/encryption methods
+- Information brokers
+- News distribution systems
+- Misinformation and intelligence gathering
+- 2-3 NPC notes (couriers, brokers, information traders)
+- Update [[Trade & Travel]] with communication networks section
 
 ## Execution Plan
 
-1. Query navigation cache for related concepts (Auralis, Terravelle, Control Tier)
-2. Design Auralis formal legal system (courts, enforcement, codified law)
-3. Design Terravelle informal justice system (guild mediation, reputation consequences)
-4. Create enforcement/detection systems for Flux crimes
-5. Create 2-3 case examples showing both systems
-6. Create 2-3 NPC notes (judges, enforcers)
-7. Create Law and Order hub page
-8. Write all content notes
-9. Link from kingdom pages
-10. Refresh navigation artifacts
-11. Mark complete in TASK_QUEUE.md
+1. Query navigation cache for related concepts (Trade & Travel, Communication)
+2. Read Trade & Travel page for existing canon on movement/communication
+3. Design Auralis formal courier system (institutional, regulated)
+4. Design Terravelle guild-based message networks (decentralized, reputation-based)
+5. Create speed/cost/reliability frameworks
+6. Create codes/encryption methods notes
+7. Create information broker systems
+8. Create news distribution and misinformation notes
+9. Create 2-3 NPC notes (couriers, brokers, intelligence traders)
+10. Update Trade & Travel page with communication section
+11. Refresh navigation artifacts
+12. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Querying navigation cache for law and justice context...
+Querying navigation cache for communication and trade context...
 
 ---
 
