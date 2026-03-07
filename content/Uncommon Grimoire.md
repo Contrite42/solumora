@@ -17,9 +17,10 @@ Projects cognitive signal as a widening forward spread within fifty feet on the 
 
 
 
+
 ---
 **WarmCurse**
-Detects flux within 50 feet on a single person, gathers environmental information. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Detects chemical-related phenomena and gathers information. within 50 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -33,7 +34,7 @@ Detects flux within 50 feet on a single person, gathers environmental informatio
 | Target | Individual |
 ---
 **StrongBond**
-Reshapes binding tension across a flat plane within 10 feet across surfaces, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -47,7 +48,7 @@ Reshapes binding tension across a flat plane within 10 feet across surfaces, pin
 | Target | Surface |
 ---
 **PierceFlame**
-Disrupts flux in a circular perimeter within 50 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Disrupts and negates electric effects. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -61,7 +62,7 @@ Disrupts flux in a circular perimeter within 50 feet across surfaces, delivering
 | Target | Surface |
 ---
 **BurShroud**
-Screens psychic force as a focused beam within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -75,7 +76,7 @@ Screens psychic force as a focused beam within 10 feet at the marked location, d
 | Target | Where Written |
 ---
 **ReleasSigil**
-Channels psychic force at point of contact on a single person, delivering its effect. Persists until the specified condition triggers.
+Channels mind flux to produce its effect. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Ward |
@@ -89,7 +90,7 @@ Channels psychic force at point of contact on a single person, delivering its ef
 | Target | Individual |
 ---
 **SurgeRoad**
-Detects psychic force within 10 feet across surfaces, gathers environmental information. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Reads surface thoughts and current mental states. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 555 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -103,7 +104,7 @@ Detects psychic force within 10 feet across surfaces, gathers environmental info
 | Target | Surface |
 ---
 **SweepSpirit**
-Disrupts flux at point of contact across surfaces, delivering its effect. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Disrupts and negates electric effects. at point of contact. Requires continuous concentration to sustain.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -117,7 +118,7 @@ Disrupts flux at point of contact across surfaces, delivering its effect. Must b
 | Target | Surface |
 ---
 **VividThread**
-Reshapes binding tension as a widening cone within 10 feet across surfaces, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -131,7 +132,7 @@ Reshapes binding tension as a widening cone within 10 feet across surfaces, pins
 | Target | Surface |
 ---
 **ShallowLock**
-Screens psychic force within 50 feet on a single person, delivering its effect. Must be actively sustained.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. within 50 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 553 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -145,7 +146,7 @@ Screens psychic force within 50 feet on a single person, delivering its effect. 
 | Target | Individual |
 ---
 **AnchorLock**
-Screens flux in a circular perimeter within 10 feet on a single person, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Screens chemical flux, blocking unwanted elements while allowing valid ones through. within 10 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 153 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -159,7 +160,7 @@ Screens flux in a circular perimeter within 10 feet on a single person, deliveri
 | Target | Individual |
 ---
 **SolidWisp**
-Channels psychic force across a flat plane at point of contact across surfaces, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Channels mind flux to produce its effect. Extends across a flat surface, at point of contact. Persists for several minutes without further attention.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -173,7 +174,7 @@ Channels psychic force across a flat plane at point of contact across surfaces, 
 | Target | Surface |
 ---
 **SolidSigil**
-Screens binding tension across a flat plane at point of contact at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 207 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -187,7 +188,7 @@ Screens binding tension across a flat plane at point of contact at the marked lo
 | Target | Where Written |
 ---
 **KindleWay**
-Disrupts flux at point of contact at the marked location, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Disrupts and negates chemical effects. at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -201,7 +202,7 @@ Disrupts flux at point of contact at the marked location, delivering its effect.
 | Target | Where Written |
 ---
 **CaptureDance**
-Detects binding tension in a circular perimeter within 50 feet targeting objects, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -215,7 +216,7 @@ Detects binding tension in a circular perimeter within 50 feet targeting objects
 | Target | Object |
 ---
 **KindleStorm**
-Channels binding tension across a flat plane within 10 feet on a single person, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 218 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -229,7 +230,7 @@ Channels binding tension across a flat plane within 10 feet on a single person, 
 | Target | Individual |
 ---
 **TwistMark**
-Disrupts flux within 50 feet on a single person, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Disrupts and negates electric effects. within 50 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 168 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -243,7 +244,7 @@ Disrupts flux within 50 feet on a single person, delivering its effect. Persists
 | Target | Individual |
 ---
 **PaleWard**
-Anchors psychic force within 10 feet on a single person, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Locks mental patterns in place, preventing thought divergence. within 10 feet, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 558 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -257,7 +258,7 @@ Anchors psychic force within 10 feet on a single person, anchors targets in a fi
 | Target | Individual |
 ---
 **RiseStorm**
-Detects flux within 10 feet across surfaces, gathers environmental information. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Detects chemical-related phenomena and gathers information. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -271,7 +272,7 @@ Detects flux within 10 feet across surfaces, gathers environmental information. 
 | Target | Surface |
 ---
 **PiercPulse**
-Anchors flux within 50 feet across surfaces, anchors targets in a fixed state in a single instant. Affordable enough for routine use without draining reserves.
+Anchors chemical flux to the target, holding it in place. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -285,7 +286,7 @@ Anchors flux within 50 feet across surfaces, anchors targets in a fixed state in
 | Target | Surface |
 ---
 **TwistStorm**
-Channels flux as a widening cone within 50 feet on a single person, delivering its effect in a single instant. Affordable enough for routine use without draining reserves.
+Channels chemical flux to produce its effect. Spreads in a widening arc, within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 133 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -299,7 +300,7 @@ Channels flux as a widening cone within 50 feet on a single person, delivering i
 | Target | Individual |
 ---
 **TwistVeil**
-Channels flux within 10 feet targeting objects, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Channels chemical flux to produce its effect. within 10 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 147 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -313,7 +314,7 @@ Channels flux within 10 feet targeting objects, delivering its effect. Persists 
 | Target | Object |
 ---
 **HeavyKnot**
-Detects psychic force as a widening cone at point of contact on a single person, gathers environmental information. Runs for roughly a minute before dissipating.
+Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Lasts roughly a minute before dissipating.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -327,7 +328,7 @@ Detects psychic force as a widening cone at point of contact on a single person,
 | Target | Individual |
 ---
 **DissolveStorm**
-Anchors psychic force as a widening cone within 10 feet across surfaces, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -341,7 +342,7 @@ Anchors psychic force as a widening cone within 10 feet across surfaces, anchors
 | Target | Surface |
 ---
 **DissolveLight**
-Screens flux as a focused beam at point of contact at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Screens chemical flux, blocking unwanted elements while allowing valid ones through. Travels in a straight line, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -355,7 +356,7 @@ Screens flux as a focused beam at point of contact at the marked location, deliv
 | Target | Where Written |
 ---
 **SurEcho**
-Projects psychic force as a widening cone within 10 feet across surfaces, delivering its effect. Must be actively sustained.
+Projects psychic force that penetrates mental defenses and influences thought patterns. Spreads in a widening arc, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Emit |
@@ -369,7 +370,7 @@ Projects psychic force as a widening cone within 10 feet across surfaces, delive
 | Target | Surface |
 ---
 **CaptureBlessing**
-Disrupts flux within 10 feet targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Disrupts and negates electric effects. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -383,7 +384,7 @@ Disrupts flux within 10 feet targeting objects, delivering its effect. Persists 
 | Target | Object |
 ---
 **BindRune**
-Disrupts psychic force at point of contact at the marked location, delivering its effect. Persists until the specified condition triggers.
+Disrupts and negates mind effects. at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Counter |
@@ -397,7 +398,7 @@ Disrupts psychic force at point of contact at the marked location, delivering it
 | Target | Where Written |
 ---
 **PierceWay**
-Channels psychic force as a widening cone within 10 feet on a single person, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Channels mind flux to produce its effect. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 548 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -411,7 +412,7 @@ Channels psychic force as a widening cone within 10 feet on a single person, del
 | Target | Individual |
 ---
 **PierceSight**
-Screens flux as a widening cone within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -425,7 +426,7 @@ Screens flux as a widening cone within 10 feet across surfaces, delivering its e
 | Target | Surface |
 ---
 **AnchorSigil**
-Disrupts flux within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Disrupts and negates electric effects. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -439,7 +440,7 @@ Disrupts flux within 10 feet across surfaces, delivering its effect. Persists fo
 | Target | Surface |
 ---
 **BreakVeil**
-Reshapes binding tension as a focused beam within 10 feet on a single person, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -453,7 +454,7 @@ Reshapes binding tension as a focused beam within 10 feet on a single person, pi
 | Target | Individual |
 ---
 **SteadyVoid**
-Reshapes binding tension as a widening cone within 10 feet targeting objects, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -467,7 +468,7 @@ Reshapes binding tension as a widening cone within 10 feet targeting objects, pi
 | Target | Object |
 ---
 **ChillShadow**
-Channels psychic force within 50 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating.
+Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Move |
@@ -481,7 +482,7 @@ Channels psychic force within 50 feet targeting objects, delivering its effect. 
 | Target | Object |
 ---
 **KindleMark**
-Screens binding tension across a flat plane at point of contact targeting objects, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -495,7 +496,7 @@ Screens binding tension across a flat plane at point of contact targeting object
 | Target | Object |
 ---
 **RestlessCurse**
-Anchors psychic force in a circular perimeter within 50 feet targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Locks mental patterns in place, preventing thought divergence. within 50 feet. Persists for several minutes without further attention.
 | Wattage | 557 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -509,7 +510,7 @@ Anchors psychic force in a circular perimeter within 50 feet targeting objects, 
 | Target | Object |
 ---
 **LoudAura**
-Screens flux as a widening cone at point of contact on a single person, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Screens electric flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -523,7 +524,7 @@ Screens flux as a widening cone at point of contact on a single person, deliveri
 | Target | Individual |
 ---
 **RiseBrand**
-Channels psychic force in a circular perimeter within 10 feet across surfaces, delivering its effect. Persists until the specified condition triggers.
+Channels mind flux to produce its effect. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -537,7 +538,7 @@ Channels psychic force in a circular perimeter within 10 feet across surfaces, d
 | Target | Surface |
 ---
 **WildVoid**
-Screens flux at point of contact across surfaces, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Screens chemical flux, blocking unwanted elements while allowing valid ones through. at point of contact. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -551,7 +552,7 @@ Screens flux at point of contact across surfaces, delivering its effect. Runs fo
 | Target | Surface |
 ---
 **PierceDream**
-Projects binding tension within 10 feet targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -565,7 +566,7 @@ Projects binding tension within 10 feet targeting objects, pins limbs and restri
 | Target | Object |
 ---
 **SweepShroud**
-Channels psychic force within 50 feet targeting objects, delivering its effect. Persists until the specified condition triggers.
+Channels mind flux to produce its effect. within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 257 W |
 | Shape | Square |
 | Hook | Ward |
@@ -579,7 +580,7 @@ Channels psychic force within 50 feet targeting objects, delivering its effect. 
 | Target | Object |
 ---
 **BurningRune**
-Detects psychic force as a widening cone at point of contact at the marked location, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Takes effect in a single instant.
 | Wattage | 212 W |
 | Shape | Square |
 | Hook | Sense |
@@ -593,7 +594,7 @@ Detects psychic force as a widening cone at point of contact at the marked locat
 | Target | Where Written |
 ---
 **CalmCurse**
-Detects psychic force as a widening cone within 50 feet targeting objects, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. Spreads in a widening arc, within 50 feet. Takes effect in a single instant.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Sense |
@@ -607,7 +608,7 @@ Detects psychic force as a widening cone within 50 feet targeting objects, gathe
 | Target | Object |
 ---
 **HeavyVoice**
-Channels flux in a circular perimeter within 50 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Channels chemical flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -621,7 +622,7 @@ Channels flux in a circular perimeter within 50 feet at the marked location, del
 | Target | Where Written |
 ---
 **DriftingCharm**
-Screens psychic force as a widening cone within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -635,7 +636,7 @@ Screens psychic force as a widening cone within 10 feet at the marked location, 
 | Target | Where Written |
 ---
 **FrozenBreath**
-Channels psychic force as a focused beam at point of contact on a single person, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Channels mind flux to produce its effect. Travels in a straight line, at point of contact. Persists for several minutes without further attention.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -649,7 +650,7 @@ Channels psychic force as a focused beam at point of contact on a single person,
 | Target | Individual |
 ---
 **PiercePulse**
-Screens flux across a flat plane within 50 feet at the marked location, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Screens electric flux, blocking unwanted elements while allowing valid ones through. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -663,7 +664,7 @@ Screens flux across a flat plane within 50 feet at the marked location, deliveri
 | Target | Where Written |
 ---
 **HeavyAura**
-Channels flux within 50 feet across surfaces, delivering its effect in a single instant. Affordable enough for routine use without draining reserves.
+Channels chemical flux to produce its effect. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -677,7 +678,7 @@ Channels flux within 50 feet across surfaces, delivering its effect in a single 
 | Target | Surface |
 ---
 **TaintedGate**
-Channels psychic force as a focused beam within 10 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating.
+Channels mind flux to produce its effect. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 517 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -691,7 +692,7 @@ Channels psychic force as a focused beam within 10 feet targeting objects, deliv
 | Target | Object |
 ---
 **GuardBrand**
-Disrupts binding tension across a flat plane within 50 feet targeting objects, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -705,7 +706,7 @@ Disrupts binding tension across a flat plane within 50 feet targeting objects, p
 | Target | Object |
 ---
 **KindlMark**
-Disrupts psychic force as a focused beam within 50 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating.
+Disrupts and negates mind effects. Travels in a straight line, within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Counter |
@@ -719,7 +720,7 @@ Disrupts psychic force as a focused beam within 50 feet targeting objects, deliv
 | Target | Object |
 ---
 **AncientWard**
-Detects psychic force as a focused beam within 10 feet across surfaces, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Takes effect in a single instant.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -733,7 +734,7 @@ Detects psychic force as a focused beam within 10 feet across surfaces, gathers 
 | Target | Surface |
 ---
 **ReleaseStorm**
-Disrupts binding tension across a flat plane at point of contact at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 202 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -747,7 +748,7 @@ Disrupts binding tension across a flat plane at point of contact at the marked l
 | Target | Where Written |
 ---
 **BurPath**
-Disrupts psychic force at point of contact on a single person, delivering its effect. Persists until the specified condition triggers.
+Disrupts and negates mind effects. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -761,7 +762,7 @@ Disrupts psychic force at point of contact on a single person, delivering its ef
 | Target | Individual |
 ---
 **ChillDream**
-Channels binding tension across a flat plane at point of contact targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 204 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -775,7 +776,7 @@ Channels binding tension across a flat plane at point of contact targeting objec
 | Target | Object |
 ---
 **BindThought**
-Projects psychic force as a focused beam at point of contact targeting objects, delivering its effect. Persists until the specified condition triggers.
+Projects psychic force that penetrates mental defenses and influences thought patterns. Travels in a straight line, at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -789,7 +790,7 @@ Projects psychic force as a focused beam at point of contact targeting objects, 
 | Target | Object |
 ---
 **BurnCurse**
-Anchors psychic force as a focused beam within 50 feet at the marked location, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Locks mental patterns in place, preventing thought divergence. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -803,7 +804,7 @@ Anchors psychic force as a focused beam within 50 feet at the marked location, a
 | Target | Where Written |
 ---
 **DriftHeart**
-Reshapes psychic force as a focused beam within 10 feet at the marked location, alters the target's properties. Must be actively sustained.
+Reshapes the target using mind flux. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 520 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -817,7 +818,7 @@ Reshapes psychic force as a focused beam within 10 feet at the marked location, 
 | Target | Where Written |
 ---
 **ClearCharm**
-Anchors binding tension across a flat plane within 10 feet at the marked location, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -831,7 +832,7 @@ Anchors binding tension across a flat plane within 10 feet at the marked locatio
 | Target | Where Written |
 ---
 **GuardTide**
-Detects flux within 50 feet at the marked location, gathers environmental information. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Detects chemical-related phenomena and gathers information. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -845,7 +846,7 @@ Detects flux within 50 feet at the marked location, gathers environmental inform
 | Target | Where Written |
 ---
 **StraightShell**
-Screens binding tension as a focused beam within 10 feet at the marked location, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 230 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -859,7 +860,7 @@ Screens binding tension as a focused beam within 10 feet at the marked location,
 | Target | Where Written |
 ---
 **ReleasEcho**
-Detects psychic force across a flat plane within 50 feet targeting objects, gathers environmental information. Persists until the specified condition triggers.
+Reads surface thoughts and current mental states. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Sense |
@@ -873,7 +874,7 @@ Detects psychic force across a flat plane within 50 feet targeting objects, gath
 | Target | Object |
 ---
 **GuardScar**
-Channels flux as a widening cone within 50 feet across surfaces, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Channels electric flux to produce its effect. Spreads in a widening arc, within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -887,7 +888,7 @@ Channels flux as a widening cone within 50 feet across surfaces, delivering its 
 | Target | Surface |
 ---
 **KindleTouch**
-Reshapes psychic force across a flat plane within 10 feet across surfaces, alters the target's properties. Persists until the specified condition triggers.
+Reshapes the target using mind flux. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -901,7 +902,7 @@ Reshapes psychic force across a flat plane within 10 feet across surfaces, alter
 | Target | Surface |
 ---
 **SweepBrand**
-Detects psychic force across a flat plane within 50 feet at the marked location, gathers environmental information. Runs for roughly a minute before dissipating.
+Reads surface thoughts and current mental states. Extends across a flat surface, within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Sense |
@@ -915,7 +916,7 @@ Detects psychic force across a flat plane within 50 feet at the marked location,
 | Target | Where Written |
 ---
 **TaintedVoice**
-Detects binding tension as a focused beam within 50 feet at the marked location, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -929,7 +930,7 @@ Detects binding tension as a focused beam within 50 feet at the marked location,
 | Target | Where Written |
 ---
 **KindleBrand**
-Screens binding tension within 10 feet targeting objects, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -943,7 +944,7 @@ Screens binding tension within 10 feet targeting objects, pins limbs and restric
 | Target | Object |
 ---
 **GrandWard**
-Detects binding tension as a widening cone within 50 feet on a single person, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -957,7 +958,7 @@ Detects binding tension as a widening cone within 50 feet on a single person, pi
 | Target | Individual |
 ---
 **GuardCore**
-Screens flux within 50 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Screens electric flux, blocking unwanted elements while allowing valid ones through. within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -971,7 +972,7 @@ Screens flux within 50 feet targeting objects, delivering its effect. Runs for r
 | Target | Object |
 ---
 **StraightFrost**
-Detects psychic force as a widening cone at point of contact targeting objects, gathers environmental information. Must be actively sustained.
+Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 224 W |
 | Shape | Square |
 | Hook | Sense |
@@ -985,7 +986,7 @@ Detects psychic force as a widening cone at point of contact targeting objects, 
 | Target | Object |
 ---
 **BreakPath**
-Detects binding tension as a focused beam within 10 feet across surfaces, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -999,7 +1000,7 @@ Detects binding tension as a focused beam within 10 feet across surfaces, pins l
 | Target | Surface |
 ---
 **TameRune**
-Detects psychic force as a focused beam within 50 feet at the marked location, gathers environmental information. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Reads surface thoughts and current mental states. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 545 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1013,7 +1014,7 @@ Detects psychic force as a focused beam within 50 feet at the marked location, g
 | Target | Where Written |
 ---
 **ClearDoor**
-Detects psychic force in a circular perimeter within 50 feet at the marked location, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. within 50 feet. Takes effect in a single instant.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1027,7 +1028,7 @@ Detects psychic force in a circular perimeter within 50 feet at the marked locat
 | Target | Where Written |
 ---
 **SharpBoon**
-Detects flux as a focused beam within 50 feet across surfaces, gathers environmental information. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Detects electric-related phenomena and gathers information. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 150 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1041,7 +1042,7 @@ Detects flux as a focused beam within 50 feet across surfaces, gathers environme
 | Target | Surface |
 ---
 **FreezChain**
-Reshapes binding tension within 50 feet on a single person, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet, affecting a single person. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1055,7 +1056,7 @@ Reshapes binding tension within 50 feet on a single person, pins limbs and restr
 | Target | Individual |
 ---
 **StraightRune**
-Detects flux within 50 feet across surfaces, gathers environmental information. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Detects electric-related phenomena and gathers information. within 50 feet. Persists for several minutes without further attention.
 | Wattage | 165 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1069,7 +1070,7 @@ Detects flux within 50 feet across surfaces, gathers environmental information. 
 | Target | Surface |
 ---
 **BrightKnot**
-Projects psychic force as a widening cone within 50 feet on a single person, delivering its effect in a single instant.
+Projects psychic force that penetrates mental defenses and influences thought patterns. Spreads in a widening arc, within 50 feet. Takes effect in a single instant.
 | Wattage | 533 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1083,7 +1084,7 @@ Projects psychic force as a widening cone within 50 feet on a single person, del
 | Target | Individual |
 ---
 **BurningWeb**
-Reshapes flux within 10 feet at the marked location, alters the target's properties. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Induces chemical transformation, altering molecular structure and material composition. within 10 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1097,7 +1098,7 @@ Reshapes flux within 10 feet at the marked location, alters the target's propert
 | Target | Where Written |
 ---
 **CapturNet**
-Detects psychic force in a circular perimeter within 10 feet across surfaces, gathers environmental information. Persists until the specified condition triggers.
+Reads surface thoughts and current mental states. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1111,7 +1112,7 @@ Detects psychic force in a circular perimeter within 10 feet across surfaces, ga
 | Target | Surface |
 ---
 **BindBrand**
-Detects binding tension across a flat plane within 50 feet at the marked location, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 225 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1125,7 +1126,7 @@ Detects binding tension across a flat plane within 50 feet at the marked locatio
 | Target | Where Written |
 ---
 **ShallowDoor**
-Channels binding tension as a focused beam within 50 feet across surfaces, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 245 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1139,7 +1140,7 @@ Channels binding tension as a focused beam within 50 feet across surfaces, pins 
 | Target | Surface |
 ---
 **DriftDance**
-Screens flux as a widening cone at point of contact at the marked location, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Screens chemical flux, blocking unwanted elements while allowing valid ones through. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1153,7 +1154,7 @@ Screens flux as a widening cone at point of contact at the marked location, deli
 | Target | Where Written |
 ---
 **TwistShell**
-Disrupts psychic force at point of contact on a single person, delivering its effect. Runs for roughly a minute before dissipating.
+Disrupts and negates mind effects. at point of contact, affecting a single person. Lasts roughly a minute before dissipating.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1167,7 +1168,7 @@ Disrupts psychic force at point of contact on a single person, delivering its ef
 | Target | Individual |
 ---
 **DarkCage**
-Channels psychic force within 50 feet across surfaces, delivering its effect. Must be actively sustained.
+Channels mind flux to produce its effect. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Move |
@@ -1181,7 +1182,7 @@ Channels psychic force within 50 feet across surfaces, delivering its effect. Mu
 | Target | Surface |
 ---
 **DissolveRoad**
-Reshapes psychic force in a circular perimeter within 50 feet targeting objects, alters the target's properties. Runs for roughly a minute before dissipating.
+Reshapes the target using mind flux. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 237 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1195,7 +1196,7 @@ Reshapes psychic force in a circular perimeter within 50 feet targeting objects,
 | Target | Object |
 ---
 **DriftBrand**
-Projects binding tension as a widening cone within 10 feet targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1209,7 +1210,7 @@ Projects binding tension as a widening cone within 10 feet targeting objects, pi
 | Target | Object |
 ---
 **TaintedStorm**
-Detects psychic force as a focused beam within 10 feet across surfaces, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Takes effect in a single instant.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1223,7 +1224,7 @@ Detects psychic force as a focused beam within 10 feet across surfaces, gathers 
 | Target | Surface |
 ---
 **BurningCharm**
-Channels psychic force across a flat plane within 50 feet on a single person, delivering its effect. Persists until the specified condition triggers.
+Channels mind flux to produce its effect. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 543 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1237,7 +1238,7 @@ Channels psychic force across a flat plane within 50 feet on a single person, de
 | Target | Individual |
 ---
 **ShatterSeal**
-Detects psychic force as a widening cone at point of contact at the marked location, gathers environmental information. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Persists for several minutes without further attention.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1251,7 +1252,7 @@ Detects psychic force as a widening cone at point of contact at the marked locat
 | Target | Where Written |
 ---
 **GuardWard**
-Detects binding tension across a flat plane within 50 feet at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 220 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1265,7 +1266,7 @@ Detects binding tension across a flat plane within 50 feet at the marked locatio
 | Target | Where Written |
 ---
 **TransformSight**
-Channels flux in a circular perimeter at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Channels electric flux to produce its effect. at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 144 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1279,7 +1280,7 @@ Channels flux in a circular perimeter at point of contact targeting objects, del
 | Target | Object |
 ---
 **RiseStrike**
-Anchors flux in a circular perimeter within 50 feet on a single person, anchors targets in a fixed state in a single instant. Affordable enough for routine use without draining reserves.
+Anchors chemical flux to the target, holding it in place. within 50 feet, affecting a single person. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1293,7 +1294,7 @@ Anchors flux in a circular perimeter within 50 feet on a single person, anchors 
 | Target | Individual |
 ---
 **RisBoon**
-Disrupts binding tension at point of contact targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 249 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1307,7 +1308,7 @@ Disrupts binding tension at point of contact targeting objects, pins limbs and r
 | Target | Object |
 ---
 **ShatterBond**
-Detects psychic force as a widening cone within 50 feet at the marked location, gathers environmental information. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Reads surface thoughts and current mental states. Spreads in a widening arc, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 250 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1321,7 +1322,7 @@ Detects psychic force as a widening cone within 50 feet at the marked location, 
 | Target | Where Written |
 ---
 **WeavePulse**
-Reshapes psychic force at point of contact on a single person, alters the target's properties. Persists until the specified condition triggers.
+Reshapes the target using mind flux. at point of contact, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1335,7 +1336,7 @@ Reshapes psychic force at point of contact on a single person, alters the target
 | Target | Individual |
 ---
 **ReleaseTide**
-Projects binding tension as a focused beam at point of contact at the marked location, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, at point of contact. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1349,7 +1350,7 @@ Projects binding tension as a focused beam at point of contact at the marked loc
 | Target | Where Written |
 ---
 **GuardSpirit**
-Detects psychic force across a flat plane within 10 feet across surfaces, gathers environmental information. Persists until the specified condition triggers.
+Reads surface thoughts and current mental states. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 530 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1363,7 +1364,7 @@ Detects psychic force across a flat plane within 10 feet across surfaces, gather
 | Target | Surface |
 ---
 **TwistSpirit**
-Detects flux across a flat plane within 50 feet on a single person, gathers environmental information. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Detects chemical-related phenomena and gathers information. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1377,7 +1378,7 @@ Detects flux across a flat plane within 50 feet on a single person, gathers envi
 | Target | Individual |
 ---
 **BreakBreath**
-Channels psychic force across a flat plane within 10 feet at the marked location, delivering its effect. Persists until the specified condition triggers.
+Channels mind flux to produce its effect. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1391,7 +1392,7 @@ Channels psychic force across a flat plane within 10 feet at the marked location
 | Target | Where Written |
 ---
 **FreezeStrike**
-Disrupts psychic force within 10 feet at the marked location, delivering its effect in a single instant.
+Disrupts and negates mind effects. within 10 feet. Takes effect in a single instant.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1405,7 +1406,7 @@ Disrupts psychic force within 10 feet at the marked location, delivering its eff
 | Target | Where Written |
 ---
 **AnchorVeil**
-Detects flux within 10 feet across surfaces, gathers environmental information. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Detects chemical-related phenomena and gathers information. within 10 feet. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1419,7 +1420,7 @@ Detects flux within 10 feet across surfaces, gathers environmental information. 
 | Target | Surface |
 ---
 **ChillCrown**
-Projects psychic force within 10 feet targeting objects, delivering its effect. Persists until the specified condition triggers.
+Projects psychic force that penetrates mental defenses and influences thought patterns. within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 547 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1433,7 +1434,7 @@ Projects psychic force within 10 feet targeting objects, delivering its effect. 
 | Target | Object |
 ---
 **BurnRoad**
-Anchors flux within 50 feet at the marked location, anchors targets in a fixed state. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Anchors electric flux to the target, holding it in place. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1447,7 +1448,7 @@ Anchors flux within 50 feet at the marked location, anchors targets in a fixed s
 | Target | Where Written |
 ---
 **GuardLight**
-Reshapes flux as a focused beam within 10 feet on a single person, alters the target's properties. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Induces chemical transformation, altering molecular structure and material composition. Travels in a straight line, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1461,7 +1462,7 @@ Reshapes flux as a focused beam within 10 feet on a single person, alters the ta
 | Target | Individual |
 ---
 **DissolveFlame**
-Disrupts flux within 50 feet at the marked location, delivering its effect in a single instant. Affordable enough for routine use without draining reserves.
+Disrupts and negates chemical effects. within 50 feet. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1475,7 +1476,7 @@ Disrupts flux within 50 feet at the marked location, delivering its effect in a 
 | Target | Where Written |
 ---
 **DeepSeal**
-Reshapes psychic force across a flat plane within 50 feet targeting objects, alters the target's properties. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Reshapes the target using mind flux. Extends across a flat surface, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1489,7 +1490,7 @@ Reshapes psychic force across a flat plane within 50 feet targeting objects, alt
 | Target | Object |
 ---
 **ChillPulse**
-Anchors psychic force as a widening cone within 50 feet at the marked location, anchors targets in a fixed state. Must be actively sustained.
+Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Bind |
@@ -1503,7 +1504,7 @@ Anchors psychic force as a widening cone within 50 feet at the marked location, 
 | Target | Where Written |
 ---
 **DullMirror**
-Channels psychic force in a circular perimeter at point of contact targeting objects, delivering its effect. Must be actively sustained.
+Channels mind flux to produce its effect. at point of contact. Requires continuous concentration to sustain.
 | Wattage | 529 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1517,7 +1518,7 @@ Channels psychic force in a circular perimeter at point of contact targeting obj
 | Target | Object |
 ---
 **RestlessSeal**
-Projects flux within 10 feet on a single person, delivering its effect. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Releases reactive flux that triggers chemical responses—corrosion, combustion, crystallization. within 10 feet, affecting a single person. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1531,7 +1532,7 @@ Projects flux within 10 feet on a single person, delivering its effect. Runs for
 | Target | Individual |
 ---
 **SweepBond**
-Projects binding tension across a flat plane within 50 feet on a single person, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 243 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1545,7 +1546,7 @@ Projects binding tension across a flat plane within 50 feet on a single person, 
 | Target | Individual |
 ---
 **ShatterVoice**
-Projects flux as a widening cone at point of contact across surfaces, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Projects electric energy outward, delivering its effect. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 137 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1559,7 +1560,7 @@ Projects flux as a widening cone at point of contact across surfaces, delivering
 | Target | Surface |
 ---
 **QuietCore**
-Detects psychic force in a circular perimeter at point of contact on a single person, gathers environmental information. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Reads surface thoughts and current mental states. at point of contact, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1573,7 +1574,7 @@ Detects psychic force in a circular perimeter at point of contact on a single pe
 | Target | Individual |
 ---
 **PaleBreath**
-Reshapes psychic force at point of contact targeting objects, alters the target's properties in a single instant.
+Reshapes the target using mind flux. at point of contact. Takes effect in a single instant.
 | Wattage | 524 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1587,7 +1588,7 @@ Reshapes psychic force at point of contact targeting objects, alters the target'
 | Target | Object |
 ---
 **BrightPath**
-Detects psychic force as a focused beam within 10 feet targeting objects, gathers environmental information. Runs for roughly a minute before dissipating.
+Reads surface thoughts and current mental states. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 217 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1601,7 +1602,7 @@ Detects psychic force as a focused beam within 10 feet targeting objects, gather
 | Target | Object |
 ---
 **GuardDance**
-Reshapes psychic force as a widening cone within 10 feet at the marked location, alters the target's properties. Runs for roughly a minute before dissipating.
+Reshapes the target using mind flux. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1615,7 +1616,7 @@ Reshapes psychic force as a widening cone within 10 feet at the marked location,
 | Target | Where Written |
 ---
 **DissolvGlyph**
-Disrupts binding tension in a circular perimeter within 50 feet targeting objects, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 242 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1629,7 +1630,7 @@ Disrupts binding tension in a circular perimeter within 50 feet targeting object
 | Target | Object |
 ---
 **TwistFlame**
-Channels psychic force in a circular perimeter within 50 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating.
+Channels mind flux to produce its effect. within 50 feet. Lasts roughly a minute before dissipating.
 | Wattage | 537 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1643,7 +1644,7 @@ Channels psychic force in a circular perimeter within 50 feet targeting objects,
 | Target | Object |
 ---
 **QuietHalo**
-Channels psychic force as a widening cone within 50 feet at the marked location, delivering its effect in a single instant.
+Channels mind flux to produce its effect. Spreads in a widening arc, within 50 feet. Takes effect in a single instant.
 | Wattage | 525 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -1657,7 +1658,7 @@ Channels psychic force as a widening cone within 50 feet at the marked location,
 | Target | Where Written |
 ---
 **QuietGate**
-Screens psychic force at point of contact at the marked location, delivering its effect. Runs for roughly a minute before dissipating.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. at point of contact. Lasts roughly a minute before dissipating.
 | Wattage | 227 W |
 | Shape | Square |
 | Hook | Filter |
@@ -1671,7 +1672,7 @@ Screens psychic force at point of contact at the marked location, delivering its
 | Target | Where Written |
 ---
 **PierceBrand**
-Projects flux as a widening cone within 10 feet across surfaces, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Projects electric energy outward, delivering its effect. Spreads in a widening arc, within 10 feet. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1685,7 +1686,7 @@ Projects flux as a widening cone within 10 feet across surfaces, delivering its 
 | Target | Surface |
 ---
 **BreakRing**
-Reshapes psychic force within 10 feet across surfaces, alters the target's properties in a single instant.
+Reshapes the target using mind flux. within 10 feet. Takes effect in a single instant.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Transform |
@@ -1699,7 +1700,7 @@ Reshapes psychic force within 10 feet across surfaces, alters the target's prope
 | Target | Surface |
 ---
 **WarmWeb**
-Disrupts binding tension across a flat plane at point of contact on a single person, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 210 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1713,7 +1714,7 @@ Disrupts binding tension across a flat plane at point of contact on a single per
 | Target | Individual |
 ---
 **WhirlingKey**
-Projects psychic force across a flat plane within 10 feet targeting objects, delivering its effect in a single instant.
+Projects psychic force that penetrates mental defenses and influences thought patterns. Extends across a flat surface, within 10 feet. Takes effect in a single instant.
 | Wattage | 207 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1727,7 +1728,7 @@ Projects psychic force across a flat plane within 10 feet targeting objects, del
 | Target | Object |
 ---
 **CalmRoad**
-Projects psychic force in a circular perimeter within 50 feet across surfaces, delivering its effect. Persists until the specified condition triggers.
+Projects psychic force that penetrates mental defenses and influences thought patterns. within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 255 W |
 | Shape | Square |
 | Hook | Emit |
@@ -1741,7 +1742,7 @@ Projects psychic force in a circular perimeter within 50 feet across surfaces, d
 | Target | Surface |
 ---
 **KindleDream**
-Disrupts psychic force in a circular perimeter at point of contact targeting objects, delivering its effect in a single instant.
+Disrupts and negates mind effects. at point of contact. Takes effect in a single instant.
 | Wattage | 519 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1755,7 +1756,7 @@ Disrupts psychic force in a circular perimeter at point of contact targeting obj
 | Target | Object |
 ---
 **WarmBond**
-Disrupts psychic force as a focused beam within 50 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Disrupts and negates mind effects. Travels in a straight line, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 550 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1769,7 +1770,7 @@ Disrupts psychic force as a focused beam within 50 feet across surfaces, deliver
 | Target | Surface |
 ---
 **MurkyRing**
-Screens binding tension in a circular perimeter within 10 feet on a single person, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1783,7 +1784,7 @@ Screens binding tension in a circular perimeter within 10 feet on a single perso
 | Target | Individual |
 ---
 **HiddenWard**
-Channels flux as a widening cone within 50 feet at the marked location, delivering its effect. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Channels chemical flux to produce its effect. Spreads in a widening arc, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1797,7 +1798,7 @@ Channels flux as a widening cone within 50 feet at the marked location, deliveri
 | Target | Where Written |
 ---
 **FlowTouch**
-Detects psychic force across a flat plane within 50 feet at the marked location, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. Extends across a flat surface, within 50 feet. Takes effect in a single instant.
 | Wattage | 215 W |
 | Shape | Square |
 | Hook | Sense |
@@ -1811,7 +1812,7 @@ Detects psychic force across a flat plane within 50 feet at the marked location,
 | Target | Where Written |
 ---
 **ReleasFlame**
-Disrupts binding tension in a circular perimeter within 10 feet targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 222 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -1825,7 +1826,7 @@ Disrupts binding tension in a circular perimeter within 10 feet targeting object
 | Target | Object |
 ---
 **DarkVoid**
-Disrupts psychic force within 10 feet across surfaces, delivering its effect in a single instant.
+Disrupts and negates mind effects. within 10 feet. Takes effect in a single instant.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Counter |
@@ -1839,7 +1840,7 @@ Disrupts psychic force within 10 feet across surfaces, delivering its effect in 
 | Target | Surface |
 ---
 **HiddenFlame**
-Reshapes binding tension across a flat plane within 50 feet targeting objects, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 237 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1853,7 +1854,7 @@ Reshapes binding tension across a flat plane within 50 feet targeting objects, p
 | Target | Object |
 ---
 **WildCrown**
-Screens psychic force as a focused beam at point of contact across surfaces, delivering its effect. Must be actively sustained.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1867,7 +1868,7 @@ Screens psychic force as a focused beam at point of contact across surfaces, del
 | Target | Surface |
 ---
 **WarmRing**
-Detects flux within 50 feet at the marked location, gathers environmental information. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Detects electric-related phenomena and gathers information. within 50 feet. Persists until a specified condition triggers its release.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1881,7 +1882,7 @@ Detects flux within 50 feet at the marked location, gathers environmental inform
 | Target | Where Written |
 ---
 **DissolvSigil**
-Detects psychic force in a circular perimeter within 50 feet on a single person, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. within 50 feet, affecting a single person. Takes effect in a single instant.
 | Wattage | 538 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1895,7 +1896,7 @@ Detects psychic force in a circular perimeter within 50 feet on a single person,
 | Target | Individual |
 ---
 **SteadyMirror**
-Anchors flux as a widening cone at point of contact on a single person, anchors targets in a fixed state. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Anchors chemical flux to the target, holding it in place. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -1909,7 +1910,7 @@ Anchors flux as a widening cone at point of contact on a single person, anchors 
 | Target | Individual |
 ---
 **DullNet**
-Projects flux as a focused beam within 50 feet on a single person, delivering its effect. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Projects electric energy outward, delivering its effect. Travels in a straight line, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -1923,7 +1924,7 @@ Projects flux as a focused beam within 50 feet on a single person, delivering it
 | Target | Individual |
 ---
 **FreezBoon**
-Reshapes flux in a circular perimeter within 50 feet on a single person, alters the target's properties in a single instant. Affordable enough for routine use without draining reserves.
+Induces chemical transformation, altering molecular structure and material composition. within 50 feet, affecting a single person. Takes effect in a single instant. Affordable flux cost makes it viable for routine use.
 | Wattage | 138 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1937,7 +1938,7 @@ Reshapes flux in a circular perimeter within 50 feet on a single person, alters 
 | Target | Individual |
 ---
 **VastSoul**
-Detects flux at point of contact at the marked location, gathers environmental information. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Detects electric-related phenomena and gathers information. at point of contact. Requires continuous concentration to sustain.
 | Wattage | 132 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -1951,7 +1952,7 @@ Detects flux at point of contact at the marked location, gathers environmental i
 | Target | Where Written |
 ---
 **BurVoice**
-Reshapes binding tension in a circular perimeter within 50 feet across surfaces, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 260 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -1965,7 +1966,7 @@ Reshapes binding tension in a circular perimeter within 50 feet across surfaces,
 | Target | Surface |
 ---
 **ChillRoad**
-Screens psychic force across a flat plane within 50 feet on a single person, delivering its effect in a single instant.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Extends across a flat surface, within 50 feet. Takes effect in a single instant.
 | Wattage | 523 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -1979,7 +1980,7 @@ Screens psychic force across a flat plane within 50 feet on a single person, del
 | Target | Individual |
 ---
 **BrightDoor**
-Channels flux within 10 feet on a single person, delivering its effect. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Channels electric flux to produce its effect. within 10 feet, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 143 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -1993,7 +1994,7 @@ Channels flux within 10 feet on a single person, delivering its effect. Must be 
 | Target | Individual |
 ---
 **HiddenHand**
-Screens flux at point of contact on a single person, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Screens chemical flux, blocking unwanted elements while allowing valid ones through. at point of contact, affecting a single person. Persists for several minutes without further attention.
 | Wattage | 155 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2007,7 +2008,7 @@ Screens flux at point of contact on a single person, delivering its effect. Pers
 | Target | Individual |
 ---
 **VastBoon**
-Reshapes psychic force as a focused beam at point of contact across surfaces, alters the target's properties. Persists until the specified condition triggers.
+Reshapes the target using mind flux. Travels in a straight line, at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2021,7 +2022,7 @@ Reshapes psychic force as a focused beam at point of contact across surfaces, al
 | Target | Surface |
 ---
 **PiercAura**
-Screens psychic force across a flat plane within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 510 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2035,7 +2036,7 @@ Screens psychic force across a flat plane within 10 feet at the marked location,
 | Target | Where Written |
 ---
 **GuardPulse**
-Anchors binding tension in a circular perimeter within 10 feet targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 247 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2049,7 +2050,7 @@ Anchors binding tension in a circular perimeter within 10 feet targeting objects
 | Target | Object |
 ---
 **SlowCrown**
-Disrupts psychic force across a flat plane within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Disrupts and negates mind effects. Extends across a flat surface, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 235 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2063,7 +2064,7 @@ Disrupts psychic force across a flat plane within 10 feet across surfaces, deliv
 | Target | Surface |
 ---
 **AnchorMark**
-Projects psychic force as a focused beam within 50 feet across surfaces, delivering its effect in a single instant.
+Projects psychic force that penetrates mental defenses and influences thought patterns. Travels in a straight line, within 50 feet. Takes effect in a single instant.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2077,7 +2078,7 @@ Projects psychic force as a focused beam within 50 feet across surfaces, deliver
 | Target | Surface |
 ---
 **ReleaseDream**
-Screens binding tension in a circular perimeter at point of contact targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 219 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2091,7 +2092,7 @@ Screens binding tension in a circular perimeter at point of contact targeting ob
 | Target | Object |
 ---
 **BindChain**
-Detects binding tension in a circular perimeter within 10 feet on a single person, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 133 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2105,7 +2106,7 @@ Detects binding tension in a circular perimeter within 10 feet on a single perso
 | Target | Individual |
 ---
 **FreezeFlame**
-Anchors binding tension in a circular perimeter within 10 feet on a single person, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 253 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2119,7 +2120,7 @@ Anchors binding tension in a circular perimeter within 10 feet on a single perso
 | Target | Individual |
 ---
 **FlowThread**
-Disrupts binding tension within 10 feet at the marked location, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2133,7 +2134,7 @@ Disrupts binding tension within 10 feet at the marked location, pins limbs and r
 | Target | Where Written |
 ---
 **CalmWisp**
-Anchors flux at point of contact on a single person, anchors targets in a fixed state. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Anchors chemical flux to the target, holding it in place. at point of contact, affecting a single person. Requires continuous concentration to sustain.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2147,7 +2148,7 @@ Anchors flux at point of contact on a single person, anchors targets in a fixed 
 | Target | Individual |
 ---
 **AnchorScar**
-Disrupts flux as a focused beam at point of contact targeting objects, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Disrupts and negates chemical effects. Travels in a straight line, at point of contact. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 134 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2161,7 +2162,7 @@ Disrupts flux as a focused beam at point of contact targeting objects, deliverin
 | Target | Object |
 ---
 **SlowKnot**
-Channels psychic force as a focused beam at point of contact across surfaces, delivering its effect. Must be actively sustained.
+Channels mind flux to produce its effect. Travels in a straight line, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 522 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2175,7 +2176,7 @@ Channels psychic force as a focused beam at point of contact across surfaces, de
 | Target | Surface |
 ---
 **ReleasMirror**
-Detects flux in a circular perimeter within 10 feet across surfaces, gathers environmental information. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Detects electric-related phenomena and gathers information. within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2189,7 +2190,7 @@ Detects flux in a circular perimeter within 10 feet across surfaces, gathers env
 | Target | Surface |
 ---
 **KindleCurse**
-Projects psychic force in a circular perimeter within 50 feet at the marked location, delivering its effect. Must be actively sustained.
+Projects psychic force that penetrates mental defenses and influences thought patterns. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 240 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2203,7 +2204,7 @@ Projects psychic force in a circular perimeter within 50 feet at the marked loca
 | Target | Where Written |
 ---
 **DissolvHeart**
-Anchors psychic force across a flat plane within 50 feet across surfaces, anchors targets in a fixed state. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Locks mental patterns in place, preventing thought divergence. Extends across a flat surface, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 245 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2217,7 +2218,7 @@ Anchors psychic force across a flat plane within 50 feet across surfaces, anchor
 | Target | Surface |
 ---
 **StillVoice**
-Projects binding tension across a flat plane at point of contact on a single person, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 235 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2231,7 +2232,7 @@ Projects binding tension across a flat plane at point of contact on a single per
 | Target | Individual |
 ---
 **DriftShadow**
-Screens psychic force as a widening cone within 10 feet at the marked location, delivering its effect. Persists until the specified condition triggers.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Spreads in a widening arc, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 535 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2245,7 +2246,7 @@ Screens psychic force as a widening cone within 10 feet at the marked location, 
 | Target | Where Written |
 ---
 **SweepRune**
-Channels psychic force as a focused beam within 50 feet at the marked location, delivering its effect. Must be actively sustained.
+Channels mind flux to produce its effect. Travels in a straight line, within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Move |
@@ -2259,7 +2260,7 @@ Channels psychic force as a focused beam within 50 feet at the marked location, 
 | Target | Where Written |
 ---
 **WeavBridge**
-Anchors psychic force across a flat plane within 10 feet across surfaces, anchors targets in a fixed state. Persists until the specified condition triggers.
+Locks mental patterns in place, preventing thought divergence. Extends across a flat surface, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2273,7 +2274,7 @@ Anchors psychic force across a flat plane within 10 feet across surfaces, anchor
 | Target | Surface |
 ---
 **ChillBond**
-Anchors flux in a circular perimeter at point of contact across surfaces, anchors targets in a fixed state. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Anchors electric flux to the target, holding it in place. at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2287,7 +2288,7 @@ Anchors flux in a circular perimeter at point of contact across surfaces, anchor
 | Target | Surface |
 ---
 **TransformShadow**
-Reshapes flux in a circular perimeter within 10 feet across surfaces, alters the target's properties. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Induces chemical transformation, altering molecular structure and material composition. within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2301,7 +2302,7 @@ Reshapes flux in a circular perimeter within 10 feet across surfaces, alters the
 | Target | Surface |
 ---
 **BindTide**
-Projects psychic force across a flat plane at point of contact targeting objects, delivering its effect. Must be actively sustained.
+Projects psychic force that penetrates mental defenses and influences thought patterns. Extends across a flat surface, at point of contact. Requires continuous concentration to sustain.
 | Wattage | 514 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2315,7 +2316,7 @@ Projects psychic force across a flat plane at point of contact targeting objects
 | Target | Object |
 ---
 **QuietVoid**
-Projects psychic force across a flat plane within 10 feet on a single person, delivering its effect. Runs for roughly a minute before dissipating.
+Projects psychic force that penetrates mental defenses and influences thought patterns. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 518 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2329,7 +2330,7 @@ Projects psychic force across a flat plane within 10 feet on a single person, de
 | Target | Individual |
 ---
 **FreezeThought**
-Detects psychic force across a flat plane within 10 feet at the marked location, gathers environmental information in a single instant.
+Reads surface thoughts and current mental states. Extends across a flat surface, within 10 feet. Takes effect in a single instant.
 | Wattage | 205 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2343,7 +2344,7 @@ Detects psychic force across a flat plane within 10 feet at the marked location,
 | Target | Where Written |
 ---
 **ReleaseLight**
-Screens binding tension as a widening cone within 10 feet at the marked location, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 240 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2357,7 +2358,7 @@ Screens binding tension as a widening cone within 10 feet at the marked location
 | Target | Where Written |
 ---
 **TransformVeil**
-Reshapes binding tension as a widening cone within 10 feet on a single person, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 228 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2371,7 +2372,7 @@ Reshapes binding tension as a widening cone within 10 feet on a single person, p
 | Target | Individual |
 ---
 **HollowCurse**
-Screens binding tension in a circular perimeter within 50 feet at the marked location, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 50 feet. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 135 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2385,7 +2386,7 @@ Screens binding tension in a circular perimeter within 50 feet at the marked loc
 | Target | Where Written |
 ---
 **TransformSeal**
-Projects psychic force within 10 feet targeting objects, delivering its effect. Runs for roughly a minute before dissipating.
+Projects psychic force that penetrates mental defenses and influences thought patterns. within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 232 W |
 | Shape | Square |
 | Hook | Emit |
@@ -2399,7 +2400,7 @@ Projects psychic force within 10 feet targeting objects, delivering its effect. 
 | Target | Object |
 ---
 **FreezeTide**
-Channels binding tension within 10 feet targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Move |
@@ -2413,7 +2414,7 @@ Channels binding tension within 10 feet targeting objects, pins limbs and restri
 | Target | Object |
 ---
 **LoneTouch**
-Channels binding tension as a focused beam within 10 feet targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Travels in a straight line, within 10 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 212 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2427,7 +2428,7 @@ Channels binding tension as a focused beam within 10 feet targeting objects, pin
 | Target | Object |
 ---
 **RisDoor**
-Screens psychic force as a focused beam within 10 feet at the marked location, delivering its effect. Runs for roughly a minute before dissipating.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 515 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2441,7 +2442,7 @@ Screens psychic force as a focused beam within 10 feet at the marked location, d
 | Target | Where Written |
 ---
 **DeepHeart**
-Screens binding tension across a flat plane at point of contact targeting objects, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 214 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2455,7 +2456,7 @@ Screens binding tension across a flat plane at point of contact targeting object
 | Target | Object |
 ---
 **RiseVeil**
-Screens psychic force as a focused beam within 10 feet at the marked location, delivering its effect. Must be actively sustained.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Requires continuous concentration to sustain.
 | Wattage | 220 W |
 | Shape | Square |
 | Hook | Filter |
@@ -2469,7 +2470,7 @@ Screens psychic force as a focused beam within 10 feet at the marked location, d
 | Target | Where Written |
 ---
 **PiercCrown**
-Screens binding tension as a widening cone at point of contact across surfaces, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, at point of contact. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2483,7 +2484,7 @@ Screens binding tension as a widening cone at point of contact across surfaces, 
 | Target | Surface |
 ---
 **DriftingEye**
-Channels flux at point of contact at the marked location, delivering its effect. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Channels chemical flux to produce its effect. at point of contact. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 142 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2497,7 +2498,7 @@ Channels flux at point of contact at the marked location, delivering its effect.
 | Target | Where Written |
 ---
 **CapturCrown**
-Reshapes psychic force in a circular perimeter at point of contact at the marked location, alters the target's properties. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Reshapes the target using mind flux. at point of contact. Persists for several minutes without further attention.
 | Wattage | 242 W |
 | Shape | Square |
 | Hook | Transform |
@@ -2511,7 +2512,7 @@ Reshapes psychic force in a circular perimeter at point of contact at the marked
 | Target | Where Written |
 ---
 **RisePulse**
-Disrupts psychic force in a circular perimeter within 50 feet on a single person, delivering its effect in a single instant.
+Disrupts and negates mind effects. within 50 feet, affecting a single person. Takes effect in a single instant.
 | Wattage | 238 W |
 | Shape | Square |
 | Hook | Counter |
@@ -2525,7 +2526,7 @@ Disrupts psychic force in a circular perimeter within 50 feet on a single person
 | Target | Individual |
 ---
 **PureMirror**
-Anchors flux as a widening cone within 50 feet targeting objects, anchors targets in a fixed state. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Anchors chemical flux to the target, holding it in place. Spreads in a widening arc, within 50 feet. Persists for several minutes without further attention.
 | Wattage | 152 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2539,7 +2540,7 @@ Anchors flux as a widening cone within 50 feet targeting objects, anchors target
 | Target | Object |
 ---
 **CalmTide**
-Projects binding tension across a flat plane within 50 feet at the marked location, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 50 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |
@@ -2553,7 +2554,7 @@ Projects binding tension across a flat plane within 50 feet at the marked locati
 | Target | Where Written |
 ---
 **TwinSigil**
-Detects binding tension within 10 feet on a single person, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. within 10 feet, affecting a single person. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 138 W |
 | Shape | Square |
 | Hook | Sense |
@@ -2567,7 +2568,7 @@ Detects binding tension within 10 feet on a single person, pins limbs and restri
 | Target | Individual |
 ---
 **SlowStorm**
-Screens flux within 50 feet at the marked location, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Screens electric flux, blocking unwanted elements while allowing valid ones through. within 50 feet. Persists for several minutes without further attention.
 | Wattage | 160 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2581,7 +2582,7 @@ Screens flux within 50 feet at the marked location, delivering its effect. Persi
 | Target | Where Written |
 ---
 **AncientShroud**
-Reshapes binding tension at point of contact on a single person, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact, affecting a single person. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 250 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2595,7 +2596,7 @@ Reshapes binding tension at point of contact on a single person, pins limbs and 
 | Target | Individual |
 ---
 **KindlGate**
-Screens psychic force as a focused beam within 10 feet across surfaces, delivering its effect. Persists for several minutes without further attention. Runs without further attention, freeing concentration for other tasks.
+Filters psychic input, protecting against mental intrusion while allowing benign contact. Travels in a straight line, within 10 feet. Persists for several minutes without further attention.
 | Wattage | 540 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2609,7 +2610,7 @@ Screens psychic force as a focused beam within 10 feet across surfaces, deliveri
 | Target | Surface |
 ---
 **ShatterWall**
-Channels flux as a widening cone within 10 feet on a single person, delivering its effect. Persists for several minutes without further attention. Affordable enough for routine use without draining reserves.
+Channels chemical flux to produce its effect. Spreads in a widening arc, within 10 feet. Persists for several minutes without further attention. Affordable flux cost makes it viable for routine use.
 | Wattage | 148 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2623,7 +2624,7 @@ Channels flux as a widening cone within 10 feet on a single person, delivering i
 | Target | Individual |
 ---
 **GrandVoice**
-Anchors psychic force as a widening cone at point of contact targeting objects, anchors targets in a fixed state in a single instant.
+Locks mental patterns in place, preventing thought divergence. Spreads in a widening arc, at point of contact. Takes effect in a single instant.
 | Wattage | 214 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2637,7 +2638,7 @@ Anchors psychic force as a widening cone at point of contact targeting objects, 
 | Target | Object |
 ---
 **SurgeBrand**
-Channels binding tension as a widening cone within 10 feet targeting objects, pins limbs and restricts physical action. Must be actively sustained. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 10 feet. Requires continuous concentration to sustain. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2651,7 +2652,7 @@ Channels binding tension as a widening cone within 10 feet targeting objects, pi
 | Target | Object |
 ---
 **LightBond**
-Disrupts flux in a circular perimeter within 50 feet at the marked location, delivering its effect. Must be actively sustained. Affordable enough for routine use without draining reserves.
+Disrupts and negates chemical effects. within 50 feet. Requires continuous concentration to sustain.
 | Wattage | 140 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2665,7 +2666,7 @@ Disrupts flux in a circular perimeter within 50 feet at the marked location, del
 | Target | Where Written |
 ---
 **PureFrost**
-Anchors psychic force as a focused beam within 10 feet at the marked location, anchors targets in a fixed state. Persists until the specified condition triggers.
+Locks mental patterns in place, preventing thought divergence. Travels in a straight line, within 10 feet. Persists until a specified condition triggers its release.
 | Wattage | 230 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2679,7 +2680,7 @@ Anchors psychic force as a focused beam within 10 feet at the marked location, a
 | Target | Where Written |
 ---
 **SweepStorm**
-Anchors psychic force in a circular perimeter within 10 feet at the marked location, anchors targets in a fixed state. Runs for roughly a minute before dissipating.
+Locks mental patterns in place, preventing thought divergence. within 10 feet. Lasts roughly a minute before dissipating.
 | Wattage | 225 W |
 | Shape | Square |
 | Hook | Bind |
@@ -2693,7 +2694,7 @@ Anchors psychic force in a circular perimeter within 10 feet at the marked locat
 | Target | Where Written |
 ---
 **WeavAura**
-Reshapes flux in a circular perimeter at point of contact on a single person, alters the target's properties. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Reshapes the target using electric flux. at point of contact, affecting a single person. Persists until a specified condition triggers its release. Affordable flux cost makes it viable for routine use.
 | Wattage | 145 W |
 | Shape | Pentagon |
 | Hook | Transform |
@@ -2707,7 +2708,7 @@ Reshapes flux in a circular perimeter at point of contact on a single person, al
 | Target | Individual |
 ---
 **BindWisp**
-Detects psychic force as a widening cone at point of contact at the marked location, gathers environmental information. Persists until the specified condition triggers.
+Reads surface thoughts and current mental states. Spreads in a widening arc, at point of contact. Persists until a specified condition triggers its release.
 | Wattage | 532 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2721,7 +2722,7 @@ Detects psychic force as a widening cone at point of contact at the marked locat
 | Target | Where Written |
 ---
 **CalmBrand**
-Detects flux as a widening cone within 50 feet across surfaces, gathers environmental information. Runs for roughly a minute before dissipating. Affordable enough for routine use without draining reserves.
+Detects chemical-related phenomena and gathers information. Spreads in a widening arc, within 50 feet. Lasts roughly a minute before dissipating. Affordable flux cost makes it viable for routine use.
 | Wattage | 135 W |
 | Shape | Pentagon |
 | Hook | Sense |
@@ -2735,7 +2736,7 @@ Detects flux as a widening cone within 50 feet across surfaces, gathers environm
 | Target | Surface |
 ---
 **BindWay**
-Screens binding tension at point of contact targeting objects, pins limbs and restricts physical action. Persists until the specified condition triggers. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. at point of contact. Persists until a specified condition triggers its release. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 244 W |
 | Shape | Pentagon |
 | Hook | Filter |
@@ -2749,7 +2750,7 @@ Screens binding tension at point of contact targeting objects, pins limbs and re
 | Target | Object |
 ---
 **StraightBoon**
-Anchors flux in a circular perimeter within 50 feet on a single person, anchors targets in a fixed state. Persists until the specified condition triggers. Affordable enough for routine use without draining reserves.
+Anchors chemical flux to the target, holding it in place. within 50 feet, affecting a single person. Persists until a specified condition triggers its release.
 | Wattage | 158 W |
 | Shape | Pentagon |
 | Hook | Bind |
@@ -2763,7 +2764,7 @@ Anchors flux in a circular perimeter within 50 feet on a single person, anchors 
 | Target | Individual |
 ---
 **BreakShell**
-Channels binding tension across a flat plane at point of contact targeting objects, pins limbs and restricts physical action. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, at point of contact. Persists for several minutes without further attention. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 229 W |
 | Shape | Pentagon |
 | Hook | Ward |
@@ -2777,7 +2778,7 @@ Channels binding tension across a flat plane at point of contact targeting objec
 | Target | Object |
 ---
 **CalmTouch**
-Disrupts binding tension as a widening cone within 50 feet targeting objects, pins limbs and restricts physical action in a single instant. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Spreads in a widening arc, within 50 feet. Takes effect in a single instant. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 227 W |
 | Shape | Pentagon |
 | Hook | Counter |
@@ -2791,7 +2792,7 @@ Disrupts binding tension as a widening cone within 50 feet targeting objects, pi
 | Target | Object |
 ---
 **SurCurse**
-Projects binding tension across a flat plane within 10 feet across surfaces, pins limbs and restricts physical action. Runs for roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without injury.
+Pins limbs and joints, restricting physical motion and forcing immobility. Extends across a flat surface, within 10 feet. Lasts roughly a minute before dissipating. Ideal for subduing opponents or securing prisoners without lethal force.
 | Wattage | 215 W |
 | Shape | Pentagon |
 | Hook | Emit |

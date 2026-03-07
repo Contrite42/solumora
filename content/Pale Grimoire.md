@@ -17,9 +17,10 @@ Pins soul-signature flux as a wrapped radius around the mark anywhere in line of
 
 
 
+
 ---
 **FierceAura**
-Projects soul-bound flux as a contained field anywhere within line of sight, delivering its effect. The effect becomes permanent once established.
+Releases soul-flux that resonates with targets' metaphysical essence. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 203008 W |
 | Shape | Circle |
 | Hook | Emit |
@@ -33,7 +34,7 @@ Projects soul-bound flux as a contained field anywhere within line of sight, del
 | Target | Filter |
 ---
 **SwiftDoor**
-Detects soul-bound flux as a contained field anywhere within line of sight on a single person, gathers environmental information.
+Detects soul-signatures and binding marks, revealing metaphysical connections. Fills an enclosed volume, anywhere visible.
 | Wattage | 216179 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -47,7 +48,7 @@ Detects soul-bound flux as a contained field anywhere within line of sight on a 
 | Target | Individual |
 ---
 **KindlFlame**
-Channels soul-bound flux in a spherical burst anywhere within line of sight on a single person, delivering its effect.
+Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible.
 | Wattage | 244940 W |
 | Shape | Circle |
 | Hook | Move |
@@ -61,7 +62,7 @@ Channels soul-bound flux in a spherical burst anywhere within line of sight on a
 | Target | Individual |
 ---
 **GuardShroud**
-Screens soul-bound flux as a contained field anywhere within line of sight on a single person, delivering its effect. The effect becomes permanent once established.
+Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 226953 W |
 | Shape | Circle |
 | Hook | Filter |
@@ -75,7 +76,7 @@ Screens soul-bound flux as a contained field anywhere within line of sight on a 
 | Target | Individual |
 ---
 **TwinBridge**
-Channels soul-bound flux as a contained field affecting multiple targets, delivering its effect.
+Channels soul flux to produce its effect. Fills an enclosed volume, hitting multiple targets.
 | Wattage | 382824 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -89,7 +90,7 @@ Channels soul-bound flux as a contained field affecting multiple targets, delive
 | Target | Group |
 ---
 **FallWeb**
-Detects soul-bound flux in a spherical burst on a single person, gathers environmental information. The effect becomes permanent once established.
+Detects soul-signatures and binding marks, revealing metaphysical connections. Expands in all directions from the center, affecting a single person. The effect becomes permanent once established.
 | Wattage | 445675 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -103,7 +104,7 @@ Detects soul-bound flux in a spherical burst on a single person, gathers environ
 | Target | Individual |
 ---
 **BurningGlyph**
-Detects soul-bound flux as a contained field anywhere within line of sight affecting multiple targets, gathers environmental information. The effect becomes permanent once established.
+Detects soul-signatures and binding marks, revealing metaphysical connections. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 481260 W |
 | Shape | Circle |
 | Hook | Sense |
@@ -117,7 +118,7 @@ Detects soul-bound flux as a contained field anywhere within line of sight affec
 | Target | Group |
 ---
 **SlowSilence**
-Channels soul-bound flux as a contained field anywhere within line of sight affecting multiple targets, delivering its effect. The effect becomes permanent once established.
+Channels soul flux to produce its effect. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 457377 W |
 | Shape | Circle |
 | Hook | Move |
@@ -131,7 +132,7 @@ Channels soul-bound flux as a contained field anywhere within line of sight affe
 | Target | Group |
 ---
 **StillGate**
-Channels soul-bound flux in a spherical burst anywhere within line of sight, delivering its effect.
+Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible.
 | Wattage | 367727 W |
 | Shape | Circle |
 | Hook | Move |
@@ -145,7 +146,7 @@ Channels soul-bound flux in a spherical burst anywhere within line of sight, del
 | Target | Filter |
 ---
 **DissolveScar**
-Channels soul-bound flux as a contained field on a single person, delivering its effect. The effect becomes permanent once established.
+Channels soul flux to produce its effect. Fills an enclosed volume, affecting a single person. The effect becomes permanent once established.
 | Wattage | 283512 W |
 | Shape | Circle |
 | Hook | Ward |
@@ -159,7 +160,7 @@ Channels soul-bound flux as a contained field on a single person, delivering its
 | Target | Individual |
 ---
 **CalmBond**
-Reshapes soul-bound flux in a spherical burst anywhere within line of sight affecting multiple targets, alters the target's properties. The effect becomes permanent once established.
+Reshapes the target using soul flux. Expands in all directions from the center, anywhere visible. The effect becomes permanent once established.
 | Wattage | 206135 W |
 | Shape | Circle |
 | Hook | Transform |
