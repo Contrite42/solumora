@@ -1,37 +1,38 @@
-# Current Task: EXPANSION-015 — Flux Research Institutions
+# Current Task: WORLD ROUNDING — Bridge Concepts Expansion
 
-**Status:** COMPLETE  
+**Status:** In Progress  
 **Owner:** Copilot Auto  
-**Completed:** 2026-03-07
+**Started:** 2026-03-07
 
-## Deliverables ✓
+## Objective
 
-**Research Institutions (4 documented):**
-- [[Crestward Flux Institute]] (Auralis) — 80-100 staff, cost-reduction focus, military coordination
-- [[Emberfall]] (Auralis) — Specialist obsessive research with individual scholar focus
-- [[Northern Terravelle Academy]] (Terravelle) — Rift mechanics and settlement applications
-- [[Solhaven Flux Practical Research Collective]] (Terravelle) — NEW: Distributed independent network, 12-18 practitioners, non-hierarchical governance
+Upgrade 9 thin bridge concept pages from glossary-style stubs to practical system notes with concrete mechanisms, recurring actors, and failure modes.
 
-**Researcher NPCs (4):**
-- [[Casten Miel]] — T4 Crestward director (NEW), age 58, managing institutional/scholar balance
-- [[Vestra Veln]] — T5 Emberfall sigil miniaturization specialist, age 35, career decision point
-- [[Meln Corst]] — T4 Northern Terravelle rift mechanics researcher, age 47, field-grounded
-- [[Kedn Rast]] — T3 independent cross-kingdom research bridge, age 42, Solhaven-based
+## Target Pages
 
-**Hub Integration:**
-- [[Flux]] "Contemporary Research" section expanded to 480+ lines
-- Integrated wartime pressure impacts: practitioner conscription, funding redirection, material scarcity, research freedom tensions
-- Cross-linked all institutions and researchers
+1. Kingdoms
+2. Guilds
+3. Infrastructure
+4. Border Trade
+5. Cross-Border Trade
+6. Cross-Border Commerce
+7. Political Dynamics
+8. Political Intelligence
+9. Council Dynamics
 
-**Navigation:**
-- Concept-graph: 669 nodes, 6929 edges, 563 pages
-- Context-index: 563 pages
+## Requirements
 
----
+- Each page must have 5+ outbound links
+- Cross-links between bridge concepts established
+- Tone: matter-of-fact and non-mythic
+- Show concrete mechanisms, recurring actors, failure modes
+- Maintain consistency with existing world systems
 
-## Next Task
+## Deliverables
 
-Ready for next task assignment. Check USER_INPUT.md or TASK_QUEUE.md for next expansion priority.
+- [ ] 9 upgraded concept pages
+- [ ] Cross-linking complete
+- [ ] Navigation artifacts refreshed
 
 Default navigation method (run from repo root):
 
