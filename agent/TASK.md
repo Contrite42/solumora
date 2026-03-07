@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-004 - Education & Apprenticeship Systems
+# Active Task: EXPANSION-005 - Law & Justice Systems
 
 **Status:** IN PROGRESS
 **Owner:** Copilot
@@ -6,45 +6,44 @@
 
 ## Goal
 
-Show how Flux knowledge and grimoire use spread through society, with formal schools, apprenticeships, family traditions, and tier stratification.
+Build operational legal systems showing how crimes involving Flux are prosecuted, judged, and punished in both kingdoms.
 
 ## Constraints
 
-- Must reflect tier stratification (T0-T1 common people learn differently than T3+ mages)
-- Contrast Auralis institutional/formal approach vs Terravelle traditional/apprenticeship approach
-- Exponential Flux cost means most practical knowledge is low-tier (T0-T2 grimoires widespread)
+- Flux crimes have unique detection challenges (T3+ required, evidence can be manipulated)
+- Jurisdiction questions arise at kingdom borders and desert crossings
+- Show how non-Flux users face Flux-capable criminals (power asymmetry)
+- Contrast Auralis institutional justice (courts, formal law) vs Terravelle reputation-based justice (guild mediation, community accountability)
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
-- Existing canon: Control Tier system (T0-T5), both kingdoms have different cultural approaches
-- Show educational access barriers: cost, talent, geography, social class
+- Existing canon: Control Tier system, both kingdoms have different cultural/institutional approaches
 
 ## Output Target
 
-8-10 notes total:
-- 2-3 institutional notes (Auralis schools, Terravelle guild systems)
-- 1-2 teaching method notes (formal instruction vs apprenticeship)
-- 1-2 notes on apprenticeship contracts, learning costs, certification
-- 2-3 NPC notes (famous teachers, masters, education administrators)
-- 1-2 notes on family transmission, informal learning
-- Update [[Flux Users]] page with education system links
+6-8 notes total:
+- 1 hub page: [[Law and Order]]
+- 2-3 institutional notes (Auralis courts, Terravelle guild justice, enforcement systems)
+- 2-3 case example notes (showing systems in action)
+- 2-3 NPC notes (judges, enforcers, legal specialists)
+- Link from [[Auralis]] and [[Terravelle]] pages to new law content
 
 ## Execution Plan
 
-1. Query navigation cache for Flux Users related concepts
-2. Read Flux Users page and Control Tier page for canon grounding
-3. Design Auralis institutional education system (formal, engineered, meritocratic)
-4. Design Terravelle traditional education system (guilds, apprenticeships, family lines)
-5. Create teaching method notes showing practical differences
-6. Create 2-3 NPC notes (teachers showing different approaches)
-7. Create costs/contracts/certification notes
+1. Query navigation cache for related concepts (Auralis, Terravelle, Control Tier)
+2. Design Auralis formal legal system (courts, enforcement, codified law)
+3. Design Terravelle informal justice system (guild mediation, reputation consequences)
+4. Create enforcement/detection systems for Flux crimes
+5. Create 2-3 case examples showing both systems
+6. Create 2-3 NPC notes (judges, enforcers)
+7. Create Law and Order hub page
 8. Write all content notes
-9. Update Flux Users page with education section
+9. Link from kingdom pages
 10. Refresh navigation artifacts
 11. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Querying navigation cache for Flux Users...
+Querying navigation cache for law and justice context...
 
 ---
 

@@ -131,12 +131,13 @@ Blocked tasks are marked with their dependency.
 
 ### Priority Track: Social Systems
 
-- [ ] **EXPANSION-004: Education & Apprenticeship Systems**
+- [x] **EXPANSION-004: Education & Apprenticeship Systems**
       **Goal:** Show how Flux knowledge and grimoire use spread through society (formal schools, apprenticeships, family traditions).
       **Constraints:** Must reflect tier stratification. Common people learn differently than mages. Show both kingdom approaches (Auralis vs Terravelle cultural differences).
       **Output:** 8-10 notes (institutions, teaching methods, famous teachers, apprenticeship contracts, learning costs) + update [[Flux Users]].
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Flux Users
+      **Status:** COMPLETE - Aldrane Academy, Terravelle Guild System, Scholar Training, Grimoire Apprenticeship Contracts, Flux Education Costs, Family Flux Transmission, 2 NPCs (Vessa Korst, Dren Velt), Flux Users updated
 
 - [ ] **EXPANSION-005: Law & Justice Systems**
       **Goal:** Build operational legal systems showing how crimes involving Flux are prosecuted, judged, and punished in both kingdoms.
