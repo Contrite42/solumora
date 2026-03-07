@@ -189,12 +189,13 @@ Blocked tasks are marked with their dependency.
       **Seed concept:** Ancient Ruins
       **Status:** COMPLETE - Four major ruins sites created (3 anomalous + 1 non-anomalous reference site): Drendmark Flux Well, Solden Archive, The Korden Loop, The Corfeld Inscriptions. Updated Ancient Ruins.md with new site descriptions and links. Navigation cache refreshed.
 
-- [ ] **EXPANSION-011: Wilderness & Creatures**
+- [x] **EXPANSION-011: Wilderness & Creatures**
       **Goal:** Build ecosystem layer with dangerous/useful creatures beyond [[Equatorial Fauna]].
       **Constraints:** Show Flux's effect on wildlife (mutations, behaviors, flux-beast category). Include both threats and resources (creature products, symbiotic relationships).
       **Output:** 8-10 notes (creature types, habitats, hunter culture, creature product trade, 1-2 naturalist NPCs) + create [[Creatures]] hub.
-      **Owner:** TBD
+      **Owner:** Copilot
       **Seed concept:** Creatures
+      **Status:** COMPLETE - Six creatures created across three biome types (Bloodshrike northern aerial predator, Flux Scorpion desert apex Flux-adapted predator, Ripplecat temperate semi-aquatic feline, Prowlpack northern pack predator, Boneshell Crab coastal scavenger), [[Equatorial Fauna]] expanded with new creature references, 2 specialized NPCs (Dorn Sels institutional ecology researcher, Kels Vorn professional bloodshrike specialist and predator-control coordinator), [[Creatures]] synthesis hub integrating hunting culture framework and contemporary war pressure impacts (personnel requisitions, territorial displacement, commodity surge, sustainability tensions). Navigation cache refreshed 592→613 nodes, 6327→6418 edges, 519→527 pages.
 
 - [ ] **EXPANSION-012: Adventurer Support Network**
       **Goal:** Detail the commercial infrastructure serving [[Adventurers]] (gear suppliers, map makers, information brokers, rescue services, death documentation).

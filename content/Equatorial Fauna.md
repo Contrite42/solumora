@@ -28,4 +28,4 @@ The most dangerous fauna are not the largest. The largest visible species — a 
 
 The native fauna of Zakros are not [[Flux Demons]] and should not be confused with them. Fauna evolved within Solumora's Flux gradient over generations. Flux Demons are dimensional interlopers with no evolutionary relationship to the desert ecosystem. The fauna treat them as they treat most things: with opportunistic patience. Flux Demons are not easy prey and are not typically targeted. In areas near active rift zones, the fauna distribution shifts — the largest territorial species tend to vacate the immediate vicinity of known rifts, possibly due to the Flux disturbance associated with rift activity.
 
-_See also: [[Equatorial Desert]], [[Flux]], [[Ancient Ruins]], [[Flux Demons]], [[Rift Incursions]], [[Emberfall]]_
+_See also: [[Creatures]], [[Equatorial Desert]], [[Flux]], [[Ancient Ruins]], [[Flux Demons]], [[Rift Incursions]], [[Emberfall]], [[Dorn Sels]], [[Flux Scorpion]]_
