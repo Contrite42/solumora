@@ -4,10 +4,7 @@ _Return to [[All Grimoire]]_
 
 ***
 
-SweepBreath
-
-***
-
+**SweepBreath**
 Pins soul-signature flux as a wrapped radius around the mark anywhere in line of sight on a single person, creating a clamp-like hold that resists motion or change, and once stabilized it remains as a permanent working.
 | Wattage | 498339 W |
 | Shape | Circle |
@@ -21,18 +18,9 @@ Pins soul-signature flux as a wrapped radius around the mark anywhere in line of
 | Persistence | Permanent |
 | Target | Individual |
 
-\n\n
-
 ***
 
-*\n\n
-
-***
-
-FierceAura
-
-***
-
+**FierceAura**
 Releases soul-flux that resonates with targets' metaphysical essence. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 203008 W |
 | Shape | Circle |
@@ -45,18 +33,10 @@ Releases soul-flux that resonates with targets' metaphysical essence. Fills an e
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Filter |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-SwiftDoor
-
-***
-
+**SwiftDoor**
 Detects soul-signatures and binding marks, revealing metaphysical connections. Fills an enclosed volume, anywhere visible.
 | Wattage | 216179 W |
 | Shape | Circle |
@@ -69,18 +49,10 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. F
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Individual |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-KindlFlame
-
-***
-
+**KindlFlame**
 Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible.
 | Wattage | 244940 W |
 | Shape | Circle |
@@ -93,18 +65,10 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Individual |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-GuardShroud
-
-***
-
+**GuardShroud**
 Screens soul-flux by signature, blocking unwanted metaphysical influence while permitting recognized patterns. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 226953 W |
 | Shape | Circle |
@@ -117,18 +81,10 @@ Screens soul-flux by signature, blocking unwanted metaphysical influence while p
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Individual |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-TwinBridge
-
-***
-
+**TwinBridge**
 Channels soul flux to produce its effect. Fills an enclosed volume, hitting multiple targets.
 | Wattage | 382824 W |
 | Shape | Circle |
@@ -141,18 +97,10 @@ Channels soul flux to produce its effect. Fills an enclosed volume, hitting mult
 | Reach | Linked |
 | Persistence | Latched |
 | Target | Group |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-FallWeb
-
-***
-
+**FallWeb**
 Detects soul-signatures and binding marks, revealing metaphysical connections. Expands in all directions from the center, affecting a single person. The effect becomes permanent once established.
 | Wattage | 445675 W |
 | Shape | Circle |
@@ -165,18 +113,10 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. E
 | Reach | Linked |
 | Persistence | Permanent |
 | Target | Individual |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-BurningGlyph
-
-***
-
+**BurningGlyph**
 Detects soul-signatures and binding marks, revealing metaphysical connections. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 481260 W |
 | Shape | Circle |
@@ -189,18 +129,10 @@ Detects soul-signatures and binding marks, revealing metaphysical connections. F
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Group |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-SlowSilence
-
-***
-
+**SlowSilence**
 Channels soul flux to produce its effect. Fills an enclosed volume, anywhere visible. The effect becomes permanent once established.
 | Wattage | 457377 W |
 | Shape | Circle |
@@ -213,18 +145,10 @@ Channels soul flux to produce its effect. Fills an enclosed volume, anywhere vis
 | Reach | Line-of-Sight |
 | Persistence | Permanent |
 | Target | Group |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-StillGate
-
-***
-
+**StillGate**
 Channels soul flux to produce its effect. Expands in all directions from the center, anywhere visible.
 | Wattage | 367727 W |
 | Shape | Circle |
@@ -237,18 +161,10 @@ Channels soul flux to produce its effect. Expands in all directions from the cen
 | Reach | Line-of-Sight |
 | Persistence | Latched |
 | Target | Filter |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-DissolveScar
-
-***
-
+**DissolveScar**
 Channels soul flux to produce its effect. Fills an enclosed volume, affecting a single person. The effect becomes permanent once established.
 | Wattage | 283512 W |
 | Shape | Circle |
@@ -261,18 +177,10 @@ Channels soul flux to produce its effect. Fills an enclosed volume, affecting a 
 | Reach | Linked |
 | Persistence | Permanent |
 | Target | Individual |
-\n\n
 
 ***
 
-*\n\n
-
-***
-
-CalmBond
-
-***
-
+**CalmBond**
 Reshapes the target using soul flux. Expands in all directions from the center, anywhere visible. The effect becomes permanent once established.
 | Wattage | 206135 W |
 | Shape | Circle |
