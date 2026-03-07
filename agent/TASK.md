@@ -1,4 +1,4 @@
-# Active Task: EXPANSION-006 - Communication Networks
+# Active Task: EXPANSION-007 - Food & Drink Culture
 
 **Status:** IN PROGRESS
 **Owner:** Copilot
@@ -6,48 +6,46 @@
 
 ## Goal
 
-Detail how information moves across Solumora (courier guilds, message systems, information brokers, news propagation).
+Ground the world in daily sensory experience through cuisine, preservation methods, Flux-assisted cooking, and regional specialties.
 
 ## Constraints
 
-- No instant communication (Flux doesn't do that)
-- Show speed/cost/reliability trade-offs
-- Include misinformation and intelligence gathering
-- Contrast Auralis formal courier systems vs Terravelle guild-based networks
+- Climate zones affect available ingredients (desert vs temperate vs coastal)
+- Show how Flux changes food (preservation, exotic dishes, waste reduction)
+- Include social aspects (taverns, feast traditions, food taboos)
+- Contrast Auralis formal dining vs Terravelle practical food culture
 - Names must follow WORLD_STATE.md conventions (short, terse, Germanic/Nordic)
 - Voice must follow STYLE_GUIDE.md (matter-of-fact, people in motion)
-- Existing canon: Trade & Travel systems, desert crossings, river transport
+- Existing canon: Maren Valley agriculture, desert crossing rations, coastal settlements
 
 ## Output Target
 
-7-9 notes total:
-- Courier guild systems (Auralis formal, Terravelle guild-based)
-- Message systems (speed/cost/reliability)
-- Codes/encryption methods
-- Information brokers
-- News distribution systems
-- Misinformation and intelligence gathering
-- 2-3 NPC notes (couriers, brokers, information traders)
-- Update [[Trade & Travel]] with communication networks section
+8-10 notes total:
+- Regional cuisines (Auralis urban, Terravelle agricultural, coastal, desert-edge)
+- Famous establishments (taverns, inns, specialty food sellers)
+- Preservation methods (Flux-assisted and traditional)
+- Food trade and distribution
+- Social food culture (feast traditions, tavern life, food hierarchies)
+- 2-3 chef/innkeeper NPC notes
+- Create [[Food & Drink]] hub page
 
 ## Execution Plan
 
-1. Query navigation cache for related concepts (Trade & Travel, Communication)
-2. Read Trade & Travel page for existing canon on movement/communication
-3. Design Auralis formal courier system (institutional, regulated)
-4. Design Terravelle guild-based message networks (decentralized, reputation-based)
-5. Create speed/cost/reliability frameworks
-6. Create codes/encryption methods notes
-7. Create information broker systems
-8. Create news distribution and misinformation notes
-9. Create 2-3 NPC notes (couriers, brokers, intelligence traders)
-10. Update Trade & Travel page with communication section
-11. Refresh navigation artifacts
-12. Mark complete in TASK_QUEUE.md
+1. Query navigation cache for food-related concepts (settlements, agriculture, taverns)
+2. Read settlement pages for existing food/tavern references
+3. Design regional cuisine differences (climate, culture, resources)
+4. Create Flux-assisted food preservation and preparation methods
+5. Identify famous food establishments in major settlements
+6. Create food trade and distribution system notes
+7. Design social food culture notes (feast traditions, tavern culture)
+8. Create 2-3 NPC notes (chefs, innkeepers, food merchants)
+9. Create Food & Drink hub page
+10. Refresh navigation artifacts
+11. Mark complete in TASK_QUEUE.md
 
 ## Current Step
 
-Querying navigation cache for communication and trade context...
+Querying navigation cache for food and settlement context...
 
 ---
 

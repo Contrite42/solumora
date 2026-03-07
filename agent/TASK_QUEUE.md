@@ -146,7 +146,7 @@ Blocked tasks are marked with their dependency.
       **Owner:** TBD
       **Seed concept:** Law and Order
 
-- [ ] **EXPANSION-006: Communication Networks**
+- [x] **EXPANSION-006: Communication Networks**
       **Goal:** Detail how information moves across Solumora (courier guilds, message systems, information brokers, news propagation).
       **Constraints:** No instant communication (Flux doesn't do that). Show speed/cost/reliability trade-offs. Include misinformation and intelligence gathering.
       **Output:** 7-9 notes (courier systems, codes/encryption, brokers, news distribution, 2-3 NPCs in information trade) + update [[Trade & Travel]].
