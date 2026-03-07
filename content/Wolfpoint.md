@@ -70,7 +70,19 @@ The strategic dimensions of this situation — why both kingdoms want Hypertext 
 
 What Wolfpoint actually sends out into the world — physical exports through the [[Outer Coast Packet Line]], and the knowledge exports that are its primary currency — is documented in [[Wolfpoint Exports]].
 
-_See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Mell Rask]], [[Cossa Vrend]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Keln Varost]], [[Outer Coast Packet Line]], [[Ashford]], [[Wolfpoint Trade Registry]], [[Wolfpoint Cold-Forge Works]], [[Mountain Game Collective]], [[Upland Herding Network]], [[Ashford Supply Contract]], [[Renn Taska]], [[Trel Vann]], [[Dren Vass]], [[Morra Keld]], [[Lenna Tors]], [[Kess Rolv]]_
+## Settlement Layout
+
+Wolfpoint's physical organization reflects its economic and strategic priorities. [[Wolfpoint Harbor]] is the settlement's survival interface with southern kingdoms — three stone piers where the [[Outer Coast Packet Line]] delivers imports and collects exports. [[Bren Hask]] runs harbor operations with the intensity of someone managing a strategic vulnerability rather than a commercial port. [[Vess Nal]], T1, coordinates dock crew operations with fifteen years of institutional knowledge about cargo handling in conditions that would paralyze southern ports.
+
+Above the harbor, the [[Workshop Quarter]] contains the production facilities that generate Wolfpoint's physical export revenue. The [[Wolfpoint Cold-Forge Works]], [[Mountain Game Collective]] preservation facilities, and [[Upland Herding Network]] textile operations occupy wind-sheltered hillside terrain built for thermal stability. The Quarter employs roughly 15-20% of Wolfpoint's permanent adult population and generates 80-90% of physical export revenue that maintains the settlement's economic independence.
+
+## Information Networks
+
+Wolfpoint's strategic position depends on knowing what southern kingdoms plan before formal announcements occur. The [[Northern Signal Network]] provides this advantage — an informal coordination system where ship captains, coastal traders, and settlement contacts pass messages and intelligence between Wolfpoint and the kingdoms. [[Olan Vren]], an [[Outer Coast Packet Line]] captain, runs the most reliable Network route between Wolfpoint and [[Ashford]], carrying sealed correspondence and market intelligence with eleven years of perfect security record.
+
+The Network costs 8-12% of [[Wolfpoint Trade Registry]]'s annual administrative budget. [[Renn Taska]] considers this the most cost-effective strategic expense Wolfpoint maintains — information advantage that makes external pressure more difficult to execute successfully without requiring military capability the settlement cannot support.
+
+_See also: [[Hypertext]], [[Flux]], [[Sigils]], [[Flux Users]], [[Solumora]], [[Terravelle]], [[Auralis]], [[The Voss Line]], [[Sera Voss]], [[Ysel Voss]], [[Doran Voss]], [[Greyveil]], [[Geography]], [[Life in Wolfpoint]], [[Vel Sorvn]], [[Mell Rask]], [[Cossa Vrend]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Keln Varost]], [[Outer Coast Packet Line]], [[Ashford]], [[Wolfpoint Trade Registry]], [[Wolfpoint Cold-Forge Works]], [[Mountain Game Collective]], [[Upland Herding Network]], [[Ashford Supply Contract]], [[Renn Taska]], [[Trel Vann]], [[Dren Vass]], [[Morra Keld]], [[Lenna Tors]], [[Kess Rolv]], [[Wolfpoint Harbor]], [[Workshop Quarter]], [[Northern Signal Network]], [[Bren Hask]], [[Vess Nal]], [[Olan Vren]]_
 
 ## People in Motion
 
@@ -78,4 +90,6 @@ Wolfpoint's geopolitical weight is carried by a small number of highly connected
 
 Outside elite channels, practitioners and craftspeople such as [[Vel Sorvn]] and [[Renn Cald]] keep the settlement operational under climate and distance constraints. Their continuity work is what allows the Scholarium layer to focus on long-horizon development.
 
-_See also: [[People]], [[Sera Voss]], [[Ysel Voss]], [[Mira Solv]], [[Keln Varost]], [[Vel Sorvn]], [[Renn Cald]], [[The Wolfpoint Scholarium]], [[The Wolfpoint Question]], [[Outer Coast Packet Line]]_
+At the operational interfaces, [[Bren Hask]] manages [[Wolfpoint Harbor]] as a strategic vulnerability requiring military-grade security discipline, [[Vess Nal]] coordinates dock operations with fifteen years of cargo handling expertise, and [[Olan Vren]] maintains the [[Northern Signal Network]] intelligence channel that provides Wolfpoint advance warning of kingdom policy shifts before formal announcements occur.
+
+_See also: [[People]], [[Sera Voss]], [[Ysel Voss]], [[Mira Solv]], [[Keln Varost]], [[Vel Sorvn]], [[Renn Cald]], [[Bren Hask]], [[Vess Nal]], [[Olan Vren]], [[The Wolfpoint Scholarium]], [[The Wolfpoint Question]], [[Outer Coast Packet Line]], [[Wolfpoint Harbor]], [[Northern Signal Network]]_
