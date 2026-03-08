@@ -24,4 +24,16 @@ Both kingdoms are aware the informal market exists. Neither has invested heavily
 
 [[Osten Reld]], the Expansion Faction's low-level operative in Solhaven, has used informal grimoire channels as a supplementary coordination tool — moving restricted texts as cover cargo for information transfer. He is not the only person doing this. He is one of the more careful ones.
 
+## Operational Risk Chain
+
+Current enforcement and market behavior are best understood as a linked risk chain rather than isolated fraud events.
+
+- [[Illicit Grimoire Supply Nodes]] describes where unauthorized material enters circulation.
+- [[Counterfeit Grimoire Verification Failures]] explains how bad material passes intake checks.
+- [[Black-Market Transfer Laundering]] maps how unauthorized transfers are made procedurally ordinary.
+- [[Seizure Escalation Procedures]] documents how offices move from packet holds to chain-linked action.
+- [[Solhaven Ledger Burn Case]] shows this full sequence in an incident with measurable operational fallout.
+
+Treating these as separate problems inflates seizure counts without reducing system resilience in the underground market.
+
 _See also: [[Grimoires]], [[Rare Grimoire]], [[Uncommon Grimoire]], [[Grimoire Fraud]], [[Grimoire Regulation]], [[Relay Compact]], [[Osten Reld]], [[Expansion Faction]], [[Control Tier]]_

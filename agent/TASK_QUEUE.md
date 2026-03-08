@@ -23,17 +23,19 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** new notes + updates to `content/Clinical Care Systems.md` and `content/Ordinary Life in Terravelle.md`.
       **Status note:** COMPLETE (6 notes + 4 hub updates completed on 2026-03-07; continuity layer integrated in `Ordinary Life` and `Ordinary Life in Auralis`)
 
-- [ ] **USER-004 — Black-Market Grimoire Risk Chain**
+- [x] **USER-004 — Black-Market Grimoire Risk Chain**
       **Source:** Existing black-market references without full risk pipeline detail
       **Goal:** Build end-to-end chain from source, transport, laundering, enforcement response, and fallout.
       **Scope:** 5-6 notes (supply chain nodes, counterfeit verification failures, seizure process, one case study)
       **Required outputs:** new notes + updates to `content/Black Market Grimoires.md` and `content/Grimoires.md`.
+      **Status note:** COMPLETE (5-note risk-chain bundle + 2 hub updates completed on 2026-03-07)
 
 - [ ] **USER-005 — Desert Crossing Insurance and Death Ledger Economy**
       **Source:** Adventure/crossing risk economy needs operational finance depth
       **Goal:** Explain who underwrites high-risk expeditions and how death compensation actually works.
       **Scope:** 4-6 notes (underwriters, claim adjudication, fraud patterns, survivor-benefit contracts)
       **Required outputs:** new notes + updates to `content/Adventurer Support Network.md` and one economy/banking hub.
+      **Status note:** IN PROGRESS (activated 2026-03-07)
 
 - [ ] **USER-006 — Municipal Friction in Greyveil (Scale vs. Governance)**
       **Source:** New Greyveil expansion pages indicate governance strain without formal city authority

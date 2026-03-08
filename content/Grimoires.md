@@ -45,6 +45,16 @@ Grimoires are the mechanism by which [[Flux]] capability is distributed broadly 
 
 **Fraud and underground:** [[Grimoire Fraud]] covers mis-tier presentation, degraded copies, false attribution. [[Black Market Grimoires]] covers what goes underground — out-of-tier texts, restricted disciplines, cross-kingdom access. [[Grimoire Regulation]] covers how both kingdoms handle the trade differently.
 
+Current underground analysis is expanded across operational chain notes:
+
+- [[Illicit Grimoire Supply Nodes]]
+- [[Counterfeit Grimoire Verification Failures]]
+- [[Black-Market Transfer Laundering]]
+- [[Seizure Escalation Procedures]]
+- [[Solhaven Ledger Burn Case]]
+
+Together these pages describe how unauthorized grimoire flows persist even when headline seizure activity increases.
+
 **Long-term:** [[Grimoire Inheritance]] covers what a practitioner's library is worth when they die and the complications of settling an estate with originator declarations. [[Grimoire Repair and Preservation]] covers keeping texts functional through heavy use.
 
 **Personal vs. published:** [[Personal Working Grimoire]] covers the distinction between a practitioner's annotated working text and a commercial copy.

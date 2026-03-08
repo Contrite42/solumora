@@ -1,4 +1,4 @@
-# Current Task: USER-004 Black-Market Grimoire Risk Chain
+# Current Task: USER-005 Desert Crossing Insurance and Death Ledger Economy
 
 **Status:** In Progress
 **Owner:** Codex
@@ -7,35 +7,34 @@
 
 ## Summary
 
-Activated USER-004 from `agent/TASK_QUEUE.md` after completing USER-003 civilian continuity outputs.
+Activated USER-005 from `agent/TASK_QUEUE.md` after completing USER-004 black-market grimoire risk-chain outputs.
 
-This phase will build an end-to-end black-market grimoire risk chain from source and copying through laundering, transit, enforcement response, and fallout.
+This phase focuses on underwriting, claims adjudication, fraud controls, and survivor-benefit structures for high-risk expedition finance.
 
-## Prior Cycle Completion (USER-003)
+## Prior Cycle Completion (USER-004)
 
 Completed outputs:
-- `content/Queue Management Offices.md`
-- `content/Ration Substitution Practices.md`
-- `content/Care Triage Workflows.md`
-- `content/Temporary Housing Pressure.md`
-- `content/District Continuity Coordinators.md`
-- `content/Shelter Rotation Contracts.md`
-- Hub updates: `content/Clinical Care Systems.md`, `content/Ordinary Life in Terravelle.md`, `content/Ordinary Life.md`, `content/Ordinary Life in Auralis.md`
+- `content/Illicit Grimoire Supply Nodes.md`
+- `content/Counterfeit Grimoire Verification Failures.md`
+- `content/Black-Market Transfer Laundering.md`
+- `content/Seizure Escalation Procedures.md`
+- `content/Solhaven Ledger Burn Case.md`
+- Hub updates: `content/Black Market Grimoires.md`, `content/Grimoires.md`
 
-## Execution Targets (USER-004)
+## Execution Targets (USER-005)
 
-- Create 5-6 notes covering supply chain nodes, counterfeit verification failures, seizure process, laundering channels, and one case study.
-- Update `content/Black Market Grimoires.md` and `content/Grimoires.md` with compact integration blocks.
+- Create 4-6 notes covering underwriters, claim adjudication, fraud patterns, and survivor-benefit contracts.
+- Update `content/Adventurer Support Network.md` and one economy/banking hub.
 - Ensure each new note has >=3 outbound links and >=1 inbound hub link.
 
 ## Next Steps
 
-- Add first USER-004 tranche:
-  - `Counterfeit Grimoire Verification Failures`
-  - `Seizure Escalation Procedures`
-  - `Black-Market Transfer Laundering`
-- Append synthesis to black-market hubs.
-- Refresh navigation artifacts after each content cycle.
+- Add first USER-005 tranche:
+  - `Crossing Risk Underwriters`
+  - `Death Ledger Claim Adjudication`
+  - `Expedition Insurance Fraud Patterns`
+- Append compact synthesis to adventure/economy hubs.
+- Refresh navigation artifacts after content changes.
 
 Default navigation method (run from repo root):
 
