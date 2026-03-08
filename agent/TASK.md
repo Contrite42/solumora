@@ -1,29 +1,30 @@
 # Current Task: Queue Completion Hold
 
-**Status:** Complete (through USER-008)
+**Status:** Complete (through USER-008 + Codex backlog updates)
 **Owner:** Codex
 **Started:** 2026-03-07
 **Completed:** 2026-03-07
 
 ## Summary
 
-Completed USER-008 root-page normalization.
+Completed USER-008 root-page normalization, then continued Codex backlog execution with spell-policy enforcement and report restoration.
 
-Delivered homepage/index alignment and simplified root hub roles so readers can differentiate onboarding (`index`), canonical hub (`Solumora`), primer (`World Primer`), and broad lookup (`World Index Draft`) without overlap.
-
-## Completed Outputs (USER-008)
+## Completed Outputs (This Cycle)
 
 - Updated: `content/index.md`
 - Updated: `content/Solumora.md`
 - Updated: `content/World Primer.md`
 - Updated: `content/World Index Draft.md`
+- Removed: all remaining `content/Spells/*.md` files (legacy per-spell pages)
+- Added: `agent/reports/inconsistencies.md`
+- Added: `agent/reports/links_applied.md`
 - Refreshed: `tmp/concept-graph.json`, `tmp/context-index.json`
 - Generated: `tmp/nav-root-solumora.json`
 
 ## Verification
 
-- Quartz build passed on 652 input files.
-- Navigation artifacts parse and report 652 pages.
+- Root-page normalization build validation previously passed.
+- Spell-policy pass verified `content/Spells/` is empty and no `[[Spells/...]]` links remain.
 
 Default navigation method (run from repo root):
 

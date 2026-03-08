@@ -521,10 +521,11 @@ These tasks expand the world's texture without adding new structural elements. T
 
 Additive backlog generated from a full-world thin-page and systems audit. These are scoped to deepen operational realism and close current coverage gaps.
 
-- [ ] **Goal:** Enforce post-cleanup spell canon policy across the vault.
+- [x] **Goal:** Enforce post-cleanup spell canon policy across the vault.
       **Constraints:** Tiered grimoires are canonical spell references. Remove or archive any remaining `content/Spells/*.md` pages and zero-byte leftovers that conflict with this policy. Do not delete `content/Spells.md` hub unless replaced with equivalent navigation.
       **Output:** Clean `content/Spells/` directory state + policy note appended in `agent/reports/inconsistencies.md` and `agent/reports/links_applied.md`.
       **Owner:** `Codex`
+      **Status:** COMPLETE — Removed 21 remaining `content/Spells/*.md` files, created `agent/reports/inconsistencies.md` and `agent/reports/links_applied.md`, and verified no remaining `[[Spells/...]]` wikilinks in `content/`. 2026-03-07.
 
 - [x] **Goal:** Expand bridge concepts into operational reference notes.
       **Constraints:** Upgrade thin bridge pages (`Kingdoms`, `Guilds`, `Infrastructure`, `Border Trade`, `Cross-Border Trade`, `Cross-Border Commerce`, `Political Dynamics`, `Political Intelligence`, `Council Dynamics`) from glossary-style stubs to practical system notes. Keep tone matter-of-fact and non-mythic.
@@ -588,10 +589,11 @@ Additive backlog generated from a full-world thin-page and systems audit. These 
       **Output:** 5-7 notes (broker roles, rumor paths, verification habits) + update `content/Ashford-Halveth Courier Road.md` and `content/Political Intelligence.md` with practical interplay sections.
       **Owner:** `Copilot Auto`
 
-- [ ] **Goal:** Reconcile and formalize top-level world indexing.
+- [x] **Goal:** Reconcile and formalize top-level world indexing.
       **Constraints:** `World Index Draft.md` is currently utility-format and not vault-style. Convert into in-world navigation (or archive as admin artifact) without dead links or markdown-link path syntax.
       **Output:** Canonical index page update (`content/World Index Draft.md` or promoted replacement) + hub backlinks from `content/index.md`, `content/World Primer.md`, and `content/Solumora.md`.
       **Owner:** `Codex`
+      **Status:** COMPLETE — Delivered in USER-008 root normalization pass: `content/World Index Draft.md` converted to vault-style wiki navigation, and backlink alignment applied from `content/index.md`, `content/World Primer.md`, and `content/Solumora.md`. 2026-03-07.
 
 - [ ] **Goal:** Run a dedicated "No Orphans" integrity cycle after backlog batch-1.
       **Constraints:** Every new note must have 3+ outbound links and 1+ inbound link from a hub/parent page. Contradictions are logged, not silently rewritten.

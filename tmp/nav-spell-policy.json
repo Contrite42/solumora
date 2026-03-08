@@ -1,0 +1,415 @@
+{
+  "concept": "Spells",
+  "top_pages": [
+    {
+      "id": "Spells",
+      "path": "content/Spells.md",
+      "title": "Grimoire References",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 43,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Grimoire References",
+          "start_line": 20,
+          "end_line": 31,
+          "preview": "Use the tiered grimoires as canonical spell references:"
+        },
+        {
+          "section": "Sigil Maker Generated Spells",
+          "start_line": 32,
+          "end_line": 43,
+          "preview": "- [[Rare Grimoire#Barrier Ring|Barrier Ring]] - 3944 W - T5 (Rare)"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "seed_outlink",
+      "score": 689,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "seed_outlink",
+      "score": 550,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Flux Users",
+      "path": "content/Flux Users.md",
+      "title": "Scribes",
+      "why": "seed_outlink",
+      "score": 490,
+      "line_count": 43,
+      "outlink_count": 23,
+      "read_plan": [
+        {
+          "section": "Scribes",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "Scribes copy and reproduce existing [[Sigils]] and [[Grimoires]] for mass distribution. Their work is exacting \u2014 a misdrawn [[Sigils|sigil]] fails or misfires \u2014 and a skilled Scribe is commercially valuable regardless of"
+        },
+        {
+          "section": "Formulists",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Formulist is the general term for anyone actively practicing [[Flux]] use in daily life. Most working casters fall here \u2014 the blacksmith with a [[Common Grimoire#Warmstone|Warmstone]] sigil on his forge, the courier carr"
+        },
+        {
+          "section": "Channelers",
+          "start_line": 13,
+          "end_line": 16,
+          "preview": "Channeler is reserved for those who can operate safely at [[Control Tier]] 5 and above. At this threshold, the exponential nature of [[Flux]] scaling means a Channeler is not simply a stronger Formulist \u2014 they are catego"
+        },
+        {
+          "section": "Scholars",
+          "start_line": 17,
+          "end_line": 20,
+          "preview": "A Scholar is anyone whose primary pursuit is the creation and development of new [[Sigils]] and spell structures. [[Control Tier]] ceiling is irrelevant \u2014 a Tier 1 caster can spend a lifetime designing [[Sigils|sigils]] "
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 435,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Solumora",
+      "path": "content/Solumora.md",
+      "title": "Core World Structure",
+      "why": "seed_outlink",
+      "score": 425,
+      "line_count": 48,
+      "outlink_count": 79,
+      "read_plan": [
+        {
+          "section": "Core World Structure",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "- Geography: [[Geography]], [[Equatorial Desert]], [[Kingdoms]]"
+        },
+        {
+          "section": "Power, Magic, and Knowledge",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "- Magic fundamentals: [[Flux]], [[Control Tier]], [[Sigils]], [[Hypertext]], [[Hand Signs]]"
+        },
+        {
+          "section": "Economy and Movement",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "- Economy hubs: [[Economy]], [[Watts]], [[Banking Institutions]], [[Informal Lending Systems]]"
+        },
+        {
+          "section": "Everyday Systems Under Pressure",
+          "start_line": 23,
+          "end_line": 28,
+          "preview": "- Daily life baselines: [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]]"
+        }
+      ]
+    },
+    {
+      "id": "Wolfpoint",
+      "path": "content/Wolfpoint.md",
+      "title": "The Voss Line",
+      "why": "seed_outlink",
+      "score": 413,
+      "line_count": 95,
+      "outlink_count": 46,
+      "read_plan": [
+        {
+          "section": "The Voss Line",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Wolfpoint was founded by the Voss family \u2014 a lineage of soldier scholars who had spent careers inscribing [[Sigils]] onto armour, blades, and field equipment, and grown deeply frustrated with what the sigil system could "
+        },
+        {
+          "section": "Culture",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "Wolfpoint retains its military heritage in everything. The settlement is organized around discipline and function \u2014 buildings are low and wind-resistant, layouts are practical, nothing is built for display. The Voss line"
+        },
+        {
+          "section": "Relationship with the Kingdoms",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Wolfpoint knows [[Terravelle]] and [[Auralis]] exist. It trades with both, maintains occasional correspondence, and has no interest in being absorbed by either."
+        },
+        {
+          "section": "Hypertext Development",
+          "start_line": 29,
+          "end_line": 34,
+          "preview": "What Wolfpoint has built over seven generations is not a finished system. [[Hypertext]] is still being developed \u2014 new symbol sequences are being tested, failure modes are being catalogued, and the limits of what a linea"
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 410,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Sigils",
+      "path": "content/Sigils.md",
+      "title": "Creating a Sigil",
+      "why": "seed_outlink",
+      "score": 409,
+      "line_count": 13,
+      "outlink_count": 19,
+      "read_plan": [
+        {
+          "section": "Creating a Sigil",
+          "start_line": 5,
+          "end_line": 13,
+          "preview": "Sigil creation is a meticulous process blending art, knowledge, and precision. A caster or [[Flux Users|Scholar]] first conceptualizes the desired spell effect, then encodes its attributes into geometric components \u2014 lin"
+        }
+      ]
+    },
+    {
+      "id": "Grimoires",
+      "path": "content/Grimoires.md",
+      "title": "How Grimoires Work",
+      "why": "seed_outlink",
+      "score": 407,
+      "line_count": 79,
+      "outlink_count": 41,
+      "read_plan": [
+        {
+          "section": "How Grimoires Work",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Each [[Sigils|sigil]] in a grimoire is drawn with full precision. A caster who meets the [[Control Tier]] requirement for a given spell can activate it directly from the page, or copy it onto another surface for single u"
+        },
+        {
+          "section": "Grimoire Tiers",
+          "start_line": 9,
+          "end_line": 23,
+          "preview": "Grimoires are categorized by the rarity of the [[Spells|spells]] they contain, reflecting the [[Control Tier]] required to use them:"
+        },
+        {
+          "section": "Cultural Attitudes",
+          "start_line": 24,
+          "end_line": 35,
+          "preview": "In [[Terravelle]], grimoires are treated as practical tools \u2014 functional, affordable at the Common tier, and widely distributed. High-tier grimoires exist but are held in institutional libraries rather than private hands"
+        },
+        {
+          "section": "The Grimoire Economy",
+          "start_line": 36,
+          "end_line": 61,
+          "preview": "Grimoires are the mechanism by which [[Flux]] capability is distributed broadly rather than confined to high-tier practitioners. An entire economy exists around their production, authentication, distribution, and trade. "
+        }
+      ]
+    },
+    {
+      "id": "Hypertext",
+      "path": "content/Hypertext.md",
+      "title": "Why It Matters",
+      "why": "seed_outlink",
+      "score": 351,
+      "line_count": 53,
+      "outlink_count": 27,
+      "read_plan": [
+        {
+          "section": "Why It Matters",
+          "start_line": 9,
+          "end_line": 16,
+          "preview": "The [[Sigils|sigil]] system, for all its power, is bounded by what a shape can express. A Circle has six outer points. That means six variables, defined once, firing in one configuration. It cannot natively represent bra"
+        },
+        {
+          "section": "Structure",
+          "start_line": 17,
+          "end_line": 28,
+          "preview": "Hypertext is written as a linear sequence of symbols, read left to right. Each symbol in the sequence serves one of three roles:"
+        },
+        {
+          "section": "Learning Hypertext",
+          "start_line": 29,
+          "end_line": 34,
+          "preview": "Hypertext can be taught and learned. It requires no special innate ability beyond what any [[Flux Users|Formulist]] already has \u2014 the aptitude for Hypertext is the same aptitude for sigil use, applied differently. What i"
+        },
+        {
+          "section": "Wolfpoint",
+          "start_line": 35,
+          "end_line": 40,
+          "preview": "[[Wolfpoint]] is the only known center of Hypertext development. Situated in the far north, well beyond the cultural reach of either [[Terravelle]] or [[Auralis]], it operates outside both kingdoms' magical traditions. T"
+        }
+      ]
+    },
+    {
+      "id": "Common Grimoire",
+      "path": "content/Common Grimoire.md",
+      "title": "Common Grimoire",
+      "why": "seed_outlink",
+      "score": 348,
+      "line_count": 6403,
+      "outlink_count": 4,
+      "read_plan": [
+        {
+          "section": "Document",
+          "start_line": 1,
+          "end_line": 6403,
+          "preview": "Common spells require [[Control Tier]] T1\u2013T2 and represent the backbone of everyday [[Flux]] use across [[Solumora]]. The majority of the population can cast at least some of these. They are the spells found in every hom"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Circle",
+      "Flux",
+      "Flux Users",
+      "Grimoire Commissioning",
+      "Grimoires",
+      "Kessran Dolt",
+      "Ossan Vert",
+      "Sigils",
+      "Stories/A Cost That Makes Sense",
+      "Stories/A Scrivener's Morning",
+      "Stories/The Boundary Settlement Guide",
+      "Valdenmoor Institute for Applied Sigil Study",
+      "Vera Kolt",
+      "World Index Draft",
+      "World Primer"
+    ],
+    "outlinks": [
+      "All Grimoire",
+      "Common Grimoire",
+      "Control Tier",
+      "Flux",
+      "Flux Users",
+      "Grimoires",
+      "Hand Signs",
+      "Hypertext",
+      "Legendary Grimoire",
+      "Mythic Grimoire",
+      "Pale Grimoire",
+      "Rare Grimoire",
+      "Sigils",
+      "Solumora",
+      "Spell Variables",
+      "Uncommon Grimoire",
+      "Wolfpoint"
+    ]
+  }
+}
