@@ -1,13 +1,13 @@
 # Current Task: Queue Completion Hold
 
-**Status:** Complete (through USER-008 + Codex backlog updates)
+**Status:** Complete (through USER-008 + Codex backlog updates + no-orphans cycle)
 **Owner:** Codex
 **Started:** 2026-03-07
 **Completed:** 2026-03-07
 
 ## Summary
 
-Completed USER-008 root-page normalization, then continued Codex backlog execution with spell-policy enforcement and report restoration.
+Completed USER-008 root-page normalization, spell-policy enforcement, and the dedicated backlog batch-1 no-orphans integrity cycle.
 
 ## Completed Outputs (This Cycle)
 
@@ -16,15 +16,17 @@ Completed USER-008 root-page normalization, then continued Codex backlog executi
 - Updated: `content/World Primer.md`
 - Updated: `content/World Index Draft.md`
 - Removed: all remaining `content/Spells/*.md` files (legacy per-spell pages)
-- Added: `agent/reports/inconsistencies.md`
-- Added: `agent/reports/links_applied.md`
+- Added/updated: `agent/reports/inconsistencies.md`
+- Added/updated: `agent/reports/links_applied.md`
+- Added: `agent/staging/PENDING_REVIEW.md` checklist block for no-orphans run
 - Refreshed: `tmp/concept-graph.json`, `tmp/context-index.json`
-- Generated: `tmp/nav-root-solumora.json`
+- Generated: `tmp/nav-root-solumora.json`, `tmp/nav-spell-policy.json`, `tmp/no-orphans-audit.json`
 
 ## Verification
 
-- Root-page normalization build validation previously passed.
+- Root-page normalization build validation passed.
 - Spell-policy pass verified `content/Spells/` is empty and no `[[Spells/...]]` links remain.
+- No-orphans audit executed: `FAIL` (10 outbound violations, 61 inbound violations, 151 unresolved targets), documented for remediation.
 
 Default navigation method (run from repo root):
 
