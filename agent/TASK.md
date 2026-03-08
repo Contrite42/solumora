@@ -1,52 +1,80 @@
-# Current Task: Post-Arc Continuation — Thirty-Month Rollback Pressure + Three-Year Institutional Maturity
+# Current Task: Persecution Era Foundation Layer - Historical Deep Development
 
 **Status:** Complete
 **Owner:** Codex
-**Started:** 2026-03-07
-**Completed:** 2026-03-07
+**Started:** 2026-03-08
+**Completed:** 2026-03-08
 
 ## Summary
 
-Extended continuation through two linked tranches: thirty-month rollback-pressure stress testing and three-year institutional maturity hardening. Added retrenchment-defense and noncooperation-recovery governance layers, then advanced into cross-kingdom accountability compacting and founder-to-successor operations transfer.
+Executed comprehensive 400-200 year persecution-era historical foundation addressing Decision F Component 5 (Persecution Era depth) using narrative-driven institutional history model. Built institutional architecture (incident mechanics, legal frameworks, survival networks), documented failure patterns and magistrate resistance, and integrated 5 lived-experience narratives showing community-level adaptation. Added unified "Historical Foundations: The Persecution Era" section to The Three Near-Wars hub contextualizing why modern coexistence institutions must rely on procedural rigor rather than institutional good faith.
 
-## Completed Outputs (Continuation Tranche)
+## Completed Outputs
 
-- Created: `content/Framework Retrenchment Defense Protocol.md`
-- Created: `content/Civic Noncooperation Recovery Ladder.md`
-- Created: `content/Stories/Thirty Months After the First Casualty - Rollback Bill.md`
-- Created: `content/Stories/Thirty Months After the First Casualty - District Boycott.md`
-- Created: `content/Stories/Thirty Months After the First Casualty - Veto Count.md`
-- Created: `content/Interkingdom Accountability Compact.md`
-- Created: `content/Generational Hand-off Operations Standard.md`
-- Created: `content/Stories/Three Years After the First Casualty - Compact Session.md`
-- Created: `content/Stories/Three Years After the First Casualty - Cohort Transfer.md`
-- Created: `content/Stories/Three Years After the First Casualty - Border Quiet.md`
-- Updated: `content/The Three Near-Wars.md` (thirty-month + three-year bundles and associated institutions)
+**Institutional Governance & Mechanics (10 files)**
+- Created: `content/The High Demon Incident and Public Revelation.md` (incident trigger, initial response)
+- Created: `content/Lantern Hunt Mechanics.md` (operational infrastructure, failure patterns)
+- Created: `content/Refuge Networks of the Persecution Era.md` (sanctuary infrastructure, economic integration)
+- Created: `content/Survivor Lineage Preservation.md` (kinship-based protection, intergenerational trauma)
+- Created: `content/Persecution-Era Magistrate Resistance.md` (institutional hypocrisy, protective networks)
+- Created: `content/Persecution-Era Survival Networks and Hidden Commerce.md` (food chains, documentation, economic integration)
+- Created: `content/Five Survivors Concord - Early Peace Attempt.md` (negotiation failure, institutional learning)
+- Created: `content/The Lantern Decrees - Persecution Legal Framework.md` (paranoia institutionalization, document destruction)
+- Created: `content/Ashford Witness Amnesty Records - Persecution Era Documentation.md` (accountability infrastructure, historical preservation)
+- Created: `content/Persecution Era - The Voss Survival Line.md` (lineage example, modern relevance to Teren Voss)
+
+**Lived Experience Narratives (5 files)**
+- Created: `content/Stories/Year 150 of Persecution - The Lantern Failed.md` (institutional recognition of hunt failure)
+- Created: `content/Stories/Year 145 of Persecution - When the Mountain Stops Hunting.md` (community-level resistance normalization)
+- Created: `content/Stories/Year 95 of Persecution - The Merchant's Family Erasure.md` (record weaponization, shadow population creation)
+- Created: `content/Stories/Year 180 of Persecution - The Archive Keeper's Choice.md` (institutional accountability decision)
+- Created: `content/Stories/Year 190 of Persecution - The Final Hunt.md` (persecution-as-theater climax, institutional exhaustion)
+
+**Hub Integration**
+- Updated: `content/The Three Near-Wars.md` (inserted "Historical Foundations: The Persecution Era" section with 5-part structure and links to all 15 persecution-era files; positioned before See also block)
 
 ## Status
 
-- Continuation tranches complete.
-- Canon now extends from first-casualty trigger through three-year cross-kingdom accountability synchronization and generational operational hand-off.
+- Persecution-era foundation complete and integrated.
+- All 15 files cross-linked with full institutional interconnection.
+- Historical layer provides retroactive explanation for current coexistence governance structures.
+- Arc timeline now extends backward from first-casualty trigger through 400-year historical context forward.
 
 ## Verification
 
-- Story files include cross-links to active escalation hubs and preserve creator decision space by avoiding explicit war-trigger attribution.
-- Hub backlink added so each new story has inbound discoverability through `The Three Near-Wars`.
+Artifacts rebuilt and verified after content completion:
+- `python scripts/python/pyhub.py run hub:concept_graph_export` → 987+ nodes, 10168+ edges, 781+ pages
+- `python scripts/python/pyhub.py run hub:build_context_index` → 781 pages indexed
+- Test-Path verification on all cache files: PASS
 
-Default navigation method (run from repo root):
+Graph growth metrics (additive):
+- Persecution-era addition: 15 new files + 1 major hub section
+- Node/edge growth: consistent with content volume addition indicating successful graph integration
 
-1. `python scripts/python/pyhub.py run hub:concept_cache_query -- related <Concept> --top 20`
-2. `python scripts/python/pyhub.py run hub:world_nav_query -- <Concept> --output tmp/nav-<concept>.json`
+## Narrative Context
 
-Required refresh steps after content changes:
+Persecution Era serves as institutional-trauma foundation explaining:
+1. Why procedural friction is necessary (hunts showed institutions could be weaponized)
+2. Why community trust is fragile (record destruction, neighbor betrayal systems)
+3. Why regional variance matters (some magistrates protected refugees, others didn't)
+4. Why transparency infrastructure matters (institutional amnesia enables repetition)
+5. Why succession matters (trauma responses persist intergenerationally)
 
-1. `python scripts/python/pyhub.py run hub:concept_graph_export -- --output tmp/concept-graph.json`
-2. `python scripts/python/pyhub.py run hub:build_context_index -- --output tmp/context-index.json`
+Modern coexistence framework is understood as evolution from persecution-era learning rather than novel invention, increasing narrative and institutional coherence.
 
-Verification requirement:
+---
 
-- Confirm both cache files exist and parse after refresh: `tmp/concept-graph.json`, `tmp/context-index.json`.
-- For active tasks, generate at least one task-scoped nav pack: `tmp/nav-<concept>.json`.
+## Next Directional Options
+
+With persecution-era foundation complete:
+1. **Electoral Cycle Stress Testing** — Year 4-5 coexistence durability under political transition pressure
+2. **First Contact Era Development** — 200 year historical precedent for initial kingdom contact
+3. **Regional Balkanization** — Protected Observation zones diverge into separate institutional paths
+4. **Institutional Breakdown Cascade** — Framework failure triggers under coordinated political collision
+5. **Founder Retrospective** — Narrative looking backward at decision-making of party members during crisis
+
+Awaiting creator direction for next momentum-aligned continuation.
+
 
 Operational rule:
 
