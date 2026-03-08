@@ -1,4 +1,4 @@
-# Current Task: Post-Arc Continuation — Two-Year Enforcement Failure and Recovery Layer
+# Current Task: Post-Arc Continuation — Thirty-Month Rollback Pressure + Three-Year Institutional Maturity
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,21 +7,26 @@
 
 ## Summary
 
-Extended continuation with two-year durability stress-testing: introduced independent failure review and emergency reintegration governance, then validated framework resilience through enforcement overreach, public repair labor, and binding corrective directives.
+Extended continuation through two linked tranches: thirty-month rollback-pressure stress testing and three-year institutional maturity hardening. Added retrenchment-defense and noncooperation-recovery governance layers, then advanced into cross-kingdom accountability compacting and founder-to-successor operations transfer.
 
 ## Completed Outputs (Continuation Tranche)
 
-- Created: `content/Coexistence Enforcement Failure Review Board.md`
-- Created: `content/Emergency Reintegration Mandate.md`
-- Created: `content/Stories/Two Years After the First Casualty - Sweep Night.md`
-- Created: `content/Stories/Two Years After the First Casualty - Repair Window.md`
-- Created: `content/Stories/Two Years After the First Casualty - Findings Day.md`
-- Updated: `content/The Three Near-Wars.md` (two-year bundle + failure-recovery institutions)
+- Created: `content/Framework Retrenchment Defense Protocol.md`
+- Created: `content/Civic Noncooperation Recovery Ladder.md`
+- Created: `content/Stories/Thirty Months After the First Casualty - Rollback Bill.md`
+- Created: `content/Stories/Thirty Months After the First Casualty - District Boycott.md`
+- Created: `content/Stories/Thirty Months After the First Casualty - Veto Count.md`
+- Created: `content/Interkingdom Accountability Compact.md`
+- Created: `content/Generational Hand-off Operations Standard.md`
+- Created: `content/Stories/Three Years After the First Casualty - Compact Session.md`
+- Created: `content/Stories/Three Years After the First Casualty - Cohort Transfer.md`
+- Created: `content/Stories/Three Years After the First Casualty - Border Quiet.md`
+- Updated: `content/The Three Near-Wars.md` (thirty-month + three-year bundles and associated institutions)
 
 ## Status
 
-- Continuation tranche complete.
-- Canon now extends from first-casualty trigger through two-year institutional failure-review and public reintegration repair durability testing.
+- Continuation tranches complete.
+- Canon now extends from first-casualty trigger through three-year cross-kingdom accountability synchronization and generational operational hand-off.
 
 ## Verification
 

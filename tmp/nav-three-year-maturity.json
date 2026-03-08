@@ -1,0 +1,421 @@
+{
+  "concept": "Stories/Three Years After the First Casualty - Compact Session",
+  "top_pages": [
+    {
+      "id": "Stories/Three Years After the First Casualty - Compact Session",
+      "path": "content/Stories/Three Years After the First Casualty - Compact Session.md",
+      "title": "Three Years After the First Casualty - Compact Session",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 50,
+      "outlink_count": 7,
+      "read_plan": [
+        {
+          "section": "Three Years After the First Casualty - Compact Session",
+          "start_line": 1,
+          "end_line": 50,
+          "preview": "The gallery benches were full before first bell in [[Auralis Civic Courts]], not with protest signs this time but with notebooks, guild badges, and district packets highlighted in three colors. People had learned the rit"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 740,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 718,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 472,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Cassia",
+      "path": "content/Cassia.md",
+      "title": "Background",
+      "why": "seed_outlink",
+      "score": 370,
+      "line_count": 137,
+      "outlink_count": 23,
+      "read_plan": [
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "Cassia was elevated to the throne as an infant on the strength of bloodline and namesake \u2014 the last viable heir of a lineage that [[Auralis]] society considered too significant to let lapse. The council that placed her t"
+        },
+        {
+          "section": "Character",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "Cassia is kinder than Auralis's culture asks its queen to be. The soft caste structure of the south \u2014 where magical ability determines social worth and low-tier casters exist in permanent shadow \u2014 sits uneasily with her."
+        },
+        {
+          "section": "The Council",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "The [[Council Members]] that manage [[Auralis]] through Cassia is not unified. They share a goal \u2014 the consolidation and expansion of Auralis, pursued with the single-minded intensity of people who believe they are build"
+        },
+        {
+          "section": "What She Wants",
+          "start_line": 25,
+          "end_line": 32,
+          "preview": "The thing Cassia wants is simple to name and difficult to execute: she wants the council's grip on [[Auralis]] broken and the kingdom returned to something good. She does not particularly care whether she is the one who "
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_backlink",
+      "score": 337,
+      "line_count": 263,
+      "outlink_count": 87,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    },
+    {
+      "id": "Merra Veld",
+      "path": "content/Merra Veld.md",
+      "title": "Merra Veld",
+      "why": "seed_outlink",
+      "score": 333,
+      "line_count": 65,
+      "outlink_count": 10,
+      "read_plan": [
+        {
+          "section": "Merra Veld",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Merra Veld is a [[Tier 2]] practitioner specializing in desert expedition rescue and recovery operations. She has spent twelve years working the [[Equatorial Desert]] crossing routes, initially as a guide assistant and p"
+        },
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "Merra began desert work at twenty-two, joining [[Nessa Keld]]'s expedition logistics network as a supply coordinator. Her early years were unremarkable: route documentation, water cache management, emergency supply drops"
+        },
+        {
+          "section": "Reputation and Network",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Over the following eight years, Merra built a reputation as someone expedition teams call when high-tier leadership has already failed. She does not advertise, does not maintain formal credentials beyond her guild regist"
+        },
+        {
+          "section": "Personal Philosophy",
+          "start_line": 25,
+          "end_line": 32,
+          "preview": "Merra does not describe herself as a hero. She describes herself as someone tired of recovering bodies from disasters caused by people who refused to listen. She has a documented history of tracking institutional decisio"
+        }
+      ]
+    },
+    {
+      "id": "Kess Tarren",
+      "path": "content/Kess Tarren.md",
+      "title": "Kess Tarren",
+      "why": "seed_outlink",
+      "score": 329,
+      "line_count": 75,
+      "outlink_count": 13,
+      "read_plan": [
+        {
+          "section": "Kess Tarren",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Kess Tarren is a [[Control Tier|Tier 4]] independent scholar specializing in [[Ancient Ruins|pre-collapse civilization]] architecture, inscription analysis, and dimensional mechanics. She is thirty-nine years old, Aurali"
+        },
+        {
+          "section": "Background and Academic Career",
+          "start_line": 7,
+          "end_line": 22,
+          "preview": "Kess entered ruins research at twenty-five, immediately after completing advanced study in [[Discipline|Enchanting]] and [[Flux]] theory at [[Aldrane Academy]]. She was recruited into the Council's ruins program based on"
+        },
+        {
+          "section": "Independent Research and Current Work",
+          "start_line": 23,
+          "end_line": 32,
+          "preview": "Since leaving the Council program, Kess has focused on re-analyzing existing ruins documentation with particular attention to what the ancients were **trying to prevent** rather than what they were trying to achieve. Her"
+        },
+        {
+          "section": "Relevance to War and Rift Cascade Threat",
+          "start_line": 33,
+          "end_line": 42,
+          "preview": "Kess has been tracking the [[Kellvost Incursion]] and subsequent rift activity escalation with increasing alarm. Her assessment, published in an open letter to both kingdoms' academic institutions two weeks post-Kellvost"
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 320,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Auralis Civic Courts",
+      "path": "content/Auralis Civic Courts.md",
+      "title": "Structure",
+      "why": "seed_outlink",
+      "score": 319,
+      "line_count": 106,
+      "outlink_count": 18,
+      "read_plan": [
+        {
+          "section": "Structure",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The court system operates at three levels:"
+        },
+        {
+          "section": "Judges",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "Civic Court judges are professional appointments, not elected positions. Candidates typically have:"
+        },
+        {
+          "section": "Trial Process",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "Criminal trials follow standardized procedure:"
+        },
+        {
+          "section": "Flux Crime Challenges",
+          "start_line": 39,
+          "end_line": 52,
+          "preview": "The courts struggle with [[Flux]]-enabled criminal activity because evidence standards designed for physical crimes do not adapt well to effects that can be concealed, manipulated, or destroyed through spellwork."
+        }
+      ]
+    },
+    {
+      "id": "Interkingdom Accountability Compact",
+      "path": "content/Interkingdom Accountability Compact.md",
+      "title": "Interkingdom Accountability Compact",
+      "why": "seed_outlink",
+      "score": 303,
+      "line_count": 42,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Interkingdom Accountability Compact",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "The **Interkingdom Accountability Compact** is a three-year post-revelation governance accord between [[Auralis]] and [[Terravelle]] that standardizes public accountability obligations for shared coexistence institutions"
+        },
+        {
+          "section": "Context",
+          "start_line": 5,
+          "end_line": 15,
+          "preview": "By year three, both kingdoms had built layered safeguards:"
+        },
+        {
+          "section": "Core Provisions",
+          "start_line": 16,
+          "end_line": 31,
+          "preview": "**Shared Disclosure Clock**"
+        },
+        {
+          "section": "Strategic Significance",
+          "start_line": 32,
+          "end_line": 42,
+          "preview": "The Compact shifts coexistence accountability from parallel systems to an interoperable system. It does not erase political differences; it constrains them where secrecy and delay historically produced escalation."
+        }
+      ]
+    },
+    {
+      "id": "Solhaven",
+      "path": "content/Solhaven.md",
+      "title": "Layout and Architecture",
+      "why": "second_order",
+      "score": 267,
+      "line_count": 31,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "Layout and Architecture",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Solhaven is organized by elevation in ways that are officially geographic and practically social. The harbor district at the base is commercial \u2014 trade, warehousing, transport, the practical work of a port city. As you m"
+        },
+        {
+          "section": "The Palace",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "[[Cassia]]'s palace occupies the Crestward's eastern face, designed to catch morning light and be visible from the harbor. It is large, ornate, and functions as both a residence and a performance space \u2014 the formal halls"
+        },
+        {
+          "section": "Population and Character",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "Solhaven's population approaches a million. It is the largest city in Solumora and the most [[Flux]]-saturated \u2014 the density of active [[Sigils]] in the upper terraces is high enough that visitors with [[Control Tier]] s"
+        },
+        {
+          "section": "The Ascendant Path",
+          "start_line": 23,
+          "end_line": 31,
+          "preview": "[[Religion and Belief|The Ascendant Path]] runs deeper in Solhaven than anywhere else in [[Auralis]]. The Luminants \u2014 the Path's formal priesthood \u2014 operate out of three major temples in the city, the largest of which si"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Auralis",
+      "Auralis Civic Courts",
+      "Cassia",
+      "Interkingdom Accountability Compact",
+      "Kess Tarren",
+      "Merra Veld",
+      "Terravelle"
+    ]
+  }
+}

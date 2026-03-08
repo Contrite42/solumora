@@ -230,4 +230,34 @@ Failure-recovery institutions now active:
 - [[Coexistence Enforcement Failure Review Board]]
 - [[Emergency Reintegration Mandate]]
 
+## Story Bundle: Thirty Months After the First Casualty
+
+Three linked short narratives track organized rollback pressure through legislative retrenchment attempt, district noncooperation response, and veto-margin constitutional defense.
+
+- [[Stories/Thirty Months After the First Casualty - Rollback Bill]]
+- [[Stories/Thirty Months After the First Casualty - District Boycott]]
+- [[Stories/Thirty Months After the First Casualty - Veto Count]]
+
+Together, they show year-three risk migration: overt panic recedes while procedural rollback pressure intensifies, forcing coexistence durability to depend on transparent metrics, staged civic repair, and constitutional friction that slows amnesia.
+
+Retrenchment resilience institutions now active:
+
+- [[Framework Retrenchment Defense Protocol]]
+- [[Civic Noncooperation Recovery Ladder]]
+
+## Story Bundle: Three Years After the First Casualty
+
+Three linked short narratives establish post-founder durability through compact ratification, cohort hand-off operations, and border routine normalization under shared accountability infrastructure.
+
+- [[Stories/Three Years After the First Casualty - Compact Session]]
+- [[Stories/Three Years After the First Casualty - Cohort Transfer]]
+- [[Stories/Three Years After the First Casualty - Border Quiet]]
+
+Together, they mark transition from crisis-stability to institutional maturity: coexistence survives less by exceptional personalities and more by interoperable oversight clocks, successor training standards, and daily systems legibility.
+
+Maturity-layer institutions now active:
+
+- [[Interkingdom Accountability Compact]]
+- [[Generational Hand-off Operations Standard]]
+
 _See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]], [[Stories/Five Days Before the Breakpoint - Operator]], [[Stories/Five Days Before the Breakpoint - Merchant]], [[Stories/Five Days Before the Breakpoint - Household]], [[Stories/Three Nights to First Shot - Scout]], [[Stories/Three Nights to First Shot - Quartermaster]], [[Stories/Three Nights to First Shot - Courier]], [[Stories/Sixty Minutes After the First Casualty - Patrol Clerk]], [[Stories/Sixty Minutes After the First Casualty - Ward Nurse]], [[Stories/Sixty Minutes After the First Casualty - Bulletin Runner]], [[Stories/Twenty-Four Hours After the First Casualty - Duty Captain]], [[Stories/Twenty-Four Hours After the First Casualty - Road Dispatcher]], [[Stories/Twenty-Four Hours After the First Casualty - Grain Broker]], [[Stories/Seven Days After the First Casualty - Mediation Clerk]], [[Stories/Seven Days After the First Casualty - Warehouse Foreman]], [[Stories/Seven Days After the First Casualty - School Registrar]], [[Stories/Thirty Days After the First Casualty - Banking Coordinator]], [[Stories/Thirty Days After the First Casualty - Supply Chain Commander]], [[Stories/Thirty Days After the First Casualty - Guild Coordination Lead]], [[Stories/Forty-Five Days After the First Casualty - Rescue Summons]], [[Stories/Forty-Five Days After the First Casualty - Archive Dealer]], [[Stories/Forty-Five Days After the First Casualty - Dry Warehouse Nine]], [[Stories/Fifty-Eight Days After the First Casualty - Corridor Model]], [[Stories/Fifty-Eight Days After the First Casualty - Closed Door Briefing]], [[Stories/Fifty-Eight Days After the First Casualty - Lantern Stacks]], [[Stories/Sixty-Seven Days After the First Casualty - Fifth Bell Declaration]], [[Stories/Sixty-Eight Days After the First Casualty - Ashford Standstill]], [[Stories/Seventy-Two Days After the First Casualty - Joint Anchor Operation]], [[Stories/Ninety Days After the First Casualty - Curriculum Revision]], [[Stories/Ninety Days After the First Casualty - Policy Hearing]], [[Stories/Ninety Days After the First Casualty - Corridor Market Morning]], [[Stories/One Hundred Twenty Days After the First Casualty - Commission Docket]], [[Stories/One Hundred Twenty Days After the First Casualty - Anchor Audit]], [[Stories/One Hundred Twenty Days After the First Casualty - Dockside Questions]], [[Stories/One Hundred Eighty Days After the First Casualty - Ratification Hall]], [[Stories/One Hundred Eighty Days After the First Casualty - First Appeal]], [[Stories/One Hundred Eighty Days After the First Casualty - Winter Convoy]], [[Stories/One Year After the First Casualty - Oath Day]], [[Stories/One Year After the First Casualty - Memory Hearing]], [[Stories/One Year After the First Casualty - New Cohort Drill]], [[Ashford Emergency Ceasefire Framework]], [[Joint Rift Monitoring Cell]], [[Public Status of High Demons]], [[Ashford Coexistence Oversight Commission]], [[Corridor Stabilization Treaty]], [[Anti-Persecution Compliance Tribunal]], [[Succession Safeguards Charter]], [[Intergenerational Coexistence Curriculum]], [[The Lantern Decrees]], [[Five Survivors Concord]], [[Ashford Witness Amnesty Records]]_

@@ -146,6 +146,20 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Completed outputs:** `Coexistence Enforcement Failure Review Board`, `Emergency Reintegration Mandate`, 3-story `Two Years After...` bundle, and `The Three Near-Wars` update.
       **Status note:** COMPLETE (two-year continuation executed and integrated on 2026-03-07)
 
+- [x] **USER-021 — Continuation: Thirty-Month Rollback Pressure Layer**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Stress-test coexistence durability under legislative retrenchment attempts and civic noncooperation without open violence.
+      **Scope:** 2 institutional notes + 3 linked stories + near-war hub integration.
+      **Completed outputs:** `Framework Retrenchment Defense Protocol`, `Civic Noncooperation Recovery Ladder`, 3-story `Thirty Months After...` bundle, and `The Three Near-Wars` update.
+      **Status note:** COMPLETE (thirty-month continuation executed and integrated on 2026-03-07)
+
+- [x] **USER-022 — Continuation: Three-Year Institutional Maturity Layer**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Transition coexistence durability from founder dependence to interoperable cross-kingdom accountability and successor operations.
+      **Scope:** 2 institutional notes + 3 linked stories + near-war hub integration.
+      **Completed outputs:** `Interkingdom Accountability Compact`, `Generational Hand-off Operations Standard`, 3-story `Three Years After...` bundle, and `The Three Near-Wars` update.
+      **Status note:** COMPLETE (three-year continuation executed and integrated on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**
