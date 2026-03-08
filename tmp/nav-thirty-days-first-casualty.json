@@ -1,0 +1,350 @@
+{
+  "concept": "Stories/Thirty Days After the First Casualty - Banking Coordinator",
+  "top_pages": [
+    {
+      "id": "Stories/Thirty Days After the First Casualty - Banking Coordinator",
+      "path": "content/Stories/Thirty Days After the First Casualty - Banking Coordinator.md",
+      "title": "Thirty Days After the First Casualty \u2014 Banking Coordinator",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 23,
+      "outlink_count": 6,
+      "read_plan": [
+        {
+          "section": "Thirty Days After the First Casualty \u2014 Banking Coordinator",
+          "start_line": 1,
+          "end_line": 23,
+          "preview": "Shen Delmar has not slept more than four hours a night since the casualty reports began crossing her desk. She runs the Banking Institutions' coordination node in Auralis Central\u2014the office where the Treasury Department,"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "seed_outlink",
+      "score": 704,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 487,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 462,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Banking Institutions",
+      "path": "content/Banking Institutions.md",
+      "title": "Banking Institutions",
+      "why": "seed_outlink",
+      "score": 319,
+      "line_count": 101,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Banking Institutions",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "[[Solumora]]'s financial system is structured around institutional banking that operates differently in each kingdom but serves analogous functions: maintaining ledger accounts, facilitating inter-merchant transactions, "
+        },
+        {
+          "section": "Auralis Banking Model \u2014 Council Integration",
+          "start_line": 5,
+          "end_line": 26,
+          "preview": "[[The Council of Auralis|Auralis]] operates a centralized banking structure oriented around [[Emberfall]] as the primary institutional hub. The Council of Auralis Banking Authority maintains exclusive licensing for major"
+        },
+        {
+          "section": "Terravelle Banking Model \u2014 Guild Federation Approach",
+          "start_line": 27,
+          "end_line": 46,
+          "preview": "[[Terravelle]] operates a decentralized banking structure with no single central authority. Instead, independent banking houses operate in major settlements ([[Valdenmoor]], [[Ashford]], [[Drest]]) with loose coordinatio"
+        },
+        {
+          "section": "Comparative Economic Position",
+          "start_line": 47,
+          "end_line": 56,
+          "preview": "**Security and Stability** \u2014 Auralis institutions provide greater central security (larger reserves, centralized risk management) but operate under Council control. Terravelle institutions are more fragmented (higher ins"
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 319,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Border De-Escalation Protocols",
+      "path": "content/Border De-Escalation Protocols.md",
+      "title": "Border De-Escalation Protocols",
+      "why": "seed_outlink",
+      "score": 311,
+      "line_count": 93,
+      "outlink_count": 9,
+      "read_plan": [
+        {
+          "section": "Border De-Escalation Protocols",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Border De-Escalation Protocols** are the practical procedures used by customs offices, guild coordinators, and liaison operators to contain incidents before they become strategic confrontations."
+        },
+        {
+          "section": "Design Principle",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "A working protocol must satisfy three constraints simultaneously:"
+        },
+        {
+          "section": "Core Protocol Set",
+          "start_line": 17,
+          "end_line": 18,
+          "preview": ""
+        },
+        {
+          "section": "1. Technical Clarification Window",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "When a seizure or hold is triggered by documentation mismatch, both sides enter a fixed clarification window (usually 24-48 hours) before public narrative expansion."
+        }
+      ]
+    },
+    {
+      "id": "Food Trade and Distribution Systems",
+      "path": "content/Food Trade and Distribution Systems.md",
+      "title": "Primary Food Production Regions",
+      "why": "seed_outlink",
+      "score": 311,
+      "line_count": 417,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Primary Food Production Regions",
+          "start_line": 3,
+          "end_line": 4,
+          "preview": ""
+        },
+        {
+          "section": "[[Maren Valley]] (Terravelle Agricultural Core)",
+          "start_line": 5,
+          "end_line": 24,
+          "preview": "The principal grain-producing region supplying [[Terravelle]] and exporting to [[Auralis]]."
+        },
+        {
+          "section": "[[Upland Herding Network]] (Northern Terravelle)",
+          "start_line": 25,
+          "end_line": 43,
+          "preview": "Sheep and goat operations providing meat, dairy, and textiles."
+        },
+        {
+          "section": "[[Mountain Game Collective]] (Wolfpoint Region)",
+          "start_line": 44,
+          "end_line": 62,
+          "preview": "Coordinated hunting operation producing preserved game meat."
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_backlink",
+      "score": 285,
+      "line_count": 107,
+      "outlink_count": 35,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    },
+    {
+      "id": "Solhaven",
+      "path": "content/Solhaven.md",
+      "title": "Layout and Architecture",
+      "why": "second_order",
+      "score": 267,
+      "line_count": 31,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "Layout and Architecture",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Solhaven is organized by elevation in ways that are officially geographic and practically social. The harbor district at the base is commercial \u2014 trade, warehousing, transport, the practical work of a port city. As you m"
+        },
+        {
+          "section": "The Palace",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "[[Cassia]]'s palace occupies the Crestward's eastern face, designed to catch morning light and be visible from the harbor. It is large, ornate, and functions as both a residence and a performance space \u2014 the formal halls"
+        },
+        {
+          "section": "Population and Character",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "Solhaven's population approaches a million. It is the largest city in Solumora and the most [[Flux]]-saturated \u2014 the density of active [[Sigils]] in the upper terraces is high enough that visitors with [[Control Tier]] s"
+        },
+        {
+          "section": "The Ascendant Path",
+          "start_line": 23,
+          "end_line": 31,
+          "preview": "[[Religion and Belief|The Ascendant Path]] runs deeper in Solhaven than anywhere else in [[Auralis]]. The Luminants \u2014 the Path's formal priesthood \u2014 operate out of three major temples in the city, the largest of which si"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Banking Institutions",
+      "Border De-Escalation Protocols",
+      "Control Tier",
+      "Food Trade and Distribution Systems",
+      "Northern Agricultural Districts",
+      "Treasury and Fiscal Authority"
+    ]
+  }
+}

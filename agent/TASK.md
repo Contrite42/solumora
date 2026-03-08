@@ -1,4 +1,4 @@
-# Current Task: Story Bundle - Seven Days After the First Casualty
+# Current Task: Story Bundle - Thirty Days After the First Casualty
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,13 +7,13 @@
 
 ## Summary
 
-Created a modular week-one aftermath story bundle that deepens war-sequence pressure without locking a creator-only trigger/resolution choice from Decision F.
+Created a modular month-one aftermath story bundle showing institutional adaptation and autonomy loss without locking a creator-only trigger/resolution choice from Decision F.
 
 ## Completed Outputs (This Cycle)
 
-- Created: `content/Stories/Seven Days After the First Casualty - Mediation Clerk.md`
-- Created: `content/Stories/Seven Days After the First Casualty - Warehouse Foreman.md`
-- Created: `content/Stories/Seven Days After the First Casualty - School Registrar.md`
+- Created: `content/Stories/Thirty Days After the First Casualty - Banking Coordinator.md`
+- Created: `content/Stories/Thirty Days After the First Casualty - Supply Chain Commander.md`
+- Created: `content/Stories/Thirty Days After the First Casualty - Guild Coordination Lead.md`
 - Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
 
 ## Verification

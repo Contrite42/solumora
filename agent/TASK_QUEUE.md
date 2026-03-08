@@ -86,6 +86,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** 3 story files + new bundle section in near-war hub.
       **Status note:** COMPLETE (stories created: Mediation Clerk, Warehouse Foreman, School Registrar; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
 
+- [x] **USER-013 — Story Bundle: Thirty Days After the First Casualty**
+      **Source:** Continuation request (2026-03-07), follow-on modular war-sequence development
+      **Goal:** Add a linked month-one aftermath story set showing financial restructuring, supply fragmentation, and institutional autonomy loss.
+      **Scope:** 3 stories in `content/Stories/` + one index update in `content/The Three Near-Wars.md`.
+      **Required outputs:** 3 story files + new bundle section in near-war hub.
+      **Status note:** COMPLETE (stories created: Banking Coordinator, Supply Chain Commander, Guild Coordination Lead; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**
