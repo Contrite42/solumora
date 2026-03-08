@@ -1,4 +1,4 @@
-# Current Task: Post-Arc Continuation — One-Year Succession and Memory Transfer
+# Current Task: Post-Arc Continuation — Eighteen-Month Regional Divergence Testing
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,21 +7,21 @@
 
 ## Summary
 
-Extended continuation with one-year succession stress-testing: created governance continuity controls and intergenerational civic-learning infrastructure, then validated first transfer cycle from founding actors to successor systems.
+Extended continuation with eighteen-month regional variance stress-testing: created asymmetric enforcement doctrine and border protocol framework, then validated divergent compliance patterns across Protected Observation zones, border settlements, and Full Integration core cities.
 
 ## Completed Outputs (Continuation Tranche)
 
-- Created: `content/Succession Safeguards Charter.md`
-- Created: `content/Intergenerational Coexistence Curriculum.md`
-- Created: `content/Stories/One Year After the First Casualty - Oath Day.md`
-- Created: `content/Stories/One Year After the First Casualty - Memory Hearing.md`
-- Created: `content/Stories/One Year After the First Casualty - New Cohort Drill.md`
-- Updated: `content/The Three Near-Wars.md` (one-year bundle + succession/memory institutions)
+- Created: `content/Regional Enforcement Variance Doctrine.md`
+- Created: `content/Border Settlement Coexistence Protocol.md`
+- Created: `content/Stories/Eighteen Months After the First Casualty - Protected Zone Morning.md`
+- Created: `content/Stories/Eighteen Months After the First Casualty - Border Market.md`
+- Created: `content/Stories/Eighteen Months After the First Casualty - Core City Integration.md`
+- Updated: `content/The Three Near-Wars.md` (eighteen-month bundle + regional variance institutions)
 
 ## Status
 
 - Continuation tranche complete.
-- Canon now extends from first-casualty trigger through one-year leadership succession and procedural-memory transfer.
+- Canon now extends from first-casualty trigger through eighteen-month geographic compliance divergence and managed asymmetric adaptation testing.
 
 ## Verification
 

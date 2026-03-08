@@ -132,6 +132,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Completed outputs:** `Succession Safeguards Charter`, `Intergenerational Coexistence Curriculum`, 3-story `One Year After...` bundle, and `The Three Near-Wars` update.
       **Status note:** COMPLETE (one-year continuation executed and integrated on 2026-03-07)
 
+- [x] **USER-019 — Continuation: Eighteen-Month Regional Divergence Testing**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Stress-test coexistence framework adaptation across geographic variance—Protected Observation zones, border settlements, and Full Integration core cities.
+      **Scope:** 2 institutional notes + 3 linked stories + near-war hub integration.
+      **Completed outputs:** `Regional Enforcement Variance Doctrine`, `Border Settlement Coexistence Protocol`, 3-story `Eighteen Months After...` bundle, and `The Three Near-Wars` update.
+      **Status note:** COMPLETE (eighteen-month continuation executed and integrated on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**
