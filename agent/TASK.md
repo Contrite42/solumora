@@ -1,4 +1,4 @@
-# Current Task: USER-005 Desert Crossing Insurance and Death Ledger Economy
+# Current Task: USER-006 Municipal Friction in Greyveil (Scale vs. Governance)
 
 **Status:** In Progress
 **Owner:** Codex
@@ -7,34 +7,33 @@
 
 ## Summary
 
-Activated USER-005 from `agent/TASK_QUEUE.md` after completing USER-004 black-market grimoire risk-chain outputs.
+Activated USER-006 from `agent/TASK_QUEUE.md` after completing USER-005 expedition-risk finance outputs.
 
-This phase focuses on underwriting, claims adjudication, fraud controls, and survivor-benefit structures for high-risk expedition finance.
+This phase focuses on recurring municipal failure loops in Greyveil where district systems remain active but governance coordination is too thin for stable service quality.
 
-## Prior Cycle Completion (USER-004)
+## Prior Cycle Completion (USER-005)
 
 Completed outputs:
-- `content/Illicit Grimoire Supply Nodes.md`
-- `content/Counterfeit Grimoire Verification Failures.md`
-- `content/Black-Market Transfer Laundering.md`
-- `content/Seizure Escalation Procedures.md`
-- `content/Solhaven Ledger Burn Case.md`
-- Hub updates: `content/Black Market Grimoires.md`, `content/Grimoires.md`
+- `content/Crossing Risk Underwriters.md`
+- `content/Death Ledger Claim Adjudication.md`
+- `content/Expedition Insurance Fraud Patterns.md`
+- `content/Survivor Benefit Contracts.md`
+- Hub updates: `content/Adventurer Support Network.md`, `content/Banking Institutions.md`
 
-## Execution Targets (USER-005)
+## Execution Targets (USER-006)
 
-- Create 4-6 notes covering underwriters, claim adjudication, fraud patterns, and survivor-benefit contracts.
-- Update `content/Adventurer Support Network.md` and one economy/banking hub.
+- Create 4-5 notes covering waste/water breakdown episodes, district mediation routines, emergency work crews, and budget conflict.
+- Update `content/Greyveil.md` and `content/Greyveil Civic Coordination.md`.
 - Ensure each new note has >=3 outbound links and >=1 inbound hub link.
 
 ## Next Steps
 
-- Add first USER-005 tranche:
-  - `Crossing Risk Underwriters`
-  - `Death Ledger Claim Adjudication`
-  - `Expedition Insurance Fraud Patterns`
-- Append compact synthesis to adventure/economy hubs.
-- Refresh navigation artifacts after content changes.
+- Add first USER-006 tranche:
+  - `Greyveil Water Interruption Episodes`
+  - `District Boundary Mediation Routine`
+  - `Emergency Utility Work Crews`
+- Append synthesis to Greyveil hub pages.
+- Refresh navigation artifacts after content edits.
 
 Default navigation method (run from repo root):
 

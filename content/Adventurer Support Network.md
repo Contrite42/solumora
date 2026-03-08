@@ -120,4 +120,15 @@ When institutional forces disrupt these relationships (monopolizing information,
 
 The question now facing [[Solumora]]'s support ecosystem: will the political environment stabilize back toward diversity after war preparation concludes, or will institutional monopolies on information, materials, and services become permanent?
 
-_See also: [[Adventurers]], [[Specialized Equipment Vendors]], [[Intelligence Brokers and Cartographic Services]], [[Rescue and Recovery Services]], [[Vren Kost]], [[Meln Rast]], [[The Council of Auralis]], [[Thel Reach]], [[Expedition Supplies]]_
+## Risk Finance Layer
+
+Expedition viability now depends not only on equipment and recovery capacity but on whether loss can be financed without destroying surviving households.
+
+- [[Crossing Risk Underwriters]] define what risk classes are economically insurable.
+- [[Death Ledger Claim Adjudication]] determines payout timing and dispute exposure.
+- [[Expedition Insurance Fraud Patterns]] shape premium inflation and review strictness.
+- [[Survivor Benefit Contracts]] determine whether dependent households remain stable after casualty events.
+
+When this layer weakens, support networks still operate but become inaccessible to the operators who need them most.
+
+_See also: [[Adventurers]], [[Specialized Equipment Vendors]], [[Intelligence Brokers and Cartographic Services]], [[Rescue and Recovery Services]], [[Crossing Risk Underwriters]], [[Death Ledger Claim Adjudication]], [[Expedition Insurance Fraud Patterns]], [[Survivor Benefit Contracts]], [[Vren Kost]], [[Meln Rast]], [[The Council of Auralis]], [[Thel Reach]], [[Expedition Supplies]]_

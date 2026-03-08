@@ -87,4 +87,15 @@ Contemporary military preparation creates multiple financial system vulnerabilit
 
 **Institutional Failure Risk** — Smaller banking houses, particularly in Terravelle, face potential insolvency if military operations reduce merchant deposits (through reduced merchant profitability) and simultaneously increase loan defaults (through merchant operational strain). Insurance-equivalent mechanisms do not exist in either kingdom, so banking house failure would directly impact merchant accounts and create secondary effects through lost access to credit.
 
-_See also: [[Solumora]], [[Watts as Currency]], [[Banking Institutions]], [[Cross-Kingdom Financial Exchange]], [[Informal Lending Systems]], [[Auralis]], [[Terravelle]], [[The Council of Auralis]], [[The Advancement Corps]], [[Trade Guilds]], [[Emberfall]], [[Valdenmoor]]_
+## Expedition-Risk Finance Integration
+
+Banking institutions are increasingly entangled with high-risk expedition insurance markets.
+
+- [[Crossing Risk Underwriters]] rely on bank settlement rails for premium pooling and payout release.
+- [[Death Ledger Claim Adjudication]] delays now affect liquidity timing and reserve planning.
+- [[Expedition Insurance Fraud Patterns]] raise compliance overhead and force tighter verification controls.
+- [[Survivor Benefit Contracts]] create recurring payout obligations that can stabilize or destabilize district household economies depending on adjudication performance.
+
+This integration means expedition casualty dynamics are no longer isolated to adventure sectors; they now feed directly into broader credit and trust conditions.
+
+_See also: [[Solumora]], [[Watts as Currency]], [[Banking Institutions]], [[Cross-Kingdom Financial Exchange]], [[Informal Lending Systems]], [[Crossing Risk Underwriters]], [[Death Ledger Claim Adjudication]], [[Expedition Insurance Fraud Patterns]], [[Survivor Benefit Contracts]], [[Auralis]], [[Terravelle]], [[The Council of Auralis]], [[The Advancement Corps]], [[Trade Guilds]], [[Emberfall]], [[Valdenmoor]]_

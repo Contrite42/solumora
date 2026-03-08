@@ -30,18 +30,19 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** new notes + updates to `content/Black Market Grimoires.md` and `content/Grimoires.md`.
       **Status note:** COMPLETE (5-note risk-chain bundle + 2 hub updates completed on 2026-03-07)
 
-- [ ] **USER-005 — Desert Crossing Insurance and Death Ledger Economy**
+- [x] **USER-005 — Desert Crossing Insurance and Death Ledger Economy**
       **Source:** Adventure/crossing risk economy needs operational finance depth
       **Goal:** Explain who underwrites high-risk expeditions and how death compensation actually works.
       **Scope:** 4-6 notes (underwriters, claim adjudication, fraud patterns, survivor-benefit contracts)
       **Required outputs:** new notes + updates to `content/Adventurer Support Network.md` and one economy/banking hub.
-      **Status note:** IN PROGRESS (activated 2026-03-07)
+      **Status note:** COMPLETE (4-note finance bundle + 2 hub updates completed on 2026-03-07)
 
 - [ ] **USER-006 — Municipal Friction in Greyveil (Scale vs. Governance)**
       **Source:** New Greyveil expansion pages indicate governance strain without formal city authority
       **Goal:** Detail recurring civic failures and patchwork fixes at district boundaries.
       **Scope:** 4-5 notes (waste/water breakdown episodes, district mediation routine, emergency work crews, budget conflict)
       **Required outputs:** new notes + updates to `content/Greyveil.md` and `content/Greyveil Civic Coordination.md`.
+      **Status note:** IN PROGRESS (activated 2026-03-07)
 
 - [ ] **USER-007 — Story Bundle: Five Days Before the Breakpoint**
       **Source:** Narrative demand for character-level perspective during systemic escalation
