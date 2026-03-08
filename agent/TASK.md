@@ -1,20 +1,30 @@
-# Current Task: Story Bundle - Thirty Days After the First Casualty
+# Current Task: Major Narrative Arc Foundation — War and Resolution (Phase 1)
 
-**Status:** Complete
+**Status:** In Progress
 **Owner:** Codex
 **Started:** 2026-03-07
-**Completed:** 2026-03-07
+**Expected Timeline:** Multi-phase development (8-12 stories + world state transformation)
 
 ## Summary
 
-Created a modular month-one aftermath story bundle showing institutional adaptation and autonomy loss without locking a creator-only trigger/resolution choice from Decision F.
+Building foundation for major narrative arc following Decision F approval. Arc centers on rift cascade threat, party-based resolution, and High Demon revelation. Protagonist: Merra Veld (T2 rescue specialist). Party composition: Merra + High Demon + T0 Logistics + Ruins Scholar + Cassia. Resolution: High Demons forced to reveal themselves to prevent dimensional collapse.
 
-## Completed Outputs (This Cycle)
+## Completed Outputs (Phase 1: Foundation)
 
-- Created: `content/Stories/Thirty Days After the First Casualty - Banking Coordinator.md`
-- Created: `content/Stories/Thirty Days After the First Casualty - Supply Chain Commander.md`
-- Created: `content/Stories/Thirty Days After the First Casualty - Guild Coordination Lead.md`
-- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
+- Updated: `agent/DECISIONS.md` (recorded Decision F approval with full selections)
+- Created: `content/Kellvost Incursion.md` (war trigger event: rift catastrophe, 53 dead, Council negligence exposed)
+- Created: `content/Merra Veld.md` (protagonist: T2 expedition rescue specialist, 12 years desert experience)
+- Created: `content/Teren Voss.md` (High Demon Verath, 400+ years old, hiding as book dealer, forced to act by cascade threat)
+- Created: `content/Jess Maren.md` (T0 logistics expert, 22 years supply chain experience, competence-over-power exemplar)
+- Created: `content/Kess Tarren.md` (T4-5 ruins scholar, independent researcher, understands ancient stabilization mechanisms)
+
+## Phase 1 Status: Foundation Complete
+
+All core party members created. War trigger event documented. Next phases:
+- Phase 2: Party assembly and initial crisis recognition
+- Phase 3: Investigation and escalation
+- Phase 4: Resolution and revelation
+- Phase 5: Post-war world state transformation
 
 ## Verification
 
