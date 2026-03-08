@@ -58,6 +58,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** root-page cleanup pass (naming/index alignment), refreshed summary sections, reduced duplication, and updated cross-links from root hubs (`Solumora`, `World Primer`, `World Index Draft`, and related root landing pages as needed).
       **Status note:** COMPLETE (root-page role normalization completed on 2026-03-07; `index`, `Solumora`, `World Primer`, and `World Index Draft` simplified and aligned; nav artifacts refreshed at 652 pages)
 
+- [x] **USER-009 — Story Bundle: Three Nights to First Shot**
+      **Source:** Continuation request (2026-03-07), next war-sequence lane after historical pressure-stack completion
+      **Goal:** Add a linked pre-casualty story set showing the final escalation window from border, logistics, and courier viewpoints without resolving creator decision gates.
+      **Scope:** 3 stories in `content/Stories/` + one index update in `content/The Three Near-Wars.md`.
+      **Required outputs:** 3 story files + new bundle section in near-war hub.
+      **Status note:** COMPLETE (stories created: Scout, Quartermaster, Courier; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**

@@ -1,28 +1,25 @@
-# Current Task: Canon + Links Integrity Cycle
+# Current Task: Story Bundle - Three Nights to First Shot
 
 **Status:** Complete
-**Owner:** Codex (fallback recurring cycle)
-**Started:** 2026-03-08
-**Completed:** 2026-03-08
+**Owner:** Codex
+**Started:** 2026-03-07
+**Completed:** 2026-03-07
 
 ## Summary
 
-Executed the recurring canon/link integrity cycle immediately after the information-economy expansion. Refreshed and audited link artifacts, then recorded findings in the report files and queue run marker.
+Created a decision-neutral war-edge story bundle that increases constitutional-war pressure without selecting creator-only arc options in Decision F.
 
 ## Completed Outputs (This Cycle)
 
-- Refreshed: `tmp/no-orphans-audit.json` (from current `tmp/context-index.json`)
-- Updated: `agent/reports/inconsistencies.md` (new 2026-03-08 integrity entry)
-- Updated: `agent/reports/links_applied.md` (new 2026-03-08 artifact/run entry)
-- Updated: `agent/TASK_QUEUE.md` (FOREVER TASK latest-run marker)
+- Created: `content/Stories/Three Nights to First Shot - Scout.md`
+- Created: `content/Stories/Three Nights to First Shot - Quartermaster.md`
+- Created: `content/Stories/Three Nights to First Shot - Courier.md`
+- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
 
 ## Verification
 
-- Indexed pages audited: 649
-- Outbound threshold (`>=3`) failures: 10 (`FAIL`)
-- Inbound threshold (`>=1`) failures: 0 (`PASS`)
-- Unresolved target titles in outlinks: 151 across 235 link instances (`FAIL`)
-- No new timeline/geography/magic contradictions detected in this pass
+- Story files include cross-links to active escalation hubs and avoid introducing canon-breaking outcomes.
+- Hub backlink added so each new story has inbound discoverability through `The Three Near-Wars`.
 
 Default navigation method (run from repo root):
 

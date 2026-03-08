@@ -54,4 +54,14 @@ Three linked short narratives render the same pre-escalation window from differe
 
 Taken together, they show how procedural friction, contract risk, and household continuity pressure converge before formal crisis language appears.
 
-_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]], [[Stories/Five Days Before the Breakpoint - Operator]], [[Stories/Five Days Before the Breakpoint - Merchant]], [[Stories/Five Days Before the Breakpoint - Household]]_
+## Story Bundle: Three Nights to First Shot
+
+Three linked short narratives track the final pre-casualty window from border observation, warehouse accountability, and courier continuity:
+
+- [[Stories/Three Nights to First Shot - Scout]]
+- [[Stories/Three Nights to First Shot - Quartermaster]]
+- [[Stories/Three Nights to First Shot - Courier]]
+
+Together, they emphasize the same escalation point from different institutions: systems still function, but only through exhausting manual interventions that become unsustainable under reciprocal hardening.
+
+_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]], [[Stories/Five Days Before the Breakpoint - Operator]], [[Stories/Five Days Before the Breakpoint - Merchant]], [[Stories/Five Days Before the Breakpoint - Household]], [[Stories/Three Nights to First Shot - Scout]], [[Stories/Three Nights to First Shot - Quartermaster]], [[Stories/Three Nights to First Shot - Courier]]_
