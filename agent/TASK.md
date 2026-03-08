@@ -1,4 +1,4 @@
-# Current Task: USER-006 Municipal Friction in Greyveil (Scale vs. Governance)
+# Current Task: USER-007 Story Bundle: Five Days Before the Breakpoint
 
 **Status:** In Progress
 **Owner:** Codex
@@ -7,33 +7,33 @@
 
 ## Summary
 
-Activated USER-006 from `agent/TASK_QUEUE.md` after completing USER-005 expedition-risk finance outputs.
+Activated USER-007 from `agent/TASK_QUEUE.md` after completing USER-006 municipal friction outputs.
 
-This phase focuses on recurring municipal failure loops in Greyveil where district systems remain active but governance coordination is too thin for stable service quality.
+This phase will deliver three tightly linked stories across operator, merchant, and household perspectives anchored to current canon escalation conditions.
 
-## Prior Cycle Completion (USER-005)
+## Prior Cycle Completion (USER-006)
 
 Completed outputs:
-- `content/Crossing Risk Underwriters.md`
-- `content/Death Ledger Claim Adjudication.md`
-- `content/Expedition Insurance Fraud Patterns.md`
-- `content/Survivor Benefit Contracts.md`
-- Hub updates: `content/Adventurer Support Network.md`, `content/Banking Institutions.md`
+- `content/Greyveil Water Interruption Episodes.md`
+- `content/District Boundary Mediation Routine.md`
+- `content/Emergency Utility Work Crews.md`
+- `content/Greyveil Maintenance Budget Conflicts.md`
+- Hub updates: `content/Greyveil.md`, `content/Greyveil Civic Coordination.md`
 
-## Execution Targets (USER-006)
+## Execution Targets (USER-007)
 
-- Create 4-5 notes covering waste/water breakdown episodes, district mediation routines, emergency work crews, and budget conflict.
-- Update `content/Greyveil.md` and `content/Greyveil Civic Coordination.md`.
-- Ensure each new note has >=3 outbound links and >=1 inbound hub link.
+- Create 3 story files in `content/Stories/` across three social layers.
+- Anchor story events to established canon tensions and existing locations.
+- Add one index-style link update in a relevant hub page.
 
 ## Next Steps
 
-- Add first USER-006 tranche:
-  - `Greyveil Water Interruption Episodes`
-  - `District Boundary Mediation Routine`
-  - `Emergency Utility Work Crews`
-- Append synthesis to Greyveil hub pages.
-- Refresh navigation artifacts after content edits.
+- Draft story set:
+  - operator perspective (border/corridor)
+  - merchant perspective (contract and risk)
+  - household perspective (continuity under strain)
+- Add story index block to a relevant hub (likely `Ordinary Life` or `The Three Near-Wars`).
+- Refresh navigation artifacts and task-scoped nav pack.
 
 Default navigation method (run from repo root):
 

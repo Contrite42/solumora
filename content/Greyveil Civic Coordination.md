@@ -156,6 +156,17 @@ Greyveil's civic coordination is not elegant model or inspiring innovative gover
 
 That's the reality. Ordinary, strained, adequate, and increasingly uncertain about remaining so.
 
+## Current Friction Cases
+
+Recent municipal-friction analysis is detailed in four linked operational notes:
+
+- [[Greyveil Water Interruption Episodes]]
+- [[District Boundary Mediation Routine]]
+- [[Emergency Utility Work Crews]]
+- [[Greyveil Maintenance Budget Conflicts]]
+
+These pages document how service continuity is preserved through reactive coordination while structural budget and authority conflicts remain unresolved.
+
 ---
 
-_See also: [[Greyveil]], [[Greyveil Trade Quarter]], [[Greyveil Relay District]], [[Greyveil Settlement Belt]], [[Terravelle]], [[Trell Orvन]], [[Northern Grain Corridor]], [[Auralis Civic Courts]], [[Life in Rural Terravelle]], [[Basin Grain Allocation Board]]_
+_See also: [[Greyveil]], [[Greyveil Trade Quarter]], [[Greyveil Relay District]], [[Greyveil Settlement Belt]], [[Greyveil Water Interruption Episodes]], [[District Boundary Mediation Routine]], [[Emergency Utility Work Crews]], [[Greyveil Maintenance Budget Conflicts]], [[Terravelle]], [[Trell Orvन]], [[Northern Grain Corridor]], [[Auralis Civic Courts]], [[Life in Rural Terravelle]], [[Basin Grain Allocation Board]]_

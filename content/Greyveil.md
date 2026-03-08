@@ -22,4 +22,15 @@ Greyveil's practical leverage in northern logistics is the [[Greyveil-Wolfpoint 
 
 Because route conditions are variable, Greyveil offices plan by arrival bands rather than exact timestamps, which has become a local administrative specialty.
 
-_See also: [[Greyveil-Wolfpoint Relay Track]], [[Wolfpoint]], [[Terravelle]], [[Life in Greyveil]]_
+## Municipal Friction Layer
+
+Greyveil's current strain is increasingly visible in recurring service conflicts rather than headline crises.
+
+- [[Greyveil Water Interruption Episodes]] tracks repeated short-cycle outages.
+- [[District Boundary Mediation Routine]] captures how responsibility disputes are managed at service edges.
+- [[Emergency Utility Work Crews]] shows how rapid-response labor prevents local failures from cascading.
+- [[Greyveil Maintenance Budget Conflicts]] explains why temporary fixes recur instead of converging into durable repair.
+
+Together these patterns describe a city that remains functional while operating in chronic coordination debt.
+
+_See also: [[Greyveil-Wolfpoint Relay Track]], [[Greyveil Civic Coordination]], [[Greyveil Water Interruption Episodes]], [[District Boundary Mediation Routine]], [[Emergency Utility Work Crews]], [[Greyveil Maintenance Budget Conflicts]], [[Wolfpoint]], [[Terravelle]], [[Life in Greyveil]]_

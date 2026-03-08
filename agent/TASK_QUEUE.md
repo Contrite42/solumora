@@ -37,18 +37,19 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** new notes + updates to `content/Adventurer Support Network.md` and one economy/banking hub.
       **Status note:** COMPLETE (4-note finance bundle + 2 hub updates completed on 2026-03-07)
 
-- [ ] **USER-006 — Municipal Friction in Greyveil (Scale vs. Governance)**
+- [x] **USER-006 — Municipal Friction in Greyveil (Scale vs. Governance)**
       **Source:** New Greyveil expansion pages indicate governance strain without formal city authority
       **Goal:** Detail recurring civic failures and patchwork fixes at district boundaries.
       **Scope:** 4-5 notes (waste/water breakdown episodes, district mediation routine, emergency work crews, budget conflict)
       **Required outputs:** new notes + updates to `content/Greyveil.md` and `content/Greyveil Civic Coordination.md`.
-      **Status note:** IN PROGRESS (activated 2026-03-07)
+      **Status note:** COMPLETE (4-note municipal friction bundle + 2 hub updates completed on 2026-03-07)
 
 - [ ] **USER-007 — Story Bundle: Five Days Before the Breakpoint**
       **Source:** Narrative demand for character-level perspective during systemic escalation
       **Goal:** Produce 3 tightly linked short stories across different social layers (operator, merchant, household).
       **Scope:** 3 stories in `content/Stories/` anchored to current canon tensions.
       **Required outputs:** 3 story files + one index-style link update in a relevant hub page.
+      **Status note:** IN PROGRESS (activated 2026-03-07)
 
 ---
 

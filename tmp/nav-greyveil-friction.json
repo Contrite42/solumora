@@ -1,0 +1,455 @@
+{
+  "concept": "Greyveil Civic Coordination",
+  "top_pages": [
+    {
+      "id": "Greyveil Civic Coordination",
+      "path": "content/Greyveil Civic Coordination.md",
+      "title": "Greyveil Civic Coordination",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 172,
+      "outlink_count": 18,
+      "read_plan": [
+        {
+          "section": "Greyveil Civic Coordination",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "[[Greyveil]] operates without formal municipal government, mayor, council, or administrative apparatus \u2014 yet 85,000 people receive water, dispose of waste, maintain roads, resolve disputes, coordinate markets, and sustai"
+        },
+        {
+          "section": "Historical Development",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Greyveil emerged from merchant settlement patterns rather than planned urban founding. No charter establishing governance, no formal incorporation as city, no royal decree creating administrative apparatus. Instead: merc"
+        },
+        {
+          "section": "Key Coordination Mechanisms",
+          "start_line": 11,
+          "end_line": 40,
+          "preview": "**Merchant House Informal Council:** Seven established merchant houses (oldest operating 68 years, newest  24 years) collectively dominate Greyveil's substantial commerce. Representatives meet approximately monthly, more"
+        },
+        {
+          "section": "Essential Functions",
+          "start_line": 41,
+          "end_line": 81,
+          "preview": "How does Greyveil address requirements any 85,000-person settlement must handle?"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 674,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 649,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "seed_outlink",
+      "score": 549,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 466,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Ashford",
+      "path": "content/Ashford.md",
+      "title": "Character",
+      "why": "seed_outlink",
+      "score": 443,
+      "line_count": 33,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Character",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Ashford is rougher than [[Valdenmoor]] in the way that port cities tend to be \u2014 more transient, more tolerant of the irregular, more oriented toward the transaction than the institution. [[Flux]] use here leans heavily t"
+        },
+        {
+          "section": "The Northern Territory",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "The coastal territory north of Ashford \u2014 absorbed into [[Terravelle]] during the campaign in which Eddan's elder son died \u2014 has never fully settled into the kingdom's administration. The independent coastal communities t"
+        },
+        {
+          "section": "Strategic Importance",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Eddan considers Ashford one of the three non-negotiables of Terravellian security. Losing control of the eastern coast would cut off trade revenue that funds a significant portion of the kingdom's military and administra"
+        },
+        {
+          "section": "Movement Infrastructure",
+          "start_line": 25,
+          "end_line": 33,
+          "preview": "Ashford's trade volume depends on three movement systems that overlap without merging cleanly. Bulk cargo arrives through the [[Maren Freight Chain]] and is redistributed through dock districts that can absorb schedule s"
+        }
+      ]
+    },
+    {
+      "id": "Greyveil",
+      "path": "content/Greyveil.md",
+      "title": "The Wolfpoint Connection",
+      "why": "seed_outlink",
+      "score": 358,
+      "line_count": 36,
+      "outlink_count": 15,
+      "read_plan": [
+        {
+          "section": "The Wolfpoint Connection",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Most of what [[Terravelle]] officially knows about [[Wolfpoint]] arrived via Greyveil. The city has a small but established community of traders who make the northern run regularly, and a few individuals who have spent t"
+        },
+        {
+          "section": "Character",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "Greyveil itself is a frontier city in the practical sense: resourceful, self-reliant, and accustomed to being the last place that has something before the map runs out. It has a trade culture built on serving travelers g"
+        },
+        {
+          "section": "Relay Operations",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "Greyveil's practical leverage in northern logistics is the [[Greyveil-Wolfpoint Relay Track]]. Dispatch houses here handle packet intake, copy protocols, and relay scheduling for correspondence and compact high-value goo"
+        },
+        {
+          "section": "Municipal Friction Layer",
+          "start_line": 25,
+          "end_line": 36,
+          "preview": "Greyveil's current strain is increasingly visible in recurring service conflicts rather than headline crises."
+        }
+      ]
+    },
+    {
+      "id": "Basin Grain Allocation Board",
+      "path": "content/Basin Grain Allocation Board.md",
+      "title": "Funding",
+      "why": "seed_outlink",
+      "score": 329,
+      "line_count": 27,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Funding",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "The Board is funded by bulk-grain levies, storage licensing fees, and emergency reserve appropriations set by [[The Council of Auralis]]."
+        },
+        {
+          "section": "Recruitment",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "It recruits warehouse planners, route schedulers, and documentation clerks from port and inland markets across [[Auralis]]."
+        },
+        {
+          "section": "Rules",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "- reserve floors are fixed before commercial release"
+        },
+        {
+          "section": "Opposition",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "Large speculators pressure allocation policy during unstable seasons, and some expansion-focused operators resent reserve constraints that limit short-term export profit."
+        }
+      ]
+    },
+    {
+      "id": "Life in Rural Terravelle",
+      "path": "content/Life in Rural Terravelle.md",
+      "title": "The Pattern of Settlement",
+      "why": "seed_outlink",
+      "score": 329,
+      "line_count": 83,
+      "outlink_count": 22,
+      "read_plan": [
+        {
+          "section": "The Pattern of Settlement",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Rural Terravellian communities range from small family operations to coordinated settlements of several hundred people. The largest towns \u2014 trading posts at the intersection of river routes, established logging centers, "
+        },
+        {
+          "section": "What the Forest Requires",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "Hunting and trapping is not a marginal economic activity in rural [[Terravelle]]. It is primary. The forests are deep and rich, and they contain deer, elk, smaller game, fish in the rivers and lakes. A person with skill "
+        },
+        {
+          "section": "Sigils and Survival",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "Food preservation \u2014 [[Sigils]] carved into a space or into the structure of food itself \u2014 is not optional in rural [[Terravelle]]. The winter is long. A family must preserve enough meat, enough vegetables, enough grain t"
+        },
+        {
+          "section": "Self-Sufficiency and Institution",
+          "start_line": 31,
+          "end_line": 38,
+          "preview": "A rural community in [[Terravelle]] maintains its own decisions about resource allocation, dispute resolution, and social structure. This does not mean lawlessness. It means that law is enacted locally and enforced throu"
+        }
+      ]
+    },
+    {
+      "id": "Auralis Civic Courts",
+      "path": "content/Auralis Civic Courts.md",
+      "title": "Structure",
+      "why": "seed_outlink",
+      "score": 314,
+      "line_count": 106,
+      "outlink_count": 18,
+      "read_plan": [
+        {
+          "section": "Structure",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The court system operates at three levels:"
+        },
+        {
+          "section": "Judges",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "Civic Court judges are professional appointments, not elected positions. Candidates typically have:"
+        },
+        {
+          "section": "Trial Process",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "Criminal trials follow standardized procedure:"
+        },
+        {
+          "section": "Flux Crime Challenges",
+          "start_line": 39,
+          "end_line": 52,
+          "preview": "The courts struggle with [[Flux]]-enabled criminal activity because evidence standards designed for physical crimes do not adapt well to effects that can be concealed, manipulated, or destroyed through spellwork."
+        }
+      ]
+    },
+    {
+      "id": "Greyveil Trade Quarter",
+      "path": "content/Greyveil Trade Quarter.md",
+      "title": "Greyveil Trade Quarter",
+      "why": "seed_outlink",
+      "score": 310,
+      "line_count": 90,
+      "outlink_count": 15,
+      "read_plan": [
+        {
+          "section": "Greyveil Trade Quarter",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "The **Greyveil Trade Quarter** is [[Greyveil]]'s commercial and market district, handling merchant operations, grain distribution, and trade coordination for northern[[Terravelle]]. With approximately 15,000 residents pl"
+        },
+        {
+          "section": "Layout and Infrastructure",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "The Quarter occupies the southeastern section of [[Greyveil]], positioned for optimal access to incoming wagon routes from the [[Northern Grain Corridor]] and outbound connections to southern [[Terravelle]] via the [[Mar"
+        },
+        {
+          "section": "Grain Market Operations",
+          "start_line": 15,
+          "end_line": 29,
+          "preview": "The Quarter's primary function: **converting distributed [[Northern Grain Corridor]] production into reliable urban food supply.**"
+        },
+        {
+          "section": "Merchant House Presence",
+          "start_line": 30,
+          "end_line": 41,
+          "preview": "Twelve established merchant houses maintain permanent Trade Quarter offices. These are **northern specialists** \u2014 operations focused on Greyveil-Wolfpoint-frontier trade rather than kingdom-wide commerce:"
+        }
+      ]
+    },
+    {
+      "id": "Northern Grain Corridor",
+      "path": "content/Northern Grain Corridor.md",
+      "title": "Northern Grain Corridor",
+      "why": "seed_outlink",
+      "score": 308,
+      "line_count": 116,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Northern Grain Corridor",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "The **Northern Grain Corridor** is the agricultural supply network stretching from [[Terravelle]]'s northern farming belt to [[Greyveil]], providing the city's food base and creating the economic foundation for settlemen"
+        },
+        {
+          "section": "Geography and Scope",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The Corridor encompasses territory from fifty miles south of [[Greyveil]] extending west along the foothills and north into marginal farming zones at the edge of viable cultivation. Total agricultural population: approxi"
+        },
+        {
+          "section": "Production Output",
+          "start_line": 11,
+          "end_line": 22,
+          "preview": "Annual grain production: 4-5 million pounds (wheat, barley, rye in 60%/25%/15% distribution)."
+        },
+        {
+          "section": "Organizational Structure",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "The Corridor operates through **cooperative coordination** rather than centralized management:"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "District Boundary Mediation Routine",
+      "Emergency Utility Work Crews",
+      "Greyveil",
+      "Greyveil Maintenance Budget Conflicts",
+      "Greyveil Water Interruption Episodes",
+      "Terravelle"
+    ],
+    "outlinks": [
+      "Ashford",
+      "Auralis",
+      "Auralis Civic Courts",
+      "Basin Grain Allocation Board",
+      "Charter Road Wardens",
+      "District Boundary Mediation Routine",
+      "Emergency Utility Work Crews",
+      "Flux",
+      "Greyveil",
+      "Greyveil Maintenance Budget Conflicts",
+      "Greyveil Relay District",
+      "Greyveil Settlement Belt",
+      "Greyveil Trade Quarter",
+      "Greyveil Water Interruption Episodes",
+      "Life in Rural Terravelle",
+      "Northern Grain Corridor",
+      "Terravelle",
+      "Trell Orv\u0928"
+    ]
+  }
+}
