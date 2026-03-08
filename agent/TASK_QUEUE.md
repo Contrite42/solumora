@@ -93,7 +93,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** 3 story files + new bundle section in near-war hub.
       **Status note:** COMPLETE (stories created: Banking Coordinator, Supply Chain Commander, Guild Coordination Lead; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
 
-- [ ] **USER-014 — Major Narrative Arc: War and Resolution (Multi-Phase)**
+- [x] **USER-014 — Major Narrative Arc: War and Resolution (Multi-Phase)**
       **Source:** Decision F approval (2026-03-07), creator decision for main story arc
       **Goal:** Build complete narrative arc from war trigger through High Demon revelation and post-war world state change.
       **Scope:** Multi-phase development (8-12 stories + 25-35 world notes + permanent world transformation).
@@ -101,7 +101,8 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Phase 2 outputs:** 3 party-assembly stories (`Forty-Five Days...` bundle) + `The Three Near-Wars` index update.
       **Phase 3 outputs:** 3 investigation/escalation stories (`Fifty-Eight Days...` bundle) + `The Three Near-Wars` index update.
       **Phase 4 outputs:** 3 revelation/resolution stories (`Sixty-Seven to Seventy-Two Days...` bundle) + `The Three Near-Wars` index update.
-      **Status note:** IN PROGRESS — Phases 1-4 complete-in-sequence on 2026-03-07; High Demon revelation public, corridor standstill operational, first joint anchor stabilization executed; ready for Phase 5 (Post-War World-State Consolidation)
+      **Phase 5 outputs:** 3 consolidation stories (`Ninety Days...` bundle) + 3 permanent world-state notes (ceasefire framework, joint monitoring cell, public demon status) + `The Three Near-Wars` index update.
+      **Status note:** COMPLETE — Phases 1-5 executed on 2026-03-07; arc outcome stabilized into durable institutions and social/legal adaptation layer; artifacts rebuilt and verified (`tmp/concept-graph.json`, `tmp/context-index.json`, `tmp/nav-phase5-consolidation.json`)
 
 ---
 

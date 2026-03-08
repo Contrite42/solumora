@@ -1,13 +1,13 @@
-# Current Task: Major Narrative Arc — War and Resolution (Phase 4)
+# Current Task: Major Narrative Arc — War and Resolution (Phase 5)
 
-**Status:** In Progress
+**Status:** Complete
 **Owner:** Codex
 **Started:** 2026-03-07
 **Expected Timeline:** Multi-phase development (8-12 stories + world state transformation)
 
 ## Summary
 
-Executing Decision F through a multi-phase arc focused on competence-over-power leadership, rift cascade prevention, and forced High Demon revelation. Phase 4 now executes public disclosure and emergency stabilization operations, transitioning the setting into active world-state change.
+Executing Decision F through a multi-phase arc focused on competence-over-power leadership, rift cascade prevention, and forced High Demon revelation. Phase 5 consolidates the post-crisis world state through governance structures, legal normalization attempts, and ordinary-life recovery under technical risk controls.
 
 ## Completed Outputs
 
@@ -41,13 +41,24 @@ Executing Decision F through a multi-phase arc focused on competence-over-power 
 - Created: `content/Stories/Seventy-Two Days After the First Casualty - Joint Anchor Operation.md`
 - Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
 
+### Phase 5: Post-War World-State Consolidation (in progress)
+
+- Created: `content/Ashford Emergency Ceasefire Framework.md`
+- Created: `content/Joint Rift Monitoring Cell.md`
+- Created: `content/Public Status of High Demons.md`
+- Created: `content/Stories/Ninety Days After the First Casualty - Curriculum Revision.md`
+- Created: `content/Stories/Ninety Days After the First Casualty - Policy Hearing.md`
+- Created: `content/Stories/Ninety Days After the First Casualty - Corridor Market Morning.md`
+- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
+
 ## Status
 
 - Phase 1 complete.
 - Phase 2 complete.
 - Phase 3 complete.
-- Phase 4 in progress.
-- Next phase: post-war world-state updates.
+- Phase 4 complete.
+- Phase 5 complete.
+- USER-014 arc cycle complete after validation and artifact refresh.
 
 ## Verification
 
