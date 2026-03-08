@@ -44,4 +44,14 @@ Away from the urban centers, Auralis's tier-stratified social structure manifest
 
 Rural Auralis shares the kingdom's Flux-integration culture but escapes some of its tier-hierarchy pressure. A T1 fisher at Marn Cove is not socially diminished the way a T1 harbor worker in Solhaven might be — the work is the work, and competence matters more than certified capacity. But the Path's ceremonies still structure life events, urban markets still shape economic opportunities, and the kingdom's assumptions about Flux mastery being central to advancement still filter down through institutional channels.
 
+## Continuity Administration Under Strain
+
+In practice, Auralis districts are now relying more heavily on continuity administration than on surplus capacity:
+
+- [[District Continuity Coordinators]] align shelter, care, and ration sequencing across offices.
+- [[Temporary Housing Pressure]] is managed through priority windows and rotating bed access.
+- [[Shelter Rotation Contracts]] formalize recurring short-stay cycles for vulnerable households.
+
+These are adaptive mechanisms, not collapse signals. They indicate prolonged load conditions where households remain functional through coordination rather than reserve abundance.
+
 _See also: [[Auralis]], [[Solhaven]], [[Hedun]], [[Life in Solhaven]], [[Life in Hedun]], [[Life in Rural Auralis]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]], [[Ascendant Path]], [[Solden Fields]], [[Marn Cove]], [[Reld Marsh]], [[Corva Vale]]_

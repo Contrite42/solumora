@@ -1,73 +1,38 @@
 {
-  "concept": "Clinical Care Systems",
+  "concept": "Temporary Housing Pressure",
   "top_pages": [
     {
-      "id": "Clinical Care Systems",
-      "path": "content/Clinical Care Systems.md",
-      "title": "Intake Paths",
+      "id": "Temporary Housing Pressure",
+      "path": "content/Temporary Housing Pressure.md",
+      "title": "Temporary Housing Pressure",
       "why": "seed",
       "score": 10000,
-      "line_count": 85,
-      "outlink_count": 26,
+      "line_count": 65,
+      "outlink_count": 11,
       "read_plan": [
         {
-          "section": "Intake Paths",
-          "start_line": 5,
-          "end_line": 15,
-          "preview": "Patients usually enter care through one of four routes:"
+          "section": "Temporary Housing Pressure",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Temporary Housing Pressure** describes the recurrent mismatch between short-term shelter demand and available beds in labor districts, crossing towns, and clinic-adjacent neighborhoods."
         },
         {
-          "section": "What Clinics Actually Do",
-          "start_line": 16,
-          "end_line": 27,
-          "preview": "Daily clinical work is repetitive and practical:"
+          "section": "Demand Drivers",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "Temporary housing demand increases under five recurring conditions:"
         },
         {
-          "section": "Cost Bands and Time Loss",
-          "start_line": 28,
-          "end_line": 38,
-          "preview": "Cost is usually measured against missed wages."
+          "section": "Supply Structure",
+          "start_line": 19,
+          "end_line": 29,
+          "preview": "Short-cycle shelter supply is distributed across:"
         },
         {
-          "section": "Referral Patterns",
-          "start_line": 39,
-          "end_line": 51,
-          "preview": "Referral is the system's pressure valve and its biggest failure point."
-        }
-      ]
-    },
-    {
-      "id": "Control Tier",
-      "path": "content/Control Tier.md",
-      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
-      "why": "seed_outlink",
-      "score": 706,
-      "line_count": 211,
-      "outlink_count": 25,
-      "read_plan": [
-        {
-          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
-          "start_line": 5,
-          "end_line": 10,
-          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
-        },
-        {
-          "section": "Tier 0 \u2014 Trace",
-          "start_line": 11,
-          "end_line": 20,
-          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
-        },
-        {
-          "section": "Tier 1 \u2014 Flicker",
-          "start_line": 21,
-          "end_line": 30,
-          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
-        },
-        {
-          "section": "Tier 2 \u2014 Working",
-          "start_line": 31,
+          "section": "Operational Behaviors Under Strain",
+          "start_line": 30,
           "end_line": 40,
-          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+          "preview": "When pressure rises, shelter managers and district offices adopt survival policies:"
         }
       ]
     },
@@ -76,7 +41,7 @@
       "path": "content/Auralis.md",
       "title": "Culture",
       "why": "seed_outlink",
-      "score": 672,
+      "score": 674,
       "line_count": 63,
       "outlink_count": 40,
       "read_plan": [
@@ -111,7 +76,7 @@
       "path": "content/Terravelle.md",
       "title": "Culture",
       "why": "seed_outlink",
-      "score": 643,
+      "score": 645,
       "line_count": 50,
       "outlink_count": 52,
       "read_plan": [
@@ -142,107 +107,37 @@
       ]
     },
     {
-      "id": "Solhaven",
-      "path": "content/Solhaven.md",
-      "title": "Layout and Architecture",
-      "why": "seed_outlink",
-      "score": 495,
-      "line_count": 31,
-      "outlink_count": 29,
-      "read_plan": [
-        {
-          "section": "Layout and Architecture",
-          "start_line": 5,
-          "end_line": 10,
-          "preview": "Solhaven is organized by elevation in ways that are officially geographic and practically social. The harbor district at the base is commercial \u2014 trade, warehousing, transport, the practical work of a port city. As you m"
-        },
-        {
-          "section": "The Palace",
-          "start_line": 11,
-          "end_line": 16,
-          "preview": "[[Cassia]]'s palace occupies the Crestward's eastern face, designed to catch morning light and be visible from the harbor. It is large, ornate, and functions as both a residence and a performance space \u2014 the formal halls"
-        },
-        {
-          "section": "Population and Character",
-          "start_line": 17,
-          "end_line": 22,
-          "preview": "Solhaven's population approaches a million. It is the largest city in Solumora and the most [[Flux]]-saturated \u2014 the density of active [[Sigils]] in the upper terraces is high enough that visitors with [[Control Tier]] s"
-        },
-        {
-          "section": "The Ascendant Path",
-          "start_line": 23,
-          "end_line": 31,
-          "preview": "[[Religion and Belief|The Ascendant Path]] runs deeper in Solhaven than anywhere else in [[Auralis]]. The Luminants \u2014 the Path's formal priesthood \u2014 operate out of three major temples in the city, the largest of which si"
-        }
-      ]
-    },
-    {
-      "id": "Valdenmoor",
-      "path": "content/Valdenmoor.md",
-      "title": "Layout and Architecture",
-      "why": "seed_outlink",
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
       "score": 466,
-      "line_count": 37,
-      "outlink_count": 24,
+      "line_count": 211,
+      "outlink_count": 25,
       "read_plan": [
         {
-          "section": "Layout and Architecture",
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
           "start_line": 5,
           "end_line": 10,
-          "preview": "Valdenmoor follows the Terravellian architectural instinct without compromise \u2014 the city spreads outward rather than upward, a sprawl of single and double-story buildings connected by wide roads designed to move goods ef"
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
         },
         {
-          "section": "Population and Character",
+          "section": "Tier 0 \u2014 Trace",
           "start_line": 11,
-          "end_line": 16,
-          "preview": "Valdenmoor is the largest city in [[Terravelle]] and one of the largest in [[Solumora]], with a population somewhere above half a million. It draws from every region of the kingdom \u2014 merchants, [[Flux Users|Scribes]], cr"
-        },
-        {
-          "section": "The Maren River",
-          "start_line": 17,
           "end_line": 20,
-          "preview": "The Maren River runs through the center of the city and has been the reason for Valdenmoor's location since the original settlement. River trade along the Maren connects the capital to the eastern and western coasts, and"
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
         },
         {
-          "section": "Relevance to Current Events",
+          "section": "Tier 1 \u2014 Flicker",
           "start_line": 21,
-          "end_line": 26,
-          "preview": "[[Cael]] grew up in Valdenmoor and spends most of his time here. The parties, the sympathetic [[Flux Users|Formulists]] he questions about channeling cost, the social world he moves through \u2014 all of it is Valdenmoor. Edd"
-        }
-      ]
-    },
-    {
-      "id": "Equatorial Desert",
-      "path": "content/Equatorial Desert.md",
-      "title": "Geography",
-      "why": "seed_outlink",
-      "score": 459,
-      "line_count": 151,
-      "outlink_count": 47,
-      "read_plan": [
-        {
-          "section": "Geography",
-          "start_line": 3,
-          "end_line": 10,
-          "preview": "Zakros sits directly on Solumora's equator, a belt of hostile terrain several weeks wide for any traveler moving north to south. It is not a single uniform landscape \u00e2\u20ac\u201d dune fields, cracked salt flats, exposed rock shel"
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
         },
         {
-          "section": "Crossing",
-          "start_line": 11,
-          "end_line": 18,
-          "preview": "There are better routes and worse ones. No route is safe. The better paths \u00e2\u20ac\u201d known to experienced guides, jealously kept, and sold for considerable [[Solumora|Watts]] \u00e2\u20ac\u201d reduce crossing time and offer slightly more pr"
-        },
-        {
-          "section": "Tier Access Limits",
-          "start_line": 19,
-          "end_line": 26,
-          "preview": "The desert's ambient [[Flux]] distortion is the hard constraint on who can survive a crossing without specialist support. [[Control Tier|T0]] practitioners have no Flux capacity and cannot cast any of the protection effe"
-        },
-        {
-          "section": "Fauna",
-          "start_line": 27,
-          "end_line": 34,
-          "preview": "Zakros is not lifeless. Its ecosystem is built almost entirely on insects and arachnids, most of which are [[Flux]]-fueled \u00e2\u20ac\u201d drawing ambient energy from the desert rather than relying solely on biological food chains. "
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
         }
       ]
     },
@@ -251,7 +146,7 @@
       "path": "content/Watts.md",
       "title": "How Transactions Work",
       "why": "seed_outlink",
-      "score": 457,
+      "score": 460,
       "line_count": 49,
       "outlink_count": 20,
       "read_plan": [
@@ -282,186 +177,234 @@
       ]
     },
     {
-      "id": "Trade Guilds",
-      "path": "content/Trade Guilds.md",
-      "title": "How Certification Works",
+      "id": "Ordinary Life in Auralis",
+      "path": "content/Ordinary Life in Auralis.md",
+      "title": "Work and the Economy",
       "why": "seed_outlink",
-      "score": 442,
-      "line_count": 50,
+      "score": 356,
+      "line_count": 57,
+      "outlink_count": 23,
+      "read_plan": [
+        {
+          "section": "Work and the Economy",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The guild structure runs the Auralis economy much the way it runs Terravelle's, with one difference that changes most of what follows: Auralis guilds are formally tier-stratified. The tracks available to you, the positio"
+        },
+        {
+          "section": "Food and Shelter",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "Auralis's engineered low basin grows rice and leafy plants that prefer warmth and moisture. The western and eastern coasts supply saltwater fish. The result is a diet with more variety than [[Terravelle]]'s river valleys"
+        },
+        {
+          "section": "Control Tier in Daily Life",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Tier assessment in Auralis is not a quiet formality. The [[Religion and Belief|Ascendant Path]] registers assessments, not guild halls, and the ceremony is witnessed. For T0 and T1, the registration is the end of the eve"
+        },
+        {
+          "section": "The Ascendant Path",
+          "start_line": 25,
+          "end_line": 32,
+          "preview": "The Ascendant Path is Auralis's dominant religious and cultural framework, and its theology maps conveniently onto the social structure: Flux mastery is the highest spiritual pursuit, the [[Control Tier|Control Tiers]] r"
+        }
+      ]
+    },
+    {
+      "id": "Ordinary Life in Terravelle",
+      "path": "content/Ordinary Life in Terravelle.md",
+      "title": "Work and the Guild System",
+      "why": "seed_outlink",
+      "score": 342,
+      "line_count": 43,
       "outlink_count": 16,
       "read_plan": [
         {
-          "section": "How Certification Works",
+          "section": "Work and the Guild System",
           "start_line": 5,
-          "end_line": 14,
-          "preview": "Guild certification follows a standard three-stage progression: apprenticeship, journeyman work, and certification assessment. The stages vary in length by trade and in difficulty by the tier grade being sought."
+          "end_line": 12,
+          "preview": "The guild is the organizing unit of working life. Every trade with enough practitioners to have collective standing has one \u2014 construction, textile work, food preparation, river transport, basic scribing, animal handling"
         },
         {
-          "section": "Tier Grades and Certification",
-          "start_line": 15,
-          "end_line": 27,
-          "preview": "Most trades have multiple certification grades tied to [[Control Tier]] capability. The grades are trade-specific rather than universal: a T3 certification in structural sigil application means something different from a"
+          "section": "Food and Shelter",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "The river valleys produce wheat, barley, and river fish. Farming communities in the upland regions export grain toward the cities and the coast. The base diet \u2014 grain, legumes, root vegetables, preserved protein \u2014 is sta"
         },
         {
-          "section": "The Documentation Standard",
-          "start_line": 28,
-          "end_line": 35,
-          "preview": "Guild documentation requirements are not optional conditions on certification \u2014 they are themselves part of what is being certified. A practitioner who can perform the work but cannot maintain accurate field records duri"
-        },
-        {
-          "section": "Social Function",
-          "start_line": 36,
-          "end_line": 43,
-          "preview": "Guild membership in [[Terravelle]] carries weight beyond trade certification. The guilds provide dispute resolution, wage standards, seasonal assistance funds, apprenticeship placement, housing recommendations, and the i"
-        }
-      ]
-    },
-    {
-      "id": "Solumora",
-      "path": "content/Solumora.md",
-      "title": "Economy",
-      "why": "seed_outlink",
-      "score": 424,
-      "line_count": 147,
-      "outlink_count": 70,
-      "read_plan": [
-        {
-          "section": "Economy",
-          "start_line": 7,
-          "end_line": 10,
-          "preview": "The economy of Solumora follows a pattern familiar to anyone who has tried to survive in it: the things you need to stay alive are within reach, and everything that makes life worth living will cost you dearly."
-        },
-        {
-          "section": "Currency \u2014 [[Watts]]",
-          "start_line": 11,
-          "end_line": 16,
-          "preview": "The currency of Solumora is the **Watt**. [[Watts]] are not coins, notes, or physical objects. They are entries on a distributed ledger written into the ambient [[Flux]] field itself, verified by every transaction in the"
-        },
-        {
-          "section": "The Birth Rune",
-          "start_line": 17,
-          "end_line": 24,
-          "preview": "A [[Birth Runes|birth rune]] is a personal [[Sigils|sigil]] that registers an individual within the ledger and serves as their financial identity. It is an address, not a container \u2014 the rune identifies who you are withi"
-        },
-        {
-          "section": "Price Structure",
-          "start_line": 25,
-          "end_line": 36,
-          "preview": "The Solumoran economy splits cleanly along one line: survival is cheap, comfort is not."
-        }
-      ]
-    },
-    {
-      "id": "Halveth",
-      "path": "content/Halveth.md",
-      "title": "Population",
-      "why": "seed_outlink",
-      "score": 422,
-      "line_count": 45,
-      "outlink_count": 25,
-      "read_plan": [
-        {
-          "section": "Population",
-          "start_line": 5,
-          "end_line": 10,
-          "preview": "Halveth's permanent population is small \u2014 a core of perhaps sixty to eighty people who live there year-round. Guides, suppliers, innkeepers, a small number of families who have been in the area long enough that leaving s"
-        },
-        {
-          "section": "The Supply Trade",
-          "start_line": 11,
-          "end_line": 16,
-          "preview": "Halveth's economy is almost entirely built on outfitting desert crossings. Thermal [[Sigils|sigil]] sets, preserved food rated for extreme temperature variance, navigation equipment, replacement grimoire covers treated a"
-        },
-        {
-          "section": "Wren's Role",
-          "start_line": 17,
+          "section": "Control Tier in Daily Life",
+          "start_line": 19,
           "end_line": 26,
-          "preview": "[[Wren]] has been a fixture of Halveth for thirty years. She does not hold any formal title. She does not need one."
+          "preview": "Tier assessment happens between eight and twelve, at a guild hall or community meeting room. The result is recorded, filed, and largely treated as a vocational qualification rather than a statement about a person's worth"
         },
         {
-          "section": "Relation to the Rifts",
+          "section": "The Covenant of Measure",
           "start_line": 27,
-          "end_line": 36,
-          "preview": "Halveth's proximity to the desert means it sits closer to active [[Rift Incursions|rift zones]] than any other permanent settlement in [[Solumora]]. Lower-order [[Flux Demons]] reach the village's outskirts with some reg"
+          "end_line": 32,
+          "preview": "The Covenant of Measure is Terravelle's closest thing to organized religion and it is not particularly religious. It provides ceremonial structure for significant life events \u2014 [[Birth Runes|birth rune]] inscription happ"
         }
       ]
     },
     {
-      "id": "Ascendant Path",
-      "path": "content/Ascendant Path.md",
-      "title": "Core Theology",
+      "id": "Clinical Care Systems",
+      "path": "content/Clinical Care Systems.md",
+      "title": "Intake Paths",
       "why": "seed_outlink",
-      "score": 376,
-      "line_count": 45,
+      "score": 314,
+      "line_count": 85,
+      "outlink_count": 26,
+      "read_plan": [
+        {
+          "section": "Intake Paths",
+          "start_line": 5,
+          "end_line": 15,
+          "preview": "Patients usually enter care through one of four routes:"
+        },
+        {
+          "section": "What Clinics Actually Do",
+          "start_line": 16,
+          "end_line": 27,
+          "preview": "Daily clinical work is repetitive and practical:"
+        },
+        {
+          "section": "Cost Bands and Time Loss",
+          "start_line": 28,
+          "end_line": 38,
+          "preview": "Cost is usually measured against missed wages."
+        },
+        {
+          "section": "Referral Patterns",
+          "start_line": 39,
+          "end_line": 51,
+          "preview": "Referral is the system's pressure valve and its biggest failure point."
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 309,
+      "line_count": 61,
       "outlink_count": 24,
       "read_plan": [
         {
-          "section": "Core Theology",
-          "start_line": 5,
+          "section": "Contemporary Research",
+          "start_line": 9,
           "end_line": 12,
-          "preview": "The Path holds that Flux is not merely a force to be used. It is the world's underlying structure made accessible \u2014 the medium through which reality can be engaged at its deepest level. A person who masters Flux does not"
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
         },
         {
-          "section": "The Luminants",
+          "section": "Auralis Research Institutions",
           "start_line": 13,
-          "end_line": 20,
-          "preview": "The Ascendant Path's formal priesthood are called Luminants. They are all mid-tier casters at minimum \u2014 the Path considers it theologically incoherent for its clergy to lack meaningful Flux capability. In practice, most "
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
         },
         {
-          "section": "T0s and the Path",
-          "start_line": 21,
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
           "end_line": 28,
-          "preview": "The Path's official position on T0s is one of its more carefully worded doctrines. The Path does not condemn non-casters. Everyone is on the path. Tier is where you begin, not what you are."
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Care Triage Workflows",
+      "path": "content/Care Triage Workflows.md",
+      "title": "Care Triage Workflows",
+      "why": "seed_outlink",
+      "score": 308,
+      "line_count": 67,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Care Triage Workflows",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Care Triage Workflows** are district-level rules used by clinics and infirmaries to prioritize treatment when demand exceeds practitioner throughput."
         },
         {
-          "section": "The Path in Daily Life",
-          "start_line": 29,
-          "end_line": 36,
-          "preview": "For most Auralis residents, the Ascendant Path is not theology. It is culture. The ceremonies are attended. The Luminants are respected. The general framework \u2014 Flux mastery matters, advancement is good, your tier is a m"
+          "section": "Decision Layers",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "Most triage systems in [[Clinical Care Systems]] now operate across three layers:"
+        },
+        {
+          "section": "Inputs Used in Triage",
+          "start_line": 17,
+          "end_line": 27,
+          "preview": "Triage officers combine clinical and civic inputs:"
+        },
+        {
+          "section": "Throughput Techniques",
+          "start_line": 28,
+          "end_line": 38,
+          "preview": "Common techniques used during surge periods:"
+        }
+      ]
+    },
+    {
+      "id": "Queue Management Offices",
+      "path": "content/Queue Management Offices.md",
+      "title": "Queue Management Offices",
+      "why": "seed_outlink",
+      "score": 308,
+      "line_count": 57,
+      "outlink_count": 10,
+      "read_plan": [
+        {
+          "section": "Queue Management Offices",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Queue Management Offices** are municipal-administrative units that stabilize public access during service strain by converting informal waiting lines into controlled priority systems."
+        },
+        {
+          "section": "Why They Exist",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "During normal periods, most services run on relationship networks, guild referrals, and local habit. Under strain, those informal systems fail first."
+        },
+        {
+          "section": "Core Functions",
+          "start_line": 19,
+          "end_line": 29,
+          "preview": "Queue offices perform four practical functions:"
+        },
+        {
+          "section": "Friction and Failure",
+          "start_line": 30,
+          "end_line": 42,
+          "preview": "Queue systems fail when priority rules are opaque or changed without notice."
         }
       ]
     }
   ],
   "neighbors": {
     "backlinks": [
-      "Care Triage Workflows",
-      "Expedition Medicine",
-      "Flux Medicine",
-      "Flux-Related Medical",
-      "Healers and Practitioners",
-      "Jorren Pell",
-      "Life in Halveth",
-      "Life in Solhaven",
-      "Queue Management Offices",
-      "Ration Substitution Practices",
-      "Sera Meln"
+      "District Continuity Coordinators",
+      "Ordinary Life",
+      "Ordinary Life in Auralis",
+      "Shelter Rotation Contracts"
     ],
     "outlinks": [
-      "Ascendant Path",
       "Auralis",
       "Care Triage Workflows",
-      "Control Tier",
-      "Equatorial Desert",
-      "Expedition Medicine",
-      "Flux Medicine",
-      "Flux Pathway Damage",
-      "Flux-Related Medical",
-      "Halveth",
-      "Healers and Practitioners",
-      "Life in Halveth",
-      "Life in Rural Auralis",
-      "Life in Rural Terravelle",
-      "Life in Solhaven",
-      "Life in Valdenmoor",
-      "Ordinary Life",
+      "Clinical Care Systems",
+      "District Continuity Coordinators",
+      "Labor and Housing",
+      "Ordinary Life in Auralis",
+      "Ordinary Life in Terravelle",
       "Queue Management Offices",
       "Ration Substitution Practices",
-      "Rescue and Recovery Services",
-      "Solhaven",
-      "Solumora",
       "Terravelle",
-      "Trade Guilds",
-      "Valdenmoor",
       "Watts"
     ]
   }

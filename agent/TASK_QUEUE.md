@@ -16,12 +16,12 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** new content notes + updates to `content/The Three Near-Wars.md` and one border hub page.
       **Status note:** COMPLETE (6 notes + 3 hub updates completed on 2026-03-07; nav artifacts refreshed to 630 pages)
 
-- [ ] **USER-003 — Civilian Continuity Under Strain (Food, Care, Shelter)**
+- [x] **USER-003 — Civilian Continuity Under Strain (Food, Care, Shelter)**
       **Source:** Capacity degradation signals across Terravelle/Auralis civic systems
       **Goal:** Show what ordinary households do when institutions are functional but thinning.
       **Scope:** 5-7 notes (queue systems, ration substitutions, care triage workflows, temporary housing pressure, local coordinator roles)
       **Required outputs:** new notes + updates to `content/Clinical Care Systems.md` and `content/Ordinary Life in Terravelle.md`.
-      **Status note:** IN PROGRESS (3 notes + both required hub updates completed on 2026-03-07)
+      **Status note:** COMPLETE (6 notes + 4 hub updates completed on 2026-03-07; continuity layer integrated in `Ordinary Life` and `Ordinary Life in Auralis`)
 
 - [ ] **USER-004 — Black-Market Grimoire Risk Chain**
       **Source:** Existing black-market references without full risk pipeline detail

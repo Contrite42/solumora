@@ -1,4 +1,4 @@
-# Current Task: USER-003 Civilian Continuity Under Strain (Food, Care, Shelter)
+# Current Task: USER-004 Black-Market Grimoire Risk Chain
 
 **Status:** In Progress
 **Owner:** Codex
@@ -7,35 +7,35 @@
 
 ## Summary
 
-Activated USER-003 from `agent/TASK_QUEUE.md` to model civilian continuity under sustained but non-collapse pressure.
+Activated USER-004 from `agent/TASK_QUEUE.md` after completing USER-003 civilian continuity outputs.
 
-This phase focuses on practical household and district adaptation in food access, care throughput, and service prioritization across `[[Terravelle]]` and `[[Auralis]]`.
+This phase will build an end-to-end black-market grimoire risk chain from source and copying through laundering, transit, enforcement response, and fallout.
 
-## USER-003 Progress (current cycle)
+## Prior Cycle Completion (USER-003)
 
 Completed outputs:
 - `content/Queue Management Offices.md`
 - `content/Ration Substitution Practices.md`
 - `content/Care Triage Workflows.md`
-- Hub updates: `content/Clinical Care Systems.md`, `content/Ordinary Life in Terravelle.md`
+- `content/Temporary Housing Pressure.md`
+- `content/District Continuity Coordinators.md`
+- `content/Shelter Rotation Contracts.md`
+- Hub updates: `content/Clinical Care Systems.md`, `content/Ordinary Life in Terravelle.md`, `content/Ordinary Life.md`, `content/Ordinary Life in Auralis.md`
 
-Carryover from prior completion in same session:
-- USER-002 marked complete (6 notes + 3 hub updates)
+## Execution Targets (USER-004)
 
-## Execution Targets (USER-003)
-
-- Create 5-7 notes covering queue systems, ration substitutions, care triage, temporary housing pressure, and local coordinator roles.
-- Ensure each new note has at least 3 outbound links and at least one inbound hub link.
-- Update required hubs with compact integration blocks.
+- Create 5-6 notes covering supply chain nodes, counterfeit verification failures, seizure process, laundering channels, and one case study.
+- Update `content/Black Market Grimoires.md` and `content/Grimoires.md` with compact integration blocks.
+- Ensure each new note has >=3 outbound links and >=1 inbound hub link.
 
 ## Next Steps
 
-- Add 2-4 more USER-003 notes:
-  - `Temporary Housing Pressure`
-  - `District Continuity Coordinators`
-  - optional locality case note (Terravelle district + Auralis district)
-- Append one synthesis block to a cross-system hub (`Ordinary Life` or `Auralis`).
-- Refresh nav artifacts after each content-edit cycle.
+- Add first USER-004 tranche:
+  - `Counterfeit Grimoire Verification Failures`
+  - `Seizure Escalation Procedures`
+  - `Black-Market Transfer Laundering`
+- Append synthesis to black-market hubs.
+- Refresh navigation artifacts after each content cycle.
 
 Default navigation method (run from repo root):
 

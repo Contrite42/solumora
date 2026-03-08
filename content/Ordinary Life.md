@@ -22,4 +22,16 @@ In [[Terravelle]], movement into skilled work is usually mediated by guild and l
 
 The largest practical truth is simple: education outcomes are less about one assessment day and more about whether a household can sustain years of follow-through.
 
+## Civilian Continuity Layer
+
+Recent district stress across both kingdoms is increasingly managed through continuity operations rather than emergency declarations.
+
+- [[Queue Management Offices]] structure service access under persistent load.
+- [[Ration Substitution Practices]] preserve meal continuity while reducing nutritional quality margins.
+- [[Care Triage Workflows]] protect acute capacity by deferring lower-priority cases.
+- [[Temporary Housing Pressure]] and [[Shelter Rotation Contracts]] convert shelter scarcity into administratively managed cycles.
+- [[District Continuity Coordinators]] synchronize these systems so households are not forced to restart every queue after each disruption.
+
+The result is a society that remains operational without appearing stable in the older sense of the term.
+
 _See also: [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]], [[Watts]], [[Birth Runes]], [[Control Tier]], [[Flux Users]], [[Terravelle]], [[Auralis]], [[Solhaven]], [[Valdenmoor]], [[Hedun]], [[Ashford]], [[Greyveil]], [[Religion and Belief]], [[Life in Solhaven]], [[Life in Valdenmoor]], [[Life in Hedun]], [[Life in Ashford]], [[Life in Greyveil]], [[Life in Rural Terravelle]], [[Life in Rural Auralis]], [[Life in Halveth]], [[Life in Wolfpoint]], [[Childhood Learning Networks]], [[Tier Assessment and Placement Pathways]], [[Guild Apprenticeship Tracks]], [[Ascendant Path Education Tracks]], [[Specialist Training Routes]], [[Family Education Decision Pressure]], [[T0 and Non-Flux Work Entry Outcomes]]_
