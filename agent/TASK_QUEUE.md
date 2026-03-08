@@ -111,6 +111,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Completed outputs:** `Ashford Coexistence Oversight Commission`, 3-story `One Hundred Twenty Days...` bundle, and `The Three Near-Wars` indexing with governance links.
       **Status note:** COMPLETE (continuation tranche executed and integrated on 2026-03-07)
 
+- [x] **USER-016 — Continuation: Persecution Era Precedent Depth Pack**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Reinforce post-reveal coexistence governance with actionable persecution-era precedent structures.
+      **Scope:** 3 historical governance notes + near-war hub integration.
+      **Completed outputs:** `The Lantern Decrees`, `Five Survivors Concord`, `Ashford Witness Amnesty Records`, and `The Three Near-Wars` update linking precedent to modern governance.
+      **Status note:** COMPLETE (historical-depth continuation executed and integrated on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**

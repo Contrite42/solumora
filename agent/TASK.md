@@ -1,4 +1,4 @@
-# Current Task: Post-Arc Continuation — Coexistence Normalization (120-Day Extension)
+# Current Task: Post-Arc Continuation — Persecution Precedent Layer
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,20 +7,19 @@
 
 ## Summary
 
-Extended beyond USER-014 completion with a 120-day normalization tranche that focuses on anti-persecution enforcement, auditable mixed-species technical governance, and ordinary-life civic stabilization under coexistence oversight.
+Extended continuation with a historical precedent tranche that binds current coexistence governance to concrete persecution-era mechanics and survivor logic, improving doctrinal continuity for post-reveal institutions.
 
 ## Completed Outputs (Continuation Tranche)
 
-- Created: `content/Ashford Coexistence Oversight Commission.md`
-- Created: `content/Stories/One Hundred Twenty Days After the First Casualty - Commission Docket.md`
-- Created: `content/Stories/One Hundred Twenty Days After the First Casualty - Anchor Audit.md`
-- Created: `content/Stories/One Hundred Twenty Days After the First Casualty - Dockside Questions.md`
-- Updated: `content/The Three Near-Wars.md` (120-day bundle + oversight institution links)
+- Created: `content/The Lantern Decrees.md`
+- Created: `content/Five Survivors Concord.md`
+- Created: `content/Ashford Witness Amnesty Records.md`
+- Updated: `content/The Three Near-Wars.md` (persecution-precedent links + see-also integration)
 
 ## Status
 
 - Continuation tranche complete.
-- Canon now extends from first-casualty trigger through 120-day coexistence normalization.
+- Canon now extends from first-casualty trigger through 120-day coexistence normalization with explicit persecution-era precedent depth.
 
 ## Verification
 

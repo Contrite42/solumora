@@ -1,0 +1,440 @@
+{
+  "concept": "The Lantern Decrees",
+  "top_pages": [
+    {
+      "id": "The Lantern Decrees",
+      "path": "content/The Lantern Decrees.md",
+      "title": "The Lantern Decrees",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 67,
+      "outlink_count": 7,
+      "read_plan": [
+        {
+          "section": "The Lantern Decrees",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The Lantern Decrees were a sequence of emergency legal orders issued during years 6-11 of [[The Ancient Persecution Era|Persecution Era]] by municipal-civic authorities in both [[Auralis]] and [[Terravelle]]."
+        },
+        {
+          "section": "Origin",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "After initial demon-identification campaigns produced high panic and low institutional confidence, central authorities faced a practical problem: they could not sustain citywide sweeps without paralyzing trade and civic "
+        },
+        {
+          "section": "Mechanism of Harm",
+          "start_line": 19,
+          "end_line": 29,
+          "preview": "The Decrees did not require proof standards equivalent to criminal law. They required administrative confidence thresholds defined by local officials and witness reports."
+        },
+        {
+          "section": "Typical Enforcement Pattern",
+          "start_line": 30,
+          "end_line": 40,
+          "preview": "A recurring pattern appears in surviving records:"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 732,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 711,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 470,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "The Ancient Persecution Era",
+      "path": "content/The Ancient Persecution Era.md",
+      "title": "Pre-Persecution Era Context",
+      "why": "seed_outlink",
+      "score": 324,
+      "line_count": 141,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Pre-Persecution Era Context",
+          "start_line": 7,
+          "end_line": 14,
+          "preview": "Before systematic persecution began, [[High Demons|High Demons]] existed in both kingdoms essentially unmolested. Historical record suggests 8-12 immortals maintained human-like existence across [[Auralis]] and [[Terrave"
+        },
+        {
+          "section": "The Institutional Failure",
+          "start_line": 15,
+          "end_line": 29,
+          "preview": "Around 475 years ago, both [[Auralis]] and [[Terravelle]] experienced patterns of institutional dysfunction that authorities attributed to demonic interference:"
+        },
+        {
+          "section": "The Persecution Doctrine",
+          "start_line": 30,
+          "end_line": 50,
+          "preview": "Authorities developed formal persecution framework:"
+        },
+        {
+          "section": "The Actual Victims",
+          "start_line": 51,
+          "end_line": 64,
+          "preview": "Investigation centuries later (during historical scholarship review in Auralis, ~250 years ago) revealed most persecution victims had been ordinary humans, not demons. Some victims:"
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 320,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "The Identification Protocols",
+      "path": "content/The Identification Protocols.md",
+      "title": "Core Identification Characteristics",
+      "why": "seed_outlink",
+      "score": 312,
+      "line_count": 125,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Core Identification Characteristics",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "Persecution Era identification protocols targeted seven characteristic categories:"
+        },
+        {
+          "section": "Physical Anomalies",
+          "start_line": 9,
+          "end_line": 22,
+          "preview": "**Age Impossibility**: Individuals who appeared significantly younger than official records indicated, or whose physical aging rate diverged from normal human progression. Persecution logic: demons don't age normally, ap"
+        },
+        {
+          "section": "Behavioral Anomalies",
+          "start_line": 23,
+          "end_line": 36,
+          "preview": "**Emotional Distance**: Individuals demonstrating unusual difficulty with normal human emotional attachments or social integration. Persecution logic: demons lack human emotional capacity, therefore apparent emotional di"
+        },
+        {
+          "section": "Social Anomalies",
+          "start_line": 37,
+          "end_line": 50,
+          "preview": "**Community Isolation**: Individuals who maintained minimal social ties despite living in community, spent extensive time alone, had few demonstrated friendships, or seemed separate from communal structures."
+        }
+      ]
+    },
+    {
+      "id": "Public Status of High Demons",
+      "path": "content/Public Status of High Demons.md",
+      "title": "Public Status of High Demons",
+      "why": "seed_outlink",
+      "score": 309,
+      "line_count": 72,
+      "outlink_count": 7,
+      "read_plan": [
+        {
+          "section": "Public Status of High Demons",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The public status of [[High Demons]] changed from suppressed folklore and archival taboo to acknowledged geopolitical reality following the Fifth Bell declaration in Auralis, where [[Teren Voss|Verath]] identified himsel"
+        },
+        {
+          "section": "Pre-Disclosure Baseline",
+          "start_line": 7,
+          "end_line": 15,
+          "preview": "Before disclosure, High Demons existed in official discourse as:"
+        },
+        {
+          "section": "Disclosure Event Effects",
+          "start_line": 16,
+          "end_line": 27,
+          "preview": "Immediate effects across both kingdoms included:"
+        },
+        {
+          "section": "Current Policy Position (Provisional)",
+          "start_line": 28,
+          "end_line": 31,
+          "preview": "No unified trans-kingdom legal framework currently exists for High Demon civic status. Present posture is provisional and function-driven."
+        }
+      ]
+    },
+    {
+      "id": "Ashford Coexistence Oversight Commission",
+      "path": "content/Ashford Coexistence Oversight Commission.md",
+      "title": "Ashford Coexistence Oversight Commission",
+      "why": "seed_outlink",
+      "score": 307,
+      "line_count": 82,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Ashford Coexistence Oversight Commission",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The Ashford Coexistence Oversight Commission (ACOC) is the first formal cross-kingdom civilian oversight body created specifically to govern human-High Demon coexistence under post-cascade-risk conditions."
+        },
+        {
+          "section": "Purpose",
+          "start_line": 7,
+          "end_line": 14,
+          "preview": "The Commission exists to prevent two failure modes that became visible immediately after disclosure:"
+        },
+        {
+          "section": "Core Authorities",
+          "start_line": 15,
+          "end_line": 16,
+          "preview": ""
+        },
+        {
+          "section": "1. Oversight of Non-Human Technical Engagement",
+          "start_line": 17,
+          "end_line": 21,
+          "preview": "- Registers and audits all declared High Demon participation in public-risk interventions."
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_backlink",
+      "score": 307,
+      "line_count": 173,
+      "outlink_count": 57,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    },
+    {
+      "id": "Persecution Era Social Fragmentation",
+      "path": "content/Persecution Era Social Fragmentation.md",
+      "title": "Pre-Persecution Community Structure",
+      "why": "seed_outlink",
+      "score": 302,
+      "line_count": 130,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Pre-Persecution Community Structure",
+          "start_line": 5,
+          "end_line": 20,
+          "preview": "Before systematic persecution, [[Auralis]] and [[Terravelle]] communities maintained traditional cooperative structures:"
+        },
+        {
+          "section": "Identification and Fragmentation",
+          "start_line": 21,
+          "end_line": 34,
+          "preview": "When persecution began, these assumptions collapsed:"
+        },
+        {
+          "section": "The Informant Dynamic",
+          "start_line": 35,
+          "end_line": 48,
+          "preview": "Informant systems were explicitly designed to destroy community trust:"
+        },
+        {
+          "section": "Religious Community Damage",
+          "start_line": 49,
+          "end_line": 62,
+          "preview": "Religious institutions received special attention in persecution framework:"
+        }
+      ]
+    },
+    {
+      "id": "Solhaven",
+      "path": "content/Solhaven.md",
+      "title": "Layout and Architecture",
+      "why": "second_order",
+      "score": 267,
+      "line_count": 31,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "Layout and Architecture",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Solhaven is organized by elevation in ways that are officially geographic and practically social. The harbor district at the base is commercial \u2014 trade, warehousing, transport, the practical work of a port city. As you m"
+        },
+        {
+          "section": "The Palace",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "[[Cassia]]'s palace occupies the Crestward's eastern face, designed to catch morning light and be visible from the harbor. It is large, ornate, and functions as both a residence and a performance space \u2014 the formal halls"
+        },
+        {
+          "section": "Population and Character",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "Solhaven's population approaches a million. It is the largest city in Solumora and the most [[Flux]]-saturated \u2014 the density of active [[Sigils]] in the upper terraces is high enough that visitors with [[Control Tier]] s"
+        },
+        {
+          "section": "The Ascendant Path",
+          "start_line": 23,
+          "end_line": 31,
+          "preview": "[[Religion and Belief|The Ascendant Path]] runs deeper in Solhaven than anywhere else in [[Auralis]]. The Luminants \u2014 the Path's formal priesthood \u2014 operate out of three major temples in the city, the largest of which si"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Ashford Witness Amnesty Records",
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Ashford Coexistence Oversight Commission",
+      "Auralis",
+      "Persecution Era Social Fragmentation",
+      "Public Status of High Demons",
+      "Terravelle",
+      "The Ancient Persecution Era",
+      "The Identification Protocols"
+    ]
+  }
+}
