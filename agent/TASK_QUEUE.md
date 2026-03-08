@@ -100,7 +100,8 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Phase 1 outputs:** War trigger event (Kellvost Incursion), 4 party member character files (Merra Veld, Teren Voss/Verath, Jess Maren, Kess Tarren), Decision F approval documentation.
       **Phase 2 outputs:** 3 party-assembly stories (`Forty-Five Days...` bundle) + `The Three Near-Wars` index update.
       **Phase 3 outputs:** 3 investigation/escalation stories (`Fifty-Eight Days...` bundle) + `The Three Near-Wars` index update.
-      **Status note:** IN PROGRESS — Phase 1 and Phase 2 complete; Phase 3 active on 2026-03-07 with cascade-model proof, institutional stall, and first direct Verath alliance established; ready for Phase 4 (Revelation + Resolution)
+      **Phase 4 outputs:** 3 revelation/resolution stories (`Sixty-Seven to Seventy-Two Days...` bundle) + `The Three Near-Wars` index update.
+      **Status note:** IN PROGRESS — Phases 1-4 complete-in-sequence on 2026-03-07; High Demon revelation public, corridor standstill operational, first joint anchor stabilization executed; ready for Phase 5 (Post-War World-State Consolidation)
 
 ---
 
