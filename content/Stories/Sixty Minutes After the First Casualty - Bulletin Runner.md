@@ -1,4 +1,4 @@
-# Sixty Minutes After the First Name - Bulletin Runner
+# Sixty Minutes After the First Casualty - Bulletin Runner
 
 Harn Vel carried three statements and trusted none of them.
 

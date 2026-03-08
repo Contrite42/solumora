@@ -1,4 +1,4 @@
-# Current Task: Story Bundle - Sixty Minutes After the First Name
+# Current Task: Story Bundle - Twenty-Four Hours After the First Casualty
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,13 +7,13 @@
 
 ## Summary
 
-Created a modular first-casualty-window story bundle that advances war-sequence pressure without locking a creator-only trigger/resolution choice from Decision F.
+Created a modular first-day aftermath story bundle that deepens war-sequence pressure without locking a creator-only trigger/resolution choice from Decision F.
 
 ## Completed Outputs (This Cycle)
 
-- Created: `content/Stories/Sixty Minutes After the First Name - Patrol Clerk.md`
-- Created: `content/Stories/Sixty Minutes After the First Name - Ward Nurse.md`
-- Created: `content/Stories/Sixty Minutes After the First Name - Bulletin Runner.md`
+- Created: `content/Stories/Twenty-Four Hours After the First Casualty - Duty Captain.md`
+- Created: `content/Stories/Twenty-Four Hours After the First Casualty - Road Dispatcher.md`
+- Created: `content/Stories/Twenty-Four Hours After the First Casualty - Grain Broker.md`
 - Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
 
 ## Verification

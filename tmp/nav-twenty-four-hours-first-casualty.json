@@ -1,0 +1,422 @@
+{
+  "concept": "Stories/Twenty-Four Hours After the First Casualty - Duty Captain",
+  "top_pages": [
+    {
+      "id": "Stories/Twenty-Four Hours After the First Casualty - Duty Captain",
+      "path": "content/Stories/Twenty-Four Hours After the First Casualty - Duty Captain.md",
+      "title": "Twenty-Four Hours After the First Casualty - Duty Captain",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 73,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Twenty-Four Hours After the First Casualty - Duty Captain",
+          "start_line": 1,
+          "end_line": 73,
+          "preview": "Captain Elra Morn had slept fifty minutes in a chair and woke to find the map had changed color."
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 727,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 700,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 462,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_outlink",
+      "score": 347,
+      "line_count": 87,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    },
+    {
+      "id": "Near-War Incident Ladder",
+      "path": "content/Near-War Incident Ladder.md",
+      "title": "Near-War Incident Ladder",
+      "why": "seed_outlink",
+      "score": 320,
+      "line_count": 87,
+      "outlink_count": 10,
+      "read_plan": [
+        {
+          "section": "Near-War Incident Ladder",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The **Near-War Incident Ladder** is the practical escalation pattern used by mid-level operators in [[Auralis]] and [[Terravelle]] to describe how routine border friction becomes strategic crisis."
+        },
+        {
+          "section": "Why Operators Track It",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "Policy language treats incidents as isolated events. Operators handling shipments, couriers, and inspection reports see connected causality instead:"
+        },
+        {
+          "section": "Ladder Stages",
+          "start_line": 19,
+          "end_line": 20,
+          "preview": ""
+        },
+        {
+          "section": "Stage 1 - Procedural Friction",
+          "start_line": 21,
+          "end_line": 26,
+          "preview": "A customs office changes inspection weighting, paperwork format, or review thresholds. Officials describe this as normal compliance adjustment."
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 319,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "The Constitutional War Path",
+      "path": "content/The Constitutional War Path.md",
+      "title": "Legitimacy Validation Dynamics",
+      "why": "seed_outlink",
+      "score": 318,
+      "line_count": 152,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Legitimacy Validation Dynamics",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "Constitutional disputes create unique pressure toward military posturing:"
+        },
+        {
+          "section": "Auralis Position Validation",
+          "start_line": 9,
+          "end_line": 22,
+          "preview": "[[The Council of Auralis]] must demonstrate that emergency governance is legitimate and effective. The demonstration requires visible success: border security improves, rift threats decrease, population safety increases "
+        },
+        {
+          "section": "Terravelle Position Validation",
+          "start_line": 23,
+          "end_line": 36,
+          "preview": "[[Terravelle]] must demonstrate that [[Auralis]] constitutional breakdown represents genuine threat justifying defensive preparation rather than diplomatic overreaction exploiting internal [[Auralis]] politics."
+        },
+        {
+          "section": "Mutual Validation Spiral",
+          "start_line": 37,
+          "end_line": 50,
+          "preview": "Both kingdoms simultaneously trying to validate positions creates self-reinforcing escalation:"
+        }
+      ]
+    },
+    {
+      "id": "Border Coordination Offices",
+      "path": "content/Border Coordination Offices.md",
+      "title": "Purpose and Function",
+      "why": "seed_outlink",
+      "score": 316,
+      "line_count": 106,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "Purpose and Function",
+          "start_line": 3,
+          "end_line": 16,
+          "preview": "Cross-border crimes create jurisdictional problems neither kingdom can solve independently. A merchant defrauded in [[Auralis]] by a [[Terravelle]] practitioner cannot be compensated unless Terravelle cooperates. A fugit"
+        },
+        {
+          "section": "Organizational Structure",
+          "start_line": 17,
+          "end_line": 34,
+          "preview": "Each kingdom maintains 3-4 coordination offices in border regions and major ports:"
+        },
+        {
+          "section": "Limitations",
+          "start_line": 35,
+          "end_line": 48,
+          "preview": "Border Coordination Offices cannot:"
+        },
+        {
+          "section": "Cultural Differences in Operation",
+          "start_line": 49,
+          "end_line": 58,
+          "preview": "[[Auralis]] coordination offices operate formally. They document all requests, track case status systematically, and follow established procedures for information exchange. Requests are written, communication is official"
+        }
+      ]
+    },
+    {
+      "id": "Border De-Escalation Protocols",
+      "path": "content/Border De-Escalation Protocols.md",
+      "title": "Border De-Escalation Protocols",
+      "why": "seed_outlink",
+      "score": 310,
+      "line_count": 93,
+      "outlink_count": 9,
+      "read_plan": [
+        {
+          "section": "Border De-Escalation Protocols",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Border De-Escalation Protocols** are the practical procedures used by customs offices, guild coordinators, and liaison operators to contain incidents before they become strategic confrontations."
+        },
+        {
+          "section": "Design Principle",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "A working protocol must satisfy three constraints simultaneously:"
+        },
+        {
+          "section": "Core Protocol Set",
+          "start_line": 17,
+          "end_line": 18,
+          "preview": ""
+        },
+        {
+          "section": "1. Technical Clarification Window",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "When a seizure or hold is triggered by documentation mismatch, both sides enter a fixed clarification window (usually 24-48 hours) before public narrative expansion."
+        }
+      ]
+    },
+    {
+      "id": "Border Incident Ledger",
+      "path": "content/Border Incident Ledger.md",
+      "title": "Border Incident Ledger",
+      "why": "seed_outlink",
+      "score": 309,
+      "line_count": 65,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Border Incident Ledger",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The **Border Incident Ledger** is a shared minimal record format used by bilateral liaisons to keep high-friction border incidents on a common factual baseline before political narratives diverge."
+        },
+        {
+          "section": "Purpose",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "The ledger exists to solve one practical problem: incidents escalate faster than policy clarification."
+        },
+        {
+          "section": "Minimum Record Fields",
+          "start_line": 13,
+          "end_line": 25,
+          "preview": "Each ledger entry requires only fields that can be verified quickly:"
+        },
+        {
+          "section": "When It Activates",
+          "start_line": 26,
+          "end_line": 36,
+          "preview": "Operators open a ledger entry when incidents cross agreed severity thresholds:"
+        }
+      ]
+    },
+    {
+      "id": "Solhaven",
+      "path": "content/Solhaven.md",
+      "title": "Layout and Architecture",
+      "why": "second_order",
+      "score": 267,
+      "line_count": 31,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "Layout and Architecture",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Solhaven is organized by elevation in ways that are officially geographic and practically social. The harbor district at the base is commercial \u2014 trade, warehousing, transport, the practical work of a port city. As you m"
+        },
+        {
+          "section": "The Palace",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "[[Cassia]]'s palace occupies the Crestward's eastern face, designed to catch morning light and be visible from the harbor. It is large, ornate, and functions as both a residence and a performance space \u2014 the formal halls"
+        },
+        {
+          "section": "Population and Character",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "Solhaven's population approaches a million. It is the largest city in Solumora and the most [[Flux]]-saturated \u2014 the density of active [[Sigils]] in the upper terraces is high enough that visitors with [[Control Tier]] s"
+        },
+        {
+          "section": "The Ascendant Path",
+          "start_line": 23,
+          "end_line": 31,
+          "preview": "[[Religion and Belief|The Ascendant Path]] runs deeper in Solhaven than anywhere else in [[Auralis]]. The Luminants \u2014 the Path's formal priesthood \u2014 operate out of three major temples in the city, the largest of which si"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Auralis",
+      "Border Coordination Offices",
+      "Border De-Escalation Protocols",
+      "Border Incident Ledger",
+      "Near-War Incident Ladder",
+      "Terravelle",
+      "The Constitutional War Path",
+      "The Three Near-Wars"
+    ]
+  }
+}

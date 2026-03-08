@@ -65,12 +65,19 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** 3 story files + new bundle section in near-war hub.
       **Status note:** COMPLETE (stories created: Scout, Quartermaster, Courier; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
 
-- [x] **USER-010 — Story Bundle: Sixty Minutes After the First Name**
+- [x] **USER-010 — Story Bundle: Sixty Minutes After the First Casualty**
       **Source:** Continuation request (2026-03-07), follow-on modular war-sequence development
       **Goal:** Add a linked first-casualty-window story set showing administrative, care, and information-system response in the first hour.
       **Scope:** 3 stories in `content/Stories/` + one index update in `content/The Three Near-Wars.md`.
       **Required outputs:** 3 story files + new bundle section in near-war hub.
       **Status note:** COMPLETE (stories created: Patrol Clerk, Ward Nurse, Bulletin Runner; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
+
+- [x] **USER-011 — Story Bundle: Twenty-Four Hours After the First Casualty**
+      **Source:** Continuation request (2026-03-07), follow-on modular war-sequence development
+      **Goal:** Add a linked first-day aftermath story set showing command posture, transit continuity, and staple-market allocation effects.
+      **Scope:** 3 stories in `content/Stories/` + one index update in `content/The Three Near-Wars.md`.
+      **Required outputs:** 3 story files + new bundle section in near-war hub.
+      **Status note:** COMPLETE (stories created: Duty Captain, Road Dispatcher, Grain Broker; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
 
 ---
 
