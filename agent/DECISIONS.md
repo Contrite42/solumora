@@ -19,7 +19,7 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 
 #### **Component 1: War Trigger Mechanism**
 
-**Option A — Rift Catastrophe Revelation**
+##**Option A — Rift Catastrophe Revelation**
 - Major incursion at Terravelle border; 40-60 casualties in settled area
 - Evidence surfaces that Auralis Council knew rift patterns and delayed warning for research access
 - Eddan has domestic pressure + moral justification for military response
@@ -33,7 +33,7 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 - **Tradeoffs:** Echoes Ruins Claim Incident precedent, avoids casualties-as-trigger, slower escalation
 - **Development cost:** 5-7 fortification/diplomatic notes, new ancient site detail, military logistics
 
-**Option C — Cassia's Constitutional Break**
+##**Option C — Cassia's Constitutional Break**
 - Council votes to authorize military action; Cassia refuses royal seal
 - Council proceeds with emergency powers doctrine; constitutional crisis becomes military crisis
 - Cassia flees or is confined; legitimacy question splits Auralis internally
@@ -176,7 +176,21 @@ Do not remove the `REVIEW_DECISION` markers while an active review is open.
 - **Historical Documentation:** Develop as finished historical event referenced from future time period
 - **Modular Development:** Build components separately, finalize arc structure later
 
-**Status:** AWAITING CREATOR DECISION
+**Status:** APPROVED — 2026-03-07
+
+**Approved Selections:**
+- **Component 1:** Option A — Rift Catastrophe Revelation (40-60 casualties, Council negligence exposed, moral clarity)
+- **Component 2:** Option A — Expedition Rescue Specialist (new character, desert crossing experience, cross-kingdom trust, survival expertise over raw power)
+- **Component 3:** Party composition: Protagonist (T2) + High Demon (T9-equivalent) + T0 Logistics Expert + Cassia (T4) + Ruins Scholar (T4-T5)
+- **Component 4:** Option B — High Demon Forced Revelation (paradigm shift, immortals exposed, post-war cooperation required)
+- **Component 5:** Option A — Persecution Era (~400-200 years ago, historical precedent for demon revelation)
+- **Development approach:** Story + World State Change (8-12 stories with permanent post-war reconfiguration)
+
+**Implementation Notes:**
+- Protagonist arc centers on competence-over-power theme (Frieren-style: right person at right time)
+- Party tier spread (T0/T2/T4/T5/T9) directly challenges magical supremacy assumptions
+- Post-war world fundamentally transformed: High Demons become known entities, magical understanding revolutionized
+- Historical depth through Persecution Era provides weight and precedent for societal reaction
 
 
 
