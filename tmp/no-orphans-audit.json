@@ -1,213 +1,74 @@
 {
-    "generated_at":  "2026-03-07 17:09:31",
-    "page_count":  631,
+    "page_count":  649,
     "outbound_fail_count":  10,
-    "inbound_fail_count":  61,
-    "missing_target_count":  151,
+    "inbound_fail_count":  0,
+    "unresolved_link_instances":  235,
+    "unresolved_target_titles":  151,
     "outbound_fail_sample":  [
                                  {
-                                     "id":  "2026-03-05",
                                      "path":  "content/2026-03-05.md",
                                      "outlinks":  0
                                  },
                                  {
-                                     "id":  "Council Orders",
                                      "path":  "content/Council Orders.md",
                                      "outlinks":  0
                                  },
                                  {
-                                     "id":  "D ess Vorn",
                                      "path":  "content/D ess Vorn.md",
                                      "outlinks":  0
                                  },
                                  {
-                                     "id":  "Templates",
-                                     "path":  "content/Templates.md",
-                                     "outlinks":  0
-                                 },
-                                 {
-                                     "id":  "WrittenWorks/Osvin Brack\u0027s Assessment Ledger",
-                                     "path":  "content/WrittenWorks/Osvin Brack\u0027s Assessment Ledger.md",
-                                     "outlinks":  0
-                                 },
-                                 {
-                                     "id":  "WrittenWorks/Rell Hadv\u0027s Certification Notes",
-                                     "path":  "content/WrittenWorks/Rell Hadv\u0027s Certification Notes.md",
-                                     "outlinks":  0
-                                 },
-                                 {
-                                     "id":  "WrittenWorks/Toven Ral\u0027s Journal",
-                                     "path":  "content/WrittenWorks/Toven Ral\u0027s Journal.md",
-                                     "outlinks":  0
-                                 },
-                                 {
-                                     "id":  "People/Wren",
                                      "path":  "content/People/Wren.md",
                                      "outlinks":  1
                                  },
                                  {
-                                     "id":  "WrittenWorks/Ostal Mrev\u0027s Consultation Notes",
+                                     "path":  "content/Templates.md",
+                                     "outlinks":  0
+                                 },
+                                 {
+                                     "path":  "content/Uncommon Grimoire.md",
+                                     "outlinks":  2
+                                 },
+                                 {
                                      "path":  "content/WrittenWorks/Ostal Mrev\u0027s Consultation Notes.md",
                                      "outlinks":  1
                                  },
                                  {
-                                     "id":  "Uncommon Grimoire",
-                                     "path":  "content/Uncommon Grimoire.md",
-                                     "outlinks":  2
+                                     "path":  "content/WrittenWorks/Osvin Brack\u0027s Assessment Ledger.md",
+                                     "outlinks":  0
+                                 },
+                                 {
+                                     "path":  "content/WrittenWorks/Rell Hadv\u0027s Certification Notes.md",
+                                     "outlinks":  0
+                                 },
+                                 {
+                                     "path":  "content/WrittenWorks/Toven Ral\u0027s Journal.md",
+                                     "outlinks":  0
                                  }
                              ],
     "inbound_fail_sample":  [
-                                {
-                                    "id":  "2026-03-05",
-                                    "path":  "content/2026-03-05.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Auralis Civil Disputes",
-                                    "path":  "content/Auralis Civil Disputes.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Auralis Low-Level Crime",
-                                    "path":  "content/Auralis Low-Level Crime.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Auralis Trade Dispute Resolution",
-                                    "path":  "content/Auralis Trade Dispute Resolution.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Border Guards",
-                                    "path":  "content/Border Guards.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Guild Regulations",
-                                    "path":  "content/Guild Regulations.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "History/The Hunting Period",
-                                    "path":  "content/History/The Hunting Period.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Kessran Dolt",
-                                    "path":  "content/Kessran Dolt.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Kitchen Operations and Food Preparation",
-                                    "path":  "content/Kitchen Operations and Food Preparation.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Magic/Flux Cost Reference",
-                                    "path":  "content/Magic/Flux Cost Reference.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "Ossan Vert",
-                                    "path":  "content/Ossan Vert.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Bren Ossve",
-                                    "path":  "content/People/Bren Ossve.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Cor Meln",
-                                    "path":  "content/People/Cor Meln.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Drest",
-                                    "path":  "content/People/Drest.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Lenne Sosk",
-                                    "path":  "content/People/Lenne Sosk.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Maren Sollis",
-                                    "path":  "content/People/Maren Sollis.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Mave",
-                                    "path":  "content/People/Mave.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Mira Solv",
-                                    "path":  "content/People/Mira Solv.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Oryen Veld",
-                                    "path":  "content/People/Oryen Veld.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Ossen Drel",
-                                    "path":  "content/People/Ossen Drel.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Reth Caln",
-                                    "path":  "content/People/Reth Caln.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Selt Orvn",
-                                    "path":  "content/People/Selt Orvn.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Selvane",
-                                    "path":  "content/People/Selvane.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Sera Voss",
-                                    "path":  "content/People/Sera Voss.md",
-                                    "inbound":  0
-                                },
-                                {
-                                    "id":  "People/Solen Carr",
-                                    "path":  "content/People/Solen Carr.md",
-                                    "inbound":  0
-                                }
+
                             ],
-    "missing_target_sample":  [
-                                  "Academy",
-                                  "Advancement Corps",
-                                  "Ashford-Halveth Trade Road",
-                                  "Banking Alternative Models",
-                                  "Bolt",
-                                  "Cartography",
-                                  "Climate Volatility",
-                                  "Coldbox Seal",
-                                  "Commercial Lending",
-                                  "Cordan Vess",
-                                  "Council of Auralis",
-                                  "Courier Guilds",
-                                  "Creature Harvesting",
-                                  "Cren Tasv",
-                                  "Crestfall Rescue Consortium",
-                                  "Customs and Enforcement",
-                                  "Death and Inheritance",
-                                  "Desert Zakros",
-                                  "Dess Vorn",
-                                  "Disease and Public Health",
-                                  "Dren\u0027s Rest",
-                                  "Emberfall research",
-                                  "Emberforth",
-                                  "Equipment Specialists and Technicians",
-                                  "Flashmark"
-                              ]
+    "unresolved_target_sample":  [
+                                     "Academy",
+                                     "Advancement Corps",
+                                     "Ancestral Current",
+                                     "Ashford-Halveth Trade Road",
+                                     "Banking Alternative Models",
+                                     "Bolt",
+                                     "Cartography",
+                                     "Climate Volatility",
+                                     "Coldbox Seal",
+                                     "Commercial Lending",
+                                     "Cordan Vess",
+                                     "Council of Auralis",
+                                     "Courier Guilds",
+                                     "Creature Harvesting",
+                                     "Cren Tasv",
+                                     "Crestfall Rescue Consortium",
+                                     "Customs and Enforcement",
+                                     "Death and Inheritance",
+                                     "Desert Zakros",
+                                     "Dess Vorn"
+                                 ]
 }

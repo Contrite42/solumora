@@ -104,7 +104,7 @@ Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` cu
 
 - [ ] **Goal:** Maintain world coherence and navigability after every content expansion.
       **Owner:** `Copilot Auto` (default), `Codex` (fallback)
-      **Latest run:** `2026-03-06` by `Codex` fallback (vault-wide post-spell cleanup cycle; unresolved wikilinks 136 -> 0).
+      **Latest run:** `2026-03-08` by `Codex` fallback (post-information-economy integrity cycle; 649 pages, outbound fails 10, inbound fails 0, unresolved target titles 151).
 - **Constraints:**
   - **Backlinks:** Every new or updated note must be reachable from at least one appropriate hub page (ex: [[Solumora]], [[Auralis]], [[Terravelle]], [[Desert Zakros]], [[Flux]], [[Grimoires]], [[Factions]], [[Religions]], [[History]], [[People]]).
   - **No Orphans:** No new note should exist without at least **3 outbound links** and at least **1 inbound link** from a hub or parent topic.

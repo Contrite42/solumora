@@ -1,33 +1,28 @@
-# Current Task: Information Economy Layer
+# Current Task: Canon + Links Integrity Cycle
 
 **Status:** Complete
-**Owner:** Codex (executing Copilot Auto task)
+**Owner:** Codex (fallback recurring cycle)
 **Started:** 2026-03-08
 **Completed:** 2026-03-08
 
 ## Summary
 
-Completed the information-economy expansion cycle focused on informal channels for rumors, signals, reliability scoring, verification habits, and intentional misinformation. Added six new notes and integrated the layer into the two required hub pages with practical interplay sections.
+Executed the recurring canon/link integrity cycle immediately after the information-economy expansion. Refreshed and audited link artifacts, then recorded findings in the report files and queue run marker.
 
 ## Completed Outputs (This Cycle)
 
-- Added: `content/Rumor Brokerage Rings.md`
-- Added: `content/Reliability Scoring for Informal Intelligence.md`
-- Added: `content/Deliberate Misinformation Markets.md`
-- Added: `content/Verification Habits in Trade Communities.md`
-- Added: `content/Signal Relay Freelancers.md`
-- Added: `content/Narrative Laundering Channels.md`
-- Updated: `content/Ashford-Halveth Courier Road.md` (informal information-economy interplay section)
-- Updated: `content/Political Intelligence.md` (formal/informal interplay section)
-- Refreshed: `tmp/concept-graph.json` (802 nodes, 8824 edges, 649 pages)
-- Refreshed: `tmp/context-index.json` (649 pages)
-- Generated: `tmp/nav-information-economy.json`
+- Refreshed: `tmp/no-orphans-audit.json` (from current `tmp/context-index.json`)
+- Updated: `agent/reports/inconsistencies.md` (new 2026-03-08 integrity entry)
+- Updated: `agent/reports/links_applied.md` (new 2026-03-08 artifact/run entry)
+- Updated: `agent/TASK_QUEUE.md` (FOREVER TASK latest-run marker)
 
 ## Verification
 
-- Build validation passed on 649 input files
-- Navigation artifacts refreshed successfully
-- New notes cross-link to existing communication and intelligence canon while remaining distinct from formal courier systems
+- Indexed pages audited: 649
+- Outbound threshold (`>=3`) failures: 10 (`FAIL`)
+- Inbound threshold (`>=1`) failures: 0 (`PASS`)
+- Unresolved target titles in outlinks: 151 across 235 link instances (`FAIL`)
+- No new timeline/geography/magic contradictions detected in this pass
 
 Default navigation method (run from repo root):
 
