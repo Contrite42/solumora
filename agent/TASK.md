@@ -1,4 +1,4 @@
-# Current Task: Post-Arc Continuation — 180-Day Backlash and Codification
+# Current Task: Post-Arc Continuation — One-Year Succession and Memory Transfer
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,21 +7,21 @@
 
 ## Summary
 
-Extended continuation with treaty codification and backlash stress-testing: formalized corridor governance, stood up compliance adjudication, and validated first appellate protection against persecution-pattern recurrence.
+Extended continuation with one-year succession stress-testing: created governance continuity controls and intergenerational civic-learning infrastructure, then validated first transfer cycle from founding actors to successor systems.
 
 ## Completed Outputs (Continuation Tranche)
 
-- Created: `content/Corridor Stabilization Treaty.md`
-- Created: `content/Anti-Persecution Compliance Tribunal.md`
-- Created: `content/Stories/One Hundred Eighty Days After the First Casualty - Ratification Hall.md`
-- Created: `content/Stories/One Hundred Eighty Days After the First Casualty - First Appeal.md`
-- Created: `content/Stories/One Hundred Eighty Days After the First Casualty - Winter Convoy.md`
-- Updated: `content/The Three Near-Wars.md` (180-day bundle + codification institutions)
+- Created: `content/Succession Safeguards Charter.md`
+- Created: `content/Intergenerational Coexistence Curriculum.md`
+- Created: `content/Stories/One Year After the First Casualty - Oath Day.md`
+- Created: `content/Stories/One Year After the First Casualty - Memory Hearing.md`
+- Created: `content/Stories/One Year After the First Casualty - New Cohort Drill.md`
+- Updated: `content/The Three Near-Wars.md` (one-year bundle + succession/memory institutions)
 
 ## Status
 
 - Continuation tranche complete.
-- Canon now extends from first-casualty trigger through 180-day codified coexistence governance under seasonal operational stress.
+- Canon now extends from first-casualty trigger through one-year leadership succession and procedural-memory transfer.
 
 ## Verification
 

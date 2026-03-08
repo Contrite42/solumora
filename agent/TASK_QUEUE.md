@@ -125,6 +125,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Completed outputs:** `Corridor Stabilization Treaty`, `Anti-Persecution Compliance Tribunal`, 3-story `One Hundred Eighty Days...` bundle, and `The Three Near-Wars` update.
       **Status note:** COMPLETE (codification continuation executed and integrated on 2026-03-07)
 
+- [x] **USER-018 — Continuation: One-Year Succession and Memory Transfer Layer**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Validate coexistence durability beyond founding actors through leadership turnover safeguards and intergenerational civic memory systems.
+      **Scope:** 2 institutional notes + 3 linked stories + near-war hub integration.
+      **Completed outputs:** `Succession Safeguards Charter`, `Intergenerational Coexistence Curriculum`, 3-story `One Year After...` bundle, and `The Three Near-Wars` update.
+      **Status note:** COMPLETE (one-year continuation executed and integrated on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**
