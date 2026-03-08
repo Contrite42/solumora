@@ -94,6 +94,16 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Status note:** COMPLETE (stories created: Banking Coordinator, Supply Chain Commander, Guild Coordination Lead; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
 
 ---
+      **Status note:** COMPLETE (stories created: Banking Coordinator, Supply Chain Commander, Guild Coordination Lead; `The Three Near-Wars` updated with bundle links and discoverability cross-links on 2026-03-07)
+
+- [ ] **USER-014 — Major Narrative Arc: War and Resolution (Multi-Phase)**
+      **Source:** Decision F approval (2026-03-07), creator decision for main story arc
+      **Goal:** Build complete narrative arc from war trigger through High Demon revelation and post-war world state change.
+      **Scope:** Multi-phase development (8-12 stories + 25-35 world notes + permanent world transformation).
+      **Phase 1 outputs:** War trigger event (Kellvost Incursion), 4 party member character files (Merra Veld, Teren Voss/Verath, Jess Maren, Kess Tarren), Decision F approval documentation.
+      **Status note:** IN PROGRESS — Phase 1 (Foundation) complete on 2026-03-07; war trigger and all core party members created; ready for Phase 2 (Party Assembly)
+
+---
 
 **Permanent Tasks:**
 
