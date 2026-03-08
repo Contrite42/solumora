@@ -1,4 +1,4 @@
-# Current Task: Major Narrative Arc Foundation — War and Resolution (Phase 1)
+# Current Task: Major Narrative Arc — War and Resolution (Phase 2)
 
 **Status:** In Progress
 **Owner:** Codex
@@ -7,9 +7,11 @@
 
 ## Summary
 
-Building foundation for major narrative arc following Decision F approval. Arc centers on rift cascade threat, party-based resolution, and High Demon revelation. Protagonist: Merra Veld (T2 rescue specialist). Party composition: Merra + High Demon + T0 Logistics + Ruins Scholar + Cassia. Resolution: High Demons forced to reveal themselves to prevent dimensional collapse.
+Executing Decision F through a multi-phase arc focused on competence-over-power leadership, rift cascade prevention, and forced High Demon revelation. Phase 1 completed the war trigger and core party entities; Phase 2 begins assembly through linked operational stories.
 
-## Completed Outputs (Phase 1: Foundation)
+## Completed Outputs
+
+### Phase 1: Foundation
 
 - Updated: `agent/DECISIONS.md` (recorded Decision F approval with full selections)
 - Created: `content/Kellvost Incursion.md` (war trigger event: rift catastrophe, 53 dead, Council negligence exposed)
@@ -18,13 +20,18 @@ Building foundation for major narrative arc following Decision F approval. Arc c
 - Created: `content/Jess Maren.md` (T0 logistics expert, 22 years supply chain experience, competence-over-power exemplar)
 - Created: `content/Kess Tarren.md` (T4-5 ruins scholar, independent researcher, understands ancient stabilization mechanisms)
 
-## Phase 1 Status: Foundation Complete
+### Phase 2: Party Assembly (in progress)
 
-All core party members created. War trigger event documented. Next phases:
-- Phase 2: Party assembly and initial crisis recognition
-- Phase 3: Investigation and escalation
-- Phase 4: Resolution and revelation
-- Phase 5: Post-war world state transformation
+- Created: `content/Stories/Forty-Five Days After the First Casualty - Rescue Summons.md`
+- Created: `content/Stories/Forty-Five Days After the First Casualty - Archive Dealer.md`
+- Created: `content/Stories/Forty-Five Days After the First Casualty - Dry Warehouse Nine.md`
+- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
+
+## Status
+
+- Phase 1 complete.
+- Phase 2 in progress.
+- Next phases after assembly: investigation/escalation, revelation/resolution, post-war world-state updates.
 
 ## Verification
 
