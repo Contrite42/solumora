@@ -156,4 +156,21 @@ These individuals file reports, request policy adjustments, and advocate for de-
 
 The system bends. It has not yet broken. But the breaking points are established, the timeline is documented, and the path to commercial collapse is recognized. The question is not whether cross-border trade infrastructure can sustain current pressure — documentation shows it cannot. The question is whether political priorities shift before commercial breakdown becomes crisis catalyst.
 
+## Operational Synthesis: Near-War Signals in Trade Flow
+
+Current corridor behavior is best interpreted through the [[Near-War Incident Ladder]] and the incident records now attached to daily trade administration.
+
+The practical sequence is visible in current logs:
+
+- [[Halveth Customs Seizure Incident]] demonstrates how a narrow documentation mismatch can become broad-seizure signaling.
+- [[Ashford Courier Intercept Case]] shows enforcement boundary expansion from checkpoint review to route-level intervention.
+- [[Border Incident Ledger]] reflects attempts to preserve a shared factual baseline before narrative divergence hardens.
+- [[Sorn Veld]] illustrates how corridor outcomes depend on operator bandwidth as much as formal policy language.
+
+These are not isolated anomalies. They are cumulative stress markers inside otherwise functional commerce. Merchants and guild administrators increasingly price corridor risk as escalation risk, not just logistics delay.
+
+Operationally, the key distinction is whether incidents remain technically reversible. Where clarification windows close quickly and hold scope stays narrow, trust remains recoverable. Where holds broaden, closure lags, and ledger entries stay unresolved, trade actors shift to defensive routing and reduce cross-border exposure.
+
+That shift is economically rational at the firm level and destabilizing at system level. As volume exits primary corridors, remaining traffic becomes more politically sensitive and more likely to be interpreted through security framing, accelerating the same cycle administrators are trying to contain.
+
 _See also: [[Cross-Border Trade]], [[Border Trade]], [[Trade Guilds]], [[Ashford]], [[Valdenmoor]], [[Auralis]], [[Terravelle]], [[Cross-Border Commerce]], [[Political Dynamics]], [[Infrastructure]], [[Guilds]], [[Merchant House Intelligence Network]], [[Banking Institutions]], [[Control Tier]], [[Political Intelligence]], [[Kingdoms]], [[Council Dynamics]]_

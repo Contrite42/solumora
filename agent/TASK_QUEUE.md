@@ -9,18 +9,19 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Goal:** Convert request into an executable, prioritized expansion batch.
       **Completed outputs:** prioritized USER-002 through USER-007 backlog, active-task handoff in `agent/TASK.md`, and task-scoped nav seed.
 
-- [ ] **USER-002 — Near-War Flashpoint Incident Ladder (Phase 1)**
+- [x] **USER-002 — Near-War Flashpoint Incident Ladder (Phase 1)**
       **Source:** World pressure from `[[The Three Near-Wars]]`, `[[Border Trade]]`, `[[Cross-Border Trade]]`
       **Goal:** Add concrete incidents showing how escalation happens before open war.
       **Scope:** 4-6 notes (incident registry, port inspection crisis, courier interception case, de-escalation protocol, one responder NPC if needed)
       **Required outputs:** new content notes + updates to `content/The Three Near-Wars.md` and one border hub page.
-      **Status note:** IN PROGRESS (4 notes + 2 hub updates completed on 2026-03-07)
+      **Status note:** COMPLETE (6 notes + 3 hub updates completed on 2026-03-07; nav artifacts refreshed to 630 pages)
 
 - [ ] **USER-003 — Civilian Continuity Under Strain (Food, Care, Shelter)**
       **Source:** Capacity degradation signals across Terravelle/Auralis civic systems
       **Goal:** Show what ordinary households do when institutions are functional but thinning.
       **Scope:** 5-7 notes (queue systems, ration substitutions, care triage workflows, temporary housing pressure, local coordinator roles)
       **Required outputs:** new notes + updates to `content/Clinical Care Systems.md` and `content/Ordinary Life in Terravelle.md`.
+      **Status note:** IN PROGRESS (3 notes + both required hub updates completed on 2026-03-07)
 
 - [ ] **USER-004 — Black-Market Grimoire Risk Chain**
       **Source:** Existing black-market references without full risk pipeline detail

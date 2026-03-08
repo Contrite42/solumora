@@ -30,4 +30,14 @@ The Covenant of Measure is Terravelle's closest thing to organized religion and 
 
 Most Terravelle residents participate in Covenant ceremonies the way people participate in cultural habit: regularly, meaningfully at the significant moments, and without extensive examination in between. This is considered appropriate participation. More than that is considered a little much.
 
+## Civilian Continuity Under Strain
+
+Terravelle's stability model is strongest when shortages are temporary and predictable. Under sustained pressure, continuity is preserved through administrative adaptation rather than abundance.
+
+- [[Queue Management Offices]] convert informal access competition into predictable service order.
+- [[Ration Substitution Practices]] preserve meal continuity while quietly reducing dietary quality.
+- [[Care Triage Workflows]] keep clinics moving by prioritizing survivability and district function over complete care.
+
+These adaptations are competent and culturally legible in Terravelle. They also mark the boundary where "stable" systems begin operating in degradation mode.
+
 _See also: [[Terravelle]], [[Valdenmoor]], [[Life in Valdenmoor]], [[Life in Rural Terravelle]], [[Ordinary Life]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Watts]], [[Birth Runes]], [[Flux Users]], [[Religion and Belief]]_

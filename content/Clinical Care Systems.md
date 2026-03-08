@@ -72,4 +72,14 @@ During trade disruptions or conflict spikes, three things happen in sequence:
 
 The system continues to function, but outcomes degrade unevenly. Elite districts maintain continuity through private retainers; labor districts absorb the drop in quality.
 
+## Capacity-Strain Operations Layer
+
+Recent district operations increasingly rely on formalized strain controls rather than informal clinical judgment alone.
+
+- [[Care Triage Workflows]] now define priority lanes when demand exceeds practitioner throughput.
+- [[Queue Management Offices]] provide intake ordering so triage decisions are not fully captured by proximity and influence.
+- [[Ration Substitution Practices]] are now tracked as a leading indicator for low-acuity, high-volume case surges that consume clinical capacity.
+
+Together, these systems keep care access functional under pressure, but they do so by accepting higher deferred-risk load over longer cycles.
+
 _See also: [[Flux Medicine]], [[Healers and Practitioners]], [[Expedition Medicine]], [[Flux-Related Medical]], [[Ordinary Life]], [[Life in Solhaven]], [[Life in Valdenmoor]], [[Life in Halveth]], [[Control Tier]], [[Watts]], [[Auralis]], [[Terravelle]], [[Trade Guilds]], [[Ascendant Path]], [[Rescue and Recovery Services]], [[Equatorial Desert]]_

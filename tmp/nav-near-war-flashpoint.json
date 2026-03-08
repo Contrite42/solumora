@@ -1,32 +1,38 @@
 {
-  "concept": "The Three Near-Wars",
+  "concept": "Near-War Incident Ladder",
   "top_pages": [
     {
-      "id": "The Three Near-Wars",
-      "path": "content/The Three Near-Wars.md",
-      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "id": "Near-War Incident Ladder",
+      "path": "content/Near-War Incident Ladder.md",
+      "title": "Near-War Incident Ladder",
       "why": "seed",
       "score": 10000,
-      "line_count": 39,
-      "outlink_count": 11,
+      "line_count": 87,
+      "outlink_count": 10,
       "read_plan": [
         {
-          "section": "The Eastern Passage Dispute (~160 Years Ago)",
-          "start_line": 3,
-          "end_line": 12,
-          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+          "section": "Near-War Incident Ladder",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The **Near-War Incident Ladder** is the practical escalation pattern used by mid-level operators in [[Auralis]] and [[Terravelle]] to describe how routine border friction becomes strategic crisis."
         },
         {
-          "section": "The Ruins Claim Incident (~95 Years Ago)",
-          "start_line": 13,
-          "end_line": 24,
-          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+          "section": "Why Operators Track It",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "Policy language treats incidents as isolated events. Operators handling shipments, couriers, and inspection reports see connected causality instead:"
         },
         {
-          "section": "The Ashford Blockade (~45 Years Ago)",
-          "start_line": 25,
-          "end_line": 39,
-          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+          "section": "Ladder Stages",
+          "start_line": 19,
+          "end_line": 20,
+          "preview": ""
+        },
+        {
+          "section": "Stage 1 - Procedural Friction",
+          "start_line": 21,
+          "end_line": 26,
+          "preview": "A customs office changes inspection weighting, paperwork format, or review thresholds. Officials describe this as normal compliance adjustment."
         }
       ]
     },
@@ -35,7 +41,7 @@
       "path": "content/Auralis.md",
       "title": "Culture",
       "why": "seed_outlink",
-      "score": 668,
+      "score": 669,
       "line_count": 63,
       "outlink_count": 40,
       "read_plan": [
@@ -70,7 +76,7 @@
       "path": "content/Terravelle.md",
       "title": "Culture",
       "why": "seed_outlink",
-      "score": 639,
+      "score": 640,
       "line_count": 50,
       "outlink_count": 52,
       "read_plan": [
@@ -105,7 +111,7 @@
       "path": "content/Control Tier.md",
       "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
       "why": "second_order",
-      "score": 465,
+      "score": 466,
       "line_count": 211,
       "outlink_count": 25,
       "read_plan": [
@@ -136,321 +142,308 @@
       ]
     },
     {
-      "id": "Equatorial Desert",
-      "path": "content/Equatorial Desert.md",
-      "title": "Geography",
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
       "why": "seed_outlink",
-      "score": 459,
-      "line_count": 151,
-      "outlink_count": 47,
-      "read_plan": [
-        {
-          "section": "Geography",
-          "start_line": 3,
-          "end_line": 10,
-          "preview": "Zakros sits directly on Solumora's equator, a belt of hostile terrain several weeks wide for any traveler moving north to south. It is not a single uniform landscape \u00e2\u20ac\u201d dune fields, cracked salt flats, exposed rock shel"
-        },
-        {
-          "section": "Crossing",
-          "start_line": 11,
-          "end_line": 18,
-          "preview": "There are better routes and worse ones. No route is safe. The better paths \u00e2\u20ac\u201d known to experienced guides, jealously kept, and sold for considerable [[Solumora|Watts]] \u00e2\u20ac\u201d reduce crossing time and offer slightly more pr"
-        },
-        {
-          "section": "Tier Access Limits",
-          "start_line": 19,
-          "end_line": 26,
-          "preview": "The desert's ambient [[Flux]] distortion is the hard constraint on who can survive a crossing without specialist support. [[Control Tier|T0]] practitioners have no Flux capacity and cannot cast any of the protection effe"
-        },
-        {
-          "section": "Fauna",
-          "start_line": 27,
-          "end_line": 34,
-          "preview": "Zakros is not lifeless. Its ecosystem is built almost entirely on insects and arachnids, most of which are [[Flux]]-fueled \u00e2\u20ac\u201d drawing ambient energy from the desert rather than relying solely on biological food chains. "
-        }
-      ]
-    },
-    {
-      "id": "The Council of Auralis",
-      "path": "content/The Council of Auralis.md",
-      "title": "Structure and Factions",
-      "why": "seed_outlink",
-      "score": 448,
-      "line_count": 92,
-      "outlink_count": 51,
-      "read_plan": [
-        {
-          "section": "Structure and Factions",
-          "start_line": 5,
-          "end_line": 8,
-          "preview": "The twenty members divide into three factions with distinct and occasionally competing goals. Alliances shift on specific votes but the factions themselves are stable \u2014 they represent genuine differences in what council "
-        },
-        {
-          "section": "The Culmination Faction",
-          "start_line": 9,
-          "end_line": 14,
-          "preview": "The largest faction, eleven members, organized around the council's defining long-term goal: the recovery and completion of whatever the pre-modern civilization in [[Equatorial Desert|Desert Zakros]] was building. The fa"
-        },
-        {
-          "section": "The Expansion Faction",
-          "start_line": 15,
-          "end_line": 20,
-          "preview": "Six members, organized around the straightforward goal of growing [[Auralis]]'s territory, population, and economic base. They are the most conventionally political faction \u2014 interested in trade routes, border security, "
-        },
-        {
-          "section": "Cassia's Faction",
-          "start_line": 21,
-          "end_line": 28,
-          "preview": "Three members who back [[Cassia]] with genuine loyalty: [[Maren Sollis]], an older woman who served under the previous queen and transferred her allegiance to the infant who survived her; [[Tovan Ashce]], a mid-tier cast"
-        }
-      ]
-    },
-    {
-      "id": "Trade Guilds",
-      "path": "content/Trade Guilds.md",
-      "title": "How Certification Works",
-      "why": "seed_outlink",
-      "score": 442,
-      "line_count": 50,
-      "outlink_count": 16,
-      "read_plan": [
-        {
-          "section": "How Certification Works",
-          "start_line": 5,
-          "end_line": 14,
-          "preview": "Guild certification follows a standard three-stage progression: apprenticeship, journeyman work, and certification assessment. The stages vary in length by trade and in difficulty by the tier grade being sought."
-        },
-        {
-          "section": "Tier Grades and Certification",
-          "start_line": 15,
-          "end_line": 27,
-          "preview": "Most trades have multiple certification grades tied to [[Control Tier]] capability. The grades are trade-specific rather than universal: a T3 certification in structural sigil application means something different from a"
-        },
-        {
-          "section": "The Documentation Standard",
-          "start_line": 28,
-          "end_line": 35,
-          "preview": "Guild documentation requirements are not optional conditions on certification \u2014 they are themselves part of what is being certified. A practitioner who can perform the work but cannot maintain accurate field records duri"
-        },
-        {
-          "section": "Social Function",
-          "start_line": 36,
-          "end_line": 43,
-          "preview": "Guild membership in [[Terravelle]] carries weight beyond trade certification. The guilds provide dispute resolution, wage standards, seasonal assistance funds, apprenticeship placement, housing recommendations, and the i"
-        }
-      ]
-    },
-    {
-      "id": "Ashford",
-      "path": "content/Ashford.md",
-      "title": "Character",
-      "why": "seed_outlink",
-      "score": 439,
-      "line_count": 33,
+      "score": 332,
+      "line_count": 47,
       "outlink_count": 17,
       "read_plan": [
         {
-          "section": "Character",
-          "start_line": 5,
-          "end_line": 10,
-          "preview": "Ashford is rougher than [[Valdenmoor]] in the way that port cities tend to be \u2014 more transient, more tolerant of the irregular, more oriented toward the transaction than the institution. [[Flux]] use here leans heavily t"
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
         },
         {
-          "section": "The Northern Territory",
-          "start_line": 11,
-          "end_line": 16,
-          "preview": "The coastal territory north of Ashford \u2014 absorbed into [[Terravelle]] during the campaign in which Eddan's elder son died \u2014 has never fully settled into the kingdom's administration. The independent coastal communities t"
-        },
-        {
-          "section": "Strategic Importance",
-          "start_line": 17,
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
           "end_line": 24,
-          "preview": "Eddan considers Ashford one of the three non-negotiables of Terravellian security. Losing control of the eastern coast would cut off trade revenue that funds a significant portion of the kingdom's military and administra"
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
         },
         {
-          "section": "Movement Infrastructure",
+          "section": "The Ashford Blockade (~45 Years Ago)",
           "start_line": 25,
-          "end_line": 33,
-          "preview": "Ashford's trade volume depends on three movement systems that overlap without merging cleanly. Bulk cargo arrives through the [[Maren Freight Chain]] and is redistributed through dock districts that can absorb schedule s"
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 47,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
         }
       ]
     },
     {
-      "id": "Ancient Ruins",
-      "path": "content/Ancient Ruins.md",
-      "title": "What Has Been Found",
+      "id": "Border Trade",
+      "path": "content/Border Trade.md",
+      "title": "Border Trade",
       "why": "seed_outlink",
-      "score": 382,
-      "line_count": 91,
-      "outlink_count": 36,
+      "score": 323,
+      "line_count": 139,
+      "outlink_count": 42,
       "read_plan": [
         {
-          "section": "What Has Been Found",
-          "start_line": 5,
-          "end_line": 14,
-          "preview": "Surface ruins only. Broken foundations, partially buried structural elements, fragments of inscription on materials of unknown composition. The buildings, where they can be reconstructed from their remnants, were large a"
+          "section": "Border Trade",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Border trade in Solumora describes regulated cross-kingdom movement of goods, records, and licensed carriers through inspection points such as [[Ashford]]."
         },
         {
-          "section": "What Has Not Been Found",
-          "start_line": 15,
-          "end_line": 20,
-          "preview": "No migration evidence. No record of where the population went. No graves. The absence of bodies is considered by most researchers to be the most significant single fact about the ruins \u2014 a civilization this large and thi"
-        },
-        {
-          "section": "The Three Anomalous Sites",
-          "start_line": 21,
-          "end_line": 28,
-          "preview": "Among the dozens of ruin sites catalogued across the desert, three are categorically different from the rest. They are not simply broken-down structures \u2014 they are areas where the [[Flux]] field itself behaves abnormally"
-        },
-        {
-          "section": "[[Drendmark Flux Well]]",
-          "start_line": 29,
-          "end_line": 40,
-          "preview": "**Location:** Eleven days south of [[Halveth]], ~4 degrees north latitude."
-        }
-      ]
-    },
-    {
-      "id": "Drest",
-      "path": "content/Drest.md",
-      "title": "Background",
-      "why": "seed_outlink",
-      "score": 354,
-      "line_count": 37,
-      "outlink_count": 19,
-      "read_plan": [
-        {
-          "section": "Background",
-          "start_line": 3,
-          "end_line": 12,
-          "preview": "Drest was close to the queen who preceded [[Cassia]] \u2014 close enough that when she died in childbirth, he was the person who moved first. Whether that movement came from grief, from love, from a sense of obligation, or fr"
-        },
-        {
-          "section": "The Question",
-          "start_line": 13,
-          "end_line": 20,
-          "preview": "[[Cassia]] suspects Drest is her father. She has never confirmed it. She will never confirm it \u2014 there is no path to confirmation that does not cost more than the answer is worth, and the answer would not change anything"
-        },
-        {
-          "section": "On the Council",
-          "start_line": 21,
-          "end_line": 28,
-          "preview": "Drest leads the Culmination Faction within [[The Council of Auralis]] \u2014 the faction pursuing the recovery of whatever the ancient civilization in [[Equatorial Desert|Desert Zakros]] built. He believes, with the particula"
-        },
-        {
-          "section": "Relationship with Cassia",
-          "start_line": 29,
-          "end_line": 37,
-          "preview": "Drest is one of three council members who back [[Cassia]] \u2014 and he is the loud one, which means his support is visible and therefore complicated. When he advocates for her in council chambers it draws attention to the fa"
-        }
-      ]
-    },
-    {
-      "id": "Expansion Faction",
-      "path": "content/Expansion Faction.md",
-      "title": "What They Want",
-      "why": "seed_outlink",
-      "score": 332,
-      "line_count": 27,
-      "outlink_count": 13,
-      "read_plan": [
-        {
-          "section": "What They Want",
-          "start_line": 3,
-          "end_line": 10,
-          "preview": "Expansion Faction members are not unified by any single belief about the ancient civilization or the nature of [[Flux]]. They are unified by the assessment that [[Auralis]]'s current position relative to [[Terravelle]] r"
-        },
-        {
-          "section": "Relationship to the Culmination Faction",
-          "start_line": 11,
-          "end_line": 18,
-          "preview": "The Expansion Faction and the [[The Culmination Faction|Culmination Faction]] vote together on most major Council decisions and against each other on almost none. This is not ideological alignment \u2014 they want different t"
-        },
-        {
-          "section": "History",
-          "start_line": 19,
-          "end_line": 27,
-          "preview": "The Ashford Blockade, approximately forty-five years ago, was the Expansion Faction's most ambitious early action \u2014 a systematic program of trade restrictions designed to extract strategic concessions from [[Terravelle]]"
-        }
-      ]
-    },
-    {
-      "id": "Eddan Voss",
-      "path": "content/Eddan Voss.md",
-      "title": "Reign",
-      "why": "seed_outlink",
-      "score": 329,
-      "line_count": 41,
-      "outlink_count": 11,
-      "read_plan": [
-        {
-          "section": "Reign",
+          "section": "Inspection Mechanics",
           "start_line": 7,
-          "end_line": 12,
-          "preview": "Eddan has been king long enough to have watched [[Auralis]] cycle through two queens and a regent before its current ruler settled in. He has outlasted advisors, survived three separate attempts to destabilize Terravelle"
+          "end_line": 34,
+          "preview": "Border crossings operate through structured inspection protocols implemented by customs officials at designated crossing points."
         },
         {
-          "section": "The Council",
+          "section": "Enforcement Personnel",
+          "start_line": 35,
+          "end_line": 56,
+          "preview": "Customs inspection is performed by guild-affiliated inspectors operating under kingdom authority."
+        },
+        {
+          "section": "Smuggling Methods",
+          "start_line": 57,
+          "end_line": 78,
+          "preview": "[[Black Market Grimoire Circulation]] and other contraband movement exploit structural gaps in inspection capacity."
+        }
+      ]
+    },
+    {
+      "id": "Cross-Border Trade",
+      "path": "content/Cross-Border Trade.md",
+      "title": "Cross-Border Trade",
+      "why": "seed_outlink",
+      "score": 315,
+      "line_count": 176,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Cross-Border Trade",
+          "start_line": 1,
+          "end_line": 8,
+          "preview": "Cross-border trade between [[Terravelle]] and [[Auralis]] operates under layered regulatory systems administered by both crown authorities and guild councils."
+        },
+        {
+          "section": "Network Requirements",
+          "start_line": 9,
+          "end_line": 32,
+          "preview": "Successful cross-border trade depends on established relationships connecting merchants, guild representatives, and administrative contacts on both sides of the border."
+        },
+        {
+          "section": "Documentation Complexity",
+          "start_line": 33,
+          "end_line": 54,
+          "preview": "Cross-border transactions require layered documentation satisfying both kingdoms' requirements simultaneously."
+        },
+        {
+          "section": "Specific Trade Routes",
+          "start_line": 55,
+          "end_line": 76,
+          "preview": "Cross-border commerce concentrates on established routes with known inspection patterns and reliable infrastructure."
+        }
+      ]
+    },
+    {
+      "id": "Propaganda and Narrative Control",
+      "path": "content/Propaganda and Narrative Control.md",
+      "title": "Methods",
+      "why": "seed_outlink",
+      "score": 313,
+      "line_count": 196,
+      "outlink_count": 22,
+      "read_plan": [
+        {
+          "section": "Methods",
+          "start_line": 5,
+          "end_line": 6,
+          "preview": ""
+        },
+        {
+          "section": "Selective Disclosure",
+          "start_line": 7,
+          "end_line": 24,
+          "preview": "Both kingdoms control what information becomes public knowledge and when disclosure occurs."
+        },
+        {
+          "section": "Framing",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The same event can be described in ways that lead to opposite conclusions. Propaganda works by ensuring the preferred framing reaches populations first and most persuasively."
+        },
+        {
+          "section": "Omission",
+          "start_line": 39,
+          "end_line": 48,
+          "preview": "Information that does not fit preferred narratives is not actively suppressed \u2014 it is simply not mentioned. Over time, unreported events disappear from public awareness."
+        }
+      ]
+    },
+    {
+      "id": "Council Dynamics",
+      "path": "content/Council Dynamics.md",
+      "title": "Council Dynamics",
+      "why": "seed_outlink",
+      "score": 310,
+      "line_count": 185,
+      "outlink_count": 34,
+      "read_plan": [
+        {
+          "section": "Council Dynamics",
+          "start_line": 1,
+          "end_line": 8,
+          "preview": "Council dynamics describe the active patterns of influence, alliance formation, voting behavior, and information flow within [[The Council of Auralis]] and similar deliberative bodies."
+        },
+        {
+          "section": "Factional Coordination",
+          "start_line": 9,
+          "end_line": 30,
+          "preview": "[[The Council of Auralis]] operates through three factions with distinct objectives: [[The Culmination Faction]] (eleven members pursuing desert ruins research), [[Expansion Faction]] (six members seeking territorial gro"
+        },
+        {
+          "section": "Agenda Control",
+          "start_line": 31,
+          "end_line": 52,
+          "preview": "Council meeting agendas determine what gets decided and what gets deferred, making agenda control a key influence mechanism."
+        },
+        {
+          "section": "Voting Mechanics",
+          "start_line": 53,
+          "end_line": 74,
+          "preview": "Council voting follows formal procedures but actual decision-making reflects informal coordination patterns."
+        }
+      ]
+    },
+    {
+      "id": "Cross-Border Information Flow",
+      "path": "content/Cross-Border Information Flow.md",
+      "title": "Border Crossing Points",
+      "why": "seed_outlink",
+      "score": 309,
+      "line_count": 271,
+      "outlink_count": 26,
+      "read_plan": [
+        {
+          "section": "Border Crossing Points",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "Cross-border information flow concentrates along specific routes where trade, diplomacy, and coordination create communication channels."
+        },
+        {
+          "section": "[[Ashford-Halveth Courier Road]]",
+          "start_line": 9,
+          "end_line": 28,
+          "preview": "The primary overland channel for high-priority messages, permits, and compact cargo between eastern [[Terravelle]] and [[Halveth]]. Also serves as main route for [[Auralis]] messages reaching Terravelle territory."
+        },
+        {
+          "section": "Southern [[Equatorial Desert]] Crossings",
+          "start_line": 29,
+          "end_line": 47,
+          "preview": "[[Standard Guided Crossing]] expeditions carry messages between kingdoms as secondary function of their primary desert crossing purpose."
+        },
+        {
+          "section": "Maritime Routes (Limited)",
+          "start_line": 48,
+          "end_line": 61,
+          "preview": "Coastal shipping between [[Terravelle]] ports and [[Auralis]] coastal settlements carries some inter-kingdom communication, but volume is much lower than overland routes."
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 309,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
           "start_line": 13,
           "end_line": 18,
-          "preview": "Eddan governs with a council he does not fully trust. This is not naivety \u2014 he is aware of their limitations and has mapped most of their competing interests with reasonable accuracy. Several have Auralis-adjacent sympat"
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
         },
         {
-          "section": "Family",
+          "section": "Terravelle Research Institutions",
           "start_line": 19,
-          "end_line": 28,
-          "preview": "Eddan's wife died some years ago. He has not remarried and shows no inclination to."
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
         },
         {
-          "section": "Relationship with Auralis",
-          "start_line": 29,
-          "end_line": 34,
-          "preview": "Eddan's assessment of [[Cassia|Queen Cassia of Auralis]] is respectful and, he believes, accurate: she is patient, she is competent, and she wants things that are incompatible with [[Terravelle]]'s continued independence"
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Political Dynamics",
+      "path": "content/Political Dynamics.md",
+      "title": "Political Dynamics",
+      "why": "seed_outlink",
+      "score": 309,
+      "line_count": 167,
+      "outlink_count": 45,
+      "read_plan": [
+        {
+          "section": "Political Dynamics",
+          "start_line": 1,
+          "end_line": 8,
+          "preview": "Political dynamics in Solumora describe the active tensions, alignments, and power shifts operating within and between institutions rather than static organizational charts."
+        },
+        {
+          "section": "Factional Alignments",
+          "start_line": 9,
+          "end_line": 36,
+          "preview": "Political power in both [[Kingdoms]] organizes around factional structures with distinct objectives competing for influence."
+        },
+        {
+          "section": "Resource Allocation Patterns",
+          "start_line": 37,
+          "end_line": 62,
+          "preview": "Political dynamics are visible in how kingdoms allocate limited resources under competing priorities."
+        },
+        {
+          "section": "Information Access Controls",
+          "start_line": 63,
+          "end_line": 88,
+          "preview": "Political influence depends heavily on information access \u2014 who knows what, when, and with what ability to act on that knowledge."
         }
       ]
     }
   ],
   "neighbors": {
     "backlinks": [
-      "Border Coordination Offices",
+      "Ashford Courier Intercept Case",
+      "Border De-Escalation Protocols",
+      "Border Incident Ledger",
+      "Border Trade",
+      "Cross-Border Trade",
+      "Halveth Customs Seizure Incident",
+      "Sorn Veld",
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Auralis",
       "Border Trade",
       "Communication Speed and Reliability",
       "Council Dynamics",
-      "Cross-Border Commerce",
       "Cross-Border Information Flow",
       "Cross-Border Trade",
-      "Drest",
-      "Expansion Faction",
-      "Helven Torr",
-      "History",
-      "History of Solumora",
-      "Kingdoms",
       "Political Dynamics",
-      "Political Intelligence",
-      "Solumora",
+      "Propaganda and Narrative Control",
       "Terravelle",
-      "Terravelle Administration",
-      "The Council of Auralis",
-      "The First Contact",
-      "The Fraying Peace",
-      "The Solumoran Calendar",
-      "Time and Daily Life",
-      "Trade & Travel",
-      "Vren Holst",
-      "index"
-    ],
-    "outlinks": [
-      "Ancient Ruins",
-      "Ashford",
-      "Auralis",
-      "Drest",
-      "Eddan Voss",
-      "Equatorial Desert",
-      "Expansion Faction",
-      "History of Solumora",
-      "Terravelle",
-      "The Council of Auralis",
-      "Trade Guilds"
+      "The Three Near-Wars"
     ]
   }
 }
