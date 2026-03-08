@@ -194,5 +194,9 @@ Detailed expansion notes tied to this period:
 - [[The Partition Works]]
 - [[The Evacuation Lattices]]
 - [[Archive Custodian Lineages]]
+- [[The Terminal Councils]]
+- [[The Failsafe Vault Migrations]]
+- [[Final-Generation Ethics of Sacrifice]]
+- [[The Silent Departure Thesis]]
 
 _See also: [[Kess Vorn]], [[Solden Archive]], [[Venn Drost]], [[Fennick]], [[High Demons]], [[The First Contact Era]], [[Auralis]], [[Terravelle]]_

@@ -10,6 +10,8 @@ The three [[Ancient Ruins|anomalous Flux sites]] in the desert are the closest t
 
 What the ancient civilization left behind is not limited to physical ruins. The [[Watts|Watts ledger]], which both kingdoms treat as a natural feature of the world's Flux field, is their construction — a currency network built into the ambient [[Flux]] and still running. The current world inherited their economy without knowing it.
 
+For deeper reconstruction of late-stage ancient crisis governance, see [[The Ancient Civilization Final Generation]].
+
 ## The Founding Period (Approximately 600 Years Ago)
 
 The earliest coherent records from both kingdoms describe the same general situation: scattered settlements on either side of the desert, gradually consolidating under the pressure of mutual necessity. [[Terravelle]]'s northern settlements unified first, under a series of practical military alliances that eventually formalized into a single administrative structure. [[Auralis]]'s southern settlements followed a generation later, organized more around shared magical philosophy than military necessity — the southern culture's orientation toward [[Flux]] mastery as a communal value appears to predate the formal kingdom by at least several decades.
@@ -24,6 +26,8 @@ The [[All Grimoire|grimoire tradition]] developed independently in both kingdoms
 
 The Isolation Period also contains the only documented mass response to [[High Demons|High Demon]] presence in Solumoran history — though it was not understood as such at the time. Approximately four hundred years ago, an incident involving an uncontrolled Force-type spell killed one person and a horse and left a third victim severely injured. The caster was identified and killed. What followed was two centuries of decentralised community-level persecution of anyone suspected of similar capability — not coordinated, not officially sanctioned, and not limited to its actual targets. The period ended when it ran out of momentum rather than resolution. It is remembered, where it is remembered at all, as a general era of suspicion rather than as a specific campaign, and the connection to dimensional incursion has never been made in surviving scholarship.
 
+For institutional and social mechanics of that cycle, see [[The Ancient Persecution Era]].
+
 ## The Contact Period (Approximately 200 Years Ago to Present)
 
 Regular contact between the kingdoms became possible when [[Auralis]] developed sufficiently sophisticated thermal [[Sigils]] to make the desert crossing survivable on a repeatable basis. The first formal diplomatic exchange occurred approximately one hundred and eighty years ago. The relationship has been complicated ever since.
@@ -31,6 +35,8 @@ Regular contact between the kingdoms became possible when [[Auralis]] developed 
 The general shape of the Contact Period is: initial cautious exchange, growing economic interdependence, philosophical friction as each kingdom's culture encountered the other's assumptions, and a slow accumulation of strategic competition as both kingdoms recognized that they wanted incompatible things from a world that only had one of everything.
 
 There have been [[The Three Near-Wars|three near-wars]] in this period. None became actual wars. The desert remains the most effective peace-keeping mechanism in Solumoran history — the logistics of projecting military force across it are sufficiently difficult that neither kingdom has yet concluded the benefits outweigh the costs.
+
+For the long-memory model of emergency controls becoming permanent, see [[The Ashford Blockade Generation]].
 
 ## The Present Situation
 

@@ -1,0 +1,454 @@
+{
+  "concept": "The Ancient Civilization Final Generation",
+  "top_pages": [
+    {
+      "id": "The Ancient Civilization Final Generation",
+      "path": "content/The Ancient Civilization Final Generation.md",
+      "title": "The Historical Evidence Problem",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 202,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "The Historical Evidence Problem",
+          "start_line": 5,
+          "end_line": 21,
+          "preview": "Ancient civilization is poorly documented in both human and demon institutional memory:"
+        },
+        {
+          "section": "Reconstructed Characteristics: What We Think We Know",
+          "start_line": 22,
+          "end_line": 25,
+          "preview": "Based on fragmentary evidence, ancient civilization appears to have been:"
+        },
+        {
+          "section": "Technologically Advanced",
+          "start_line": 26,
+          "end_line": 35,
+          "preview": "**Evidence**:"
+        },
+        {
+          "section": "Geographically Extensive",
+          "start_line": 36,
+          "end_line": 45,
+          "preview": "**Evidence**:"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 722,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 694,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 462,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "High Demons",
+      "path": "content/High Demons.md",
+      "title": "Appearance",
+      "why": "seed_outlink",
+      "score": 350,
+      "line_count": 67,
+      "outlink_count": 21,
+      "read_plan": [
+        {
+          "section": "Appearance",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "A High Demon in its natural state is indistinguishable from a human being except for a single feature: horns. The horns vary in shape and size between individuals but are always present and cannot be fully concealed with"
+        },
+        {
+          "section": "Nature",
+          "start_line": 9,
+          "end_line": 16,
+          "preview": "High Demons are native to the Flux dimension. They did not originate in Solumora, do not consider it home, and do not have loyalty to either kingdom or any institution within them. They are curious, patient, and possesse"
+        },
+        {
+          "section": "The Hunting Period",
+          "start_line": 17,
+          "end_line": 30,
+          "preview": "Approximately four hundred years ago, a young High Demon who had been in Solumora for less than a decade lost control of their spell in a populated area. The incident killed a horse outright, killed one person, and left "
+        },
+        {
+          "section": "Flux Ability",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "Each High Demon has exactly one spell \u2014 a single discipline that is effectively genetic, determined at origin rather than learned. They have no ability to cast outside this discipline. Within it, they have effectively un"
+        }
+      ]
+    },
+    {
+      "id": "Fennick",
+      "path": "content/Fennick.md",
+      "title": "Appearance",
+      "why": "seed_outlink",
+      "score": 344,
+      "line_count": 35,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "Appearance",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Fennick presents as a man in his apparent thirties: sharp-featured, expressive, with the particular energy of someone who has just arrived at a party and immediately made it better. His horns are a genuine problem for ma"
+        },
+        {
+          "section": "Discipline",
+          "start_line": 9,
+          "end_line": 16,
+          "preview": "Fennick's spell is Chemical \u2014 specifically, his relationship to the chemistry of living things. At upper T7 and with six centuries of practice, his control over what a body produces, absorbs, and processes is extraordina"
+        },
+        {
+          "section": "Nature",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Fennick is, genuinely, having a good time. This is not performance. He arrived in [[Solumora]] young and curious and found a world full of creatures who live fast, feel intensely, and build things that don't last \u2014 and h"
+        },
+        {
+          "section": "Current Situation",
+          "start_line": 25,
+          "end_line": 30,
+          "preview": "Fennick follows interesting things. Currently the most interesting things are in [[Auralis]] \u2014 the political tension with [[Terravelle]], the council's obsession with the [[Ancient Ruins|ruins]], the young queen who is s"
+        }
+      ]
+    },
+    {
+      "id": "Venn Drost",
+      "path": "content/Venn Drost.md",
+      "title": "Background",
+      "why": "seed_outlink",
+      "score": 330,
+      "line_count": 131,
+      "outlink_count": 21,
+      "read_plan": [
+        {
+          "section": "Background",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Venn started in guild documentation at twenty-four, hired as a junior filing clerk when the [[Guild Arbitration Bench]] was expanding its record-keeping systems. He was good at the work \u2014 detail-oriented, methodical, wil"
+        },
+        {
+          "section": "The Friendship",
+          "start_line": 13,
+          "end_line": 22,
+          "preview": "Venn met [[Fennick]] when he was thirteen years old, a street child doing casual labor at [[Valdenmoor]] docks after his parents died. [[Fennick]] was coordinating a philosophical discussion series at a public hall near "
+        },
+        {
+          "section": "The Crisis",
+          "start_line": 23,
+          "end_line": 36,
+          "preview": "When [[Terravelle]] issues the Royal Notice declaring cross-kingdom commerce material support for illegitimate government, Venn is the one who has to catalog every guild member with [[Auralis]] business relationships for"
+        },
+        {
+          "section": "The Revelation",
+          "start_line": 37,
+          "end_line": 70,
+          "preview": "\"[[Fennick|Fen]],\" Venn says carefully, during that conversation. \"You're talking about the Persecution Era like you were there.\""
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 319,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Solden Archive",
+      "path": "content/Solden Archive.md",
+      "title": "Site Structure",
+      "why": "seed_outlink",
+      "score": 309,
+      "line_count": 157,
+      "outlink_count": 26,
+      "read_plan": [
+        {
+          "section": "Site Structure",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Solden ruins cover approximately 400 square meters in relatively compact arrangement compared to typical scattered ruins distribution. **Three partially intact walls** form rough U-shape up to 4 meters tall \u2014 tallest sta"
+        },
+        {
+          "section": "The Active Inscriptions",
+          "start_line": 13,
+          "end_line": 22,
+          "preview": "The central array emits faint visible light \u2014 not bright enough to illuminate surrounding area in daylight but clearly perceptible at night as pale blue-white glow. The glow flickers in patterns that repeat on approximat"
+        },
+        {
+          "section": "Secondary Inscriptions",
+          "start_line": 23,
+          "end_line": 32,
+          "preview": "Beyond the Active Array, Solden walls contain extensive inscription coverage showing varying preservation states:"
+        },
+        {
+          "section": "Observed Effects and Phenomena",
+          "start_line": 33,
+          "end_line": 34,
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "id": "The First Contact Era",
+      "path": "content/The First Contact Era.md",
+      "title": "Pre-Contact Human Knowledge",
+      "why": "seed_outlink",
+      "score": 309,
+      "line_count": 172,
+      "outlink_count": 7,
+      "read_plan": [
+        {
+          "section": "Pre-Contact Human Knowledge",
+          "start_line": 5,
+          "end_line": 19,
+          "preview": "Before First Contact Era, human populations maintained folklore traditions about [[High Demons|High Demons]] and other supernatural entities:"
+        },
+        {
+          "section": "The Contact Event",
+          "start_line": 20,
+          "end_line": 36,
+          "preview": "Approximately 1,200 years ago, contact between human and demon civilizations occurred through specific incident:"
+        },
+        {
+          "section": "The Initial Response",
+          "start_line": 37,
+          "end_line": 55,
+          "preview": "Human and demon populations faced institutional choice about how to respond to discovery:"
+        },
+        {
+          "section": "The Documented Coexistence",
+          "start_line": 56,
+          "end_line": 69,
+          "preview": "During First Contact Era, substantial institutional cooperation developed:"
+        }
+      ]
+    },
+    {
+      "id": "Kess Vorn",
+      "path": "content/Kess Vorn.md",
+      "title": "Background",
+      "why": "seed_outlink",
+      "score": 307,
+      "line_count": 80,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "Background",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "Kess came to ruins work by accident. She was working salt extraction in the northern desert edge after dropping out of [[Crestward Flux Institute]]'s Applied Studies program (couldn't afford continued tuition, couldn't s"
+        },
+        {
+          "section": "The Abandonment",
+          "start_line": 15,
+          "end_line": 24,
+          "preview": "Three days after the [[Thel Reach]] incursion, [[Solden Archive]] receives an institutional directive: all T3+ personnel are to report to [[Crestward Flux Institute]] for reassignment to military support roles. Research "
+        },
+        {
+          "section": "What She Knows",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "Kess has physically handled material that scholars only examined through controlled settings:"
+        },
+        {
+          "section": "Motivation",
+          "start_line": 39,
+          "end_line": 48,
+          "preview": "Kess doesn't have grand political objectives. She's not trying to stop the war single-handedly or make a statement about institutional priorities. What she wants is for someone to understand that the [[Ancient Ruins|ruin"
+        }
+      ]
+    },
+    {
+      "id": "Archive Custodian Lineages",
+      "path": "content/Archive Custodian Lineages.md",
+      "title": "Role of Custodians",
+      "why": "seed_outlink",
+      "score": 303,
+      "line_count": 31,
+      "outlink_count": 7,
+      "read_plan": [
+        {
+          "section": "Role of Custodians",
+          "start_line": 5,
+          "end_line": 15,
+          "preview": "Custodians were not passive librarians. They handled:"
+        },
+        {
+          "section": "Failure Mode",
+          "start_line": 16,
+          "end_line": 24,
+          "preview": "Lineage records suggest two collapse pathways:"
+        },
+        {
+          "section": "Strategic Consequence",
+          "start_line": 25,
+          "end_line": 31,
+          "preview": "Modern institutions repeating final-generation mistakes now prioritize stockpiling over interpretation. Without trained custodial traditions, recovered records can increase panic or be weaponized politically."
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Archive Custodian Lineages",
+      "Final-Generation Ethics of Sacrifice",
+      "History",
+      "History of Solumora",
+      "The Constitutional War Path",
+      "The Dimensional Rift Phenomenon in Ancient Civilization",
+      "The Evacuation Lattices",
+      "The Failsafe Vault Migrations",
+      "The Last Survey Conclaves",
+      "The Partition Works",
+      "The Silent Departure Thesis",
+      "The Terminal Councils",
+      "Venn Drost"
+    ],
+    "outlinks": [
+      "Archive Custodian Lineages",
+      "Auralis",
+      "Fennick",
+      "Final-Generation Ethics of Sacrifice",
+      "High Demons",
+      "Kess Vorn",
+      "Solden Archive",
+      "Terravelle",
+      "The Evacuation Lattices",
+      "The Failsafe Vault Migrations",
+      "The First Contact Era",
+      "The Last Survey Conclaves",
+      "The Partition Works",
+      "The Silent Departure Thesis",
+      "The Terminal Councils",
+      "Venn Drost"
+    ]
+  }
+}

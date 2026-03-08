@@ -119,6 +119,16 @@ Multiple de-escalation opportunities exist but become progressively harder to ac
 
 Each off-ramp requires political leaders accepting costs (admitting error, backing down from stated positions, appearing weak to domestic audiences) to avoid greater costs (war casualties, economic collapse, institutional breakdown). Before crisis intensifies: accepting costs is rational. As crisis intensifies: accepting costs becomes politically impossible while greater costs remain hypothetical future rather than immediate accountability liability.
 
+## Historical Pressure Stack
+
+The current crisis sits on three historical layers now directly documented in the archive:
+
+- [[The Ancient Persecution Era]] and its institutional mechanics show how fear-based governance hardens into persecution and then persists through self-protection.
+- [[The Ashford Blockade Generation]] shows how temporary emergency controls become permanent extraction and mobility governance.
+- [[The Ancient Civilization Final Generation]] shows late-stage crisis triage, archive migration, and emergency rule becoming structural.
+
+These layers matter because present-day actors are repeating all three patterns simultaneously: legitimacy contest, movement control, and hidden triage.
+
 ## Current Status
 
 Day 30+ into constitutional crisis. Escalation continues:

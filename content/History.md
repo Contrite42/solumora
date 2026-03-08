@@ -8,6 +8,7 @@ For a broad narrative overview, see [[History of Solumora]].
 
 **Before Records** — The ancient civilization that built the ruins in the Equatorial Desert. What they were, what they built, and what ended them is still being reconstructed.
 → [[The Ancient Civilization]]
+→ [[The Ancient Civilization Final Generation]]
 → [[The Desert Barrier]] — why the equatorial zone became and remains uninhabitable
 
 **The Founding Period** (approximately 600 years ago) — The emergence of [[Terravelle]] and [[Auralis]] from scattered settlements on either side of the desert. The two kingdoms developed independently and arrived at different answers to the same world.
@@ -17,6 +18,10 @@ For a broad narrative overview, see [[History of Solumora]].
 **The Isolation Era** (approximately 600–200 years ago) — Four centuries of independent development. The [[Grimoires|grimoire tradition]] emerged and spread through both kingdoms. The [[The Persecution Era|Persecution Era]] — an episode of community-level violence against suspected high-tier casters — belongs to this period.
 → [[The Grimoire Tradition]] — how grimoires developed and spread as the primary technology of Flux access
 → [[The Persecution Era]] — two centuries of decentralized violence and its connection to High Demon presence
+→ [[The Ancient Persecution Era]]
+
+**Blockade Memory Layer** (approximately 300–200 years ago) — The transition by which Ashford emergency control became durable blockade governance and administrative extraction.
+→ [[The Ashford Blockade Generation]]
 
 **The Contact Period** (approximately 200 years ago to present) — Regular contact between the kingdoms began when Auralis developed thermal sigils capable of making the desert crossing repeatable. The relationship has been complicated ever since.
 → [[The First Contact]] — the first crossing, the first diplomatic exchanges, the beginning of economic interdependence
