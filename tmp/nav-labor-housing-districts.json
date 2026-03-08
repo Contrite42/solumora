@@ -1,0 +1,334 @@
+{
+  "concept": "Labor and Housing",
+  "top_pages": [
+    {
+      "id": "Coastal and River Shipping Cycles",
+      "path": "content/Coastal and River Shipping Cycles.md",
+      "title": "Coastal and River Shipping Cycles",
+      "why": "seed_backlink",
+      "score": 267,
+      "line_count": 132,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Coastal and River Shipping Cycles",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "Shipping in [[Solumora]] operates within rigid seasonal constraints shaped by weather patterns, river conditions, and maritime hazards. The profitability and viability of shipping depend entirely on understanding and wor"
+        },
+        {
+          "section": "The Cycle Patterns",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "**Coastal shipping** and **river transport** operate on different seasonal calendars because they respond to different environmental pressures. Coastal operations face storm seasonality; river operations face water-level"
+        },
+        {
+          "section": "River Cycles",
+          "start_line": 9,
+          "end_line": 24,
+          "preview": "**Spring Thaw Surge (Thawmark through Firstgreen):**"
+        },
+        {
+          "section": "Coastal Cycles",
+          "start_line": 25,
+          "end_line": 42,
+          "preview": "**Storm Complexity (Thawmark through Plantmoon):**"
+        }
+      ]
+    },
+    {
+      "id": "Food System Labor Dependencies",
+      "path": "content/Food System Labor Dependencies.md",
+      "title": "Production Labor",
+      "why": "seed_backlink",
+      "score": 265,
+      "line_count": 147,
+      "outlink_count": 15,
+      "read_plan": [
+        {
+          "section": "Production Labor",
+          "start_line": 3,
+          "end_line": 6,
+          "preview": "Food systems depend on agricultural workers, fishers, and herders."
+        },
+        {
+          "section": "Agricultural Workers",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "The [[Maren Valley]] produces [[Terravelle]]'s primary grain supply through work by 20,000-30,000 seasonal and permanent agricultural workers."
+        },
+        {
+          "section": "Fishing Labor",
+          "start_line": 17,
+          "end_line": 26,
+          "preview": "Coastal fishing employs 1000-2000 active fishers and 2000-3000 processing workers supporting maritime-based food production."
+        },
+        {
+          "section": "Herding and Dairy Labor",
+          "start_line": 27,
+          "end_line": 34,
+          "preview": "Mountain herding (goat, sheep) and lowland dairy operations employ 500-1000 workers producing milk, cheese, and meat."
+        }
+      ]
+    },
+    {
+      "id": "Urban Labor Surge and Slack Cycles",
+      "path": "content/Urban Labor Surge and Slack Cycles.md",
+      "title": "Urban Labor Surge and Slack Cycles",
+      "why": "seed_backlink",
+      "score": 264,
+      "line_count": 200,
+      "outlink_count": 14,
+      "read_plan": [
+        {
+          "section": "Urban Labor Surge and Slack Cycles",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "Urban employment in [[Solumora]] cities is not steady work. It is seasonal labor compressed into intense periods interrupted by weeks or months of minimal income and high unemployment. Understanding urban seasonal labor "
+        },
+        {
+          "section": "Seasonal Employment Pattern",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "Urban labor demand follows agricultural and trade cycles rather than independent urban rhythms."
+        },
+        {
+          "section": "Spring Surge (Firstgreen through Brightward)",
+          "start_line": 9,
+          "end_line": 29,
+          "preview": "**Duration:** 6-8 weeks of maximum employment availability"
+        },
+        {
+          "section": "Summer Maintenance (Brightward through Harvestfirst)",
+          "start_line": 30,
+          "end_line": 46,
+          "preview": "**Duration:** 8-10 weeks of moderate employment"
+        }
+      ]
+    },
+    {
+      "id": "Agricultural and Storage Work Rhythms",
+      "path": "content/Agricultural and Storage Work Rhythms.md",
+      "title": "Agricultural and Storage Work Rhythms",
+      "why": "seed_backlink",
+      "score": 263,
+      "line_count": 149,
+      "outlink_count": 13,
+      "read_plan": [
+        {
+          "section": "Agricultural and Storage Work Rhythms",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "The agricultural cycle governs the survival timeline for most inhabitants of [[Solumora]]. What gets planted, when harvests complete, and how food stores are managed determine whether households remain solvent or face wi"
+        },
+        {
+          "section": "The Agricultural Year",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "**[[Terravelle]] Cycle (Temperate Northern Agriculture):**"
+        },
+        {
+          "section": "Planning and Preparation (Colden through Firstgreen)",
+          "start_line": 9,
+          "end_line": 18,
+          "preview": "Winter is not rest. It is planning season. Farmers review the previous year's harvest records, assess soil condition, negotiate field rotations with neighbors (shared land management prevents conflicts), and plan which f"
+        },
+        {
+          "section": "Planting (Firstgreen through Plantmoon)",
+          "start_line": 19,
+          "end_line": 26,
+          "preview": "Ground thaw triggers planting frenzy. Temperature still risks frost, so timing is critical: too early and seeds rot, too late and harvest window shortens unacceptably. Farmers in [[Maren Valley]] rely on [[The Solumoran "
+        }
+      ]
+    },
+    {
+      "id": "Resource Extraction Seasonal Work and Weather Constraints",
+      "path": "content/Resource Extraction Seasonal Work and Weather Constraints.md",
+      "title": "Resource Extraction Seasonal Work and Weather Constraints",
+      "why": "seed_backlink",
+      "score": 261,
+      "line_count": 181,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Resource Extraction Seasonal Work and Weather Constraints",
+          "start_line": 1,
+          "end_line": 4,
+          "preview": "Mining and logging operations operate on rigid seasonal constraints defined by weather rather than market demand. Unlike trade or agriculture which can adapt timing, extraction operations are bound by when terrain is pas"
+        },
+        {
+          "section": "Mining Operations Calendar",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "**Stenn Ridge** (characteristic [[Terravelle]] hill mining operation) operates on weather-determined schedule:"
+        },
+        {
+          "section": "Operating Season (Plantmoon through Coolward)",
+          "start_line": 9,
+          "end_line": 20,
+          "preview": "**Duration:** Approximately 6-7 months of active mining"
+        },
+        {
+          "section": "Shutdown Season (Colden through Plantmoon)",
+          "start_line": 21,
+          "end_line": 34,
+          "preview": "**Duration:** 5-6 months minimal activity"
+        }
+      ]
+    },
+    {
+      "id": "Temporary Housing Pressure",
+      "path": "content/Temporary Housing Pressure.md",
+      "title": "Temporary Housing Pressure",
+      "why": "seed_backlink",
+      "score": 261,
+      "line_count": 65,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Temporary Housing Pressure",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Temporary Housing Pressure** describes the recurrent mismatch between short-term shelter demand and available beds in labor districts, crossing towns, and clinic-adjacent neighborhoods."
+        },
+        {
+          "section": "Demand Drivers",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "Temporary housing demand increases under five recurring conditions:"
+        },
+        {
+          "section": "Supply Structure",
+          "start_line": 19,
+          "end_line": 29,
+          "preview": "Short-cycle shelter supply is distributed across:"
+        },
+        {
+          "section": "Operational Behaviors Under Strain",
+          "start_line": 30,
+          "end_line": 40,
+          "preview": "When pressure rises, shelter managers and district offices adopt survival policies:"
+        }
+      ]
+    },
+    {
+      "id": "Emergency Utility Work Crews",
+      "path": "content/Emergency Utility Work Crews.md",
+      "title": "Emergency Utility Work Crews",
+      "why": "seed_backlink",
+      "score": 260,
+      "line_count": 53,
+      "outlink_count": 10,
+      "read_plan": [
+        {
+          "section": "Emergency Utility Work Crews",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Emergency Utility Work Crews** are rapid-response teams assembled to restore minimum service when Greyveil infrastructure failures exceed routine neighborhood repair capacity."
+        },
+        {
+          "section": "Activation Conditions",
+          "start_line": 7,
+          "end_line": 17,
+          "preview": "Crew activation is triggered by:"
+        },
+        {
+          "section": "Operating Model",
+          "start_line": 18,
+          "end_line": 27,
+          "preview": "Crews use a three-phase model:"
+        },
+        {
+          "section": "Resourcing Constraints",
+          "start_line": 28,
+          "end_line": 38,
+          "preview": "Common constraints include:"
+        }
+      ]
+    },
+    {
+      "id": "Greyveil Water Interruption Episodes",
+      "path": "content/Greyveil Water Interruption Episodes.md",
+      "title": "Greyveil Water Interruption Episodes",
+      "why": "seed_backlink",
+      "score": 260,
+      "line_count": 54,
+      "outlink_count": 10,
+      "read_plan": [
+        {
+          "section": "Greyveil Water Interruption Episodes",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "**Greyveil Water Interruption Episodes** are recurring service failures in which district wells or distribution points fall below minimum daily output for periods long enough to disrupt household and market continuity."
+        },
+        {
+          "section": "Typical Episode Sequence",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "A standard interruption sequence looks like this:"
+        },
+        {
+          "section": "Primary Drivers",
+          "start_line": 19,
+          "end_line": 29,
+          "preview": "Field reporting ties episodes to four drivers:"
+        },
+        {
+          "section": "District Effects",
+          "start_line": 30,
+          "end_line": 39,
+          "preview": "Water interruptions have uneven impacts:"
+        }
+      ]
+    },
+    {
+      "id": "Food Labor Housing and Household Survival",
+      "path": "content/Food Labor Housing and Household Survival.md",
+      "title": "Household Income and Food Budget",
+      "why": "seed_backlink",
+      "score": 259,
+      "line_count": 151,
+      "outlink_count": 9,
+      "read_plan": [
+        {
+          "section": "Household Income and Food Budget",
+          "start_line": 3,
+          "end_line": 6,
+          "preview": "The fundamental equation determining food security."
+        },
+        {
+          "section": "Baseline Calculation: Working-Class Household (Family of 4)",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "**Household income:** Typical working-class household (two adults, two children) earning 8-15 Watts per person daily across adult earners: 16-30 Watts daily, ~450-700 Watts weekly, ~2300-3600 Watts annually."
+        },
+        {
+          "section": "Seasonal Household Income Variation",
+          "start_line": 17,
+          "end_line": 28,
+          "preview": "Food budget adequacy depends on seasonal employment patterns."
+        },
+        {
+          "section": "Household Coping Strategies",
+          "start_line": 29,
+          "end_line": 40,
+          "preview": "**Surplus accumulation (autumn):** During harvest peak (abundance + peak income), households buy additional grain (if income permits) and preserve goods. Goal: build 4-8 week buffer for winter."
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Agricultural and Storage Work Rhythms",
+      "Coastal and River Shipping Cycles",
+      "Emergency Utility Work Crews",
+      "Food Labor Housing and Household Survival",
+      "Food System Labor Dependencies",
+      "Greyveil Water Interruption Episodes",
+      "Resource Extraction Seasonal Work and Weather Constraints",
+      "Temporary Housing Pressure",
+      "Urban Labor Surge and Slack Cycles"
+    ],
+    "outlinks": []
+  }
+}

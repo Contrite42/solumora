@@ -7,7 +7,7 @@
 
 ## Summary
 
-Completed USER-008 root-page normalization, spell-policy enforcement, and the dedicated backlog batch-1 no-orphans integrity cycle.
+Completed USER-008 root-page normalization, spell-policy enforcement, dedicated no-orphans integrity audit, and the labor/housing district expansion cycle.
 
 ## Completed Outputs (This Cycle)
 
@@ -19,14 +19,22 @@ Completed USER-008 root-page normalization, spell-policy enforcement, and the de
 - Added/updated: `agent/reports/inconsistencies.md`
 - Added/updated: `agent/reports/links_applied.md`
 - Added: `agent/staging/PENDING_REVIEW.md` checklist block for no-orphans run
+- Added: `content/Solhaven Shift-Roster Volatility.md`
+- Added: `content/Terrace Rent Escalation in Solhaven.md`
+- Added: `content/Valdenmoor Certification Bottlenecks.md`
+- Added: `content/Valdenmoor Seasonal Tenancy Rotation.md`
+- Added: `content/Ashford Dockside Bedspace Markets.md`
+- Added: `content/Ashford Informal Hiring Rings.md`
+- Updated: `content/Life in Solhaven.md`, `content/Life in Valdenmoor.md`, `content/Life in Ashford.md`
 - Refreshed: `tmp/concept-graph.json`, `tmp/context-index.json`
-- Generated: `tmp/nav-root-solumora.json`, `tmp/nav-spell-policy.json`, `tmp/no-orphans-audit.json`
+- Generated: `tmp/nav-root-solumora.json`, `tmp/nav-spell-policy.json`, `tmp/no-orphans-audit.json`, `tmp/nav-labor-housing-districts.json`
 
 ## Verification
 
 - Root-page normalization build validation passed.
 - Spell-policy pass verified `content/Spells/` is empty and no `[[Spells/...]]` links remain.
 - No-orphans audit executed: `FAIL` (10 outbound violations, 61 inbound violations, 151 unresolved targets), documented for remediation.
+- Labor/housing expansion build validation passed on 637 input files.
 
 Default navigation method (run from repo root):
 

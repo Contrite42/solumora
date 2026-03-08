@@ -569,10 +569,11 @@ Additive backlog generated from a full-world thin-page and systems audit. These 
       **Owner:** `Copilot Auto`
       **Status:** COMPLETE — Eight food systems pages created: Urban Food Markets and Daily Consumption (~2100w), Food System Labor Dependencies (~2000w), Food Shortage Cascades and Disruption Failure Modes (~2200w), Solhaven Food Economy and Urban Vulnerability (~2200w), Valdenmoor Food Economy and Agricultural Pressure (~2100w), Kitchen Operations and Food Preparation (~2000w), Urban Food System Vulnerabilities and Pressure Points (~2300w), Food Labor Housing and Household Survival (~2400w). Two existing city pages appended: Life in Solhaven.md added "Food Security and Market Access" and "Food Labor and Urban System" sections (~1500w total); Life in Valdenmoor.md added "Agricultural Pressure and Food Economy" and "Food Labor and Guild Survival" sections (~1400w total). All pages cross-linked (11-18 outbound per page). Navigation refreshed: concept-graph 728 nodes (8002 edges, 604 pages). 2026-03-08 completion.
 
-- [ ] **Goal:** Expand labor and housing reality in major city districts.
+- [x] **Goal:** Expand labor and housing reality in major city districts.
       **Constraints:** Keep focus on recurring stressors: rent pressure, shift rhythms, credential barriers, and household survival decisions. No sudden industrial-tech jumps.
       **Output:** 6-8 notes (district-level housing/labor patterns in Solhaven, Valdenmoor, Ashford) + updates to corresponding "Life in" pages.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — Six district labor/housing notes created (`Solhaven Shift-Roster Volatility`, `Terrace Rent Escalation in Solhaven`, `Valdenmoor Certification Bottlenecks`, `Valdenmoor Seasonal Tenancy Rotation`, `Ashford Dockside Bedspace Markets`, `Ashford Informal Hiring Rings`) plus synthesis updates appended to `Life in Solhaven.md`, `Life in Valdenmoor.md`, and `Life in Ashford.md`. Navigation refreshed to 637 pages and task nav pack generated (`tmp/nav-labor-housing-districts.json`). 2026-03-07.
 
 - [ ] **Goal:** Deepen religion-in-practice beyond doctrine pages.
       **Constraints:** Existing religion framework exists; add how rituals actually appear in households, routes, ports, and workplaces. Must include disagreement between official and folk practice.

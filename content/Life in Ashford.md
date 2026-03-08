@@ -60,4 +60,12 @@ A person and people living undocumented in [[Ashford]] understand certain truths
 
 For a ground-level fiction account centered on false papers, registry pressure, and transition attempts into formal ledgers, see [[Stories/Ashford False Papers]].
 
-_See also: [[Ashford]], [[Terravelle]], [[Birth Runes]], [[Watts]], [[Solhaven]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Ascendant Path]], [[Nara Celd]], [[Yena Falt]], [[Sable Morn]], [[Ilke Vann]], [[Pell Vastl]], [[Cavel Dorst]], [[Doss Varn]], [[Collen Mast]], [[Drev Oln]], [[Orre Cavlt]], [[Stories/Ashford False Papers]]_
+## Dockside Labor and Bedspace Reality
+
+In the lowest tiers of [[Ashford]], work access and housing access are the same negotiation viewed from different sides. [[Ashford Informal Hiring Rings]] describes how coordinators, foremen, and boarding operators form practical placement loops that keep labor flowing when formal dispatch slows.
+
+The housing side of that loop is documented in [[Ashford Dockside Bedspace Markets]], where sleep is often purchased by time block rather than by room tenancy. This system keeps people housed in high-volatility conditions, but it also amplifies small income disruptions: one missed shift can become one missed bed payment, then a missed hiring window, then a deeper income break.
+
+For undocumented residents and short-cycle workers, the central risk is usually not one catastrophic eviction event. It is rolling displacement and fatigue. The city remains workable because people absorb those costs privately and repeatedly.
+
+_See also: [[Ashford]], [[Terravelle]], [[Birth Runes]], [[Watts]], [[Solhaven]], [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Control Tier]], [[Ascendant Path]], [[Nara Celd]], [[Yena Falt]], [[Sable Morn]], [[Ilke Vann]], [[Pell Vastl]], [[Cavel Dorst]], [[Doss Varn]], [[Collen Mast]], [[Drev Oln]], [[Orre Cavlt]], [[Stories/Ashford False Papers]], [[Ashford Informal Hiring Rings]], [[Ashford Dockside Bedspace Markets]]_
