@@ -1,0 +1,388 @@
+{
+  "concept": "Stories/Fifty-Eight Days After the First Casualty - Lantern Stacks",
+  "top_pages": [
+    {
+      "id": "Stories/Fifty-Eight Days After the First Casualty - Lantern Stacks",
+      "path": "content/Stories/Fifty-Eight Days After the First Casualty - Lantern Stacks.md",
+      "title": "Fifty-Eight Days After the First Casualty - Lantern Stacks",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 95,
+      "outlink_count": 9,
+      "read_plan": [
+        {
+          "section": "Fifty-Eight Days After the First Casualty - Lantern Stacks",
+          "start_line": 1,
+          "end_line": 95,
+          "preview": "Greyveil's Lantern Stacks district is the wrong place for clean decisions. Too many narrow lanes, too many private archives, too many doors that do not open for strangers."
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 488,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 468,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 467,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Greyveil",
+      "path": "content/Greyveil.md",
+      "title": "The Wolfpoint Connection",
+      "why": "seed_outlink",
+      "score": 364,
+      "line_count": 36,
+      "outlink_count": 15,
+      "read_plan": [
+        {
+          "section": "The Wolfpoint Connection",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Most of what [[Terravelle]] officially knows about [[Wolfpoint]] arrived via Greyveil. The city has a small but established community of traders who make the northern run regularly, and a few individuals who have spent t"
+        },
+        {
+          "section": "Character",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "Greyveil itself is a frontier city in the practical sense: resourceful, self-reliant, and accustomed to being the last place that has something before the map runs out. It has a trade culture built on serving travelers g"
+        },
+        {
+          "section": "Relay Operations",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "Greyveil's practical leverage in northern logistics is the [[Greyveil-Wolfpoint Relay Track]]. Dispatch houses here handle packet intake, copy protocols, and relay scheduling for correspondence and compact high-value goo"
+        },
+        {
+          "section": "Municipal Friction Layer",
+          "start_line": 25,
+          "end_line": 36,
+          "preview": "Greyveil's current strain is increasingly visible in recurring service conflicts rather than headline crises."
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_outlink",
+      "score": 356,
+      "line_count": 127,
+      "outlink_count": 41,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    },
+    {
+      "id": "High Demons",
+      "path": "content/High Demons.md",
+      "title": "Appearance",
+      "why": "seed_outlink",
+      "score": 353,
+      "line_count": 67,
+      "outlink_count": 21,
+      "read_plan": [
+        {
+          "section": "Appearance",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "A High Demon in its natural state is indistinguishable from a human being except for a single feature: horns. The horns vary in shape and size between individuals but are always present and cannot be fully concealed with"
+        },
+        {
+          "section": "Nature",
+          "start_line": 9,
+          "end_line": 16,
+          "preview": "High Demons are native to the Flux dimension. They did not originate in Solumora, do not consider it home, and do not have loyalty to either kingdom or any institution within them. They are curious, patient, and possesse"
+        },
+        {
+          "section": "The Hunting Period",
+          "start_line": 17,
+          "end_line": 30,
+          "preview": "Approximately four hundred years ago, a young High Demon who had been in Solumora for less than a decade lost control of their spell in a populated area. The incident killed a horse outright, killed one person, and left "
+        },
+        {
+          "section": "Flux Ability",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "Each High Demon has exactly one spell \u2014 a single discipline that is effectively genetic, determined at origin rather than learned. They have no ability to cast outside this discipline. Within it, they have effectively un"
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 320,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Merra Veld",
+      "path": "content/Merra Veld.md",
+      "title": "Merra Veld",
+      "why": "seed_outlink",
+      "score": 309,
+      "line_count": 65,
+      "outlink_count": 10,
+      "read_plan": [
+        {
+          "section": "Merra Veld",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Merra Veld is a [[Tier 2]] practitioner specializing in desert expedition rescue and recovery operations. She has spent twelve years working the [[Equatorial Desert]] crossing routes, initially as a guide assistant and p"
+        },
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "Merra began desert work at twenty-two, joining [[Nessa Keld]]'s expedition logistics network as a supply coordinator. Her early years were unremarkable: route documentation, water cache management, emergency supply drops"
+        },
+        {
+          "section": "Reputation and Network",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Over the following eight years, Merra built a reputation as someone expedition teams call when high-tier leadership has already failed. She does not advertise, does not maintain formal credentials beyond her guild regist"
+        },
+        {
+          "section": "Personal Philosophy",
+          "start_line": 25,
+          "end_line": 32,
+          "preview": "Merra does not describe herself as a hero. She describes herself as someone tired of recovering bodies from disasters caused by people who refused to listen. She has a documented history of tracking institutional decisio"
+        }
+      ]
+    },
+    {
+      "id": "Jess Maren",
+      "path": "content/Jess Maren.md",
+      "title": "Jess Maren",
+      "why": "seed_outlink",
+      "score": 306,
+      "line_count": 79,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Jess Maren",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Jess Maren is a [[Control Tier|Tier 0]] supply coordination specialist with twenty-two years of experience in emergency resource management across [[Terravelle]]'s civic and military logistics networks. She is forty-seve"
+        },
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "Jess began her logistics career at nineteen as a warehouse inventory clerk in [[Ashford]], working for what would eventually become the [[Maren Freight Chain]]. Her early years taught her how supply chains actually funct"
+        },
+        {
+          "section": "Expertise and Philosophy",
+          "start_line": 19,
+          "end_line": 31,
+          "preview": "Jess does not have magical power. She has:"
+        },
+        {
+          "section": "Current Status and War-Sequence Relevance",
+          "start_line": 32,
+          "end_line": 41,
+          "preview": "As of the present timeline\u2014sixty days post-[[Kellvost Incursion]]\u2014Jess is operating as a civilian logistics consultant attached to Terravelle's [[Border Coordination Offices]]. Her role: modeling supply requirements for "
+        }
+      ]
+    },
+    {
+      "id": "Kess Tarren",
+      "path": "content/Kess Tarren.md",
+      "title": "Kess Tarren",
+      "why": "seed_outlink",
+      "score": 306,
+      "line_count": 75,
+      "outlink_count": 13,
+      "read_plan": [
+        {
+          "section": "Kess Tarren",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Kess Tarren is a [[Control Tier|Tier 4]] independent scholar specializing in [[Ancient Ruins|pre-collapse civilization]] architecture, inscription analysis, and dimensional mechanics. She is thirty-nine years old, Aurali"
+        },
+        {
+          "section": "Background and Academic Career",
+          "start_line": 7,
+          "end_line": 22,
+          "preview": "Kess entered ruins research at twenty-five, immediately after completing advanced study in [[Discipline|Enchanting]] and [[Flux]] theory at [[Aldrane Academy]]. She was recruited into the Council's ruins program based on"
+        },
+        {
+          "section": "Independent Research and Current Work",
+          "start_line": 23,
+          "end_line": 32,
+          "preview": "Since leaving the Council program, Kess has focused on re-analyzing existing ruins documentation with particular attention to what the ancients were **trying to prevent** rather than what they were trying to achieve. Her"
+        },
+        {
+          "section": "Relevance to War and Rift Cascade Threat",
+          "start_line": 33,
+          "end_line": 42,
+          "preview": "Kess has been tracking the [[Kellvost Incursion]] and subsequent rift activity escalation with increasing alarm. Her assessment, published in an open letter to both kingdoms' academic institutions two weeks post-Kellvost"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Flux Anomalies and Rifts",
+      "Greyveil",
+      "High Demons",
+      "Jess Maren",
+      "Kess Tarren",
+      "Merra Veld",
+      "Persecution Era",
+      "Teren Voss",
+      "The Three Near-Wars"
+    ]
+  }
+}

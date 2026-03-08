@@ -1,4 +1,4 @@
-# Current Task: Major Narrative Arc — War and Resolution (Phase 2)
+# Current Task: Major Narrative Arc — War and Resolution (Phase 3)
 
 **Status:** In Progress
 **Owner:** Codex
@@ -7,7 +7,7 @@
 
 ## Summary
 
-Executing Decision F through a multi-phase arc focused on competence-over-power leadership, rift cascade prevention, and forced High Demon revelation. Phase 1 completed the war trigger and core party entities; Phase 2 begins assembly through linked operational stories.
+Executing Decision F through a multi-phase arc focused on competence-over-power leadership, rift cascade prevention, and forced High Demon revelation. Phase 1 completed war trigger plus core party entities; Phase 2 assembled the operating team; Phase 3 advances verification, institutional stall, and first direct alliance with Verath.
 
 ## Completed Outputs
 
@@ -27,11 +27,19 @@ Executing Decision F through a multi-phase arc focused on competence-over-power 
 - Created: `content/Stories/Forty-Five Days After the First Casualty - Dry Warehouse Nine.md`
 - Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
 
+### Phase 3: Investigation + Escalation (in progress)
+
+- Created: `content/Stories/Fifty-Eight Days After the First Casualty - Corridor Model.md`
+- Created: `content/Stories/Fifty-Eight Days After the First Casualty - Closed Door Briefing.md`
+- Created: `content/Stories/Fifty-Eight Days After the First Casualty - Lantern Stacks.md`
+- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
+
 ## Status
 
 - Phase 1 complete.
-- Phase 2 in progress.
-- Next phases after assembly: investigation/escalation, revelation/resolution, post-war world-state updates.
+- Phase 2 complete.
+- Phase 3 in progress.
+- Next phases: revelation/resolution and post-war world-state updates.
 
 ## Verification
 

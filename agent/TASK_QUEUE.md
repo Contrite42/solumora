@@ -99,7 +99,8 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Scope:** Multi-phase development (8-12 stories + 25-35 world notes + permanent world transformation).
       **Phase 1 outputs:** War trigger event (Kellvost Incursion), 4 party member character files (Merra Veld, Teren Voss/Verath, Jess Maren, Kess Tarren), Decision F approval documentation.
       **Phase 2 outputs:** 3 party-assembly stories (`Forty-Five Days...` bundle) + `The Three Near-Wars` index update.
-      **Status note:** IN PROGRESS — Phase 1 complete and Phase 2 active on 2026-03-07; assembly sequence established and ready for Phase 3 (Investigation + Escalation)
+      **Phase 3 outputs:** 3 investigation/escalation stories (`Fifty-Eight Days...` bundle) + `The Three Near-Wars` index update.
+      **Status note:** IN PROGRESS — Phase 1 and Phase 2 complete; Phase 3 active on 2026-03-07 with cascade-model proof, institutional stall, and first direct Verath alliance established; ready for Phase 4 (Revelation + Resolution)
 
 ---
 
