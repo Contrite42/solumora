@@ -160,6 +160,17 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Completed outputs:** `Interkingdom Accountability Compact`, `Generational Hand-off Operations Standard`, 3-story `Three Years After...` bundle, and `The Three Near-Wars` update.
       **Status note:** COMPLETE (three-year continuation executed and integrated on 2026-03-07)
 
+- [x] **USER-023 — Persecution Era Foundation Layer (Deep Historical Development)**
+      **Source:** Direct user decision ("yes") following Decision F Component 5 approval (2026-03-08)
+      **Goal:** Build comprehensive 400-200 year persecution-era historical foundation explaining why current coexistence institutions must be procedurally rigorous rather than consensus-based; retroactively justify institutional paranoia and trauma responses; provide lived-experience narrative grounding for governance.
+      **Scope:** 10 institutional/governance notes + 5 personal narrative stories covering persecution mechanics, survival networks, magistrate resistance, failure, and generational trauma persistence.
+      **Completed outputs:** 
+      - Historical mechanics: `The High Demon Incident and Public Revelation`, `Lantern Hunt Mechanics`, `Refuge Networks of the Persecution Era`, `Survivor Lineage Preservation`, `Persecution-Era Magistrate Resistance`, `Persecution-Era Survival Networks and Hidden Commerce`
+      - Early negotiation: `Five Survivors Concord - Early Peace Attempt`, `The Lantern Decrees - Persecution Legal Framework`, `Ashford Witness Amnesty Records - Persecution Era Documentation`, `Persecution Era - The Voss Survival Line`
+      - Narrative stories: `Year 150 of Persecution - The Lantern Failed`, `Year 145 of Persecution - When the Mountain Stops Hunting`, `Year 95 of Persecution - The Merchant's Family Erasure`, `Year 180 of Persecution - The Archive Keeper's Choice`, `Year 190 of Persecution - The Final Hunt`
+      - Hub integration: Added "Historical Foundations: The Persecution Era" section to `The Three Near-Wars.md` with links to all 15 persecution-era files plus context about why persecution history matters for modern coexistence.
+      **Status note:** COMPLETE (persecution-era foundation layer executed and integrated on 2026-03-08; graph artifacts rebuilt and verified with all cache files present)
+
 ---
 
 **Permanent Tasks:**
