@@ -44,12 +44,12 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** new notes + updates to `content/Greyveil.md` and `content/Greyveil Civic Coordination.md`.
       **Status note:** COMPLETE (4-note municipal friction bundle + 2 hub updates completed on 2026-03-07)
 
-- [ ] **USER-007 — Story Bundle: Five Days Before the Breakpoint**
+- [x] **USER-007 — Story Bundle: Five Days Before the Breakpoint**
       **Source:** Narrative demand for character-level perspective during systemic escalation
       **Goal:** Produce 3 tightly linked short stories across different social layers (operator, merchant, household).
       **Scope:** 3 stories in `content/Stories/` anchored to current canon tensions.
       **Required outputs:** 3 story files + one index-style link update in a relevant hub page.
-      **Status note:** IN PROGRESS (activated 2026-03-07)
+      **Status note:** COMPLETE (3 linked stories + index block in `content/The Three Near-Wars.md` completed on 2026-03-07)
 
 ---
 

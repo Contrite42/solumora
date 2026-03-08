@@ -44,4 +44,14 @@ Recent events used as training references include the [[Halveth Customs Seizure 
 
 Current response capacity depends on [[Border De-Escalation Protocols]] that attempt to preserve technical correction windows before narrative escalation hardens reciprocal posture.
 
-_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]]_
+## Story Bundle: Five Days Before the Breakpoint
+
+Three linked short narratives render the same pre-escalation window from different social layers:
+
+- [[Stories/Five Days Before the Breakpoint - Operator]]
+- [[Stories/Five Days Before the Breakpoint - Merchant]]
+- [[Stories/Five Days Before the Breakpoint - Household]]
+
+Taken together, they show how procedural friction, contract risk, and household continuity pressure converge before formal crisis language appears.
+
+_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]], [[Stories/Five Days Before the Breakpoint - Operator]], [[Stories/Five Days Before the Breakpoint - Merchant]], [[Stories/Five Days Before the Breakpoint - Household]]_
