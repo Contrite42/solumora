@@ -118,6 +118,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Completed outputs:** `The Lantern Decrees`, `Five Survivors Concord`, `Ashford Witness Amnesty Records`, and `The Three Near-Wars` update linking precedent to modern governance.
       **Status note:** COMPLETE (historical-depth continuation executed and integrated on 2026-03-07)
 
+- [x] **USER-017 — Continuation: 180-Day Backlash and Codification Layer**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Stress-test coexistence durability under political backlash while codifying emergency governance into treaty institutions.
+      **Scope:** 2 institutional notes + 3 linked stories + near-war hub integration.
+      **Completed outputs:** `Corridor Stabilization Treaty`, `Anti-Persecution Compliance Tribunal`, 3-story `One Hundred Eighty Days...` bundle, and `The Three Near-Wars` update.
+      **Status note:** COMPLETE (codification continuation executed and integrated on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**

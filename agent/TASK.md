@@ -1,4 +1,4 @@
-# Current Task: Post-Arc Continuation — Persecution Precedent Layer
+# Current Task: Post-Arc Continuation — 180-Day Backlash and Codification
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,19 +7,21 @@
 
 ## Summary
 
-Extended continuation with a historical precedent tranche that binds current coexistence governance to concrete persecution-era mechanics and survivor logic, improving doctrinal continuity for post-reveal institutions.
+Extended continuation with treaty codification and backlash stress-testing: formalized corridor governance, stood up compliance adjudication, and validated first appellate protection against persecution-pattern recurrence.
 
 ## Completed Outputs (Continuation Tranche)
 
-- Created: `content/The Lantern Decrees.md`
-- Created: `content/Five Survivors Concord.md`
-- Created: `content/Ashford Witness Amnesty Records.md`
-- Updated: `content/The Three Near-Wars.md` (persecution-precedent links + see-also integration)
+- Created: `content/Corridor Stabilization Treaty.md`
+- Created: `content/Anti-Persecution Compliance Tribunal.md`
+- Created: `content/Stories/One Hundred Eighty Days After the First Casualty - Ratification Hall.md`
+- Created: `content/Stories/One Hundred Eighty Days After the First Casualty - First Appeal.md`
+- Created: `content/Stories/One Hundred Eighty Days After the First Casualty - Winter Convoy.md`
+- Updated: `content/The Three Near-Wars.md` (180-day bundle + codification institutions)
 
 ## Status
 
 - Continuation tranche complete.
-- Canon now extends from first-casualty trigger through 120-day coexistence normalization with explicit persecution-era precedent depth.
+- Canon now extends from first-casualty trigger through 180-day codified coexistence governance under seasonal operational stress.
 
 ## Verification
 
