@@ -587,10 +587,11 @@ Additive backlog generated from a full-world thin-page and systems audit. These 
       **Owner:** `Copilot Auto`
       **Status:** COMPLETE — Upgraded 24 people pages in four themed batches (Port: Lenne Sosk, Oryen Veld, Korvin Selt, Drev Oln, Pell Vastl, Nara Celd; Border: Selt Orvn, Vorn Teld, Cor Meln, Collen Mast, Celn Vard, Ossen Drel; Rural: Maret Doss, Reth Caln, Hallen Vors, Prenn Aldv, Teva Orrn, Mella Seln; Institutional: Ren Valdh, Essa Rolt, Osten Reld, Miren Thask, Sorren Kael, Vessa Oln). Added explicit job routine, non-public fact, institutional tie, and practical stakes blocks to each profile and appended per-batch summaries to `agent/staging/PENDING_REVIEW.md`. 2026-03-08.
 
-- [ ] **Goal:** Build an "information economy" layer for rumors, signals, and narrative control.
+- [x] **Goal:** Build an "information economy" layer for rumors, signals, and narrative control.
       **Constraints:** Distinct from formal courier systems already documented; focus on informal channels, reliability scoring, intentional misinformation, and broker incentives.
       **Output:** 5-7 notes (broker roles, rumor paths, verification habits) + update `content/Ashford-Halveth Courier Road.md` and `content/Political Intelligence.md` with practical interplay sections.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — Added six information-economy notes (`Rumor Brokerage Rings`, `Reliability Scoring for Informal Intelligence`, `Deliberate Misinformation Markets`, `Verification Habits in Trade Communities`, `Signal Relay Freelancers`, `Narrative Laundering Channels`) covering broker roles, rumor paths, verification discipline, misinformation incentives, and signal relays distinct from formal dispatch infrastructure. Updated `content/Ashford-Halveth Courier Road.md` and `content/Political Intelligence.md` with practical interplay sections integrating formal and informal channels. Navigation refreshed to 649 pages (802 nodes, 8824 edges) and task nav pack generated (`tmp/nav-information-economy.json`). 2026-03-08.
 
 - [x] **Goal:** Reconcile and formalize top-level world indexing.
       **Constraints:** `World Index Draft.md` is currently utility-format and not vault-style. Convert into in-world navigation (or archive as admin artifact) without dead links or markdown-link path syntax.

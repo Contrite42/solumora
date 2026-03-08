@@ -20,4 +20,16 @@ The Courier Road functions as more than a physical route — it is a distributed
 
 **Private brokers:** [[Tolla Rend's Intelligence Exchange]] and similar independent information merchants use the Courier Road infrastructure indirectly, by employing couriers on rotation or by maintaining relationships with merchants who operate scheduled cargo along the route. The physical road enables their network by creating the movement patterns they observe.
 
-_See also: [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Trade Guilds]], [[Life in Ashford]], [[Life in Halveth]], [[Meridian Dispatch Network]], [[Desert Signal Network]], [[Merchant House Intelligence Network]], [[Tolla Rend's Intelligence Exchange]]_
+## Informal Information Economy Interplay
+
+The road's reliability depends on a second layer that is not governed by courier contracts: informal information markets that shape how operators interpret risk in real time.
+
+- [[Rumor Brokerage Rings]] move early warnings about inspections, staffing gaps, and route disruptions before formal dispatch updates are issued.
+- [[Signal Relay Freelancers]] bridge node-to-road timing gaps when a claim is too urgent for routine paperwork but still needs quick confidence tagging.
+- [[Reliability Scoring for Informal Intelligence]] determines whether claims trigger immediate operational adjustments or remain in watch status.
+- [[Verification Habits in Trade Communities]] provide the local discipline that prevents high-cost decisions from being driven by single-source noise.
+- [[Deliberate Misinformation Markets]] and [[Narrative Laundering Channels]] exploit the same channels during high-pressure windows, pushing plausible distortions into mixed audiences.
+
+In practice, road coordinators now operate with a dual-track model: formal packets for legal certainty, informal signals for timing and posture. Failures usually occur when one track is treated as sufficient on its own.
+
+_See also: [[Ashford]], [[Halveth]], [[Terravelle]], [[Auralis]], [[Equatorial Desert]], [[Trade Guilds]], [[Life in Ashford]], [[Life in Halveth]], [[Meridian Dispatch Network]], [[Desert Signal Network]], [[Merchant House Intelligence Network]], [[Tolla Rend's Intelligence Exchange]], [[Rumor Brokerage Rings]], [[Reliability Scoring for Informal Intelligence]], [[Signal Relay Freelancers]], [[Verification Habits in Trade Communities]], [[Deliberate Misinformation Markets]], [[Narrative Laundering Channels]]_

@@ -1,4 +1,4 @@
-# Current Task: Character Stub Upgrade Batches
+# Current Task: Information Economy Layer
 
 **Status:** Complete
 **Owner:** Codex (executing Copilot Auto task)
@@ -7,20 +7,27 @@
 
 ## Summary
 
-Completed the thin-character upgrade cycle by expanding 24 `<=12`-line cast pages in four themed batches: port workers, border workers, rural workers, and institutional staff. Each upgraded page now includes explicit operational details for routine, non-public fact, institutional tie, and practical stakes.
+Completed the information-economy expansion cycle focused on informal channels for rumors, signals, reliability scoring, verification habits, and intentional misinformation. Added six new notes and integrated the layer into the two required hub pages with practical interplay sections.
 
 ## Completed Outputs (This Cycle)
 
-- Updated (Port batch): `content/Lenne Sosk.md`, `content/Oryen Veld.md`, `content/Korvin Selt.md`, `content/Drev Oln.md`, `content/Pell Vastl.md`, `content/Nara Celd.md`
-- Updated (Border batch): `content/Selt Orvn.md`, `content/Vorn Teld.md`, `content/Cor Meln.md`, `content/Collen Mast.md`, `content/Celn Vard.md`, `content/Ossen Drel.md`
-- Updated (Rural batch): `content/Maret Doss.md`, `content/Reth Caln.md`, `content/Hallen Vors.md`, `content/Prenn Aldv.md`, `content/Teva Orrn.md`, `content/Mella Seln.md`
-- Updated (Institutional batch): `content/Ren Valdh.md`, `content/Essa Rolt.md`, `content/Osten Reld.md`, `content/Miren Thask.md`, `content/Sorren Kael.md`, `content/Vessa Oln.md`
-- Updated: `agent/staging/PENDING_REVIEW.md` with four `[Copilot Auto]` batch summary blocks
+- Added: `content/Rumor Brokerage Rings.md`
+- Added: `content/Reliability Scoring for Informal Intelligence.md`
+- Added: `content/Deliberate Misinformation Markets.md`
+- Added: `content/Verification Habits in Trade Communities.md`
+- Added: `content/Signal Relay Freelancers.md`
+- Added: `content/Narrative Laundering Channels.md`
+- Updated: `content/Ashford-Halveth Courier Road.md` (informal information-economy interplay section)
+- Updated: `content/Political Intelligence.md` (formal/informal interplay section)
+- Refreshed: `tmp/concept-graph.json` (802 nodes, 8824 edges, 649 pages)
+- Refreshed: `tmp/context-index.json` (649 pages)
+- Generated: `tmp/nav-information-economy.json`
 
 ## Verification
 
-- Confirmed 24 profile files now include `## Operational Profile Update (2026-03-08)` sections
-- Required fields present in each upgraded profile: job routine, non-public fact, institutional tie, practical stakes
+- Build validation passed on 649 input files
+- Navigation artifacts refreshed successfully
+- New notes cross-link to existing communication and intelligence canon while remaining distinct from formal courier systems
 
 Default navigation method (run from repo root):
 

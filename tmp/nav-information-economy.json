@@ -1,0 +1,461 @@
+{
+  "concept": "Political Intelligence",
+  "top_pages": [
+    {
+      "id": "Political Intelligence",
+      "path": "content/Political Intelligence.md",
+      "title": "Political Intelligence",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 175,
+      "outlink_count": 46,
+      "read_plan": [
+        {
+          "section": "Political Intelligence",
+          "start_line": 1,
+          "end_line": 8,
+          "preview": "Political intelligence in Solumora refers to systematically gathered information about power relationships, policy intentions, factional alignments, and institutional decision-making processes."
+        },
+        {
+          "section": "Collection Methods",
+          "start_line": 9,
+          "end_line": 52,
+          "preview": "Political intelligence is gathered through multiple overlapping channels producing different information quality and timeliness."
+        },
+        {
+          "section": "Pattern Recognition",
+          "start_line": 53,
+          "end_line": 80,
+          "preview": "Effective political intelligence requires distinguishing meaningful signals from administrative noise through systematic pattern recognition."
+        },
+        {
+          "section": "Constraints on Use",
+          "start_line": 81,
+          "end_line": 108,
+          "preview": "Political intelligence value is limited by what observers can actually do with information they possess."
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 680,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 655,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 454,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "The Council of Auralis",
+      "path": "content/The Council of Auralis.md",
+      "title": "Structure and Factions",
+      "why": "seed_outlink",
+      "score": 452,
+      "line_count": 92,
+      "outlink_count": 51,
+      "read_plan": [
+        {
+          "section": "Structure and Factions",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "The twenty members divide into three factions with distinct and occasionally competing goals. Alliances shift on specific votes but the factions themselves are stable \u2014 they represent genuine differences in what council "
+        },
+        {
+          "section": "The Culmination Faction",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "The largest faction, eleven members, organized around the council's defining long-term goal: the recovery and completion of whatever the pre-modern civilization in [[Equatorial Desert|Desert Zakros]] was building. The fa"
+        },
+        {
+          "section": "The Expansion Faction",
+          "start_line": 15,
+          "end_line": 20,
+          "preview": "Six members, organized around the straightforward goal of growing [[Auralis]]'s territory, population, and economic base. They are the most conventionally political faction \u2014 interested in trade routes, border security, "
+        },
+        {
+          "section": "Cassia's Faction",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Three members who back [[Cassia]] with genuine loyalty: [[Maren Sollis]], an older woman who served under the previous queen and transferred her allegiance to the infant who survived her; [[Tovan Ashce]], a mid-tier cast"
+        }
+      ]
+    },
+    {
+      "id": "Trade Guilds",
+      "path": "content/Trade Guilds.md",
+      "title": "How Certification Works",
+      "why": "seed_outlink",
+      "score": 448,
+      "line_count": 50,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "How Certification Works",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "Guild certification follows a standard three-stage progression: apprenticeship, journeyman work, and certification assessment. The stages vary in length by trade and in difficulty by the tier grade being sought."
+        },
+        {
+          "section": "Tier Grades and Certification",
+          "start_line": 15,
+          "end_line": 27,
+          "preview": "Most trades have multiple certification grades tied to [[Control Tier]] capability. The grades are trade-specific rather than universal: a T3 certification in structural sigil application means something different from a"
+        },
+        {
+          "section": "The Documentation Standard",
+          "start_line": 28,
+          "end_line": 35,
+          "preview": "Guild documentation requirements are not optional conditions on certification \u2014 they are themselves part of what is being certified. A practitioner who can perform the work but cannot maintain accurate field records duri"
+        },
+        {
+          "section": "Social Function",
+          "start_line": 36,
+          "end_line": 43,
+          "preview": "Guild membership in [[Terravelle]] carries weight beyond trade certification. The guilds provide dispute resolution, wage standards, seasonal assistance funds, apprenticeship placement, housing recommendations, and the i"
+        }
+      ]
+    },
+    {
+      "id": "Wolfpoint",
+      "path": "content/Wolfpoint.md",
+      "title": "The Voss Line",
+      "why": "seed_outlink",
+      "score": 416,
+      "line_count": 95,
+      "outlink_count": 46,
+      "read_plan": [
+        {
+          "section": "The Voss Line",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Wolfpoint was founded by the Voss family \u2014 a lineage of soldier scholars who had spent careers inscribing [[Sigils]] onto armour, blades, and field equipment, and grown deeply frustrated with what the sigil system could "
+        },
+        {
+          "section": "Culture",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "Wolfpoint retains its military heritage in everything. The settlement is organized around discipline and function \u2014 buildings are low and wind-resistant, layouts are practical, nothing is built for display. The Voss line"
+        },
+        {
+          "section": "Relationship with the Kingdoms",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Wolfpoint knows [[Terravelle]] and [[Auralis]] exist. It trades with both, maintains occasional correspondence, and has no interest in being absorbed by either."
+        },
+        {
+          "section": "Hypertext Development",
+          "start_line": 29,
+          "end_line": 34,
+          "preview": "What Wolfpoint has built over seven generations is not a finished system. [[Hypertext]] is still being developed \u2014 new symbol sequences are being tested, failure modes are being catalogued, and the limits of what a linea"
+        }
+      ]
+    },
+    {
+      "id": "Emberfall",
+      "path": "content/Emberfall.md",
+      "title": "Expedition Operations Layer",
+      "why": "seed_outlink",
+      "score": 385,
+      "line_count": 67,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "Expedition Operations Layer",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "Emberfall's research identity depends on field systems that are less visible than laboratories but equally decisive. Council-backed desert work now runs through a practical chain: permitting and compliance at [[Emberfall"
+        },
+        {
+          "section": "The Scholars",
+          "start_line": 15,
+          "end_line": 24,
+          "preview": "A scholar at [[Emberfall]] commits themselves to mastery of one thing. Some choose a specific [[Sigils|sigil]] \u2014 they will spend years refining it, expanding its applications, understanding its boundaries in ways that in"
+        },
+        {
+          "section": "The Work",
+          "start_line": 25,
+          "end_line": 36,
+          "preview": "Emberfall scholars do not conduct pure research in the way theoretical mages might. Their work is immediately applied. A scholar working on a combat sigil conducts experiments in controlled environments, documents result"
+        },
+        {
+          "section": "The Institution",
+          "start_line": 37,
+          "end_line": 46,
+          "preview": "[[Emberfall]] is led by a director appointed (in practice) by whoever on the [[The Council of Auralis|Council]] has strongest interest in [[Flux]] advancement \u2014 currently [[Drest]] and the Culmination Faction. The direct"
+        }
+      ]
+    },
+    {
+      "id": "Drest",
+      "path": "content/Drest.md",
+      "title": "Background",
+      "why": "seed_outlink",
+      "score": 354,
+      "line_count": 37,
+      "outlink_count": 19,
+      "read_plan": [
+        {
+          "section": "Background",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "Drest was close to the queen who preceded [[Cassia]] \u2014 close enough that when she died in childbirth, he was the person who moved first. Whether that movement came from grief, from love, from a sense of obligation, or fr"
+        },
+        {
+          "section": "The Question",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "[[Cassia]] suspects Drest is her father. She has never confirmed it. She will never confirm it \u2014 there is no path to confirmation that does not cost more than the answer is worth, and the answer would not change anything"
+        },
+        {
+          "section": "On the Council",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Drest leads the Culmination Faction within [[The Council of Auralis]] \u2014 the faction pursuing the recovery of whatever the ancient civilization in [[Equatorial Desert|Desert Zakros]] built. He believes, with the particula"
+        },
+        {
+          "section": "Relationship with Cassia",
+          "start_line": 29,
+          "end_line": 37,
+          "preview": "Drest is one of three council members who back [[Cassia]] \u2014 and he is the loud one, which means his support is visible and therefore complicated. When he advocates for her in council chambers it draws attention to the fa"
+        }
+      ]
+    },
+    {
+      "id": "Cassia",
+      "path": "content/Cassia.md",
+      "title": "Background",
+      "why": "seed_outlink",
+      "score": 345,
+      "line_count": 137,
+      "outlink_count": 23,
+      "read_plan": [
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "Cassia was elevated to the throne as an infant on the strength of bloodline and namesake \u2014 the last viable heir of a lineage that [[Auralis]] society considered too significant to let lapse. The council that placed her t"
+        },
+        {
+          "section": "Character",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "Cassia is kinder than Auralis's culture asks its queen to be. The soft caste structure of the south \u2014 where magical ability determines social worth and low-tier casters exist in permanent shadow \u2014 sits uneasily with her."
+        },
+        {
+          "section": "The Council",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "The [[Council Members]] that manage [[Auralis]] through Cassia is not unified. They share a goal \u2014 the consolidation and expansion of Auralis, pursued with the single-minded intensity of people who believe they are build"
+        },
+        {
+          "section": "What She Wants",
+          "start_line": 25,
+          "end_line": 32,
+          "preview": "The thing Cassia wants is simple to name and difficult to execute: she wants the council's grip on [[Auralis]] broken and the kingdom returned to something good. She does not particularly care whether she is the one who "
+        }
+      ]
+    },
+    {
+      "id": "Ashford-Halveth Courier Road",
+      "path": "content/Ashford-Halveth Courier Road.md",
+      "title": "Communication Infrastructure",
+      "why": "seed_outlink",
+      "score": 340,
+      "line_count": 35,
+      "outlink_count": 18,
+      "read_plan": [
+        {
+          "section": "Communication Infrastructure",
+          "start_line": 11,
+          "end_line": 22,
+          "preview": "The Courier Road functions as more than a physical route \u2014 it is a distributed communication system connecting official and unofficial channels across the boundary."
+        },
+        {
+          "section": "Informal Information Economy Interplay",
+          "start_line": 23,
+          "end_line": 35,
+          "preview": "The road's reliability depends on a second layer that is not governed by courier contracts: informal information markets that shape how operators interpret risk in real time."
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_outlink",
+      "score": 337,
+      "line_count": 57,
+      "outlink_count": 20,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Ashford Courier Intercept Case",
+      "Border Trade",
+      "Council Dynamics",
+      "Cross-Border Commerce",
+      "Cross-Border Trade",
+      "Deliberate Misinformation Markets",
+      "Kingdoms",
+      "Narrative Laundering Channels",
+      "Political Dynamics",
+      "Reliability Scoring for Informal Intelligence",
+      "Rumor Brokerage Rings",
+      "Verification Habits in Trade Communities"
+    ],
+    "outlinks": [
+      "Ashford-Halveth Courier Road",
+      "Auralis",
+      "Border Trade",
+      "Brennan Solce",
+      "Cassia",
+      "Castor Helme",
+      "Cavel Dorst",
+      "Council Compliance Directorate",
+      "Council Dynamics",
+      "Council Orders Registry",
+      "Council Review Board",
+      "Crestward Flux Institute",
+      "Cross-Border Information Flow",
+      "Davan Rhyce",
+      "Deliberate Misinformation Markets",
+      "Drest",
+      "Eddan Voss",
+      "Emberfall",
+      "Expansion Faction",
+      "Factions",
+      "Guilds",
+      "Helva Drost",
+      "Information Brokers and Intelligence Networks",
+      "Infrastructure",
+      "Kingdoms",
+      "Merchant House Intelligence Network",
+      "Message Security and Codes",
+      "Narrative Laundering Channels",
+      "Northern Terravelle Academy",
+      "Political Dynamics"
+    ]
+  }
+}
