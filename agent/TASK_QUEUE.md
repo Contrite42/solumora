@@ -139,6 +139,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Completed outputs:** `Regional Enforcement Variance Doctrine`, `Border Settlement Coexistence Protocol`, 3-story `Eighteen Months After...` bundle, and `The Three Near-Wars` update.
       **Status note:** COMPLETE (eighteen-month continuation executed and integrated on 2026-03-07)
 
+- [x] **USER-020 — Continuation: Two-Year Enforcement Failure and Recovery Layer**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Stress-test coexistence durability after first major enforcement overreach by adding formal failure review and rapid social repair mechanisms.
+      **Scope:** 2 institutional notes + 3 linked stories + near-war hub integration.
+      **Completed outputs:** `Coexistence Enforcement Failure Review Board`, `Emergency Reintegration Mandate`, 3-story `Two Years After...` bundle, and `The Three Near-Wars` update.
+      **Status note:** COMPLETE (two-year continuation executed and integrated on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**

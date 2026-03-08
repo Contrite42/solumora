@@ -1,4 +1,4 @@
-# Current Task: Post-Arc Continuation — Eighteen-Month Regional Divergence Testing
+# Current Task: Post-Arc Continuation — Two-Year Enforcement Failure and Recovery Layer
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,21 +7,21 @@
 
 ## Summary
 
-Extended continuation with eighteen-month regional variance stress-testing: created asymmetric enforcement doctrine and border protocol framework, then validated divergent compliance patterns across Protected Observation zones, border settlements, and Full Integration core cities.
+Extended continuation with two-year durability stress-testing: introduced independent failure review and emergency reintegration governance, then validated framework resilience through enforcement overreach, public repair labor, and binding corrective directives.
 
 ## Completed Outputs (Continuation Tranche)
 
-- Created: `content/Regional Enforcement Variance Doctrine.md`
-- Created: `content/Border Settlement Coexistence Protocol.md`
-- Created: `content/Stories/Eighteen Months After the First Casualty - Protected Zone Morning.md`
-- Created: `content/Stories/Eighteen Months After the First Casualty - Border Market.md`
-- Created: `content/Stories/Eighteen Months After the First Casualty - Core City Integration.md`
-- Updated: `content/The Three Near-Wars.md` (eighteen-month bundle + regional variance institutions)
+- Created: `content/Coexistence Enforcement Failure Review Board.md`
+- Created: `content/Emergency Reintegration Mandate.md`
+- Created: `content/Stories/Two Years After the First Casualty - Sweep Night.md`
+- Created: `content/Stories/Two Years After the First Casualty - Repair Window.md`
+- Created: `content/Stories/Two Years After the First Casualty - Findings Day.md`
+- Updated: `content/The Three Near-Wars.md` (two-year bundle + failure-recovery institutions)
 
 ## Status
 
 - Continuation tranche complete.
-- Canon now extends from first-casualty trigger through eighteen-month geographic compliance divergence and managed asymmetric adaptation testing.
+- Canon now extends from first-casualty trigger through two-year institutional failure-review and public reintegration repair durability testing.
 
 ## Verification
 

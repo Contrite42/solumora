@@ -1,0 +1,422 @@
+{
+  "concept": "Stories/Two Years After the First Casualty - Sweep Night",
+  "top_pages": [
+    {
+      "id": "Stories/Two Years After the First Casualty - Sweep Night",
+      "path": "content/Stories/Two Years After the First Casualty - Sweep Night.md",
+      "title": "Two Years After the First Casualty - Sweep Night",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 73,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Two Years After the First Casualty - Sweep Night",
+          "start_line": 1,
+          "end_line": 73,
+          "preview": "The alert reached [[Kess Tarren]] at second bell: coordinated enforcement action, Aldrane lower districts, thirty-two addresses, suspected organized non-compliance network sheltering unregistered High Demon contacts."
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 497,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 475,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 472,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Cassia",
+      "path": "content/Cassia.md",
+      "title": "Background",
+      "why": "seed_outlink",
+      "score": 365,
+      "line_count": 137,
+      "outlink_count": 23,
+      "read_plan": [
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "Cassia was elevated to the throne as an infant on the strength of bloodline and namesake \u2014 the last viable heir of a lineage that [[Auralis]] society considered too significant to let lapse. The council that placed her t"
+        },
+        {
+          "section": "Character",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "Cassia is kinder than Auralis's culture asks its queen to be. The soft caste structure of the south \u2014 where magical ability determines social worth and low-tier casters exist in permanent shadow \u2014 sits uneasily with her."
+        },
+        {
+          "section": "The Council",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "The [[Council Members]] that manage [[Auralis]] through Cassia is not unified. They share a goal \u2014 the consolidation and expansion of Auralis, pursued with the single-minded intensity of people who believe they are build"
+        },
+        {
+          "section": "What She Wants",
+          "start_line": 25,
+          "end_line": 32,
+          "preview": "The thing Cassia wants is simple to name and difficult to execute: she wants the council's grip on [[Auralis]] broken and the kingdom returned to something good. She does not particularly care whether she is the one who "
+        }
+      ]
+    },
+    {
+      "id": "Merra Veld",
+      "path": "content/Merra Veld.md",
+      "title": "Merra Veld",
+      "why": "seed_outlink",
+      "score": 328,
+      "line_count": 65,
+      "outlink_count": 10,
+      "read_plan": [
+        {
+          "section": "Merra Veld",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Merra Veld is a [[Tier 2]] practitioner specializing in desert expedition rescue and recovery operations. She has spent twelve years working the [[Equatorial Desert]] crossing routes, initially as a guide assistant and p"
+        },
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "Merra began desert work at twenty-two, joining [[Nessa Keld]]'s expedition logistics network as a supply coordinator. Her early years were unremarkable: route documentation, water cache management, emergency supply drops"
+        },
+        {
+          "section": "Reputation and Network",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Over the following eight years, Merra built a reputation as someone expedition teams call when high-tier leadership has already failed. She does not advertise, does not maintain formal credentials beyond her guild regist"
+        },
+        {
+          "section": "Personal Philosophy",
+          "start_line": 25,
+          "end_line": 32,
+          "preview": "Merra does not describe herself as a hero. She describes herself as someone tired of recovering bodies from disasters caused by people who refused to listen. She has a documented history of tracking institutional decisio"
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_backlink",
+      "score": 327,
+      "line_count": 233,
+      "outlink_count": 77,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    },
+    {
+      "id": "Kess Tarren",
+      "path": "content/Kess Tarren.md",
+      "title": "Kess Tarren",
+      "why": "seed_outlink",
+      "score": 324,
+      "line_count": 75,
+      "outlink_count": 13,
+      "read_plan": [
+        {
+          "section": "Kess Tarren",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Kess Tarren is a [[Control Tier|Tier 4]] independent scholar specializing in [[Ancient Ruins|pre-collapse civilization]] architecture, inscription analysis, and dimensional mechanics. She is thirty-nine years old, Aurali"
+        },
+        {
+          "section": "Background and Academic Career",
+          "start_line": 7,
+          "end_line": 22,
+          "preview": "Kess entered ruins research at twenty-five, immediately after completing advanced study in [[Discipline|Enchanting]] and [[Flux]] theory at [[Aldrane Academy]]. She was recruited into the Council's ruins program based on"
+        },
+        {
+          "section": "Independent Research and Current Work",
+          "start_line": 23,
+          "end_line": 32,
+          "preview": "Since leaving the Council program, Kess has focused on re-analyzing existing ruins documentation with particular attention to what the ancients were **trying to prevent** rather than what they were trying to achieve. Her"
+        },
+        {
+          "section": "Relevance to War and Rift Cascade Threat",
+          "start_line": 33,
+          "end_line": 42,
+          "preview": "Kess has been tracking the [[Kellvost Incursion]] and subsequent rift activity escalation with increasing alarm. Her assessment, published in an open letter to both kingdoms' academic institutions two weeks post-Kellvost"
+        }
+      ]
+    },
+    {
+      "id": "Aldrane Academy",
+      "path": "content/Aldrane Academy.md",
+      "title": "Structure",
+      "why": "seed_outlink",
+      "score": 320,
+      "line_count": 56,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "Structure",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The Academy divides instruction into three distinct pathways, each targeting a different [[Control Tier]] ceiling and professional outcome. Students enter through entrance assessment, not family connection. [[Control Tie"
+        },
+        {
+          "section": "Admission",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "Applicants undergo two-day assessment: one day of practical Flux handling to establish baseline [[Control Tier]], one day of written examination covering notation, theory, and problem-solving. The Academy does not requir"
+        },
+        {
+          "section": "Teaching Methods",
+          "start_line": 21,
+          "end_line": 31,
+          "preview": "Instruction is classroom-based with supervised practical sessions. Classes run 20-30 students per instructor. Scribal students spend most time in copying workshops under master Scribes who correct technique and notation "
+        },
+        {
+          "section": "Faculty",
+          "start_line": 32,
+          "end_line": 39,
+          "preview": "Aldrane employs approximately 80 instructors across all tracks. Most are [[Control Tier|T2-T4]] practitioners with field experience who transitioned into teaching. High-tier instructors ([[Control Tier|T5+]]) are rare \u2014 "
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 320,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Joint Rift Monitoring Cell",
+      "path": "content/Joint Rift Monitoring Cell.md",
+      "title": "Joint Rift Monitoring Cell",
+      "why": "seed_outlink",
+      "score": 315,
+      "line_count": 61,
+      "outlink_count": 12,
+      "read_plan": [
+        {
+          "section": "Joint Rift Monitoring Cell",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The Joint Rift Monitoring Cell (JRMC) is the first standing bilateral technical body jointly operated by [[Terravelle]] and [[Auralis]] since the emergency period following the [[Kellvost Incursion]]. It was created unde"
+        },
+        {
+          "section": "Mandate",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "The cell is authorized to:"
+        },
+        {
+          "section": "Composition",
+          "start_line": 17,
+          "end_line": 29,
+          "preview": "The JRMC is structured as a mixed technical unit:"
+        },
+        {
+          "section": "Output Products",
+          "start_line": 30,
+          "end_line": 33,
+          "preview": "The JRMC publishes three primary outputs:"
+        }
+      ]
+    },
+    {
+      "id": "Anti-Persecution Compliance Tribunal",
+      "path": "content/Anti-Persecution Compliance Tribunal.md",
+      "title": "Anti-Persecution Compliance Tribunal",
+      "why": "seed_outlink",
+      "score": 314,
+      "line_count": 74,
+      "outlink_count": 7,
+      "read_plan": [
+        {
+          "section": "Anti-Persecution Compliance Tribunal",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The Anti-Persecution Compliance Tribunal (APCT) is a bilateral adjudication body established during treaty codification to enforce civil safeguards against persecution-pattern governance."
+        },
+        {
+          "section": "Mandate",
+          "start_line": 7,
+          "end_line": 16,
+          "preview": "The APCT reviews, adjudicates, and sanctions:"
+        },
+        {
+          "section": "Jurisdiction",
+          "start_line": 17,
+          "end_line": 25,
+          "preview": "The Tribunal has concurrent jurisdiction over:"
+        },
+        {
+          "section": "Structure",
+          "start_line": 26,
+          "end_line": 36,
+          "preview": "The APCT uses a mixed bench model:"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Aldrane Academy",
+      "Anti-Persecution Compliance Tribunal",
+      "Cassia",
+      "Coexistence Enforcement Failure Review Board",
+      "Emergency Reintegration Mandate",
+      "Joint Rift Monitoring Cell",
+      "Kess Tarren",
+      "Merra Veld"
+    ]
+  }
+}
