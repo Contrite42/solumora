@@ -1,39 +1,29 @@
 # Current Task: Queue Completion Hold
 
-**Status:** Complete (USER-001 through USER-007)
+**Status:** Complete (through USER-008)
 **Owner:** Codex
 **Started:** 2026-03-07
 **Completed:** 2026-03-07
 
 ## Summary
 
-Activated USER-007 from `agent/TASK_QUEUE.md` after completing USER-006 municipal friction outputs.
+Completed USER-008 root-page normalization.
 
-This phase will deliver three tightly linked stories across operator, merchant, and household perspectives anchored to current canon escalation conditions.
+Delivered homepage/index alignment and simplified root hub roles so readers can differentiate onboarding (`index`), canonical hub (`Solumora`), primer (`World Primer`), and broad lookup (`World Index Draft`) without overlap.
 
-## Prior Cycle Completion (USER-006)
+## Completed Outputs (USER-008)
 
-Completed outputs:
-- `content/Greyveil Water Interruption Episodes.md`
-- `content/District Boundary Mediation Routine.md`
-- `content/Emergency Utility Work Crews.md`
-- `content/Greyveil Maintenance Budget Conflicts.md`
-- Hub updates: `content/Greyveil.md`, `content/Greyveil Civic Coordination.md`
+- Updated: `content/index.md`
+- Updated: `content/Solumora.md`
+- Updated: `content/World Primer.md`
+- Updated: `content/World Index Draft.md`
+- Refreshed: `tmp/concept-graph.json`, `tmp/context-index.json`
+- Generated: `tmp/nav-root-solumora.json`
 
-## Execution Targets (USER-007)
+## Verification
 
-- Create 3 story files in `content/Stories/` across three social layers.
-- Anchor story events to established canon tensions and existing locations.
-- Add one index-style link update in a relevant hub page.
-
-## Next Steps
-
-- Draft story set:
-  - operator perspective (border/corridor)
-  - merchant perspective (contract and risk)
-  - household perspective (continuity under strain)
-- Add story index block to a relevant hub (likely `Ordinary Life` or `The Three Near-Wars`).
-- Refresh navigation artifacts and task-scoped nav pack.
+- Quartz build passed on 652 input files.
+- Navigation artifacts parse and report 652 pages.
 
 Default navigation method (run from repo root):
 

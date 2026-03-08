@@ -1,0 +1,473 @@
+{
+  "concept": "Solumora",
+  "top_pages": [
+    {
+      "id": "Solumora",
+      "path": "content/Solumora.md",
+      "title": "Core World Structure",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 48,
+      "outlink_count": 79,
+      "read_plan": [
+        {
+          "section": "Core World Structure",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "- Geography: [[Geography]], [[Equatorial Desert]], [[Kingdoms]]"
+        },
+        {
+          "section": "Power, Magic, and Knowledge",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "- Magic fundamentals: [[Flux]], [[Control Tier]], [[Sigils]], [[Hypertext]], [[Hand Signs]]"
+        },
+        {
+          "section": "Economy and Movement",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "- Economy hubs: [[Economy]], [[Watts]], [[Banking Institutions]], [[Informal Lending Systems]]"
+        },
+        {
+          "section": "Everyday Systems Under Pressure",
+          "start_line": 23,
+          "end_line": 28,
+          "preview": "- Daily life baselines: [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]]"
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "seed_outlink",
+      "score": 708,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 675,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 650,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "seed_outlink",
+      "score": 550,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Watts",
+      "path": "content/Watts.md",
+      "title": "How Transactions Work",
+      "why": "seed_outlink",
+      "score": 474,
+      "line_count": 49,
+      "outlink_count": 20,
+      "read_plan": [
+        {
+          "section": "How Transactions Work",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "A transaction between two registered individuals requires the consent of both parties \u2014 one initiates, one confirms, and the ledger writes. The process takes moments for anyone with basic Flux sensitivity and slightly lo"
+        },
+        {
+          "section": "Origin",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The Watts ledger predates both kingdoms. The earliest records of birth rune transactions in either kingdom's archives trace back further than coherent written history \u2014 the system was already running when the first settl"
+        },
+        {
+          "section": "Physical Representations",
+          "start_line": 25,
+          "end_line": 30,
+          "preview": "Some people carry physical tokens stamped with their birth rune mark as a convenience \u2014 not because the token holds value, but because presenting it speeds up the consent verification process in busy commercial environme"
+        },
+        {
+          "section": "Backing and Value",
+          "start_line": 31,
+          "end_line": 36,
+          "preview": "Watts are fiat currency in the strict sense \u2014 they are backed by nothing except the network's integrity and the collective agreement to treat them as valuable. There is no gold reserve, no Flux commodity, no state guaran"
+        }
+      ]
+    },
+    {
+      "id": "Equatorial Desert",
+      "path": "content/Equatorial Desert.md",
+      "title": "Geography",
+      "why": "seed_outlink",
+      "score": 464,
+      "line_count": 151,
+      "outlink_count": 47,
+      "read_plan": [
+        {
+          "section": "Geography",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Zakros sits directly on Solumora's equator, a belt of hostile terrain several weeks wide for any traveler moving north to south. It is not a single uniform landscape \u00e2\u20ac\u201d dune fields, cracked salt flats, exposed rock shel"
+        },
+        {
+          "section": "Crossing",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "There are better routes and worse ones. No route is safe. The better paths \u00e2\u20ac\u201d known to experienced guides, jealously kept, and sold for considerable [[Solumora|Watts]] \u00e2\u20ac\u201d reduce crossing time and offer slightly more pr"
+        },
+        {
+          "section": "Tier Access Limits",
+          "start_line": 19,
+          "end_line": 26,
+          "preview": "The desert's ambient [[Flux]] distortion is the hard constraint on who can survive a crossing without specialist support. [[Control Tier|T0]] practitioners have no Flux capacity and cannot cast any of the protection effe"
+        },
+        {
+          "section": "Fauna",
+          "start_line": 27,
+          "end_line": 34,
+          "preview": "Zakros is not lifeless. Its ecosystem is built almost entirely on insects and arachnids, most of which are [[Flux]]-fueled \u00e2\u20ac\u201d drawing ambient energy from the desert rather than relying solely on biological food chains. "
+        }
+      ]
+    },
+    {
+      "id": "The Council of Auralis",
+      "path": "content/The Council of Auralis.md",
+      "title": "Structure and Factions",
+      "why": "seed_outlink",
+      "score": 450,
+      "line_count": 92,
+      "outlink_count": 51,
+      "read_plan": [
+        {
+          "section": "Structure and Factions",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "The twenty members divide into three factions with distinct and occasionally competing goals. Alliances shift on specific votes but the factions themselves are stable \u2014 they represent genuine differences in what council "
+        },
+        {
+          "section": "The Culmination Faction",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "The largest faction, eleven members, organized around the council's defining long-term goal: the recovery and completion of whatever the pre-modern civilization in [[Equatorial Desert|Desert Zakros]] was building. The fa"
+        },
+        {
+          "section": "The Expansion Faction",
+          "start_line": 15,
+          "end_line": 20,
+          "preview": "Six members, organized around the straightforward goal of growing [[Auralis]]'s territory, population, and economic base. They are the most conventionally political faction \u2014 interested in trade routes, border security, "
+        },
+        {
+          "section": "Cassia's Faction",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Three members who back [[Cassia]] with genuine loyalty: [[Maren Sollis]], an older woman who served under the previous queen and transferred her allegiance to the infant who survived her; [[Tovan Ashce]], a mid-tier cast"
+        }
+      ]
+    },
+    {
+      "id": "Trade Guilds",
+      "path": "content/Trade Guilds.md",
+      "title": "How Certification Works",
+      "why": "seed_outlink",
+      "score": 446,
+      "line_count": 50,
+      "outlink_count": 16,
+      "read_plan": [
+        {
+          "section": "How Certification Works",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "Guild certification follows a standard three-stage progression: apprenticeship, journeyman work, and certification assessment. The stages vary in length by trade and in difficulty by the tier grade being sought."
+        },
+        {
+          "section": "Tier Grades and Certification",
+          "start_line": 15,
+          "end_line": 27,
+          "preview": "Most trades have multiple certification grades tied to [[Control Tier]] capability. The grades are trade-specific rather than universal: a T3 certification in structural sigil application means something different from a"
+        },
+        {
+          "section": "The Documentation Standard",
+          "start_line": 28,
+          "end_line": 35,
+          "preview": "Guild documentation requirements are not optional conditions on certification \u2014 they are themselves part of what is being certified. A practitioner who can perform the work but cannot maintain accurate field records duri"
+        },
+        {
+          "section": "Social Function",
+          "start_line": 36,
+          "end_line": 43,
+          "preview": "Guild membership in [[Terravelle]] carries weight beyond trade certification. The guilds provide dispute resolution, wage standards, seasonal assistance funds, apprenticeship placement, housing recommendations, and the i"
+        }
+      ]
+    },
+    {
+      "id": "Sigils",
+      "path": "content/Sigils.md",
+      "title": "Creating a Sigil",
+      "why": "seed_outlink",
+      "score": 428,
+      "line_count": 13,
+      "outlink_count": 19,
+      "read_plan": [
+        {
+          "section": "Creating a Sigil",
+          "start_line": 5,
+          "end_line": 13,
+          "preview": "Sigil creation is a meticulous process blending art, knowledge, and precision. A caster or [[Flux Users|Scholar]] first conceptualizes the desired spell effect, then encodes its attributes into geometric components \u2014 lin"
+        }
+      ]
+    },
+    {
+      "id": "Wolfpoint",
+      "path": "content/Wolfpoint.md",
+      "title": "The Voss Line",
+      "why": "seed_outlink",
+      "score": 413,
+      "line_count": 95,
+      "outlink_count": 46,
+      "read_plan": [
+        {
+          "section": "The Voss Line",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Wolfpoint was founded by the Voss family \u2014 a lineage of soldier scholars who had spent careers inscribing [[Sigils]] onto armour, blades, and field equipment, and grown deeply frustrated with what the sigil system could "
+        },
+        {
+          "section": "Culture",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "Wolfpoint retains its military heritage in everything. The settlement is organized around discipline and function \u2014 buildings are low and wind-resistant, layouts are practical, nothing is built for display. The Voss line"
+        },
+        {
+          "section": "Relationship with the Kingdoms",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Wolfpoint knows [[Terravelle]] and [[Auralis]] exist. It trades with both, maintains occasional correspondence, and has no interest in being absorbed by either."
+        },
+        {
+          "section": "Hypertext Development",
+          "start_line": 29,
+          "end_line": 34,
+          "preview": "What Wolfpoint has built over seven generations is not a finished system. [[Hypertext]] is still being developed \u2014 new symbol sequences are being tested, failure modes are being catalogued, and the limits of what a linea"
+        }
+      ]
+    },
+    {
+      "id": "Grimoires",
+      "path": "content/Grimoires.md",
+      "title": "How Grimoires Work",
+      "why": "seed_outlink",
+      "score": 407,
+      "line_count": 79,
+      "outlink_count": 41,
+      "read_plan": [
+        {
+          "section": "How Grimoires Work",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Each [[Sigils|sigil]] in a grimoire is drawn with full precision. A caster who meets the [[Control Tier]] requirement for a given spell can activate it directly from the page, or copy it onto another surface for single u"
+        },
+        {
+          "section": "Grimoire Tiers",
+          "start_line": 9,
+          "end_line": 23,
+          "preview": "Grimoires are categorized by the rarity of the [[Spells|spells]] they contain, reflecting the [[Control Tier]] required to use them:"
+        },
+        {
+          "section": "Cultural Attitudes",
+          "start_line": 24,
+          "end_line": 35,
+          "preview": "In [[Terravelle]], grimoires are treated as practical tools \u2014 functional, affordable at the Common tier, and widely distributed. High-tier grimoires exist but are held in institutional libraries rather than private hands"
+        },
+        {
+          "section": "The Grimoire Economy",
+          "start_line": 36,
+          "end_line": 61,
+          "preview": "Grimoires are the mechanism by which [[Flux]] capability is distributed broadly rather than confined to high-tier practitioners. An entire economy exists around their production, authentication, distribution, and trade. "
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Adventurer Support Network",
+      "Adventurers",
+      "Agricultural and Storage Work Rhythms",
+      "All Grimoire",
+      "Ancient Ruins",
+      "Arts & Culture",
+      "Auralis",
+      "Banking Institutions",
+      "Birth Runes",
+      "Bloodshrike",
+      "Childhood Learning Networks",
+      "Clinical Care Systems",
+      "Coastal and River Shipping Cycles",
+      "Common Grimoire",
+      "Common Grimoire Market",
+      "Communication Speed and Reliability",
+      "Control Tier",
+      "Courier Guild Operations",
+      "Creatures",
+      "Cross-Kingdom Financial Exchange",
+      "Dorven Kess",
+      "Economy",
+      "Eddan Voss",
+      "Equatorial Desert",
+      "Equatorial Fauna",
+      "Extraction Industries",
+      "Factions",
+      "Family Education Decision Pressure",
+      "Family Flux Transmission",
+      "Famous Food Establishments"
+    ],
+    "outlinks": [
+      "Adventurer Support Network",
+      "Ashford Courier Intercept Case",
+      "Ashford-Halveth Courier Road",
+      "Auralis",
+      "Banking Institutions",
+      "Black Market Grimoires",
+      "Black-Market Transfer Laundering",
+      "Border De-Escalation Protocols",
+      "Border Incident Ledger",
+      "Care Triage Workflows",
+      "Common Grimoire",
+      "Control Tier",
+      "Counterfeit Grimoire Verification Failures",
+      "Crossing Risk Underwriters",
+      "Death Ledger Claim Adjudication",
+      "District Boundary Mediation Routine",
+      "District Continuity Coordinators",
+      "Economy",
+      "Emergency Utility Work Crews",
+      "Equatorial Desert",
+      "Expedition Insurance Fraud Patterns",
+      "Factions",
+      "Flux",
+      "Geography",
+      "Greyveil",
+      "Greyveil Civic Coordination",
+      "Greyveil Maintenance Budget Conflicts",
+      "Greyveil Water Interruption Episodes",
+      "Grimoires",
+      "Hand Signs"
+    ]
+  }
+}

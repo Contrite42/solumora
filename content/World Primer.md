@@ -1,75 +1,36 @@
-A practical introduction to [[Solumora]] for anyone coming to the vault for the first time.
+A practical introduction to [[Solumora]] for first-time readers.
 
-## The World in Brief
+## One-Page Orientation
 
-[[Solumora]] is a single supercontinent — the only known landmass in the world — home to nearly a quarter billion people. It runs north to south, wider at its equatorial middle and narrowing toward both ends, with coastlines on all sides.
+Solumora is a single supercontinent divided by one hard fact: the equatorial barrier of [[Equatorial Desert|Desert Zakros]]. The two major kingdoms developed in relative isolation, then re-entered contact and now manage a long, unstable peace.
 
-The continent divides into three zones by climate and elevation. In the south, [[Auralis]] occupies a warm, low basin — partially near or below sea level — that the kingdom has spent generations engineering with [[Flux]] practice to sustain dense urban settlement. At the equator, the [[Equatorial Desert]] runs the full width of the continent, weeks to cross, impossible to go around. In the north, the land rises as you travel: [[Terravelle]] occupies the temperate upland belt, wide river valleys and open grassland that feels horizontal and enormous after the south. The far north climbs into dry mountain country, and at its extreme, built into mountain rock above the settled world, [[Wolfpoint]] sits.
+- [[Terravelle]] (north): distributed institutions, practical Flux culture, logistics-first governance.
+- [[Auralis]] (south): dense urban concentration, high-tier prestige systems, council-heavy authority.
+- [[Wolfpoint]] (far north): strategic mountain endpoint and knowledge outlier.
 
-Two kingdoms occupy the habitable zones. Terravelle is pragmatic and rural — it treats Flux as a trade skill and its landscape as something to work rather than engineer. Auralis is ambitious and urban — it treats Flux mastery as the highest pursuit and has used that mastery to reshape its own geography. They share a currency, a language, and a centuries-long tension that is slowly warming toward something worse.
+## What Makes This Setting Distinct
 
-## The Magic System
+- **Shared magic, uneven capacity:** [[Flux]] is universal, but practical output depends on [[Control Tier]] and training.
+- **Three casting traditions:** [[Sigils]], [[Hypertext]], [[Hand Signs]].
+- **Barrier geography:** no easy bypass around the equatorial desert.
+- **Ledger economy:** [[Watts]] underpins exchange across both kingdoms.
 
-[[Flux]] is a renewable dimensional energy that permeates all of Solumora. Every person has a capacity for channeling it, measured by Control Tier (T0–T9), distributed randomly across the population regardless of bloodline or wealth.
+## Current Structural Pressures
 
-Magic is cast in one of three ways:
+- Border pressure before open war: [[The Three Near-Wars]], [[Near-War Incident Ladder]], [[Border Incident Ledger]]
+- Civilian service thinning: [[Ordinary Life]], [[Queue Management Offices]], [[Care Triage Workflows]], [[Temporary Housing Pressure]]
+- Risk monetization: [[Adventurer Support Network]], [[Crossing Risk Underwriters]], [[Death Ledger Claim Adjudication]]
+- Governance strain at district level: [[Greyveil Civic Coordination]], [[District Boundary Mediation Routine]]
 
-**Sigils** — geometric symbols inscribed on surfaces, encoding spell instructions through a Scholar variable system. The shape determines how many variables are explicitly controlled; the rest fall to defaults.
+## Recommended Entry Routes
 
-**Hypertext** — a linear sequence of symbols developed in Wolfpoint that writes spell logic as conditional instructions rather than fixed geometric forms. Same symbol vocabulary, same tier ceiling, fundamentally different structure. Still largely unknown outside the far north.
+- Canon hub route: [[Solumora]] -> [[Geography]] -> [[History of Solumora]]
+- Institutions route: [[Factions]] -> [[Trade Guilds]] -> [[The Council of Auralis]] -> [[Terravelle Administration]]
+- Magic route: [[Flux]] -> [[Control Tier]] -> [[Grimoires]] -> [[Spells]]
+- Story route: [[Stories]] -> [[Stories/Five Days Before the Breakpoint - Operator]]
 
-**Hand Signs** — a discovered, not designed, system of casting. Channeling Flux while holding specific hand configurations produces specific effects, reliably and without variation. Nobody knows why. The signs predate both kingdoms, exist outside the Scholar framework entirely, and cannot be extended — only so many were ever found. The known catalogue caps out around T2–T3, which is a limitation of the signs, not the practitioners. They pass through warrior families, military units, and personal lineages, and require nothing but the caster's hands.
+## Use With Root Pages
 
-## The Key People
-
-**Eddan Voss** — King of Terravelle. Mid-sixties. Has run the kingdom for thirty years against steady pressure from the south. His heir is his younger son Cael, nineteen, more interested in the mechanics of Flux than in governance, and arriving independently at questions that nobody in either kingdom has taken seriously yet.
-
-**Cassia** — Queen of Auralis in name. Twenty-three. Has been managed by the council since she was four years old. Knows exactly what this arrangement is. Wants the council's grip broken and the kingdom returned to something good — through her rule or someone else's, she does not particularly care which.
-
-**Drest** — Archduke of Auralis. Leads the council's dominant faction. Probably Cassia's father. Believes the ancient ruins in the desert hold the key to defeating natural decline. Has been pursuing this for twenty years through expedition funding, political maneuvering, and patience.
-
-**Sera Voss** — Current head of the Voss line at Wolfpoint. T5. Writing the first formal documentation of Hypertext — the method for transmitting it at scale. Has not decided what to do with it, or who should have it.
-
-**Wren** — Present in the border settlement of Halveth for thirty years. Has refined Binding magic through decades of practice on a single stretch of road until it is built into the ground itself. Manages who crosses the desert border in ways that are hard to attribute and harder to contest. Knows more about rift conditions near the desert than any expedition researcher who has passed through.
-
-## The Ancient Civilization
-
-The ruins in the [[Equatorial Desert]] predate both kingdoms. The civilization that built them was more advanced in Flux practice than anything that exists today — their inscriptions encode interactions the current system has no vocabulary for. They vanished without explanation. Three sites in the deep desert have anomalous Flux behavior that has not normalized in centuries.
-
-What neither kingdom has recognized is that the civilization's most significant surviving work is not in the desert. The Watts ledger — the distributed Flux network that both kingdoms use as the foundation of their currency — is their construction. They did not defeat natural decline. They built cooperative infrastructure that has outlasted them by centuries. The ruins are the ruins. The ledger is what they actually left behind.
-
-The council believes otherwise. Several generations of Auralis funding have gone toward finding a way around natural decline in the desert sites. They are looking for the wrong thing.
-
-## What the World Does Not Know
-
-Five [[High Demons]] are currently present in Solumora. They arrived through the same rifts that produce the lower-order Flux Demons both kingdoms manage as a border problem, but they are categorically different — fully humanoid, intelligent, immortal, each with a single innate spell of effectively unlimited depth. Nobody in either kingdom is aware they exist.
-
-Most of them simply live as they choose. One of the oldest has been wandering the continent since before the kingdoms formed. One has spent decades turning a city on the western coast into the particular kind of place he finds interesting. One has built something careful and patient into a border settlement over thirty years of quiet practice. One arrived less than a century ago and latched onto the only other demon in the region who seemed to know what they were doing.
-
-The one who knows what he is doing wants a permanent passage between Solumora and the Flux dimension, and has spent forty years positioning himself to find out if it is possible.
-
-The hunting period four hundred years ago came close to ending all of this. It did not.
-
-## How People Move
-
-Solumora runs on overlapping transport systems rather than one universal network.
-
-- River freight: bulk movement in [[Terravelle]] is organized through the [[Maren Freight Chain]] from inland producers to [[Ashford]] export handling.
-- Coastal runs: high-frequency west-coast circulation in [[Auralis]] is handled by the [[Hedun-Solhaven Coastal Run]].
-- Long-haul packets: low-volume, high-reliability mixed cargo and correspondence move on the [[Outer Coast Packet Line]] between northern and eastern markets.
-- Overland relay: priority dispatches and compact critical goods between Ashford and desert-edge operations move on the [[Ashford-Halveth Courier Road]].
-- Seasonal caravan circuits: expedition supply and return goods around the desert edge are routed through the [[Zakros Rim Caravan Loop]].
-
-The practical rule is simple: people route by consequence. High-consequence traffic uses redundancy and faster handoff systems. Low-consequence bulk moves on the cheapest reliable channel.
-
-_See also: [[Solumora]], [[Terravelle]], [[Auralis]], [[Ashford]], [[Valdenmoor]], [[Hedun]], [[Wolfpoint]], [[Equatorial Desert]], [[Maren Freight Chain]], [[Hedun-Solhaven Coastal Run]], [[Outer Coast Packet Line]], [[Ashford-Halveth Courier Road]], [[Zakros Rim Caravan Loop]]_
-
-## Where to Start
-
-- For the world: [[Solumora]] → [[Geography]] → [[Kingdoms]]
-- For the magic: [[Spells]]
-- For the north: [[Terravelle]]
-- For the south: [[Auralis]]
-- For the desert: [[Equatorial Desert]]
-
-_This page is an overview. Every topic links to its full page._
+- For homepage navigation: [[index|Welcome]]
+- For broad lookup lists: [[World Index Draft]]
+- For full system map: [[Solumora]]

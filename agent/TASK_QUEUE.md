@@ -51,6 +51,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Required outputs:** 3 story files + one index-style link update in a relevant hub page.
       **Status note:** COMPLETE (3 linked stories + index block in `content/The Three Near-Wars.md` completed on 2026-03-07)
 
+- [x] **USER-008 — Homepage and Root Index Normalization**
+      **Source:** Direct user request (2026-03-07)
+      **Goal:** Fix homepage/root navigation so `Solumora` and `index` naming/entry behavior are consistent and easy to traverse.
+      **Scope:** audit and simplify `content/index.md`, `content/Solumora.md`, and other top-level root pages that should reflect the latest ~20 expansion cycles.
+      **Required outputs:** root-page cleanup pass (naming/index alignment), refreshed summary sections, reduced duplication, and updated cross-links from root hubs (`Solumora`, `World Primer`, `World Index Draft`, and related root landing pages as needed).
+      **Status note:** COMPLETE (root-page role normalization completed on 2026-03-07; `index`, `Solumora`, `World Primer`, and `World Index Draft` simplified and aligned; nav artifacts refreshed at 652 pages)
+
 ---
 
 **Permanent Tasks:**
