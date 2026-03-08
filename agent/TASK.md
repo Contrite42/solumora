@@ -1,4 +1,4 @@
-# Current Task: Story Bundle - Three Nights to First Shot
+# Current Task: Story Bundle - Sixty Minutes After the First Name
 
 **Status:** Complete
 **Owner:** Codex
@@ -7,18 +7,18 @@
 
 ## Summary
 
-Created a decision-neutral war-edge story bundle that increases constitutional-war pressure without selecting creator-only arc options in Decision F.
+Created a modular first-casualty-window story bundle that advances war-sequence pressure without locking a creator-only trigger/resolution choice from Decision F.
 
 ## Completed Outputs (This Cycle)
 
-- Created: `content/Stories/Three Nights to First Shot - Scout.md`
-- Created: `content/Stories/Three Nights to First Shot - Quartermaster.md`
-- Created: `content/Stories/Three Nights to First Shot - Courier.md`
+- Created: `content/Stories/Sixty Minutes After the First Name - Patrol Clerk.md`
+- Created: `content/Stories/Sixty Minutes After the First Name - Ward Nurse.md`
+- Created: `content/Stories/Sixty Minutes After the First Name - Bulletin Runner.md`
 - Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
 
 ## Verification
 
-- Story files include cross-links to active escalation hubs and avoid introducing canon-breaking outcomes.
+- Story files include cross-links to active escalation hubs and preserve creator decision space by avoiding explicit war-trigger attribution.
 - Hub backlink added so each new story has inbound discoverability through `The Three Near-Wars`.
 
 Default navigation method (run from repo root):

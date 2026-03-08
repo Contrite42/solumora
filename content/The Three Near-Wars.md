@@ -64,4 +64,14 @@ Three linked short narratives track the final pre-casualty window from border ob
 
 Together, they emphasize the same escalation point from different institutions: systems still function, but only through exhausting manual interventions that become unsustainable under reciprocal hardening.
 
-_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]], [[Stories/Five Days Before the Breakpoint - Operator]], [[Stories/Five Days Before the Breakpoint - Merchant]], [[Stories/Five Days Before the Breakpoint - Household]], [[Stories/Three Nights to First Shot - Scout]], [[Stories/Three Nights to First Shot - Quartermaster]], [[Stories/Three Nights to First Shot - Courier]]_
+## Story Bundle: Sixty Minutes After the First Name
+
+Three linked short narratives track the first verified-casualty window from documentation, care continuity, and information control roles:
+
+- [[Stories/Sixty Minutes After the First Name - Patrol Clerk]]
+- [[Stories/Sixty Minutes After the First Name - Ward Nurse]]
+- [[Stories/Sixty Minutes After the First Name - Bulletin Runner]]
+
+Together, they frame the first-casualty hour as an institutional stress test: whether sequence, triage, and verified language can still outrun retaliatory narrative extraction.
+
+_See also: [[Terravelle]], [[Auralis]], [[History of Solumora]], [[Equatorial Desert]], [[Expansion Faction]], [[The Council of Auralis]], [[Drest]], [[Eddan Voss]], [[Ashford]], [[Trade Guilds]], [[Near-War Incident Ladder]], [[Halveth Customs Seizure Incident]], [[Ashford Courier Intercept Case]], [[Border De-Escalation Protocols]], [[Border Trade]], [[Cross-Border Trade]], [[Stories/Five Days Before the Breakpoint - Operator]], [[Stories/Five Days Before the Breakpoint - Merchant]], [[Stories/Five Days Before the Breakpoint - Household]], [[Stories/Three Nights to First Shot - Scout]], [[Stories/Three Nights to First Shot - Quartermaster]], [[Stories/Three Nights to First Shot - Courier]], [[Stories/Sixty Minutes After the First Name - Patrol Clerk]], [[Stories/Sixty Minutes After the First Name - Ward Nurse]], [[Stories/Sixty Minutes After the First Name - Bulletin Runner]]_
