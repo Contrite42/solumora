@@ -1,64 +1,26 @@
-# Current Task: Major Narrative Arc — War and Resolution (Phase 5)
+# Current Task: Post-Arc Continuation — Coexistence Normalization (120-Day Extension)
 
 **Status:** Complete
 **Owner:** Codex
 **Started:** 2026-03-07
-**Expected Timeline:** Multi-phase development (8-12 stories + world state transformation)
+**Completed:** 2026-03-07
 
 ## Summary
 
-Executing Decision F through a multi-phase arc focused on competence-over-power leadership, rift cascade prevention, and forced High Demon revelation. Phase 5 consolidates the post-crisis world state through governance structures, legal normalization attempts, and ordinary-life recovery under technical risk controls.
+Extended beyond USER-014 completion with a 120-day normalization tranche that focuses on anti-persecution enforcement, auditable mixed-species technical governance, and ordinary-life civic stabilization under coexistence oversight.
 
-## Completed Outputs
+## Completed Outputs (Continuation Tranche)
 
-### Phase 1: Foundation
-
-- Updated: `agent/DECISIONS.md` (recorded Decision F approval with full selections)
-- Created: `content/Kellvost Incursion.md` (war trigger event: rift catastrophe, 53 dead, Council negligence exposed)
-- Created: `content/Merra Veld.md` (protagonist: T2 expedition rescue specialist, 12 years desert experience)
-- Created: `content/Teren Voss.md` (High Demon Verath, 400+ years old, hiding as book dealer, forced to act by cascade threat)
-- Created: `content/Jess Maren.md` (T0 logistics expert, 22 years supply chain experience, competence-over-power exemplar)
-- Created: `content/Kess Tarren.md` (T4-5 ruins scholar, independent researcher, understands ancient stabilization mechanisms)
-
-### Phase 2: Party Assembly (in progress)
-
-- Created: `content/Stories/Forty-Five Days After the First Casualty - Rescue Summons.md`
-- Created: `content/Stories/Forty-Five Days After the First Casualty - Archive Dealer.md`
-- Created: `content/Stories/Forty-Five Days After the First Casualty - Dry Warehouse Nine.md`
-- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
-
-### Phase 3: Investigation + Escalation (in progress)
-
-- Created: `content/Stories/Fifty-Eight Days After the First Casualty - Corridor Model.md`
-- Created: `content/Stories/Fifty-Eight Days After the First Casualty - Closed Door Briefing.md`
-- Created: `content/Stories/Fifty-Eight Days After the First Casualty - Lantern Stacks.md`
-- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
-
-### Phase 4: Revelation + Resolution (in progress)
-
-- Created: `content/Stories/Sixty-Seven Days After the First Casualty - Fifth Bell Declaration.md`
-- Created: `content/Stories/Sixty-Eight Days After the First Casualty - Ashford Standstill.md`
-- Created: `content/Stories/Seventy-Two Days After the First Casualty - Joint Anchor Operation.md`
-- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
-
-### Phase 5: Post-War World-State Consolidation (in progress)
-
-- Created: `content/Ashford Emergency Ceasefire Framework.md`
-- Created: `content/Joint Rift Monitoring Cell.md`
-- Created: `content/Public Status of High Demons.md`
-- Created: `content/Stories/Ninety Days After the First Casualty - Curriculum Revision.md`
-- Created: `content/Stories/Ninety Days After the First Casualty - Policy Hearing.md`
-- Created: `content/Stories/Ninety Days After the First Casualty - Corridor Market Morning.md`
-- Updated: `content/The Three Near-Wars.md` (new story-bundle index section + see-also links)
+- Created: `content/Ashford Coexistence Oversight Commission.md`
+- Created: `content/Stories/One Hundred Twenty Days After the First Casualty - Commission Docket.md`
+- Created: `content/Stories/One Hundred Twenty Days After the First Casualty - Anchor Audit.md`
+- Created: `content/Stories/One Hundred Twenty Days After the First Casualty - Dockside Questions.md`
+- Updated: `content/The Three Near-Wars.md` (120-day bundle + oversight institution links)
 
 ## Status
 
-- Phase 1 complete.
-- Phase 2 complete.
-- Phase 3 complete.
-- Phase 4 complete.
-- Phase 5 complete.
-- USER-014 arc cycle complete after validation and artifact refresh.
+- Continuation tranche complete.
+- Canon now extends from first-casualty trigger through 120-day coexistence normalization.
 
 ## Verification
 

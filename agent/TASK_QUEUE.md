@@ -104,6 +104,13 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       **Phase 5 outputs:** 3 consolidation stories (`Ninety Days...` bundle) + 3 permanent world-state notes (ceasefire framework, joint monitoring cell, public demon status) + `The Three Near-Wars` index update.
       **Status note:** COMPLETE — Phases 1-5 executed on 2026-03-07; arc outcome stabilized into durable institutions and social/legal adaptation layer; artifacts rebuilt and verified (`tmp/concept-graph.json`, `tmp/context-index.json`, `tmp/nav-phase5-consolidation.json`)
 
+- [x] **USER-015 — Continuation: 120-Day Coexistence Normalization Layer**
+      **Source:** Continuation request (2026-03-07)
+      **Goal:** Extend post-arc world-state into durable normalization patterns with anti-persecution enforcement and ordinary-life adaptation.
+      **Scope:** 1 governance note + 3 linked stories + near-war hub update.
+      **Completed outputs:** `Ashford Coexistence Oversight Commission`, 3-story `One Hundred Twenty Days...` bundle, and `The Three Near-Wars` indexing with governance links.
+      **Status note:** COMPLETE (continuation tranche executed and integrated on 2026-03-07)
+
 ---
 
 **Permanent Tasks:**

@@ -1,0 +1,420 @@
+{
+  "concept": "Stories/One Hundred Twenty Days After the First Casualty - Commission Docket",
+  "top_pages": [
+    {
+      "id": "Stories/One Hundred Twenty Days After the First Casualty - Commission Docket",
+      "path": "content/Stories/One Hundred Twenty Days After the First Casualty - Commission Docket.md",
+      "title": "One Hundred Twenty Days After the First Casualty - Commission Docket",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 43,
+      "outlink_count": 6,
+      "read_plan": [
+        {
+          "section": "One Hundred Twenty Days After the First Casualty - Commission Docket",
+          "start_line": 1,
+          "end_line": 43,
+          "preview": "Esten Morv arrives at the Commission hall with two ledgers, one sealed complaint packet, and the practiced expression of someone who has learned to distrust rooms designed for accountability."
+        }
+      ]
+    },
+    {
+      "id": "Ashford",
+      "path": "content/Ashford.md",
+      "title": "Character",
+      "why": "seed_outlink",
+      "score": 492,
+      "line_count": 33,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Character",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Ashford is rougher than [[Valdenmoor]] in the way that port cities tend to be \u2014 more transient, more tolerant of the irregular, more oriented toward the transaction than the institution. [[Flux]] use here leans heavily t"
+        },
+        {
+          "section": "The Northern Territory",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "The coastal territory north of Ashford \u2014 absorbed into [[Terravelle]] during the campaign in which Eddan's elder son died \u2014 has never fully settled into the kingdom's administration. The independent coastal communities t"
+        },
+        {
+          "section": "Strategic Importance",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Eddan considers Ashford one of the three non-negotiables of Terravellian security. Losing control of the eastern coast would cut off trade revenue that funds a significant portion of the kingdom's military and administra"
+        },
+        {
+          "section": "Movement Infrastructure",
+          "start_line": 25,
+          "end_line": 33,
+          "preview": "Ashford's trade volume depends on three movement systems that overlap without merging cleanly. Bulk cargo arrives through the [[Maren Freight Chain]] and is redistributed through dock districts that can absorb schedule s"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 491,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "second_order",
+      "score": 470,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "second_order",
+      "score": 470,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "The Three Near-Wars",
+      "path": "content/The Three Near-Wars.md",
+      "title": "The Eastern Passage Dispute (~160 Years Ago)",
+      "why": "seed_outlink",
+      "score": 369,
+      "line_count": 167,
+      "outlink_count": 54,
+      "read_plan": [
+        {
+          "section": "The Eastern Passage Dispute (~160 Years Ago)",
+          "start_line": 3,
+          "end_line": 12,
+          "preview": "The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping"
+        },
+        {
+          "section": "The Ruins Claim Incident (~95 Years Ago)",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The second near-war was precipitated not by trade competition but by the [[Ancient Ruins|ruins research]] that Auralis had begun funding formally in the preceding decades. An Auralis-sponsored expedition reached what it "
+        },
+        {
+          "section": "The Ashford Blockade (~45 Years Ago)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "The third near-war was [[Expansion Faction|Expansion Faction]] policy made explicit. The Faction had been building influence in [[The Council of Auralis]] for a generation; the Ashford Blockade was its first major test o"
+        },
+        {
+          "section": "Contemporary Incident Ladder",
+          "start_line": 39,
+          "end_line": 46,
+          "preview": "Operators now track escalation through the [[Near-War Incident Ladder]], a practical model describing how routine enforcement events become strategic confrontation."
+        }
+      ]
+    },
+    {
+      "id": "Flux",
+      "path": "content/Flux.md",
+      "title": "Contemporary Research",
+      "why": "second_order",
+      "score": 320,
+      "line_count": 61,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Contemporary Research",
+          "start_line": 9,
+          "end_line": 12,
+          "preview": "Current [[Flux]] research is dominated by institutional networks in both kingdoms, each organized around distinct philosophical priorities and strategic orientations. **Contemporary military preparation is increasingly r"
+        },
+        {
+          "section": "Auralis Research Institutions",
+          "start_line": 13,
+          "end_line": 18,
+          "preview": "**[[Crestward Flux Institute]]** pursues cost reduction, parallel execution patterns, and methods to achieve higher-tier effects through coordinated low-tier practitioner teams. Leadership: [[Casten Miel]] ([[Control Tie"
+        },
+        {
+          "section": "Terravelle Research Institutions",
+          "start_line": 19,
+          "end_line": 24,
+          "preview": "**[[Northern Terravelle Academy]]** emphasizes practical settlement-scale application and coordinated research on [[Rift Incursions|rift mechanics]]. The Academy operates independently of state control (through funding d"
+        },
+        {
+          "section": "Independent Scholars",
+          "start_line": 25,
+          "end_line": 28,
+          "preview": "**Independent scholars** operate throughout both kingdoms, conducting collaborative research that neither kingdom prioritizes internally. [[Kedn Rast]] ([[Control Tier|T3]]) exemplifies this institutional model, conducti"
+        }
+      ]
+    },
+    {
+      "id": "Jess Maren",
+      "path": "content/Jess Maren.md",
+      "title": "Jess Maren",
+      "why": "seed_outlink",
+      "score": 315,
+      "line_count": 79,
+      "outlink_count": 11,
+      "read_plan": [
+        {
+          "section": "Jess Maren",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "Jess Maren is a [[Control Tier|Tier 0]] supply coordination specialist with twenty-two years of experience in emergency resource management across [[Terravelle]]'s civic and military logistics networks. She is forty-seve"
+        },
+        {
+          "section": "Background",
+          "start_line": 7,
+          "end_line": 18,
+          "preview": "Jess began her logistics career at nineteen as a warehouse inventory clerk in [[Ashford]], working for what would eventually become the [[Maren Freight Chain]]. Her early years taught her how supply chains actually funct"
+        },
+        {
+          "section": "Expertise and Philosophy",
+          "start_line": 19,
+          "end_line": 31,
+          "preview": "Jess does not have magical power. She has:"
+        },
+        {
+          "section": "Current Status and War-Sequence Relevance",
+          "start_line": 32,
+          "end_line": 41,
+          "preview": "As of the present timeline\u2014sixty days post-[[Kellvost Incursion]]\u2014Jess is operating as a civilian logistics consultant attached to Terravelle's [[Border Coordination Offices]]. Her role: modeling supply requirements for "
+        }
+      ]
+    },
+    {
+      "id": "The Identification Protocols",
+      "path": "content/The Identification Protocols.md",
+      "title": "Core Identification Characteristics",
+      "why": "seed_outlink",
+      "score": 310,
+      "line_count": 125,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Core Identification Characteristics",
+          "start_line": 5,
+          "end_line": 8,
+          "preview": "Persecution Era identification protocols targeted seven characteristic categories:"
+        },
+        {
+          "section": "Physical Anomalies",
+          "start_line": 9,
+          "end_line": 22,
+          "preview": "**Age Impossibility**: Individuals who appeared significantly younger than official records indicated, or whose physical aging rate diverged from normal human progression. Persecution logic: demons don't age normally, ap"
+        },
+        {
+          "section": "Behavioral Anomalies",
+          "start_line": 23,
+          "end_line": 36,
+          "preview": "**Emotional Distance**: Individuals demonstrating unusual difficulty with normal human emotional attachments or social integration. Persecution logic: demons lack human emotional capacity, therefore apparent emotional di"
+        },
+        {
+          "section": "Social Anomalies",
+          "start_line": 37,
+          "end_line": 50,
+          "preview": "**Community Isolation**: Individuals who maintained minimal social ties despite living in community, spent extensive time alone, had few demonstrated friendships, or seemed separate from communal structures."
+        }
+      ]
+    },
+    {
+      "id": "Public Status of High Demons",
+      "path": "content/Public Status of High Demons.md",
+      "title": "Public Status of High Demons",
+      "why": "seed_outlink",
+      "score": 307,
+      "line_count": 72,
+      "outlink_count": 7,
+      "read_plan": [
+        {
+          "section": "Public Status of High Demons",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The public status of [[High Demons]] changed from suppressed folklore and archival taboo to acknowledged geopolitical reality following the Fifth Bell declaration in Auralis, where [[Teren Voss|Verath]] identified himsel"
+        },
+        {
+          "section": "Pre-Disclosure Baseline",
+          "start_line": 7,
+          "end_line": 15,
+          "preview": "Before disclosure, High Demons existed in official discourse as:"
+        },
+        {
+          "section": "Disclosure Event Effects",
+          "start_line": 16,
+          "end_line": 27,
+          "preview": "Immediate effects across both kingdoms included:"
+        },
+        {
+          "section": "Current Policy Position (Provisional)",
+          "start_line": 28,
+          "end_line": 31,
+          "preview": "No unified trans-kingdom legal framework currently exists for High Demon civic status. Present posture is provisional and function-driven."
+        }
+      ]
+    },
+    {
+      "id": "Ashford Coexistence Oversight Commission",
+      "path": "content/Ashford Coexistence Oversight Commission.md",
+      "title": "Ashford Coexistence Oversight Commission",
+      "why": "seed_outlink",
+      "score": 304,
+      "line_count": 82,
+      "outlink_count": 8,
+      "read_plan": [
+        {
+          "section": "Ashford Coexistence Oversight Commission",
+          "start_line": 1,
+          "end_line": 6,
+          "preview": "The Ashford Coexistence Oversight Commission (ACOC) is the first formal cross-kingdom civilian oversight body created specifically to govern human-High Demon coexistence under post-cascade-risk conditions."
+        },
+        {
+          "section": "Purpose",
+          "start_line": 7,
+          "end_line": 14,
+          "preview": "The Commission exists to prevent two failure modes that became visible immediately after disclosure:"
+        },
+        {
+          "section": "Core Authorities",
+          "start_line": 15,
+          "end_line": 16,
+          "preview": ""
+        },
+        {
+          "section": "1. Oversight of Non-Human Technical Engagement",
+          "start_line": 17,
+          "end_line": 21,
+          "preview": "- Registers and audits all declared High Demon participation in public-risk interventions."
+        }
+      ]
+    },
+    {
+      "id": "Watts",
+      "path": "content/Watts.md",
+      "title": "How Transactions Work",
+      "why": "second_order",
+      "score": 243,
+      "line_count": 49,
+      "outlink_count": 20,
+      "read_plan": [
+        {
+          "section": "How Transactions Work",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "A transaction between two registered individuals requires the consent of both parties \u2014 one initiates, one confirms, and the ledger writes. The process takes moments for anyone with basic Flux sensitivity and slightly lo"
+        },
+        {
+          "section": "Origin",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The Watts ledger predates both kingdoms. The earliest records of birth rune transactions in either kingdom's archives trace back further than coherent written history \u2014 the system was already running when the first settl"
+        },
+        {
+          "section": "Physical Representations",
+          "start_line": 25,
+          "end_line": 30,
+          "preview": "Some people carry physical tokens stamped with their birth rune mark as a convenience \u2014 not because the token holds value, but because presenting it speeds up the consent verification process in busy commercial environme"
+        },
+        {
+          "section": "Backing and Value",
+          "start_line": 31,
+          "end_line": 36,
+          "preview": "Watts are fiat currency in the strict sense \u2014 they are backed by nothing except the network's integrity and the collective agreement to treat them as valuable. There is no gold reserve, no Flux commodity, no state guaran"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "The Three Near-Wars"
+    ],
+    "outlinks": [
+      "Ashford",
+      "Ashford Coexistence Oversight Commission",
+      "Jess Maren",
+      "Public Status of High Demons",
+      "The Identification Protocols",
+      "The Three Near-Wars"
+    ]
+  }
+}
