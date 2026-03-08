@@ -20,4 +20,14 @@ The traditions are not mutually exclusive in practice. A farming family in rural
 
 The exception is the Ascendant Path, which is explicit enough in its theology that orthodox Luminants do distinguish between Path-consistent and Path-inconsistent beliefs. The Ancestral Current's persistence in southern Auralis is something senior Luminants address diplomatically — the folk tradition does not contradict Path theology exactly, but its theological implications are not developed within the Path framework, and Luminants prefer to manage what it means rather than suppress what it is.
 
-_See also: [[Religion and Belief]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]], [[Solumora]]_
+## Practice vs. Doctrine
+
+Religion in Solumora does not live primarily in formal theology. It lives in what people actually do: the rituals maintained in [[Household Religious Practice|households]], the tensions that surface in [[Workplace Religious Practice and Tension|workplaces]], and the adaptive compromises that emerge on [[Religious Practice on Routes and Ports|routes and ports]] where multiple traditions intersect.
+
+The gap between what institutions teach and what practitioners do is consistent across all five traditions. The [[Ascendant Path Doctrine and Folk Interpretation|Ascendant Path]] has a formal theology that treats all tiers as valid starting points, but the folk interpretation hears that higher tier is spiritually superior. The [[Covenant Urban and Rural Practice Tensions|Covenant of Measure]] teaches proportionality as an ethical absolute, but urban and rural practitioners argue constantly about what proportionality means in practice. The [[Ancestral Current and Institutional Friction|Ancestral Current]] persists through family custom without institutional validation, and formal religions cannot suppress it because it does not need their approval.
+
+Most people's religious practice is assembled from what their family did, what their community expects, and what feels coherent to them personally. The result is a landscape of practice far more diverse than the five major traditions would suggest — hybrid versions, regional variations, and individual adaptations that institutions regard as degradation but that practitioners experience as how religion actually works when you live in a world where people move, trade, and marry across tradition boundaries.
+
+Doctrine matters when institutions need to assert authority. Practice matters the rest of the time.
+
+_See also: [[Religion and Belief]], [[Ascendant Path]], [[Covenant of Measure]], [[The Quiet Work]], [[The Returners]], [[The Ancestral Current]], [[Flux]], [[Birth Runes]], [[Control Tier]], [[Solumora]], [[Household Religious Practice]], [[Workplace Religious Practice and Tension]], [[Religious Practice on Routes and Ports]], [[Ascendant Path Doctrine and Folk Interpretation]], [[Covenant Urban and Rural Practice Tensions]], [[Ancestral Current and Institutional Friction]]_

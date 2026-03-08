@@ -575,10 +575,11 @@ Additive backlog generated from a full-world thin-page and systems audit. These 
       **Owner:** `Copilot Auto`
       **Status:** COMPLETE — Six district labor/housing notes created (`Solhaven Shift-Roster Volatility`, `Terrace Rent Escalation in Solhaven`, `Valdenmoor Certification Bottlenecks`, `Valdenmoor Seasonal Tenancy Rotation`, `Ashford Dockside Bedspace Markets`, `Ashford Informal Hiring Rings`) plus synthesis updates appended to `Life in Solhaven.md`, `Life in Valdenmoor.md`, and `Life in Ashford.md`. Navigation refreshed to 637 pages and task nav pack generated (`tmp/nav-labor-housing-districts.json`). 2026-03-07.
 
-- [ ] **Goal:** Deepen religion-in-practice beyond doctrine pages.
+- [x] **Goal:** Deepen religion-in-practice beyond doctrine pages.
       **Constraints:** Existing religion framework exists; add how rituals actually appear in households, routes, ports, and workplaces. Must include disagreement between official and folk practice.
       **Output:** 6 notes (ritual contexts + one conflict note per major tradition) + update `content/Religions.md` and `content/Solumora.md` with a "Practice vs Doctrine" section.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — Six religion-practice notes created (`Household Religious Practice`, `Workplace Religious Practice and Tension`, `Religious Practice on Routes and Ports`, `Ascendant Path Doctrine and Folk Interpretation`, `Covenant Urban and Rural Practice Tensions`, `Ancestral Current and Institutional Friction`) showing how rituals appear in daily contexts and documenting gaps between official doctrine and folk interpretation. Updated `Religions.md` with "Practice vs. Doctrine" section and `Solumora.md` with "Religion and Belief in Practice" section. Navigation refreshed to 643 pages (796 nodes, 8758 edges) and task nav pack generated (`tmp/nav-religion-practice.json`). 2026-03-08.
 
 - [ ] **Goal:** Convert thin character stubs into usable cast pages in themed batches.
       **Constraints:** Prioritize pages currently <=12 lines; each expansion must include job routine, one non-public fact, institutional tie, and practical stakes. No principal-character rewrites.

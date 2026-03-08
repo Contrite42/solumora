@@ -1,40 +1,34 @@
-# Current Task: Queue Completion Hold
+# Current Task: Religion-in-Practice Expansion
 
-**Status:** Complete (through USER-008 + Codex backlog updates + no-orphans cycle)
-**Owner:** Codex
-**Started:** 2026-03-07
-**Completed:** 2026-03-07
+**Status:** Complete
+**Owner:** Codex (executing Copilot Auto task)
+**Started:** 2026-03-08
+**Completed:** 2026-03-08
 
 ## Summary
 
-Completed USER-008 root-page normalization, spell-policy enforcement, dedicated no-orphans integrity audit, and the labor/housing district expansion cycle.
+Completed religion-in-practice expansion: created 6 notes showing how rituals appear in households, workplaces, routes, and ports, plus 3 conflict notes documenting gaps between official doctrine and folk practice. Updated Religions.md and Solumora.md with "Practice vs Doctrine" synthesis sections.
 
 ## Completed Outputs (This Cycle)
 
-- Updated: `content/index.md`
-- Updated: `content/Solumora.md`
-- Updated: `content/World Primer.md`
-- Updated: `content/World Index Draft.md`
-- Removed: all remaining `content/Spells/*.md` files (legacy per-spell pages)
-- Added/updated: `agent/reports/inconsistencies.md`
-- Added/updated: `agent/reports/links_applied.md`
-- Added: `agent/staging/PENDING_REVIEW.md` checklist block for no-orphans run
-- Added: `content/Solhaven Shift-Roster Volatility.md`
-- Added: `content/Terrace Rent Escalation in Solhaven.md`
-- Added: `content/Valdenmoor Certification Bottlenecks.md`
-- Added: `content/Valdenmoor Seasonal Tenancy Rotation.md`
-- Added: `content/Ashford Dockside Bedspace Markets.md`
-- Added: `content/Ashford Informal Hiring Rings.md`
-- Updated: `content/Life in Solhaven.md`, `content/Life in Valdenmoor.md`, `content/Life in Ashford.md`
-- Refreshed: `tmp/concept-graph.json`, `tmp/context-index.json`
-- Generated: `tmp/nav-root-solumora.json`, `tmp/nav-spell-policy.json`, `tmp/no-orphans-audit.json`, `tmp/nav-labor-housing-districts.json`
+- Added: `content/Household Religious Practice.md`
+- Added: `content/Workplace Religious Practice and Tension.md`
+- Added: `content/Religious Practice on Routes and Ports.md`
+- Added: `content/Ascendant Path Doctrine and Folk Interpretation.md`
+- Added: `content/Covenant Urban and Rural Practice Tensions.md`
+- Added: `content/Ancestral Current and Institutional Friction.md`
+- Updated: `content/Religions.md` (added "Practice vs. Doctrine" section)
+- Updated: `content/Solumora.md` (added "Religion and Belief in Practice" section with navigation)
+- Refreshed: `tmp/concept-graph.json` (796 nodes, 8758 edges, 643 pages)
+- Refreshed: `tmp/context-index.json` (643 pages)
+- Generated: `tmp/nav-religion-practice.json`
 
 ## Verification
 
-- Root-page normalization build validation passed.
-- Spell-policy pass verified `content/Spells/` is empty and no `[[Spells/...]]` links remain.
-- No-orphans audit executed: `FAIL` (10 outbound violations, 61 inbound violations, 151 unresolved targets), documented for remediation.
-- Labor/housing expansion build validation passed on 637 input files.
+- Build validation passed on 643 input files
+- Navigation artifacts refreshed successfully
+- All 6 new notes include ritual contexts and disagreement between official/folk practice per constraint
+- Religions.md and Solumora.md updated with synthesis sections integrating new content
 
 Default navigation method (run from repo root):
 

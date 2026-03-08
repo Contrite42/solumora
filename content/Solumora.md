@@ -38,11 +38,18 @@ Use this page to branch into domain hubs. Use [[World Primer]] for onboarding pr
 - Story index: [[Stories]]
 - Recent story bundle: [[Stories/Five Days Before the Breakpoint - Operator]], [[Stories/Five Days Before the Breakpoint - Merchant]], [[Stories/Five Days Before the Breakpoint - Household]]
 
+## Religion and Belief in Practice
+
+- Traditions: [[Religions]], [[Ascendant Path]], [[Covenant of Measure]], [[The Ancestral Current]], [[The Quiet Work]], [[The Returners]]
+- Practice contexts: [[Household Religious Practice]], [[Workplace Religious Practice and Tension]], [[Religious Practice on Routes and Ports]]
+- Doctrine vs. folk interpretation: [[Ascendant Path Doctrine and Folk Interpretation]], [[Covenant Urban and Rural Practice Tensions]], [[Ancestral Current and Institutional Friction]]
+
 ## Suggested Navigation Sequences
 
 - Start broad: [[World Primer]] -> [[Solumora]] -> [[Geography]] -> [[History of Solumora]]
 - Follow institutions: [[Factions]] -> [[Trade Guilds]] -> [[The Council of Auralis]] -> [[Terravelle Administration]]
 - Follow risk escalation: [[The Three Near-Wars]] -> [[Near-War Incident Ladder]] -> [[Border Incident Ledger]]
 - Follow household strain: [[Ordinary Life]] -> [[Queue Management Offices]] -> [[Care Triage Workflows]]
+- Follow religion in practice: [[Religions]] -> [[Household Religious Practice]] -> [[Workplace Religious Practice and Tension]]
 
-_See also: [[index|Welcome]], [[World Primer]], [[World Index Draft]], [[Stories]], [[People]]_
+_See also: [[index|Welcome]], [[World Primer]], [[World Index Draft]], [[Stories]], [[People]], [[Religions]]_
