@@ -7,3 +7,11 @@ Her administrative work is technically sound and politically competent. She unde
 The question she has not answered is whether she is building something or becoming something she did not decide to become. The city's architecture does not make this question easy to hold. In Solhaven, the difference between agency and accommodation looks, from outside, identical.
 
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Processes Council order routing, compliance notes, and cross-office escalation packets in Crestward cycles.
+- Non-public fact: Keeps a private dependency chart showing which informal actors override official channels.
+- Institutional tie: Embedded in The Council of Auralis administrative services and Crestward policy traffic.
+- Practical stakes: If her private chart leaks, she becomes unusable to every faction that currently trusts her discretion.
+

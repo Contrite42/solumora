@@ -9,3 +9,11 @@ He knows the rift zone proximity the way a person who has spent their life near 
 [[Wren]] governs the settlement's significant decisions. Cor Meln follows Wren's guidance with the same unsentimental acceptance he brings to weather patterns and equipment schedules. The guidance is generally sound. He has not needed to develop a theory about why.
 
 _See also: [[Halveth]], [[Life in Halveth]], [[Equatorial Desert]], [[Rift Incursions]], [[Wren]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Inspects ropes, frames, and sealed containers for structural weakness before each desert launch cycle.
+- Non-public fact: Quietly diverts his best-repaired gear to crews he believes will actually follow safety protocol.
+- Institutional tie: Maintains emergency kit standards aligned with Halveth settlement contingency stores.
+- Practical stakes: If bias in his allocation becomes public, he could be removed from equipment authority immediately.
+

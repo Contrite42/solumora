@@ -7,3 +7,11 @@ His T3 casting is used for soil conditioning and weather assessment — agricult
 The decision to stay was not a rejection of what Solhaven or Path service might have offered. It was a recognition that the question of what he wanted had a clear answer and that the answer was here. He has found, over twenty-two years, that this clarity is rarer than it looks from outside.
 
 _See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Solhaven]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Manages mixed farm labor and occasional technical casting support for neighboring households.
+- Non-public fact: Refused a Path advancement placement and hides renewed recruitment letters from family.
+- Institutional tie: Remains listed in Ascendant Path regional advancement records despite declining assignment.
+- Practical stakes: Another refusal under tightened policy could trigger punitive tax reassessment on the holding.
+

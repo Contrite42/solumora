@@ -9,3 +9,11 @@ He is aware that the [[Hedun-Solhaven Coastal Run]] and [[Outer Coast Packet Lin
 Korvin expects to do dock work for another fifteen to twenty years, retire with modest savings, and spend his later years in the quieter quarters further up the terrace, possibly in a partnership with someone else also aging out of working life. This is a realistic plan and not dependent on luck or advancement.
 
 _See also: [[Solhaven]], [[Harbor District]], [[Auralis]], [[Ordinary Life in Auralis]], [[Control Tier]], [[Hedun-Solhaven Coastal Run]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Leads dock team assignments, distributing labor across high-turnover cargo arrivals and emergency unloads.
+- Non-public fact: Quietly repays a family debt by taking extra night allocations that he reports as voluntary preference.
+- Institutional tie: Works directly with Trade Guilds dispatch forms and seasonal route signals from Border Trade updates.
+- Practical stakes: Missing labor quotas for two consecutive cycles risks replacement by a lower-cost subcontract crew.
+

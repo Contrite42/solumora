@@ -9,3 +9,11 @@ The watching has shaped his professional style more than he would prefer. He pre
 His T2 casting is used entirely for transaction verification and ledger work — the standard commercial application. He is good at it in the specific way of someone who has done it daily for fifteen years, and finds it neither interesting nor unpleasant.
 
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Flux Users]], [[Control Tier]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Runs shift-change checks on mooring crews and verifies tie-off readiness before packet departures.
+- Non-public fact: Secretly marks three captains as unreliable in his personal roster despite official records listing them as compliant.
+- Institutional tie: Relies on Harbor District safety rosters filed through Solhaven dock administration.
+- Practical stakes: One failed tie-off under his watch would end his crew authority and expose his unofficial risk list.
+

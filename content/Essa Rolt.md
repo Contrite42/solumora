@@ -7,3 +7,11 @@ She has a set of observations she has never organized into a coherent account be
 She does not discuss this with the other staff. The household runs well. She has been treated fairly. She has no desire to leave.
 
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Selvane]], [[Control Tier]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Runs household scheduling, vendor screening, and staff rotation for high-status residential operations.
+- Non-public fact: Maintains an unreported timeline of unusual visitors tied to Mave-linked commission windows.
+- Institutional tie: Coordinates supplier legitimacy through Solhaven guild registries and household permit checks.
+- Practical stakes: One exposed entry could place her between elite patrons and enforcement review simultaneously.
+

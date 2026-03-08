@@ -1,0 +1,470 @@
+{
+  "concept": "People",
+  "top_pages": [
+    {
+      "id": "People",
+      "path": "content/People.md",
+      "title": "People of Solumora",
+      "why": "seed",
+      "score": 10000,
+      "line_count": 192,
+      "outlink_count": 109,
+      "read_plan": [
+        {
+          "section": "People of Solumora",
+          "start_line": 1,
+          "end_line": 8,
+          "preview": "This hub indexes named characters across [[Solumora]] \u2014 the working population who make the world's systems function, and the specific individuals whose lives intersect with the world's larger tensions."
+        },
+        {
+          "section": "Principal Characters",
+          "start_line": 9,
+          "end_line": 24,
+          "preview": "The people at the center of the world's main threads."
+        },
+        {
+          "section": "High Demons (embedded, largely concealed)",
+          "start_line": 25,
+          "end_line": 38,
+          "preview": "**[[Selvane]]** \u2014 In Solhaven. Infrastructure consultant, Crestward-adjacent. Does not know Mave is also in the city."
+        },
+        {
+          "section": "Solhaven \u2014 Crestward and Adjacent",
+          "start_line": 39,
+          "end_line": 48,
+          "preview": "**[[Ren Valdh]]** (T5) \u2014 Council administrative officer. Knows more than council members would prefer."
+        }
+      ]
+    },
+    {
+      "id": "Control Tier",
+      "path": "content/Control Tier.md",
+      "title": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+      "why": "seed_outlink",
+      "score": 694,
+      "line_count": 211,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Tier 0\u2013Tier 9 \u2014 Exponential Scaling",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "The numeric tier is the spell's **Flux handling requirement**. Each tier is roughly an order-of-magnitude jump in difficulty, capacity, stability, and precision. Every few tiers feels like a categorically different class"
+        },
+        {
+          "section": "Tier 0 \u2014 Trace",
+          "start_line": 11,
+          "end_line": 20,
+          "preview": "_Barely any Flux. The threshold most people never bother to formally test._"
+        },
+        {
+          "section": "Tier 1 \u2014 Flicker",
+          "start_line": 21,
+          "end_line": 30,
+          "preview": "_A small, usable trickle. The first tier where deliberate spellwork is practical._"
+        },
+        {
+          "section": "Tier 2 \u2014 Working",
+          "start_line": 31,
+          "end_line": 40,
+          "preview": "_The world average. The first tier where magic becomes genuinely useful in daily life._"
+        }
+      ]
+    },
+    {
+      "id": "Auralis",
+      "path": "content/Auralis.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 680,
+      "line_count": 63,
+      "outlink_count": 40,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 10,
+          "preview": "Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law \u2014 high-tier casters do not hold formal political office by virtue of the"
+        },
+        {
+          "section": "Magic",
+          "start_line": 11,
+          "end_line": 18,
+          "preview": "Auralis embraces the full spectrum of [[Discipline|Disciplines]], including those that make other cultures uncomfortable. Experimentation with Mind and Soul disciplines is not openly banned and in certain scholarly or mi"
+        },
+        {
+          "section": "Cities",
+          "start_line": 19,
+          "end_line": 22,
+          "preview": "The principal settlements of Auralis are [[Solhaven]] (the capital, built up coastal terraces on the western shore) and [[Emberfall]] (the interior research and agricultural center). Auralis has several additional port c"
+        },
+        {
+          "section": "Solhaven",
+          "start_line": 23,
+          "end_line": 34,
+          "preview": "Solhaven approaches a million residents and is the most vertically stratified city in Solumora. Its terrace zones function as distinct social worlds stacked on each other."
+        }
+      ]
+    },
+    {
+      "id": "Terravelle",
+      "path": "content/Terravelle.md",
+      "title": "Culture",
+      "why": "seed_outlink",
+      "score": 655,
+      "line_count": 50,
+      "outlink_count": 52,
+      "read_plan": [
+        {
+          "section": "Culture",
+          "start_line": 3,
+          "end_line": 8,
+          "preview": "Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least e"
+        },
+        {
+          "section": "Magic",
+          "start_line": 9,
+          "end_line": 14,
+          "preview": "Low to mid-tier casting is common and unremarkable. [[Grimoires]] here tend to favor Triangle and Square sigil shapes \u2014 fast, safe, reproducible, and affordable in [[Flux]]. [[Discipline|Disciplines]] with predictable fa"
+        },
+        {
+          "section": "Relationship with Auralis",
+          "start_line": 15,
+          "end_line": 22,
+          "preview": "[[Terravelle]] and [[Auralis]] share a complicated relationship shaped by fundamentally opposed philosophies. Where Auralis pursues magical innovation and supremacy, Terravelle prizes restraint and function. The [[Equato"
+        },
+        {
+          "section": "Cities",
+          "start_line": 23,
+          "end_line": 26,
+          "preview": "The principal settlements of Terravelle are [[Valdenmoor]] (the capital, in the central river valley), [[Ashford]] (the primary eastern port), and [[Greyveil]] (the northern waypoint at the edge of the settled belt). Doz"
+        }
+      ]
+    },
+    {
+      "id": "Solhaven",
+      "path": "content/Solhaven.md",
+      "title": "Layout and Architecture",
+      "why": "seed_outlink",
+      "score": 501,
+      "line_count": 31,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "Layout and Architecture",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Solhaven is organized by elevation in ways that are officially geographic and practically social. The harbor district at the base is commercial \u2014 trade, warehousing, transport, the practical work of a port city. As you m"
+        },
+        {
+          "section": "The Palace",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "[[Cassia]]'s palace occupies the Crestward's eastern face, designed to catch morning light and be visible from the harbor. It is large, ornate, and functions as both a residence and a performance space \u2014 the formal halls"
+        },
+        {
+          "section": "Population and Character",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "Solhaven's population approaches a million. It is the largest city in Solumora and the most [[Flux]]-saturated \u2014 the density of active [[Sigils]] in the upper terraces is high enough that visitors with [[Control Tier]] s"
+        },
+        {
+          "section": "The Ascendant Path",
+          "start_line": 23,
+          "end_line": 31,
+          "preview": "[[Religion and Belief|The Ascendant Path]] runs deeper in Solhaven than anywhere else in [[Auralis]]. The Luminants \u2014 the Path's formal priesthood \u2014 operate out of three major temples in the city, the largest of which si"
+        }
+      ]
+    },
+    {
+      "id": "Watts",
+      "path": "content/Watts.md",
+      "title": "How Transactions Work",
+      "why": "seed_outlink",
+      "score": 478,
+      "line_count": 49,
+      "outlink_count": 20,
+      "read_plan": [
+        {
+          "section": "How Transactions Work",
+          "start_line": 7,
+          "end_line": 12,
+          "preview": "A transaction between two registered individuals requires the consent of both parties \u2014 one initiates, one confirms, and the ledger writes. The process takes moments for anyone with basic Flux sensitivity and slightly lo"
+        },
+        {
+          "section": "Origin",
+          "start_line": 13,
+          "end_line": 24,
+          "preview": "The Watts ledger predates both kingdoms. The earliest records of birth rune transactions in either kingdom's archives trace back further than coherent written history \u2014 the system was already running when the first settl"
+        },
+        {
+          "section": "Physical Representations",
+          "start_line": 25,
+          "end_line": 30,
+          "preview": "Some people carry physical tokens stamped with their birth rune mark as a convenience \u2014 not because the token holds value, but because presenting it speeds up the consent verification process in busy commercial environme"
+        },
+        {
+          "section": "Backing and Value",
+          "start_line": 31,
+          "end_line": 36,
+          "preview": "Watts are fiat currency in the strict sense \u2014 they are backed by nothing except the network's integrity and the collective agreement to treat them as valuable. There is no gold reserve, no Flux commodity, no state guaran"
+        }
+      ]
+    },
+    {
+      "id": "Valdenmoor",
+      "path": "content/Valdenmoor.md",
+      "title": "Layout and Architecture",
+      "why": "seed_outlink",
+      "score": 470,
+      "line_count": 37,
+      "outlink_count": 24,
+      "read_plan": [
+        {
+          "section": "Layout and Architecture",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Valdenmoor follows the Terravellian architectural instinct without compromise \u2014 the city spreads outward rather than upward, a sprawl of single and double-story buildings connected by wide roads designed to move goods ef"
+        },
+        {
+          "section": "Population and Character",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "Valdenmoor is the largest city in [[Terravelle]] and one of the largest in [[Solumora]], with a population somewhere above half a million. It draws from every region of the kingdom \u2014 merchants, [[Flux Users|Scribes]], cr"
+        },
+        {
+          "section": "The Maren River",
+          "start_line": 17,
+          "end_line": 20,
+          "preview": "The Maren River runs through the center of the city and has been the reason for Valdenmoor's location since the original settlement. River trade along the Maren connects the capital to the eastern and western coasts, and"
+        },
+        {
+          "section": "Relevance to Current Events",
+          "start_line": 21,
+          "end_line": 26,
+          "preview": "[[Cael]] grew up in Valdenmoor and spends most of his time here. The parties, the sympathetic [[Flux Users|Formulists]] he questions about channeling cost, the social world he moves through \u2014 all of it is Valdenmoor. Edd"
+        }
+      ]
+    },
+    {
+      "id": "Ashford",
+      "path": "content/Ashford.md",
+      "title": "Character",
+      "why": "seed_outlink",
+      "score": 449,
+      "line_count": 33,
+      "outlink_count": 17,
+      "read_plan": [
+        {
+          "section": "Character",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Ashford is rougher than [[Valdenmoor]] in the way that port cities tend to be \u2014 more transient, more tolerant of the irregular, more oriented toward the transaction than the institution. [[Flux]] use here leans heavily t"
+        },
+        {
+          "section": "The Northern Territory",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "The coastal territory north of Ashford \u2014 absorbed into [[Terravelle]] during the campaign in which Eddan's elder son died \u2014 has never fully settled into the kingdom's administration. The independent coastal communities t"
+        },
+        {
+          "section": "Strategic Importance",
+          "start_line": 17,
+          "end_line": 24,
+          "preview": "Eddan considers Ashford one of the three non-negotiables of Terravellian security. Losing control of the eastern coast would cut off trade revenue that funds a significant portion of the kingdom's military and administra"
+        },
+        {
+          "section": "Movement Infrastructure",
+          "start_line": 25,
+          "end_line": 33,
+          "preview": "Ashford's trade volume depends on three movement systems that overlap without merging cleanly. Bulk cargo arrives through the [[Maren Freight Chain]] and is redistributed through dock districts that can absorb schedule s"
+        }
+      ]
+    },
+    {
+      "id": "Solumora",
+      "path": "content/Solumora.md",
+      "title": "Core World Structure",
+      "why": "seed_outlink",
+      "score": 429,
+      "line_count": 55,
+      "outlink_count": 91,
+      "read_plan": [
+        {
+          "section": "Core World Structure",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "- Geography: [[Geography]], [[Equatorial Desert]], [[Kingdoms]]"
+        },
+        {
+          "section": "Power, Magic, and Knowledge",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "- Magic fundamentals: [[Flux]], [[Control Tier]], [[Sigils]], [[Hypertext]], [[Hand Signs]]"
+        },
+        {
+          "section": "Economy and Movement",
+          "start_line": 17,
+          "end_line": 22,
+          "preview": "- Economy hubs: [[Economy]], [[Watts]], [[Banking Institutions]], [[Informal Lending Systems]]"
+        },
+        {
+          "section": "Everyday Systems Under Pressure",
+          "start_line": 23,
+          "end_line": 28,
+          "preview": "- Daily life baselines: [[Ordinary Life]], [[Ordinary Life in Terravelle]], [[Ordinary Life in Auralis]]"
+        }
+      ]
+    },
+    {
+      "id": "Halveth",
+      "path": "content/Halveth.md",
+      "title": "Population",
+      "why": "seed_outlink",
+      "score": 426,
+      "line_count": 45,
+      "outlink_count": 25,
+      "read_plan": [
+        {
+          "section": "Population",
+          "start_line": 5,
+          "end_line": 10,
+          "preview": "Halveth's permanent population is small \u2014 a core of perhaps sixty to eighty people who live there year-round. Guides, suppliers, innkeepers, a small number of families who have been in the area long enough that leaving s"
+        },
+        {
+          "section": "The Supply Trade",
+          "start_line": 11,
+          "end_line": 16,
+          "preview": "Halveth's economy is almost entirely built on outfitting desert crossings. Thermal [[Sigils|sigil]] sets, preserved food rated for extreme temperature variance, navigation equipment, replacement grimoire covers treated a"
+        },
+        {
+          "section": "Wren's Role",
+          "start_line": 17,
+          "end_line": 26,
+          "preview": "[[Wren]] has been a fixture of Halveth for thirty years. She does not hold any formal title. She does not need one."
+        },
+        {
+          "section": "Relation to the Rifts",
+          "start_line": 27,
+          "end_line": 36,
+          "preview": "Halveth's proximity to the desert means it sits closer to active [[Rift Incursions|rift zones]] than any other permanent settlement in [[Solumora]]. Lower-order [[Flux Demons]] reach the village's outskirts with some reg"
+        }
+      ]
+    },
+    {
+      "id": "Wolfpoint",
+      "path": "content/Wolfpoint.md",
+      "title": "The Voss Line",
+      "why": "seed_outlink",
+      "score": 416,
+      "line_count": 95,
+      "outlink_count": 46,
+      "read_plan": [
+        {
+          "section": "The Voss Line",
+          "start_line": 5,
+          "end_line": 12,
+          "preview": "Wolfpoint was founded by the Voss family \u2014 a lineage of soldier scholars who had spent careers inscribing [[Sigils]] onto armour, blades, and field equipment, and grown deeply frustrated with what the sigil system could "
+        },
+        {
+          "section": "Culture",
+          "start_line": 13,
+          "end_line": 20,
+          "preview": "Wolfpoint retains its military heritage in everything. The settlement is organized around discipline and function \u2014 buildings are low and wind-resistant, layouts are practical, nothing is built for display. The Voss line"
+        },
+        {
+          "section": "Relationship with the Kingdoms",
+          "start_line": 21,
+          "end_line": 28,
+          "preview": "Wolfpoint knows [[Terravelle]] and [[Auralis]] exist. It trades with both, maintains occasional correspondence, and has no interest in being absorbed by either."
+        },
+        {
+          "section": "Hypertext Development",
+          "start_line": 29,
+          "end_line": 34,
+          "preview": "What Wolfpoint has built over seven generations is not a finished system. [[Hypertext]] is still being developed \u2014 new symbol sequences are being tested, failure modes are being catalogued, and the limits of what a linea"
+        }
+      ]
+    },
+    {
+      "id": "Emberfall",
+      "path": "content/Emberfall.md",
+      "title": "Expedition Operations Layer",
+      "why": "seed_outlink",
+      "score": 385,
+      "line_count": 67,
+      "outlink_count": 29,
+      "read_plan": [
+        {
+          "section": "Expedition Operations Layer",
+          "start_line": 5,
+          "end_line": 14,
+          "preview": "Emberfall's research identity depends on field systems that are less visible than laboratories but equally decisive. Council-backed desert work now runs through a practical chain: permitting and compliance at [[Emberfall"
+        },
+        {
+          "section": "The Scholars",
+          "start_line": 15,
+          "end_line": 24,
+          "preview": "A scholar at [[Emberfall]] commits themselves to mastery of one thing. Some choose a specific [[Sigils|sigil]] \u2014 they will spend years refining it, expanding its applications, understanding its boundaries in ways that in"
+        },
+        {
+          "section": "The Work",
+          "start_line": 25,
+          "end_line": 36,
+          "preview": "Emberfall scholars do not conduct pure research in the way theoretical mages might. Their work is immediately applied. A scholar working on a combat sigil conducts experiments in controlled environments, documents result"
+        },
+        {
+          "section": "The Institution",
+          "start_line": 37,
+          "end_line": 46,
+          "preview": "[[Emberfall]] is led by a director appointed (in practice) by whoever on the [[The Council of Auralis|Council]] has strongest interest in [[Flux]] advancement \u2014 currently [[Drest]] and the Culmination Faction. The direct"
+        }
+      ]
+    }
+  ],
+  "neighbors": {
+    "backlinks": [
+      "Auralis",
+      "Equatorial Desert",
+      "Guilds",
+      "Solumora",
+      "Terravelle",
+      "Veld Dorv",
+      "Wolfpoint",
+      "World Index Draft",
+      "WrittenWorks"
+    ],
+    "outlinks": [
+      "Ashford",
+      "Auralis",
+      "Avel Coss",
+      "Avel Tors",
+      "Bren Ossve",
+      "Brenne Kalt",
+      "Cadell Mors",
+      "Cael",
+      "Cassia",
+      "Cavel Dorst",
+      "Caven Torst",
+      "Celde Morv",
+      "Celn Vard",
+      "Collen Mast",
+      "Control Tier",
+      "Cor Meln",
+      "Cossa Vrend",
+      "Crel Aldst",
+      "Daven Lorn",
+      "Derin Olt",
+      "Dess Tannor",
+      "Doss Varn",
+      "Drest",
+      "Drev Oln",
+      "Eddan Voss",
+      "Emberfall",
+      "Erra Dossn",
+      "Essa Rolt",
+      "Fennick",
+      "Greyveil"
+    ]
+  }
+}

@@ -7,3 +7,11 @@ He has not repeated anything he has heard in his common room to anyone official 
 What he has noticed in the past year: the ratio of travelers coming south from northern Terravelle has increased. The documentation they carry is standard but their questions about Ashford's Auralis border crossing are more specific than casual travelers' questions usually are. He has answered them accurately and continued making their tea.
 
 _See also: [[Ashford]], [[Life in Ashford]], [[Terravelle]], [[Control Tier]], [[Ordinary Life in Terravelle]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Operates inn intake around dawn and dusk when caravan and dock traffic overlap in Ashford.
+- Non-public fact: Keeps a hidden list of travelers who request unofficial document-safe rooms and never shares it publicly.
+- Institutional tie: Maintains permit compliance through Ashford registration offices tied to border documentation checks.
+- Practical stakes: A single audit failure could suspend his lodging license and collapse his supply-credit terms.
+

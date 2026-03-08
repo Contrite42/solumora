@@ -7,3 +7,11 @@ What she has learned over eleven years: most discrepancies are accidents. Scribe
 She has flagged four deliberate discrepancies in eleven years. In two cases, the credit house's senior management agreed with her assessment and acted on it. In two cases, they thanked her and did not act. She has continued to do the work. The ledger records what happens regardless.
 
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Watts]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Audits merchant-house watts ledgers, reconciles payment disputes, and closes weekly risk balances.
+- Non-public fact: Keeps a concealed side-ledger tracking delayed war-prep deductions from civilian accounts.
+- Institutional tie: Interfaces with Banking Institutions compliance desks and city taxation records.
+- Practical stakes: If the side-ledger is discovered, he could be charged with unauthorized disclosure and removed from practice.
+

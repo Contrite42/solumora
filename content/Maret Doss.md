@@ -9,3 +9,11 @@ She had two children. The younger tested [[Control Tier|T3]] at assessment and l
 The older child tested T0 and stayed and manages the holding's records with a precision that Maret, who is not naturally organized, finds quietly impressive. She does not say this aloud because the older child would find it embarrassing.
 
 _See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Runs irrigation, planting rotation, and seasonal storage checks for a small rural Auralis holding.
+- Non-public fact: Quietly sends surplus seed stock to her Solhaven child without recording the transfer in family accounts.
+- Institutional tie: Files planting declarations through local Ascendant Path-linked agricultural registrars.
+- Practical stakes: A failed season would force land-lease concessions she has resisted for years.
+

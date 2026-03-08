@@ -1,4 +1,4 @@
-# Current Task: Religion-in-Practice Expansion
+# Current Task: Character Stub Upgrade Batches
 
 **Status:** Complete
 **Owner:** Codex (executing Copilot Auto task)
@@ -7,28 +7,20 @@
 
 ## Summary
 
-Completed religion-in-practice expansion: created 6 notes showing how rituals appear in households, workplaces, routes, and ports, plus 3 conflict notes documenting gaps between official doctrine and folk practice. Updated Religions.md and Solumora.md with "Practice vs Doctrine" synthesis sections.
+Completed the thin-character upgrade cycle by expanding 24 `<=12`-line cast pages in four themed batches: port workers, border workers, rural workers, and institutional staff. Each upgraded page now includes explicit operational details for routine, non-public fact, institutional tie, and practical stakes.
 
 ## Completed Outputs (This Cycle)
 
-- Added: `content/Household Religious Practice.md`
-- Added: `content/Workplace Religious Practice and Tension.md`
-- Added: `content/Religious Practice on Routes and Ports.md`
-- Added: `content/Ascendant Path Doctrine and Folk Interpretation.md`
-- Added: `content/Covenant Urban and Rural Practice Tensions.md`
-- Added: `content/Ancestral Current and Institutional Friction.md`
-- Updated: `content/Religions.md` (added "Practice vs. Doctrine" section)
-- Updated: `content/Solumora.md` (added "Religion and Belief in Practice" section with navigation)
-- Refreshed: `tmp/concept-graph.json` (796 nodes, 8758 edges, 643 pages)
-- Refreshed: `tmp/context-index.json` (643 pages)
-- Generated: `tmp/nav-religion-practice.json`
+- Updated (Port batch): `content/Lenne Sosk.md`, `content/Oryen Veld.md`, `content/Korvin Selt.md`, `content/Drev Oln.md`, `content/Pell Vastl.md`, `content/Nara Celd.md`
+- Updated (Border batch): `content/Selt Orvn.md`, `content/Vorn Teld.md`, `content/Cor Meln.md`, `content/Collen Mast.md`, `content/Celn Vard.md`, `content/Ossen Drel.md`
+- Updated (Rural batch): `content/Maret Doss.md`, `content/Reth Caln.md`, `content/Hallen Vors.md`, `content/Prenn Aldv.md`, `content/Teva Orrn.md`, `content/Mella Seln.md`
+- Updated (Institutional batch): `content/Ren Valdh.md`, `content/Essa Rolt.md`, `content/Osten Reld.md`, `content/Miren Thask.md`, `content/Sorren Kael.md`, `content/Vessa Oln.md`
+- Updated: `agent/staging/PENDING_REVIEW.md` with four `[Copilot Auto]` batch summary blocks
 
 ## Verification
 
-- Build validation passed on 643 input files
-- Navigation artifacts refreshed successfully
-- All 6 new notes include ritual contexts and disagreement between official/folk practice per constraint
-- Religions.md and Solumora.md updated with synthesis sections integrating new content
+- Confirmed 24 profile files now include `## Operational Profile Update (2026-03-08)` sections
+- Required fields present in each upgraded profile: job routine, non-public fact, institutional tie, practical stakes
 
 Default navigation method (run from repo root):
 

@@ -581,10 +581,11 @@ Additive backlog generated from a full-world thin-page and systems audit. These 
       **Owner:** `Copilot Auto`
       **Status:** COMPLETE — Six religion-practice notes created (`Household Religious Practice`, `Workplace Religious Practice and Tension`, `Religious Practice on Routes and Ports`, `Ascendant Path Doctrine and Folk Interpretation`, `Covenant Urban and Rural Practice Tensions`, `Ancestral Current and Institutional Friction`) showing how rituals appear in daily contexts and documenting gaps between official doctrine and folk interpretation. Updated `Religions.md` with "Practice vs. Doctrine" section and `Solumora.md` with "Religion and Belief in Practice" section. Navigation refreshed to 643 pages (796 nodes, 8758 edges) and task nav pack generated (`tmp/nav-religion-practice.json`). 2026-03-08.
 
-- [ ] **Goal:** Convert thin character stubs into usable cast pages in themed batches.
+- [x] **Goal:** Convert thin character stubs into usable cast pages in themed batches.
       **Constraints:** Prioritize pages currently <=12 lines; each expansion must include job routine, one non-public fact, institutional tie, and practical stakes. No principal-character rewrites.
       **Output:** 24 upgraded people pages in 4 batches (port workers, border workers, rural workers, institutional staff) + `agent/staging/PENDING_REVIEW.md` summary after each batch.
       **Owner:** `Copilot Auto`
+      **Status:** COMPLETE — Upgraded 24 people pages in four themed batches (Port: Lenne Sosk, Oryen Veld, Korvin Selt, Drev Oln, Pell Vastl, Nara Celd; Border: Selt Orvn, Vorn Teld, Cor Meln, Collen Mast, Celn Vard, Ossen Drel; Rural: Maret Doss, Reth Caln, Hallen Vors, Prenn Aldv, Teva Orrn, Mella Seln; Institutional: Ren Valdh, Essa Rolt, Osten Reld, Miren Thask, Sorren Kael, Vessa Oln). Added explicit job routine, non-public fact, institutional tie, and practical stakes blocks to each profile and appended per-batch summaries to `agent/staging/PENDING_REVIEW.md`. 2026-03-08.
 
 - [ ] **Goal:** Build an "information economy" layer for rumors, signals, and narrative control.
       **Constraints:** Distinct from formal courier systems already documented; focus on informal channels, reliability scoring, intentional misinformation, and broker incentives.

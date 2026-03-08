@@ -7,3 +7,11 @@ He thinks about this answer more than he thought he would when he agreed to the 
 He is good at finding information without appearing to look for it. He has always been good at this. He is less clear on whether this is a skill he developed or something that was developed by the situation he is in.
 
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[The Council of Auralis]], [[Watts]], [[Control Tier]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Handles mid-level policy relay and meeting preparation for Expansion-aligned administrative blocs.
+- Non-public fact: Quietly archives contradictory directives instead of deleting them as requested.
+- Institutional tie: Works through Council Orders Registry circulation and factional implementation channels.
+- Practical stakes: If duplicate directives surface publicly, his role in preserving them will likely end his posting.
+

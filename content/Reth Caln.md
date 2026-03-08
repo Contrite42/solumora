@@ -7,3 +7,11 @@ He has taken five parties to Wolfpoint over his career. Each time the arrangemen
 He winters in a settlement two days north of Greyveil. In spring he moves with the trapping season. He maintains no permanent address in any city, which is less unusual in the northern reaches than it would be further south.
 
 _See also: [[Greyveil]], [[Life in Greyveil]], [[Wolfpoint]], [[Terravelle]], [[Life in Rural Terravelle]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Maintains trap lines, winter route scouting, and paid guide work between Greyveil and northern approaches.
+- Non-public fact: Keeps one unsanctioned shelter cache off-map for emergency retreats and never discloses it.
+- Institutional tie: Accepts work via Greyveil route wardens and frontier settlement contracts.
+- Practical stakes: If authorities map his private cache, he risks permit loss and loss of guide trust.
+

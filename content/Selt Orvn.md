@@ -9,3 +9,11 @@ He has met most of the people who pass through Halveth regularly. [[Wren]] comes
 His T2 casting is used for preservation work — keeping stocks viable over long storage periods, maintaining the integrity of Flux-sensitive equipment. Routine application, exactly matched to the work.
 
 _See also: [[Halveth]], [[Life in Halveth]], [[Terravelle]], [[The Bone Sea]], [[Wren]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Terravelle]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Runs depot allocation windows, checks expedition manifests, and stages survival stock before corridor departures.
+- Non-public fact: Keeps a private count of teams he advised against departure that launched anyway under outside pressure.
+- Institutional tie: Coordinates stock certification with Halveth Cooperative procurement and crossing guide rosters.
+- Practical stakes: If he is seen as obstructing departures, council contractors can bypass his depot and strip his leverage.
+

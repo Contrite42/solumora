@@ -7,3 +7,11 @@ What she observes: more Terravelle commercial documentation moving through the t
 She has not raised any of this with her command. Her command has not asked. She keeps accurate records of what her unit does and where and when. The records are part of her professional practice. They are also, she understands, the only protection she has if something goes wrong.
 
 _See also: [[Ashford]], [[Auralis]], [[Life in Ashford]], [[Control Tier]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Serves in mobile border patrol rotations, relaying incident notices between checkpoint teams and central record desks.
+- Non-public fact: Maintains an unofficial map of blind turns used by repeat smugglers and has not filed all of it.
+- Institutional tie: Works within Auralis mobile border unit command and Border Coordination Offices handoff protocols.
+- Practical stakes: If his withheld map is audited, he risks disciplinary transfer and loss of patrol discretion.
+

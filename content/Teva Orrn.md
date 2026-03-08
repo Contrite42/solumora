@@ -7,3 +7,11 @@ She has not written to ask directly what is happening. She does not know how to 
 The grain processing work continues. The harvest was adequate. The community's flux practitioner — a traveling assessor on circuit — came through in the fall. She mentions these things in her letters too.
 
 _See also: [[Terravelle]], [[Cadell Mors]], [[Control Tier]], [[Ordinary Life in Terravelle]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Balances household milling work with message exchange and procurement for extended family in rural Terravelle.
+- Non-public fact: Has hidden one of Cadell's altered letters because she believes it was written under supervision.
+- Institutional tie: Depends on local guild courier and village record channels to move correspondence safely.
+- Practical stakes: If the withheld letter is discovered, family trust and military contact access could both collapse.
+

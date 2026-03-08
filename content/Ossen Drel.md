@@ -9,3 +9,11 @@ He keeps a trade notebook. The bulk of it is logistics: what things cost in [[So
 He does not have a permanent residence in either kingdom. He has a standing room arrangement in [[Ashford]] and another in [[Halveth]] that serves the desert crossing logistics. He has owned these arrangements for fourteen years and considers them adequate.
 
 _See also: [[Auralis]], [[Terravelle]], [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Avel Coss]], [[Ossen Drel's Trade Notebook]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Runs cross-border cargo schedules, balancing permit timing, escort availability, and weather-sensitive route slots.
+- Non-public fact: Quietly carries duplicate manifests that expose which merchant houses request deniable shipments.
+- Institutional tie: Operates through Cross-Border Trade documentation lanes and Ashford-Halveth courier coordination.
+- Practical stakes: A seizure tied to his duplicate manifests would collapse his broker role across both kingdoms.
+

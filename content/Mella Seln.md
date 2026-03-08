@@ -7,3 +7,11 @@ The practical consequence for Mella's work: she cannot subcontract easily. A Sig
 What she finds: people assume Sigil-users are more precise and Hand Sign-users are more instinctive, and people are wrong about this in exactly the way they would be if they confused the tool for the practitioner. She is precise. The precision lives in her hands rather than in a geometric diagram, and this has not made it less reliable across twenty-two years.
 
 _See also: [[Terravelle]], [[Sigils]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]], [[Ordinary Life in Terravelle]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Provides hand-sign instruction and practical field support to neighboring crews during high-labor periods.
+- Non-public fact: Maintains a private list of students she believes are being redirected for political rather than skill reasons.
+- Institutional tie: Works through specialist training referrals connected to Hand Signs practice circles.
+- Practical stakes: If her private list circulates, she may lose both students and institutional referral eligibility.
+

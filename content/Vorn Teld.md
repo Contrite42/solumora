@@ -7,3 +7,11 @@ He now does pre-expedition consultation for teams heading east. This is not an o
 What he tells expedition members: the risk is real, local information is your first protection, and your Flux capacity is your last line, not your first. He has never had a team return to tell him this advice was wrong. He has had two teams that did not return.
 
 _See also: [[Halveth]], [[Life in Halveth]], [[Equatorial Desert]], [[Rift Incursions]], [[Flux Demons]], [[Control Tier]], [[Flux Users]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Conducts pre-expedition risk briefings, route timing checks, and post-return debriefs for eastern corridor crews.
+- Non-public fact: Still experiences sensory distortions from his Rift encounter but conceals episodes to retain adviser credibility.
+- Institutional tie: Feeds incident patterns into local Rift Incursions watch and guide scheduling networks.
+- Practical stakes: One failed consultation linked to his advice would end trust in his role and reduce team survival odds.
+

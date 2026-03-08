@@ -7,3 +7,11 @@ His T4 casting is used in the counseling work in ways the Path's formal curricul
 He keeps ceremony records as required by the chapter. He also keeps a separate private journal — not case files in any formal sense, but observations from the sessions that have stayed with him. Specifically the ones where the Path's framework, which he believes in and considers genuinely useful, did not fit what the person in front of him needed. He has been keeping this journal for twelve years. He is not sure what it is for.
 
 _See also: [[Hedun]], [[Life in Hedun]], [[Ascendant Path]], [[Flux Users]], [[Sorren Kael's Ceremony Records]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Officiates Path rites, monitors doctrinal instruction quality, and visits households under pastoral request.
+- Non-public fact: Has privately suspended one recommended assessor after repeated pattern bias, without filing formal notice.
+- Institutional tie: Reports into Ascendant Path local Luminant hierarchy and assessment administration layers.
+- Practical stakes: If the suspension decision is challenged, his authority and appointment continuity may both be reduced.
+

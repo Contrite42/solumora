@@ -7,3 +7,11 @@ She has taught several T5 students over the years. They pass through the standar
 The [[Ascendant Path]]'s involvement in Solhaven's academy system is administrative and financial rather than pedagogical — the Path provides funding, approves the curriculum structure, and receives progress reports on high-tier students. The Path does not teach. Vessa finds this arrangement acceptable. The Path's curriculum philosophy, as she understands it from the approval documentation, is less about what students learn than about which students the institution is oriented toward. She teaches everyone in her section.
 
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Teaches T2-T3 flux application blocks, practical drills, and certification-readiness coaching in Solhaven.
+- Non-public fact: Quietly keeps high-potential students out of political fast-track referrals when she judges them unprepared.
+- Institutional tie: Works inside Path-funded academy structures linked to guild certification pipelines.
+- Practical stakes: If referral suppression is documented, she may lose teaching rank and access to advanced cohorts.
+

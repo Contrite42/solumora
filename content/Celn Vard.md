@@ -7,3 +7,11 @@ What Celn tells, when he tells it: the fire burned lower than it should have giv
 He has not encountered [[Sorath]] again. He has not stopped thinking about whether he will.
 
 _See also: [[Auralis]], [[Equatorial Desert]], [[Sorath]], [[Control Tier]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Guides edge-zone travelers through safe fire intervals and hazard windows near shifting desert margins.
+- Non-public fact: Has preserved a physical token from the Sorath encounter and hides it from every inspection team.
+- Institutional tie: Takes seasonal assignments through desert-edge guide referral networks linked to Halveth.
+- Practical stakes: If the token is discovered, he may be barred from guiding under contamination suspicion.
+

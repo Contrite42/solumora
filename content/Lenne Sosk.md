@@ -9,3 +9,11 @@ She participates in the [[Ascendant Path]]'s ceremonies when they occur among pe
 She has three people she is close to, all in her building, all of whom understand the harbor district in roughly the way she does. They eat together on rest days. On rest days the harbor district is quieter and the light is different and it is possible to believe, for a few hours, that the week ahead will be slightly less than the week behind.
 
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Control Tier]], [[Ordinary Life in Auralis]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Starts before dawn moving quay manifests between berth clerks and warehouse counters in the Solhaven harbor cycle.
+- Non-public fact: Keeps a private notebook mapping which foremen quietly bypass damaged cargo reporting to avoid penalties.
+- Institutional tie: Coordinates handoff timing with the Grand Warehouse Complex scheduling desk and harbor guild clerks.
+- Practical stakes: If her routing notes are discovered, she loses access to manifest work and her household loses its only stable wage.
+

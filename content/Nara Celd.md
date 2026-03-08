@@ -9,3 +9,11 @@ She is not particularly interested in the social life of the docks, which is ext
 She attends no ceremonies. She observes nothing formally. She has spent her life using exactly what she needs and not reaching for anything she cannot hold.
 
 _See also: [[Ashford]], [[Life in Ashford]], [[Birth Runes]], [[Flux Users]], [[Ordinary Life in Terravelle]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Handles low-tier dock errands, queue tickets, and cargo tag transfers between piers and customs desks.
+- Non-public fact: Uses a concealed symbol system on crate twine to remember which handlers consistently steal from shared loads.
+- Institutional tie: Depends on Ashford Dock Compact labor rotation approvals for weekly assignment access.
+- Practical stakes: Losing queue eligibility for even one month would force her into debt lodging and unstable day labor.
+

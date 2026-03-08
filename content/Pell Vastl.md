@@ -7,3 +7,11 @@ He has worked for three different merchant houses over twenty-two years. All thr
 He finds the [[Watts]] system remarkable and says so to anyone who asks. The ledger that underlies all of it — distributed, impossible to forge, no institution in control — is the most elegant piece of infrastructure he works with daily, and nothing about his twenty-two years has diminished this. The people using it are exactly as clever and dishonest as people have always been. The ledger records all of it perfectly. He finds this, somehow, reassuring.
 
 _See also: [[Ashford]], [[Life in Ashford]], [[Watts]], [[Birth Runes]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Processes transaction ledgers for port-side exchanges and reconciles disputed quantities before market close.
+- Non-public fact: Privately tracks which merchants regularly under-declare high-margin loads, but only reports when risk spikes.
+- Institutional tie: Files copy records into Ashford trade arbitration channels and merchant-house accounting pipelines.
+- Practical stakes: If his private cross-checks are exposed, both guild trust and merchant contracts could be withdrawn.
+

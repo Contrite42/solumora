@@ -9,3 +9,11 @@ He is good at farming. The holding produces reliably. His neighbors ask his advi
 His daughter assessed T4 at eleven and left for Solhaven at sixteen. They write twice a year. He is proud of her and finds this uncomplicated.
 
 _See also: [[Auralis]], [[Life in Rural Auralis]], [[Ascendant Path]], [[Ordinary Life in Auralis]], [[Control Tier]]_
+
+
+## Operational Profile Update (2026-03-08)
+- Job routine: Oversees field timing, ledger upkeep, and non-casting labor coordination for his household operation.
+- Non-public fact: Privately compiles examples of T0 exclusion but shares them only with one trusted neighbor.
+- Institutional tie: Maintains annual compliance with Auralis rural registry and ceremonial Path attendance requirements.
+- Practical stakes: If he is labeled politically disruptive, his household can lose preferred transport slots for produce.
+
