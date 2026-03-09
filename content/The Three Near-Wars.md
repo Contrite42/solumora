@@ -1,5 +1,12 @@
 In two hundred years of sustained contact, [[Terravelle]] and [[Auralis]] have approached war three times without crossing into it. The mechanisms that averted each event are different; the mechanisms that precipitated each event are the same: accumulated strategic pressure meeting a threshold neither kingdom could absorb quietly.
 
+## Weekly Change Log (Current Timeline)
+
+- Week of 2026-03-08: Border friction remained administratively reversible, but incident handling became slower and more narrative-sensitive in cross-border channels.
+- Week of 2026-03-08: Training references increasingly cite confidence damage and throughput loss rather than only formal incident counts.
+
+See: [[Current Timeline]]
+
 ## The Eastern Passage Dispute (~160 Years Ago)
 
 The first near-war grew out of the first generation of serious economic contact. Once the [[Equatorial Desert|desert crossing]] became viable on a regular basis, both kingdoms recognized that the eastern coastal shipping lanes offered a faster, lower-cost alternative to the overland desert routes — and both kingdoms moved to claim priority access at roughly the same time.

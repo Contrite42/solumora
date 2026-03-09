@@ -25,6 +25,10 @@ This hub tracks active pressure across the next 30, 60, and 90 days.
 Use this block when updating linked pages:
 
 - Week of YYYY-MM-DD: what changed, where, and why it matters.
+- Week of 2026-03-08: [[The Three Near-Wars]] updated with slower reversible-incident handling and confidence-loss emphasis.
+- Week of 2026-03-08: [[Ordinary Life]] updated with queue/triage friction trends at household planning scale.
+- Week of 2026-03-08: [[Auralis]] updated with caution-heavy procedural posture in council and border administration.
+- Week of 2026-03-08: [[Terravelle]] updated with adaptation via schedule buffers and operator-level risk controls.
 
 ## Linked Pressure Nodes
 

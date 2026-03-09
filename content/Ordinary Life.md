@@ -9,6 +9,13 @@ The texture of that life divides cleanly by kingdom. [[Terravelle]] and [[Aurali
 
 Across both kingdoms, the Watt economy runs on [[Birth Runes|birth rune]] registration and [[Watts|distributed ledger]] transactions. Tier assessment between ages eight and twelve is the first formal event that tells most children what category the world has decided they occupy. Basic food, rough shelter, and unskilled labor wages are cheap enough to survive on throughout [[Solumora]]. Everything above survival is where the two kingdoms diverge.
 
+## Weekly Change Log (Current Timeline)
+
+- Week of 2026-03-08: Queue and triage systems remained functional, but household planning horizons shortened under slower service confidence.
+- Week of 2026-03-08: Continuity coordinators reported more cross-system handoff friction rather than absolute service collapse.
+
+See: [[Current Timeline]]
+
 ## Education Trajectory Summary
 
 Most families encounter the education system as a sequence of decisions under financial pressure:

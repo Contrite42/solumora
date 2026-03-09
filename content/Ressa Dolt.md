@@ -16,4 +16,26 @@ She does not think often about the metaphysical claims the [[Ascendant Path]] ma
 
 What she thinks about: the quality of the inscription work. A rune inscribed incorrectly can create documentation problems for the individual for decades. She has never inscribed one incorrectly. She expects to maintain this.
 
+## Relationships
+
+- `dependent`: [[Ascendant Path]] - role, authority, and workflow are embedded in Path administrative systems.
+- `ally`: [[Auralis]] - dual registration linkage keeps civic identity and rune records synchronized.
+- `rival`: [[Birth Runes]] - treats doctrine debates as noise relative to technical inscription integrity.
+
+## Use In Session
+
+- Players can rely on Ressa to verify identity-chain integrity in disputes involving registration, lineage, or entitlement.
+
+## Complications
+
+- Administrative pressure can prioritize throughput over precision.
+- Irregular birth conditions compress already narrow inscription windows.
+- A single disputed record can escalate into institutional conflict.
+
+## Secrets
+
+- Ressa maintains private quality notes on near-failure cases never formally reported.
+- She can detect subtle procedural drift in chapter inscription standards.
+- One historical registration anomaly could invalidate a major claim if surfaced.
+
 _See also: [[Solhaven]], [[Life in Solhaven]], [[Auralis]], [[Ascendant Path]], [[Birth Runes]], [[Watts]], [[Control Tier]], [[Flux Users]], [[Ordinary Life in Auralis]]_

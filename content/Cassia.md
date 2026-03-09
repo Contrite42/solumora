@@ -6,142 +6,56 @@ She is twenty-three. She is kind, perceptive, and politically trapped in ways th
 
 ## Appearance
 
-Cassia is twenty-three with the kind of beauty that comes from bloodline and careful cultivation — dark hair that falls in a precise arrangement past her shoulders, warm brown skin that speaks to southern Auralis lineage, and features that have been trained since childhood to project exactly the right degree of graciousness. Her formal attire is always immaculate: gowns in the deep blues and golds of Auralis royalty, jewelry that marks her status without overwhelming it, everything chosen by someone other than herself.
+Cassia is twenty-three with the kind of beauty that comes from bloodline and careful cultivation: dark hair arranged with precision, warm brown skin that speaks to southern Auralis lineage, and formal bearing practiced since childhood. Her public attire is immaculate, always in royal colors, always selected to communicate composure and legitimacy.
 
-When she moves through formal spaces she does so with the fluid certainty of nineteen years' practice — every gesture measured, every expression composed, the performance of queenship so thoroughly learned it appears effortless. Her smile is kind and carefully deployed, reaching her eyes when she means it and stopping precisely short when she does not. She has mastered the art of looking engaged while her mind works elsewhere.
-
-In private moments her shoulders drop fractionally, and the careful arrangement loosens into something more human. She has a habit of touching the edge of whatever jewelry she wears — rings, necklaces, the formal circlet at state functions — as though testing whether they're real or simply another layer of decoration on a throne that others occupy through her. Her hands are unmarked by work of any kind, and this bothers her more than she admits.
-
-She is shorter than people expect a queen to be, which the council manages through careful staging and footwear choices at public events. Her voice is clear and practiced, trained for speeches and formal greetings, though in unguarded moments it drops to something quieter and more her own.
+In public she moves with fluid certainty, each gesture measured. In private, the performance loosens; her shoulders drop, and she has a habit of touching her jewelry as though testing whether it is status or restraint. Her voice is trained for ceremony, but quieter and more personal when she is unguarded.
 
 ## Background
 
-Cassia was elevated to the throne as an infant on the strength of bloodline and namesake — the last viable heir of a lineage that [[Auralis]] society considered too significant to let lapse. The council that placed her there has been running the kingdom in her name ever since. They are not cruel to her. They are not required to be. They provide her with every comfort, every luxury, every visible marker of a queen's life, and in exchange she signs what they ask her to sign and stands where they ask her to stand and does not press too hard on the things they do not want pressed.
+Cassia was elevated as an infant on bloodline necessity. The council that placed her on the throne has governed in her name ever since, giving her every visible marker of royal life while tightly controlling policy, movement, and training.
 
-She knows exactly what this arrangement is. She made her peace with it young, before she had the vocabulary to name it, and has been living inside that peace ever since.
+She understands the arrangement clearly. She accepted it young, before she had language for it, and has lived inside that acceptance while quietly tracking the cost.
 
 ## Character
 
-Cassia is kinder than Auralis's culture asks its queen to be. The soft caste structure of the south — where magical ability determines social worth and low-tier casters exist in permanent shadow — sits uneasily with her. She would change it if she could. She has tried, quietly, in small ways, and learned precisely how much latitude the council allows before the comfortable life becomes noticeably less comfortable. She has not pushed past that point. She tells herself she is waiting for the right moment. She is not entirely sure she believes this.
+Cassia is kinder than Auralis tradition asks of its queen. The tier-stratified social order troubles her, and she has tested small reforms often enough to learn exactly where council tolerance ends.
 
-Her [[Flux]] ability is a separate frustration. Her bloodline has produced a T7 caster at its height. Cassia is T4, undertrained, her development managed carefully by a council that understands what a fully developed queen with a T7 ceiling would mean for their continued influence. She knows enough to feel the distance between where she is and where her blood says she could be. She does not know enough to close it, and the people around her have no interest in helping her try.
-
-## The Council
-
-The [[Council Members]] that manage [[Auralis]] through Cassia is not unified. They share a goal — the consolidation and expansion of Auralis, pursued with the single-minded intensity of people who believe they are building toward something ultimate, a magnum opus of [[Flux]] mastery and territorial completion — but they have individual interests that create friction. Cassia has learned to read this friction carefully. It is the only political tool she has reliable access to.
-
-She is not as passive as they believe. She is, however, as constrained as they intend.
-
-## What She Wants
-
-The thing Cassia wants is simple to name and difficult to execute: she wants the council's grip on [[Auralis]] broken and the kingdom returned to something good. She does not particularly care whether she is the one who rules it afterward. She has spent nineteen years as a throne to which other people's decisions were attached and has no strong attachment to the position itself — only to the idea that the position should mean something again, and be held by someone who is actually governing rather than being governed.
-
-She also wants to leave. Not permanently, not as exile — she is not finished with [[Auralis]] — but she has been inside the same set of rooms, in the same role, performing the same performance, for her entire life. The world is large and she has seen one corner of it. The memory of [[Terravelle]] at thirteen — cold, horizontal, a place where things worked differently — has not left her. She has not been permitted to go back. She thinks about it more than she mentions it to anyone.
-
-These two wants are not unrelated. The council manages her movements as carefully as they manage her training. A queen who travels is a queen who develops a picture of the world that the council did not supply.
-
-## Public Role
-
-At galas, diplomatic events, and formal occasions Cassia is exactly what a queen should be — composed, certain, magnetic in the way of someone who has been performing this role since childhood. She is good at it. The performance is so practiced it no longer feels like performance, which is its own kind of loss.
-
-She attended a trade gala in [[Terravelle]] when she was thirteen, part of a diplomatic delegation managed entirely by council representatives. She remembers very little about the political substance of the visit. She was thirteen and it was her first time north of [[Equatorial Desert|Desert Zakros]] and everything was horizontal and cold and strange.
-
-She is aware that [[Eddan Voss|King Eddan]] has a son. She knows his name. She has not thought about him particularly.
+Her [[Flux]] profile is another pressure point: bloodline potential to T7, current development constrained at T4. She knows enough to feel the gap and enough to understand that the people controlling her training benefit from that gap staying open.
 
 ## Relationship with Terravelle
 
-Cassia's personal feelings about [[Terravelle]] are more complicated than the council's. She does not share their certainty that Auralis's expansion is inevitable or righteous. She understands [[Eddan Voss|Eddan's]] position well enough to respect it, which is not something she has ever said out loud in council chambers.
+Cassia's view of [[Terravelle]] is more complex than council rhetoric. She does not share Expansion certainty, and she reads the slow fraying of peace with unease she cannot publicly express.
 
-The slow fraying of the peace between the two kingdoms is something she watches with unease she cannot express and influence she cannot exercise. The conditions for open conflict are being met by people acting in her name, with her seal, and she is not sure what she would do about it even if she could.
-
-She hopes, in the quiet way of people who have learned not to hope loudly, that it does not come to war in her lifetime. She does not have a good reason to believe it won't.
-
-_See also: [[Auralis]], [[Eddan Voss]], [[Cael]], [[Drest]], [[The Council of Auralis]], [[Council Members]], [[Maren Sollis]], [[Tovan Ashce]], [[Hadren Cosse]], [[Kingdoms]], [[Flux]], [[Control Tier]], [[Solhaven]]_
+She remembers Terravelle from a childhood diplomatic visit and has wanted to return ever since. The council's control of her movement is part security, part information control.
 
 ## What She Knows
 
-Cassia is not passive. She has spent nineteen years in rooms where outcomes are arranged before the meeting begins, and she has learned to read what is omitted as carefully as what is said. Her position limits what she can do, but it does not limit what she can observe.
+Cassia is not passive. She has spent years in rooms where outcomes are arranged before meetings begin, and she has learned to read omissions as carefully as declarations.
 
-What she knows: the [[Expansion Faction]] is accelerating. She has tracked [[Drest]]'s voting alignment over the last three years and can see where his compromises have shifted and where they have not. She knows [[Castor Helme]] speaks to occupy space while [[Davan Rhyce]] speaks only when his position is already prepared, and she knows which pattern is harder to counter. She also knows what [[Brennan Solce]] means when a briefing summary calls him "careful"; it means he sees risk that has not yet been made discussable.
+She has tracked acceleration inside [[The Expansion Faction]] through vote alignments, briefing language, and resource allocation shifts. She keeps private cipher notes documenting patterns that formal minutes flatten: who defers to whom, which topics narrow transparency, and where implementation appears to precede deliberation.
 
-What she is doing with it: she is writing private notes in a cipher she built at seventeen. Not correspondence. Not a political archive. A personal record of what she can still verify for herself before it is flattened into formal minutes. She is equally careful about what she requests to read, and when, because request patterns are monitored.
+She cannot prevent what she sees coming with the authority currently available to her. But she can preserve an accurate record, force procedural detail into sessions where possible, and position herself to act if a narrow window opens.
 
-She has not told anyone. [[Ysel Voss]] is the nearest person she might trust, but Ysel is at [[Wolfpoint]], and Cassia has no unreviewed channel to Wolfpoint.
+## Relationships
 
-_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
+- `handler`: [[The Council of Auralis]] - governs through her office while constraining independent action.
+- `rival`: [[The Expansion Faction]] - publicly aligned by role, privately alarmed by acceleration signals.
+- `unknown-link`: [[Ysel Voss]] - potential trust channel she cannot safely activate.
 
-What she can do: she can vote against specific proposals when her opposition can be framed as procedural or technical rather than political. She can ask questions that force Expansion members to provide more detailed justifications for their positions. She can ensure that her own administrative responsibilities are handled with precision, so that if the political situation deteriorates, her record will show that she maintained proper procedures throughout.
+## Use In Session
 
-She can also continue writing. The cipher she uses is not complex enough to resist serious cryptographic analysis, but it is sufficient to prevent casual reading. Her notes document not just what happens in Council sessions, but her analysis of what the patterns suggest, what the likely next steps are, and what the long-term trajectory appears to be. If the situation reaches the point where this information becomes relevant to people who can act on it, she will have a detailed record to provide.
+- Players can work through court procedure to obtain one critical concession from Cassia without exposing her private position.
 
-The constraint she operates under is that she cannot prevent what she sees coming. She can only document it, prepare for it, and position herself to respond appropriately when it arrives. This is not the role she would have chosen, but it is the role her circumstances permit, and she has learned to work within it effectively.
+## Complications
 
-_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
+- Any direct move can be reframed by council actors as instability at the throne.
+- Information channels around the queen are monitored and pattern-analyzed.
+- Procedural victories create backlash in adjacent policy lanes.
 
-## What She Knows
+## Secrets
 
-Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
+- Cassia maintains a private cipher archive of council behavior patterns.
+- She can identify which members are coordinating without leaving formal traces.
+- She is preparing for a narrow procedural break-point, not a public revolt.
 
-What she knows: The [[Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
-
-What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
-
-She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
-
-_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
-
-## What She Knows
-
-Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
-
-What she knows: [[The Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
-
-What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
-
-She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
-
-The acceleration she documents is not dramatic. It is systematic. Council session attendance patterns have shifted. Resource allocation discussions that used to require three meetings now conclude in one. The language used in territorial assessment reports has become more specific about [[Terravelle]] infrastructure vulnerabilities and less specific about the rationale for collecting that information. Drest's questions during briefings have acquired a precision that suggests he is working from information sources that do not appear in the materials distributed to the full Council.
-
-She cannot prove coordination between the Expansion Faction members because coordination that can be proven is coordination that was done poorly. What she can document is the pattern of their individual behaviors, and the pattern has a shape. The shape suggests preparation for something that has not been announced.
-
-Her cipher is simple enough to use quickly and complex enough that casual inspection will not reveal content. She writes in it during Council sessions, in the margins of briefing materials, in spaces that look like note-taking but are not notes about what is being discussed. She writes what she observes, when she observed it, and what questions the observation raises. She does not write speculation. She does not write conclusions. She writes what happened and lets the pattern speak for itself.
-
-The pattern says that the Expansion Faction believes something is going to happen soon enough that they need to be ready for it. Whether they are preparing to cause it or to respond to it is not clear from her observations. Either way, they are preparing.
-
-_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
-
-## What She Knows
-
-Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
-
-What she knows: The [[Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
-
-What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
-
-She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
-
-The cipher is simple enough that she can write in it quickly during Council sessions without drawing attention, complex enough that casual observation would read it as personal shorthand rather than systematic documentation. She has been using it for six years. The accumulated record shows patterns that the official minutes do not capture — who defers to whom, which topics produce which kinds of careful language, how voting coalitions shift when different issues are under discussion.
-
-She knows that Drest has been building something for longer than three years. She knows that the Expansion Faction's current composition is not its final form. She knows that [[The Council of Auralis]] is moving toward decisions that will not be presented as decisions until they have already been implemented. She writes this down because someone should have a record of what actually happened, even if that someone is only herself.
-
-_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
-
-## What She Knows
-
-Cassia is not passive. She has twenty-three years of being in rooms where things are decided, and she has learned to read what is not said. She cannot act on most of what she knows — her position is constrained in ways that have been reinforced across her entire life — but she observes accurately and she retains what she observes.
-
-What she knows: The [[Expansion Faction]] is accelerating. She has watched [[Drest]]'s voting alignment shift over three years in ways that tell her something is in motion. She knows that [[Castor Helme]] talks loudly about things and that [[Davan Rhyce]] does not talk at all, and she knows which of these is more dangerous. She has a working model of what [[Brennan Solce]]'s "careful" reaction means when she reads it in briefing summaries.
-
-What she is doing with it: She is writing. Not correspondence — private notes, kept in a cipher she developed at seventeen. Not for any audience. For herself, because the alternative is watching what she sees disappear into the administrative record in its managed form. She is also being very careful with what she asks to read, and why, and when — because her requests are noted and she has learned to arrange them so the pattern is not visible.
-
-She has not told anyone about this. There is no one she trusts with it. [[Ysel Voss]] might be the nearest candidate, but Ysel is at [[Wolfpoint]], and Cassia does not have communication with Wolfpoint that is not reviewed.
-
-The acceleration she has observed is not dramatic. It is methodical. Drest's faction has been building capability for years — not military capability in the obvious sense, but institutional capability. The kind that allows rapid policy implementation when the moment arrives. She has watched budget allocations shift in ways that create flexibility for undefined future projects. She has watched personnel assignments that place Expansion-aligned administrators in positions where they can execute decisions quickly once those decisions are made.
-
-She knows that [[The Council of Auralis]] is not a deliberative body in the way it presents itself. It is an implementation body for decisions that are made in smaller groups, in private, by people who have the authority to make them stick. She knows this because she has been present when the implementation happens and absent when the decisions are made. The gap between those two experiences tells her everything she needs to know about where actual authority sits.
-
-Her cipher is not sophisticated by the standards of professional cryptography. It is sophisticated enough to prevent casual reading by anyone who might have access to her personal materials. She writes in it daily — not a diary, but a record. Voting patterns, resource allocations, personnel changes, the timing of when information arrives and how it is presented. The kind of data that would be valuable to someone trying to understand how the Council actually functions, as opposed to how it claims to function.
-
-She does not know what she will do with this record. She does not know if she will ever do anything with it. But she knows that if the moment comes when someone needs to understand what happened and how, the information will exist. Someone will have been paying attention.
-
-_See also: [[The Council of Auralis]], [[Expansion Faction]], [[Drest]], [[Castor Helme]], [[Davan Rhyce]], [[Brennan Solce]], [[Ysel Voss]], [[Wolfpoint]]_
+_See also: [[Auralis]], [[Eddan Voss]], [[Cael]], [[Drest]], [[The Council of Auralis]], [[Council Members]], [[Maren Sollis]], [[Tovan Ashce]], [[Hadren Cosse]], [[Kingdoms]], [[Flux]], [[Control Tier]], [[Solhaven]], [[The Expansion Faction]], [[Ysel Voss]], [[Wolfpoint]]_

@@ -24,4 +24,26 @@ Brennan has a specific concern about the rift situation on [[Auralis|Auralis's]]
 
 He has not connected this to the Expansion Faction's goals. He has not connected it to the [[Rift Incursions|incursion problem's]] political dimensions. It sits in a separate compartment that he has not opened recently.
 
+## Relationships
+
+- `ally`: [[Castor Helme]] - entered council lane through Helme's sponsorship but keeps independent risk judgment.
+- `rival`: [[Expansion Faction]] - supports expansion in principle but rejects low-fidelity assumptions.
+- `unknown-link`: [[Davan Rhyce]] - tracks Rhyce's selective silence as a strategic signal.
+
+## Use In Session
+
+- Players can draw on Brennan's border-grounded analysis to test whether expansion proposals are operationally real.
+
+## Complications
+
+- Public alignment pressures him to endorse plans he privately judges incomplete.
+- Revealing full risk data can trigger faction retaliation.
+- Border-rift evidence is politically costly to formalize.
+
+## Secrets
+
+- Brennan has historical data tying creature-rate changes to ignored administrative decisions.
+- He can predict failure points in expansion routes before command notices.
+- He has withheld one briefing because he is unsure who would weaponize it.
+
 _See also: [[The Council of Auralis]], [[Council Members]], [[Auralis]], [[Terravelle]], [[Castor Helme]], [[Davan Rhyce]], [[Rift Incursions]], [[Equatorial Desert]]_

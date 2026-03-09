@@ -1,5 +1,12 @@
 Terravelle is the northern kingdom of [[Solumora]], situated several hundred miles north of the [[Equatorial Desert]]. Home to a significant portion of Solumora's ~250 million people, it is a land defined by pragmatism, resilience, and a deeply functional relationship with [[Flux]]. Its throne is held by [[Eddan Voss]], who rules from the northern settlement of [[Wolfpoint]] with a remove from day-to-day governance that most of the kingdom neither notices nor minds.
 
+## Weekly Change Log (Current Timeline)
+
+- Week of 2026-03-08: Trade operators reported denser paperwork handling and longer soft delays in cross-border corridors.
+- Week of 2026-03-08: Practical adaptation favored buffer scheduling and contact diversification over public escalation.
+
+See: [[Current Timeline]]
+
 ## Culture
 
 Terravelle society values stability and efficiency above all. Where other cultures may chase magical prestige, Terravelle embraces the philosophy that the best spell is the one that accomplishes the task with the least expenditure of energy. Magic here is treated as a trade skill, woven into the fabric of daily life in the same way carpentry or smithing might be.

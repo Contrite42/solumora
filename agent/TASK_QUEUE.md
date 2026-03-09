@@ -251,7 +251,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/Current Timeline.md` hub with 30/60/90-day slices
       - Weekly-change blocks in key faction/NPC pages
       - Cross-links into `The Three Near-Wars` and `Ordinary Life` hubs
-      **Status note:** IN PROGRESS (created `content/Current Timeline.md` kickoff hub and linked it from root routes on 2026-03-08)
+      **Status note:** IN PROGRESS (created `content/Current Timeline.md`, added week entries, and integrated weekly logs into `The Three Near-Wars`, `Ordinary Life`, `Auralis`, and `Terravelle` on 2026-03-08)
 
 - [ ] **USER-032 — Playability Layer (GM Hooks on Canon Pages)**
       **Source:** Creator direction request for practical usability (2026-03-08)
@@ -261,7 +261,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/GM Session Hooks.md` standard template page
       - `## Use In Session`, `## Complications`, `## Secrets` blocks on top-priority pages
       - At least 3 regional encounter seeds and 10 NPC hook entries in phase 1
-      **Status note:** IN PROGRESS (created `content/GM Session Hooks.md` and applied hook blocks to 6 NPC pages on 2026-03-08)
+      **Status note:** IN PROGRESS (created `content/GM Session Hooks.md`, applied hook blocks to 10 NPC pages, and deduplicated drifted high-impact files on 2026-03-08)
 
 - [ ] **USER-033 — Relationship Graph Formalization (NPC/Faction/Location Links)**
       **Source:** Creator direction request for political clarity and emergent plotting (2026-03-08)
@@ -271,7 +271,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/NPC Relationship Schema.md` with canonical link taxonomy
       - `## Relationships` sections on first 10 high-impact NPC pages
       - Seed relationship index by region/faction
-      **Status note:** IN PROGRESS (created `content/NPC Relationship Schema.md` and applied relationship blocks to 6 NPC pages on 2026-03-08)
+      **Status note:** IN PROGRESS (created `content/NPC Relationship Schema.md` and applied relationship blocks to 10 NPC pages on 2026-03-08)
 
 - [ ] **USER-034 — Rules Consolidation (Flux/Hypertext Operational Bible)**
       **Source:** Creator direction request for system coherence (2026-03-08)

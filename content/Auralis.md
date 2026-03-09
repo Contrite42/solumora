@@ -1,5 +1,12 @@
 [[Auralis]] is the southern kingdom of [[Solumora]], situated several hundred miles south of [[Equatorial Desert|Desert Zakros]]. Where [[Terravelle]] prizes restraint and efficiency, Auralis is a culture of ambition — driven by innovation, magical advancement, and a belief that the mastery of [[Flux]] is the highest pursuit a person can dedicate their life to.
 
+## Weekly Change Log (Current Timeline)
+
+- Week of 2026-03-08: Council-adjacent operators increased procedural caution while keeping public messaging stable.
+- Week of 2026-03-08: Border-facing administration emphasized documentation precision over throughput speed.
+
+See: [[Current Timeline]]
+
 ## Culture
 
 Auralis society leans toward a soft caste structure, where social standing is loosely tied to magical ability. This is not a rigid hierarchy of law — high-tier casters do not hold formal political office by virtue of their power — but in practice, a gifted caster commands admiration, fame, and access that a low-tier caster simply does not. Reputation flows toward those who can do things others cannot.

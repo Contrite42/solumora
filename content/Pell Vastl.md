@@ -16,6 +16,28 @@ He has worked for three different merchant houses over twenty-two years. All thr
 
 He finds the [[Watts]] system remarkable and says so to anyone who asks. The ledger that underlies all of it — distributed, impossible to forge, no institution in control — is the most elegant piece of infrastructure he works with daily, and nothing about his twenty-two years has diminished this. The people using it are exactly as clever and dishonest as people have always been. The ledger records all of it perfectly. He finds this, somehow, reassuring.
 
+## Relationships
+
+- `dependent`: [[Trade Guilds]] - procedural legitimacy for his work runs through guild review and merchant house expectations.
+- `ally`: [[Watts]] - trusts ledger structure more than institutional narratives around transactions.
+- `rival`: [[Ashford]] - functions inside city commerce while quietly tracking what city systems choose not to surface.
+
+## Use In Session
+
+- Players can hire Pell to audit a transaction chain that appears compliant but feels structurally wrong.
+
+## Complications
+
+- Evidence may prove misconduct that formal channels are disincentivized to pursue.
+- Merchant-house loyalty pressures compete with procedural accuracy.
+- Timing windows for dispute intervention close before full certainty.
+
+## Secrets
+
+- Pell maintains private anomaly lists that map repeat under-declaration patterns.
+- He can identify forged-normal documentation structures at a glance.
+- He has sat on evidence when escalation would not protect him.
+
 _See also: [[Ashford]], [[Life in Ashford]], [[Watts]], [[Birth Runes]], [[Terravelle]], [[Flux Users]], [[Control Tier]], [[Trade Guilds]]_
 
 
