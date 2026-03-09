@@ -1,31 +1,83 @@
 # The Winter Ledger at Wolfpoint
 
-The first snow closed the upper pass five days earlier than forecast, and everyone at the [[Wolfpoint Trade Registry]] pretended this was unsurprising.
+Snow arrived early and all of [[Wolfpoint]] performed the same ritual lie.
 
-Kess Rolv had seen the same performance for thirteen winters. Clerks adjusted column plans. Warehouse handlers renegotiated pallet sequencing. Herding coordinators revised arrival windows from the [[Upland Herding Network]]. Nobody said the words everyone was thinking: if two more storms arrived before the lower route stabilized, Wolfpoint's reserve projection would drop below the comfort threshold.
+"Expected," people said in market lanes while staring at the pass closure notice nailed to the registry board.
 
-Comfort threshold was not famine threshold. Wolfpoint had survived worse. But winter accounting in mountain settlements is less about disaster than about controlled anxiety stretched over months.
+Kess Rolv, thirteen winters deep at the [[Wolfpoint Trade Registry]], watched the theater with affection and exhaustion. Mountain settlements survived on two things: reserves and denial, in that order.
 
-Kess opened Ledger Four and entered a change to preserved-protein allocations after a delayed delivery from the [[Mountain Game Collective]]. Then she paused, ran the numbers twice, and realized the revised curve made one thing possible: if they pulled ten percent from ceremonial surplus and paired it with low-loss coastal intake on the [[Outer Coast Packet Line]], they could preserve spring seed reserves without touching emergency stock.
+Inside Registry Hall, clerks bent over ledgers while boots steamed by iron braziers. Outside, teamsters argued over unloading priority as if volume could be bullied into appearing.
 
-The proposal was technically sound and politically awkward. Ceremonial surplus was socially visible. Emergency stock was socially invisible. People complain when ritual tables get smaller. They panic when they hear emergency reserves moved, even when movement is a normal tool.
+Kess opened Ledger Four and started recalculating protein, grain, and seed retention curves after a delayed [[Mountain Game Collective]] shipment.
 
-Kess brought the proposal to [[Renn Taska]], expecting resistance. Renn listened, asked three questions about spoilage assumptions, and signed the order.
+Halfway through, she stopped.
 
-"Do it before the second storm," he said. "If we wait, we'll be doing it under rumor pressure."
+The numbers offered an ugly but useful path:
 
-The second storm arrived the next evening. The allocation shift had already started.
+- pull ten percent from ceremonial surplus,
+- supplement with low-loss intake from the [[Outer Coast Packet Line]],
+- preserve spring seed reserves,
+- avoid touching emergency stock.
 
-For a week, kitchens served slightly narrower portions at public observances. Nobody liked it. People noticed. A few complained loudly enough that clerks had to repeat the same sentence twelve times per day: "Winter balancing adjustment. No emergency declaration."
+Technically elegant. Politically miserable.
 
-What did not happen: emergency notices. Price spikes. Panic buying. Seed drawdown.
+People forgive invisible prudence. They resent visible austerity.
 
-By late thaw, the reserve books were intact. Wolfpoint entered planting season with adequate stocks and without having touched emergency lines.
+Ceremonial tables are visible.
 
-Kess closed Ledger Four and shelved it alongside twelve years of winters that had not become stories because the ledger work had held.
+---
 
-A visiting merchant asked her once whether she found the job dull.
+Kess took the plan to [[Renn Taska]] at dusk.
 
-"Most successful winters are dull," she said. "That is the point."
+Renn read in silence, thumb pressed against the margin where she'd circled spoilage assumptions.
+
+"You trust these rates?" he asked.
+
+"I trust them more than I trust second-storm optimism," she said.
+
+He looked out the office window at dark cloud stacking over the ridge.
+
+"Implement before nightfall," he said. "If we wait until storm two, this becomes rumor management instead of logistics."
+
+---
+
+Storm two hit the next evening.
+
+By then, warehouse shifts had already re-routed intake, and public kitchens had revised portions by a careful margin small enough to irritate, not panic.
+
+People noticed.
+
+"Why is serving lighter?"
+"Who's cutting us?"
+"Is there an emergency?"
+
+Clerks repeated the same sentence until their throats hurt:
+
+"Winter balancing adjustment. No emergency declaration."
+
+Complaints rose. Conspiracy gossip flared. No one thanked the registry.
+
+Kess considered that a good sign.
+
+What did not happen mattered more:
+
+- no panic buying,
+- no seed drawdown,
+- no emergency release,
+- no predatory price spikes.
+
+By late thaw, Wolfpoint had intact reserves and enough seed to plant on schedule.
+
+---
+
+At season close, Kess shelved Ledger Four beside twelve previous winters that had ended without catastrophe largely because someone did careful math early enough to be unpopular.
+
+A visiting merchant, city-soft and cheerful, asked if she found the work dull.
+
+Kess ran a hand over the spine labels and said, "Most successful winters are dull. If mine gets exciting, people die." 
+
+The merchant laughed politely, unsure if she was joking.
+
+She was not.
 
 _See also: [[Wolfpoint]], [[Wolfpoint Trade Registry]], [[Outer Coast Packet Line]], [[Upland Herding Network]], [[Mountain Game Collective]], [[Renn Taska]], [[Solumora]]_

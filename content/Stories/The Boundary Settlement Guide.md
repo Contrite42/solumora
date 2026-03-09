@@ -1,29 +1,89 @@
 # The Boundary Settlement Guide
 
-The expedition was supposed to fail. These expeditions usually fail or succeed differently than planned, but this one had every reason to crater in the first week. The client was inexperienced. Half the team was younger than twenty. Three of the five grimoires purchased as backup had composition errors that made them unreliable. The route through [[Maren Valley]] toward the [[Equatorial Desert|Zakros]] edge sites was longer than the direct route, requiring seven additional days of travel.
+Tess Corvn decided this expedition would probably fail before they finished loading mules.
 
-Tess Corvn, a guide operating from [[Life in Halveth|Halveth]] for the past eight years, looked at the client on day one and saw someone who would either learn very quickly or create a liability. The team was young enough that it could go either direction.
+Not because anyone was stupid.
 
-By day three, the client was dead-pulling her weight. By day eight, she was helping the T2 practitioner on the team recalculate cost estimates for spells based on actual Flux pull timing rather than theoretical predictions. By day twelve, she had talked the team out of burning through expensive grimoires on routine surveillance when cheaper sensors would work just as well.
+Because the arithmetic looked wrong in all the familiar ways: inexperienced client, half the team under twenty, backup grimoires with visible composition flaws, and a route through [[Maren Valley]] that added seven days to avoid nastier risk bands near the [[Equatorial Desert|Zakros]] edge.
 
-The expedition's goal was to document three new ruin sites in [[Ancient Ruins|the broken territories]] toward the Zakros edge. Nothing remarkable. Enough interest to fund a follow-up expedition later. No expectation of major discovery.
+"We still taking it?" her assistant asked.
 
-They found something better than discovery. They found good practice. On day water the team successfully navigated through a rift probability zone using a raw discipline sensing spell that Tess had learned from a [[Keld Orun|T9 practitioner]] years ago. The theory was standard. The execution created something new — a sustained, overlapping detection pattern that allowed the team to identify zone boundaries without approaching them directly. They mapped seventeen kilometers in two days instead of the estimated five.
+"We take contracts, not omens," Tess said, tightening a strap.
 
-The client recorded the method. Tess watched her mark down notation that was actually usable in field conditions, not just theoretically sound.
+She had guided out of [[Life in Halveth|Halveth]] for eight years. She trusted patterns more than confidence.
 
-By day twenty-three, the expedition reached the first ruin site. The location markers were three years out of date. The structures were in better condition than predicted. The team's mind discipline practitioner, a cautious T2 who had spent the first week second-guessing everything, successfully detected and mapped spatial distortions that suggested internal chambers. Without forcing entry, without risk, knowing exactly what was there.
+This pattern said: either the team would mature fast, or she'd spend a month hauling them out of preventable mistakes.
 
-By day thirty, all three sites were documented. The team wanted to stay longer. The schedule said return. Tess made them stick to schedule, which was the right call, because doing so meant the expedition ended on success instead of exhaustion. Everyone wanted to come back. The client would fund a follow-up within six months.
+---
 
-On the final night, before returning to Halveth, the young practitioner who had seemed least capable six weeks earlier asked Tess directly: "Are all expeditions like this?"
+By day three, the client surprised her.
 
-"No," Tess said. "This one went well. That's not normal."
+Young, yes. Soft-handed, yes. But disciplined.
 
-"Will we remember this?" the practitioner asked. "Or will it become normal in memory?"
+By day eight, the client was helping recalculate cast timing based on live [[Flux]] pull instead of textbook assumptions. By day twelve, she talked the group out of wasting expensive grimoires on routine surveillance when cheaper sensors and better spacing would do.
 
-Tess considered honesty. "You'll remember it for five years. Then it will fade back into being something you did once that worked out. That's how success functions. It fades into competence."
+"You're not who I expected," Tess said over a late watch.
 
-The practitioner thought about that for a long time. The expedition broke camp clean the next morning. Tess carried documentation and specimen maps. The team carried something harder to define: the memory of competence as something achievable. For a young practitioner, that might matter more than any discovery.
+"No one ever is," the client replied.
+
+---
+
+Official objective: document three ruin sites in the broken territories, produce enough reliable mapping to justify a larger follow-up grant.
+
+Unofficial objective, as Tess saw it: get everyone home wiser than they left.
+
+Day fourteen delivered the first real test.
+
+A rift-probability zone opened across their planned line. Not active breach, but unstable enough to punish direct probing.
+
+Tess pulled an old raw-discipline sensing method she'd learned years back from [[Keld Orun]] and modified it with overlapping stagger-casts.
+
+Result: a layered detection net that mapped boundary drift from safer range.
+
+Seventeen kilometers charted in two days where the team had budgeted five.
+
+The client wrote every step down in field shorthand practical enough to survive weather and panic. Tess noticed and said nothing, which in guide language counted as approval.
+
+---
+
+At site one, markers were three years stale and mostly wrong.
+
+At site two, entry points looked safe and were not.
+
+At site three, the team's cautious T2 mind specialist finally trusted his own reads, flagged subtle spatial distortions, and prevented what would have been a disastrous forced entry.
+
+By day thirty they had all three sites documented, specimen notes secured, and enough clean data to make their patron smile for months.
+
+The younger members wanted to stay longer.
+
+Tess made them break camp anyway.
+
+"Success is a schedule too," she told them. "You don't earn extra points for staying until you're tired and stupid."
+
+They grumbled. They obeyed.
+
+On final night, beside a low blue campfire, the least confident practitioner from week one sat beside Tess and asked, "Are expeditions usually this good?"
+
+"No," Tess said.
+
+"Then how do you keep doing them?"
+
+She considered the stars, the wind, and the absurd luck of competent teams.
+
+"Because sometimes you get one like this," she answered. "And it reminds people what competence feels like."
+
+The young practitioner stared into the fire for a while.
+
+"Will I remember it?"
+
+"For a few years vividly," Tess said. "Then it'll blur into your baseline, and one day you'll catch yourself doing something difficult calmly because this trip taught your hands how."
+
+Morning came cold and clear. They packed on time, moved on time, and reached Halveth with all people and all notes intact.
+
+No dramatic artifact recovered. No legendary revelation.
+
+Just something rarer in field work:
+
+a difficult mission completed by people who learned fast enough to become the team they needed to be.
 
 _See also: [[Halveth]], [[Life in Halveth]], [[Maren Valley]], [[Equatorial Desert]], [[Ancient Ruins]], [[Control Tier]], [[Spells]], [[Flux Users]], expedition culture, [[Solumora]]_

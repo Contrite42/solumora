@@ -1,37 +1,93 @@
 # A Cost That Makes Sense
 
-The apprentice had made a mistake. Nothing catastrophic. A spell copied with a shifted parameter that changed the cost calculation from 18 Watts to 42 Watts. The practitioner who commissioned the work noticed during preliminary casting checks and rejected the copy.
+The first mistake Lera made that morning was small enough to fit between two breaths.
 
-The master scrivener — Ossam, T3, working out of [[Valdenmoor]] — brought the mistake to the apprentice's workspace. The failed copy sat between them on the desk, marked with Ossam's correction notes but otherwise visible as a failure.
+She copied one line of the shape-field equation, skipped two, then continued cleanly down the page as if nothing had happened. The ink looked beautiful. The sigils were perfectly centered. The margins were exact. Anyone looking at the copy would think she had done everything right.
 
-"Walk me through why you made this error," Ossam said.
+Then the client tried a test cast and watched the cost jump from 18 [[Watts]] to 42.
 
-The apprentice went through the original text, read the parameters correctly, then identified the mistake: a transcription skip in the middle of the shape-field calculation. Simple error. One copied line instead of three. 
+By noon, the failed page sat on Ossam's desk in [[Valdenmoor]], weighted at the corners with brass clips as if it might run away.
 
-"So you copied accurately up to this point," Ossam said. "Then you skipped. Why?"
+Ossam did not raise his voice. He never did.
 
-The apprentice didn't know.
+"Walk me through it," he said.
 
-"Because you were tired," Ossam said. "Your attention dropped at this exact moment on the page. I know this because the skip happens at the transition from one page to the next in the source material, where readers naturally glance up. Standard error."
+Lera swallowed. "I checked source alignment. I verified line breaks. I copied the first segment. Then..." She touched the page where the transition crossed from one sheet to the next. "Then I looked up and went forward."
 
-The apprentice nodded, miserably.
+"Why?"
 
-"So the question is not 'how do I not make mistakes' — you will always make mistakes. The question is 'how do I catch this class of mistake before sending it to a practitioner.'" Ossam pointed to the rejected copy. "The practitioner tested this. They found the problem. They lost two Watts of test-casting and gained accurate information that the copy is wrong. That's acceptable failure. They paid us the standard fee even with rejection because the rejection happened at their stage, not at some later stage where fixing the error is more expensive."
+"I don't know."
 
-The apprentice still looked miserable.
+"You do." Ossam tapped the seam between pages. "You were tired. Your eye took the jump. Standard fatigue error."
 
-"Here's what I want you to do," Ossam continued. "I want you to spend one hour calculating what this spell would cost at the parameters you accidentally copied. Figure out what someone might do with 42 Watts instead of 18. Then figure out what would change in their methodology, their approach, their expected result. This teaches you something important: the cost calculation is not arbitrary. It emerges from actual practice considerations."
+Lera waited for the punishment. Docked pay. Suspension from the desk. Maybe reassignment to inventory scraping where no one trusted her with live text.
 
-The apprentice started the calculations that evening. An 18-Watt spell is in the range where a T1 practitioner can cast it repeatedly. A 42-Watt spell is in T2 range. The difference means different people, different planning, different risk profiles. The spell the apprentice had copied doesn't become "wrong" at 42 Watts — it becomes a different spell entirely, with different applications, different user bases, different safety margins.
+Instead Ossam slid a slate toward her.
 
-When the apprentice understood this, the mistake transformed from "I failed at copying" to "I failed to copy, and the result is a different spell entirely." The understanding changed the weight of the failure from embarrassment to curiosity.
+"Go calculate the world where this is correct." 
 
-Three days later, the apprentice asked Ossam: "Could someone commission the 42-Watt version deliberately?"
+She frowned. "Master?"
 
-"They could," Ossam said. "They would need to specify it, and they would need a different purpose in mind. But yes, someone could want exactly that spell. Your mistake is someone else's specification."
+"You wrote a different spell. So tell me what that spell does in the hands of a real [[Flux Users|practitioner]]."
 
-The apprentice made no transcription errors in the next hundred pages. This was partly because the lesson had taken root. It was partly because understanding why the error mattered — understanding that the error was not a mistake against some perfect standard but was instead the specification of a different problem — made vigilance feel purposeful rather than punitive.
+---
 
-Ossam kept the failed copy. When new apprentices came through the scriptorum, he showed them that copy and told them the same thing: spells are specifications. The cost emerges from the specification. Get the specification right, and you understand the spell. Get the specification wrong, and you have understand a different spell perfectly.
+She spent the afternoon with a chalk board, two reference grimoires, and a headache that felt like a nail between her eyes.
+
+At 18 Watts, the spell lived in T1 territory: repeatable, safe, useful for workshops and farm sheds.
+
+At 42, it moved into T2 planning: larger reservoirs, stricter sequencing, higher risk if cast during fatigue. It was no longer a convenience spell. It was a commitment.
+
+The more Lera worked, the less the page looked like failure and the more it looked like a fork in reality.
+
+In one world, a small workshop buys six copies and keeps rain off their roof all season.
+
+In another, a caravan foreman commissions two expensive castings to stabilize a temporary depot in hostile weather.
+
+Same sigils. Different lives.
+
+When Ossam returned at dusk, she had covered three slates with numbers.
+
+"Well?" he asked.
+
+"I didn't just make it wrong," she said quietly. "I changed who could use it."
+
+Ossam nodded once. "Now you understand what we actually copy."
+
+---
+
+Three days later, Lera brought him a new question.
+
+"Could someone order the 42-Watt version on purpose?"
+
+"Yes."
+
+"Would we sell it?"
+
+"If they spec it honestly, and if safety notes are explicit, yes."
+
+"So my mistake is..."
+
+"A bad commission." Ossam leaned back in his chair. "Not nonsense. Not chaos. A bad commission filed under a good one."
+
+That answer changed her more than the correction itself.
+
+She started reading every spell like a contract between people: what this asks, who can pay, who can survive using it, who gets locked out by one changed number.
+
+Her error rate dropped to nearly zero over the next quarter, but not because she became afraid.
+
+Because she became interested.
+
+---
+
+Years later, when Lera had apprentices of her own, she kept the failed page in a thin cedar frame above her station. New scribes assumed it was a warning.
+
+It was, but not in the way they thought.
+
+When an apprentice asked why she kept a mistake on display, she said:
+
+"This is what happens when you forget that [[Spells]] are specifications, not decoration. Every line moves money, risk, and possibility. If you miscopy, you do not create nothing. You create a different world and hand it to someone who trusts you." 
+
+Then she handed them chalk and a slate and said, "Now show me the world where your mistake is correct."
 
 _See also: [[Valdenmoor]], [[Flux Users]], [[Control Tier]], [[Watts]], [[Spell Variables]], [[Grimoires]], [[Spells]], [[Solumora]]_

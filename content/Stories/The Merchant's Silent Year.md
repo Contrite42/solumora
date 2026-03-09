@@ -1,41 +1,110 @@
 # The Merchant's Silent Year
 
-Vorn Chaste held the contract for the Zakros salt wells from the seventeenth cycle to the twenty-first. The agreement was straightforward: extract premium sodium chloride from the crystallized beds west of the Rim, process it to trade standard, transport it back to [[Solumora]] in batches. Not difficult work. Not prestigious. The margins were thin but reliable.
+Vorn Chaste believed in ugly profits.
 
-For four years, Vorn's crews moved through Zakros on schedule. Two teams rotating. Six people per team, all experienced. [[Control Tier|T3]] and T2 practitioners managing the extraction magic. Standard provisions. Standard routes. Standard contingencies.
+The kind that never made legends, never bought opera boxes, never earned toasts at trade halls. The kind that came from doing one dull thing correctly for years: hauling refined salt out of Zakros-edge wells and getting it to [[Solumora]] before weather, theft, or bad luck took its cut.
 
-The fifth year provided no contingencies to manage. 
+He took the concession because no one glamorous wanted it. Thin margins. Harsh route. Constant little disasters.
 
-Crew rotation occurred exactly as planned. The first team departed with three tons of processed salt. Nothing unusual. No rift activity. No weather events. No mechanical failures or supply interruptions. They reached Solumora and returned with fresh provisions. The second team took their turn. Same conditions. Same success. Same quiet completion.
+That last part changed.
 
-Months passed. The second rotation happened. The third approached. And Vorn, who had been doing this for four years with clockwork regularity, noticed something: he had not made a single deviation. Not one equipment repair. Not one reroute. Not one negotiation with local guides about rift activity. Not one payment to a T4 practitioner brought in because a lower tier wasn't sufficient. Four years, and the work had been mechanically perfect.
+---
 
-He pulled the contracts. He verified the numbers. Four years of identical cost, identical profit, identical routing. The Zakros crossing did not usually work that way. No crossing worked that way.
+For the first few years, the job behaved as expected.
 
-The fifth year ended. The sixth year began. The seventh. Nothing changed. Nothing broke. Nothing required adjustment. 
+A wheel axle split in month three.
+A guide demanded hazard premium in month seven.
+A T2 caster burned through reserve too early on a heat-control sequence.
 
-Vorn hired a consultant to verify the crew rosters and route data. Everything checked exactly. He brought in a [[Flux]] specialist to examine whether someone had set a stasis or optimization enchantment on the crossings themselves — something illegal, something that would lock conditions in place and prevent the normal complications of desert travel.
+Annoying. Predictable. Manageable.
 
-The examination found nothing.
+Then came the silent year.
 
-By the ninth year, Vorn had stopped looking for the reason. The crossing worked. The margins were thin but exactly as projected. The crews rotated like mechanisms. The salt arrived and was sold. The profit was reliable.
+No broken gear.
+No delays.
+No [[Rift Incursions|rift signatures]] near route.
+No weather violence worth writing home about.
 
-He inherited a complication in the tenth year: the city of Solumora instituted new taxation on refined salt imports, raising effective trade costs by twelve percent. The margin structure that had been thin became unsustainable. Vorn needed to renegotiate his contract with the well management, or increase crew compensation to offset the tax, or reduce the per-trip extraction volume.
+Just smooth transit after smooth transit, as if the [[Equatorial Desert]] had taken a vow of civility.
 
-He attempted to renegotiate. The well management declined. The contract was finalized as-written. He could not pay crews less — the rate had been agreed to contractually. He could not extract more without increasing team size, which would require additional transport, which would compound the margin problem.
+Vorn did not celebrate. He started checking for traps.
 
-The contract became loss-making. Vorn continued operating it, running at a twelve percent loss per shipment, because the contract was binding and the legal penalties for breach exceeded the financial loss. Continue the crossing. Lose money on salt. Pay off the contract term. Exit.
+"You're frowning at profit," his accountant said over late-night ledgers.
 
-For three years, he ran at a loss.
+"I'm frowning at repetition," Vorn replied. "Zakros doesn't repeat this cleanly."
 
-The contract ended in the fifteenth year. Vorn stood down the crews. He calculated total earnings: seventeen percent above the standard contract management agency's fee, barely enough to cover the legal retention costs he'd incurred during the renegotiation disputes. Ten years of work, a loss of approximately eight months' worth of profit, and a market condition that erased the margin structure entirely.
+He hired an outside auditor, then a [[Flux]] examiner, then a route historian. Maybe someone had laid illegal stasis work over the corridor. Maybe crews were falsifying logs. Maybe he had become the victim of a very patient fraud.
 
-A younger merchant, not understanding what had happened, purchased the contract from the well management the following year. She planned to modernize the operation. Higher capacity extractions. Multiple simultaneous crews. Faster processing. She increased team size by forty percent and submitted her first expedition to Zakros with twice the normal salt load.
+They found nothing.
 
-The crew did not return. A separate crossing team found overturned equipment eighteen kilometers into the crossing zone. No bodies. No markers. The circumstances became unclear. An investigation suggested [[Rift Incursions|rift activity]] of unusual intensity, though no such activity had been noted during Vorn's tenure.
+Year six: still clean.
+Year seven: still clean.
+Year eight: still clean.
 
-The merchant's contract defaulted. The well management reoffered the concession. No one took it for a year.
+By year nine, even Vorn started treating luck like policy.
 
-Vorn was asked if he would consider returning to the salt operation. He declined. He had gotten ten years of mechanical, unvarying conditions. He had treated them as normal. He had left the work because of taxation, not complication. And when complication finally arrived, it had not arrived for him.
+---
+
+Then the city changed a tax line.
+
+Refined salt imports up twelve percent.
+
+A single clerk's stamp turned a narrow profit into guaranteed loss.
+
+Vorn ran the numbers three times, then brought them to well management.
+
+"We need a rate adjustment," he said. "Either on extraction fee or transit share."
+
+The manager barely looked up. "Contract is fixed."
+
+"Fixed into insolvency." 
+
+"Still fixed."
+
+He explored every ugly option:
+
+- cut wages (contract-protected, impossible),
+- increase load size (higher failure risk, more equipment cost),
+- break contract (penalties worse than operating loss).
+
+So he did what practical men do when all doors are bad:
+
+he chose the least bad and endured it.
+
+For three years, each shipment bled money.
+
+The crews kept moving because they were professionals. Vorn kept paying because he was bound. At night he watched profit evaporate like spilled spirits on hot stone.
+
+When the term ended, he closed the books and discovered ten years of work had netted him little more than a cautious management fee plus a permanent dislike of tax law.
+
+---
+
+A younger merchant took the concession the next year.
+
+Ambitious. Smart. Confident in modern scaling models. She increased crew count by forty percent and doubled first-load volume, determined to recover losses through throughput.
+
+The first caravan never came back.
+
+Another team found overturned rigging eighteen kilometers into the run. No bodies. No trackable remains. Report said probable high-intensity rift activity, though route history in Vorn's years showed nothing comparable.
+
+Concession defaulted. No buyers for a year.
+
+People asked Vorn if he wanted the contract back.
+
+He said no before they finished the sentence.
+
+---
+
+In private, over one final drink with his former route lead, he admitted what he had never put in a ledger:
+
+"I spent ten years thinking reliability meant control. It didn't. It meant I got ten borrowed years where the desert looked away." 
+
+The lead asked if he regretted leaving.
+
+Vorn stared at the condensation ring on the table and said, "No. I regret believing silence is the natural condition of dangerous systems."
+
+He retired from desert concessions after that, moved into boring grain syndicates, and slept better.
+
+But once a year, when tax schedules were published, he still checked the salt line first, as if some old part of him expected Zakros to answer.
 
 _See also: [[Equatorial Desert]], [[Zakros Rim Caravan Loop]], [[Rift Incursions]], [[Solumora]], [[Control Tier]], [[Flux]]_

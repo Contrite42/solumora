@@ -1,35 +1,83 @@
 # The Copy That Stayed Cheap
 
-Tarin Vess expected the argument before she opened the ledger.
+Tarin Vess knew the argument before the ledger even opened.
 
-The request came from a workshop cooperative in the lower terraces of [[Valdenmoor]]: twelve copies of a weatherproofing sigil from a [[Common Grimoire]], needed before rain turn, budget capped at 96 [[Watts]]. The math worked only if she priced each copy below what the district's larger houses considered "efficient labor."
+The request came from a lower-terrace workshop cooperative in [[Valdenmoor]]: twelve weatherproofing copies from a [[Common Grimoire]], needed before rain turn, total cap 96 [[Watts]].
 
-Her supervisor at the affiliate desk looked at the numbers and said what he always said when margins were thin.
+Her supervisor glanced at the figures, sniffed once, and said, "Add fifteen percent."
 
-"Raise by fifteen percent. They can absorb it."
+"They can't carry fifteen percent."
 
-Tarin, Tier 1 and twenty-six years old, had spent six years at the edge of the [[Guild Scrivener Network]] where requests from small clients go when bigger desks don't want the overhead. She knew "they can absorb it" usually meant "they will pay by skipping something else."
+"They always say that."
 
-"If we raise," she said, "they'll cut volume. Then half the roofs get done and half don't."
+"No," Tarin said, tapping the line for roof count. "They cut volume if we raise. Half the roofs get covered. Half don't."
 
-"That is their allocation problem," he said.
+Her supervisor leaned back. "That is not our problem."
 
-Tarin asked for one day to submit revised production sequencing. He gave her three hours.
+Tarin looked out the window at lower terraces where roofs were patched with scrap tin and stubbornness.
 
-She rebuilt the work order from the bottom: shared prep stages, grouped variable checks, one verification pass for every three pages instead of one pass per page, no quality drop allowed. It was slower for her in the short term and cheaper for the client in total. She attached the revised timing and her expected error rate based on the previous quarter.
+"It becomes our problem when they stop ordering because we priced utility like luxury."
 
-The supervisor read it, said nothing for almost a minute, then approved the original cooperative price without the increase.
+He gave her three hours to prove an alternative.
 
-The copies left on schedule. The cooperative paid on time. Two weeks later, heavy rain hit the district and those roofs held.
+---
 
-No one outside Tarin's desk heard about the order. It was one modest contract in a city of contracts.
+She rebuilt the whole order from first principles.
 
-What changed was internal. Her sequencing notes were adopted as a standard option for low-margin public utility copies where volume mattered more than premium speed. Three desks began using the same pattern by winter.
+Shared prep batches.
+Grouped variable checks.
+One deep verification for every three pages instead of one per page.
 
-A year later, a new apprentice asked Tarin why she still accepted low-margin work that offered no promotion path.
+No quality loss. Just sequencing discipline and a willingness to work less elegantly.
 
-"Because price is part of quality," Tarin said. "If the spell works but no one can pay for it, we copied the wrong thing."
+She attached past-quarter error rates, expected labor drag, and a note in plain language:
 
-The apprentice wrote that down, then pretended he had not.
+_If these copies are priced correctly, the district remains dry enough to keep paying us next season._
+
+Her supervisor read the packet in silence long enough for Tarin to hear her own pulse.
+
+Then he signed the original price line without the increase.
+
+"Don't make me regret this," he said.
+
+"I won't," she answered.
+
+---
+
+The cooperative sent runners every evening to collect finished sheets still warm from drying racks.
+
+On delivery night, their forewoman gripped Tarin's forearm and said, "If this holds, we keep our machine room open through storm quarter."
+
+Two weeks later, the sky cracked open for three days of brutal rain.
+
+Roofs held.
+
+No dramatic speeches. No city notice. Just less water in workrooms, fewer ruined materials, fewer families forced into emergency borrowing because damp had chewed through stock.
+
+The order disappeared into accounting history like modest decisions do.
+
+But at the desk level, people noticed.
+
+By winter, Tarin's sequencing model became a standard option for low-margin utility jobs across three affiliate desks. Apprentices were taught to ask one extra question before quoting high:
+
+_What fails downstream if this gets too expensive?_
+
+---
+
+A year later, a new apprentice asked Tarin why she kept taking jobs that were "important but not prestigious."
+
+Tarin set her pen down.
+
+"Prestige doesn't keep rain out," she said.
+
+The apprentice laughed, then realized she wasn't joking.
+
+"Listen," Tarin continued, turning the grimoire page so the novice could see the cost equations. "If a spell is flawless and unaffordable, then for most people it's broken. Price is part of function."
+
+The apprentice wrote that down quickly and pretended it was for another class.
+
+Tarin pretended not to notice.
+
+Outside, storm clouds were already gathering at the edge of the district, and somewhere in the lower terraces a cooperative roof stayed dry because one scrivener chose to fight over a line item instead of accepting that scarcity was natural.
 
 _See also: [[Valdenmoor]], [[Guild Scrivener Network]], [[Common Grimoire]], [[Watts]], [[Trade Guilds]], [[Ordinary Life]], [[Solumora]]_
