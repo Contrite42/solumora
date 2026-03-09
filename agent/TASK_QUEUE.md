@@ -179,7 +179,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Institutional notes: mechanisms preventing coexistence from becoming campaign wedge issue; protocols for peaceful transfer when anti-coexistence factions gain electoral power
       - Story bundle covering: campaign messaging constraints, peaceful power transfer to skeptical leadership, first full electoral cycle completion under new paradigm
       - Hub update: add "Years 4-5: Electoral Durability Testing" section to `The Three Near-Wars.md`
-      **Status note:** COMPLETE (2 governance notes + 3-story electoral durability bundle completed; `The Three Near-Wars.md` updated with "Years 4-5: Electoral Durability Testing" on 2026-03-09)
+      **Status note:** COMPLETE (2 governance notes + 3-story electoral durability bundle completed; `The Three Near-Wars.md` updated with "Years 4-5: Electoral Durability Testing" on 2026-03-08)
 
 - [x] **USER-025 — First Contact Era Historical Development (~200 Years Ago)**
       **Source:** Historical gap between Persecution Era (ended ~400 years ago) and current era; Decision F Component 5 Option B consideration
@@ -190,7 +190,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Trade/diplomatic institutions: first trade compacts, courier networks, cross-border mediation systems
       - Personal narratives: first successful crossing parties, early settlers, founding diplomatic figures
       - Hub creation: new historical hub linking First Contact Era to current coexistence precedents
-      **Status note:** COMPLETE (First Contact hub + institutional framework notes + 4 linked stories completed and integrated on 2026-03-09)
+      **Status note:** COMPLETE (First Contact hub + institutional framework notes + 4 linked stories completed and integrated on 2026-03-08)
 
 - [ ] **USER-026 — Regional Balkanization Cascade (Protected Zones Institutional Divergence)**
       **Source:** Tension signals in Protected Observation Zone adaptation patterns; regional variance doctrine stretched to breaking point
@@ -220,7 +220,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Character arcs: each party member's post-crisis trajectory (continued institutional involvement, retreat from public life, new roles, personal relationships)
       - Personal narratives: what does "normal" look like after being central to paradigm shift; how do competent people process having been the right person at the right time
       - Hub updates: integrate retrospective context into character files established during Decision F execution
-      **Status note:** COMPLETE (4 retrospective stories covering Merra, Verath, Jess/Kess partnership, and Cassia completed on 2026-03-09)
+      **Status note:** COMPLETE (4 retrospective stories covering Merra, Verath, Jess/Kess partnership, and Cassia completed on 2026-03-08)
 
 - [x] **USER-029 — Ancient Civilization Final Generation Development**
       **Source:** Decision F Component 5 Option C consideration; ruins mystery remains narratively hollow without lived experience context
@@ -231,7 +231,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Personal stories: ordinary citizens, scholars documenting the end, leaders making final choices, those who chose to stay vs. those who departed
       - Ruins recontextualization: each major ruin site becomes location where specific historical events occurred
       - New historical hub: "The Final Generation" linking ancient civilization to current-era ruins research
-      **Status note:** COMPLETE (`The Final Generation.md` hub + 6 personal narrative stories completed; ruins recontextualized with lived-experience perspectives on 2026-03-09)
+      **Status note:** COMPLETE (`The Final Generation.md` hub + 6 personal narrative stories completed; ruins recontextualized with lived-experience perspectives on 2026-03-08)
 
 - [x] **USER-030 — Git Commit and Archive Cleanup**
       **Source:** Permanent task reminder; 15 persecution-era files + major hub integrations not yet committed
@@ -241,7 +241,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Git commit with descriptive message covering USER-014 through USER-023 work
       - Git push to remote repository
       - Move Decision F from "Active Decisions" to "Resolved Decisions" section in DECISIONS.md
-      **Status note:** COMPLETE (Decision F moved to resolved state, prior implementation commit pushed, and follow-up completion commit for USER-024/025/028/029 prepared on 2026-03-09)
+      **Status note:** COMPLETE (Decision F moved to resolved state, prior implementation commit pushed, and follow-up completion commit for USER-024/025/028/029 pushed on 2026-03-08)
 
 ---
 
