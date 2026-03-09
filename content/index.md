@@ -11,21 +11,6 @@ This is the homepage for the vault. Use it as the shortest path into current can
 - Broad link index: [[World Index Draft]]
 - Story entry: [[Stories]]
 
-## Just Read Stories
-
-If you want narrative first, start here:
-
-- Main story hub: [[Stories]]
-- War-to-coexistence arc: [[The Three Near-Wars]]
-- Character-centered post-crisis stories: [[Stories/Five Years After - Merra's Return to the Desert]], [[Stories/Five Years After - Verath's Public Life]], [[Stories/Five Years After - The Competent Partnership]], [[Stories/Seven Years After - Cassia's Institutional Burden]]
-- Deep-history mystery arc: [[The Final Generation]]
-
-Reader fit:
-
-- Tabletop campaign energy: practical logistics, field-level choices, and risky operations
-- Anime-style progression: power systems with explicit constraints, growth under pressure, high-stakes reveals
-- Geopolitical fantasy: institutions, treaties, factional pressure, and social consequences of major decisions
-
 ## Fast Paths
 
 - World and timeline: [[Solumora]] -> [[Geography]] -> [[History of Solumora]] -> [[The Three Near-Wars]]
