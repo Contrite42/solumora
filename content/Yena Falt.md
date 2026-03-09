@@ -18,4 +18,26 @@ She learned the work from a man named Arvan who ran the same practice for thirty
 
 She keeps no records of decisions beyond what the parties require for their own documentation. Anything that becomes reference material for future disputes gives the parties information about how she reasons, which would change how they present cases, which would change the information available to her when she reasons. She explained this to Arvan once. He said he had worked this out around year eight and she had saved herself some time.
 
+## Relationships
+
+- `patron`: [[Ashford]] - derives authority from cross-party trust rather than formal office.
+- `ally`: [[Life in Ashford]] - serves as a pressure-release mechanism for commercial conflicts before formal escalation.
+- `rival`: [[Trade Guilds]] - cooperates operationally while preserving independent judgment outside guild control.
+
+## Use In Session
+
+- Players can hire Yena to settle a high-stakes cargo dispute where the visible facts are structured to mislead.
+
+## Complications
+
+- Both parties may withhold key evidence to shape Yena's inference path.
+- Formal authorities can intervene if arbitration outcomes threaten larger trade interests.
+- Yena's refusal to keep precedent archives limits appeals but protects neutrality.
+
+## Secrets
+
+- Yena can detect recurring falsification signatures tied to a broader laundering pattern.
+- She privately tracks procedural anomalies even while avoiding formal case archives.
+- A single decision could expose a merchant network with political protection.
+
 _See also: [[Ashford]], [[Life in Ashford]], [[Flux Users]]_

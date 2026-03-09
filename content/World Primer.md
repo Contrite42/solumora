@@ -29,6 +29,14 @@ Solumora is a single supercontinent divided by one hard fact: the equatorial bar
 - Magic route: [[Flux]] -> [[Control Tier]] -> [[Grimoires]] -> [[Spells]]
 - Story route: [[Stories]] -> [[Stories/Five Days Before the Breakpoint - Operator]]
 
+## Advanced Routes
+
+- Active events route: [[Current Timeline]] -> [[The Three Near-Wars]] -> [[Stories]]
+- GM route: [[GM Session Hooks]] -> [[NPCs by Region and Role]]
+- Relationship route: [[NPC Relationship Schema]] -> [[Council Members]] -> [[People]]
+- Rules route: [[Flux and Hypertext Rules Bible]] -> [[Flux]] -> [[Hypertext]]
+- Mystery route: [[Mysteries Index]] -> [[Ancient Ruins]] -> [[Wolfpoint]]
+
 ## Use With Root Pages
 
 - For homepage navigation: [[index|Welcome]]

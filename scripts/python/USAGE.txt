@@ -35,6 +35,10 @@ Focused world navigation pack (top pages + read plan ranges):
   python scripts/python/world_nav_query.py Grimoires --top-pages 10 --sections-per-page 4
   python scripts/python/pyhub.py run hub:world_nav_query -- Grimoires --output tmp/nav-grimoires.json
 
+Section coverage audit (appearance/relationships/session hooks):
+  python scripts/python/section_audit.py
+  python scripts/python/pyhub.py run hub:section_audit -- --required Appearance Relationships "Use In Session"
+
 Git auto-commit and push (for deployment updates):
   python scripts/python/git_auto_push.py "Content expansion batch complete"
   python scripts/python/pyhub.py run hub:git_auto_push -- "Map component updates"

@@ -46,4 +46,26 @@ He has never told anyone this. It is not a political position. It is not actiona
 
 He is nineteen. He is aware it is not a serious thing. He is also aware that awareness has not done much to resolve it.
 
+## Relationships
+
+- `dependent`: [[Eddan Voss]] - inherits authority from his father while resisting the political mold expected of him.
+- `ally`: [[Flux Users]] - maintains informal ties with sympathetic formulists who tolerate his unconventional questions.
+- `unknown-link`: [[Cassia]] - unresolved personal fixation with strategic implications he does not yet acknowledge.
+
+## Use In Session
+
+- Players can recruit Cael's sequence-cost insights for a practical breakthrough that has immediate political consequences.
+
+## Complications
+
+- Any useful result from Cael's experiments can be interpreted as disloyalty to court training priorities.
+- His informal research network lacks institutional cover and can be pressured easily.
+- Court actors can weaponize his visible immaturity to block otherwise valid proposals.
+
+## Secrets
+
+- Cael's sequential-load theory is closer to a Hypertext bridge than anyone in court realizes.
+- He keeps private notebooks with edge-case observations he has not shared with state tutors.
+- He may choose technical truth over diplomatic timing at a critical moment.
+
 _See also: [[Eddan Voss]], [[Terravelle]], [[Auralis]], [[Cassia]], [[Flux]], [[Flux Users]], [[Hypertext]], [[Valdenmoor]], [[Fen Orel]]_

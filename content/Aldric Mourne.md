@@ -26,4 +26,26 @@ Both recommendations were declined. Aldric has filed this outcome, adjusted his 
 
 He does not find this troubling in the way that people outside his profession find it troubling. He has seen what happens when good soldiers die in bad operations, and he has made his peace with the gap between what a logistics officer can control and what falls outside it. What he does find difficult — not troubling, difficult — is the documentation discrepancy: the expeditions that are not acknowledged as lost officially. He maintains a private record. He has not decided what to do with it.
 
+## Relationships
+
+- `handler`: [[Drest]] - receives probability-based planning support and pushes for certainty Aldric will not fabricate.
+- `ally`: [[Brennan Solce]] - respects Solce's grounded border-risk framing even when faction narratives do not.
+- `dependent`: [[The Council of Auralis]] - relies on his logistics precision while ignoring his reduction recommendations.
+
+## Use In Session
+
+- Players need accurate expedition planning under political pressure and must decide whether to preserve truth or satisfy command narratives.
+
+## Complications
+
+- Council leadership demands confidence levels that logistics cannot ethically provide.
+- Missing-expedition records are split between official and private systems.
+- Timing pressure forces under-provisioned departures into high-attrition windows.
+
+## Secrets
+
+- Aldric maintains a private discrepancy ledger that contradicts public loss reporting.
+- He can prove repeated preparation shortfalls were known in advance.
+- He has a threshold at which he may leak his private record to stop further attrition.
+
 _See also: [[The Council of Auralis]], [[Council Members]], [[Drest]], [[Auralis]], [[Equatorial Desert]], [[Ancient Ruins]], [[Halveth]], [[Emberfall]]_

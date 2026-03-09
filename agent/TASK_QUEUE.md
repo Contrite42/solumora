@@ -243,6 +243,66 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Move Decision F from "Active Decisions" to "Resolved Decisions" section in DECISIONS.md
       **Status note:** COMPLETE (Decision F moved to resolved state, prior implementation commit pushed, and follow-up completion commit for USER-024/025/028/029 pushed on 2026-03-08)
 
+- [ ] **USER-031 — Narrative Pressure Clock (30-90 Day Active Timeline)**
+      **Source:** Creator direction request for high-leverage next arc development (2026-03-08)
+      **Goal:** Convert static lore into active time pressure by tracking near-term shifts across Auralis, Terravelle, Wolfpoint, and Ashford.
+      **Scope:** 1 timeline hub + 8-12 linked event notes with "what changed this week" updates for key systems/NPCs.
+      **Required outputs:**
+      - `content/Current Timeline.md` hub with 30/60/90-day slices
+      - Weekly-change blocks in key faction/NPC pages
+      - Cross-links into `The Three Near-Wars` and `Ordinary Life` hubs
+      **Status note:** IN PROGRESS (created `content/Current Timeline.md` kickoff hub and linked it from root routes on 2026-03-08)
+
+- [ ] **USER-032 — Playability Layer (GM Hooks on Canon Pages)**
+      **Source:** Creator direction request for practical usability (2026-03-08)
+      **Goal:** Make major pages instantly gameable with clear scenario hooks and complications.
+      **Scope:** Add structured GM sections to priority hubs and first NPC tranche.
+      **Required outputs:**
+      - `content/GM Session Hooks.md` standard template page
+      - `## Use In Session`, `## Complications`, `## Secrets` blocks on top-priority pages
+      - At least 3 regional encounter seeds and 10 NPC hook entries in phase 1
+      **Status note:** IN PROGRESS (created `content/GM Session Hooks.md` and applied first NPC hook tranche on 2026-03-08)
+
+- [ ] **USER-033 — Relationship Graph Formalization (NPC/Faction/Location Links)**
+      **Source:** Creator direction request for political clarity and emergent plotting (2026-03-08)
+      **Goal:** Standardize relational data for key characters and institutions.
+      **Scope:** Relationship schema + first high-impact cast batch.
+      **Required outputs:**
+      - `content/NPC Relationship Schema.md` with canonical link taxonomy
+      - `## Relationships` sections on first 10 high-impact NPC pages
+      - Seed relationship index by region/faction
+      **Status note:** IN PROGRESS (created `content/NPC Relationship Schema.md` and applied first relationship tranche on 2026-03-08)
+
+- [ ] **USER-034 — Rules Consolidation (Flux/Hypertext Operational Bible)**
+      **Source:** Creator direction request for system coherence (2026-03-08)
+      **Goal:** Reduce contradiction risk by consolidating operational rules and edge cases.
+      **Scope:** Unified rulebook with explicit rulings and examples.
+      **Required outputs:**
+      - `content/Flux and Hypertext Rules Bible.md`
+      - Cross-link updates from `Flux`, `Control Tier`, `Sigils`, `Hypertext`
+      - Edge-case rulings section for frequently ambiguous interactions
+      **Status note:** IN PROGRESS (created `content/Flux and Hypertext Rules Bible.md` scaffold and primer links on 2026-03-08)
+
+- [ ] **USER-035 — Reader Entry Architecture (Start Here, Primers, Indexes)**
+      **Source:** Creator direction request for navigability at scale (2026-03-08)
+      **Goal:** Give new readers clean onboarding routes instead of raw vault sprawl.
+      **Scope:** Guided entry pages and curated indexes.
+      **Required outputs:**
+      - `content/Mysteries Index.md`
+      - `content/NPCs by Region and Role.md`
+      - Updates to `content/index.md` and `content/World Primer.md` with explicit route bundles
+      **Status note:** IN PROGRESS (created `content/Mysteries Index.md`, `content/NPCs by Region and Role.md`, and updated root routing on 2026-03-08)
+
+- [ ] **USER-036 — Pipeline Automation for Section Coverage and QA**
+      **Source:** Creator direction request for sustainable scaling (2026-03-08)
+      **Goal:** Automate detection of missing sections and generate maintainer-facing QA outputs.
+      **Scope:** Python utility pass integrated with existing `pyhub` workflows.
+      **Required outputs:**
+      - Script to audit missing sections (`Appearance`, `Relationships`, hooks)
+      - Report output under `agent/reports/`
+      - Repeatable command documented in `agent/README.md` or adjacent ops note
+      **Status note:** IN PROGRESS (added `scripts/python/section_audit.py`, updated usage docs, and generated first report on 2026-03-08)
+
 ---
 
 **Permanent Tasks:**

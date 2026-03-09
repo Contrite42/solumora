@@ -19,6 +19,14 @@ This is the homepage for the vault. Use it as the shortest path into current can
 - Daily life under strain: [[Ordinary Life]] -> [[Ordinary Life in Terravelle]] -> [[Ordinary Life in Auralis]]
 - Desert and crossings: [[Equatorial Desert]] -> [[Halveth]] -> [[Zakros Crossing Windows and Failure Season]]
 
+## Builder Paths (New)
+
+- Active pressure tracking: [[Current Timeline]]
+- Game-ready conversion: [[GM Session Hooks]]
+- Character network planning: [[NPC Relationship Schema]] -> [[NPCs by Region and Role]]
+- Mechanics consistency: [[Flux and Hypertext Rules Bible]]
+- Open-question exploration: [[Mysteries Index]]
+
 ## Recent Expansion Layers
 
 Recent cycles added operational depth across infrastructure, risk, and lived continuity:
