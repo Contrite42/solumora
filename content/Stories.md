@@ -1,55 +1,40 @@
 # Stories
 
-The following accounts provide narrative context for the world's systems, constraints, and consequences. Stories operate at different scales: some are personal accounts of individual decision points, others document systemic failures or institutional patterns. They are organized by theme and context.
-
-## Start With These (Narrative On-Ramps)
-
-If you are here to read story first, use one of these tracks:
-
-- Full geopolitical arc: [[The Three Near-Wars]]
-- Character aftermath track: [[Stories/Five Years After - Merra's Return to the Desert]], [[Stories/Five Years After - Verath's Public Life]], [[Stories/Five Years After - The Competent Partnership]], [[Stories/Seven Years After - Cassia's Institutional Burden]]
-- First Contact historical track: [[Terravelle-Auralis First Contact]], [[Stories/First Crossing - Nalress Expedition]], [[Stories/First Trade - Venn at Ashford]], [[Stories/First Mediator - The Ashford Dispute]], [[Stories/Ten Years After - The First Generation]]
-- Ancient mystery track: [[The Final Generation]], [[Stories/Final Generation - The Scholar's Calculation]], [[Stories/Final Generation - The Completion Morning]], [[Stories/Final Generation - The Day After]]
-
-Audience fit:
-
-- Tabletop-style adventure readers: expedition risk, logistics, field competence
-- Anime-style escalation readers: constrained power growth, dramatic reveals, personal cost
-- Geopolitical fantasy readers: treaties, faction pressure, institutional survival
+If you are here to read, start anywhere below. These are character-led stories set inside the same political, magical, and logistical pressures shaping [[Solumora]].
 
 ## Zakros Crossings and Desert Travel
 
-[[Stories/A Cost That Makes Sense]] — A practitioner reflects on the economics and personal tolls of specialized labor after a crossing has ended. Central to understanding how Zakros crossing work integrates into wider economic pressure and psychological cost.
+[[Stories/A Cost That Makes Sense]] — A young scrivener makes one "small" copying mistake and learns that a single changed line can decide who gets access to safety and who gets priced out of it.
 
-[[Stories/The Crossing That Failed]] — A well-prepared expedition encounters rift contamination during an active incursion, confronting the gap between procedural preparation and contingency handling. Documents how correct planning does not prevent cascade failure at critical moments.
+[[Stories/The Crossing That Failed]] — A perfectly planned Zakros crossing begins to unravel when rift contamination hits the team's best caster, and competence turns into a race against invisible failure.
 
-[[Stories/The Merchant's Silent Year]] — A merchant discovers that ten years of perfectly reliable Zakros salt extraction has created operational brittleness. When external conditions change, the flawless system becomes unsustainable. Addresses complacency and the hidden fragility of systems that have not encountered resistance.
+[[Stories/The Merchant's Silent Year]] — A merchant mistakes ten years of smooth profit for control, then learns the desert was only being quiet, not kind.
 
-[[Stories/The Practitioner Who Returned Different]] — A T2 practitioner crosses Zakros and returns with fundamentally altered understanding of [[Flux]] behavior, redirecting her career toward specialist research. Documents how experience can reveal the inadequacy of standard tier classifications and lead unexpected professional paths.
+[[Stories/The Practitioner Who Returned Different]] — A practical T2 caster takes a contract for money and comes back seeing [[Flux]] in ways her old life can no longer contain.
 
-[[Stories/The Salvage Team That Succeeded Too Well]] — A recovery team extracts stranded caravan goods through aggressive decision-making and narrow success. The success reveals that recovery operations have been succeeding despite operating in zones with inadequately mapped environmental behavior and hidden risk factors.
+[[Stories/The Salvage Team That Succeeded Too Well]] — A high-risk recovery mission pulls off a technical miracle, only to reveal that everyone has been gambling on incomplete maps for years.
 
 ## Solhaven and Urban Context
 
-[[Stories/Ashford False Papers]] — A person attempts to establish formal registries in a city where informal identity systems dominate, navigating pressure from settlement administrators, registry officials, and the logistical inadequacy of formal systems for populations that have historically operated outside them. Documents institutional pressure and individual survival strategies.
+[[Stories/Ashford False Papers]] — In rain-soaked Ashford, a dock worker living under borrowed papers decides to gamble on becoming legally visible before the system closes around her.
 
-[[Stories/The Day the Crestward Did Not Burn]] — A false alarm at the Crestward archive triggers full preservation protocol and reveals how institutional resilience is built from routine preparation rather than dramatic heroics.
+[[Stories/The Day the Crestward Did Not Burn]] — A fire alarm that turns out to be false still exposes who keeps civilization intact when panic starts and no one is watching.
 
-[[Stories/The Copy That Stayed Cheap]] — A Valdenmoor scrivener restructures production to keep a public-utility spell affordable for a lower-terrace workshop cooperative, showing how pricing decisions shape material survival outcomes as much as technical spell quality.
+[[Stories/The Copy That Stayed Cheap]] — A low-tier scrivener fights an accounting decision and proves that affordability can be the difference between weather damage and survival.
 
 ## Logistics and Trade Operations
 
-[[Stories/The Courier Who Refused the Shortcut]] — A road courier chooses chain-of-custody reliability over speed and prevents a forged routing packet from entering the Halveth dispatch system. Focuses on procedural discipline and communication integrity under pressure.
+[[Stories/The Courier Who Refused the Shortcut]] — One courier says no to an "obvious" shortcut and quietly prevents a forged logistics order from poisoning the supply chain.
 
-[[Stories/The Winter Ledger at Wolfpoint]] — Winter reserve balancing at Wolfpoint shows how quiet accounting decisions prevent visible crisis. A low-drama, high-stakes account of seasonal trade resilience.
+[[Stories/The Winter Ledger at Wolfpoint]] — In a mountain city on the edge of scarcity, a ledger clerk chooses politically painful ration shifts to stop a winter panic before it starts.
 
-## Miscellaneous 
+## Other Stories
 
-[[Stories/A Scrivener's Morning]] — A professional scrivener's routine encounter with a customer reveals the social complexity of trade labor and the skills required to navigate informal economic networks. A study in small-scale professional competence.
+[[Stories/A Scrivener's Morning]] — A seemingly ordinary copy day becomes a quiet portrait of craft, reputation, and the unseen people keeping magic dependable.
 
-[[Stories/The Screaming Shade]] — A group of adventurers encounters a bound-soul entity for which their collective [[Control Tier|tier level]] is insufficient to resolve the binding. Documents what happens when experience and preparation both prove inadequate to the problem at hand.
+[[Stories/The Screaming Shade]] — A party explores an old fort and finds a bound T9 mind still screaming after decades, trapped in a fate nobody can fix.
 
-[[Stories/The Boundary Settlement Guide]] — A crossing guide works a regular route and observes patterns of failure and success, understanding the difference between what guides teach and what actually determines outcomes.
+[[Stories/The Boundary Settlement Guide]] — A veteran guide expects disaster from a rookie-heavy expedition and instead watches a team become competent in real time.
 
 ---
 
