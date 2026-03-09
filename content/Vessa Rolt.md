@@ -2,6 +2,14 @@
 
 **Vessa Rolt** is the Coordinator of [[Council Orders Registry]], the institutional position responsible for translating [[The Council of Auralis]]'s political decisions into implementable directives. She has held this role for eight years. She is forty-one years old, [[Control Tier|Tier 4]], and tired in ways that do not show in formal meetings but become obvious when the council chambers empty and the real work begins.
 
+## Appearance
+
+Vessa is a woman in her early forties with dark brown hair kept in a practical bun that she resets twice daily without thinking about it. She dresses in the formal administrative style expected of Registry coordinators — charcoal or dark blue tunics over lighter undershirts, well-maintained but not expensive, with ink stains on the cuffs that no amount of washing fully removes. She wears reading glasses on a chain around her neck, a practical necessity she adopted three years ago and now considers part of her working uniform.
+
+Her hands show the repetitive strain of eight years signing documents — a slight tremor in her right hand that appears after long sessions, calluses on her dominant fingers from pen pressure. She stands with good posture during formal meetings but tends to slouch when working alone, shoulders curving forward over her desk in a way that suggests the weight she carries is not entirely metaphorical.
+
+The exhaustion mentioned in every description of her is visible in the fine lines around her eyes and the way she holds her jaw slightly tense even in neutral expressions. She looks like someone who sleeps less than she should and thinks more than is comfortable.
+
 ## What the Job Requires
 
 Vessa's mandate is to take council resolutions — often vague, occasionally contradictory, always politically negotiated — and produce orders that operational institutions can actually execute. This means:

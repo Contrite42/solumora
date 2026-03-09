@@ -1,5 +1,13 @@
 **Torven Alsk** is a warehouse logistics coordinator operating in [[Solhaven]]'s [[Harbor District]], based at the [[Grand Warehouse Complex]]. He is forty-three, T2, and has worked the harbor for nineteen years.
 
+## Appearance
+
+Torven is a man of average height and lean build, with the posture of someone who spends most of his time moving between warehouse offices and cargo staging areas rather than doing heavy lifting. He has brown hair starting to show gray at the temples, usually kept neat but not formally styled. He dresses in practical work clothes that bridge the gap between dock labor and merchant administration — sturdy trousers, long-sleeved work shirts, a leather vest with multiple pockets for documentation and writing tools.
+
+He carries a leather satchel with routing forms, warehouse manifests, and timing schedules, and is rarely seen without a piece of chalk or charcoal for marking crates. He wears work gloves tucked into his belt even when not actively using them, a habit from years of needing them on short notice. His hands show some scarring from early years doing dock work, but they're primarily ink-stained now from constant documentation work.
+
+He moves through the harbor district with the efficiency of someone who knows exactly where he's going and doesn't waste time on indirect routes. Merchants and dock workers recognize him on sight, less for any distinctive features and more because seeing Torven in a particular location usually means something logistically important is happening there.
+
 ## Work
 
 Torven's formal role is intake and routing coordinator for one of the larger merchant warehouse operations anchored to the Grand Complex. Unlike dock team leads such as [[Korvin Selt]] who manage labor on the wharfs themselves, Torven's work begins once cargo has cleared the docks — coordinating warehouse staging, terrace transport scheduling, and the documentation chain that moves goods from harbor intake into the city's distribution network. He is one of the dozen or so people in the Harbor District who understand the full logistics chain from ship arrival to terrace delivery — which berths can handle which cargo weight, which guild foremen can be trusted with time-sensitive freight, which merchants will sign off on documentation quickly and which will dispute everything and require three visits, and how to route unusual cargo through the terrace transport system without triggering the licensing review that adds four days to a delivery timeline.
