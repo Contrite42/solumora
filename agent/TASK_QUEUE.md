@@ -1,5 +1,5 @@
 ﻿# Task Queue
-
+Systematically check all files for continuity breaks, impossibilities, continui
 ## USER QUEUE (Pipeline Intake)
 
 Add creator/user-requested work items here first. `agent/TASK.md` should always mirror the next unchecked item from this section when a new cycle starts.
@@ -170,6 +170,78 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Narrative stories: `Year 150 of Persecution - The Lantern Failed`, `Year 145 of Persecution - When the Mountain Stops Hunting`, `Year 95 of Persecution - The Merchant's Family Erasure`, `Year 180 of Persecution - The Archive Keeper's Choice`, `Year 190 of Persecution - The Final Hunt`
       - Hub integration: Added "Historical Foundations: The Persecution Era" section to `The Three Near-Wars.md` with links to all 15 persecution-era files plus context about why persecution history matters for modern coexistence.
       **Status note:** COMPLETE (persecution-era foundation layer executed and integrated on 2026-03-08; graph artifacts rebuilt and verified with all cache files present)
+
+- [ ] **USER-024 — Electoral Cycle Stress Testing (Years 4-5 Post-Revelation)**
+      **Source:** Natural temporal continuation after 3-year institutional maturity arc completion
+      **Goal:** Test whether coexistence frameworks survive routine political transition and electoral pressure rather than only crisis conditions. Show institutions holding through ordinary governance rhythms without emergency fuel or founder charisma.
+      **Scope:** 2 governance notes (electoral safeguards, campaign coexistence doctrine) + 3 linked stories showing political competition without persecution revival + near-war hub integration
+      **Required outputs:** 
+      - Institutional notes: mechanisms preventing coexistence from becoming campaign wedge issue; protocols for peaceful transfer when anti-coexistence factions gain electoral power
+      - Story bundle covering: campaign messaging constraints, peaceful power transfer to skeptical leadership, first full electoral cycle completion under new paradigm
+      - Hub update: add "Years 4-5: Electoral Durability Testing" section to `The Three Near-Wars.md`
+      **Status note:** NOT STARTED (awaiting creator direction)
+
+- [ ] **USER-025 — First Contact Era Historical Development (~200 Years Ago)**
+      **Source:** Historical gap between Persecution Era (ended ~400 years ago) and current era; Decision F Component 5 Option B consideration
+      **Goal:** Document when desert crossing became viable and how kingdoms established initial contact, trade, and coexistence patterns. Provides historical precedent for current post-revelation accommodation frameworks.
+      **Scope:** 10-12 institutional/historical notes + 3-4 narrative stories covering initial contact through early stability establishment
+      **Required outputs:**
+      - Historical mechanics: viable crossing discovery, first diplomatic missions, early trade establishment, cultural clash resolution mechanisms
+      - Trade/diplomatic institutions: first trade compacts, courier networks, cross-border mediation systems
+      - Personal narratives: first successful crossing parties, early settlers, founding diplomatic figures
+      - Hub creation: new historical hub linking First Contact Era to current coexistence precedents
+      **Status note:** NOT STARTED (awaiting creator direction)
+
+- [ ] **USER-026 — Regional Balkanization Cascade (Protected Zones Institutional Divergence)**
+      **Source:** Tension signals in Protected Observation Zone adaptation patterns; regional variance doctrine stretched to breaking point
+      **Goal:** Document what happens when regional variance becomes institutional schism—Protected Zones develop governance incompatible with Full Integration core cities, creating de facto political fragmentation within single kingdom.
+      **Scope:** 3 governance notes (divergence thresholds, jurisdictional conflict protocols, reintegration failure mechanisms) + 4 stories showing escalating incompatibility + near-war hub integration
+      **Required outputs:**
+      - Institutional conflict notes: when variance becomes secession, how kingdoms respond to internal fragmentation, whether coexistence survives political unity loss
+      - Story arc: Protected Zone refusing Full Integration mandates → jurisdictional standoff → attempted reconciliation → outcome (integration, autonomy, or breakdown)
+      - Hub update: add "Regional Balkanization Risk" section to relevant governance hubs
+      **Status note:** NOT STARTED (awaiting creator direction; higher conflict trajectory than continuation options)
+
+- [ ] **USER-027 — Institutional Breakdown Cascade (Framework Failure Under Coordinated Pressure)**
+      **Source:** Durability testing through deliberate multi-vector institutional attack
+      **Goal:** Stress-test coexistence framework to failure point—what happens when electoral backlash, regional noncooperation, and cross-kingdom coordination failures align simultaneously. Document whether institutions can survive coordinated collapse pressure or if paradigm shift was temporary.
+      **Scope:** 4 governance notes (cascade triggers, failure containment protocols, reconstruction mechanisms) + 5 stories tracking multi-domain breakdown + major world-state transformation
+      **Required outputs:**
+      - Cascade mechanics: sequential failure triggers, institutional tipping points, containment vs. transformation decision points
+      - Story arc: electoral anti-coexistence victory → regional enforcement collapse → cross-kingdom coordination failure → emergency response → outcome (framework survives adapted, replaced, or society fragments)
+      - Major world-state change: permanent transformation of coexistence paradigm or institutional landscape
+      **Status note:** NOT STARTED (awaiting creator direction; highest risk/transformation trajectory)
+
+- [ ] **USER-028 — Founder Retrospective Arc (Party Member Post-Crisis Lives)**
+      **Source:** Character development demand after 3+ year institutional focus; Decision F party members need narrative closure beyond crisis resolution
+      **Goal:** Document what Merra Veld, Teren Voss/Verath, Jess Maren, Kess Tarren, and Cassia do after revelation crisis ends—how they process trauma, whether they remain involved in governance, what normal lives look like for people who prevented war.
+      **Scope:** 5 character development notes (one per party member) + 3-5 linked stories showing post-crisis adaptation + character hub updates
+      **Required outputs:**
+      - Character arcs: each party member's post-crisis trajectory (continued institutional involvement, retreat from public life, new roles, personal relationships)
+      - Personal narratives: what does "normal" look like after being central to paradigm shift; how do competent people process having been the right person at the right time
+      - Hub updates: integrate retrospective context into character files established during Decision F execution
+      **Status note:** NOT STARTED (awaiting creator direction; character-focused rather than institutional)
+
+- [ ] **USER-029 — Ancient Civilization Final Generation Development**
+      **Source:** Decision F Component 5 Option C consideration; ruins mystery remains narratively hollow without lived experience context
+      **Goal:** Document the last 20-50 years before ancient civilization disappearance—who they were as people, what they were attempting, why their "completion" (transcendence/departure/collapse) happened when it did. Transform ruins from abstract archaeology into places where specific people lived and made choices.
+      **Scope:** 15-18 historical/cultural notes + 4-6 personal narratives + ancient civilization hub creation
+      **Required outputs:**
+      - Cultural mechanics: daily life, governance structures, Flux theory development, disappearance decision-making
+      - Personal stories: ordinary citizens, scholars documenting the end, leaders making final choices, those who chose to stay vs. those who departed
+      - Ruins recontextualization: each major ruin site becomes location where specific historical events occurred
+      - New historical hub: "The Final Generation" linking ancient civilization to current-era ruins research
+      **Status note:** NOT STARTED (awaiting creator direction; major historical backfill with high development cost)
+
+- [ ] **USER-030 — Git Commit and Archive Cleanup**
+      **Source:** Permanent task reminder; 15 persecution-era files + major hub integrations not yet committed
+      **Goal:** Commit all completed work to git repository, clean up resolved decisions from DECISIONS.md per permanent task guidelines
+      **Scope:** Git operations + decisions file cleanup
+      **Required outputs:**
+      - Git commit with descriptive message covering USER-014 through USER-023 work
+      - Git push to remote repository
+      - Move Decision F from "Active Decisions" to "Resolved Decisions" section in DECISIONS.md
+      **Status note:** NOT STARTED (routine maintenance task; can execute without creator approval)
 
 ---
 
