@@ -2,6 +2,14 @@ _(Council Member, Auralis — Expansion Faction)_
 
 **Brennan Solce** spent sixteen years as a border administrator before joining [[The Council of Auralis]], and knows the geography between [[Terravelle]] and [[Auralis]] better than anyone in the room. He shares this knowledge selectively — with people he has decided to trust, which is a short list — because he has seen what happens when people who don't understand terrain make confident decisions about it.
 
+## Appearance
+
+Brennan is fifty-five with the weathered, practical appearance of someone who spent sixteen years in border territory before council work put him behind a desk. His hair is iron-gray, cut short in a style that's functional rather than fashionable, and his face has the sun-damaged skin and permanent squint lines of years spent assessing terrain in all weather. He wears council administrative dress now — Auralis formal attire in deep blue — but he moves in it like someone still mentally wearing field clothes, unconsciously checking horizons that aren't visible from council chambers.
+
+His hands show the calluses of someone who maintained field equipment for years before transitioning to documentation work, and he still carries a worn leather case with navigation sigils and field maps despite having little practical use for them in Solhaven. The case is more habit than necessity, the visible remainder of a professional identity he hasn't entirely let go of. When he speaks about geography his whole demeanor sharpens — gestures becoming more precise, voice taking on the clipped certainty of someone describing what they've personally walked.
+
+He has the quiet, assessing watchfulness of a border administrator, eyes constantly tracking who's speaking and how much to believe them, and a tendency to position himself where he can see exits. At council meetings he's the one taking sparse, specific notes while others debate theory, and his expression during expansive Expansion Faction rhetoric is carefully neutral in a way that people who know how to read silence find eloquent. Off-duty he dresses in practical traveling clothes that would blend into any border town, as though council membership is a temporary assignment he's prepared to walk away from at any moment.
+
 ## Character
 
 Brennan is fifty-five, specific in speech, and privately skeptical of several Expansion Faction assumptions that he has declined to challenge openly because the faction has been useful to him and he does not want to exchange that for the social cost of being the person who complicates the narrative. He supports expansion in principle. He has a detailed picture of where and how it could succeed and where it almost certainly cannot, and he finds the faction's current focus — the eastern coastal territory — partially correct but overemphasized.

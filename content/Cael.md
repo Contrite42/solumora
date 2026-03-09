@@ -4,6 +4,16 @@ Cael is nineteen, the younger son of King Eddan of Terravelle, and the heir to a
 
 He has not handled this gracefully. He is aware of this. He continues to handle it ungracefully anyway.
 
+## Appearance
+
+Cael is nineteen and looks like someone who was never supposed to be crown prince — lean build, dark hair perpetually disheveled from running his hands through it while thinking, ink stains on his fingers from late-night note-taking about [[Flux]] theory. His formal attire for court functions is always slightly wrong in ways that drive his attendants to quiet distraction: collar askew, sleeves pushed up absent-mindedly, the look of someone who put on the clothes but forgot to inhabit them properly.
+
+When he's in his element — at gatherings where the conversation turns technical, or in workshops where he can take things apart — he wears practical clothing that wouldn't look out of place on a Scholar: simple tunics, worn trousers, a leather satchel full of notebooks covered in sigil sketches and margin notes. His movements have the distracted quality of someone whose mind is always partly elsewhere, often pausing mid-gesture as though tracking a thought that just occurred to him.
+
+His face is more expressive than a prince's should be, showing skepticism and curiosity without the careful control that statecraft requires. He has a habit of tilting his head when listening to explanations of technical problems, eyes narrowing in concentration, unconsciously mouthing the variables as though working through calculations. His hands are always in motion — sketching invisible diagrams in air, fidgeting with whatever small mechanism is currently in his pocket, the restless energy of someone who thinks by doing.
+
+He looks younger than nineteen when he's focused on a problem he finds interesting, and older than he should when someone reminds him he's supposed to be learning governance. The weight of the crown he never expected sits visibly uncomfortable on him, present even when the actual circlet is not.
+
 ## Character
 
 Cael is not stupid and he is not lazy. He is a tinkerer — someone who takes things apart to see how they work and puts them back together slightly differently to see if they work better. Applied to furniture or mechanisms this would be an endearing hobby. Applied to [[Flux]] manipulation in a kingdom that needs him to be learning statecraft, it reads as avoidance.

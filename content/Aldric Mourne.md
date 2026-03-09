@@ -2,6 +2,14 @@ _(Council Member, Auralis — Culmination Faction)_
 
 **Aldric Mourne** spent thirty years as a military logistics commander before [[Drest]] asked him to apply those skills to the council's expedition program. That was twelve years ago. He has since organized fourteen desert crossings, managed the resupply and documentation of three Reach Academy field seasons, and overseen the return processing of whatever fragments the surviving expeditions brought back. He does not ask what the expeditions are looking for.
 
+## Appearance
+
+Aldric is sixty-seven, and four decades in military logistics have left their mark on every inch of him. He is square-jawed and broad-shouldered in the way of someone who maintained military posture long enough that it became permanent, though his hair has gone silver-gray and the lines around his eyes speak to years of tracking supply manifests under lamplight. His uniform — council administrative dress in Auralis deep blue — is worn with the precision of a career officer, always pressed, always correct, buttons aligned with military exactness.
+
+His hands are broad and ink-stained from constant documentation work, and he moves with the unhurried economy of someone who learned decades ago that wasted motion wastes time. When he listens, he does so with a stillness that unnerves people who expect impatience. When he speaks, his voice carries the measured cadence of someone who has delivered too many casualty reports to waste words. The permanent furrow between his brows is not from anger but from thirty years of logistics problem-solving — the visible record of a man who has spent his professional life calculating probabilities and managing what can be controlled.
+
+His gaze is direct and assessing, the look of someone mentally inventorying resources even in casual conversation. He wears reading glasses on a chain around his neck, reaches for them with unconscious habit when documents appear, and his handwriting on requisition forms is the tight, efficient script of someone who has signed thousands of them.
+
 ## Character
 
 Aldric is sixty-seven, square-jawed, unhurried, and operates entirely in logistics. Give him a destination, a timeline, a resource list, and a personnel count and he will produce a functional plan. Give him a philosophical debate about the nature of the ancient civilization and he will wait politely for it to end.

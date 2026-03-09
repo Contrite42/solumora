@@ -4,6 +4,16 @@ _(Queen of Auralis)_
 
 She is twenty-three. She is kind, perceptive, and politically trapped in ways that have become so familiar she has stopped noticing all of them. The ones she does notice, she has chosen not to fight. This is the central fact of her life and she is quietly ashamed of it.
 
+## Appearance
+
+Cassia is twenty-three with the kind of beauty that comes from bloodline and careful cultivation — dark hair that falls in a precise arrangement past her shoulders, warm brown skin that speaks to southern Auralis lineage, and features that have been trained since childhood to project exactly the right degree of graciousness. Her formal attire is always immaculate: gowns in the deep blues and golds of Auralis royalty, jewelry that marks her status without overwhelming it, everything chosen by someone other than herself.
+
+When she moves through formal spaces she does so with the fluid certainty of nineteen years' practice — every gesture measured, every expression composed, the performance of queenship so thoroughly learned it appears effortless. Her smile is kind and carefully deployed, reaching her eyes when she means it and stopping precisely short when she does not. She has mastered the art of looking engaged while her mind works elsewhere.
+
+In private moments her shoulders drop fractionally, and the careful arrangement loosens into something more human. She has a habit of touching the edge of whatever jewelry she wears — rings, necklaces, the formal circlet at state functions — as though testing whether they're real or simply another layer of decoration on a throne that others occupy through her. Her hands are unmarked by work of any kind, and this bothers her more than she admits.
+
+She is shorter than people expect a queen to be, which the council manages through careful staging and footwear choices at public events. Her voice is clear and practiced, trained for speeches and formal greetings, though in unguarded moments it drops to something quieter and more her own.
+
 ## Background
 
 Cassia was elevated to the throne as an infant on the strength of bloodline and namesake — the last viable heir of a lineage that [[Auralis]] society considered too significant to let lapse. The council that placed her there has been running the kingdom in her name ever since. They are not cruel to her. They are not required to be. They provide her with every comfort, every luxury, every visible marker of a queen's life, and in exchange she signs what they ask her to sign and stands where they ask her to stand and does not press too hard on the things they do not want pressed.
