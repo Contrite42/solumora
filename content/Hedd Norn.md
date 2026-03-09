@@ -2,6 +2,14 @@ Hedd Norn is a [[Control Tier|T0]] logistics scheduler in [[Emberfall]]'s suppor
 
 He is 46 years old and has worked inside Emberfall operations for twenty-two years.
 
+## Appearance
+
+Hedd is a man in his mid-forties with the unremarkable appearance of someone who has deliberately cultivated professional invisibility in an environment full of powerful practitioners. He has graying brown hair kept short and practical, medium build, neutral features. He dresses in Emberfall's standard support-staff uniform — simple gray work clothes, comfortable boots for walking between laboratory spaces and storage areas all day, multiple pockets for schedules, routing slips, and backup documentation.
+
+His most distinctive feature is his hands, which are constantly in motion — checking schedules, marking routing slips, adjusting material staging, documenting handoffs. He carries a worn leather folio containing his handwritten master schedules, which he consults and updates dozens of times daily. His posture is alert and attentive, always aware of who's moving through Emberfall's halls and what materials are currently in transit.
+
+He has the calm, methodical demeanor of someone who solves logistical problems as primary job function and has learned not to show stress even when managing multiple simultaneous crises. New researchers often initially overlook him as mere clerical support, but his expression when they bypass his protocols — a patient, slightly knowing look — suggests someone who has seen this pattern many times and understands how it will resolve.
+
 ## Work Without Casting
 
 Hedd does not cast. His value is temporal coordination under volatile research schedules:

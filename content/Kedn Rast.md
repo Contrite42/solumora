@@ -2,6 +2,14 @@
 
 **Kedn Rast** is a [[Control Tier|T3]] independent researcher and field systems specialist working on cross-border [[Flux]] research projects, age forty-two, operating from [[Solhaven]] with active collaborations across both [[Terravelle]] and [[Auralis]] research institutions. He is neither formally employed by any institution nor affiliated with trade guilds — his work is funded through project-specific grants and collaborative arrangements.
 
+## Appearance
+
+Kedn is a man in his early forties with the hybrid appearance of someone who bridges field practitioner and research scholar worlds. He has brown hair beginning to gray, kept at medium length in a style that's practical for both field work and institutional meetings. He dresses in what might be called "field-professional" — sturdy traveling clothes suitable for expedition work, but clean and well-maintained enough for presenting research findings at academic institutions.
+
+His build suggests someone who still does physical fieldwork regularly but isn't primarily a laborer — lean and fit from travel and outdoor work, with good endurance rather than heavy strength. His hands show mixed markers: calluses from fieldwork, ink stains from research documentation, small scars from setting sigil installations in wilderness conditions. He carries a well-worn leather satchel containing research notes, collaborative correspondence, and the accumulated documentation of cross-border research projects.
+
+He moves comfortably in both Terravelle and Auralis professional contexts, adapting his presentation subtly to match local conventions without seeming false in either setting. He has an open, attentive expression that makes people comfortable sharing information with him, and shows genuine interest in others' perspectives. His face shows the slight weathering of someone who spends significant time outdoors, with squint lines from years of field observations.
+
 ## Background and Career Path
 
 Kedn trained as a [[Warden Guild|Warden Guild]] practitioner in [[Terravelle]], completed journeyman status, then spent twelve years working settlement-protection and field research contracts throughout northern [[Terravelle]]. He developed particular expertise in understanding how multiple sigil systems interact in field conditions, something that institutional research addresses theoretically but rarely tests in actual practice.

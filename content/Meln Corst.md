@@ -2,6 +2,14 @@
 
 **Meln Corst** is a [[Control Tier|T4]] [[Flux Users|scholar]] and senior rift mechanics researcher at the [[Northern Terravelle Academy]], age forty-seven, with specialized knowledge of [[Rift Incursions|rift formation]] patterns and primary focus on settlement-scale prevention systems. She has worked at the Academy for nineteen years and is effectively the division head for rift mechanics research despite lack of formal title.
 
+## Appearance
+
+Meln is a woman in her late forties with the practical, weather-worn appearance of someone who spent years doing fieldwork before transitioning to institutional research. She has dark hair now showing significant gray, kept in a simple braid that stays out of her way during field observations or laboratory work. Her hands show old calluses from years of field installation work — setting prevention sigils, helping settlements build defensive infrastructure, working alongside local practitioners.
+
+She dresses in the functional style that splits the difference between Academy scholar and field researcher — sturdy trousers suitable for both laboratory and settlement visits, practical tunics with pockets for field notebooks and measuring tools, boots designed for walking uneven ground. She owns formal academic robes but rarely wears them, preferring to look like someone who actually does the work she directs.
+
+Her face has settled into the calm, focused expression of someone who works with problems that have life-or-death stakes but develops responses over months and years rather than in crisis moments. She moves with economical efficiency, whether in the laboratory or walking settlement perimeters checking sigil installations. Colleagues note that she rarely speaks unnecessarily and has a habit of pausing to think carefully before answering questions.
+
 ## Background and Position
 
 Meln trained as a [[Terravelle Guild System|guild apprentice]] in the [[Terravelle Guild|Warden Guild]] under masters focused on barrier and detection work. She advanced to journeyman status, then spent eight years working settlement-protection contracts throughout northern [[Terravelle]] — assigned to communities at risk of rift incidents, developing practical defense installations, training local practitioners. That field work provided the foundation for her current research focus.

@@ -2,6 +2,14 @@
 
 **Casten Miel** is a [[Control Tier|T4]] Flux researcher and director of the [[Crestward Flux Institute]], age fifty-eight, responsible for managing one of [[Auralis]]'s two largest research institutions. He serves as primary liaison between the [[Council of Auralis]] and the Institute's 80-100 research scholars, negotiating how strategic institutional priorities mesh with scholars' individual research directions.
 
+## Appearance
+
+Casten is a man in his late fifties with the dignified bearing of someone who transitioned from active research to institutional leadership. He has silver-gray hair kept neatly trimmed in formal administrative style, and a well-groomed beard that's fully gray. He dresses in formal Institute director's robes — deep blue with silver trim indicating his position, always immaculately maintained, appropriate for Council meetings and institutional ceremonies.
+
+His face shows both the intellectual intensity of his research background and the cumulative stress of eight years managing institutional politics. He has deep-set eyes that maintain sharp focus during conversations, and permanent slight frown lines that suggest someone who spends significant time weighing difficult decisions. His hands still show faint ink stains from his researcher days, though he does less hands-on work now.
+
+He carries himself with the measured authority of someone comfortable with institutional power but not personally attached to status. He moves through Crestward's halls with calm purposefulness, greeting scholars and staff by name, shifting seamlessly between formal director mode for Council representatives and more casual collegial mode when speaking with researchers. His voice is calm and steady, cultivated over years of negotiating between competing institutional pressures without betraying stress.
+
 ## Background and Career
 
 Casten trained as a formal [[Flux Users|scholar]] at [[Aldrane Academy]], completed advanced tier development to T4 by age thirty, and spent twenty years as an active researcher at [[Emberfall]] pursuing cost-optimization for large-scale coordinated casting. His research contributed significantly to understanding how multiple low-tier practitioners could approximate high-tier effects through infrastructure and sigil-system coordination.

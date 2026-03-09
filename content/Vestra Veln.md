@@ -2,6 +2,14 @@
 
 **Vestra Veln** is a [[Control Tier|T5]] scholar at [[Emberfall]] and specialist in sigil miniaturization research, age thirty-five, focusing on reducing the physical footprint and [[Control Tier|tier]] requirements for complex sigil patterns. She has been at [[Emberfall]] for seven years and is approaching a critical decision point about whether to remain dedicated to her research or pursue different professional directions.
 
+## Appearance
+
+Vestra is a woman in her mid-thirties with the intense, slightly restless energy of someone whose mind works faster than comfortable conversation allows. She has light brown hair that she frequently pushes back absently while working, usually kept in a loose arrangement that suggests minimal time spent on appearance management. She wears reading glasses for detailed sigil work, which she often forgets she's wearing and ends up pushing up on top of her head.
+
+She dresses in Emberfall's standard scholar style — practical work robes in slate gray, pockets for tools and notation materials, ink-stained cuffs that indicate someone who spends significant time doing hands-on inscription work rather than purely theoretical study. Her hands are remarkably steady despite her general restlessness, a necessity for the precision work her research requires. They're calloused in specific locations from holding inscription tools for extended periods.
+
+She has an animated, expressive face that makes her thinking visible — colleagues can tell when she's encountered an interesting problem by the shift in her expression from neutral to deeply focused. She moves through Emberfall's research halls with purposeful stride, often carrying multiple research materials simultaneously and occasionally precariously. She has a habit of gesturing emphatically when explaining research ideas, particularly when challenging established assumptions.
+
 ## Background and Position
 
 Vestra came to [[Emberfall]] after completing a [[Control Tier|T3-to-T5]] elevation program at [[Aldrane Academy]] and five years of independent research work funded by patronage from a [[Valdenmoor]] merchant house interested in commercial sigil applications. She brought a well-developed research direction and demonstrated competence, making her an attractive candidate for Emberfall's selective recruitment.
