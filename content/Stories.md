@@ -1,5 +1,3 @@
-# Stories
-
 If you are here to read, start anywhere below. These are character-led stories set inside the same political, magical, and logistical pressures shaping [[Solumora]].
 
 ## Zakros Crossings and Desert Travel
