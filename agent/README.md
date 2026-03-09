@@ -35,3 +35,7 @@ All Python scripts consolidated in `scripts/python/`:
 - Use `python scripts/python/pyhub.py list` to see available tools
 - Use `python scripts/python/pyhub.py run hub:<script-name> -- [args]` to run scripts
 - See `scripts/python/USAGE.txt` for navigation toolkit details
+
+## QA Automation Command
+
+- Run section coverage audit: `python scripts/python/pyhub.py run hub:section_audit -- --required Appearance Relationships "Use In Session" --output agent/reports/section_audit.md`

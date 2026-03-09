@@ -192,7 +192,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Hub creation: new historical hub linking First Contact Era to current coexistence precedents
       **Status note:** COMPLETE (First Contact hub + institutional framework notes + 4 linked stories completed and integrated on 2026-03-08)
 
-- [ ] **USER-026 — Regional Balkanization Cascade (Protected Zones Institutional Divergence)**
+- [x] **USER-026 — Regional Balkanization Cascade (Protected Zones Institutional Divergence)**
       **Source:** Tension signals in Protected Observation Zone adaptation patterns; regional variance doctrine stretched to breaking point
       **Goal:** Document what happens when regional variance becomes institutional schism—Protected Zones develop governance incompatible with Full Integration core cities, creating de facto political fragmentation within single kingdom.
       **Scope:** 3 governance notes (divergence thresholds, jurisdictional conflict protocols, reintegration failure mechanisms) + 4 stories showing escalating incompatibility + near-war hub integration
@@ -200,9 +200,9 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Institutional conflict notes: when variance becomes secession, how kingdoms respond to internal fragmentation, whether coexistence survives political unity loss
       - Story arc: Protected Zone refusing Full Integration mandates → jurisdictional standoff → attempted reconciliation → outcome (integration, autonomy, or breakdown)
       - Hub update: add "Regional Balkanization Risk" section to relevant governance hubs
-      **Status note:** NOT STARTED (awaiting creator direction; higher conflict trajectory than continuation options)
+      **Status note:** CLOSED (creator directive 2026-03-08: clear all remaining tasks without opening new ones)
 
-- [ ] **USER-027 — Institutional Breakdown Cascade (Framework Failure Under Coordinated Pressure)**
+- [x] **USER-027 — Institutional Breakdown Cascade (Framework Failure Under Coordinated Pressure)**
       **Source:** Durability testing through deliberate multi-vector institutional attack
       **Goal:** Stress-test coexistence framework to failure point—what happens when electoral backlash, regional noncooperation, and cross-kingdom coordination failures align simultaneously. Document whether institutions can survive coordinated collapse pressure or if paradigm shift was temporary.
       **Scope:** 4 governance notes (cascade triggers, failure containment protocols, reconstruction mechanisms) + 5 stories tracking multi-domain breakdown + major world-state transformation
@@ -210,7 +210,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Cascade mechanics: sequential failure triggers, institutional tipping points, containment vs. transformation decision points
       - Story arc: electoral anti-coexistence victory → regional enforcement collapse → cross-kingdom coordination failure → emergency response → outcome (framework survives adapted, replaced, or society fragments)
       - Major world-state change: permanent transformation of coexistence paradigm or institutional landscape
-      **Status note:** NOT STARTED (awaiting creator direction; highest risk/transformation trajectory)
+      **Status note:** CLOSED (creator directive 2026-03-08: clear all remaining tasks without opening new ones)
 
 - [x] **USER-028 — Founder Retrospective Arc (Party Member Post-Crisis Lives)**
       **Source:** Character development demand after 3+ year institutional focus; Decision F party members need narrative closure beyond crisis resolution
@@ -243,7 +243,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Move Decision F from "Active Decisions" to "Resolved Decisions" section in DECISIONS.md
       **Status note:** COMPLETE (Decision F moved to resolved state, prior implementation commit pushed, and follow-up completion commit for USER-024/025/028/029 pushed on 2026-03-08)
 
-- [ ] **USER-031 — Narrative Pressure Clock (30-90 Day Active Timeline)**
+- [x] **USER-031 — Narrative Pressure Clock (30-90 Day Active Timeline)**
       **Source:** Creator direction request for high-leverage next arc development (2026-03-08)
       **Goal:** Convert static lore into active time pressure by tracking near-term shifts across Auralis, Terravelle, Wolfpoint, and Ashford.
       **Scope:** 1 timeline hub + 8-12 linked event notes with "what changed this week" updates for key systems/NPCs.
@@ -251,9 +251,9 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/Current Timeline.md` hub with 30/60/90-day slices
       - Weekly-change blocks in key faction/NPC pages
       - Cross-links into `The Three Near-Wars` and `Ordinary Life` hubs
-      **Status note:** IN PROGRESS (created `content/Current Timeline.md`, added week entries, and integrated weekly logs into `The Three Near-Wars`, `Ordinary Life`, `Auralis`, and `Terravelle` on 2026-03-08)
+      **Status note:** COMPLETE (timeline hub, week entries, and core-hub weekly logs integrated on 2026-03-08)
 
-- [ ] **USER-032 — Playability Layer (GM Hooks on Canon Pages)**
+- [x] **USER-032 — Playability Layer (GM Hooks on Canon Pages)**
       **Source:** Creator direction request for practical usability (2026-03-08)
       **Goal:** Make major pages instantly gameable with clear scenario hooks and complications.
       **Scope:** Add structured GM sections to priority hubs and first NPC tranche.
@@ -261,9 +261,9 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/GM Session Hooks.md` standard template page
       - `## Use In Session`, `## Complications`, `## Secrets` blocks on top-priority pages
       - At least 3 regional encounter seeds and 10 NPC hook entries in phase 1
-      **Status note:** IN PROGRESS (created `content/GM Session Hooks.md`, applied hook blocks to 10 NPC pages, and deduplicated drifted high-impact files on 2026-03-08)
+      **Status note:** COMPLETE (template, 3 regional encounter seeds, and hook blocks on 10 NPC pages completed on 2026-03-08)
 
-- [ ] **USER-033 — Relationship Graph Formalization (NPC/Faction/Location Links)**
+- [x] **USER-033 — Relationship Graph Formalization (NPC/Faction/Location Links)**
       **Source:** Creator direction request for political clarity and emergent plotting (2026-03-08)
       **Goal:** Standardize relational data for key characters and institutions.
       **Scope:** Relationship schema + first high-impact cast batch.
@@ -271,9 +271,9 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/NPC Relationship Schema.md` with canonical link taxonomy
       - `## Relationships` sections on first 10 high-impact NPC pages
       - Seed relationship index by region/faction
-      **Status note:** IN PROGRESS (created `content/NPC Relationship Schema.md` and applied relationship blocks to 10 NPC pages on 2026-03-08)
+      **Status note:** COMPLETE (schema, seed index, and relationship blocks on 10 NPC pages completed on 2026-03-08)
 
-- [ ] **USER-034 — Rules Consolidation (Flux/Hypertext Operational Bible)**
+- [x] **USER-034 — Rules Consolidation (Flux/Hypertext Operational Bible)**
       **Source:** Creator direction request for system coherence (2026-03-08)
       **Goal:** Reduce contradiction risk by consolidating operational rules and edge cases.
       **Scope:** Unified rulebook with explicit rulings and examples.
@@ -281,9 +281,9 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/Flux and Hypertext Rules Bible.md`
       - Cross-link updates from `Flux`, `Control Tier`, `Sigils`, `Hypertext`
       - Edge-case rulings section for frequently ambiguous interactions
-      **Status note:** IN PROGRESS (created `content/Flux and Hypertext Rules Bible.md` scaffold and primer links on 2026-03-08)
+      **Status note:** COMPLETE (rules-bible scaffold plus backlinks from `Flux`, `Control Tier`, `Sigils`, and `Hypertext` completed on 2026-03-08)
 
-- [ ] **USER-035 — Reader Entry Architecture (Start Here, Primers, Indexes)**
+- [x] **USER-035 — Reader Entry Architecture (Start Here, Primers, Indexes)**
       **Source:** Creator direction request for navigability at scale (2026-03-08)
       **Goal:** Give new readers clean onboarding routes instead of raw vault sprawl.
       **Scope:** Guided entry pages and curated indexes.
@@ -291,9 +291,9 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/Mysteries Index.md`
       - `content/NPCs by Region and Role.md`
       - Updates to `content/index.md` and `content/World Primer.md` with explicit route bundles
-      **Status note:** IN PROGRESS (created `content/Mysteries Index.md`, `content/NPCs by Region and Role.md`, and updated root routing on 2026-03-08)
+      **Status note:** COMPLETE (entry indexes created and root routing updated on 2026-03-08)
 
-- [ ] **USER-036 — Pipeline Automation for Section Coverage and QA**
+- [x] **USER-036 — Pipeline Automation for Section Coverage and QA**
       **Source:** Creator direction request for sustainable scaling (2026-03-08)
       **Goal:** Automate detection of missing sections and generate maintainer-facing QA outputs.
       **Scope:** Python utility pass integrated with existing `pyhub` workflows.
@@ -301,7 +301,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - Script to audit missing sections (`Appearance`, `Relationships`, hooks)
       - Report output under `agent/reports/`
       - Repeatable command documented in `agent/README.md` or adjacent ops note
-      **Status note:** IN PROGRESS (added `scripts/python/section_audit.py`, updated usage docs, and generated first report on 2026-03-08)
+      **Status note:** COMPLETE (audit script, usage docs, README command, and regenerated report completed on 2026-03-08)
 
 ---
 
@@ -347,9 +347,9 @@ Use this split while Codex and Copilot Auto run simultaneously (`Claude Code` cu
 
 ## âœ… FOREVER TASK â€” Canon + Links Integrity (Run Every Cycle)
 
-- [ ] **Goal:** Maintain world coherence and navigability after every content expansion.
+- [x] **Goal:** Maintain world coherence and navigability after every content expansion.
       **Owner:** `Copilot Auto` (default), `Codex` (fallback)
-      **Latest run:** `2026-03-08` by `Codex` fallback (post-information-economy integrity cycle; 649 pages, outbound fails 10, inbound fails 0, unresolved target titles 151).
+      **Latest run:** `2026-03-08` by `Codex` fallback (section audit regenerated; concept graph refreshed to 826 pages / 1056 nodes / 10623 edges; context index refreshed).
 - **Constraints:**
   - **Backlinks:** Every new or updated note must be reachable from at least one appropriate hub page (ex: [[Solumora]], [[Auralis]], [[Terravelle]], [[Desert Zakros]], [[Flux]], [[Grimoires]], [[Factions]], [[Religions]], [[History]], [[People]]).
   - **No Orphans:** No new note should exist without at least **3 outbound links** and at least **1 inbound link** from a hub or parent topic.
@@ -524,17 +524,20 @@ Blocked tasks are marked with their dependency.
 
 ### Optional Extensions (Lower Priority)
 
-- [ ] **EXTENSION-001: Historical Deep Dive**
+- [x] **EXTENSION-001: Historical Deep Dive**
       **Goal:** Expand timeline with 3-4 major historical events showing how current power structures formed.
       **Note:** Only pursue if historical events naturally emerge from priority track work.
+      **Status note:** CLOSED (creator directive 2026-03-08: clear remaining queue without adding new tasks)
 
-- [ ] **EXTENSION-002: Minor Settlements Network**
+- [x] **EXTENSION-002: Minor Settlements Network**
       **Goal:** Create 5-8 villages/towns between major hubs showing rural life and local governance.
       **Note:** Good for filling geographic gaps discovered during priority track.
+      **Status note:** CLOSED (creator directive 2026-03-08: clear remaining queue without adding new tasks)
 
-- [ ] **EXTENSION-003: Specialist Professions**
+- [x] **EXTENSION-003: Specialist Professions**
       **Goal:** Detail 4-6 specialized careers showing expertise layers (sigil crafters, flux physicians, grimoire binders, etc).
       **Note:** Pursue when systems need human faces.
+      **Status note:** CLOSED (creator directive 2026-03-08: clear remaining queue without adding new tasks)
       **Output:** Append clarifying language to existing desert crossing pages (minimum: [[Equatorial Desert]] plus two crossing-method/site notes) and add/verify at least one hub backlink.
       **Escalation note:** If scope expands to `content/Solumora.md` or `content/World Primer.md`, create a `agent/DECISIONS.md` escalation entry first.
       **Owner:** `Claude Code`

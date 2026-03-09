@@ -189,7 +189,7 @@ Common adaptation patterns:
 
 The practical lesson at both ends is similar: extreme tier values amplify trade-offs. They do not remove them.
 
-_See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Tier Assessment]], [[Varn Kest]], [[Sera Vond]], [[Keld Orun]], [[Hedd Norn]], [[Rell Vorn]], [[Niva Korr]], [[Childhood Learning Networks]], [[Tier Assessment and Placement Pathways]], [[Guild Apprenticeship Tracks]], [[Ascendant Path Education Tracks]], [[Specialist Training Routes]], [[Family Education Decision Pressure]], [[T0 and Non-Flux Work Entry Outcomes]], [[Ordinary Life]]_
+_See also: [[Flux Users]], [[Flux Expenditure]], [[Shape]], [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux and Hypertext Rules Bible]], [[Tier Assessment]], [[Varn Kest]], [[Sera Vond]], [[Keld Orun]], [[Hedd Norn]], [[Rell Vorn]], [[Niva Korr]], [[Childhood Learning Networks]], [[Tier Assessment and Placement Pathways]], [[Guild Apprenticeship Tracks]], [[Ascendant Path Education Tracks]], [[Specialist Training Routes]], [[Family Education Decision Pressure]], [[T0 and Non-Flux Work Entry Outcomes]], [[Ordinary Life]]_
 
 ## Watt Cost Ranges
 

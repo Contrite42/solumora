@@ -50,4 +50,4 @@ Both [[Terravelle]] and [[Auralis]] are aware of Hypertext's existence. Neither 
 
 From Auralis's side, [[Orva Dresk]] has been attempting to reconstruct Hypertext from secondhand sources and ruins-artifact analysis — significant progress by some measures, but missing the foundational structure that Scholarium access would provide. From Terravelle's side, the Crown's strategy has been relationship management rather than independent development, maintained through [[Keln Varost]]'s standing envoy relationship.
 
-_See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]], [[Mell Rask's Letters]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Orva Dresk]], [[Keln Varost]]_
+_See also: [[Sigils]], [[Spell Variables]], [[Flux]], [[Flux Users]], [[Wolfpoint]], [[Shape]], [[Flux and Hypertext Rules Bible]], [[Vel Sorvn]], [[Vel Sorvn's Practice Notes]], [[Mell Rask]], [[Mell Rask's Letters]], [[The Wolfpoint Scholarium]], [[Wolfpoint Exports]], [[The Wolfpoint Question]], [[Orva Dresk]], [[Keln Varost]]_

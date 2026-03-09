@@ -58,4 +58,4 @@ Contemporary military preparation is creating structural pressure across researc
 
 The sustainability of current institutional research approaches beyond 3-5 year horizon is increasingly questionable if military conflict significantly increases institutional demands on research resources and personnel.
 
-_See also: [[Control Tier]], [[Sigils]], [[Spell Variables]], [[Flux Users]], [[Spells]], [[Crestward Flux Institute]], [[Emberfall]], [[Northern Terravelle Academy]], [[Solhaven Flux Practical Research Collective]], [[Casten Miel]], [[Meln Corst]], [[Vestra Veln]], [[Kedn Rast]], [[Rift Incursions]], [[Flux Demons]], [[Discipline]], [[Resource Extraction Conflicts]], [[Economy]]_
+_See also: [[Control Tier]], [[Sigils]], [[Spell Variables]], [[Flux Users]], [[Spells]], [[Flux and Hypertext Rules Bible]], [[Crestward Flux Institute]], [[Emberfall]], [[Northern Terravelle Academy]], [[Solhaven Flux Practical Research Collective]], [[Casten Miel]], [[Meln Corst]], [[Vestra Veln]], [[Kedn Rast]], [[Rift Incursions]], [[Flux Demons]], [[Discipline]], [[Resource Extraction Conflicts]], [[Economy]]_
