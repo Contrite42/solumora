@@ -2,6 +2,14 @@
 
 **Kess Talmor** manages Talmor Mill, one of three grain processing facilities serving the [[Northern Grain Corridor]], converting raw harvest into market-ready flour for [[Greyveil]] urban distribution. Age 44, [[Control Tier|T2]], operating the mill for 11 years after inheriting management from her father who ran it for 28 years before her. The mill processes approximately 800,000 pounds annually, representing roughly one-third of Corridor total production requiring commercial processing.
 
+## Appearance
+
+Kess is a solidly built woman in her mid-forties with the practical physicality of someone who spends their days operating heavy machinery. She has dark blonde hair streaked with early gray, usually tied back with a cloth band to keep it out of mill equipment. Her hands and forearms show the permanent flour dust that becomes part of a mill worker's skin — no amount of washing completely removes it, and she's stopped trying.
+
+She dresses in heavy work clothes designed for mill operations — canvas trousers, long-sleeved work tunics in dark colors that don't show grain dust, leather apron when actively working the grinding stones, boots with reinforced toes. She has a permanent squint from years of checking grain quality in varying light conditions, and her hearing has degraded slightly from decades of exposure to grinding stone noise.
+
+Her face is weathered in the way of people who work in dusty environments, with fine lines around her eyes and mouth. She moves with the deliberate confidence of someone who knows their workspace intimately and has developed efficient patterns for navigating it over eleven years of daily operation.
+
 ## Mill Operations
 
 Talmor Mill sits at Keln Ridge settlement (population ~600), positioned centrally among eight Corridor farming communities within 15-mile radius. This geographic placement, established three generations ago when her grandfather built the original facility, determines the mill's operational catchment — communities bring grain here because transport distance remains manageable even during poor road conditions.

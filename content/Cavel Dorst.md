@@ -1,5 +1,15 @@
 **[[Cavel Dorst]]** is forty-four years old and manages the Ashford office of a mid-tier merchant house headquartered in [[Valdenmoor]]. [[Control Tier|T3]]. He has been in this position for nine years, having spent the preceding decade working up through the house's cargo documentation and route planning operations. He runs a staff of eleven — three certified Flux practitioners, two scribes, four logistics handlers, and two who occupy roles the organizational chart describes as general operations and which in practice involve whatever the other nine do not cover.
 
+## Appearance
+
+Cavel is a man in his mid-forties with the slightly worn look of someone who spends long hours reviewing documentation under lamplight. He has brown hair beginning to thin at the crown, which he keeps trimmed short in the merchant-administrative style common in [[Ashford]]. He wears well-maintained merchant-house uniforms — dark tunics with the house colors embroidered at the collar, practical trousers, polished boots that are comfortable for walking between warehouse districts but formal enough for guild meetings.
+
+He has the slightly rounded shoulders of someone who spends most of their time bent over ledgers and manifests, and his hands are ink-stained despite his best efforts to keep them clean. He wears reading glasses for detailed document work, a recent necessity that he accepted with pragmatic resignation. His face has developed the permanent slight frown lines of someone who encounters problems as a primary job function and has learned to maintain calm while assessing them.
+
+He moves through Ashford's commercial district with the purposeful stride of someone who knows exactly where they're going and wants to minimize time between destinations. Other merchants and guild administrators recognize him on sight, less for any distinctive features and more because he's been a consistent presence in the district's commercial operations for nearly two decades.
+
+## Background
+
 The merchant house's Ashford office is a routing hub. Goods moving north from [[Valdenmoor]] toward [[Greyveil]] and the northern supply chains pass through or around Ashford, and Cavel's job is to ensure that the house's portion of this traffic runs efficiently, that the house's clients get what they are contracted to receive, and that the office's documentation is clean enough to pass any review the [[Trade Guilds|guild]] or [[Auralis]] border inspectors decide to conduct.
 
 He is good at this. He is particularly good at the last part, which requires an accurate model of what reviewers actually look for versus what they claim to look for, and the patience to keep documentation current with changing institutional expectations. He has run the office through two trade disputes, a partial route disruption when the northern road was closed for four months, and one guild audit. The audit was the most stressful of these. It was also the only one that produced a compliment.

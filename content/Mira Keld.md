@@ -2,6 +2,14 @@
 
 **Mira Keld** represents Veln Hold settlement (population ~480) on the [[Northern Grain Corridor]] Council, coordinating between her community's agricultural operations and Corridor-wide harvest logistics. Age 38, [[Control Tier|T1]], serving as settlement representative for six years after election by Veln Hold households. She is not administrator or authority figure — she is coordinator translating community consensus into Corridor participation.
 
+## Appearance
+
+Mira is a woman in her late thirties with the weathered look of someone who grew up doing farm work before transitioning to coordination roles. She has brown hair showing the first traces of gray, usually braided practically for long days of travel between settlements. She dresses in the rural north's practical style — sturdy traveling clothes suitable for riding between settlements in variable weather, layers that can be adjusted for temperature changes, boots meant for both walking and riding.
+
+Her hands show old calluses from earlier years of agricultural labor, though they're less rough now that her work involves more coordination than physical farming. She carries a worn leather satchel containing settlement records, correspondence, and route maps of the Corridor settlements. She has the focused, attentive posture of someone who spends much of their time listening to community concerns and remembering details of complex negotiations.
+
+At settlement meetings, she shifts her presentation slightly — speaking with the measured authority of someone representing her community's collective voice rather than her personal opinion. The difference is subtle but visible to those who know her in both contexts.
+
 ## Settlement Context
 
 Veln Hold sits forty-two miles south of [[Greyveil]], farming mixed grain (wheat/barley/rye 55%/30%/15%) across 18 linked family holdings. Total cultivated area: ~1,200 acres. Annual production: 180,000-220,000 pounds depending on weather and labor availability.
