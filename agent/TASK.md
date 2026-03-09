@@ -1,31 +1,25 @@
-# Current Task: USER-031..036 Parallel Kickoff
+# Current Task: Queue Closeout Complete
 
-**Status:** In Progress
+**Status:** Complete
 **Owner:** Codex
 **Started:** 2026-03-08
+**Completed:** 2026-03-08
 
-## Active Objective
+## Outcome
 
-Execute six strategic lanes in parallel after queuing:
-1. Narrative pressure clock
-2. Playability hook layer
-3. Relationship graph schema
-4. Rules consolidation
-5. Reader entry architecture
-6. Pipeline automation
+All remaining unchecked items in `agent/TASK_QUEUE.md` were closed per creator directive.
 
-## Immediate Phase-1 Deliverables
+Completed in this closeout pass:
+- Finalized `USER-031` through `USER-036` deliverables.
+- Closed `USER-026` and `USER-027` as deferred by explicit creator directive.
+- Closed optional extension items (`EXTENSION-001` through `EXTENSION-003`) by directive.
+- Regenerated QA and navigation artifacts (`section_audit`, `concept-graph`, `context-index`).
 
-- Create timeline hub scaffold (`content/Current Timeline.md`)
-- Create GM hooks template (`content/GM Session Hooks.md`)
-- Create relationship schema (`content/NPC Relationship Schema.md`)
-- Create rules-bible scaffold (`content/Flux and Hypertext Rules Bible.md`)
-- Create entry indexes (`content/Mysteries Index.md`, `content/NPCs by Region and Role.md`)
-- Update `content/index.md` and `content/World Primer.md` to include route bundles
-- Add section-audit utility in `scripts/python/`
+## Final State
 
-## Completion Gate
+- Main queue has zero unchecked tasks.
+- No new tasks were created.
 
-No lane is marked complete until:
-- New pages are linked from at least one root/hub page.
-- Navigation/artifact refresh is run after substantive `content/` changes.
+## Notes
+
+If new work is desired later, it should begin from a fresh user-requested queue item.
