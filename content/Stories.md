@@ -2,6 +2,21 @@
 
 The following accounts provide narrative context for the world's systems, constraints, and consequences. Stories operate at different scales: some are personal accounts of individual decision points, others document systemic failures or institutional patterns. They are organized by theme and context.
 
+## Start With These (Narrative On-Ramps)
+
+If you are here to read story first, use one of these tracks:
+
+- Full geopolitical arc: [[The Three Near-Wars]]
+- Character aftermath track: [[Stories/Five Years After - Merra's Return to the Desert]], [[Stories/Five Years After - Verath's Public Life]], [[Stories/Five Years After - The Competent Partnership]], [[Stories/Seven Years After - Cassia's Institutional Burden]]
+- First Contact historical track: [[Terravelle-Auralis First Contact]], [[Stories/First Crossing - Nalress Expedition]], [[Stories/First Trade - Venn at Ashford]], [[Stories/First Mediator - The Ashford Dispute]], [[Stories/Ten Years After - The First Generation]]
+- Ancient mystery track: [[The Final Generation]], [[Stories/Final Generation - The Scholar's Calculation]], [[Stories/Final Generation - The Completion Morning]], [[Stories/Final Generation - The Day After]]
+
+Audience fit:
+
+- Tabletop-style adventure readers: expedition risk, logistics, field competence
+- Anime-style escalation readers: constrained power growth, dramatic reveals, personal cost
+- Geopolitical fantasy readers: treaties, faction pressure, institutional survival
+
 ## Zakros Crossings and Desert Travel
 
 [[Stories/A Cost That Makes Sense]] — A practitioner reflects on the economics and personal tolls of specialized labor after a crossing has ended. Central to understanding how Zakros crossing work integrates into wider economic pressure and psychological cost.
