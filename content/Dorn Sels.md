@@ -2,6 +2,14 @@
 
 **Dorn Sels** is professional wilderness naturalist and creature specialist based in [[Auralis]], holding institutional appointment with combined [[University of Emberfall|Emberfall research establishment]] and [[Council of Auralis]] practical ecology division. He is [[Control Tier|T4]], age 51, with 28 years documented field experience across desert, temperate, and maritime ecosystem zones.
 
+## Appearance
+
+Dorn is a man in his early fifties with the weathered, lean build of someone who has spent decades doing field observation work in variable terrain and climate conditions. He has sun-darkened skin and deep squint lines around his eyes from years of outdoor surveying. His hair has gone mostly gray and he keeps it cut short for practical field work. His hands and forearms show numerous small scars from encounters with various creatures and environmental hazards — claw scratches, talon cuts, plant barbs.
+
+He dresses in practical field-researcher style — durable canvas trousers with reinforced knees, long-sleeved shirts in earth tones, sturdy boots designed for uneven terrain, weatherproof jacket always within reach. He carries a well-worn leather field satchel containing observation notebooks, measurement tools, and sketching materials. His clothing tends toward function over appearance, often showing mud stains or small repairs from field damage.
+
+He moves with the economical efficiency of someone comfortable in wilderness settings, with excellent spatial awareness and the habit of constantly scanning his environment for creature activity. His face has settled into the patient, watchful expression of someone who spends significant time observing rather than acting. Colleagues note he can sit motionless for hours when tracking creature behavior, a stillness that comes from decades of field observation work.
+
 ## Professional History
 
 Dorn's pathway to naturalist specialization emerged through non-traditional trajectory. He began career as [[Flux Users|Scholar]] trainee in [[Emberfall]] academic system (19 years old, motivated by family connection to academic networks rather than exceptional Flux capacity). After 8 years theoretical Flux study, he recognized his actual interest centered on understanding creature biochemistry and population dynamics rather than advancing theoretical spell architecture. Institutional constraints — [[Scholar Track]] advancement required commitment to higher Flux theoretical work, not practical biology — prompted his transition away from formal Flux education.

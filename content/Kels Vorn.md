@@ -2,6 +2,14 @@
 
 **Kels Vorn** is professional creature hunter and extraction specialist based in [[Wolfpoint]], with 19 years documented field experience focused on high-value resource harvesting from dangerous fauna. She is [[Control Tier|T3]], age 37, with reputation as one of northern region's most competent bloodshrike specialists and emerging expertise in predator-pack tracking and selective elimination.
 
+## Appearance
+
+Kels is a woman in her late thirties with the lean, powerful build of someone who hunts large predators in difficult terrain. She has dark hair kept in a tight practical braid, weathered skin from years working outdoors in northern climate extremes, and the intense, focused gaze of a professional hunter. Her hands and arms show extensive scarring from creature encounters — talon scratches, bite marks that healed poorly, burn scars from bloodshrike feather extractions.
+
+She dresses in specialized hunter's gear — reinforced leather armor over layered clothing for temperature regulation, heavy boots with excellent traction, multiple tool harnesses for capture equipment and extraction tools. She carries specialized implements for bloodshrike handling — weighted capture nets, restraint bindings, feather extraction tools. Her clothing shows the wear of someone who spends months in the field: patched, stained, carefully maintained but visibly used.
+
+She moves with the controlled, predatory efficiency of someone who has learned to minimize unnecessary motion in pursuit situations. Her posture is constantly alert, always assessing terrain and potential threats. She has the characteristic hunter's habits of unconsciously tracking wind direction, visually scanning for movement patterns, and positioning herself with awareness of escape routes. Her face shows the weathered calm of someone who regularly faces life-threatening situations and has learned not to waste energy on fear.
+
 ## Professional Background
 
 Kels grew up in rural [[Wolfpoint]] farming family without Flux-working inheritance or academic connections. She demonstrated practical outdoor aptitude (tracking, navigation, habitat reading) at young age and was apprenticed informally to established bloodshrike hunter (Ren Kost, mentor relationship lasting 7 years) beginning at age 18. This apprenticeship pathway remains standard for hunting-specialization recruitment — rather than institutional training, young potential practitioners work alongside established professionals, learning practical methodology through direct observation and field participation.

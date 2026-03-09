@@ -2,6 +2,14 @@
 
 Kessran Dolt is a visiting researcher at the [[Crestward Flux Institute]], age 55, [[Control Tier|T4]], and specializes in cross-discipline Flux synthesis — understanding how spells from different magical traditions can interact.
 
+## Appearance
+
+Kessran is a woman in her mid-fifties with the scholarly bearing of someone who has spent decades in research environments. She has silver-gray hair kept in a neat, practical style, and wears reading glasses constantly for the detailed mathematical and sigil work her research requires. She dresses in Crestward's visiting researcher style — practical scholar's robes in neutral colors, well-maintained but not formal, with numerous pockets for notation materials and reference documents.
+
+Her hands show extensive ink staining from constant notation work, and she has developed the characteristic scholar's habit of unconsciously making small notation gestures even when not actively writing. She moves through research spaces with the comfortable confidence of someone who has worked in many institutional settings and knows how to navigate them. Her face shows the thoughtful, somewhat abstracted expression of someone whose mind is usually working through complex theoretical problems even during routine conversations.
+
+She has a calm, measured demeanor and speaks precisely, choosing words carefully when explaining complex concepts. Colleagues note she's excellent at making difficult cross-discipline synthesis work comprehensible to specialists from single disciplines, a skill developed over years of collaborative research.
+
 ## Current Project: Binding+Heat Synergies
 
 Kessran's primary focus is on understanding how [[Binding]] discipline spells can be enhanced, modified, or combined with [[Heat]] discipline magic in ways that produce novel effects. The work is motivated by observation that separate spell traditions often overlap in their effects, but the mathematical relationship between these overlaps is poorly understood.

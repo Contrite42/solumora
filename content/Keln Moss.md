@@ -2,6 +2,14 @@
 
 **Keln Moss** is a [[Control Tier|T0]] mine laborer working primarily in iron-ore extraction operations near [[Ashford]], with occasional contract work in secondary mineral mining during peak seasons. He is 34 years old, has worked mining for 12 years since early childhood apprenticeship with his father, and represents typical low-tier extraction workforce experiencing contemporary military pressure.
 
+## Appearance
+
+Keln is a man in his mid-thirties with the heavily muscled build and permanent fatigue of someone who does hard physical labor six days a week. He has the characteristic appearance of a mine worker — skin perpetually stained with rock dust and ore residue that no amount of washing fully removes, calloused hands thick from years of tool work, scarred knuckles from rock breaking and ore transport. His hair is dark and kept short to minimize dust accumulation.
+
+He dresses in heavy mining work clothes — reinforced canvas trousers blackened with ore dust, thick wool shirts layered for temperature regulation underground, heavy boots with steel reinforcement. His clothing is patched, worn, and permanently discolored from rock dust. His forearms show the developed musculature of someone who swings picks and carries ore loads daily, and his posture shows the beginning of the characteristic forward stoop that long-term miners develop from working in low-ceiling shafts.
+
+His face is weathered and prematurely aged from underground work in poor air quality, with deep lines around his eyes and mouth. He has the slightly hollow look of someone who works hard but doesn't get quite enough quality food. His hands shake slightly when at rest — a common tremor among miners from repeated tool vibration exposure. His expression carries the permanent wariness of someone doing dangerous work with inadequate safety provisions.
+
 ## Background and Work
 
 Keln came to mining after his father secured him apprenticeship at age 12 with a medium-scale iron operation. No alternative career paths were anticipated — mining work provided family income sufficient to avoid conscription pressure into military service. He progressed from simple rock-breaking work to ore transport to occasional shaft-support installation as years of experience accumulated.
