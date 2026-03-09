@@ -1,10 +1,10 @@
 # The Winter Ledger at Wolfpoint
 
-Snow arrived early and all of [[Wolfpoint]] performed the same ritual lie.
+Snow arrived eleven days earlier than historical seasonal average, and [[Wolfpoint]] performed the same ritual lie that every mountain settlement performed when scarcity approached faster than expected.
 
-"Expected," people said in market lanes while staring at the pass closure notice nailed to the registry board.
+"Expected," people said in market lanes while staring at the pass closure notice nailed to the registry board. "We prepared for this." Nobody mentioned that they'd prepared for snow arriving two weeks from now, not in early dark-month when supply lines were still presumed open.
 
-Kess Rolv, thirteen winters deep at the [[Wolfpoint Trade Registry]], watched the theater with affection and exhaustion. Mountain settlements survived on two things: reserves and denial, in that order.
+Kess Rolv, ledger clerk at the [[Wolfpoint Trade Registry]] for thirteen winters and three summers, watched the performance with affection and bone-deep exhaustion. Mountain settlements survived on two things: adequate reserves and the collective discipline to maintain denial until actual crisis became undeniable.
 
 Inside Registry Hall, clerks bent over ledgers while boots steamed by iron braziers. Outside, teamsters argued over unloading priority as if volume could be bullied into appearing.
 

@@ -2,89 +2,107 @@
 
 At 08:13, the third-floor heat glyph went red.
 
-In the [[The Crestward|Crestward]] annex, red meant one thing: fire in proximity to irreplaceable text.
+In the [[The Crestward|Crestward]] annex's monitoring station, red meant one thing: fire in proximity to irreplaceable text. Centuries of historical documents. Grimoire originals. Early [[Control Tier]] research notes that no longer existed anywhere else in the world because war, time, and negligence had taken the backups.
 
-Alarm bells did not scream. They clicked in measured intervals, like a metronome counting down bad choices.
+The alarm did not scream. It clicked in measured intervals—a metronome counting down bad choices, designed specifically so people wouldn't panic at the sound.
 
-Supervisor Jan Trell triggered protocol in under forty seconds:
+Supervisor Jan Trell heard the click and understood immediately that they had minutes, not hours.
 
-1. seal corridor,
-2. evacuate staff,
-3. begin preservation triage.
+She triggered protocol.
 
-By 08:16, scholars were in the south courtyard with ink on their sleeves and panic in their throats.
+Corridor seal: lock the third floor. Emergency access only.
+
+Evacuation order: get staff off the floor immediately. No arguments. No arguments.
+
+Preservation triage: determine what survives if the worst happens.
+
+By 08:16, scholars were standing in the south courtyard with ink still wet on their sleeves and panic in their throats. Everyone wanted to go back up. Everyone had one more crate, one critical manuscript, one final record that absolutely required saving.
 
 "Take the legal codices first."
-"No, the proto-Flux indices."
-"If we lose the field journals, we're blind for a decade."
 
-Mella Vorst, catalog continuity clerk and veteran of exactly one real fire in twenty years, ignored the argument and opened the emergency slate case.
+" No, the proto-Flux indices—if we lose those, we're blind for a decade."
 
-She already had the list.
+"The founders' letters are irreplaceable."
 
-Every quarter she rebuilt it: if the vault fails, save these twelve crates first. Everything else had redundancy.
+Mella Vorst, catalog continuity clerk and veteran of exactly one real fire in her twenty years at the Crestward, watched the chaos and did not panic. She did not argue with anyone about which documents mattered most. She did not participate in the philosophical debate about hierarchy.
 
-She handed the slate to Response Lead Kerren, whose hands were shaking despite his T3 composure.
+She walked directly to the emergency slate case where she kept her quarterly list.
 
-"If the seal breaks," she said, "start here. Don't negotiate in smoke."
+The list was simple: if the vault fails catastrophically, save these twelve crate categories first. Everything else had institutional redundancy. Backups existed in [[Solumora Academy]] archives. Some copies lived in [[Valdenmoor]] libraries. These specific twelve categories existed nowhere else.
 
-Kerren blinked at her. "You had this ready?"
+She had rebuilt this list every three months for six years. She knew it better than her own family history.
 
-"I have had this ready since before you got promoted."
+She handed the slate to Response Lead Kerren, whose hands were shaking despite his T3 composure and his two decades of emergency response training.
+
+"If the seal breaks," she said, voice level and precise, "start here. Don't negotiate in smoke. Don't save what's beautiful or famous. Save what's singular."
+
+Kerren blinked at her, seeing her for the first time even though they'd worked together for four years.
+
+"You had this ready?" he asked.
+
+"I have had this ready since before you got promoted," she replied.
 
 ---
 
-Inspection team reached the corridor at 08:19.
+The inspection team reached the third-floor corridor at 08:19.
 
 No flames.
-No smoke.
+No smoke visible.
+No heat outside normal building management parameters.
 
-Just a wall regulator running hot after drifting outside tolerance and tripping the monitor profile exactly as designed.
+The emergency was running them hot. A wall regulator that had gradually drifted outside tolerance had tripped the monitoring profile exactly as designed. The corridor was warm enough to worry about, not warm enough to burn. The system had worked. The system itself was the story, not a fire.
 
-The corridor was warm enough to worry, not warm enough to burn.
-
-Alarm stood down.
+The alarm stood down at 08:24.
 
 People exhaled hard enough to look angry about it.
 
-By 09:00, copy desks resumed. By 10:30, jokes returned. By noon, the city had already invented a better story.
+By 09:00, copy desks resumed their work. Hands were shaking slightly but improving. By 10:30, jokes started returning. By noon, the collective Crestward staff had already invented a better, more dramatic version of events.
 
-"Crestward vault fire," said market gossip.
-"Hundreds of manuscripts lost," said a dock courier who had never seen the building.
-"Archive shut for months," said someone who liked saying dramatic things in tea lines.
+"Archive nearly caught fire," said the official Crestward statement, carefully worded.
 
-By evening, rumor had outrun truth by five districts.
+"Hundreds of manuscripts almost destroyed," the city gossip expanded.
 
-Mella spent two hours writing the same response to partner institutions:
+"Entire centuries of records narrowly saved," the market-district courier system reported.
 
-_No archive loss occurred. Continuity remains intact._
+"Crestward vault has been sealed for months under emergency protocols," someone told someone else who reported it to a tea merchant.
 
-She wrote it so many times the phrase lost meaning and became muscle memory.
+By evening, rumors had outpaced truth by five districts and accumulated drama the way water accumulates in low places.
+
+Mella spent the evening working through prepared responses, writing the same letter over and over to distant institutions:
+
+_No archive loss occurred. Continuity remains intact. Routine maintenance completed on schedule. Please disregard public rumors._
+
+She wrote it so many times her hand cramped and the phrase stopped meaning anything and became pure muscle memory. That was fine. Let the words flow automatically. Her mind was already elsewhere, already back to rebuilding seasonal preparedness plans for next quarter.
 
 ---
 
-Three days later, the annex held review.
+Three days later, the Crestward held a formal review in the small conference room where they discussed policy changes.
 
-No grand speech. No medals for calm under pressure. Just practical changes:
+No grand speeches. No medals for calm under pressure. No recognition that Mella had maintained a list so comprehensive and regularly updated that it had probably saved institutional continuity through actual action rather than luck.
 
-- regulator checks from monthly to biweekly,
-- clearer handoff language between corridor and courtyard teams,
-- added rumor-response chain so public communication happened faster than market fiction.
+Just practical alterations:
 
-After the meeting, Kerren found Mella in the stacks.
+- heat regulator checks from monthly to biweekly schedule,
+- clearer handoff language between corridor monitoring and emergency court yard staging,
+- added rumor-response protocol so public communication happened faster than market fiction could manufacture new disasters.
 
-"I thought heroics would matter more in an emergency," he admitted.
+After the review, Kerren found Mella in the stacks where she was reshelfing materials that had been pulled for the evacuation.
 
-Mella slid a crate back into its shelf and said, "Heroics are for people who failed to prepare and got lucky anyway. We do archives. We do routine." 
+"I thought heroics would matter more in an emergency," he admitted, his tone suggesting he'd spent three days thinking about this conversation.
 
-He laughed, a little embarrassed.
+Mella slid a crate back into its proper shelf position. The marking system took her less than a second to verify.
 
-Outside the annex, no one remembered the correction cycle or the new inspection cadence. People remembered only the version where history almost burned.
+"Heroics are for people who failed to prepare and got lucky anyway," she said, not unkindly. "Archives don't run on luck. Archives run on routine. We do boring. We do preparation. We do checklists that people never see operating because proper systems are invisible."
 
-Inside the annex, people remembered what actually saved them:
+He laughed, a little embarrassed. He understood then—not fully, it would take years to fully understand—that the real work of institutions happened in quarterly list maintenance, in biweekly inspections that found nothing interesting, in the kind of reliability that made events like fires into non-stories.
 
-a list prepared in a boring month,
-a protocol executed quickly,
-and a clerk who trusted checklists more than adrenaline.
+Outside the annex walls, the city remembered only the version where history almost burned.
+
+Inside the annex, four or five people remembered what actually saved them:
+
+A list prepared in a boring quarter when nothing visible was happening,
+A protocol executed quickly by people who had practiced the steps,
+Alarm systems that worked because someone had maintained them correctly,
+And a clerk who trusted checklists more than heroics, who had kept a list ready for six years knowing that if it ever mattered, it would matter absolutely.
 
 _See also: [[The Crestward]], [[Crestward Field Company]], [[Solhaven]], [[Council Review Board]], [[Council Orders Registry]], [[Flux]], [[Solumora]]_
