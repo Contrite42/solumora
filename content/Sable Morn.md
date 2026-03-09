@@ -18,4 +18,26 @@ Her [[Control Tier|T2]] casting is used for cargo work — minor stabilizing app
 
 She owns a small property at the Valdenmoor end of the circuit that she uses between runs. She has not spent more than six consecutive weeks there in the past decade.
 
+## Relationships
+
+- `ally`: [[Ashford]] - depends on repeat dock/stable relationships to preserve schedule reliability.
+- `dependent`: [[Greyveil]] - northern outfitter links determine whether the hard leg remains profitable.
+- `unknown-link`: [[Cross-Border Trade]] - occasionally carries document consignments with unclear strategic intent.
+
+## Use In Session
+
+- Players can contract Sable for a time-critical run where route timing reveals hidden institutional pressure.
+
+## Complications
+
+- A trusted stop on the circuit abruptly changes handling rules without explanation.
+- Cargo stabilization needs collide with weather and road degradation on the same leg.
+- A "routine" document consignment attracts coordinated attention at multiple checkpoints.
+
+## Secrets
+
+- Sable's route journals map long-term pattern shifts that formal reports miss.
+- She can identify who is shaping trade friction by where delays cluster.
+- One recurring client uses her discretion to move politically sensitive paperwork.
+
 _See also: [[Valdenmoor]], [[Ashford]], [[Greyveil]], [[Terravelle]], [[Sable Morn's Route Journal]]_

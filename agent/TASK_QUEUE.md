@@ -261,7 +261,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/GM Session Hooks.md` standard template page
       - `## Use In Session`, `## Complications`, `## Secrets` blocks on top-priority pages
       - At least 3 regional encounter seeds and 10 NPC hook entries in phase 1
-      **Status note:** IN PROGRESS (created `content/GM Session Hooks.md` and applied first NPC hook tranche on 2026-03-08)
+      **Status note:** IN PROGRESS (created `content/GM Session Hooks.md` and applied hook blocks to 6 NPC pages on 2026-03-08)
 
 - [ ] **USER-033 — Relationship Graph Formalization (NPC/Faction/Location Links)**
       **Source:** Creator direction request for political clarity and emergent plotting (2026-03-08)
@@ -271,7 +271,7 @@ Add creator/user-requested work items here first. `agent/TASK.md` should always 
       - `content/NPC Relationship Schema.md` with canonical link taxonomy
       - `## Relationships` sections on first 10 high-impact NPC pages
       - Seed relationship index by region/faction
-      **Status note:** IN PROGRESS (created `content/NPC Relationship Schema.md` and applied first relationship tranche on 2026-03-08)
+      **Status note:** IN PROGRESS (created `content/NPC Relationship Schema.md` and applied relationship blocks to 6 NPC pages on 2026-03-08)
 
 - [ ] **USER-034 — Rules Consolidation (Flux/Hypertext Operational Bible)**
       **Source:** Creator direction request for system coherence (2026-03-08)

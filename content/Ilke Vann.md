@@ -16,4 +16,26 @@ Their T2 casting is weather-reading, primarily — the kind of extended atmosphe
 
 They have been writing letters to a person in Halveth for fifteen years. The letters go in both directions. Ilke's are longer and more specific, particularly about what the coast looks like from the water at different times of year, in different weather, in different light. They have not examined why this is. The letters continue regardless.
 
+## Relationships
+
+- `ally`: [[Halveth]] - sustained harbor-side trust keeps the coastal leg viable through variable conditions.
+- `dependent`: [[Ashford]] - northbound loads and passenger demand originate from Ashford-side market rhythms.
+- `unknown-link`: [[Ashford-Halveth Courier Road]] - occasionally carries passengers avoiding inland traceability.
+
+## Use In Session
+
+- Players can secure passage with Ilke when inland routes are compromised or politically unsafe.
+
+## Complications
+
+- Tidal windows and weather forecasts force rapid go/no-go decisions.
+- Passenger anonymity needs create tension with port verification checks.
+- Seasonal bar shifts make normal harbor approaches temporarily unusable.
+
+## Secrets
+
+- Ilke's long-running letters encode observational intelligence beyond personal correspondence.
+- They can identify abnormal patrol patterns before most operators notice.
+- One repeat passenger line is tied to a network that avoids inland oversight.
+
 _See also: [[Ashford]], [[Halveth]], [[Life in Halveth]], [[Terravelle]], [[Ilke Vann's Letters]]_

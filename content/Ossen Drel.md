@@ -20,6 +20,28 @@ He keeps a trade notebook. The bulk of it is logistics: what things cost in [[So
 
 He does not have a permanent residence in either kingdom. He has a standing room arrangement in [[Ashford]] and another in [[Halveth]] that serves the desert crossing logistics. He has owned these arrangements for fourteen years and considers them adequate.
 
+## Relationships
+
+- `ally`: [[Avel Coss]] - relies on proven desert-guide judgment for survivable crossing windows.
+- `dependent`: [[Ashford]] - uses port-side documentation lanes and contact networks as operational anchor points.
+- `rival`: [[Cross-Border Trade]] - competes with formal channels by offering deniable handling clients cannot request openly.
+
+## Use In Session
+
+- Players can hire Ossen for a high-value transfer where legal paperwork and practical survival requirements conflict.
+
+## Complications
+
+- Crossing logistics force compromise between concealment and speed.
+- Escorts, permits, and weather windows fail alignment on the same cycle.
+- Duplicate manifests create leverage but become liability under seizure risk.
+
+## Secrets
+
+- Ossen keeps shadow paperwork that can expose deniable-shipment clients.
+- He has enough trade-history data to predict which border officers are under pressure.
+- A past crossing ledger contains evidence of a now-protected network.
+
 _See also: [[Auralis]], [[Terravelle]], [[Equatorial Desert]], [[Ashford]], [[Halveth]], [[Avel Coss]], [[Ossen Drel's Trade Notebook]]_
 
 
