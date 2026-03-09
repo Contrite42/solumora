@@ -8,11 +8,9 @@ Because the arithmetic looked wrong in all the familiar ways: inexperienced clie
 
 "We still taking it?" her assistant asked.
 
-"We take contracts, not omens," Tess said, tightening a strap.
+"We take contracts, not omens," Tess said, pulling the strap tight around a load bundle. Her hands moved with the muscle memory of eight years doing this work—loading, checking, adjusting for weight distribution, confirming everything would stay secure through a month of difficult terrain.
 
-She had guided out of [[Life in Halveth|Halveth]] for eight years. She trusted patterns more than confidence.
-
-This pattern said: either the team would mature fast, or she'd spend a month hauling them out of preventable mistakes.
+She had guided out of [[Life in Halveth|Halveth]] for eight years. She trusted patterns more than confidence, intuition more than optimism. And the pattern she saw in this expedition said: either the team would mature fast under real pressure, or she'd spend a month hauling them out of preventable mistakes one by one.
 
 ---
 

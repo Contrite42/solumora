@@ -8,15 +8,9 @@ On days like this, copying felt less like labor and more like tuning an instrume
 
 She had done it for fourteen years under her own seal, nineteen if she counted childhood afternoons at her mother's elbow learning how to breathe between strokes.
 
-She was [[Control Tier|T1]], which meant she did not improvise. She transmitted.
+She was [[Control Tier|T1]], which meant she did not improvise or deviate. She transmitted the source material faithfully, exactly, with a precision that had once failed only once—and that single failure had cost someone everything. 
 
-Faithfully.
-
-Exactly.
-
-With a precision that had once failed only once and cost someone everything.
-
-That memory lived at the edge of her vision like a stain she could not wash out. She did not speak of it. She did not need to. It shaped every line she laid.
+That memory lived at the edge of her vision like a stain she could not wash out no matter how hard she tried. She did not speak of it in the shop. She did not need to. It shaped every line she laid down, every curve of every sigil, every decision about pace and pressure. The error had taught her something that most scribes never learned: that perfect copying is not actually about perfection. It's about understanding the weight of trust embedded in every symbol.
 
 ---
 

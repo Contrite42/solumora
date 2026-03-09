@@ -2,13 +2,13 @@
 
 By the time they reached the ruined fort north of [[Halveth]], nobody was speaking above a whisper.
 
-Three days of bad trail and worse anticipation had done that.
+Three days of bad trail and worse anticipation had done that. The fort itself existed in maps as a notation: "possible binding anomaly, survey incomplete, approach with caution." Dorvin, their guide, had walked this route twice before and had offered exactly three explanations across the march to prepare them:
 
-Their guide, Dorvin, had offered exactly three explanations across the march:
+"A binding anomaly," he'd said on day one.
 
-"A binding anomaly."
-"A screaming thing."
-"You'll know when you feel it."
+"A screaming thing," he'd said on day two.
+
+"You'll know when you feel it," he'd said on day three, which wasn't helpful but turned out to be accurate.
 
 At the threshold, they felt it.
 
