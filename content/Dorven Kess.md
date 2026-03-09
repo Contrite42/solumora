@@ -2,6 +2,14 @@
 
 **Dorven Kess** is a [[Control Tier|T3]] logging supervisor managing seasonal timber operations in [[Maren Valley]] forest regions, coordinating crews of 15-25 workers across the spring-through-autumn harvest and processing cycles. He is 47 years old, has managed logging operations for 18 years, and exemplifies mid-tier skilled operators facing increasing pressure from operational transitions toward institutional control.
 
+## Appearance
+
+Dorven is a heavily built man in his late forties with the physical presence of someone who spent decades doing forestry labor before transitioning to supervisory roles. He's broad-shouldered and thick-armed, with the kind of practical strength that comes from years moving timber rather than any formal training regimen. His hands are massively calloused and scarred, showing the permanent marks of axe work, rope handling, and heavy lifting.
+
+He has dark hair going gray, kept short and practical, with a full beard that he trims irregularly when it gets inconvenient for field work. His face is sun-weathered and wind-roughened from spending most of his working life outdoors in variable weather. He has several visible scars — a healed gash across his left forearm from a logging accident years ago, smaller marks on his hands and face from branch strikes and tool mishaps.
+
+He dresses in heavy forestry worker's clothing — reinforced canvas trousers, thick wool shirts in earth tones, leather vest, solid boots with ankle support for uneven forest terrain. As supervisor he wears a red armband indicating his role, though like many supervisors he only puts it on when he needs to establish authority with unfamiliar workers or visiting merchant-house representatives. He moves with the deliberate, economical efficiency of someone who knows how to work hard without wasting energy, and his voice carries naturally across work sites without needing to shout.
+
 ## Background and Work
 
 Dorven began as field crew member at age 16 after family circumstances forced him out of apprenticeship track toward Flux-intensive work (insufficient early-tier capacity indications). He progressed through field crew roles, earned reputation for reliability and safety consciousness, and advanced to supervisor via demonstrated competence and crew-member recommendation.

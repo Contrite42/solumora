@@ -2,6 +2,14 @@
 
 **Meln Rast** operates independently from [[Solhaven]], providing specialized intelligence services focused on [[Equatorial Desert]] expedition planning and guidance network coordination. She is [[Control Tier|T0]], age 43, with 19 years documented intelligence-specialization experience and reputation as meticulous information analyst and discretion-focused operator.
 
+## Appearance
+
+Meln is a woman in her early forties with the unremarkable appearance of someone who has built a career on being easily overlooked. She has medium-brown hair usually pulled back in a simple style, neutral features, average height and build. She dresses in the understated professional style of Solhaven's commercial district — practical tunics and trousers in muted colors that don't draw attention, comfortable boots for walking between meeting locations and information sources.
+
+What distinguishes her is not her appearance but her mannerisms. She has the extremely focused, attentive listening posture of someone whose professional success depends on accurately remembering detailed information. She rarely takes notes during conversations with sources — she's trained herself to maintain comprehensive mental records and transcribes later in private. People who meet with her often comment afterward that she asked more precise questions than they expected.
+
+Her hands are ink-stained from constant record-keeping work, and she carries a worn leather portfolio containing her current intelligence summaries. She has developed the habit of unconsciously assessing escape routes and observation positions in any space she enters — a professional reflex from years of managing sensitive information in a city with competing institutional interests.
+
 ## Professional Background
 
 Meln began career as guide coordinator, managing relationships between desert guides and expedition customers seeking guide hire services. This coordinator position provided vantage for observing information asymmetries: guides knew desert conditions but had limited systematic way to share knowledge; customers made major decisions with incomplete information. This observation prompted her career shift toward intelligence-specialization.

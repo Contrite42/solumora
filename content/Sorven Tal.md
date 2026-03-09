@@ -2,6 +2,14 @@
 
 **Sorven Tal** is a [[Control Tier|T3]] specialist practitioner managing creature-product processing operations at a regional processing facility operating under merchant-house contract in [[Ashford]]. She is 41 years old, has specialized in creature-venom extraction and preservation for 16 years, and represents the specialist-tier extraction workforce facing critical conscription pressure.
 
+## Appearance
+
+Sorven is a woman in her early forties with the lean, precise build of someone who works with dangerous materials requiring absolute control. She has dark brown hair streaked with gray, usually tied back tightly to keep it completely away from her work. Her hands are her most distinctive feature — she has remarkably steady, careful hands with long fingers, and she keeps her nails trimmed extremely short for working with delicate extraction equipment.
+
+She dresses in the specialized protective clothing required for venom handling — heavy leather apron over tightly-fitted work clothes, reinforced gloves when actively working, protective eyewear. Outside the processing facility, she wears practical Ashford commercial-district clothing in dark, professional colors. She has several small scars on her forearms from minor venom exposures over the years, most now faded to thin white lines.
+
+Her face shows the focused intensity of someone who works with materials that will kill her if she makes a mistake. She has developed permanent slight squint lines from years of close work examining venom quality and purity. She moves with extreme deliberateness in her workspace — no sudden movements, no wasted motion, everything calculated. Outside work, this cautiousness persists as a general personality trait; colleagues note she thinks carefully before speaking and rarely acts impulsively.
+
 ## Background and Work
 
 Sorven discovered her Flux affinity at age 12 during general Flux assessment and was identified as T3-trajectory. Her family was insufficient to fund formal Flux education through [[Aldrane Academy]], so she apprenticed informally through family connections — her uncle worked creature-processing operations and brokered apprenticeship.

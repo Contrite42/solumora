@@ -2,6 +2,14 @@
 
 **Trell Orvn** is the senior market coordinator for [[Greyveil Trade Quarter]], managing grain distribution operations that keep northern [[Terravelle]]'s largest city fed. Age 49, [[Control Tier|T1]], with 16 years experience in Greyveil commercial coordination. He is not a merchant — he works for the city's trade coordination office, which means his role is mediating between competing interests rather than pursuing profit directly.
 
+## Appearance
+
+Trell is a man approaching fifty with the weathered look of someone who grew up doing agricultural work before transitioning to urban coordination roles. He has graying brown hair kept short in the practical northern style, a trim beard going salt-and-pepper, and the sun-weathered skin of someone who spent his formative years working outdoor farms. His hands still show old calluses from his youth doing physical agricultural labor, though they're less prominent now after sixteen years of coordination work.
+
+He dresses in the functional style of Greyveil commercial coordinators — sturdy wool tunics in neutral colors, heavy trousers suitable for long days moving between market plaza and warehouse districts, practical boots for walking cobblestone and dirt paths. He carries a worn leather satchel containing market records, warehouse reports, and the constantly-updated documentation that enables him to track grain supply in real-time.
+
+He has the posture and mannerisms of someone comfortable with authority but not attached to status — he moves through market spaces without fanfare, sits at negotiating tables with merchants and farmers with equal ease, and speaks with the calm directness of someone who has spent sixteen years explaining complex logistics to people under stress. His face shows the permanent slight frown lines of someone who deals with resource scarcity as primary job function.
+
 ## Background and Role
 
 Trell grew up in [[Northern Grain Corridor]] settlement (Keln Ridge, population ~600),understanding northern agricultural economics from childhood experience. Moved to [[Greyveil]] at age 27 for commercial apprenticeship, worked as contract scribe and warehouse coordinator before appointment to market coordination office at age 33.

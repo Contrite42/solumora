@@ -2,6 +2,14 @@
 
 **Vren Kost** operates [[Specialized Equipment Vendors|Kost's Equipment Provisioning]], the primary guild-affiliated equipment vendor serving expedition operations in [[Solhaven]]. She is [[Control Tier|T3]], age 48, with 24 years documented equipment-specialist experience and institutional reputation as uncompromising quality-standard enforcer.
 
+## Appearance
+
+Vren is a woman in her late forties with the practical build of a former field operative who has transitioned to less physically demanding work. She's lean but strong-looking, with visible joint scarring on her hands and a slight favoring of her left knee — lasting markers of twelve years conducting desert expeditions in harsh conditions. Her hair is dark brown going gray at the temples, kept in a short practical cut that needs minimal maintenance.
+
+She dresses in sturdy merchant-professional clothing that splits the difference between workshop functionality and vendor credibility — well-made tunics and trousers in dark, practical colors, leather apron when working with equipment, boots designed for standing long hours in her shop. She wears reading glasses on a cord around her neck, a recent concession to age that she adopted without apparent concern.
+
+Her hands show the distinctive wear patterns of someone who has spent decades handling expedition equipment — calluses from rope work, small scars from sharp metal fittings, permanently stained fingernails from equipment oils and treatments. She moves through her shop with absolute spatial awareness, never needing to look where equipment is stored. Her face has settled into the stern, assessing expression of someone whose professional reputation depends on telling customers uncomfortable truths about their inadequate preparation.
+
 ## Professional Background
 
 Vren began career as expedition practitioner (T3 Formulist, desert-crossing specialization) conducting approximately 12 major expeditions across southern [[Solumora]] between ages 14-26. Physical wear from field operations (joint damage from equipment-carrying, cumulative thermal exposure damage) prompted career transition toward equipment specialization where expertise could be applied without continued physical field stress.
