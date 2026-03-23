@@ -19,8 +19,14 @@ Start new work:
 3. Run PRE_FLIGHT.md checklist
 4. Execute work
 5. If decisions needed, add to DECISIONS.md
-6. Mark complete in TASK_QUEUE.md
+6. Delete completed task entries from TASK_QUEUE.md and clear completed task detail from TASK.md
 ```
+
+## Completion Policy
+
+- Completed tasks should be deleted from `agent/TASK_QUEUE.md` rather than retained as checked historical entries.
+- `agent/TASK.md` should only contain active work. When work is complete, delete the completed task detail instead of preserving it there.
+- If a short completion record is still needed for human coordination, keep it to a brief note in a non-control review surface rather than an archive-style task ledger.
 
 ## Reference Documentation
 
