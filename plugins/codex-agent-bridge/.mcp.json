@@ -1,0 +1,6 @@
+{
+  "codex-bridge": {
+    "command": "node",
+    "args": ["${CLAUDE_PLUGIN_ROOT}/servers/codex-bridge.mjs"]
+  }
+}

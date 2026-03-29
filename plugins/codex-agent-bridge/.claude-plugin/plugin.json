@@ -1,0 +1,4 @@
+{
+  "name": "codex-agent-bridge",
+  "description": "Claude Code plugin that exposes an OpenAI-backed Codex delegate and a spinnable codex-worker agent."
+}
